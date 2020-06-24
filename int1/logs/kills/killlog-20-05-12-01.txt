@@ -1,0 +1,9005 @@
+20-05-12 02:59:49    Kill Log Started
+--- 20-05-12 02:59:56
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 02:59:58
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:00:05
+RtP| LoKitoHcL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:00:05
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:00:05
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:00:06
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:00:12
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:00:14
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:00:14
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:00:18
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:00:20
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:00:25
+eX.- Zeratul
+RtP| LeprosycL
+LAW
+--- 20-05-12 03:00:27
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:00:32
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:00:33
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:00:34
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:00:38
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:00:41
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:00:41
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:00:41
+eX.- Ratzor
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:00:51
+RtP| LoKitoHcL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:00:55
+eX.- Ratzor
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:00:57
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:01:00
+eX.- Zeratul
+RtP| LeprosycL
+LAW
+--- 20-05-12 03:01:02
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:01:05
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:01:07
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:01:08
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:01:08
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:01:18
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:01:21
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:01:23
+eX.- Zeratul
+RtP| LeprosycL
+LAW
+--- 20-05-12 03:01:30
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:01:30
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:01:31
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:01:34
+eX.- Zeratul
+RtP| Breeze
+Spas-12
+--- 20-05-12 03:01:35
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:01:36
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:01:41
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:01:44
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:01:45
+RtP| LeprosycL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:01:51
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:01:51
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:01:51
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:01:55
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:01:57
+eX.- Ratzor
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:01:58
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:01:59
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:02:03
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:02:05
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:02:05
+RtP| LoKitoHcL
+eX.- Necro
+Grenade
+--- 20-05-12 03:02:15
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:02:16
+eX.- Zeratul
+RtP| Breeze
+Spas-12
+--- 20-05-12 03:02:16
+RtP| Breeze
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:02:24
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:02:25
+eX.- Zeratul
+RtP| LoKitoHcL
+LAW
+--- 20-05-12 03:02:26
+eX.- Ratzor
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:02:40
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:02:40
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:02:45
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:02:47
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:02:47
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:02:52
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:02:54
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:02:59
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:03:00
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:03:03
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:03:03
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:03:06
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:03:08
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:03:09
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:03:10
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:03:16
+eX.- Ratzor
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:03:18
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:03:20
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:03:23
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:03:28
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:03:32
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:03:35
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:03:39
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:03:42
+eX.- Zeratul
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:03:42
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:03:43
+eX.- Zeratul
+RtP| Breeze
+Grenade
+--- 20-05-12 03:03:50
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:03:51
+RtP| Breeze
+RtP| Breeze
+Grenade
+--- 20-05-12 03:03:52
+RtP| LoKitoHcL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:03:56
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:03:58
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:04:03
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:04:06
+eX.- Zeratul
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:04:06
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:04:10
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:04:14
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:04:20
+RtP| Breeze
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:04:20
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:04:24
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:04:27
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:04:31
+RtP| LoKitoHcL
+eX.- Ratzor
+Combat Knife
+--- 20-05-12 03:04:36
+eX.- Zeratul
+RtP| LeprosycL
+Barrett M82A1
+--- 20-05-12 03:04:38
+RtP| Breeze
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:04:39
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:04:42
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:04:44
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:04:46
+eX.- Ratzor
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:04:48
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:04:56
+eX.- Ratzor
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:04:56
+eX.- Zeratul
+RtP| LoKitoHcL
+Barrett M82A1
+--- 20-05-12 03:05:02
+eX.- Zeratul
+RtP| LeprosycL
+Barrett M82A1
+--- 20-05-12 03:05:08
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:05:12
+eX.- Zeratul
+RtP| LoKitoHcL
+Barrett M82A1
+--- 20-05-12 03:05:12
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:05:15
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:05:19
+eX.- Zeratul
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:05:19
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:05:22
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:05:26
+RtP| LoKitoHcL
+eX.- Ratzor
+M79
+--- 20-05-12 03:05:31
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:05:32
+RtP| LoKitoHcL
+eX.- Necro
+Grenade
+--- 20-05-12 03:05:35
+eX.- Ratzor
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:05:36
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:05:41
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:05:48
+eX.- Zeratul
+RtP| Breeze
+Grenade
+--- 20-05-12 03:05:50
+RtP| LoKitoHcL
+eX.- Necro
+M79
+--- 20-05-12 03:05:51
+RtP| LoKitoHcL
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:05:52
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:05:54
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:06:01
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:06:01
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:06:05
+RtP| Breeze
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:06:05
+RtP| LoKitoHcL
+eX.- Zeratul
+USSOCOM
+--- 20-05-12 03:06:06
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:06:08
+eX.- Necro
+RtP| LoKitoHcL
+Ak-74
+--- 20-05-12 03:06:13
+RtP| LeprosycL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:06:15
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:06:20
+RtP| LoKitoHcL
+eX.- Zeratul
+M79
+--- 20-05-12 03:06:22
+eX.- Necro
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:06:22
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:06:27
+eX.- Ratzor
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:06:29
+RtP| LoKitoHcL
+eX.- Necro
+USSOCOM
+--- 20-05-12 03:06:31
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:06:35
+eX.- Zeratul
+RtP| Breeze
+Spas-12
+--- 20-05-12 03:06:36
+RtP| LoKitoHcL
+eX.- Zeratul
+M79
+--- 20-05-12 03:06:38
+RtP| LoKitoHcL
+eX.- Ratzor
+M79
+--- 20-05-12 03:06:39
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:06:40
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:06:47
+RtP| LoKitoHcL
+eX.- Necro
+M79
+--- 20-05-12 03:06:49
+RtP| Breeze
+eX.- Ratzor
+Ruger 77
+--- 20-05-12 03:06:52
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:06:52
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:06:54
+eX.- Necro
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:06:58
+RtP| LoKitoHcL
+eX.- Ratzor
+M79
+--- 20-05-12 03:07:04
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:07:07
+eX.- Ratzor
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:07:08
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:07:11
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:07:13
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:07:13
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:07:15
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:07:21
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:07:22
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:07:24
+RtP| LoKitoHcL
+eX.- Zeratul
+M79
+--- 20-05-12 03:07:24
+eX.- Zeratul
+RtP| Breeze
+Spas-12
+--- 20-05-12 03:07:26
+RtP| LeprosycL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:07:30
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:07:31
+eX.- Zeratul
+RtP| LeprosycL
+Spas-12
+--- 20-05-12 03:07:35
+RtP| Breeze
+eX.- Zeratul
+M79
+--- 20-05-12 03:07:37
+eX.- Ratzor
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:07:39
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:07:41
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:07:43
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:07:48
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:07:52
+eX.- Ratzor
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:07:53
+eX.- Zeratul
+RtP| LoKitoHcL
+Spas-12
+--- 20-05-12 03:07:53
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:07:56
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:07:57
+eX.- Ratzor
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:07:59
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:08:40
+RtP| LeprosycL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:08:43
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:08:43
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:08:44
+RtP| LeprosycL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:08:50
+RtP| Breeze
+eX.- Necro
+M79
+--- 20-05-12 03:08:51
+RtP| Breeze
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:08:57
+RtP| Breeze
+eX.- Necro
+M79
+--- 20-05-12 03:09:01
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:09:03
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:09:10
+RtP| Breeze
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:09:11
+eX.- Ratzor
+RtP| LeprosycL
+Barrett M82A1
+--- 20-05-12 03:09:16
+eX.- Ratzor
+RtP| Breeze
+Barrett M82A1
+--- 20-05-12 03:09:22
+RtP| Breeze
+eX.-  j4zz
+M79
+--- 20-05-12 03:09:28
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:09:32
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:09:34
+RtP| Breeze
+eX.-  j4zz
+M79
+--- 20-05-12 03:09:34
+eX.-  j4zz
+RtP| Breeze
+FN Minimi
+--- 20-05-12 03:09:36
+RtP| LoKitoHcL
+eX.- Ratzor
+M79
+--- 20-05-12 03:09:39
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:09:47
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:09:47
+eX.- Ratzor
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:09:48
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:09:49
+eX.-  j4zz
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:09:51
+RtP| Breeze
+eX.-  j4zz
+M79
+--- 20-05-12 03:09:55
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:09:57
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:10:04
+RtP| Breeze
+eX.-  j4zz
+M79
+--- 20-05-12 03:10:04
+eX.-  j4zz
+RtP| Breeze
+Grenade
+--- 20-05-12 03:10:05
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:10:10
+RtP| LeprosycL
+eX.-  j4zz
+Hands
+--- 20-05-12 03:10:13
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:10:17
+eX.- Necro
+RtP| LeprosycL
+Spas-12
+--- 20-05-12 03:10:23
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:10:33
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:10:37
+eX.-  j4zz
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:10:39
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:10:39
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:10:43
+RtP| Shuter
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:10:55
+RtP| Shuter
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:11:01
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:11:01
+eX.-  j4zz
+RtP| Shuter
+Grenade
+--- 20-05-12 03:11:07
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:11:25
+eX.- Necro
+RtP| Shuter
+Spas-12
+--- 20-05-12 03:11:27
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:11:30
+eX.- Necro
+RtP| Shuter
+Spas-12
+--- 20-05-12 03:11:32
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:11:34
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:11:35
+eX.- Necro
+RtP| Shuter
+Spas-12
+--- 20-05-12 03:11:38
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:11:39
+eX.- Necro
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:11:50
+eX.- Ratzor
+RtP| Shuter
+Barrett M82A1
+--- 20-05-12 03:11:51
+eX.- Ratzor
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:11:54
+RtP| LoKitoHcL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:11:54
+RtP| LoKitoHcL
+eX.- Necro
+Grenade
+--- 20-05-12 03:12:02
+eX.-  j4zz
+RtP| Shuter
+FN Minimi
+--- 20-05-12 03:12:08
+eX.- Ratzor
+RtP| LeprosycL
+Barrett M82A1
+--- 20-05-12 03:12:10
+RtP| Shuter
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:12:13
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:12:13
+eX.- Necro
+RtP| Shuter
+Spas-12
+--- 20-05-12 03:12:16
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:12:17
+eX.- Ratzor
+RtP| LeprosycL
+Barrett M82A1
+--- 20-05-12 03:12:24
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:12:25
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:12:25
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:12:31
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:12:32
+eX.- Ratzor
+RtP| SontercL
+Barrett M82A1
+--- 20-05-12 03:12:37
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:12:38
+RtP| Shuter
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:12:38
+eX.-  j4zz
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:12:44
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:12:48
+eX.-  j4zz
+RtP| SontercL
+Grenade
+--- 20-05-12 03:12:54
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:12:54
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:12:59
+eX.-  j4zz
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:13:02
+eX.-  j4zz
+RtP| Breeze
+LAW
+--- 20-05-12 03:13:05
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:13:05
+eX.- Necro
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:13:11
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:13:22
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:13:22
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:13:35
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:13:36
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:13:37
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:13:41
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:13:44
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:13:44
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:13:45
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:13:49
+eX.-  j4zz
+RtP| LoKitoHcL
+LAW
+--- 20-05-12 03:13:50
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:13:54
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:13:56
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:13:59
+eX.- Necro
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:14:00
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:14:02
+eX.-  j4zz
+RtP| SontercL
+HK MP5
+--- 20-05-12 03:14:04
+RtP| LoKitoHcL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:14:08
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:14:08
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:14:08
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:14:09
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:14:12
+RtP| LeprosycL
+eX.-  j4zz
+LAW
+--- 20-05-12 03:14:16
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:14:17
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:14:20
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:14:22
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:14:23
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:14:28
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:14:32
+eX.- Ratzor
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:14:34
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:14:36
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:14:40
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:14:42
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:14:46
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:14:48
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:14:51
+RtP| SontercL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:14:53
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:14:56
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:15:01
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:15:06
+eX.- Ratzor
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:15:07
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:15:12
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:15:14
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:15:15
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:15:16
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:15:18
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:15:20
+RtP| LoKitoHcL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:15:21
+RtP| LeprosycL
+eX.- Necro
+LAW
+--- 20-05-12 03:15:23
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:15:23
+eX.- Ratzor
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:15:30
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:15:30
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:15:33
+eX.- Ratzor
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:15:36
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:15:40
+eX.- Necro
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:15:41
+RtP| LoKitoHcL
+eX.- Ratzor
+Combat Knife
+--- 20-05-12 03:15:44
+eX.-  j4zz
+RtP| LoKitoHcL
+HK MP5
+--- 20-05-12 03:15:44
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:15:51
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:15:53
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:15:58
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:15:59
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:16:00
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:16:01
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:16:02
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:16:05
+eX.- Ratzor
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:16:10
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:16:11
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:16:14
+eX.- Necro
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:16:15
+RtP| SontercL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:16:16
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:16:19
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:16:20
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:16:23
+RtP| LoKitoHcL
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:16:23
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:16:27
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:16:28
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:16:32
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:16:32
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:16:39
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:16:39
+eX.- Necro
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:16:40
+RtP| LeprosycL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:16:43
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:16:43
+eX.- Ratzor
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:16:44
+eX.- Necro
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:16:47
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:16:49
+eX.- Ratzor
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:16:51
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:16:56
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:16:58
+RtP| LeprosycL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:16:58
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:17:02
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:17:05
+eX.- Ratzor
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:17:06
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:17:08
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:17:11
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:17:14
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:17:14
+eX.- Necro
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:17:20
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:17:23
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:17:29
+RtP| LeprosycL
+eX.- Necro
+LAW
+--- 20-05-12 03:17:30
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:17:32
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:17:35
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:17:38
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:17:39
+eX.- Ratzor
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:17:40
+eX.-  j4zz
+RtP| SontercL
+HK MP5
+--- 20-05-12 03:17:43
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:17:46
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:17:47
+eX.- Necro
+RtP| SontercL
+Grenade
+--- 20-05-12 03:17:48
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:17:50
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:17:50
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:17:57
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:17:57
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:18:01
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:18:04
+eX.-  j4zz
+RtP| LoKitoHcL
+HK MP5
+--- 20-05-12 03:18:04
+RtP| LoKitoHcL
+eX.-  j4zz
+Combat Knife
+--- 20-05-12 03:18:05
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:18:09
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:18:10
+RtP| LeprosycL
+eX.-  j4zz
+LAW
+--- 20-05-12 03:18:12
+eX.- Ratzor
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:18:15
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:18:15
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:18:17
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:18:20
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:18:25
+RtP| LoKitoHcL
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:18:25
+RtP| LoKitoHcL
+eX.- Necro
+Grenade
+--- 20-05-12 03:18:25
+eX.- Necro
+RtP| SontercL
+Grenade
+--- 20-05-12 03:18:26
+eX.- Necro
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:18:32
+eX.- Ratzor
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:18:32
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:18:33
+eX.-  j4zz
+RtP| SontercL
+HK MP5
+--- 20-05-12 03:18:34
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:18:41
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:18:42
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:18:44
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:18:47
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:18:48
+RtP| LeprosycL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:18:51
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:18:52
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:18:55
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:18:56
+eX.- Necro
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:18:58
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:19:00
+RtP| SontercL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:19:05
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:19:07
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:19:08
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:19:11
+eX.-  j4zz
+RtP| SontercL
+Grenade
+--- 20-05-12 03:19:13
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:19:19
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:19:21
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:19:21
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:19:22
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:19:29
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:19:30
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:19:30
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:19:31
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:19:37
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:19:37
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:19:40
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:19:42
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:19:48
+RtP| LoKitoHcL
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:19:49
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:19:51
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:19:53
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:19:55
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:19:59
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:20:02
+RtP| LeprosycL
+RtP| LeprosycL
+LAW
+--- 20-05-12 03:20:03
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:20:05
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:20:10
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:20:11
+RtP| LoKitoHcL
+eX.- Necro
+Grenade
+--- 20-05-12 03:20:14
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:20:19
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:20:20
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:20:22
+eX.- Necro
+eX.- Necro
+M79
+--- 20-05-12 03:20:26
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:20:26
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:20:29
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:20:32
+eX.- Necro
+RtP| LoKitoHcL
+Ak-74
+--- 20-05-12 03:20:34
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:20:34
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:20:38
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:20:41
+RtP| SontercL
+eX.-  j4zz
+LAW
+--- 20-05-12 03:20:44
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:20:46
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:20:50
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:20:53
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:20:55
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:20:58
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:20:58
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:21:00
+eX.-  j4zz
+RtP| SontercL
+HK MP5
+--- 20-05-12 03:21:04
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:21:05
+RtP| SontercL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:21:05
+eX.- Ratzor
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:21:10
+RtP| LoKitoHcL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:21:11
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:21:13
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:21:13
+RtP| SontercL
+RtP| SontercL
+Grenade
+--- 20-05-12 03:21:19
+eX.-  j4zz
+RtP| SontercL
+HK MP5
+--- 20-05-12 03:21:20
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:21:21
+RtP| LeprosycL
+eX.- Necro
+LAW
+--- 20-05-12 03:21:28
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:21:32
+eX.- Ratzor
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:21:33
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:21:33
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:21:38
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:21:38
+RtP| SontercL
+RtP| SontercL
+Grenade
+--- 20-05-12 03:21:44
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:21:46
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:21:53
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:21:53
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:21:56
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:21:56
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:21:58
+eX.- Necro
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:22:01
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:22:08
+eX.-  j4zz
+RtP| LeprosycL
+HK MP5
+--- 20-05-12 03:22:10
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:22:12
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:22:14
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:22:17
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:22:23
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:22:23
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:22:25
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:22:26
+eX.-  j4zz
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:22:31
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:22:31
+RtP| SontercL
+eX.-  j4zz
+LAW
+--- 20-05-12 03:22:32
+eX.-  j4zz
+RtP| SontercL
+Grenade
+--- 20-05-12 03:22:34
+RtP| LoKitoHcL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:22:37
+eX.-  j4zz
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:22:38
+eX.- Necro
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:22:39
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:22:41
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:22:45
+eX.-  j4zz
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:22:45
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:22:51
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:22:52
+eX.-  j4zz
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:22:52
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:22:53
+RtP| SontercL
+eX.-  j4zz
+FN Minimi
+--- 20-05-12 03:22:57
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:22:58
+RtP| LoKitoHcL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:23:05
+eX.-  j4zz
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:23:05
+RtP| LeprosycL
+eX.-  j4zz
+Steyr AUG
+--- 20-05-12 03:23:06
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:23:06
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:23:12
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:23:14
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:23:14
+eX.-  j4zz
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:23:14
+eX.-  j4zz
+eX.-  j4zz
+Grenade
+--- 20-05-12 03:23:19
+eX.- Necro
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:23:21
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:23:25
+eX.-  j4zz
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:23:25
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:24:27
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:24:27
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:24:32
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:24:33
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:24:37
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:24:41
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:24:44
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:24:44
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:25:08
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:25:08
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:25:09
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:25:15
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:25:15
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:25:22
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:25:24
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:25:26
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:25:28
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:25:28
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:25:29
+eX.- Ratzor
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:25:32
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:25:34
+eX.- Zeratul
+RtP| SontercL
+Grenade
+--- 20-05-12 03:25:35
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:25:38
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:25:42
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:25:43
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:25:46
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:25:47
+eX.- Zeratul
+RtP| LeprosycL
+Ruger 77
+--- 20-05-12 03:25:49
+RtP| SontercL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:25:50
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:25:56
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:25:56
+eX.- Zeratul
+RtP| LeprosycL
+Ruger 77
+--- 20-05-12 03:25:58
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:25:59
+RtP| SontercL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:26:00
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:26:06
+eX.- Zeratul
+RtP| LeprosycL
+Ruger 77
+--- 20-05-12 03:26:07
+RtP| Breeze
+eX.- Necro
+M79
+--- 20-05-12 03:26:07
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:26:13
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:26:14
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:26:15
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:26:21
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:26:21
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:26:22
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:26:28
+RtP| SontercL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:26:29
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:26:33
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:26:35
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:26:35
+RtP| SontercL
+RtP| SontercL
+Grenade
+--- 20-05-12 03:26:37
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:26:40
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:26:42
+eX.- Zeratul
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:26:42
+RtP| Breeze
+eX.- Zeratul
+M79
+--- 20-05-12 03:26:44
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:26:49
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:26:51
+eX.- Zeratul
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:26:54
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:26:57
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:26:57
+RtP| Breeze
+eX.- Ratzor
+Combat Knife
+--- 20-05-12 03:26:59
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:27:02
+RtP| Breeze
+eX.- Ratzor
+M79
+--- 20-05-12 03:27:02
+eX.- Zeratul
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:27:04
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:27:04
+eX.- Zeratul
+RtP| SontercL
+Grenade
+--- 20-05-12 03:27:08
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:27:10
+eX.- Zeratul
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:27:15
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:27:20
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:27:20
+RtP| Breeze
+eX.- Necro
+M79
+--- 20-05-12 03:27:22
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:27:27
+eX.- Zeratul
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:27:30
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:27:32
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:27:35
+eX.- Ratzor
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:27:35
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:27:37
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:27:41
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:27:46
+eX.- Zeratul
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:27:46
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:27:49
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:27:51
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:27:51
+eX.- Zeratul
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:28:01
+RtP| Breeze
+eX.- Zeratul
+M79
+--- 20-05-12 03:28:03
+RtP| Breeze
+eX.- Ratzor
+Combat Knife
+--- 20-05-12 03:28:05
+RtP| Breeze
+eX.- Zeratul
+M79
+--- 20-05-12 03:28:08
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:28:08
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:28:14
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:28:14
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:28:19
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:28:20
+eX.- Necro
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:28:20
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:28:23
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:28:25
+eX.- Zeratul
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:28:29
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:28:31
+RtP| Breeze
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:28:32
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:28:37
+RtP| Breeze
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:28:37
+eX.- Ratzor
+RtP| Breeze
+FN Minimi
+--- 20-05-12 03:28:41
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:28:45
+eX.- Necro
+RtP| Breeze
+M79
+--- 20-05-12 03:28:45
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:28:51
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:28:51
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:28:52
+eX.- Zeratul
+RtP| LeprosycL
+Steyr AUG
+--- 20-05-12 03:28:55
+RtP| Breeze
+eX.- Necro
+Grenade
+--- 20-05-12 03:29:00
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:29:01
+eX.- Zeratul
+RtP| Breeze
+Grenade
+--- 20-05-12 03:29:06
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:29:09
+eX.- Necro
+RtP| Breeze
+Combat Knife
+--- 20-05-12 03:29:12
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:29:16
+eX.- Ratzor
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:29:16
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:29:18
+eX.- Zeratul
+RtP| SontercL
+Grenade
+--- 20-05-12 03:29:20
+eX.- Zeratul
+RtP| Breeze
+Steyr AUG
+--- 20-05-12 03:29:21
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:29:24
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:29:30
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:29:30
+eX.- Ratzor
+RtP| LeprosycL
+Combat Knife
+--- 20-05-12 03:29:31
+eX.- Ratzor
+RtP| Breeze
+Grenade
+--- 20-05-12 03:29:33
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:31:23
+RtP| LoKitoHcL
+RtP| LoKitoHcL
+Selfkill
+--- 20-05-12 03:31:29
+eX.- Zeratul
+RtP| SontercL
+Steyr AUG
+--- 20-05-12 03:31:31
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:31:35
+eX.- Necro
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:31:37
+RtP| LoKitoHcL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:31:42
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:31:43
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:31:50
+RtP| SontercL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:31:56
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:32:00
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:32:02
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:32:03
+eX.- Zeratul
+RtP| LoKitoHcL
+Steyr AUG
+--- 20-05-12 03:32:06
+RtP| LeprosycL
+eX.- Ratzor
+LAW
+--- 20-05-12 03:32:09
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:32:09
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:32:10
+RtP| SontercL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:32:18
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:32:19
+eX.- Necro
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:32:19
+eX.- Zeratul
+RtP| LeprosycL
+Desert Eagles
+--- 20-05-12 03:32:25
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:32:28
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:32:28
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:32:33
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:32:33
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:32:36
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:32:36
+RtP| SontercL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:32:39
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:32:42
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:32:42
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:32:45
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:32:47
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:32:49
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:32:51
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:32:52
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:32:55
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:32:58
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:32:59
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:33:02
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:33:05
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:33:06
+RtP| LoKitoHcL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:33:08
+RtP| LeprosycL
+eX.- Zeratul
+LAW
+--- 20-05-12 03:33:08
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:33:15
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:33:17
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:33:17
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:33:17
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:33:17
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:33:23
+RtP| LeprosycL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:33:24
+eX.- Zeratul
+RtP| LeprosycL
+Desert Eagles
+--- 20-05-12 03:33:26
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:33:28
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:33:29
+eX.- Zeratul
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:33:32
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:33:33
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:33:36
+eX.- Ratzor
+RtP| SontercL
+Combat Knife
+--- 20-05-12 03:33:36
+RtP| SontercL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:33:39
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:33:39
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:33:44
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:33:44
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:33:45
+RtP| LoKitoHcL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:33:50
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:33:51
+RtP| SontercL
+eX.- Ratzor
+HK MP5
+--- 20-05-12 03:33:56
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:33:57
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:34:00
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:34:03
+RtP| SontercL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:34:06
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:34:06
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:34:07
+RtP| SontercL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:34:13
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:34:13
+RtP| LeprosycL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:34:16
+eX.- Ratzor
+RtP| SontercL
+Grenade
+--- 20-05-12 03:34:18
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:34:23
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:34:25
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:34:30
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:34:31
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:34:31
+eX.- Ratzor
+RtP| LoKitoHcL
+Combat Knife
+--- 20-05-12 03:34:33
+eX.- Necro
+RtP| SontercL
+Grenade
+--- 20-05-12 03:34:35
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:34:39
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:34:44
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:34:48
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:34:52
+eX.- Necro
+RtP| LeprosycL
+M79
+--- 20-05-12 03:34:54
+RtP| SontercL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:35:01
+RtP| SontercL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:35:04
+eX.- Ratzor
+RtP| SontercL
+FN Minimi
+--- 20-05-12 03:35:05
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:35:06
+eX.- Zeratul
+RtP| LeprosycL
+Desert Eagles
+--- 20-05-12 03:35:11
+RtP| SontercL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:35:14
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:35:15
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:35:17
+RtP| LoKitoHcL
+eX.- Ratzor
+Grenade
+--- 20-05-12 03:35:20
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:35:27
+RtP| SontercL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:35:29
+RtP| LoKitoHcL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:35:30
+RtP| LeprosycL
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:35:35
+eX.- Ratzor
+RtP| LoKitoHcL
+FN Minimi
+--- 20-05-12 03:35:37
+RtP| LeprosycL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:35:37
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:35:38
+eX.- Necro
+RtP| SontercL
+M79
+--- 20-05-12 03:35:39
+RtP| LeprosycL
+eX.- Necro
+Grenade
+--- 20-05-12 03:35:45
+eX.- Zeratul
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:35:45
+RtP| LoKitoHcL
+eX.- Zeratul
+Grenade
+--- 20-05-12 03:35:49
+RtP| SontercL
+eX.- Necro
+Grenade
+--- 20-05-12 03:35:51
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:35:52
+eX.- Ratzor
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:35:56
+eX.- Zeratul
+RtP| SontercL
+Desert Eagles
+--- 20-05-12 03:35:56
+RtP| SontercL
+eX.- Zeratul
+Steyr AUG
+--- 20-05-12 03:35:57
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:35:59
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:36:03
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:36:03
+eX.- Ratzor
+RtP| LeprosycL
+FN Minimi
+--- 20-05-12 03:36:07
+eX.- Zeratul
+RtP| LoKitoHcL
+Desert Eagles
+--- 20-05-12 03:36:11
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:36:15
+eX.- Necro
+RtP| LoKitoHcL
+M79
+--- 20-05-12 03:36:15
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:36:16
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:36:19
+eX.- Zeratul
+RtP| SontercL
+Desert Eagles
+--- 20-05-12 03:36:27
+RtP| LeprosycL
+eX.- Ratzor
+Steyr AUG
+--- 20-05-12 03:36:29
+eX.- Zeratul
+RtP| LeprosycL
+Desert Eagles
+--- 20-05-12 03:36:31
+RtP| SontercL
+eX.- Necro
+LAW
+--- 20-05-12 03:36:37
+eX.- Zeratul
+RtP| LeprosycL
+Grenade
+--- 20-05-12 03:36:38
+RtP| SontercL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:36:40
+eX.- Necro
+RtP| LoKitoHcL
+Grenade
+--- 20-05-12 03:36:43
+RtP| LeprosycL
+eX.- Necro
+Steyr AUG
+--- 20-05-12 03:36:44
+RtP| SontercL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 03:36:50
+RtP| LoKitoHcL
+eX.- Zeratul
+FN Minimi
+--- 20-05-12 03:36:51
+eX.- Necro
+RtP| LeprosycL
+Spas-12
+--- 20-05-12 03:36:52
+RtP| LoKitoHcL
+eX.- Necro
+FN Minimi
+--- 20-05-12 03:36:57
+RtP| LoKitoHcL
+eX.- Ratzor
+FN Minimi
+--- 20-05-12 23:58:02
+wp.mipHo
+=E*R= Sadiko
+Spas-12
+--- 20-05-12 23:58:19
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:58:29
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:58:35
+wp.mipHo
+=E*R= Sadiko
+LAW
+--- 20-05-12 23:58:40
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:58:41
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:58:46
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:58:50
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:58:54
+=E*R= Sadiko
+wp.mipHo
+LAW
+--- 20-05-12 23:58:59
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:59:14
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:59:20
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:59:42
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:59:46
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-12 23:59:51
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-12 23:59:57
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:00:06
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:00:13
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:00:22
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:00:27
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:00:37
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:00:44
+=E*R= Sadiko
+wp.mipHo
+LAW
+--- 20-05-13 00:00:50
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:00:50
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:00:59
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:01:05
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:01:14
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:01:28
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:01:41
+wp.mipHo
+=E*R= Sadiko
+HK MP5
+--- 20-05-13 00:01:48
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:01:56
+wp.mipHo
+=E*R= Sadiko
+Grenade
+--- 20-05-13 00:02:25
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:02:36
+=E*R= Sadiko
+=E*R= Sadiko
+Grenade
+--- 20-05-13 00:02:48
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:02:57
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:03:03
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:03:13
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:03:22
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:03:22
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:03:27
+=E*R= Sadiko
+wp.mipHo
+LAW
+--- 20-05-13 00:03:34
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:03:40
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:03:48
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:03:57
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:04:02
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:04:08
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:04:12
+wp.mipHo
+=E*R= Sadiko
+Hands
+--- 20-05-13 00:04:28
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:04:34
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:04:45
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:04:59
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:05:07
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:05:27
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:05:35
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:05:44
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:05:48
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:05:54
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:06:01
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:06:04
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:06:04
+wp.mipHo
+=E*R= Sadiko
+LAW
+--- 20-05-13 00:06:16
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:06:24
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:06:28
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:06:37
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:06:43
+wp.mipHo
+=E*R= Sadiko
+Grenade
+--- 20-05-13 00:06:49
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:06:57
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:07:01
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:07:05
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:07:10
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:07:14
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:07:19
+=E*R= Sadiko
+wp.mipHo
+LAW
+--- 20-05-13 00:07:23
+wp.mipHo
+=E*R= Sadiko
+Steyr AUG
+--- 20-05-13 00:07:24
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:07:30
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:07:34
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:07:43
+=E*R= Sadiko
+wp.mipHo
+Grenade
+--- 20-05-13 00:07:47
+wp.mipHo
+=E*R= Sadiko
+Ruger 77
+--- 20-05-13 00:07:58
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:08:06
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:08:12
+=E*R= Sadiko
+wp.mipHo
+Desert Eagles
+--- 20-05-13 00:08:40
+wp.mipHo
+=E*R= Sadiko
+Spas-12
+--- 20-05-13 00:09:07
+wp.mipHo
+wp.mipHo
+Selfkill
+--- 20-05-13 00:09:30
+wp.mipHo
+=E*R= Sadiko
+Desert Eagles
+--- 20-05-17 00:13:42
+wp.rattle
+wp.rattle
+Grenade
+--- 20-05-17 00:13:51
+wp.rattle
+|D.Forc3|WildR4P`
+Combat Knife
+--- 20-05-17 00:14:09
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:14:14
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:14:40
+wp.rattle
+|D.Forc3|WildR4P`
+USSOCOM
+--- 20-05-17 00:14:49
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:14:55
+wp.rattle
+|D.Forc3|WildR4P`
+USSOCOM
+--- 20-05-17 00:15:11
+wp.rattle
+|D.Forc3|WildR4P`
+USSOCOM
+--- 20-05-17 00:15:16
+wp.rattle
+|D.Forc3|WildR4P`
+USSOCOM
+--- 20-05-17 00:15:22
+|D.Forc3|WildR4P`
+wp.rattle
+Combat Knife
+--- 20-05-17 00:15:34
+wp.rattle
+|D.Forc3|WildR4P`
+USSOCOM
+--- 20-05-17 00:16:07
+wp.rattle
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:16:13
+wp.rattle
+|D.Forc3|WildR4P`
+Grenade
+--- 20-05-17 00:16:25
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:16:30
+|D.Forc3|WildR4P`
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:16:52
+wp.rattle
+|D.Forc3|WildR4P`
+Grenade
+--- 20-05-17 00:17:11
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:17:18
+|D.Forc3|WildR4P`
+wp.rattle
+M79
+--- 20-05-17 00:17:28
+wp.rattle
+wp.rattle
+Grenade
+--- 20-05-17 00:17:40
+|D.Forc3|WildR4P`
+manco en DD
+M79
+--- 20-05-17 00:17:40
+manco en DD
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:17:49
+manco en DD
+|D.Forc3|WildR4P`
+Grenade
+--- 20-05-17 00:18:25
+manco en DD
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:18:35
+manco en DD
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:18:58
+|D.Forc3|WildR4P`
+manco en DD
+M79
+--- 20-05-17 00:19:46
+|D.Forc3|WildR4P`
+manco en DD
+M79
+--- 20-05-17 00:19:56
+manco en DD
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:20:04
+|D.Forc3|WildR4P`
+manco en DD
+Grenade
+--- 20-05-17 00:20:31
+|D.Forc3|WildR4P`
+manco en DD
+M79
+--- 20-05-17 00:20:45
+manco en DD
+|D.Forc3|WildR4P`
+M79
+--- 20-05-17 00:20:46
+|D.Forc3|WildR4P`
+manco en DD
+M79
+--- 20-05-17 00:20:55
+manco en DD
+|D.Forc3|WildR4P`
+Grenade
+--- 20-05-17 00:21:54
+manco en DD
+manco en DD
+M79
+--- 20-05-17 00:22:02
+#1 Mand3s
+manco en DD
+M79
+--- 20-05-17 00:22:39
+#1 Mand3s
+manco en DD
+M79
+--- 20-05-17 00:22:48
+manco en DD
+#1 Mand3s
+M79
+--- 20-05-17 00:22:55
+#1 Mand3s
+manco en DD
+Grenade
+--- 20-05-17 00:23:53
+#1 Mand3s
+manco en DD
+M79
+--- 20-05-17 00:24:22
+manco en DD
+#1 Mand3s
+M79
+--- 20-05-17 00:24:31
+#1 Mand3s
+manco en DD
+M79
+--- 20-05-17 00:24:56
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-05-17 00:25:10
+uoL| chub0
+uoL| chub0
+M79
+--- 20-05-17 00:25:52
+uoL| chub0
+#1 Mand3s
+LAW
+--- 20-05-17 00:26:03
+#1 Mand3s
+uoL| chub0
+M79
+--- 20-05-17 00:26:49
+#1 Mand3s
+uoL| chub0
+M79
+--- 20-05-17 00:26:49
+uoL| chub0
+#1 Mand3s
+Grenade
+--- 20-05-17 00:27:05
+uoL| chub0
+#1 Mand3s
+LAW
+--- 20-05-17 00:27:09
+uoL| chub0
+#1 Mand3s
+M79
+--- 20-05-17 00:27:37
+#1 Mand3s
+uoL| chub0
+USSOCOM
+--- 20-05-17 00:27:43
+#1 Mand3s
+uoL| chub0
+USSOCOM
+--- 20-05-17 00:28:08
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:28:29
+wp.mipHo
+#1 Mand3s
+Grenade
+--- 20-05-17 00:28:39
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:29:33
+#1 Mand3s
+wp.mipHo
+M79
+--- 20-05-17 00:29:49
+wp.mipHo
+wp.mipHo
+M79
+--- 20-05-17 00:29:49
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:29:56
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:30:08
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:30:18
+#1 Mand3s
+wp.mipHo
+M79
+--- 20-05-17 00:31:04
+#1 Mand3s
+wp.mipHo
+M79
+--- 20-05-17 00:31:10
+#1 Mand3s
+wp.mipHo
+Grenade
+--- 20-05-17 00:31:28
+#1 Mand3s
+wp.mipHo
+M79
+--- 20-05-17 00:31:34
+wp.mipHo
+#1 Mand3s
+Grenade
+--- 20-05-17 00:31:45
+wp.mipHo
+#1 Mand3s
+Combat Knife
+--- 20-05-17 00:31:46
+#1 Mand3s
+wp.mipHo
+USSOCOM
+--- 20-05-17 00:32:05
+#1 Mand3s
+wp.mipHo
+M79
+--- 20-05-17 00:32:17
+wp.mipHo
+#1 Mand3s
+M79
+--- 20-05-17 00:33:26
+#1 Mand3s
+wp.rattle
+M79
+--- 20-05-17 00:33:36
+wp.rattle
+#1 Mand3s
+Combat Knife
+--- 20-05-17 00:33:46
+wp.rattle
+#1 Mand3s
+M79
+--- 20-05-17 00:33:53
+#1 Mand3s
+wp.rattle
+Combat Knife
+--- 20-05-17 00:34:09
+#1 Mand3s
+wp.rattle
+M79
+--- 20-05-17 00:34:09
+wp.rattle
+#1 Mand3s
+M79
+--- 20-05-17 00:34:18
+#1 Mand3s
+wp.rattle
+USSOCOM
+--- 20-05-17 00:34:50
+#1 Mand3s
+wp.rattle
+M79
+--- 20-05-17 00:34:57
+#1 Mand3s
+wp.rattle
+Grenade
+--- 20-05-17 06:59:26
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 06:59:31
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:00:00
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:00:05
+HartCheat]
+later Maaxis* (New guy)
+Spas-12
+--- 20-05-17 07:00:10
+later Maaxis* (New guy)
+HartCheat]
+Combat Knife
+--- 20-05-17 07:00:18
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:00:44
+HartCheat]
+later Maaxis* (New guy)
+Hands
+--- 20-05-17 07:00:59
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:01:07
+HartCheat]
+later Maaxis* (New guy)
+Spas-12
+--- 20-05-17 07:01:12
+later Maaxis* (New guy)
+HartCheat]
+Combat Knife
+--- 20-05-17 07:01:18
+HartCheat]
+Exterminia
+Spas-12
+--- 20-05-17 07:01:23
+later Maaxis* (New guy)
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:01:27
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:01:32
+later Maaxis* (New guy)
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:01:38
+later Maaxis* (New guy)
+!F. MotA
+M79
+--- 20-05-17 07:01:46
+later Maaxis* (New guy)
+HartCheat]
+M79
+--- 20-05-17 07:02:01
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:02:22
+!F. MotA
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:02:35
+Exterminia
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:02:39
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:02:44
+later Maaxis* (New guy)
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:02:47
+HartCheat]
+Exterminia
+Barrett M82A1
+--- 20-05-17 07:03:00
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:03:02
+Exterminia
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:03:07
+HartCheat]
+later Maaxis* (New guy)
+Combat Knife
+--- 20-05-17 07:03:11
+HartCheat]
+Exterminia
+Barrett M82A1
+--- 20-05-17 07:03:18
+Exterminia
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:03:22
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:03:31
+later Maaxis* (New guy)
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:03:42
+HartCheat]
+Exterminia
+Barrett M82A1
+--- 20-05-17 07:03:56
+!F. MotA
+Exterminia
+Ak-74
+--- 20-05-17 07:04:00
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:04:09
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:04:43
+!F. MotA
+Exterminia
+Barrett M82A1
+--- 20-05-17 07:04:45
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:04:55
+later Maaxis* (New guy)
+!F. MotA
+Grenade
+--- 20-05-17 07:05:16
+later Maaxis* (New guy)
+!F. MotA
+Barrett M82A1
+--- 20-05-17 07:05:27
+!F. MotA
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:05:31
+later Maaxis* (New guy)
+!F. MotA
+Combat Knife
+--- 20-05-17 07:05:38
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:05:43
+later Maaxis* (New guy)
+HartCheat]
+Combat Knife
+--- 20-05-17 07:06:03
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:06:29
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:06:36
+HartCheat]
+later Maaxis* (New guy)
+M79
+--- 20-05-17 07:06:44
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:06:50
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:06:56
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:07:04
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:07:15
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:07:19
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:07:32
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:07:45
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:08:10
+HartCheat]
+later Maaxis* (New guy)
+Barrett M82A1
+--- 20-05-17 07:08:24
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:08:35
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:08:45
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:09:03
+HartCheat]
+later Maaxis* (New guy)
+Desert Eagles
+--- 20-05-17 07:09:27
+HartCheat]
+later Maaxis* (New guy)
+LAW
+--- 20-05-17 07:09:48
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:09:53
+later Maaxis* (New guy)
+HartCheat]
+Grenade
+--- 20-05-17 07:10:05
+later Maaxis* (New guy)
+HartCheat]
+Combat Knife
+--- 20-05-17 07:10:17
+later Maaxis* (New guy)
+HartCheat]
+Ruger 77
+--- 20-05-17 07:10:22
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:10:26
+HartCheat]
+later Maaxis* (New guy)
+Grenade
+--- 20-05-17 07:10:26
+HartCheat]
+HartCheat]
+Grenade
+--- 20-05-17 07:10:44
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-17 07:10:48
+HartCheat]
+later Maaxis* (New guy)
+Ruger 77
+--- 20-05-17 07:11:13
+later Maaxis* (New guy)
+HartCheat]
+Barrett M82A1
+--- 20-05-18 01:03:12
+r3v' Mand3s
+r3v' DrK
+M79
+--- 20-05-18 01:03:19
+r3v' DrK
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:03:27
+r3v' DrK
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:03:45
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:03:50
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 01:03:52
+r3v' Colt
+r3v' Colt
+M79
+--- 20-05-18 01:03:54
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:03:56
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:04:03
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:04:09
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:04:19
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:04:26
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:04:51
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:05:14
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:05:20
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:05:26
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:05:33
+[UnK] KorN
+r3v' DrK
+Hands
+--- 20-05-18 01:05:34
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:05:38
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:05:41
+r3v' Colt
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:05:44
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:05:55
+r3v' Winter
+[UnK] D4sh
+Spas-12
+--- 20-05-18 01:06:03
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:06:03
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:06:12
+r3v' Colt
+[UnK] D4sh
+M79
+--- 20-05-18 01:06:16
+r3v' Colt
+r3v' Colt
+M79
+--- 20-05-18 01:06:18
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:06:21
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:06:23
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:06:25
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:06:29
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:06:33
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:06:36
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:06:38
+r3v' Colt
+[UnK] D4sh
+M79
+--- 20-05-18 01:06:42
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:06:48
+r3v' DrK
+[UnK] KorN
+Desert Eagles
+--- 20-05-18 01:06:50
+r3v' DrK
+[UnK] D4sh
+Desert Eagles
+--- 20-05-18 01:06:53
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:06:57
+r3v' DrK
+[UnK] D4sh
+Desert Eagles
+--- 20-05-18 01:06:59
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:07:03
+r3v' DrK
+[UnK] D4sh
+Desert Eagles
+--- 20-05-18 01:07:06
+r3v' DrK
+[UnK] KorN
+Desert Eagles
+--- 20-05-18 01:07:11
+r3v' DrK
+[UnK] D4sh
+Desert Eagles
+--- 20-05-18 01:07:12
+r3v' DrK
+[UnK] KorN
+Desert Eagles
+--- 20-05-18 01:07:18
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:07:22
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:07:26
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:07:26
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:07:33
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:07:34
+r3v' Winter
+[UnK] KorN
+LAW
+--- 20-05-18 01:07:39
+r3v' Colt
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:07:41
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:07:45
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:07:48
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:07:50
+r3v' Colt
+[UnK] KorN
+Grenade
+--- 20-05-18 01:07:54
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:07:55
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:08:02
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:08:04
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:08:08
+[UnK] D4sh
+r3v' Colt
+LAW
+--- 20-05-18 01:08:09
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:08:15
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:08:16
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:08:24
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:08:25
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:08:30
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:08:40
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:08:41
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:08:48
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:08:56
+r3v' Mand3s
+r3v' Colt
+Spas-12
+--- 20-05-18 01:08:56
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:09:00
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:09:05
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:09:05
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:09:05
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:09:07
+r3v' Winter
+r3v' Mand3s
+LAW
+--- 20-05-18 01:09:14
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:09:20
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:09:22
+r3v' Winter
+r3v' Mand3s
+M79
+--- 20-05-18 01:09:23
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:09:26
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:09:27
+r3v' DrK
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:09:29
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:09:34
+r3v' DrK
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:09:35
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:09:35
+r3v' Colt
+[UnK] D4sh
+M79
+--- 20-05-18 01:09:40
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:09:42
+r3v' Mand3s
+r3v' DrK
+Spas-12
+--- 20-05-18 01:09:44
+r3v' Colt
+r3v' Mand3s
+M79
+--- 20-05-18 01:09:44
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:09:47
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:09:50
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:09:53
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:09:54
+r3v' Mand3s
+r3v' Winter
+Spas-12
+--- 20-05-18 01:09:57
+r3v' DrK
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:10:37
+r3v' Colt
+r3v' Colt
+M79
+--- 20-05-18 01:11:40
+r3v' DrK
+[UnK] D4sh
+M79
+--- 20-05-18 01:12:24
+r3v' DrK
+[UnK] D4sh
+M79
+--- 20-05-18 01:12:24
+r3v' Colt
+r3v' Colt
+M79
+--- 20-05-18 01:12:26
+r3v' DrK
+r3v' DrK
+Selfkill
+--- 20-05-18 01:12:35
+r3v' Colt
+r3v' Colt
+Selfkill
+--- 20-05-18 01:13:39
+[UnK] D4sh
+[UnK] D4sh
+Selfkill
+--- 20-05-18 01:14:31
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:14:39
+r3v' Mand3s
+r3v' Colt
+Spas-12
+--- 20-05-18 01:14:39
+r3v' Colt
+[UnK] KorN
+Grenade
+--- 20-05-18 01:14:47
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:14:47
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:14:48
+r3v' Colt
+r3v' Colt
+Grenade
+--- 20-05-18 01:14:48
+r3v' Colt
+[UnK] KorN
+Spas-12
+--- 20-05-18 01:15:04
+r3v' Mand3s
+r3v' Winter
+Spas-12
+--- 20-05-18 01:15:11
+r3v' Winter
+[UnK] D4sh
+LAW
+--- 20-05-18 01:15:17
+r3v' Mand3s
+r3v' Winter
+Spas-12
+--- 20-05-18 01:15:22
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:15:24
+r3v' Colt
+[UnK] D4sh
+Spas-12
+--- 20-05-18 01:15:25
+[UnK] D4sh
+r3v' Colt
+Grenade
+--- 20-05-18 01:15:30
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:15:31
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:15:33
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:15:40
+r3v' Colt
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:15:41
+[UnK] KorN
+r3v' Colt
+Grenade
+--- 20-05-18 01:15:43
+r3v' Winter
+r3v' Mand3s
+LAW
+--- 20-05-18 01:15:49
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 01:15:51
+r3v' Winter
+[UnK] D4sh
+Barrett M82A1
+--- 20-05-18 01:15:59
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:16:02
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:16:05
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:16:10
+r3v' Mand3s
+r3v' Winter
+Spas-12
+--- 20-05-18 01:16:13
+r3v' Mand3s
+r3v' DrK
+Spas-12
+--- 20-05-18 01:16:18
+r3v' Colt
+[UnK] KorN
+Grenade
+--- 20-05-18 01:16:19
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:16:22
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:16:28
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:16:33
+r3v' Colt
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:16:37
+r3v' Winter
+r3v' Mand3s
+Barrett M82A1
+--- 20-05-18 01:16:39
+r3v' Colt
+[UnK] KorN
+Grenade
+--- 20-05-18 01:16:42
+r3v' Mand3s
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:16:46
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:16:46
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:16:49
+[UnK] D4sh
+r3v' Colt
+Grenade
+--- 20-05-18 01:16:51
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:16:51
+r3v' Winter
+[UnK] KorN
+Barrett M82A1
+--- 20-05-18 01:16:56
+r3v' Winter
+[UnK] D4sh
+Barrett M82A1
+--- 20-05-18 01:16:57
+r3v' Colt
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:17:00
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:17:02
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:17:02
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:17:08
+r3v' Mand3s
+r3v' Colt
+Spas-12
+--- 20-05-18 01:17:09
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:17:14
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:17:17
+[UnK] D4sh
+r3v' Colt
+Grenade
+--- 20-05-18 01:17:24
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:17:24
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:17:26
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:17:31
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:17:32
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:17:33
+r3v' Mand3s
+[UnK] KorN
+Ruger 77
+--- 20-05-18 01:17:40
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:17:43
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:17:46
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:17:52
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:17:55
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:17:57
+[UnK] D4sh
+r3v' Colt
+LAW
+--- 20-05-18 01:17:59
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:18:03
+[UnK] D4sh
+r3v' Mand3s
+Ruger 77
+--- 20-05-18 01:18:09
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:18:11
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:18:16
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:18:16
+r3v' Colt
+r3v' Colt
+M79
+--- 20-05-18 01:18:20
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:18:23
+r3v' Colt
+[UnK] D4sh
+M79
+--- 20-05-18 01:18:31
+r3v' Winter
+[UnK] KorN
+Barrett M82A1
+--- 20-05-18 01:18:33
+r3v' Colt
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:18:35
+r3v' Winter
+[UnK] KorN
+Barrett M82A1
+--- 20-05-18 01:18:45
+r3v' Colt
+[UnK] KorN
+M79
+--- 20-05-18 01:18:48
+r3v' Winter
+[UnK] D4sh
+Barrett M82A1
+--- 20-05-18 01:18:54
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:18:55
+[UnK] D4sh
+r3v' Mand3s
+Ruger 77
+--- 20-05-18 01:18:57
+r3v' Winter
+[UnK] D4sh
+Barrett M82A1
+--- 20-05-18 01:19:03
+[UnK] D4sh
+r3v' Colt
+Ruger 77
+--- 20-05-18 01:19:08
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:19:09
+[UnK] D4sh
+r3v' Mand3s
+LAW
+--- 20-05-18 01:19:12
+r3v' Winter
+[UnK] D4sh
+Barrett M82A1
+--- 20-05-18 01:19:15
+r3v' Mand3s
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:20:05
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:20:06
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:20:08
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:20:08
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:20:10
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:20:18
+r3v' Mand3s
+[UnK] D4sh
+Ak-74
+--- 20-05-18 01:20:18
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:20:20
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:20:21
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:20:26
+r3v' Colt
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:20:27
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:20:28
+r3v' Colt
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:20:31
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:20:32
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:20:37
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:20:39
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:20:39
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:20:39
+[UnK] KorN
+r3v' Colt
+Grenade
+--- 20-05-18 01:20:43
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:20:48
+[UnK] D4sh
+r3v' Winter
+Grenade
+--- 20-05-18 01:20:49
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:20:53
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:20:54
+[UnK] KorN
+r3v' Colt
+Grenade
+--- 20-05-18 01:20:56
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:20:59
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:21:00
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:21:06
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:21:07
+r3v' Colt
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:21:09
+r3v' Mand3s
+[UnK] KorN
+Ak-74
+--- 20-05-18 01:21:09
+[UnK] D4sh
+r3v' Colt
+Ruger 77
+--- 20-05-18 01:21:16
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:21:17
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:21:17
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:21:20
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:21:23
+r3v' Winter
+[UnK] KorN
+LAW
+--- 20-05-18 01:21:24
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:21:30
+r3v' Winter
+[UnK] F4ll.cL
+M79
+--- 20-05-18 01:21:32
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:21:36
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:21:39
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:21:39
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:21:40
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:21:44
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:21:44
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:21:48
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:21:52
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:21:55
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:21:57
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:21:59
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:22:01
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:22:01
+r3v' Winter
+r3v' Winter
+M79
+--- 20-05-18 01:22:02
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:22:05
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:22:08
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:22:09
+[UnK] F4ll.cL
+r3v' Winter
+Steyr AUG
+--- 20-05-18 01:22:12
+[UnK] F4ll.cL
+r3v' DrK
+Steyr AUG
+--- 20-05-18 01:22:16
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:22:18
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:22:18
+r3v' Mand3s
+[UnK] KorN
+Ak-74
+--- 20-05-18 01:22:23
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:22:23
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:22:26
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:22:27
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:22:30
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:22:30
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:22:31
+r3v' Colt
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:22:34
+[UnK] D4sh
+r3v' Colt
+Spas-12
+--- 20-05-18 01:22:36
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:22:38
+[UnK] F4ll.cL
+r3v' DrK
+Steyr AUG
+--- 20-05-18 01:22:39
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:22:44
+[UnK] F4ll.cL
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:22:44
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:22:46
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:22:47
+[UnK] KorN
+r3v' Colt
+LAW
+--- 20-05-18 01:22:48
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:22:50
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:22:54
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:22:55
+r3v' Colt
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:22:59
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:22:59
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:23:02
+[UnK] D4sh
+r3v' Mand3s
+Ruger 77
+--- 20-05-18 01:23:03
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:23:06
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:23:07
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:23:07
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:23:15
+[UnK] D4sh
+r3v' Colt
+Ruger 77
+--- 20-05-18 01:23:16
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:23:16
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 01:23:17
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:23:19
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:23:24
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:23:24
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:23:24
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:23:31
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:23:33
+[UnK] F4ll.cL
+r3v' Colt
+Grenade
+--- 20-05-18 01:23:35
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:23:40
+[UnK] F4ll.cL
+r3v' Colt
+Steyr AUG
+--- 20-05-18 01:23:42
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:23:44
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:23:48
+[UnK] KorN
+r3v' Colt
+Desert Eagles
+--- 20-05-18 01:23:48
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:23:50
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:23:54
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:23:57
+[UnK] KorN
+r3v' Colt
+Grenade
+--- 20-05-18 01:23:59
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:23:59
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:24:02
+[UnK] F4ll.cL
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 01:24:06
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:24:06
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:24:10
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:24:18
+r3v' DrK
+[UnK] F4ll.cL
+Ruger 77
+--- 20-05-18 01:24:22
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:24:23
+r3v' DrK
+[UnK] D4sh
+Ruger 77
+--- 20-05-18 01:24:23
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:24:23
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:24:24
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:24:30
+r3v' Winter
+[UnK] KorN
+M79
+--- 20-05-18 01:24:32
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:24:32
+r3v' Winter
+[UnK] D4sh
+LAW
+--- 20-05-18 01:24:38
+r3v' DrK
+[UnK] KorN
+Ruger 77
+--- 20-05-18 01:24:43
+[UnK] F4ll.cL
+r3v' DrK
+Combat Knife
+--- 20-05-18 01:24:48
+r3v' DrK
+[UnK] F4ll.cL
+Ruger 77
+--- 20-05-18 01:24:49
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:24:50
+r3v' Colt
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:24:51
+r3v' DrK
+[UnK] D4sh
+Ruger 77
+--- 20-05-18 01:24:56
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:24:57
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:25:14
+r3v' Mand3s
+[UnK] D4sh
+M79
+--- 20-05-18 01:25:17
+r3v' Colt
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:25:19
+r3v' DrK
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:25:19
+[UnK] F4ll.cL
+r3v' DrK
+Steyr AUG
+--- 20-05-18 01:25:32
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:25:36
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:25:40
+r3v' DrK
+[UnK] KorN
+Ruger 77
+--- 20-05-18 01:25:42
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:25:43
+[UnK] F4ll.cL
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:25:44
+r3v' Colt
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:25:48
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:25:53
+r3v' Colt
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:25:55
+[UnK] F4ll.cL
+r3v' Colt
+Grenade
+--- 20-05-18 01:25:56
+[UnK] F4ll.cL
+r3v' Winter
+Steyr AUG
+--- 20-05-18 01:26:02
+r3v' Mand3s
+[UnK] KorN
+M79
+--- 20-05-18 01:26:02
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:26:13
+[UnK] D4sh
+[UnK] D4sh
+Selfkill
+--- 20-05-18 01:26:18
+r3v' Mand3s
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:26:21
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:26:21
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:26:30
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:26:31
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:26:32
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:26:39
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:26:40
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:26:46
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:26:50
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:26:56
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:26:56
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:27:06
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:27:11
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:27:21
+[UnK] KorN
+r3v' Winter
+LAW
+--- 20-05-18 01:27:24
+r3v' Mand3s
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:27:35
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:27:37
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:27:40
+r3v' Winter
+[UnK] F4ll.cL
+M79
+--- 20-05-18 01:27:42
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:27:44
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:27:44
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:27:46
+[UnK] F4ll.cL
+r3v' Winter
+Combat Knife
+--- 20-05-18 01:27:48
+r3v' Mand3s
+[UnK] KorN
+Grenade
+--- 20-05-18 01:28:04
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:28:04
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:28:09
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:28:11
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:28:18
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:28:19
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:28:20
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:28:20
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:28:23
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:28:24
+r3v' Mand3s
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:28:28
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:28:30
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:28:31
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:28:38
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:28:38
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:28:42
+r3v' Winter
+[UnK] F4ll.cL
+M79
+--- 20-05-18 01:28:45
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:28:48
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:28:54
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:28:54
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:29:00
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:29:02
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:29:05
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:29:08
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:29:12
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:29:13
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:29:15
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:29:19
+r3v' DrK
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:29:20
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:29:22
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:29:22
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:29:29
+r3v' DrK
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:29:32
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:29:34
+[UnK] F4ll.cL
+r3v' Winter
+Spas-12
+--- 20-05-18 01:29:37
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:29:39
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 01:29:46
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:29:49
+r3v' Winter
+[UnK] F4ll.cL
+M79
+--- 20-05-18 01:29:51
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:29:53
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:29:54
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:29:59
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:30:04
+r3v' Winter
+[UnK] F4ll.cL
+M79
+--- 20-05-18 01:30:07
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:30:09
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:30:09
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:30:10
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:30:13
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:30:14
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:30:22
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:30:22
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:30:29
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:30:29
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:30:32
+[UnK] F4ll.cL
+r3v' Winter
+Combat Knife
+--- 20-05-18 01:30:36
+[UnK] D4sh
+r3v' Mand3s
+LAW
+--- 20-05-18 01:30:37
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:30:39
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:30:43
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:30:47
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:30:47
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:30:55
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:30:56
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:31:02
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:31:02
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:31:04
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:31:05
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:31:17
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:31:18
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:31:21
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:31:26
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:31:30
+[UnK] F4ll.cL
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:31:34
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:31:34
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:31:38
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:31:38
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:31:40
+[UnK] F4ll.cL
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:31:45
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:31:45
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:31:51
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:31:51
+[UnK] F4ll.cL
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:31:52
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:31:53
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:31:56
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:32:00
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:32:06
+r3v' Mand3s
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:32:07
+r3v' Winter
+[UnK] D4sh
+M79
+--- 20-05-18 01:32:07
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:32:07
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:32:12
+r3v' DrK
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:32:16
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:32:16
+[UnK] D4sh
+r3v' Winter
+LAW
+--- 20-05-18 01:32:21
+[UnK] F4ll.cL
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:32:27
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:32:38
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:32:39
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:32:41
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:32:42
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:32:42
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:32:45
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:32:49
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:32:49
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:32:50
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:32:53
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:32:54
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:32:56
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:32:56
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:32:59
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:32:59
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:33:02
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:33:02
+r3v' Mand3s
+[UnK] KorN
+Grenade
+--- 20-05-18 01:33:06
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:33:07
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:33:09
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:33:13
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:33:16
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:33:17
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:33:18
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:33:19
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:33:24
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:33:25
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:33:25
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:33:26
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:33:31
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:33:32
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:33:35
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:33:35
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:33:39
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:33:39
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:33:42
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:33:43
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:33:46
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:33:48
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:33:51
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:33:52
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:33:56
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:33:58
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:33:58
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:34:04
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:34:07
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:34:07
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:34:10
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:34:10
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:34:13
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:34:15
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:34:16
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:34:19
+r3v' Winter
+r3v' Winter
+Grenade
+--- 20-05-18 01:34:19
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:34:20
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:34:24
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:34:25
+[UnK] KorN
+r3v' Winter
+LAW
+--- 20-05-18 01:34:26
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:34:29
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:34:30
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:34:34
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:34:34
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:34:39
+r3v' Mand3s
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:34:41
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:34:41
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:34:43
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:34:45
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:34:45
+[UnK] D4sh
+r3v' Mand3s
+LAW
+--- 20-05-18 01:34:51
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:34:52
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:34:54
+[UnK] D4sh
+r3v' Winter
+Grenade
+--- 20-05-18 01:34:57
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:34:57
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:34:59
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:35:04
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:35:04
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:09
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:09
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:35:11
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:35:12
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:35:16
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:19
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:35:20
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:35:22
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:35:24
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:35:24
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:35:27
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:35:30
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:35:30
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:35:34
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:35:35
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:35:38
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:35:38
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:35:40
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:44
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:35:47
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:35:49
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:50
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:35:53
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:35:54
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:35:54
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:35:57
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:35:59
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:36:02
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:36:02
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:36:09
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:36:10
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:36:10
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:36:11
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:36:16
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:36:18
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:36:20
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:36:21
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:36:24
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:36:24
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:36:25
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:36:28
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:36:34
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:36:37
+r3v' Mand3s
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:36:40
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:36:40
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:36:41
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:36:43
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:36:45
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:36:48
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:36:48
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:36:53
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:36:54
+[UnK] F4ll.cL
+r3v' DrK
+Combat Knife
+--- 20-05-18 01:36:54
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:36:59
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:37:01
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:37:04
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:37:04
+r3v' DrK
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:37:06
+r3v' Winter
+r3v' Winter
+Grenade
+--- 20-05-18 01:37:07
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:37:10
+[UnK] KorN
+r3v' Mand3s
+LAW
+--- 20-05-18 01:37:11
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:37:12
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:37:13
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:37:20
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:37:22
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:37:23
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:37:26
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:37:30
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:37:33
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:37:33
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:37:36
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:37:37
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:37:41
+r3v' Mand3s
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:37:43
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:37:47
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:37:47
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:37:48
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:37:48
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:37:52
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:37:52
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:37:55
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:37:57
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:37:59
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:38:01
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:38:03
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:38:06
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:38:07
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:38:09
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:38:13
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:38:16
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:38:17
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:38:18
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:38:20
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:38:24
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:38:24
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:38:27
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:38:28
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:38:29
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:38:33
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:38:37
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:38:37
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:38:42
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:38:43
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:38:45
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:38:47
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:38:50
+[UnK] D4sh
+r3v' Winter
+Grenade
+--- 20-05-18 01:38:50
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:38:51
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:38:53
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:38:53
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:39:00
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:39:00
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:39:01
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:39:02
+[UnK] F4ll.cL
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 01:39:03
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:39:07
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:39:10
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:39:13
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:39:15
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:39:17
+r3v' Mand3s
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:39:17
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:39:18
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:39:21
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:39:25
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:39:25
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:39:27
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:39:27
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:39:32
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:39:33
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:39:33
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:39:34
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:39:34
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:39:37
+r3v' Winter
+r3v' Winter
+Grenade
+--- 20-05-18 01:39:39
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:39:42
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:39:43
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:39:44
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:39:47
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:39:48
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:39:49
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:39:50
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:39:50
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:39:54
+r3v' Mand3s
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:39:55
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:39:55
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:39:55
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:39:58
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:39:58
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:40:03
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:40:04
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:40:04
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:40:05
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:40:08
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:40:08
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:40:13
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:40:13
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:40:15
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:40:16
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:40:18
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:40:19
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:40:21
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:40:22
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:40:25
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:40:28
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:40:28
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:40:31
+[UnK] KorN
+r3v' Mand3s
+LAW
+--- 20-05-18 01:40:31
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:40:33
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:40:34
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:40:37
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:40:40
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:40:42
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:40:42
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:40:48
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:40:49
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:40:49
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:40:51
+[UnK] F4ll.cL
+r3v' Winter
+Combat Knife
+--- 20-05-18 01:40:54
+r3v' DrK
+[UnK] F4ll.cL
+Ruger 77
+--- 20-05-18 01:40:55
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:40:58
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:40:58
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:41:01
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:41:04
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:41:05
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:41:07
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:41:09
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:41:12
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:41:14
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:41:17
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:41:17
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:41:22
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:41:24
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:41:27
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:41:27
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:41:29
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:41:34
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:41:35
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:41:36
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:41:38
+[UnK] D4sh
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:41:40
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:41:43
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:41:46
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:41:47
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:41:47
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:41:48
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:41:48
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:41:54
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:41:54
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:41:54
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:41:57
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:42:00
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:42:01
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:42:10
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:42:11
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:42:13
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:42:13
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:42:17
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:42:19
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:42:20
+r3v' Mand3s
+[UnK] KorN
+Grenade
+--- 20-05-18 01:42:23
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:42:23
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:42:24
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:42:31
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:42:34
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:42:34
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:42:34
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:42:45
+[UnK] D4sh
+[UnK] D4sh
+Selfkill
+--- 20-05-18 01:42:58
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:43:02
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:43:04
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:43:04
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:43:04
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:43:13
+[UnK] F4ll.cL
+r3v' DrK
+Steyr AUG
+--- 20-05-18 01:43:25
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:43:27
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:43:28
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:43:30
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:43:31
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:43:34
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:43:37
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:43:40
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:43:41
+[UnK] F4ll.cL
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:43:43
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:43:44
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:43:48
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:43:51
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:43:52
+[UnK] F4ll.cL
+r3v' Mand3s
+Steyr AUG
+--- 20-05-18 01:43:56
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:43:56
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:43:58
+[UnK] F4ll.cL
+r3v' Winter
+Steyr AUG
+--- 20-05-18 01:44:02
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:44:04
+r3v' Mand3s
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:44:06
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:44:07
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:44:09
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:44:10
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:44:12
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:44:14
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:44:15
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:44:21
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:44:22
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:44:24
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:44:28
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:44:32
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:44:32
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:44:34
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:44:40
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:44:43
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:44:45
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:44:47
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:44:48
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:44:52
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:44:54
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:44:58
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:44:59
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:44:59
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:44:59
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:45:04
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:45:05
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:45:06
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:45:10
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:45:11
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:45:16
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:45:17
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:45:21
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:45:23
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:45:24
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:45:24
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:45:28
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:45:31
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:45:31
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:45:35
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:45:36
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:45:37
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:45:38
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:45:41
+[UnK] F4ll.cL
+r3v' DrK
+Combat Knife
+--- 20-05-18 01:45:46
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:45:47
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:45:48
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:45:49
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:45:52
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:45:57
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:45:57
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:45:58
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:45:58
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:46:02
+[UnK] D4sh
+r3v' DrK
+Combat Knife
+--- 20-05-18 01:46:05
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:46:05
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:46:06
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:46:09
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:46:15
+r3v' Winter
+[UnK] D4sh
+Desert Eagles
+--- 20-05-18 01:46:16
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:46:16
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:46:17
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:46:21
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:46:23
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 01:46:29
+r3v' Winter
+[UnK] F4ll.cL
+Desert Eagles
+--- 20-05-18 01:46:29
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:46:31
+[UnK] D4sh
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:46:32
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:46:33
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:46:36
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:46:40
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:46:44
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:46:45
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:46:46
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:46:47
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:46:48
+r3v' Mand3s
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:46:52
+r3v' Mand3s
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:46:52
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:46:56
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:47:01
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:47:02
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:47:05
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:47:11
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:47:13
+r3v' DrK
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:47:14
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:47:18
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:47:19
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:47:19
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:47:24
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:47:26
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:47:26
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:47:31
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:47:37
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:47:38
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:47:41
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:47:44
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:47:46
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:47:49
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:47:53
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:47:54
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:47:55
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:47:58
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:47:58
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:48:05
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:48:08
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:48:08
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:48:08
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:48:15
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:48:16
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:48:17
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:48:22
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:48:27
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:48:27
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:48:27
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:48:28
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:48:34
+r3v' Winter
+[UnK] F4ll.cL
+Desert Eagles
+--- 20-05-18 01:48:35
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:48:35
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:48:37
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:48:37
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:48:38
+[UnK] D4sh
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 01:48:40
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:48:45
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:48:48
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:48:50
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:48:50
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:48:53
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:48:54
+r3v' Winter
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:49:03
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:49:04
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:49:04
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:49:13
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:49:16
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 01:49:17
+r3v' Mand3s
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:49:20
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:49:21
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:49:21
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:49:26
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:49:30
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:49:30
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:49:30
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:49:33
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:49:34
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:49:40
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:49:40
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:49:43
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:49:43
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:49:45
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:49:51
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:49:56
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:49:57
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:50:00
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:50:03
+[UnK] D4sh
+r3v' Winter
+Combat Knife
+--- 20-05-18 01:50:03
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:50:05
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:50:07
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:50:11
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:50:14
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:50:15
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:50:20
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:50:22
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:50:22
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:50:22
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:50:28
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:50:29
+[UnK] D4sh
+r3v' Winter
+Grenade
+--- 20-05-18 01:50:29
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:50:32
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:50:33
+[UnK] D4sh
+r3v' DrK
+Combat Knife
+--- 20-05-18 01:50:33
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:50:39
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:50:39
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:50:42
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:50:42
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:50:45
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:50:48
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:50:49
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:50:49
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:50:52
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:50:56
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:50:57
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:50:59
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:51:01
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:51:03
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:51:11
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:51:11
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:51:14
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:51:15
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:51:20
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:51:20
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:51:22
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:51:24
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 01:51:28
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:51:29
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:51:29
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:51:31
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:51:34
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:51:37
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:51:41
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:51:42
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:51:46
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:51:46
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:51:48
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:51:48
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:51:54
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:51:55
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:51:57
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:52:00
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:52:02
+r3v' Mand3s
+[UnK] KorN
+Grenade
+--- 20-05-18 01:52:07
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:52:08
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:52:10
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:52:10
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:52:12
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:52:17
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:52:18
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:52:20
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:52:20
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:52:25
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:52:28
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:52:30
+[UnK] F4ll.cL
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:52:33
+r3v' Winter
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:52:34
+[UnK] D4sh
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:52:36
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:52:36
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:52:38
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:52:44
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:52:44
+r3v' Mand3s
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:52:46
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:52:49
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:52:51
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:52:52
+[UnK] D4sh
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:52:54
+r3v' Winter
+[UnK] D4sh
+FN Minimi
+--- 20-05-18 01:52:55
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:52:57
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:52:59
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:53:00
+[UnK] D4sh
+r3v' DrK
+FN Minimi
+--- 20-05-18 01:53:06
+r3v' Mand3s
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:53:07
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:53:08
+[UnK] F4ll.cL
+r3v' Mand3s
+FN Minimi
+--- 20-05-18 01:53:09
+r3v' Winter
+[UnK] F4ll.cL
+FN Minimi
+--- 20-05-18 01:53:12
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:53:14
+r3v' Winter
+[UnK] KorN
+FN Minimi
+--- 20-05-18 01:53:15
+[UnK] F4ll.cL
+r3v' Winter
+FN Minimi
+--- 20-05-18 01:53:17
+r3v' Mand3s
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:53:18
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:53:44
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:53:47
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:53:48
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:53:49
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:54:03
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:54:04
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:54:10
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:54:15
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:54:21
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:54:23
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:54:23
+[UnK] D4sh
+r3v' DrK
+LAW
+--- 20-05-18 01:54:25
+[UnK] F4ll.cL
+r3v' Winter
+Combat Knife
+--- 20-05-18 01:54:58
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 01:55:00
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:55:00
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:55:00
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:55:06
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:55:08
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:55:14
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:55:15
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:55:15
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:55:18
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:55:22
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:55:26
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:55:30
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:55:32
+r3v' Mand3s
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 01:55:33
+[UnK] KorN
+r3v' Mand3s
+LAW
+--- 20-05-18 01:55:33
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:55:40
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:55:42
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:55:42
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:55:45
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:55:50
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:55:50
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:55:51
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:55:53
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:55:53
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:55:59
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:56:04
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:56:08
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:56:12
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:56:14
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:56:18
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:56:18
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:56:19
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:56:19
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 01:56:23
+[UnK] D4sh
+r3v' Winter
+LAW
+--- 20-05-18 01:56:24
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:56:28
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:56:28
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:56:28
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:56:31
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:56:34
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:56:34
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:56:36
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:56:37
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:56:40
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 01:56:45
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:56:45
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:56:46
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:56:50
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:56:54
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:56:54
+r3v' Winter
+[UnK] F4ll.cL
+Combat Knife
+--- 20-05-18 01:56:55
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:56:59
+r3v' DrK
+[UnK] KorN
+Grenade
+--- 20-05-18 01:57:00
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:57:00
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:57:00
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:57:05
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:57:11
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:57:11
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:57:11
+r3v' Winter
+[UnK] KorN
+Combat Knife
+--- 20-05-18 01:57:16
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:57:16
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:57:21
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:57:22
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:57:24
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 01:57:26
+[UnK] D4sh
+r3v' Mand3s
+LAW
+--- 20-05-18 01:57:31
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:57:32
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:57:32
+r3v' Winter
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:57:33
+[UnK] F4ll.cL
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 01:57:36
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 01:57:42
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:57:45
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:57:50
+r3v' Mand3s
+[UnK] KorN
+HK MP5
+--- 20-05-18 01:57:52
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:57:54
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:57:54
+r3v' Mand3s
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:58:01
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:58:01
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 01:58:04
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:58:04
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:58:07
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:58:07
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 01:58:07
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:58:13
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 01:58:15
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 01:58:16
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:58:17
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:58:20
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 01:58:20
+[UnK] F4ll.cL
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 01:58:25
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:58:25
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:58:27
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 01:58:30
+r3v' DrK
+r3v' DrK
+Grenade
+--- 20-05-18 01:58:35
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:58:37
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:58:41
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:58:43
+r3v' DrK
+[UnK] F4ll.cL
+LAW
+--- 20-05-18 01:58:49
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:58:50
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 01:58:57
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:59:01
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:59:03
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:59:07
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 01:59:09
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:59:09
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 01:59:12
+r3v' DrK
+[UnK] F4ll.cL
+LAW
+--- 20-05-18 01:59:12
+[UnK] F4ll.cL
+r3v' DrK
+HK MP5
+--- 20-05-18 01:59:15
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:59:19
+r3v' Winter
+r3v' Winter
+Grenade
+--- 20-05-18 01:59:21
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:59:21
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 01:59:24
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:59:31
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 01:59:35
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:59:38
+[UnK] D4sh
+r3v' Winter
+Ruger 77
+--- 20-05-18 01:59:39
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 01:59:42
+r3v' Winter
+[UnK] KorN
+Grenade
+--- 20-05-18 01:59:43
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 01:59:47
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 01:59:51
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 01:59:55
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 01:59:59
+[UnK] KorN
+r3v' DrK
+LAW
+--- 20-05-18 02:00:01
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 02:00:03
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 02:00:08
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:00:10
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:00:10
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 02:00:15
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 02:00:20
+r3v' Mand3s
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 02:00:20
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:00:23
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 02:00:23
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 02:00:24
+[UnK] D4sh
+r3v' Mand3s
+Grenade
+--- 20-05-18 02:00:28
+[UnK] F4ll.cL
+r3v' Winter
+HK MP5
+--- 20-05-18 02:00:34
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:00:34
+[UnK] D4sh
+r3v' DrK
+Ruger 77
+--- 20-05-18 02:00:34
+r3v' Mand3s
+[UnK] KorN
+Grenade
+--- 20-05-18 02:00:34
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:00:41
+[UnK] F4ll.cL
+r3v' Mand3s
+HK MP5
+--- 20-05-18 02:00:42
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:00:45
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:00:45
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:01:10
+r3v' Winter
+[UnK] KorN
+Combat Knife
+--- 20-05-18 02:01:13
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:01:13
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:01:13
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 02:01:15
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 02:01:21
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:01:21
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 02:01:23
+[UnK] F4ll.cL
+r3v' Mand3s
+Grenade
+--- 20-05-18 02:01:26
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:01:26
+[UnK] F4ll.cL
+r3v' Winter
+Combat Knife
+--- 20-05-18 02:01:28
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:01:39
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:01:40
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 02:01:41
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:01:42
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:01:48
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 02:01:51
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 02:01:51
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:01:54
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:01:57
+[UnK] F4ll.cL
+r3v' DrK
+Grenade
+--- 20-05-18 02:01:58
+r3v' Winter
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:02:01
+[UnK] F4ll.cL
+r3v' Mand3s
+M79
+--- 20-05-18 02:02:06
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:02:06
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 02:02:06
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 02:02:06
+[UnK] F4ll.cL
+r3v' DrK
+M79
+--- 20-05-18 02:02:11
+[UnK] KorN
+[UnK] KorN
+Grenade
+--- 20-05-18 02:02:11
+[UnK] KorN
+r3v' Mand3s
+Grenade
+--- 20-05-18 02:02:18
+r3v' DrK
+[UnK] F4ll.cL
+LAW
+--- 20-05-18 02:02:19
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:02:19
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 02:02:26
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:02:28
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 02:02:31
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:02:34
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:02:35
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 02:02:42
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:02:43
+r3v' Mand3s
+[UnK] KorN
+HK MP5
+--- 20-05-18 02:02:46
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 02:02:48
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 02:02:48
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:02:52
+[UnK] F4ll.cL
+r3v' Winter
+Grenade
+--- 20-05-18 02:02:56
+[UnK] F4ll.cL
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 02:02:57
+r3v' Winter
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:03:01
+[UnK] KorN
+r3v' DrK
+Grenade
+--- 20-05-18 02:03:02
+r3v' Winter
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:03:02
+[UnK] D4sh
+r3v' Winter
+Spas-12
+--- 20-05-18 02:03:07
+[UnK] F4ll.cL
+r3v' Mand3s
+M79
+--- 20-05-18 02:03:12
+[UnK] F4ll.cL
+r3v' Mand3s
+Combat Knife
+--- 20-05-18 02:03:14
+r3v' Winter
+[UnK] D4sh
+Combat Knife
+--- 20-05-18 02:03:15
+[UnK] F4ll.cL
+r3v' Winter
+M79
+--- 20-05-18 02:03:20
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 02:03:22
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:03:25
+[UnK] D4sh
+r3v' Mand3s
+LAW
+--- 20-05-18 02:03:25
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:03:27
+[UnK] KorN
+r3v' Winter
+Grenade
+--- 20-05-18 02:03:32
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 02:03:32
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:03:34
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 02:03:38
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:03:40
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:03:40
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 02:03:42
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 02:03:47
+r3v' DrK
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:03:47
+[UnK] D4sh
+r3v' DrK
+Spas-12
+--- 20-05-18 02:03:49
+[UnK] KorN
+r3v' Mand3s
+LAW
+--- 20-05-18 02:03:52
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:03:54
+r3v' DrK
+[UnK] F4ll.cL
+Steyr AUG
+--- 20-05-18 02:03:57
+r3v' Winter
+[UnK] KorN
+Combat Knife
+--- 20-05-18 02:04:06
+r3v' Mand3s
+[UnK] D4sh
+HK MP5
+--- 20-05-18 02:04:07
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:04:13
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:04:13
+r3v' DrK
+[UnK] D4sh
+Steyr AUG
+--- 20-05-18 02:04:13
+[UnK] KorN
+r3v' DrK
+Desert Eagles
+--- 20-05-18 02:04:16
+[UnK] KorN
+r3v' Mand3s
+Desert Eagles
+--- 20-05-18 02:04:24
+r3v' DrK
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:04:28
+r3v' Mand3s
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 02:04:32
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:04:37
+[UnK] D4sh
+r3v' Mand3s
+Spas-12
+--- 20-05-18 02:04:38
+r3v' Winter
+[UnK] KorN
+Steyr AUG
+--- 20-05-18 02:04:41
+[UnK] F4ll.cL
+r3v' Mand3s
+M79
+--- 20-05-18 02:04:43
+r3v' DrK
+[UnK] F4ll.cL
+Grenade
+--- 20-05-18 02:04:48
+r3v' Mand3s
+[UnK] D4sh
+Grenade
+--- 20-05-18 02:04:48
+[UnK] KorN
+r3v' Winter
+Desert Eagles
+--- 20-05-18 02:04:49
+r3v' Mand3s
+[UnK] KorN
+HK MP5
+--- 20-05-18 02:04:52
+[UnK] F4ll.cL
+r3v' Mand3s
+M79
+--- 20-05-18 02:04:55
+[UnK] F4ll.cL
+r3v' Winter
+M79
+--- 20-05-18 02:04:57
+[UnK] D4sh
+r3v' DrK
+Grenade
+--- 20-05-18 02:04:57
+r3v' Mand3s
+[UnK] F4ll.cL
+HK MP5
+--- 20-05-18 02:05:09
+r3v' DrK
+[UnK] D4sh
+Steyr AUG

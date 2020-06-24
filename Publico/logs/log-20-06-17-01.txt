@@ -1,0 +1,152 @@
+20-06-17 14:44:32    Log Started
+20-06-17 14:44:32 Opened /home/kader_b/Publico/soldat.ini
+20-06-17 14:56:27 TCP/IP File Server started
+20-06-17 15:26:28 TCP/IP File Server started
+20-06-17 15:56:28 TCP/IP File Server started
+20-06-17 16:26:27 TCP/IP File Server started
+20-06-17 16:56:27 TCP/IP File Server started
+20-06-17 17:26:27 TCP/IP File Server started
+20-06-17 17:56:27 TCP/IP File Server started
+20-06-17 18:26:27 TCP/IP File Server started
+20-06-17 18:56:28 TCP/IP File Server started
+20-06-17 19:26:27 TCP/IP File Server started
+20-06-17 19:49:03  Net - Olvidame connected 17-6-20 19:49:03
+20-06-17 19:49:05  Net - Sargent connected 17-6-20 19:49:05
+20-06-17 19:49:33  Net - Olvidame connected 17-6-20 19:49:33
+20-06-17 19:49:34  Net - Sargent connected 17-6-20 19:49:34
+20-06-17 19:49:46  Net - Olvidame connected 17-6-20 19:49:46
+20-06-17 19:50:41  Net - |R| Amarilla connected 17-6-20 19:50:41
+20-06-17 19:51:09  Net - |R| Amarilla disconnected 17-6-20 19:51:09
+20-06-17 19:56:27 TCP/IP File Server started
+20-06-17 20:03:53  Net - sK!T.RomanoV connected 17-6-20 20:03:53
+20-06-17 20:06:05  Net - Olvidame disconnected 17-6-20 20:06:05
+20-06-17 20:06:05  Net - Sargent disconnected 17-6-20 20:06:05
+20-06-17 20:06:08  Net - sK!T.RomanoV disconnected 17-6-20 20:06:08
+20-06-17 20:08:58  Net - Tiny Furioso connected 17-6-20 20:08:58
+20-06-17 20:10:49  Net - Tiny Furioso disconnected 17-6-20 20:10:49
+20-06-17 20:26:27 TCP/IP File Server started
+20-06-17 20:56:27 TCP/IP File Server started
+20-06-17 21:26:28 TCP/IP File Server started
+20-06-17 21:56:27 TCP/IP File Server started
+20-06-17 22:26:27 TCP/IP File Server started
+20-06-17 22:56:27 TCP/IP File Server started
+20-06-17 23:26:27 TCP/IP File Server started
+20-06-17 23:56:27 TCP/IP File Server started
+20-06-18 00:26:27 TCP/IP File Server started
+20-06-18 00:56:27 TCP/IP File Server started
+20-06-18 01:26:28 TCP/IP File Server started
+20-06-18 01:56:28 TCP/IP File Server started
+20-06-18 02:26:27 TCP/IP File Server started
+20-06-18 02:56:27 TCP/IP File Server started
+20-06-18 03:26:27 TCP/IP File Server started
+20-06-18 03:56:27 TCP/IP File Server started
+20-06-18 04:26:27 TCP/IP File Server started
+20-06-18 04:56:27 TCP/IP File Server started
+20-06-18 05:26:27 TCP/IP File Server started
+20-06-18 05:56:27 TCP/IP File Server started
+20-06-18 06:26:27 TCP/IP File Server started
+20-06-18 06:56:27 TCP/IP File Server started
+20-06-18 07:26:27 TCP/IP File Server started
+20-06-18 07:56:27 TCP/IP File Server started
+20-06-18 08:26:27 TCP/IP File Server started
+20-06-18 08:56:27 TCP/IP File Server started
+20-06-18 09:26:27 TCP/IP File Server started
+20-06-18 09:56:27 TCP/IP File Server started
+20-06-18 10:26:27 TCP/IP File Server started
+20-06-18 10:56:27 TCP/IP File Server started
+20-06-18 11:26:28 TCP/IP File Server started
+20-06-18 11:56:27 TCP/IP File Server started
+20-06-18 12:26:27 TCP/IP File Server started
+20-06-18 12:56:28 TCP/IP File Server started
+20-06-18 13:26:27 TCP/IP File Server started
+20-06-18 13:56:27 TCP/IP File Server started
+20-06-18 14:26:27 TCP/IP File Server started
+20-06-18 14:56:27 TCP/IP File Server started
+20-06-18 15:26:27 TCP/IP File Server started
+20-06-18 15:56:27 TCP/IP File Server started
+20-06-18 16:26:27 TCP/IP File Server started
+20-06-18 16:56:27 TCP/IP File Server started
+20-06-18 17:26:27 TCP/IP File Server started
+20-06-18 17:56:27 TCP/IP File Server started
+20-06-18 18:26:27 TCP/IP File Server started
+20-06-18 18:56:27 TCP/IP File Server started
+20-06-18 19:26:27 TCP/IP File Server started
+20-06-18 19:56:27 TCP/IP File Server started
+20-06-18 20:26:27 TCP/IP File Server started
+20-06-18 20:56:27 TCP/IP File Server started
+20-06-18 21:26:27 TCP/IP File Server started
+20-06-18 21:56:27 TCP/IP File Server started
+20-06-18 22:26:27 TCP/IP File Server started
+20-06-18 22:56:27 TCP/IP File Server started
+20-06-18 23:26:27 TCP/IP File Server started
+20-06-18 23:56:27 TCP/IP File Server started
+20-06-19 00:26:27 TCP/IP File Server started
+20-06-19 00:56:27 TCP/IP File Server started
+20-06-19 01:26:27 TCP/IP File Server started
+20-06-19 01:39:24  Net - Alex connected 19-6-20 01:39:24
+20-06-19 01:40:56  Net - fer connected 19-6-20 01:40:56
+20-06-19 01:41:09  Net - jano.acv15 connected 19-6-20 01:41:09
+20-06-19 01:42:26  Net - kevinsanchez01 connected 19-6-20 01:42:26
+20-06-19 01:43:41  Net - jano.acv15 disconnected 19-6-20 01:43:41
+20-06-19 01:45:20  Net - *Demon| The_Grix connected 19-6-20 01:45:20
+20-06-19 01:46:37  Net - *Demon| The_Grix disconnected 19-6-20 01:46:37
+20-06-19 01:49:54  Net - Fanta_oldschool_cz connected 19-6-20 01:49:54
+20-06-19 01:51:10  Net - Fanta_oldschool_cz disconnected 19-6-20 01:51:10
+20-06-19 01:51:24  Net - { ~EsF~ }ChuckJr connected 19-6-20 01:51:24
+20-06-19 01:51:38  Net - Alex disconnected 19-6-20 01:51:38
+20-06-19 01:52:01  Net - kevinsanchez01 disconnected 19-6-20 01:52:01
+20-06-19 01:52:07  Net - { ~EsF~ }ChuckJr connected 19-6-20 01:52:07
+20-06-19 01:56:28 TCP/IP File Server started
+20-06-19 02:02:34  Net - *Demon| The_Grix connected 19-6-20 02:02:34
+20-06-19 02:02:38  Net - *Demon| The_Grix disconnected 19-6-20 02:02:38
+20-06-19 02:11:24  Net - BlackStorm connected 19-6-20 02:11:24
+20-06-19 02:11:32  Net - K Ng|LvlUp connected 19-6-20 02:11:32
+20-06-19 02:11:55  Net - { ~EsF~ }ChuckJr disconnected 19-6-20 02:11:55
+20-06-19 02:12:04  Net - K Ng|LvlUp disconnected 19-6-20 02:12:04
+20-06-19 02:12:07  Net - K Ng|LvlUp connected 19-6-20 02:12:07
+20-06-19 02:12:23  Net - K Ng|LvlUp disconnected 19-6-20 02:12:23
+20-06-19 02:12:40  Net - fer disconnected 19-6-20 02:12:40
+20-06-19 02:12:42  Net - BlackStorm disconnected 19-6-20 02:12:42
+20-06-19 02:26:28 TCP/IP File Server started
+20-06-19 02:56:27 TCP/IP File Server started
+20-06-19 03:26:27 TCP/IP File Server started
+20-06-19 03:56:27 TCP/IP File Server started
+20-06-19 04:26:27 TCP/IP File Server started
+20-06-19 04:56:27 TCP/IP File Server started
+20-06-19 05:26:27 TCP/IP File Server started
+20-06-19 05:56:27 TCP/IP File Server started
+20-06-19 06:26:27 TCP/IP File Server started
+20-06-19 06:56:27 TCP/IP File Server started
+20-06-19 07:26:27 TCP/IP File Server started
+20-06-19 07:56:28 TCP/IP File Server started
+20-06-19 08:26:27 TCP/IP File Server started
+20-06-19 08:56:27 TCP/IP File Server started
+20-06-19 09:26:27 TCP/IP File Server started
+20-06-19 09:56:27 TCP/IP File Server started
+20-06-19 10:26:40 TCP/IP File Server started
+20-06-19 10:56:40 TCP/IP File Server started
+20-06-19 11:26:40 TCP/IP File Server started
+20-06-19 11:56:40 TCP/IP File Server started
+20-06-19 12:26:40 TCP/IP File Server started
+20-06-19 12:56:40 TCP/IP File Server started
+20-06-19 13:26:40 TCP/IP File Server started
+20-06-19 13:56:40 TCP/IP File Server started
+20-06-19 14:26:40 TCP/IP File Server started
+20-06-19 14:56:40 TCP/IP File Server started
+20-06-19 15:26:40 TCP/IP File Server started
+20-06-19 15:56:40 TCP/IP File Server started
+20-06-19 16:26:40 TCP/IP File Server started
+20-06-19 16:56:40 TCP/IP File Server started
+20-06-19 17:26:40 TCP/IP File Server started
+20-06-19 17:56:40 TCP/IP File Server started
+20-06-19 18:26:40 TCP/IP File Server started
+20-06-19 18:56:40 TCP/IP File Server started
+20-06-19 19:26:45 TCP/IP File Server started
+20-06-19 19:56:45 TCP/IP File Server started
+20-06-19 20:26:45 TCP/IP File Server started
+20-06-19 20:56:44 TCP/IP File Server started
+20-06-19 21:26:45 TCP/IP File Server started
+20-06-19 21:56:45 TCP/IP File Server started
+20-06-19 21:57:16  Net - zionlionaraujo2008 connected 19-6-20 21:57:16
+20-06-19 21:58:58 Destroying Devices.
+20-06-19 21:58:59    End of Log.

@@ -1,0 +1,3820 @@
+20-04-15 18:38:37    Console Log Started
+20-04-15 18:38:37 Welcome to Soldat 1.7.1
+20-04-15 18:38:37  [*] Preparing scripts to be launched
+20-04-15 18:38:37  [*] Done
+20-04-15 18:38:37 ctf_Ash by chakapoko maker
+20-04-15 18:38:37  Connection for file server started. Port: 23083
+20-04-15 18:38:38 Registering server @ 88.99.234.252
+20-04-15 18:43:38 Time Left: 5 minutes
+20-04-15 18:44:38 Time Left: 4 minutes
+20-04-15 18:45:38 Time Left: 3 minutes
+20-04-15 18:46:38 Time Left: 2 minutes
+20-04-15 18:47:38 Time Left: 1 minutes
+20-04-15 18:48:38 Next map: ctf_B2b
+20-04-15 18:48:43 B2B
+20-04-15 18:53:43 Time Left: 5 minutes
+20-04-15 18:54:43 Time Left: 4 minutes
+20-04-15 18:55:43 Time Left: 3 minutes
+20-04-15 18:56:43 Time Left: 2 minutes
+20-04-15 18:57:43 Time Left: 1 minutes
+20-04-15 18:58:26 181.43.77.44:23073|176530BD328 requesting game...
+20-04-15 18:58:29 Zazza.cl joining game (181.43.77.44:23073) HWID:176530BD328
+20-04-15 18:58:29 Zazza.cl has joined alpha team.
+20-04-15 18:58:37 Zazza.cl has left alpha team.
+20-04-15 18:58:43 Next map: ctf_Blade
+20-04-15 18:58:49 Blade by Zakath
+20-04-15 19:03:49 Time Left: 5 minutes
+20-04-15 19:04:49 Time Left: 4 minutes
+20-04-15 19:05:49 Time Left: 3 minutes
+20-04-15 19:06:49 Time Left: 2 minutes
+20-04-15 19:07:49 Time Left: 1 minutes
+20-04-15 19:08:49 Next map: ctf_Viet
+20-04-15 19:08:54 Viet
+20-04-15 19:13:54 Time Left: 5 minutes
+20-04-15 19:14:54 Time Left: 4 minutes
+20-04-15 19:15:54 Time Left: 3 minutes
+20-04-15 19:16:54 Time Left: 2 minutes
+20-04-15 19:17:54 Time Left: 1 minutes
+20-04-15 19:18:54 Next map: ctf_Division
+20-04-15 19:18:59 Division by Boxo, KC, viral
+20-04-15 19:20:34 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-15 19:20:36 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-15 19:20:36 .:{MIS}:. Leche has joined as spectator.
+20-04-15 19:20:40 .:{MIS}:. Leche has left spectators
+20-04-15 19:23:59 Time Left: 5 minutes
+20-04-15 19:24:59 Time Left: 4 minutes
+20-04-15 19:25:59 Time Left: 3 minutes
+20-04-15 19:26:10 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-15 19:26:16 -phobos joining game (200.120.145.184:23073) HWID:4215E8C6452
+20-04-15 19:26:16 -phobos has joined alpha team.
+20-04-15 19:26:38 -phobos captured the Blue Flag
+20-04-15 19:26:49 -phobos scores for Alpha Team
+20-04-15 19:26:57 -phobos captured the Blue Flag
+20-04-15 19:26:59 Time Left: 2 minutes
+20-04-15 19:27:10 -phobos scores for Alpha Team
+20-04-15 19:27:59 Time Left: 1 minutes
+20-04-15 19:28:06 -phobos captured the Blue Flag
+20-04-15 19:28:20 -phobos scores for Alpha Team
+20-04-15 19:28:40 -phobos captured the Blue Flag
+20-04-15 19:28:47 -phobos scores for Alpha Team
+20-04-15 19:28:59 Next map: ctf_Death
+20-04-15 19:29:05 Death by MM, g_d. Boxo, mtk`
+20-04-15 19:29:23 -phobos captured the Blue Flag
+20-04-15 19:29:35 -phobos scores for Alpha Team
+20-04-15 19:29:53 -phobos captured the Blue Flag
+20-04-15 19:30:04 -phobos scores for Alpha Team
+20-04-15 19:30:25 -phobos captured the Blue Flag
+20-04-15 19:30:36 -phobos scores for Alpha Team
+20-04-15 19:30:48 -phobos captured the Blue Flag
+20-04-15 19:30:55 -phobos captured the Blue Flag
+20-04-15 19:31:02 -phobos scores for Alpha Team
+20-04-15 19:31:16 -phobos captured the Blue Flag
+20-04-15 19:31:52 -phobos scores for Alpha Team
+20-04-15 19:32:07 -phobos captured the Blue Flag
+20-04-15 19:32:19 -phobos scores for Alpha Team
+20-04-15 19:32:35 -phobos captured the Blue Flag
+20-04-15 19:32:45 -phobos scores for Alpha Team
+20-04-15 19:32:53 -phobos captured the Blue Flag
+20-04-15 19:33:00 -phobos scores for Alpha Team
+20-04-15 19:33:09 -phobos captured the Blue Flag
+20-04-15 19:33:18 -phobos scores for Alpha Team
+20-04-15 19:33:36 -phobos captured the Blue Flag
+20-04-15 19:33:45 Next map: ctf_Hormone
+20-04-15 19:33:45 -phobos scores for Alpha Team
+20-04-15 19:33:50 Hormone by Metsänaperot
+20-04-15 19:34:07 -phobos captured the Blue Flag
+20-04-15 19:34:19 -phobos scores for Alpha Team
+20-04-15 19:34:28 -phobos captured the Blue Flag
+20-04-15 19:34:45 -phobos scores for Alpha Team
+20-04-15 19:35:10 -phobos has left alpha team.
+20-04-15 19:35:31 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-15 19:35:33 -phobos joining game (200.120.145.184:23073) HWID:4215E8C6452
+20-04-15 19:35:33 -phobos has joined bravo team.
+20-04-15 19:35:38 -phobos captured the Red Flag
+20-04-15 19:36:53 -phobos scores for Bravo Team
+20-04-15 19:37:59 -phobos captured the Red Flag
+20-04-15 19:38:10 -phobos scores for Bravo Team
+20-04-15 19:38:23 -phobos captured the Red Flag
+20-04-15 19:38:29 201.215.12.27:23073|2F7194A8FD9 requesting game...
+20-04-15 19:38:30 sugoi-ne joining game (201.215.12.27:23073) HWID:2F7194A8FD9
+20-04-15 19:38:30 sugoi-ne has joined alpha team.
+20-04-15 19:38:33 -phobos scores for Bravo Team
+20-04-15 19:38:47 (2) -phobos killed (1) sugoi-ne with Ak-74
+20-04-15 19:38:48 [sugoi-ne] No!
+20-04-15 19:38:50 Time Left: 5 minutes
+20-04-15 19:38:53 -phobos captured the Red Flag
+20-04-15 19:38:54 sugoi-ne captured the Blue Flag
+20-04-15 19:39:03 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:39:04 sugoi-ne returned the Red Flag
+20-04-15 19:39:06 sugoi-ne scores for Alpha Team
+20-04-15 19:39:11 (2) -phobos killed (1) sugoi-ne with USSOCOM
+20-04-15 19:39:15 -phobos captured the Red Flag
+20-04-15 19:39:16 sugoi-ne captured the Blue Flag
+20-04-15 19:39:36 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:39:40 -phobos returned the Blue Flag
+20-04-15 19:39:48 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:39:48 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:39:50 Time Left: 4 minutes
+20-04-15 19:39:55 sugoi-ne captured the Blue Flag
+20-04-15 19:39:57 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:39:59 sugoi-ne returned the Red Flag
+20-04-15 19:40:02 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:05 sugoi-ne scores for Alpha Team
+20-04-15 19:40:07 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:12 -phobos captured the Red Flag
+20-04-15 19:40:16 sugoi-ne captured the Blue Flag
+20-04-15 19:40:18 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:20 sugoi-ne returned the Red Flag
+20-04-15 19:40:26 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:29 sugoi-ne scores for Alpha Team
+20-04-15 19:40:31 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:36 -phobos captured the Red Flag
+20-04-15 19:40:40 sugoi-ne captured the Blue Flag
+20-04-15 19:40:47 (1) sugoi-ne killed (2) -phobos with Combat Knife
+20-04-15 19:40:50 sugoi-ne returned the Red Flag
+20-04-15 19:40:50 Time Left: 3 minutes
+20-04-15 19:40:52 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:40:55 sugoi-ne scores for Alpha Team
+20-04-15 19:40:59 (1) sugoi-ne killed (2) -phobos with Grenade
+20-04-15 19:41:04 -phobos captured the Red Flag
+20-04-15 19:41:07 sugoi-ne captured the Blue Flag
+20-04-15 19:41:11 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:41:13 -phobos returned the Blue Flag
+20-04-15 19:41:14 (1) sugoi-ne killed (2) -phobos with Combat Knife
+20-04-15 19:41:14 sugoi-ne returned the Red Flag
+20-04-15 19:41:17 sugoi-ne captured the Blue Flag
+20-04-15 19:41:19 -phobos captured the Red Flag
+20-04-15 19:41:25 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:41:26 sugoi-ne returned the Red Flag
+20-04-15 19:41:32 (2) -phobos killed (1) sugoi-ne with Combat Knife
+20-04-15 19:41:32 [sugoi-ne] No!
+20-04-15 19:41:35 -phobos captured the Red Flag
+20-04-15 19:41:38 -phobos returned the Blue Flag
+20-04-15 19:41:40 sugoi-ne captured the Blue Flag
+20-04-15 19:41:49 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:41:50 Time Left: 2 minutes
+20-04-15 19:41:52 -phobos returned the Blue Flag
+20-04-15 19:41:53 (1) sugoi-ne killed (2) -phobos with Combat Knife
+20-04-15 19:41:55 sugoi-ne returned the Red Flag
+20-04-15 19:41:55 sugoi-ne captured the Blue Flag
+20-04-15 19:42:00 -phobos captured the Red Flag
+20-04-15 19:42:03 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:42:07 -phobos returned the Blue Flag
+20-04-15 19:42:23 -phobos scores for Bravo Team
+20-04-15 19:42:24 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:42:25 sugoi-ne captured the Blue Flag
+20-04-15 19:42:29 -phobos captured the Red Flag
+20-04-15 19:42:32 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:42:36 -phobos returned the Blue Flag
+20-04-15 19:42:43 (1) sugoi-ne killed (2) -phobos with Grenade
+20-04-15 19:42:46 sugoi-ne returned the Red Flag
+20-04-15 19:42:47 sugoi-ne captured the Blue Flag
+20-04-15 19:42:48 -phobos captured the Red Flag
+20-04-15 19:42:50 Time Left: 1 minutes
+20-04-15 19:43:03 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:43:06 sugoi-ne returned the Red Flag
+20-04-15 19:43:07 sugoi-ne captured the Blue Flag
+20-04-15 19:43:11 -phobos captured the Red Flag
+20-04-15 19:43:12 (1) sugoi-ne killed (2) -phobos with Combat Knife
+20-04-15 19:43:14 sugoi-ne scores for Alpha Team
+20-04-15 19:43:16 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:43:23 sugoi-ne captured the Blue Flag
+20-04-15 19:43:25 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:43:26 -phobos returned the Blue Flag
+20-04-15 19:43:34 sugoi-ne captured the Blue Flag
+20-04-15 19:43:34 -phobos captured the Red Flag
+20-04-15 19:43:40 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:43:42 sugoi-ne returned the Red Flag
+20-04-15 19:43:45 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:43:49 sugoi-ne scores for Alpha Team
+20-04-15 19:43:49 [-phobos] ah ctm jajaja
+20-04-15 19:43:50 Next map: ctf_Laos
+20-04-15 19:43:51 [sugoi-ne] Yeah
+20-04-15 19:43:56 Laos
+20-04-15 19:44:05 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:44:10 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:44:12 sugoi-ne captured the Blue Flag
+20-04-15 19:44:26 sugoi-ne scores for Alpha Team
+20-04-15 19:44:32 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:44:41 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:44:46 sugoi-ne captured the Blue Flag
+20-04-15 19:44:47 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:44:57 sugoi-ne scores for Alpha Team
+20-04-15 19:45:20 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:45:26 -phobos captured the Red Flag
+20-04-15 19:45:26 (2) -phobos killed (1) sugoi-ne with Barrett M82A1
+20-04-15 19:45:38 -phobos scores for Bravo Team
+20-04-15 19:45:53 sugoi-ne captured the Blue Flag
+20-04-15 19:45:53 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:46:07 (1) sugoi-ne killed (2) -phobos with Barrett M82A1
+20-04-15 19:46:11 sugoi-ne has left alpha team.
+20-04-15 19:46:22 -phobos returned the Blue Flag
+20-04-15 19:46:25 -phobos captured the Red Flag
+20-04-15 19:46:47 -phobos scores for Bravo Team
+20-04-15 19:46:57 -phobos has left bravo team.
+20-04-15 19:48:56 Time Left: 5 minutes
+20-04-15 19:49:56 Time Left: 4 minutes
+20-04-15 19:50:56 Time Left: 3 minutes
+20-04-15 19:51:56 Time Left: 2 minutes
+20-04-15 19:52:56 Time Left: 1 minutes
+20-04-15 19:53:56 Next map: ctf_Laos2
+20-04-15 19:54:01 Laos
+20-04-15 19:59:01 Time Left: 5 minutes
+20-04-15 20:00:01 Time Left: 4 minutes
+20-04-15 20:01:01 Time Left: 3 minutes
+20-04-15 20:02:01 Time Left: 2 minutes
+20-04-15 20:02:44 181.74.221.99:23073|7858133F292 requesting game...
+20-04-15 20:02:53 MasTerKOF2015 joining game (181.74.221.99:23073) HWID:7858133F292
+20-04-15 20:02:53 MasTerKOF2015 has joined alpha team.
+20-04-15 20:03:01 Time Left: 1 minutes
+20-04-15 20:03:05 [MasTerKOF2015] hika
+20-04-15 20:03:07 [MasTerKOF2015] hola
+20-04-15 20:03:30 MasTerKOF2015 captured the Blue Flag
+20-04-15 20:03:49 MasTerKOF2015 scores for Alpha Team
+20-04-15 20:04:01 Next map: ctf_Maya
+20-04-15 20:04:06 Maya
+20-04-15 20:05:06 MasTerKOF2015 captured the Blue Flag
+20-04-15 20:05:26 MasTerKOF2015 scores for Alpha Team
+20-04-15 20:05:45 MasTerKOF2015 has left alpha team.
+20-04-15 20:09:06 Time Left: 5 minutes
+20-04-15 20:10:06 Time Left: 4 minutes
+20-04-15 20:11:06 Time Left: 3 minutes
+20-04-15 20:12:06 Time Left: 2 minutes
+20-04-15 20:13:06 Time Left: 1 minutes
+20-04-15 20:14:06 Next map: ctf_MFM
+20-04-15 20:14:12 MFM 2 by mar77a
+20-04-15 20:19:12 Time Left: 5 minutes
+20-04-15 20:20:12 Time Left: 4 minutes
+20-04-15 20:21:12 Time Left: 3 minutes
+20-04-15 20:22:12 Time Left: 2 minutes
+20-04-15 20:23:12 Time Left: 1 minutes
+20-04-15 20:24:11 Next map: ctf_Run
+20-04-15 20:24:17 Run
+20-04-15 20:29:17 Time Left: 5 minutes
+20-04-15 20:30:17 Time Left: 4 minutes
+20-04-15 20:31:17 Time Left: 3 minutes
+20-04-15 20:32:17 Time Left: 2 minutes
+20-04-15 20:33:17 Time Left: 1 minutes
+20-04-15 20:34:17 Next map: ctf_OldRun
+20-04-15 20:34:22 Run (get to the flag!)
+20-04-15 20:39:22 Time Left: 5 minutes
+20-04-15 20:40:22 Time Left: 4 minutes
+20-04-15 20:41:22 Time Left: 3 minutes
+20-04-15 20:42:22 Time Left: 2 minutes
+20-04-15 20:43:22 Time Left: 1 minutes
+20-04-15 20:44:22 Next map: ctf_Ash
+20-04-15 20:44:27 ctf_Ash by chakapoko maker
+20-04-15 20:45:47 187.204.220.18:23073|17118C2DF9A requesting game...
+20-04-15 20:45:51 ROY1212 joining game (187.204.220.18:23073) HWID:17118C2DF9A
+20-04-15 20:45:51 ROY1212 has joined alpha team.
+20-04-15 20:45:55 ROY1212 gets a ping warning
+20-04-15 20:46:02 ROY1212 gets a ping warning
+20-04-15 20:46:09 ROY1212 gets a ping warning
+20-04-15 20:46:14 ROY1212 captured the Blue Flag
+20-04-15 20:46:16 ROY1212 gets a ping warning
+20-04-15 20:46:23 ROY1212 gets a ping warning
+20-04-15 20:46:30 ROY1212 gets a ping warning
+20-04-15 20:46:32 ROY1212 scores for Alpha Team
+20-04-15 20:46:35 ROY1212 has left alpha team.
+20-04-15 20:49:27 Time Left: 5 minutes
+20-04-15 20:50:27 Time Left: 4 minutes
+20-04-15 20:51:27 Time Left: 3 minutes
+20-04-15 20:52:27 Time Left: 2 minutes
+20-04-15 20:53:27 Time Left: 1 minutes
+20-04-15 20:54:18 201.239.63.70:63185|BE9BD586D65 requesting game...
+20-04-15 20:54:19 [KnF] Yakuza joining game (201.239.63.70:63185) HWID:BE9BD586D65
+20-04-15 20:54:19 [KnF] Yakuza has joined alpha team.
+20-04-15 20:54:27 Next map: ctf_B2b
+20-04-15 20:54:29 [KnF] Yakuza has left alpha team.
+20-04-15 20:54:33 B2B
+20-04-15 20:54:57 201.239.63.70:63185|BE9BD586D65 requesting game...
+20-04-15 20:54:58 [KnF] Yakuza joining game (201.239.63.70:63185) HWID:BE9BD586D65
+20-04-15 20:54:58 [KnF] Yakuza has joined alpha team.
+20-04-15 20:55:01 [KnF] Yakuza has left alpha team.
+20-04-15 20:59:33 Time Left: 5 minutes
+20-04-15 21:00:33 Time Left: 4 minutes
+20-04-15 21:01:33 Time Left: 3 minutes
+20-04-15 21:02:33 Time Left: 2 minutes
+20-04-15 21:03:33 Time Left: 1 minutes
+20-04-15 21:04:33 Next map: ctf_Viet
+20-04-15 21:04:38 Viet
+20-04-15 21:09:38 Time Left: 5 minutes
+20-04-15 21:10:38 Time Left: 4 minutes
+20-04-15 21:11:38 Time Left: 3 minutes
+20-04-15 21:12:38 Time Left: 2 minutes
+20-04-15 21:13:38 Time Left: 1 minutes
+20-04-15 21:14:38 Next map: ctf_Campeche
+20-04-15 21:14:43 Campeche by Zakath
+20-04-15 21:19:43 Time Left: 5 minutes
+20-04-15 21:20:43 Time Left: 4 minutes
+20-04-15 21:21:43 Time Left: 3 minutes
+20-04-15 21:22:43 Time Left: 2 minutes
+20-04-15 21:23:43 Time Left: 1 minutes
+20-04-15 21:24:43 Next map: ctf_Snakebite
+20-04-15 21:24:49 Snakebite orig. by chakapoko maker
+20-04-15 21:29:49 Time Left: 5 minutes
+20-04-15 21:30:49 Time Left: 4 minutes
+20-04-15 21:31:49 Time Left: 3 minutes
+20-04-15 21:32:49 Time Left: 2 minutes
+20-04-15 21:33:49 Time Left: 1 minutes
+20-04-15 21:34:49 Next map: ctf_Run
+20-04-15 21:34:54 Run
+20-04-15 21:39:54 Time Left: 5 minutes
+20-04-15 21:40:54 Time Left: 4 minutes
+20-04-15 21:41:54 Time Left: 3 minutes
+20-04-15 21:42:54 Time Left: 2 minutes
+20-04-15 21:43:54 Time Left: 1 minutes
+20-04-15 21:44:54 Next map: ctf_Nuubia
+20-04-15 21:44:59 by Troskal and friends
+20-04-15 21:49:59 Time Left: 5 minutes
+20-04-15 21:50:59 Time Left: 4 minutes
+20-04-15 21:51:59 Time Left: 3 minutes
+20-04-15 21:52:18 201.239.63.70:64266|BE9BD586D65 requesting game...
+20-04-15 21:52:20 [KnF] Yakuza joining game (201.239.63.70:64266) HWID:BE9BD586D65
+20-04-15 21:52:20 [KnF] Yakuza has joined alpha team.
+20-04-15 21:52:26 [KnF] Yakuza has left alpha team.
+20-04-15 21:52:59 Time Left: 2 minutes
+20-04-15 21:53:36 191.113.179.15:23073|2E245BF41A9 requesting game...
+20-04-15 21:53:38 Squash joining game (191.113.179.15:23073) HWID:2E245BF41A9
+20-04-15 21:53:38 Squash has joined alpha team.
+20-04-15 21:53:49 Squash gets a ping warning
+20-04-15 21:53:50 Squash has left alpha team.
+20-04-15 21:53:59 Time Left: 1 minutes
+20-04-15 21:54:59 Next map: ctf_Guardian
+20-04-15 21:55:05 ctf_Guardian by SuoW
+20-04-15 22:00:05 Time Left: 5 minutes
+20-04-15 22:00:33 181.42.40.185:61185|335C6C24D56 requesting game...
+20-04-15 22:01:05 Time Left: 4 minutes
+20-04-15 22:02:05 Time Left: 3 minutes
+20-04-15 22:03:05 Time Left: 2 minutes
+20-04-15 22:04:05 Time Left: 1 minutes
+20-04-15 22:05:05 Next map: ctf_Ash
+20-04-15 22:05:10 ctf_Ash by chakapoko maker
+20-04-15 22:10:10 Time Left: 5 minutes
+20-04-15 22:11:10 Time Left: 4 minutes
+20-04-15 22:12:10 Time Left: 3 minutes
+20-04-15 22:13:10 Time Left: 2 minutes
+20-04-15 22:14:10 Time Left: 1 minutes
+20-04-15 22:15:10 Next map: ctf_B2b
+20-04-15 22:15:15 B2B
+20-04-15 22:20:15 Time Left: 5 minutes
+20-04-15 22:21:15 Time Left: 4 minutes
+20-04-15 22:22:15 Time Left: 3 minutes
+20-04-15 22:23:15 Time Left: 2 minutes
+20-04-15 22:24:15 Time Left: 1 minutes
+20-04-15 22:25:15 Next map: ctf_Blade
+20-04-15 22:25:21 Blade by Zakath
+20-04-15 22:30:21 Time Left: 5 minutes
+20-04-15 22:31:21 Time Left: 4 minutes
+20-04-15 22:32:21 Time Left: 3 minutes
+20-04-15 22:33:21 Time Left: 2 minutes
+20-04-15 22:34:21 Time Left: 1 minutes
+20-04-15 22:35:21 Next map: ctf_Viet
+20-04-15 22:35:26 Viet
+20-04-15 22:40:26 Time Left: 5 minutes
+20-04-15 22:41:26 Time Left: 4 minutes
+20-04-15 22:42:26 Time Left: 3 minutes
+20-04-15 22:43:26 Time Left: 2 minutes
+20-04-15 22:44:26 Time Left: 1 minutes
+20-04-15 22:45:26 Next map: ctf_Division
+20-04-15 22:45:31 Division by Boxo, KC, viral
+20-04-15 22:50:31 Time Left: 5 minutes
+20-04-15 22:51:31 Time Left: 4 minutes
+20-04-15 22:51:46 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-15 22:51:52 -phobos joining game (200.120.145.184:23073) HWID:4215E8C6452
+20-04-15 22:51:52 -phobos has joined alpha team.
+20-04-15 22:51:53 -phobos has left alpha team.
+20-04-15 22:52:31 Time Left: 3 minutes
+20-04-15 22:53:31 Time Left: 2 minutes
+20-04-15 22:54:31 Time Left: 1 minutes
+20-04-15 22:55:31 Next map: ctf_Death
+20-04-15 22:55:34 190.217.138.174:1113|A3446B648A7 requesting game...
+20-04-15 22:55:37 Death by MM, g_d. Boxo, mtk`
+20-04-15 23:00:37 Time Left: 5 minutes
+20-04-15 23:01:37 Time Left: 4 minutes
+20-04-15 23:02:37 Time Left: 3 minutes
+20-04-15 23:03:37 Time Left: 2 minutes
+20-04-15 23:04:37 Time Left: 1 minutes
+20-04-15 23:05:37 Next map: ctf_Hormone
+20-04-15 23:05:42 Hormone by Metsänaperot
+20-04-15 23:10:42 Time Left: 5 minutes
+20-04-15 23:11:42 Time Left: 4 minutes
+20-04-15 23:12:42 Time Left: 3 minutes
+20-04-15 23:13:42 Time Left: 2 minutes
+20-04-15 23:14:35 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-15 23:14:37 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-15 23:14:37 .:{MIS}:. Leche has joined as spectator.
+20-04-15 23:14:40 .:{MIS}:. Leche has left spectators
+20-04-15 23:14:42 Time Left: 1 minutes
+20-04-15 23:15:42 Next map: ctf_Laos
+20-04-15 23:15:47 Laos
+20-04-15 23:20:47 Time Left: 5 minutes
+20-04-15 23:21:47 Time Left: 4 minutes
+20-04-15 23:22:47 Time Left: 3 minutes
+20-04-15 23:23:47 Time Left: 2 minutes
+20-04-15 23:24:47 Time Left: 1 minutes
+20-04-15 23:25:47 Next map: ctf_Laos2
+20-04-15 23:25:53 Laos
+20-04-15 23:27:17 201.215.12.27:23073|2F7194A8FD9 requesting game...
+20-04-15 23:27:18 sugoi-ne joining game (201.215.12.27:23073) HWID:2F7194A8FD9
+20-04-15 23:27:18 sugoi-ne has joined alpha team.
+20-04-15 23:27:34 201.215.12.27:1025|4E90D2A05FD requesting game...
+20-04-15 23:27:36 Major joining game (201.215.12.27:1025) HWID:4E90D2A05FD
+20-04-15 23:27:36 Major has joined bravo team.
+20-04-15 23:27:49 (1) sugoi-ne killed (2) Major with Ruger 77
+20-04-15 23:27:50 sugoi-ne captured the Blue Flag
+20-04-15 23:28:07 sugoi-ne scores for Alpha Team
+20-04-15 23:28:15 (1) sugoi-ne killed (2) Major with Ruger 77
+20-04-15 23:28:16 181.43.77.44:23073|176530BD328 requesting game...
+20-04-15 23:28:17 Zazza.cl  {AR} joining game (181.43.77.44:23073) HWID:176530BD328
+20-04-15 23:28:17 Zazza.cl  {AR} has joined as spectator.
+20-04-15 23:28:21 Zazza.cl  {AR} has joined bravo team.
+20-04-15 23:28:25 (2) Major killed (1) sugoi-ne with Barrett M82A1
+20-04-15 23:28:31 Major captured the Red Flag
+20-04-15 23:28:39 Major has joined alpha team.
+20-04-15 23:28:40 (2) Zazza.cl  {AR} killed (1) sugoi-ne with Barrett M82A1
+20-04-15 23:28:41 Zazza.cl  {AR} captured the Red Flag
+20-04-15 23:28:43 (2) Zazza.cl  {AR} killed (1) Major with Grenade
+20-04-15 23:28:53 Zazza.cl  {AR} scores for Bravo Team
+20-04-15 23:28:56 Zazza.cl  {AR} returned the Blue Flag
+20-04-15 23:29:06 (1) Major killed (2) Zazza.cl  {AR} with Combat Knife
+20-04-15 23:29:06 sugoi-ne captured the Blue Flag
+20-04-15 23:29:13 (2) Zazza.cl  {AR} killed (1) Major with Combat Knife
+20-04-15 23:29:16 (1) sugoi-ne killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-15 23:29:21 sugoi-ne scores for Alpha Team
+20-04-15 23:29:25 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-15 23:29:30 (1) sugoi-ne killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-15 23:29:30 (2) Zazza.cl  {AR} killed (1) sugoi-ne with Barrett M82A1
+20-04-15 23:29:40 (1) sugoi-ne killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-15 23:29:41 sugoi-ne has left alpha team.
+20-04-15 23:29:55 (2) Zazza.cl  {AR} killed (1) Major with Combat Knife
+20-04-15 23:30:04 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-15 23:30:05 Zazza.cl  {AR} captured the Red Flag
+20-04-15 23:30:20 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-15 23:30:30 (2) Zazza.cl  {AR} killed (1) Major with Combat Knife
+20-04-15 23:30:35 (2) Zazza.cl  {AR} killed (1) Major with Combat Knife
+20-04-15 23:30:39 (2) Zazza.cl  {AR} killed (1) Major with Combat Knife
+20-04-15 23:30:45 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-15 23:30:46 Zazza.cl  {AR} has left bravo team.
+20-04-15 23:30:50 Major returned the Red Flag
+20-04-15 23:30:52 Major has left alpha team.
+20-04-15 23:30:53 Time Left: 5 minutes
+20-04-15 23:31:53 Time Left: 4 minutes
+20-04-15 23:32:53 Time Left: 3 minutes
+20-04-15 23:33:53 Time Left: 2 minutes
+20-04-15 23:34:43 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-15 23:34:53 Time Left: 1 minutes
+20-04-15 23:35:53 Next map: ctf_Maya
+20-04-15 23:35:58 Maya
+20-04-15 23:40:58 Time Left: 5 minutes
+20-04-15 23:41:24 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-15 23:41:58 Time Left: 4 minutes
+20-04-15 23:42:58 Time Left: 3 minutes
+20-04-15 23:43:58 Time Left: 2 minutes
+20-04-15 23:44:58 Time Left: 1 minutes
+20-04-15 23:45:58 Next map: ctf_MFM
+20-04-15 23:46:03 MFM 2 by mar77a
+20-04-15 23:51:03 Time Left: 5 minutes
+20-04-15 23:52:03 Time Left: 4 minutes
+20-04-15 23:53:03 Time Left: 3 minutes
+20-04-15 23:54:03 Time Left: 2 minutes
+20-04-15 23:55:03 Time Left: 1 minutes
+20-04-15 23:56:03 Next map: ctf_Run
+20-04-15 23:56:08 Run
+20-04-15 23:59:58 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-16 00:01:08 Time Left: 5 minutes
+20-04-16 00:02:08 Time Left: 4 minutes
+20-04-16 00:03:08 Time Left: 3 minutes
+20-04-16 00:04:08 Time Left: 2 minutes
+20-04-16 00:05:08 Time Left: 1 minutes
+20-04-16 00:06:08 Next map: ctf_OldRun
+20-04-16 00:06:14 Run (get to the flag!)
+20-04-16 00:11:14 Time Left: 5 minutes
+20-04-16 00:12:14 Time Left: 4 minutes
+20-04-16 00:13:14 Time Left: 3 minutes
+20-04-16 00:14:14 Time Left: 2 minutes
+20-04-16 00:15:14 Time Left: 1 minutes
+20-04-16 00:16:14 Next map: ctf_Ash
+20-04-16 00:16:19 ctf_Ash by chakapoko maker
+20-04-16 00:20:59 201.215.12.27:23073|4E90D2A05FD requesting game...
+20-04-16 00:21:00 Major joining game (201.215.12.27:23073) HWID:4E90D2A05FD
+20-04-16 00:21:00 Major has joined alpha team.
+20-04-16 00:21:01 181.43.77.44:23073|176530BD328 requesting game...
+20-04-16 00:21:03 Zazza.cl  {AR} joining game (181.43.77.44:23073) HWID:176530BD328
+20-04-16 00:21:03 Zazza.cl  {AR} has joined bravo team.
+20-04-16 00:21:09 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-16 00:21:17 Zazza.cl  {AR} captured the Red Flag
+20-04-16 00:21:19 (1) Major killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-16 00:21:19 Time Left: 5 minutes
+20-04-16 00:21:24 (1) Major killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-16 00:21:31 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-16 00:21:31 (1) Major killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-16 00:21:39 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-16 00:21:45 Zazza.cl  {AR} captured the Red Flag
+20-04-16 00:21:46 (1) Major killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-16 00:21:54 (1) Major killed (2) Zazza.cl  {AR} with Barrett M82A1
+20-04-16 00:22:01 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-16 00:22:13 Zazza.cl  {AR} captured the Red Flag
+20-04-16 00:22:17 201.241.245.222:23073|2D6052AB6EA requesting game...
+20-04-16 00:22:18 (2) Zazza.cl  {AR} killed (1) Major with Barrett M82A1
+20-04-16 00:22:18 S2 ~ DeFkOndOz* joining game (201.241.245.222:23073) HWID:2D6052AB6EA
+20-04-16 00:22:18 S2 ~ DeFkOndOz* has joined alpha team.
+20-04-16 00:22:19 Time Left: 4 minutes
+20-04-16 00:22:21 S2 ~ DeFkOndOz* has left alpha team.
+20-04-16 00:22:25 Zazza.cl  {AR} scores for Bravo Team
+20-04-16 00:22:25 Zazza.cl  {AR} has left bravo team.
+20-04-16 00:22:28 Major has left alpha team.
+20-04-16 00:23:19 Time Left: 3 minutes
+20-04-16 00:24:19 Time Left: 2 minutes
+20-04-16 00:25:19 Time Left: 1 minutes
+20-04-16 00:26:19 Next map: ctf_B2b
+20-04-16 00:26:24 B2B
+20-04-16 00:29:02 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-16 00:29:05 -phobos joining game (200.120.145.184:23073) HWID:4215E8C6452
+20-04-16 00:29:05 -phobos has joined bravo team.
+20-04-16 00:29:12 -phobos has left bravo team.
+20-04-16 00:29:14 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-16 00:31:24 Time Left: 5 minutes
+20-04-16 00:32:24 Time Left: 4 minutes
+20-04-16 00:33:24 Time Left: 3 minutes
+20-04-16 00:34:24 Time Left: 2 minutes
+20-04-16 00:35:24 Time Left: 1 minutes
+20-04-16 00:36:24 Next map: ctf_Viet
+20-04-16 00:36:30 Viet
+20-04-16 00:41:30 Time Left: 5 minutes
+20-04-16 00:42:30 Time Left: 4 minutes
+20-04-16 00:43:30 Time Left: 3 minutes
+20-04-16 00:44:30 Time Left: 2 minutes
+20-04-16 00:45:30 Time Left: 1 minutes
+20-04-16 00:46:30 Next map: ctf_Campeche
+20-04-16 00:46:35 Campeche by Zakath
+20-04-16 00:51:35 Time Left: 5 minutes
+20-04-16 00:52:35 Time Left: 4 minutes
+20-04-16 00:53:35 Time Left: 3 minutes
+20-04-16 00:54:35 Time Left: 2 minutes
+20-04-16 00:55:35 Time Left: 1 minutes
+20-04-16 00:56:35 Next map: ctf_Snakebite
+20-04-16 00:56:40 Snakebite orig. by chakapoko maker
+20-04-16 01:01:40 Time Left: 5 minutes
+20-04-16 01:02:40 Time Left: 4 minutes
+20-04-16 01:03:40 Time Left: 3 minutes
+20-04-16 01:04:40 Time Left: 2 minutes
+20-04-16 01:05:40 Time Left: 1 minutes
+20-04-16 01:06:40 Next map: ctf_Run
+20-04-16 01:06:46 Run
+20-04-16 01:11:46 Time Left: 5 minutes
+20-04-16 01:12:46 Time Left: 4 minutes
+20-04-16 01:13:46 Time Left: 3 minutes
+20-04-16 01:14:46 Time Left: 2 minutes
+20-04-16 01:15:46 Time Left: 1 minutes
+20-04-16 01:16:46 Next map: ctf_Nuubia
+20-04-16 01:16:51 by Troskal and friends
+20-04-16 01:17:38 191.113.190.28:23073|5D324D12DA7 requesting game...
+20-04-16 01:17:40 COMANDO KELOKE joining game (191.113.190.28:23073) HWID:5D324D12DA7
+20-04-16 01:17:40 COMANDO KELOKE has joined alpha team.
+20-04-16 01:17:43 COMANDO KELOKE has left alpha team.
+20-04-16 01:21:51 Time Left: 5 minutes
+20-04-16 01:22:51 Time Left: 4 minutes
+20-04-16 01:23:51 Time Left: 3 minutes
+20-04-16 01:24:51 Time Left: 2 minutes
+20-04-16 01:25:51 Time Left: 1 minutes
+20-04-16 01:26:51 Next map: ctf_Guardian
+20-04-16 01:26:56 ctf_Guardian by SuoW
+20-04-16 01:27:28 Registering server @ 88.99.234.252
+20-04-16 01:31:56 Time Left: 5 minutes
+20-04-16 01:32:56 Time Left: 4 minutes
+20-04-16 01:33:56 Time Left: 3 minutes
+20-04-16 01:34:56 Time Left: 2 minutes
+20-04-16 01:35:56 Time Left: 1 minutes
+20-04-16 01:36:56 Next map: ctf_Ash
+20-04-16 01:37:02 ctf_Ash by chakapoko maker
+20-04-16 01:42:02 Time Left: 5 minutes
+20-04-16 01:43:02 Time Left: 4 minutes
+20-04-16 01:44:02 Time Left: 3 minutes
+20-04-16 01:45:02 Time Left: 2 minutes
+20-04-16 01:46:02 Time Left: 1 minutes
+20-04-16 01:47:02 Next map: ctf_B2b
+20-04-16 01:47:07 B2B
+20-04-16 01:52:07 Time Left: 5 minutes
+20-04-16 01:53:07 Time Left: 4 minutes
+20-04-16 01:54:07 Time Left: 3 minutes
+20-04-16 01:55:07 Time Left: 2 minutes
+20-04-16 01:56:07 Time Left: 1 minutes
+20-04-16 01:57:07 Next map: ctf_Blade
+20-04-16 01:57:12 Blade by Zakath
+20-04-16 02:02:12 Time Left: 5 minutes
+20-04-16 02:03:12 Time Left: 4 minutes
+20-04-16 02:04:12 Time Left: 3 minutes
+20-04-16 02:05:12 Time Left: 2 minutes
+20-04-16 02:06:12 Time Left: 1 minutes
+20-04-16 02:07:12 Next map: ctf_Viet
+20-04-16 02:07:18 Viet
+20-04-16 02:12:18 Time Left: 5 minutes
+20-04-16 02:13:18 Time Left: 4 minutes
+20-04-16 02:14:18 Time Left: 3 minutes
+20-04-16 02:15:18 Time Left: 2 minutes
+20-04-16 02:16:18 Time Left: 1 minutes
+20-04-16 02:17:18 Next map: ctf_Division
+20-04-16 02:17:23 Division by Boxo, KC, viral
+20-04-16 02:22:23 Time Left: 5 minutes
+20-04-16 02:23:23 Time Left: 4 minutes
+20-04-16 02:24:23 Time Left: 3 minutes
+20-04-16 02:25:23 Time Left: 2 minutes
+20-04-16 02:26:23 Time Left: 1 minutes
+20-04-16 02:27:23 Next map: ctf_Death
+20-04-16 02:27:28 Death by MM, g_d. Boxo, mtk`
+20-04-16 02:32:28 Time Left: 5 minutes
+20-04-16 02:33:28 Time Left: 4 minutes
+20-04-16 02:34:28 Time Left: 3 minutes
+20-04-16 02:35:28 Time Left: 2 minutes
+20-04-16 02:36:28 Time Left: 1 minutes
+20-04-16 02:37:28 Next map: ctf_Hormone
+20-04-16 02:37:34 Hormone by Metsänaperot
+20-04-16 02:42:34 Time Left: 5 minutes
+20-04-16 02:43:34 Time Left: 4 minutes
+20-04-16 02:44:34 Time Left: 3 minutes
+20-04-16 02:45:34 Time Left: 2 minutes
+20-04-16 02:46:34 Time Left: 1 minutes
+20-04-16 02:47:34 Next map: ctf_Laos
+20-04-16 02:47:39 Laos
+20-04-16 02:52:39 Time Left: 5 minutes
+20-04-16 02:53:39 Time Left: 4 minutes
+20-04-16 02:54:39 Time Left: 3 minutes
+20-04-16 02:55:39 Time Left: 2 minutes
+20-04-16 02:56:39 Time Left: 1 minutes
+20-04-16 02:57:39 Next map: ctf_Laos2
+20-04-16 02:57:44 Laos
+20-04-16 03:02:44 Time Left: 5 minutes
+20-04-16 03:03:44 Time Left: 4 minutes
+20-04-16 03:04:44 Time Left: 3 minutes
+20-04-16 03:05:44 Time Left: 2 minutes
+20-04-16 03:06:44 Time Left: 1 minutes
+20-04-16 03:07:44 Next map: ctf_Maya
+20-04-16 03:07:50 Maya
+20-04-16 03:12:49 Time Left: 5 minutes
+20-04-16 03:13:49 Time Left: 4 minutes
+20-04-16 03:14:49 Time Left: 3 minutes
+20-04-16 03:15:49 Time Left: 2 minutes
+20-04-16 03:16:49 Time Left: 1 minutes
+20-04-16 03:17:49 Next map: ctf_MFM
+20-04-16 03:17:55 MFM 2 by mar77a
+20-04-16 03:22:55 Time Left: 5 minutes
+20-04-16 03:23:55 Time Left: 4 minutes
+20-04-16 03:24:55 Time Left: 3 minutes
+20-04-16 03:25:55 Time Left: 2 minutes
+20-04-16 03:26:55 Time Left: 1 minutes
+20-04-16 03:27:55 Next map: ctf_Run
+20-04-16 03:28:00 Run
+20-04-16 03:33:00 Time Left: 5 minutes
+20-04-16 03:34:00 Time Left: 4 minutes
+20-04-16 03:35:00 Time Left: 3 minutes
+20-04-16 03:36:00 Time Left: 2 minutes
+20-04-16 03:37:00 Time Left: 1 minutes
+20-04-16 03:38:00 Next map: ctf_OldRun
+20-04-16 03:38:05 Run (get to the flag!)
+20-04-16 03:43:05 Time Left: 5 minutes
+20-04-16 03:44:05 Time Left: 4 minutes
+20-04-16 03:45:05 Time Left: 3 minutes
+20-04-16 03:46:05 Time Left: 2 minutes
+20-04-16 03:47:05 Time Left: 1 minutes
+20-04-16 03:48:05 Next map: ctf_Ash
+20-04-16 03:48:11 ctf_Ash by chakapoko maker
+20-04-16 03:53:11 Time Left: 5 minutes
+20-04-16 03:54:11 Time Left: 4 minutes
+20-04-16 03:55:11 Time Left: 3 minutes
+20-04-16 03:56:11 Time Left: 2 minutes
+20-04-16 03:57:11 Time Left: 1 minutes
+20-04-16 03:58:11 Next map: ctf_B2b
+20-04-16 03:58:16 B2B
+20-04-16 04:03:16 Time Left: 5 minutes
+20-04-16 04:04:16 Time Left: 4 minutes
+20-04-16 04:05:16 Time Left: 3 minutes
+20-04-16 04:06:16 Time Left: 2 minutes
+20-04-16 04:07:16 Time Left: 1 minutes
+20-04-16 04:08:16 Next map: ctf_Viet
+20-04-16 04:08:21 Viet
+20-04-16 04:13:21 Time Left: 5 minutes
+20-04-16 04:14:21 Time Left: 4 minutes
+20-04-16 04:15:21 Time Left: 3 minutes
+20-04-16 04:16:21 Time Left: 2 minutes
+20-04-16 04:17:21 Time Left: 1 minutes
+20-04-16 04:18:21 Next map: ctf_Campeche
+20-04-16 04:18:27 Campeche by Zakath
+20-04-16 04:23:27 Time Left: 5 minutes
+20-04-16 04:24:27 Time Left: 4 minutes
+20-04-16 04:25:27 Time Left: 3 minutes
+20-04-16 04:26:27 Time Left: 2 minutes
+20-04-16 04:27:27 Time Left: 1 minutes
+20-04-16 04:28:27 Next map: ctf_Snakebite
+20-04-16 04:28:32 Snakebite orig. by chakapoko maker
+20-04-16 04:33:32 Time Left: 5 minutes
+20-04-16 04:34:32 Time Left: 4 minutes
+20-04-16 04:35:32 Time Left: 3 minutes
+20-04-16 04:36:32 Time Left: 2 minutes
+20-04-16 04:37:32 Time Left: 1 minutes
+20-04-16 04:38:32 Next map: ctf_Run
+20-04-16 04:38:37 Run
+20-04-16 04:43:37 Time Left: 5 minutes
+20-04-16 04:44:37 Time Left: 4 minutes
+20-04-16 04:45:37 Time Left: 3 minutes
+20-04-16 04:46:37 Time Left: 2 minutes
+20-04-16 04:47:37 Time Left: 1 minutes
+20-04-16 04:48:37 Next map: ctf_Nuubia
+20-04-16 04:48:43 by Troskal and friends
+20-04-16 04:53:43 Time Left: 5 minutes
+20-04-16 04:54:43 Time Left: 4 minutes
+20-04-16 04:55:43 Time Left: 3 minutes
+20-04-16 04:56:43 Time Left: 2 minutes
+20-04-16 04:57:43 Time Left: 1 minutes
+20-04-16 04:58:43 Next map: ctf_Guardian
+20-04-16 04:58:48 ctf_Guardian by SuoW
+20-04-16 05:03:48 Time Left: 5 minutes
+20-04-16 05:04:48 Time Left: 4 minutes
+20-04-16 05:05:48 Time Left: 3 minutes
+20-04-16 05:06:48 Time Left: 2 minutes
+20-04-16 05:07:48 Time Left: 1 minutes
+20-04-16 05:08:48 Next map: ctf_Ash
+20-04-16 05:08:53 ctf_Ash by chakapoko maker
+20-04-16 05:13:53 Time Left: 5 minutes
+20-04-16 05:14:53 Time Left: 4 minutes
+20-04-16 05:15:53 Time Left: 3 minutes
+20-04-16 05:16:53 Time Left: 2 minutes
+20-04-16 05:17:53 Time Left: 1 minutes
+20-04-16 05:18:53 Next map: ctf_B2b
+20-04-16 05:18:59 B2B
+20-04-16 05:23:59 Time Left: 5 minutes
+20-04-16 05:24:59 Time Left: 4 minutes
+20-04-16 05:25:59 Time Left: 3 minutes
+20-04-16 05:26:59 Time Left: 2 minutes
+20-04-16 05:27:59 Time Left: 1 minutes
+20-04-16 05:28:59 Next map: ctf_Blade
+20-04-16 05:29:04 Blade by Zakath
+20-04-16 05:34:04 Time Left: 5 minutes
+20-04-16 05:35:04 Time Left: 4 minutes
+20-04-16 05:36:04 Time Left: 3 minutes
+20-04-16 05:37:04 Time Left: 2 minutes
+20-04-16 05:38:04 Time Left: 1 minutes
+20-04-16 05:39:04 Next map: ctf_Viet
+20-04-16 05:39:09 Viet
+20-04-16 05:44:09 Time Left: 5 minutes
+20-04-16 05:45:09 Time Left: 4 minutes
+20-04-16 05:46:09 Time Left: 3 minutes
+20-04-16 05:47:09 Time Left: 2 minutes
+20-04-16 05:48:09 Time Left: 1 minutes
+20-04-16 05:49:09 Next map: ctf_Division
+20-04-16 05:49:15 Division by Boxo, KC, viral
+20-04-16 05:54:15 Time Left: 5 minutes
+20-04-16 05:55:15 Time Left: 4 minutes
+20-04-16 05:56:15 Time Left: 3 minutes
+20-04-16 05:57:15 Time Left: 2 minutes
+20-04-16 05:58:15 Time Left: 1 minutes
+20-04-16 05:59:15 Next map: ctf_Death
+20-04-16 05:59:20 Death by MM, g_d. Boxo, mtk`
+20-04-16 06:04:20 Time Left: 5 minutes
+20-04-16 06:05:20 Time Left: 4 minutes
+20-04-16 06:06:20 Time Left: 3 minutes
+20-04-16 06:07:20 Time Left: 2 minutes
+20-04-16 06:08:20 Time Left: 1 minutes
+20-04-16 06:09:20 Next map: ctf_Hormone
+20-04-16 06:09:25 Hormone by Metsänaperot
+20-04-16 06:14:25 Time Left: 5 minutes
+20-04-16 06:15:25 Time Left: 4 minutes
+20-04-16 06:16:25 Time Left: 3 minutes
+20-04-16 06:17:25 Time Left: 2 minutes
+20-04-16 06:18:25 Time Left: 1 minutes
+20-04-16 06:19:25 Next map: ctf_Laos
+20-04-16 06:19:31 Laos
+20-04-16 06:24:31 Time Left: 5 minutes
+20-04-16 06:25:31 Time Left: 4 minutes
+20-04-16 06:26:31 Time Left: 3 minutes
+20-04-16 06:27:31 Time Left: 2 minutes
+20-04-16 06:28:31 Time Left: 1 minutes
+20-04-16 06:29:30 Next map: ctf_Laos2
+20-04-16 06:29:36 Laos
+20-04-16 06:34:36 Time Left: 5 minutes
+20-04-16 06:35:36 Time Left: 4 minutes
+20-04-16 06:36:36 Time Left: 3 minutes
+20-04-16 06:37:36 Time Left: 2 minutes
+20-04-16 06:38:36 Time Left: 1 minutes
+20-04-16 06:39:36 Next map: ctf_Maya
+20-04-16 06:39:41 Maya
+20-04-16 06:44:41 Time Left: 5 minutes
+20-04-16 06:45:41 Time Left: 4 minutes
+20-04-16 06:46:41 Time Left: 3 minutes
+20-04-16 06:47:41 Time Left: 2 minutes
+20-04-16 06:48:41 Time Left: 1 minutes
+20-04-16 06:49:41 Next map: ctf_MFM
+20-04-16 06:49:46 MFM 2 by mar77a
+20-04-16 06:54:46 Time Left: 5 minutes
+20-04-16 06:55:46 Time Left: 4 minutes
+20-04-16 06:56:46 Time Left: 3 minutes
+20-04-16 06:57:46 Time Left: 2 minutes
+20-04-16 06:58:46 Time Left: 1 minutes
+20-04-16 06:59:46 Next map: ctf_Run
+20-04-16 06:59:52 Run
+20-04-16 07:04:52 Time Left: 5 minutes
+20-04-16 07:05:52 Time Left: 4 minutes
+20-04-16 07:06:52 Time Left: 3 minutes
+20-04-16 07:07:52 Time Left: 2 minutes
+20-04-16 07:08:52 Time Left: 1 minutes
+20-04-16 07:09:52 Next map: ctf_OldRun
+20-04-16 07:09:57 Run (get to the flag!)
+20-04-16 07:14:57 Time Left: 5 minutes
+20-04-16 07:15:57 Time Left: 4 minutes
+20-04-16 07:16:57 Time Left: 3 minutes
+20-04-16 07:17:57 Time Left: 2 minutes
+20-04-16 07:18:57 Time Left: 1 minutes
+20-04-16 07:19:57 Next map: ctf_Ash
+20-04-16 07:20:02 ctf_Ash by chakapoko maker
+20-04-16 07:25:02 Time Left: 5 minutes
+20-04-16 07:26:02 Time Left: 4 minutes
+20-04-16 07:27:02 Time Left: 3 minutes
+20-04-16 07:28:02 Time Left: 2 minutes
+20-04-16 07:29:02 Time Left: 1 minutes
+20-04-16 07:30:02 Next map: ctf_B2b
+20-04-16 07:30:08 B2B
+20-04-16 07:35:08 Time Left: 5 minutes
+20-04-16 07:36:08 Time Left: 4 minutes
+20-04-16 07:37:08 Time Left: 3 minutes
+20-04-16 07:38:08 Time Left: 2 minutes
+20-04-16 07:39:08 Time Left: 1 minutes
+20-04-16 07:40:08 Next map: ctf_Viet
+20-04-16 07:40:13 Viet
+20-04-16 07:45:13 Time Left: 5 minutes
+20-04-16 07:46:13 Time Left: 4 minutes
+20-04-16 07:47:13 Time Left: 3 minutes
+20-04-16 07:48:13 Time Left: 2 minutes
+20-04-16 07:49:13 Time Left: 1 minutes
+20-04-16 07:50:13 Next map: ctf_Campeche
+20-04-16 07:50:18 Campeche by Zakath
+20-04-16 07:55:18 Time Left: 5 minutes
+20-04-16 07:56:18 Time Left: 4 minutes
+20-04-16 07:57:18 Time Left: 3 minutes
+20-04-16 07:58:18 Time Left: 2 minutes
+20-04-16 07:59:18 Time Left: 1 minutes
+20-04-16 08:00:18 Next map: ctf_Snakebite
+20-04-16 08:00:24 Snakebite orig. by chakapoko maker
+20-04-16 08:05:24 Time Left: 5 minutes
+20-04-16 08:06:24 Time Left: 4 minutes
+20-04-16 08:07:24 Time Left: 3 minutes
+20-04-16 08:08:24 Time Left: 2 minutes
+20-04-16 08:09:24 Time Left: 1 minutes
+20-04-16 08:10:24 Next map: ctf_Run
+20-04-16 08:10:29 Run
+20-04-16 08:15:29 Time Left: 5 minutes
+20-04-16 08:16:29 Time Left: 4 minutes
+20-04-16 08:17:29 Time Left: 3 minutes
+20-04-16 08:18:29 Time Left: 2 minutes
+20-04-16 08:19:29 Time Left: 1 minutes
+20-04-16 08:20:29 Next map: ctf_Nuubia
+20-04-16 08:20:34 by Troskal and friends
+20-04-16 08:25:34 Time Left: 5 minutes
+20-04-16 08:26:34 Time Left: 4 minutes
+20-04-16 08:27:34 Time Left: 3 minutes
+20-04-16 08:28:34 Time Left: 2 minutes
+20-04-16 08:29:34 Time Left: 1 minutes
+20-04-16 08:30:34 Next map: ctf_Guardian
+20-04-16 08:30:40 ctf_Guardian by SuoW
+20-04-16 08:35:40 Time Left: 5 minutes
+20-04-16 08:36:40 Time Left: 4 minutes
+20-04-16 08:37:40 Time Left: 3 minutes
+20-04-16 08:38:40 Time Left: 2 minutes
+20-04-16 08:39:40 Time Left: 1 minutes
+20-04-16 08:40:40 Next map: ctf_Ash
+20-04-16 08:40:45 ctf_Ash by chakapoko maker
+20-04-16 08:45:45 Time Left: 5 minutes
+20-04-16 08:46:45 Time Left: 4 minutes
+20-04-16 08:47:45 Time Left: 3 minutes
+20-04-16 08:48:45 Time Left: 2 minutes
+20-04-16 08:49:45 Time Left: 1 minutes
+20-04-16 08:50:45 Next map: ctf_B2b
+20-04-16 08:50:50 B2B
+20-04-16 08:55:50 Time Left: 5 minutes
+20-04-16 08:56:50 Time Left: 4 minutes
+20-04-16 08:57:50 Time Left: 3 minutes
+20-04-16 08:58:50 Time Left: 2 minutes
+20-04-16 08:59:50 Time Left: 1 minutes
+20-04-16 09:00:50 Next map: ctf_Blade
+20-04-16 09:00:56 Blade by Zakath
+20-04-16 09:05:56 Time Left: 5 minutes
+20-04-16 09:06:56 Time Left: 4 minutes
+20-04-16 09:07:56 Time Left: 3 minutes
+20-04-16 09:08:56 Time Left: 2 minutes
+20-04-16 09:09:56 Time Left: 1 minutes
+20-04-16 09:10:56 Next map: ctf_Viet
+20-04-16 09:11:01 Viet
+20-04-16 09:16:01 Time Left: 5 minutes
+20-04-16 09:17:01 Time Left: 4 minutes
+20-04-16 09:18:01 Time Left: 3 minutes
+20-04-16 09:19:01 Time Left: 2 minutes
+20-04-16 09:20:01 Time Left: 1 minutes
+20-04-16 09:21:01 Next map: ctf_Division
+20-04-16 09:21:06 Division by Boxo, KC, viral
+20-04-16 09:26:06 Time Left: 5 minutes
+20-04-16 09:27:06 Time Left: 4 minutes
+20-04-16 09:28:06 Time Left: 3 minutes
+20-04-16 09:29:06 Time Left: 2 minutes
+20-04-16 09:30:06 Time Left: 1 minutes
+20-04-16 09:31:06 Next map: ctf_Death
+20-04-16 09:31:12 Death by MM, g_d. Boxo, mtk`
+20-04-16 09:36:12 Time Left: 5 minutes
+20-04-16 09:37:12 Time Left: 4 minutes
+20-04-16 09:38:12 Time Left: 3 minutes
+20-04-16 09:39:12 Time Left: 2 minutes
+20-04-16 09:40:12 Time Left: 1 minutes
+20-04-16 09:41:12 Next map: ctf_Hormone
+20-04-16 09:41:17 Hormone by Metsänaperot
+20-04-16 09:46:17 Time Left: 5 minutes
+20-04-16 09:47:17 Time Left: 4 minutes
+20-04-16 09:48:17 Time Left: 3 minutes
+20-04-16 09:49:17 Time Left: 2 minutes
+20-04-16 09:50:17 Time Left: 1 minutes
+20-04-16 09:51:17 Next map: ctf_Laos
+20-04-16 09:51:22 Laos
+20-04-16 09:56:22 Time Left: 5 minutes
+20-04-16 09:57:22 Time Left: 4 minutes
+20-04-16 09:58:22 Time Left: 3 minutes
+20-04-16 09:59:22 Time Left: 2 minutes
+20-04-16 10:00:22 Time Left: 1 minutes
+20-04-16 10:01:22 Next map: ctf_Laos2
+20-04-16 10:01:27 Laos
+20-04-16 10:06:27 Time Left: 5 minutes
+20-04-16 10:07:27 Time Left: 4 minutes
+20-04-16 10:08:27 Time Left: 3 minutes
+20-04-16 10:09:27 Time Left: 2 minutes
+20-04-16 10:10:27 Time Left: 1 minutes
+20-04-16 10:11:27 Next map: ctf_Maya
+20-04-16 10:11:33 Maya
+20-04-16 10:16:33 Time Left: 5 minutes
+20-04-16 10:17:33 Time Left: 4 minutes
+20-04-16 10:18:33 Time Left: 3 minutes
+20-04-16 10:19:33 Time Left: 2 minutes
+20-04-16 10:20:33 Time Left: 1 minutes
+20-04-16 10:21:33 Next map: ctf_MFM
+20-04-16 10:21:38 MFM 2 by mar77a
+20-04-16 10:26:38 Time Left: 5 minutes
+20-04-16 10:27:38 Time Left: 4 minutes
+20-04-16 10:28:38 Time Left: 3 minutes
+20-04-16 10:29:38 Time Left: 2 minutes
+20-04-16 10:30:38 Time Left: 1 minutes
+20-04-16 10:31:38 Next map: ctf_Run
+20-04-16 10:31:43 Run
+20-04-16 10:36:43 Time Left: 5 minutes
+20-04-16 10:37:43 Time Left: 4 minutes
+20-04-16 10:38:43 Time Left: 3 minutes
+20-04-16 10:39:43 Time Left: 2 minutes
+20-04-16 10:40:43 Time Left: 1 minutes
+20-04-16 10:41:43 Next map: ctf_OldRun
+20-04-16 10:41:49 Run (get to the flag!)
+20-04-16 10:46:49 Time Left: 5 minutes
+20-04-16 10:47:49 Time Left: 4 minutes
+20-04-16 10:48:49 Time Left: 3 minutes
+20-04-16 10:49:49 Time Left: 2 minutes
+20-04-16 10:50:49 Time Left: 1 minutes
+20-04-16 10:51:49 Next map: ctf_Ash
+20-04-16 10:51:54 ctf_Ash by chakapoko maker
+20-04-16 10:56:54 Time Left: 5 minutes
+20-04-16 10:57:54 Time Left: 4 minutes
+20-04-16 10:58:54 Time Left: 3 minutes
+20-04-16 10:59:54 Time Left: 2 minutes
+20-04-16 11:00:54 Time Left: 1 minutes
+20-04-16 11:01:54 Next map: ctf_B2b
+20-04-16 11:01:59 B2B
+20-04-16 11:06:59 Time Left: 5 minutes
+20-04-16 11:07:59 Time Left: 4 minutes
+20-04-16 11:08:59 Time Left: 3 minutes
+20-04-16 11:09:59 Time Left: 2 minutes
+20-04-16 11:10:59 Time Left: 1 minutes
+20-04-16 11:11:59 Next map: ctf_Viet
+20-04-16 11:12:05 Viet
+20-04-16 11:17:05 Time Left: 5 minutes
+20-04-16 11:18:05 Time Left: 4 minutes
+20-04-16 11:19:05 Time Left: 3 minutes
+20-04-16 11:20:05 Time Left: 2 minutes
+20-04-16 11:21:05 Time Left: 1 minutes
+20-04-16 11:22:05 Next map: ctf_Campeche
+20-04-16 11:22:10 Campeche by Zakath
+20-04-16 11:27:10 Time Left: 5 minutes
+20-04-16 11:28:10 Time Left: 4 minutes
+20-04-16 11:29:10 Time Left: 3 minutes
+20-04-16 11:30:10 Time Left: 2 minutes
+20-04-16 11:31:10 Time Left: 1 minutes
+20-04-16 11:32:10 Next map: ctf_Snakebite
+20-04-16 11:32:15 Snakebite orig. by chakapoko maker
+20-04-16 11:37:15 Time Left: 5 minutes
+20-04-16 11:38:15 Time Left: 4 minutes
+20-04-16 11:39:15 Time Left: 3 minutes
+20-04-16 11:40:15 Time Left: 2 minutes
+20-04-16 11:41:15 Time Left: 1 minutes
+20-04-16 11:41:38 Registering server @ 88.99.234.252
+20-04-16 11:42:15 Next map: ctf_Run
+20-04-16 11:42:21 Run
+20-04-16 11:47:21 Time Left: 5 minutes
+20-04-16 11:48:21 Time Left: 4 minutes
+20-04-16 11:49:21 Time Left: 3 minutes
+20-04-16 11:50:21 Time Left: 2 minutes
+20-04-16 11:51:21 Time Left: 1 minutes
+20-04-16 11:52:21 Next map: ctf_Nuubia
+20-04-16 11:52:26 by Troskal and friends
+20-04-16 11:57:26 Time Left: 5 minutes
+20-04-16 11:58:26 Time Left: 4 minutes
+20-04-16 11:59:26 Time Left: 3 minutes
+20-04-16 12:00:26 Time Left: 2 minutes
+20-04-16 12:01:26 Time Left: 1 minutes
+20-04-16 12:02:26 Next map: ctf_Guardian
+20-04-16 12:02:31 ctf_Guardian by SuoW
+20-04-16 12:07:31 Time Left: 5 minutes
+20-04-16 12:08:31 Time Left: 4 minutes
+20-04-16 12:09:31 Time Left: 3 minutes
+20-04-16 12:10:31 Time Left: 2 minutes
+20-04-16 12:11:31 Time Left: 1 minutes
+20-04-16 12:12:31 Next map: ctf_Ash
+20-04-16 12:12:37 ctf_Ash by chakapoko maker
+20-04-16 12:17:37 Time Left: 5 minutes
+20-04-16 12:18:37 Time Left: 4 minutes
+20-04-16 12:19:37 Time Left: 3 minutes
+20-04-16 12:20:37 Time Left: 2 minutes
+20-04-16 12:21:37 Time Left: 1 minutes
+20-04-16 12:22:37 Next map: ctf_B2b
+20-04-16 12:22:42 B2B
+20-04-16 12:27:42 Time Left: 5 minutes
+20-04-16 12:28:42 Time Left: 4 minutes
+20-04-16 12:29:42 Time Left: 3 minutes
+20-04-16 12:30:42 Time Left: 2 minutes
+20-04-16 12:31:42 Time Left: 1 minutes
+20-04-16 12:32:42 Next map: ctf_Blade
+20-04-16 12:32:47 Blade by Zakath
+20-04-16 12:37:47 Time Left: 5 minutes
+20-04-16 12:38:47 Time Left: 4 minutes
+20-04-16 12:39:47 Time Left: 3 minutes
+20-04-16 12:40:47 Time Left: 2 minutes
+20-04-16 12:41:47 Time Left: 1 minutes
+20-04-16 12:42:47 Next map: ctf_Viet
+20-04-16 12:42:53 Viet
+20-04-16 12:47:53 Time Left: 5 minutes
+20-04-16 12:48:53 Time Left: 4 minutes
+20-04-16 12:49:53 Time Left: 3 minutes
+20-04-16 12:50:53 Time Left: 2 minutes
+20-04-16 12:51:53 Time Left: 1 minutes
+20-04-16 12:52:53 Next map: ctf_Division
+20-04-16 12:52:58 Division by Boxo, KC, viral
+20-04-16 12:57:58 Time Left: 5 minutes
+20-04-16 12:58:58 Time Left: 4 minutes
+20-04-16 12:59:58 Time Left: 3 minutes
+20-04-16 13:00:58 Time Left: 2 minutes
+20-04-16 13:01:58 Time Left: 1 minutes
+20-04-16 13:02:58 Next map: ctf_Death
+20-04-16 13:03:03 Death by MM, g_d. Boxo, mtk`
+20-04-16 13:06:40 186.107.54.237:23073|6BD0AA070CA requesting game...
+20-04-16 13:06:50 #KbN! Dumpw. joining game (186.107.54.237:23073) HWID:6BD0AA070CA
+20-04-16 13:06:50 #KbN! Dumpw. has joined as spectator.
+20-04-16 13:07:20 #KbN! Dumpw. could not respond
+20-04-16 13:08:03 Time Left: 5 minutes
+20-04-16 13:09:03 Time Left: 4 minutes
+20-04-16 13:10:03 Time Left: 3 minutes
+20-04-16 13:11:03 Time Left: 2 minutes
+20-04-16 13:12:03 Time Left: 1 minutes
+20-04-16 13:13:03 Next map: ctf_Hormone
+20-04-16 13:13:09 Hormone by Metsänaperot
+20-04-16 13:18:08 Time Left: 5 minutes
+20-04-16 13:19:08 Time Left: 4 minutes
+20-04-16 13:20:08 Time Left: 3 minutes
+20-04-16 13:21:08 Time Left: 2 minutes
+20-04-16 13:22:08 Time Left: 1 minutes
+20-04-16 13:23:08 Next map: ctf_Laos
+20-04-16 13:23:14 Laos
+20-04-16 13:28:14 Time Left: 5 minutes
+20-04-16 13:29:14 Time Left: 4 minutes
+20-04-16 13:30:14 Time Left: 3 minutes
+20-04-16 13:31:14 Time Left: 2 minutes
+20-04-16 13:32:14 Time Left: 1 minutes
+20-04-16 13:33:14 Next map: ctf_Laos2
+20-04-16 13:33:19 Laos
+20-04-16 13:36:59 179.8.232.46:23073|E475EF358CC requesting game...
+20-04-16 13:37:02 steelpro1 joining game (179.8.232.46:23073) HWID:E475EF358CC
+20-04-16 13:37:02 steelpro1 has joined bravo team.
+20-04-16 13:37:16 190.160.177.107:23073|E53CF7309B4 requesting game...
+20-04-16 13:37:26 steelpro1 captured the Red Flag
+20-04-16 13:37:27 Raytwist joining game (190.160.177.107:23073) HWID:E53CF7309B4
+20-04-16 13:37:27 Raytwist has joined alpha team.
+20-04-16 13:37:32 (2) steelpro1 killed (1) Raytwist with Steyr AUG
+20-04-16 13:37:36 190.44.20.171:23073|2E2DB521FE4 requesting game...
+20-04-16 13:37:41 Cianter joining game (190.44.20.171:23073) HWID:2E2DB521FE4
+20-04-16 13:37:41 Cianter has joined bravo team.
+20-04-16 13:37:48 steelpro1 scores for Bravo Team
+20-04-16 13:38:07 (2) steelpro1 killed (1) Raytwist with Steyr AUG
+20-04-16 13:38:19 Time Left: 5 minutes
+20-04-16 13:38:32 (1) Raytwist killed (2) Cianter with Ruger 77
+20-04-16 13:38:44 (2) steelpro1 killed (1) Raytwist with Steyr AUG
+20-04-16 13:39:05 (2) Cianter killed (1) Raytwist with Desert Eagles
+20-04-16 13:39:06 steelpro1 captured the Red Flag
+20-04-16 13:39:15 200.83.66.52:23073|2E194B0FA5C requesting game...
+20-04-16 13:39:16 (1) Raytwist killed (2) steelpro1 with Steyr AUG
+20-04-16 13:39:18 Blostios joining game (200.83.66.52:23073) HWID:2E194B0FA5C
+20-04-16 13:39:18 Blostios has joined alpha team.
+20-04-16 13:39:18 Cianter captured the Red Flag
+20-04-16 13:39:19 Time Left: 4 minutes
+20-04-16 13:39:31 (2) steelpro1 killed (1) Raytwist with Steyr AUG
+20-04-16 13:39:34 Cianter scores for Bravo Team
+20-04-16 13:39:38 (1) Blostios killed (2) steelpro1 with M79
+20-04-16 13:39:45 Blostios captured the Blue Flag
+20-04-16 13:39:48 (1) Blostios killed (2) steelpro1 with M79
+20-04-16 13:39:51 (1) Raytwist killed (2) Cianter with Steyr AUG
+20-04-16 13:40:03 Blostios scores for Alpha Team
+20-04-16 13:40:08 Raytwist captured the Blue Flag
+20-04-16 13:40:10 steelpro1 captured the Red Flag
+20-04-16 13:40:13 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:40:19 Time Left: 3 minutes
+20-04-16 13:40:38 (2) Cianter killed (1) Blostios with USSOCOM
+20-04-16 13:41:08 (1) Raytwist killed (2) Cianter with Steyr AUG
+20-04-16 13:41:13 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:41:19 Time Left: 2 minutes
+20-04-16 13:41:38 (2) Cianter killed (1) Raytwist with Ak-74
+20-04-16 13:41:39 Cianter returned the Blue Flag
+20-04-16 13:41:41 Blostios captured the Blue Flag
+20-04-16 13:41:48 (1) Blostios killed (2) steelpro1 with Grenade
+20-04-16 13:41:53 Blostios returned the Red Flag
+20-04-16 13:41:55 (1) Blostios killed (2) Cianter with Grenade
+20-04-16 13:42:06 186.156.96.116:23073|21642F5016F requesting game...
+20-04-16 13:42:08 Blostios scores for Alpha Team
+20-04-16 13:42:10 FRANK CASTLE joining game (186.156.96.116:23073) HWID:21642F5016F
+20-04-16 13:42:10 FRANK CASTLE has joined alpha team.
+20-04-16 13:42:14 Cianter captured the Red Flag
+20-04-16 13:42:15 (1) Blostios killed (2) Cianter with M79
+20-04-16 13:42:19 Time Left: 1 minutes
+20-04-16 13:42:33 (2) steelpro1 killed (1) FRANK CASTLE with Steyr AUG
+20-04-16 13:42:33 (2) steelpro1 killed (1) Blostios with Steyr AUG
+20-04-16 13:42:39 (1) FRANK CASTLE killed (2) Cianter with Ruger 77
+20-04-16 13:42:50 (1) Blostios killed (2) steelpro1 with Desert Eagles
+20-04-16 13:43:01 (2) Cianter killed (1) Raytwist with Ak-74
+20-04-16 13:43:03 Blostios captured the Blue Flag
+20-04-16 13:43:05 (1) FRANK CASTLE killed (2) steelpro1 with Ruger 77
+20-04-16 13:43:05 Cianter captured the Red Flag
+20-04-16 13:43:19 Next map: ctf_Maya
+20-04-16 13:43:24 Maya
+20-04-16 13:43:42 (1) Blostios killed (2) steelpro1 with Grenade
+20-04-16 13:43:47 Blostios captured the Blue Flag
+20-04-16 13:43:47 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:43:48 steelpro1 returned the Blue Flag
+20-04-16 13:44:00 Cianter captured the Red Flag
+20-04-16 13:44:08 (2) steelpro1 killed (1) FRANK CASTLE with Hands
+20-04-16 13:44:15 Raytwist captured the Blue Flag
+20-04-16 13:44:16 (2) steelpro1 killed (1) Raytwist with FN Minimi
+20-04-16 13:44:18 steelpro1 returned the Blue Flag
+20-04-16 13:44:23 (1) Blostios killed (2) Cianter with M79
+20-04-16 13:44:26 Blostios returned the Red Flag
+20-04-16 13:44:36 Blostios captured the Blue Flag
+20-04-16 13:44:36 (1) FRANK CASTLE killed (2) Cianter with Ruger 77
+20-04-16 13:44:49 (2) steelpro1 killed (1) Raytwist with FN Minimi
+20-04-16 13:44:50 (1) FRANK CASTLE killed (2) steelpro1 with Ruger 77
+20-04-16 13:45:03 Blostios scores for Alpha Team
+20-04-16 13:45:04 (2) steelpro1 killed (1) FRANK CASTLE with FN Minimi
+20-04-16 13:45:09 Cianter captured the Red Flag
+20-04-16 13:45:10 (1) FRANK CASTLE killed (2) Cianter with Ruger 77
+20-04-16 13:45:10 FRANK CASTLE returned the Red Flag
+20-04-16 13:45:22 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:45:22 (2) steelpro1 killed (1) Raytwist with FN Minimi
+20-04-16 13:45:39 (2) steelpro1 killed (1) FRANK CASTLE with FN Minimi
+20-04-16 13:45:44 (2) steelpro1 killed (1) Raytwist with Hands
+20-04-16 13:45:47 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:45:53 (2) steelpro1 killed (1) FRANK CASTLE with FN Minimi
+20-04-16 13:45:54 (1) Blostios killed (2) Cianter with Grenade
+20-04-16 13:45:56 (1) Blostios killed (2) steelpro1 with M79
+20-04-16 13:46:12 (2) steelpro1 killed (1) Blostios with FN Minimi
+20-04-16 13:46:20 Blostios returned the Red Flag
+20-04-16 13:46:22 (1) Blostios killed (2) Cianter with M79
+20-04-16 13:46:47 (1) Blostios killed (2) Cianter with M79
+20-04-16 13:46:48 steelpro1 captured the Red Flag
+20-04-16 13:46:49 (1) FRANK CASTLE killed (2) steelpro1 with Ruger 77
+20-04-16 13:46:50 FRANK CASTLE returned the Red Flag
+20-04-16 13:46:55 steelpro1 has left bravo team.
+20-04-16 13:46:55 (1) Blostios killed (2) Cianter with M79
+20-04-16 13:46:59 (1) Blostios killed (2) Cianter with Grenade
+20-04-16 13:46:59 Blostios captured the Blue Flag
+20-04-16 13:47:14 179.8.232.46:23073|E475EF358CC requesting game...
+20-04-16 13:47:16 FRANK CASTLE started votekick against Blostios - Reason: 4v4
+20-04-16 13:47:18 Blostios scores for Alpha Team
+20-04-16 13:47:19 steelpro1 joining game (179.8.232.46:23073) HWID:E475EF358CC
+20-04-16 13:47:19 steelpro1 has joined bravo team.
+20-04-16 13:47:41 (2) steelpro1 killed (1) Raytwist with HK MP5
+20-04-16 13:47:46 Blostios captured the Blue Flag
+20-04-16 13:48:05 Blostios scores for Alpha Team
+20-04-16 13:48:24 Time Left: 5 minutes
+20-04-16 13:48:29 Blostios captured the Blue Flag
+20-04-16 13:48:35 (1) FRANK CASTLE killed (2) steelpro1 with LAW
+20-04-16 13:48:39 Cianter captured the Red Flag
+20-04-16 13:48:52 (1) Blostios killed (2) Cianter with Grenade
+20-04-16 13:48:56 Blostios returned the Red Flag
+20-04-16 13:48:59 Blostios scores for Alpha Team
+20-04-16 13:49:03 Cianter has left bravo team.
+20-04-16 13:49:05 (1) Blostios killed (2) steelpro1 with M79
+20-04-16 13:49:07 Raytwist has left alpha team.
+20-04-16 13:49:07 steelpro1 has left bravo team.
+20-04-16 13:49:16 Blostios captured the Blue Flag
+20-04-16 13:49:22 FRANK CASTLE has left alpha team.
+20-04-16 13:49:24 Time Left: 4 minutes
+20-04-16 13:49:38 Blostios scores for Alpha Team
+20-04-16 13:49:44 Blostios has left alpha team.
+20-04-16 13:50:24 Time Left: 3 minutes
+20-04-16 13:51:24 Time Left: 2 minutes
+20-04-16 13:52:24 Time Left: 1 minutes
+20-04-16 13:53:24 Next map: ctf_MFM
+20-04-16 13:53:30 MFM 2 by mar77a
+20-04-16 13:58:30 Time Left: 5 minutes
+20-04-16 13:59:30 Time Left: 4 minutes
+20-04-16 14:00:30 Time Left: 3 minutes
+20-04-16 14:01:30 Time Left: 2 minutes
+20-04-16 14:02:30 Time Left: 1 minutes
+20-04-16 14:03:30 Next map: ctf_Run
+20-04-16 14:03:35 Run
+20-04-16 14:03:36 186.107.54.237:23073|6BD0AA070CA requesting game...
+20-04-16 14:03:38 #KbN! Dumpw. joining game (186.107.54.237:23073) HWID:6BD0AA070CA
+20-04-16 14:03:38 #KbN! Dumpw. has joined alpha team.
+20-04-16 14:06:38 #KbN! Dumpw. has left alpha team.
+20-04-16 14:07:32 186.107.54.237:23073|6BD0AA070CA requesting game...
+20-04-16 14:08:35 Time Left: 5 minutes
+20-04-16 14:09:35 Time Left: 4 minutes
+20-04-16 14:10:35 Time Left: 3 minutes
+20-04-16 14:11:35 Time Left: 2 minutes
+20-04-16 14:12:35 Time Left: 1 minutes
+20-04-16 14:13:35 Next map: ctf_OldRun
+20-04-16 14:13:40 Run (get to the flag!)
+20-04-16 14:18:40 Time Left: 5 minutes
+20-04-16 14:19:40 Time Left: 4 minutes
+20-04-16 14:20:40 Time Left: 3 minutes
+20-04-16 14:21:40 Time Left: 2 minutes
+20-04-16 14:22:40 Time Left: 1 minutes
+20-04-16 14:23:40 Next map: ctf_Ash
+20-04-16 14:23:46 ctf_Ash by chakapoko maker
+20-04-16 14:28:46 Time Left: 5 minutes
+20-04-16 14:29:46 Time Left: 4 minutes
+20-04-16 14:30:46 Time Left: 3 minutes
+20-04-16 14:31:46 Time Left: 2 minutes
+20-04-16 14:32:46 Time Left: 1 minutes
+20-04-16 14:33:46 Next map: ctf_B2b
+20-04-16 14:33:51 B2B
+20-04-16 14:38:51 Time Left: 5 minutes
+20-04-16 14:39:51 Time Left: 4 minutes
+20-04-16 14:40:51 Time Left: 3 minutes
+20-04-16 14:41:51 Time Left: 2 minutes
+20-04-16 14:42:51 Time Left: 1 minutes
+20-04-16 14:43:51 Next map: ctf_Viet
+20-04-16 14:43:56 Viet
+20-04-16 14:48:56 Time Left: 5 minutes
+20-04-16 14:49:56 Time Left: 4 minutes
+20-04-16 14:50:56 Time Left: 3 minutes
+20-04-16 14:51:56 Time Left: 2 minutes
+20-04-16 14:52:56 Time Left: 1 minutes
+20-04-16 14:53:56 Next map: ctf_Campeche
+20-04-16 14:54:02 Campeche by Zakath
+20-04-16 14:59:02 Time Left: 5 minutes
+20-04-16 15:00:02 Time Left: 4 minutes
+20-04-16 15:00:47 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-16 15:00:49 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-16 15:00:49 [UnK] KorN has joined bravo team.
+20-04-16 15:01:01 [UnK] KorN captured the Red Flag
+20-04-16 15:01:02 Time Left: 3 minutes
+20-04-16 15:01:12 [UnK] KorN scores for Bravo Team
+20-04-16 15:01:25 [UnK] KorN captured the Red Flag
+20-04-16 15:02:02 Time Left: 2 minutes
+20-04-16 15:02:35 [UnK] KorN has left bravo team.
+20-04-16 15:03:02 Time Left: 1 minutes
+20-04-16 15:04:02 Next map: ctf_Snakebite
+20-04-16 15:04:07 Snakebite orig. by chakapoko maker
+20-04-16 15:09:07 Time Left: 5 minutes
+20-04-16 15:10:07 Time Left: 4 minutes
+20-04-16 15:11:07 Time Left: 3 minutes
+20-04-16 15:12:07 Time Left: 2 minutes
+20-04-16 15:13:07 Time Left: 1 minutes
+20-04-16 15:14:07 Next map: ctf_Run
+20-04-16 15:14:12 Run
+20-04-16 15:19:12 Time Left: 5 minutes
+20-04-16 15:20:12 Time Left: 4 minutes
+20-04-16 15:21:12 Time Left: 3 minutes
+20-04-16 15:22:12 Time Left: 2 minutes
+20-04-16 15:23:12 Time Left: 1 minutes
+20-04-16 15:24:12 Next map: ctf_Nuubia
+20-04-16 15:24:18 by Troskal and friends
+20-04-16 15:29:18 Time Left: 5 minutes
+20-04-16 15:30:18 Time Left: 4 minutes
+20-04-16 15:31:18 Time Left: 3 minutes
+20-04-16 15:32:18 Time Left: 2 minutes
+20-04-16 15:33:18 Time Left: 1 minutes
+20-04-16 15:34:18 Next map: ctf_Guardian
+20-04-16 15:34:23 ctf_Guardian by SuoW
+20-04-16 15:39:23 Time Left: 5 minutes
+20-04-16 15:40:23 Time Left: 4 minutes
+20-04-16 15:41:23 Time Left: 3 minutes
+20-04-16 15:42:23 Time Left: 2 minutes
+20-04-16 15:43:23 Time Left: 1 minutes
+20-04-16 15:44:23 Next map: ctf_Ash
+20-04-16 15:44:28 ctf_Ash by chakapoko maker
+20-04-16 15:44:47 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-16 15:44:49 RtP| SontercL MvP joining game (190.162.248.123:23073) HWID:2635D354B92
+20-04-16 15:44:49 RtP| SontercL MvP has joined alpha team.
+20-04-16 15:48:43 RtP| SontercL MvP captured the Blue Flag
+20-04-16 15:49:28 Time Left: 5 minutes
+20-04-16 15:50:28 Time Left: 4 minutes
+20-04-16 15:51:28 Time Left: 3 minutes
+20-04-16 15:52:28 Time Left: 2 minutes
+20-04-16 15:52:44 RtP| SontercL MvP has left alpha team.
+20-04-16 15:53:12 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-16 15:53:28 Time Left: 1 minutes
+20-04-16 15:54:28 Next map: ctf_B2b
+20-04-16 15:54:34 B2B
+20-04-16 15:59:34 Time Left: 5 minutes
+20-04-16 16:00:34 Time Left: 4 minutes
+20-04-16 16:01:34 Time Left: 3 minutes
+20-04-16 16:02:34 Time Left: 2 minutes
+20-04-16 16:03:34 Time Left: 1 minutes
+20-04-16 16:04:34 Next map: ctf_Blade
+20-04-16 16:04:39 Blade by Zakath
+20-04-16 16:09:39 Time Left: 5 minutes
+20-04-16 16:10:39 Time Left: 4 minutes
+20-04-16 16:11:39 Time Left: 3 minutes
+20-04-16 16:12:39 Time Left: 2 minutes
+20-04-16 16:13:39 Time Left: 1 minutes
+20-04-16 16:14:39 Next map: ctf_Viet
+20-04-16 16:14:44 Viet
+20-04-16 16:19:44 Time Left: 5 minutes
+20-04-16 16:20:44 Time Left: 4 minutes
+20-04-16 16:21:44 Time Left: 3 minutes
+20-04-16 16:22:44 Time Left: 2 minutes
+20-04-16 16:23:44 Time Left: 1 minutes
+20-04-16 16:24:44 Next map: ctf_Division
+20-04-16 16:24:50 Division by Boxo, KC, viral
+20-04-16 16:29:50 Time Left: 5 minutes
+20-04-16 16:30:50 Time Left: 4 minutes
+20-04-16 16:31:50 Time Left: 3 minutes
+20-04-16 16:32:50 Time Left: 2 minutes
+20-04-16 16:33:50 Time Left: 1 minutes
+20-04-16 16:34:49 Next map: ctf_Death
+20-04-16 16:34:55 Death by MM, g_d. Boxo, mtk`
+20-04-16 16:39:55 Time Left: 5 minutes
+20-04-16 16:40:55 Time Left: 4 minutes
+20-04-16 16:41:55 Time Left: 3 minutes
+20-04-16 16:42:55 Time Left: 2 minutes
+20-04-16 16:43:23 181.43.77.44:23073|176530BD328 requesting game...
+20-04-16 16:43:26 Zazza.cl  {AR} joining game (181.43.77.44:23073) HWID:176530BD328
+20-04-16 16:43:26 Zazza.cl  {AR} has joined alpha team.
+20-04-16 16:43:33 Zazza.cl  {AR} has left alpha team.
+20-04-16 16:43:55 Time Left: 1 minutes
+20-04-16 16:44:55 Next map: ctf_Hormone
+20-04-16 16:45:00 Hormone by Metsänaperot
+20-04-16 16:50:00 Time Left: 5 minutes
+20-04-16 16:51:00 Time Left: 4 minutes
+20-04-16 16:52:00 Time Left: 3 minutes
+20-04-16 16:53:00 Time Left: 2 minutes
+20-04-16 16:54:00 Time Left: 1 minutes
+20-04-16 16:55:00 Next map: ctf_Laos
+20-04-16 16:55:05 Laos
+20-04-16 17:00:05 Time Left: 5 minutes
+20-04-16 17:01:05 Time Left: 4 minutes
+20-04-16 17:02:05 Time Left: 3 minutes
+20-04-16 17:03:05 Time Left: 2 minutes
+20-04-16 17:04:05 Time Left: 1 minutes
+20-04-16 17:05:05 Next map: ctf_Laos2
+20-04-16 17:05:11 Laos
+20-04-16 17:10:11 Time Left: 5 minutes
+20-04-16 17:11:11 Time Left: 4 minutes
+20-04-16 17:12:11 Time Left: 3 minutes
+20-04-16 17:13:11 Time Left: 2 minutes
+20-04-16 17:14:11 Time Left: 1 minutes
+20-04-16 17:15:11 Next map: ctf_Maya
+20-04-16 17:15:16 Maya
+20-04-16 17:20:16 Time Left: 5 minutes
+20-04-16 17:21:16 Time Left: 4 minutes
+20-04-16 17:22:16 Time Left: 3 minutes
+20-04-16 17:23:16 Time Left: 2 minutes
+20-04-16 17:24:16 Time Left: 1 minutes
+20-04-16 17:25:16 Next map: ctf_MFM
+20-04-16 17:25:21 MFM 2 by mar77a
+20-04-16 17:30:21 Time Left: 5 minutes
+20-04-16 17:31:21 Time Left: 4 minutes
+20-04-16 17:32:21 Time Left: 3 minutes
+20-04-16 17:33:21 Time Left: 2 minutes
+20-04-16 17:34:21 Time Left: 1 minutes
+20-04-16 17:35:21 Next map: ctf_Run
+20-04-16 17:35:27 Run
+20-04-16 17:40:27 Time Left: 5 minutes
+20-04-16 17:41:27 Time Left: 4 minutes
+20-04-16 17:42:27 Time Left: 3 minutes
+20-04-16 17:43:27 Time Left: 2 minutes
+20-04-16 17:44:27 Time Left: 1 minutes
+20-04-16 17:45:27 Next map: ctf_OldRun
+20-04-16 17:45:32 Run (get to the flag!)
+20-04-16 17:50:32 Time Left: 5 minutes
+20-04-16 17:51:32 Time Left: 4 minutes
+20-04-16 17:52:32 Time Left: 3 minutes
+20-04-16 17:53:32 Time Left: 2 minutes
+20-04-16 17:54:32 Time Left: 1 minutes
+20-04-16 17:55:32 Next map: ctf_Ash
+20-04-16 17:55:37 ctf_Ash by chakapoko maker
+20-04-16 18:00:37 Time Left: 5 minutes
+20-04-16 18:01:37 Time Left: 4 minutes
+20-04-16 18:02:37 Time Left: 3 minutes
+20-04-16 18:03:37 Time Left: 2 minutes
+20-04-16 18:04:37 Time Left: 1 minutes
+20-04-16 18:05:37 Next map: ctf_B2b
+20-04-16 18:05:43 B2B
+20-04-16 18:10:43 Time Left: 5 minutes
+20-04-16 18:11:43 Time Left: 4 minutes
+20-04-16 18:12:43 Time Left: 3 minutes
+20-04-16 18:13:43 Time Left: 2 minutes
+20-04-16 18:14:43 Time Left: 1 minutes
+20-04-16 18:15:43 Next map: ctf_Viet
+20-04-16 18:15:48 Viet
+20-04-16 18:20:48 Time Left: 5 minutes
+20-04-16 18:21:48 Time Left: 4 minutes
+20-04-16 18:22:48 Time Left: 3 minutes
+20-04-16 18:23:48 Time Left: 2 minutes
+20-04-16 18:24:48 Time Left: 1 minutes
+20-04-16 18:25:48 Next map: ctf_Campeche
+20-04-16 18:25:53 Campeche by Zakath
+20-04-16 18:30:53 Time Left: 5 minutes
+20-04-16 18:31:53 Time Left: 4 minutes
+20-04-16 18:32:53 Time Left: 3 minutes
+20-04-16 18:33:53 Time Left: 2 minutes
+20-04-16 18:34:53 Time Left: 1 minutes
+20-04-16 18:35:53 Next map: ctf_Snakebite
+20-04-16 18:35:59 Snakebite orig. by chakapoko maker
+20-04-16 18:37:36 95.168.118.23:23073|6CBA76AB3BC requesting game...
+20-04-16 18:37:39 StipZ* joining game (95.168.118.23:23073) HWID:6CBA76AB3BC
+20-04-16 18:37:39 StipZ* has joined alpha team.
+20-04-16 18:37:41 StipZ* has left alpha team.
+20-04-16 18:40:59 Time Left: 5 minutes
+20-04-16 18:41:59 Time Left: 4 minutes
+20-04-16 18:42:59 Time Left: 3 minutes
+20-04-16 18:43:59 Time Left: 2 minutes
+20-04-16 18:44:59 Time Left: 1 minutes
+20-04-16 18:45:03 181.42.34.235:52970|115C66405B8 requesting game...
+20-04-16 18:45:08 eX.- Ratzor joining game (181.42.34.235:52970) HWID:115C66405B8
+20-04-16 18:45:08 eX.- Ratzor has joined bravo team.
+20-04-16 18:45:20 eX.- Ratzor captured the Red Flag
+20-04-16 18:45:30 eX.- Ratzor scores for Bravo Team
+20-04-16 18:45:38 eX.- Ratzor captured the Red Flag
+20-04-16 18:45:38 201.215.12.27:23073|2F7194A8FD9 requesting game...
+20-04-16 18:45:41 sugoi-ne joining game (201.215.12.27:23073) HWID:2F7194A8FD9
+20-04-16 18:45:41 sugoi-ne has joined alpha team.
+20-04-16 18:45:47 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:45:52 sugoi-ne returned the Red Flag
+20-04-16 18:45:56 (1) sugoi-ne killed (2) eX.- Ratzor with Combat Knife
+20-04-16 18:45:59 Next map: ctf_Run
+20-04-16 18:46:04 Run
+20-04-16 18:46:16 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:46:22 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:46:24 sugoi-ne captured the Blue Flag
+20-04-16 18:46:28 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:46:37 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:46:47 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:46:58 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:47:05 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:47:11 (1) sugoi-ne killed (2) eX.- Ratzor with Combat Knife
+20-04-16 18:47:13 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-16 18:47:18 S2 ~ patuzhO* joining game (190.44.128.116:23073) HWID:1F387DCE705
+20-04-16 18:47:18 S2 ~ patuzhO* has joined bravo team.
+20-04-16 18:47:20 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:47:26 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:47:27 [sugoi-ne] No!
+20-04-16 18:47:35 (2) eX.- Ratzor killed (1) sugoi-ne with Grenade
+20-04-16 18:47:42 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:47:47 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:47:48 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:47:53 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:48:01 S2 ~ patuzhO* scores for Bravo Team
+20-04-16 18:48:02 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:48:09 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:48:09 (1) sugoi-ne killed (2) eX.- Ratzor with Barrett M82A1
+20-04-16 18:48:19 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:48:23 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:48:24 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:48:37 (2) eX.- Ratzor killed (1) sugoi-ne with LAW
+20-04-16 18:48:37 S2 ~ patuzhO* scores for Bravo Team
+20-04-16 18:48:58 (2) eX.- Ratzor killed (1) sugoi-ne with Grenade
+20-04-16 18:48:58 [sugoi-ne] No!
+20-04-16 18:49:04 (2) eX.- Ratzor killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:49:04 (1) sugoi-ne killed (2) eX.- Ratzor with Grenade
+20-04-16 18:49:06 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:49:07 eX.- Ratzor has joined alpha team.
+20-04-16 18:49:09 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:49:11 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:49:12 sugoi-ne returned the Red Flag
+20-04-16 18:49:21 (2) S2 ~ patuzhO* killed (1) sugoi-ne with LAW
+20-04-16 18:49:28 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with LAW
+20-04-16 18:49:29 186.105.140.124:23073|3F244D763A8 requesting game...
+20-04-16 18:49:31 StC-ACE joining game (186.105.140.124:23073) HWID:3F244D763A8
+20-04-16 18:49:31 StC-ACE has joined bravo team.
+20-04-16 18:49:31 eX.- Ratzor captured the Blue Flag
+20-04-16 18:49:35 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:49:39 StC-ACE returned the Blue Flag
+20-04-16 18:49:44 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:49:51 eX.- Ratzor gets a ping warning
+20-04-16 18:50:00 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:50:08 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:50:10 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:50:15 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:50:16 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:50:16 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Grenade
+20-04-16 18:50:18 [S2 ~ patuzhO*] Die!
+20-04-16 18:50:21 [StC-ACE] No!
+20-04-16 18:50:26 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:50:31 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:50:38 sugoi-ne captured the Blue Flag
+20-04-16 18:50:41 (1) sugoi-ne killed (2) StC-ACE with Grenade
+20-04-16 18:50:54 StC-ACE returned the Blue Flag
+20-04-16 18:50:57 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:50:57 S2 ~ patuzhO* scores for Bravo Team
+20-04-16 18:51:03 (2) StC-ACE killed (1) eX.- Ratzor with Steyr AUG
+20-04-16 18:51:04 Time Left: 5 minutes
+20-04-16 18:51:08 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:51:12 (1) sugoi-ne killed (2) StC-ACE with Grenade
+20-04-16 18:51:14 sugoi-ne captured the Blue Flag
+20-04-16 18:51:20 (1) sugoi-ne killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:51:34 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:51:36 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:51:38 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:51:39 (2) StC-ACE killed (1) eX.- Ratzor with Steyr AUG
+20-04-16 18:51:41 StC-ACE returned the Blue Flag
+20-04-16 18:51:44 sugoi-ne returned the Red Flag
+20-04-16 18:51:57 sugoi-ne captured the Blue Flag
+20-04-16 18:52:01 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:52:02 (1) sugoi-ne killed (2) StC-ACE with Grenade
+20-04-16 18:52:04 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:52:04 Time Left: 4 minutes
+20-04-16 18:52:07 (RADIO)[sugoi-ne] Enemy flagger down!
+20-04-16 18:52:18 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:52:19 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:52:22 S2 ~ patuzhO* returned the Blue Flag
+20-04-16 18:52:25 S2 ~ patuzhO* scores for Bravo Team
+20-04-16 18:52:27 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Hands
+20-04-16 18:52:27 sugoi-ne captured the Blue Flag
+20-04-16 18:52:28 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:52:29 [sugoi-ne] Engage at will!!!
+20-04-16 18:52:30 [StC-ACE] No!
+20-04-16 18:52:36 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:52:37 eX.- Ratzor captured the Blue Flag
+20-04-16 18:52:41 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:52:46 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:52:50 eX.- Ratzor scores for Alpha Team
+20-04-16 18:52:52 (1) sugoi-ne killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:52:57 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:53:02 (2) StC-ACE killed (1) sugoi-ne with Grenade
+20-04-16 18:53:04 Time Left: 3 minutes
+20-04-16 18:53:11 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:53:18 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:53:20 (1) sugoi-ne killed (2) StC-ACE with Grenade
+20-04-16 18:53:22 [StC-ACE] No!
+20-04-16 18:53:23 sugoi-ne captured the Blue Flag
+20-04-16 18:53:24 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:53:26 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:53:27 StC-ACE returned the Blue Flag
+20-04-16 18:53:38 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Stationary gun
+20-04-16 18:53:43 (1) sugoi-ne killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:53:45 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-16 18:53:46 sugoi-ne captured the Blue Flag
+20-04-16 18:53:48 (1) sugoi-ne killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:53:52 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:53:52 S2 ~ patuzhO* returned the Blue Flag
+20-04-16 18:53:52 [sugoi-ne] No!
+20-04-16 18:53:54 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:53:58 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:54:04 Time Left: 2 minutes
+20-04-16 18:54:04 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:54:06 (1) sugoi-ne killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:54:14 (2) StC-ACE killed (1) sugoi-ne with Steyr AUG
+20-04-16 18:54:24 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:54:28 (RADIO)[sugoi-ne] Enemy flagger down!
+20-04-16 18:54:30 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:54:39 S2 ~ patuzhO* scores for Bravo Team
+20-04-16 18:54:43 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:54:44 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:54:49 (2) StC-ACE killed (1) eX.- Ratzor with Steyr AUG
+20-04-16 18:55:04 Time Left: 1 minutes
+20-04-16 18:55:04 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:55:04 (1) sugoi-ne killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:55:05 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:55:13 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:55:18 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with LAW
+20-04-16 18:55:23 sugoi-ne captured the Blue Flag
+20-04-16 18:55:25 [sugoi-ne] No!
+20-04-16 18:55:30 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:55:38 (2) S2 ~ patuzhO* killed (1) sugoi-ne with Barrett M82A1
+20-04-16 18:55:39 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:55:45 (1) eX.- Ratzor killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-16 18:55:52 (1) eX.- Ratzor killed (2) StC-ACE with Barrett M82A1
+20-04-16 18:55:53 eX.- Ratzor captured the Blue Flag
+20-04-16 18:55:58 S2 ~ patuzhO* captured the Red Flag
+20-04-16 18:56:02 (2) S2 ~ patuzhO* killed (1) eX.- Ratzor with Barrett M82A1
+20-04-16 18:56:04 Next map: ctf_Nuubia
+20-04-16 18:56:09 by Troskal and friends
+20-04-16 18:56:13 [S2 ~ patuzhO*] ratzor gather
+20-04-16 18:56:14 [eX.- Ratzor] empezo pathuzo
+20-04-16 18:56:15 S2 ~ patuzhO* has left bravo team.
+20-04-16 18:56:17 eX.- Ratzor has left alpha team.
+20-04-16 18:56:20 186.139.235.17:23073|2FE56C984AA requesting game...
+20-04-16 18:56:23 (1) sugoi-ne killed (2) StC-ACE with Grenade
+20-04-16 18:56:24 TiTi joining game (186.139.235.17:23073) HWID:2FE56C984AA
+20-04-16 18:56:24 TiTi has joined alpha team.
+20-04-16 18:56:25 StC-ACE has left bravo team.
+20-04-16 18:56:27 sugoi-ne captured the Blue Flag
+20-04-16 18:56:28 sugoi-ne has left alpha team.
+20-04-16 18:56:30 TiTi gets a ping warning
+20-04-16 18:56:37 TiTi captured the Blue Flag
+20-04-16 18:56:37 TiTi gets a ping warning
+20-04-16 18:56:51 TiTi gets a ping warning
+20-04-16 18:56:51 TiTi scores for Alpha Team
+20-04-16 18:56:58 TiTi gets a ping warning
+20-04-16 18:57:05 TiTi gets a ping warning
+20-04-16 18:57:08 TiTi has left alpha team.
+20-04-16 19:01:09 Time Left: 5 minutes
+20-04-16 19:02:09 Time Left: 4 minutes
+20-04-16 19:03:09 Time Left: 3 minutes
+20-04-16 19:04:09 Time Left: 2 minutes
+20-04-16 19:05:09 Time Left: 1 minutes
+20-04-16 19:06:09 Next map: ctf_Guardian
+20-04-16 19:06:15 ctf_Guardian by SuoW
+20-04-16 19:09:13 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-16 19:09:16 -phobos joining game (200.120.145.184:23073) HWID:4215E8C6452
+20-04-16 19:09:16 -phobos has joined bravo team.
+20-04-16 19:09:29 -phobos captured the Red Flag
+20-04-16 19:09:32 -phobos has left bravo team.
+20-04-16 19:11:15 Time Left: 5 minutes
+20-04-16 19:12:15 Time Left: 4 minutes
+20-04-16 19:12:28 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-16 19:13:15 Time Left: 3 minutes
+20-04-16 19:14:15 Time Left: 2 minutes
+20-04-16 19:15:15 Time Left: 1 minutes
+20-04-16 19:16:15 Next map: ctf_Ash
+20-04-16 19:16:20 ctf_Ash by chakapoko maker
+20-04-16 19:21:20 Time Left: 5 minutes
+20-04-16 19:22:20 Time Left: 4 minutes
+20-04-16 19:23:20 Time Left: 3 minutes
+20-04-16 19:24:20 Time Left: 2 minutes
+20-04-16 19:25:20 Time Left: 1 minutes
+20-04-16 19:26:20 Next map: ctf_B2b
+20-04-16 19:26:25 B2B
+20-04-16 19:31:25 Time Left: 5 minutes
+20-04-16 19:32:25 Time Left: 4 minutes
+20-04-16 19:33:25 Time Left: 3 minutes
+20-04-16 19:34:25 Time Left: 2 minutes
+20-04-16 19:35:25 Time Left: 1 minutes
+20-04-16 19:36:25 Next map: ctf_Blade
+20-04-16 19:36:31 Blade by Zakath
+20-04-16 19:41:31 Time Left: 5 minutes
+20-04-16 19:42:31 Time Left: 4 minutes
+20-04-16 19:43:31 Time Left: 3 minutes
+20-04-16 19:44:31 Time Left: 2 minutes
+20-04-16 19:45:31 Time Left: 1 minutes
+20-04-16 19:46:31 Next map: ctf_Viet
+20-04-16 19:46:36 Viet
+20-04-16 19:51:36 Time Left: 5 minutes
+20-04-16 19:52:36 Time Left: 4 minutes
+20-04-16 19:53:36 Time Left: 3 minutes
+20-04-16 19:53:42 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-16 19:53:45 B.B joining game (201.214.44.76:23073) HWID:5AB40990863
+20-04-16 19:53:45 B.B has joined alpha team.
+20-04-16 19:53:59 B.B captured the Blue Flag
+20-04-16 19:54:07 B.B scores for Alpha Team
+20-04-16 19:54:10 B.B has left alpha team.
+20-04-16 19:54:36 Time Left: 2 minutes
+20-04-16 19:55:36 Time Left: 1 minutes
+20-04-16 19:56:36 Next map: ctf_Division
+20-04-16 19:56:41 Division by Boxo, KC, viral
+20-04-16 20:01:41 Time Left: 5 minutes
+20-04-16 20:02:41 Time Left: 4 minutes
+20-04-16 20:03:41 Time Left: 3 minutes
+20-04-16 20:04:41 Time Left: 2 minutes
+20-04-16 20:05:41 Time Left: 1 minutes
+20-04-16 20:06:41 Next map: ctf_Death
+20-04-16 20:06:46 Death by MM, g_d. Boxo, mtk`
+20-04-16 20:10:33 201.214.236.103:23073|8007F30041B requesting game...
+20-04-16 20:10:34 covidiot joining game (201.214.236.103:23073) HWID:8007F30041B
+20-04-16 20:10:34 covidiot has joined as spectator.
+20-04-16 20:10:38 covidiot has left spectators
+20-04-16 20:11:46 Time Left: 5 minutes
+20-04-16 20:12:23 181.42.40.174:39083|764C06A56A7 requesting game...
+20-04-16 20:12:31 Roxas721 joining game (181.42.40.174:39083) HWID:764C06A56A7
+20-04-16 20:12:31 Roxas721 has joined alpha team.
+20-04-16 20:12:34 Roxas721 gets a ping warning
+20-04-16 20:12:46 Time Left: 4 minutes
+20-04-16 20:12:57 Roxas721 captured the Blue Flag
+20-04-16 20:13:06 Roxas721 scores for Alpha Team
+20-04-16 20:13:12 Roxas721 has left alpha team.
+20-04-16 20:13:46 Time Left: 3 minutes
+20-04-16 20:14:46 Time Left: 2 minutes
+20-04-16 20:15:46 Time Left: 1 minutes
+20-04-16 20:16:46 Next map: ctf_Hormone
+20-04-16 20:16:52 Hormone by Metsänaperot
+20-04-16 20:19:11 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-16 20:19:54 181.43.77.44:23073|176530BD328 requesting game...
+20-04-16 20:19:56 Zazza.cl  {AK} joining game (181.43.77.44:23073) HWID:176530BD328
+20-04-16 20:19:56 Zazza.cl  {AK} has joined alpha team.
+20-04-16 20:20:42 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:20:53 Zazza.cl  {AK} scores for Alpha Team
+20-04-16 20:21:08 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:12 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:17 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:19 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:21 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:27 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:21:27 Zazza.cl  {AK} scores for Alpha Team
+20-04-16 20:21:52 Time Left: 5 minutes
+20-04-16 20:22:51 Zazza.cl  {AK} captured the Blue Flag
+20-04-16 20:22:52 Time Left: 4 minutes
+20-04-16 20:22:53 Zazza.cl  {AK} has left alpha team.
+20-04-16 20:23:52 Time Left: 3 minutes
+20-04-16 20:24:52 Time Left: 2 minutes
+20-04-16 20:25:52 Time Left: 1 minutes
+20-04-16 20:26:52 Next map: ctf_Laos
+20-04-16 20:26:57 Laos
+20-04-16 20:31:57 Time Left: 5 minutes
+20-04-16 20:32:57 Time Left: 4 minutes
+20-04-16 20:33:57 Time Left: 3 minutes
+20-04-16 20:34:57 Time Left: 2 minutes
+20-04-16 20:35:57 Time Left: 1 minutes
+20-04-16 20:36:57 Next map: ctf_Laos2
+20-04-16 20:37:02 Laos
+20-04-16 20:42:02 Time Left: 5 minutes
+20-04-16 20:43:02 Time Left: 4 minutes
+20-04-16 20:44:02 Time Left: 3 minutes
+20-04-16 20:45:02 Time Left: 2 minutes
+20-04-16 20:46:02 Time Left: 1 minutes
+20-04-16 20:47:02 Next map: ctf_Maya
+20-04-16 20:47:08 Maya
+20-04-16 20:52:08 Time Left: 5 minutes
+20-04-16 20:53:08 Time Left: 4 minutes
+20-04-16 20:54:08 Time Left: 3 minutes
+20-04-16 20:55:08 Time Left: 2 minutes
+20-04-16 20:56:08 Time Left: 1 minutes
+20-04-16 20:57:08 Next map: ctf_MFM
+20-04-16 20:57:13 MFM 2 by mar77a
+20-04-16 21:02:13 Time Left: 5 minutes
+20-04-16 21:03:13 Time Left: 4 minutes
+20-04-16 21:04:13 Time Left: 3 minutes
+20-04-16 21:05:13 Time Left: 2 minutes
+20-04-16 21:06:13 Time Left: 1 minutes
+20-04-16 21:07:13 Next map: ctf_Run
+20-04-16 21:07:18 Run
+20-04-16 21:12:18 Time Left: 5 minutes
+20-04-16 21:13:18 Time Left: 4 minutes
+20-04-16 21:14:18 Time Left: 3 minutes
+20-04-16 21:15:18 Time Left: 2 minutes
+20-04-16 21:16:18 Time Left: 1 minutes
+20-04-16 21:17:18 Next map: ctf_OldRun
+20-04-16 21:17:24 Run (get to the flag!)
+20-04-16 21:21:20 190.101.154.111:23073|3BF99DCE8AD requesting game...
+20-04-16 21:21:23 COVID-19 FROM CHILE joining game (190.101.154.111:23073) HWID:3BF99DCE8AD
+20-04-16 21:21:23 COVID-19 FROM CHILE has joined bravo team.
+20-04-16 21:21:47 COVID-19 FROM CHILE captured the Red Flag
+20-04-16 21:21:49 COVID-19 FROM CHILE has left bravo team.
+20-04-16 21:22:24 Time Left: 5 minutes
+20-04-16 21:23:24 Time Left: 4 minutes
+20-04-16 21:24:24 Time Left: 3 minutes
+20-04-16 21:25:24 Time Left: 2 minutes
+20-04-16 21:26:24 Time Left: 1 minutes
+20-04-16 21:27:24 Next map: ctf_Ash
+20-04-16 21:27:29 ctf_Ash by chakapoko maker
+20-04-16 21:29:42 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-16 21:29:44 Mehdi joining game (190.215.65.209:23073) HWID:4D3C1232A07
+20-04-16 21:29:44 Mehdi has joined alpha team.
+20-04-16 21:32:29 Time Left: 5 minutes
+20-04-16 21:33:23 Mehdi has left alpha team.
+20-04-16 21:33:29 Time Left: 4 minutes
+20-04-16 21:34:29 Time Left: 3 minutes
+20-04-16 21:35:29 Time Left: 2 minutes
+20-04-16 21:36:29 Time Left: 1 minutes
+20-04-16 21:37:29 Next map: ctf_B2b
+20-04-16 21:37:34 B2B
+20-04-16 21:42:34 Time Left: 5 minutes
+20-04-16 21:43:34 Time Left: 4 minutes
+20-04-16 21:44:34 Time Left: 3 minutes
+20-04-16 21:45:34 Time Left: 2 minutes
+20-04-16 21:46:34 Time Left: 1 minutes
+20-04-16 21:47:34 Next map: ctf_Viet
+20-04-16 21:47:40 Viet
+20-04-16 21:52:40 Time Left: 5 minutes
+20-04-16 21:53:40 Time Left: 4 minutes
+20-04-16 21:54:40 Time Left: 3 minutes
+20-04-16 21:55:40 Time Left: 2 minutes
+20-04-16 21:56:40 Time Left: 1 minutes
+20-04-16 21:57:40 Next map: ctf_Campeche
+20-04-16 21:57:45 Campeche by Zakath
+20-04-16 22:02:45 Time Left: 5 minutes
+20-04-16 22:03:45 Time Left: 4 minutes
+20-04-16 22:04:45 Time Left: 3 minutes
+20-04-16 22:05:45 Time Left: 2 minutes
+20-04-16 22:06:45 Time Left: 1 minutes
+20-04-16 22:07:45 Next map: ctf_Snakebite
+20-04-16 22:07:50 Snakebite orig. by chakapoko maker
+20-04-16 22:11:02 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-16 22:11:04 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-16 22:11:04 .:{MIS}:. Leche has joined as spectator.
+20-04-16 22:11:07 .:{MIS}:. Leche has left spectators
+20-04-16 22:12:50 Time Left: 5 minutes
+20-04-16 22:13:50 Time Left: 4 minutes
+20-04-16 22:14:50 Time Left: 3 minutes
+20-04-16 22:15:50 Time Left: 2 minutes
+20-04-16 22:16:50 Time Left: 1 minutes
+20-04-16 22:17:50 Next map: ctf_Run
+20-04-16 22:17:56 Run
+20-04-16 22:19:49 190.161.160.114:23073|50BCE686B64 requesting game...
+20-04-16 22:19:53 rast94 joining game (190.161.160.114:23073) HWID:50BCE686B64
+20-04-16 22:19:53 rast94 has joined alpha team.
+20-04-16 22:20:28 190.45.61.127:23073|2C7B58642EC requesting game...
+20-04-16 22:20:31 Galahad joining game (190.45.61.127:23073) HWID:2C7B58642EC
+20-04-16 22:20:31 Galahad has joined bravo team.
+20-04-16 22:20:33 Galahad gets a ping warning
+20-04-16 22:20:40 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:20:42 190.46.95.134:23073|2D6FCD3DB41 requesting game...
+20-04-16 22:20:46 guatonmorsa joining game (190.46.95.134:23073) HWID:2D6FCD3DB41
+20-04-16 22:20:46 guatonmorsa has joined as spectator.
+20-04-16 22:20:56 guatonmorsa has joined alpha team.
+20-04-16 22:21:00 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:21:10 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:21:14 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:21:26 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:21:30 guatonmorsa captured the Blue Flag
+20-04-16 22:21:31 (2) Galahad killed (1) guatonmorsa with Combat Knife
+20-04-16 22:21:32 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:21:37 rast94 captured the Blue Flag
+20-04-16 22:21:54 rast94 scores for Alpha Team
+20-04-16 22:21:57 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:21:58 Galahad captured the Red Flag
+20-04-16 22:22:04 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:22:07 rast94 returned the Red Flag
+20-04-16 22:22:22 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:22:32 rast94 gets a ping warning
+20-04-16 22:22:32 Galahad gets a ping warning
+20-04-16 22:22:39 guatonmorsa captured the Blue Flag
+20-04-16 22:22:40 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:22:52 (1) rast94 killed (2) Galahad with Grenade
+20-04-16 22:22:56 Time Left: 5 minutes
+20-04-16 22:22:58 rast94 is flooding the server
+20-04-16 22:22:58 guatonmorsa scores for Alpha Team
+20-04-16 22:23:07 rast94 gets a ping warning
+20-04-16 22:23:10 Galahad captured the Red Flag
+20-04-16 22:23:20 guatonmorsa captured the Blue Flag
+20-04-16 22:23:38 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:23:39 guatonmorsa returned the Red Flag
+20-04-16 22:23:45 guatonmorsa scores for Alpha Team
+20-04-16 22:23:45 rast94 captured the Blue Flag
+20-04-16 22:23:56 Time Left: 4 minutes
+20-04-16 22:24:05 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:24:15 guatonmorsa captured the Blue Flag
+20-04-16 22:24:16 guatonmorsa scores for Alpha Team
+20-04-16 22:24:21 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:24:23 Galahad captured the Red Flag
+20-04-16 22:24:27 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:24:31 rast94 captured the Blue Flag
+20-04-16 22:24:37 Galahad returned the Blue Flag
+20-04-16 22:24:39 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:24:44 Galahad scores for Bravo Team
+20-04-16 22:24:48 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:24:52 rast94 gets a ping warning
+20-04-16 22:24:56 Time Left: 3 minutes
+20-04-16 22:24:59 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:25:08 Galahad captured the Red Flag
+20-04-16 22:25:21 (2) Galahad killed (1) guatonmorsa with M79
+20-04-16 22:25:21 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:25:25 rast94 returned the Red Flag
+20-04-16 22:25:26 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:25:28 rast94 captured the Blue Flag
+20-04-16 22:25:31 Galahad returned the Blue Flag
+20-04-16 22:25:32 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:25:35 rast94 captured the Blue Flag
+20-04-16 22:25:42 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:25:47 guatonmorsa captured the Blue Flag
+20-04-16 22:25:53 guatonmorsa scores for Alpha Team
+20-04-16 22:25:56 Time Left: 2 minutes
+20-04-16 22:26:01 Galahad captured the Red Flag
+20-04-16 22:26:08 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:26:17 (1) rast94 killed (2) Galahad with Barrett M82A1
+20-04-16 22:26:25 Galahad captured the Red Flag
+20-04-16 22:26:26 [guatonmorsa] nice shot!
+20-04-16 22:26:27 Galahad scores for Bravo Team
+20-04-16 22:26:31 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:26:31 (2) Galahad killed (1) rast94 with Barrett M82A1
+20-04-16 22:26:34 guatonmorsa captured the Blue Flag
+20-04-16 22:26:36 (2) Galahad killed (1) guatonmorsa with Combat Knife
+20-04-16 22:26:52 rast94 has joined bravo team.
+20-04-16 22:26:55 rast94 returned the Blue Flag
+20-04-16 22:26:56 Time Left: 1 minutes
+20-04-16 22:27:03 (1) guatonmorsa killed (2) rast94 with Combat Knife
+20-04-16 22:27:18 guatonmorsa captured the Blue Flag
+20-04-16 22:27:20 rast94 captured the Red Flag
+20-04-16 22:27:29 Galahad captured the Red Flag
+20-04-16 22:27:34 rast94 captured the Red Flag
+20-04-16 22:27:56 Next map: ctf_Nuubia
+20-04-16 22:28:01 by Troskal and friends
+20-04-16 22:28:20 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:28:26 (1) guatonmorsa killed (2) rast94 with M79
+20-04-16 22:28:27 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:28:32 Galahad captured the Red Flag
+20-04-16 22:28:40 (2) rast94 killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:28:46 (1) guatonmorsa killed (2) rast94 with Combat Knife
+20-04-16 22:28:52 Galahad scores for Bravo Team
+20-04-16 22:29:03 Galahad captured the Red Flag
+20-04-16 22:29:05 guatonmorsa captured the Blue Flag
+20-04-16 22:29:09 (1) guatonmorsa killed (2) rast94 with Grenade
+20-04-16 22:29:18 Galahad gets a ping warning
+20-04-16 22:29:32 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:29:33 (2) Galahad killed (1) guatonmorsa with Grenade
+20-04-16 22:29:35 rast94 returned the Blue Flag
+20-04-16 22:29:39 rast94 captured the Red Flag
+20-04-16 22:29:42 rast94 scores for Bravo Team
+20-04-16 22:29:46 (2) rast94 killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:29:46 (1) guatonmorsa killed (2) rast94 with M79
+20-04-16 22:29:49 Galahad captured the Red Flag
+20-04-16 22:30:01 guatonmorsa captured the Blue Flag
+20-04-16 22:30:07 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:30:08 rast94 captured the Red Flag
+20-04-16 22:30:12 Galahad returned the Blue Flag
+20-04-16 22:30:14 rast94 scores for Bravo Team
+20-04-16 22:30:15 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:30:18 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-16 22:30:20 rast94 has joined spectators.
+20-04-16 22:30:21 Galahad captured the Red Flag
+20-04-16 22:30:33 Galahad scores for Bravo Team
+20-04-16 22:30:44 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:30:52 guatonmorsa captured the Blue Flag
+20-04-16 22:31:03 guatonmorsa scores for Alpha Team
+20-04-16 22:31:07 Galahad captured the Red Flag
+20-04-16 22:31:09 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:31:22 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:31:23 guatonmorsa captured the Blue Flag
+20-04-16 22:31:24 Galahad gets a ping warning
+20-04-16 22:31:26 guatonmorsa returned the Red Flag
+20-04-16 22:31:34 Galahad captured the Red Flag
+20-04-16 22:32:09 (2) Galahad killed (1) guatonmorsa with Cluster Grenades
+20-04-16 22:32:11 Galahad returned the Blue Flag
+20-04-16 22:32:16 Galahad scores for Bravo Team
+20-04-16 22:32:24 guatonmorsa captured the Blue Flag
+20-04-16 22:32:27 Galahad captured the Red Flag
+20-04-16 22:32:31 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:32:34 guatonmorsa returned the Red Flag
+20-04-16 22:32:39 guatonmorsa scores for Alpha Team
+20-04-16 22:32:50 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:32:51 Galahad captured the Red Flag
+20-04-16 22:32:56 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:33:01 Time Left: 5 minutes
+20-04-16 22:33:03 guatonmorsa captured the Blue Flag
+20-04-16 22:33:04 Galahad captured the Red Flag
+20-04-16 22:33:25 Galahad captured the Red Flag
+20-04-16 22:33:27 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:33:31 Galahad returned the Blue Flag
+20-04-16 22:33:34 Galahad scores for Bravo Team
+20-04-16 22:33:38 (2) Galahad killed (1) guatonmorsa with Grenade
+20-04-16 22:33:48 Galahad captured the Red Flag
+20-04-16 22:34:00 guatonmorsa captured the Blue Flag
+20-04-16 22:34:01 Time Left: 4 minutes
+20-04-16 22:34:22 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:34:27 guatonmorsa returned the Red Flag
+20-04-16 22:34:37 guatonmorsa scores for Alpha Team
+20-04-16 22:34:39 Galahad captured the Red Flag
+20-04-16 22:34:53 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:34:55 guatonmorsa returned the Red Flag
+20-04-16 22:35:01 Time Left: 3 minutes
+20-04-16 22:35:03 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:35:10 guatonmorsa captured the Blue Flag
+20-04-16 22:35:13 (2) Galahad killed (1) guatonmorsa with Combat Knife
+20-04-16 22:35:14 Galahad returned the Blue Flag
+20-04-16 22:35:19 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:35:29 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:35:30 guatonmorsa captured the Blue Flag
+20-04-16 22:35:31 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-16 22:35:35 Mehdi joining game (190.215.65.209:23073) HWID:4D3C1232A07
+20-04-16 22:35:35 Mehdi has joined alpha team.
+20-04-16 22:35:42 rast94 has joined bravo team.
+20-04-16 22:35:43 (1) Mehdi killed (2) Galahad with Barrett M82A1
+20-04-16 22:35:52 190.46.136.226:23073|19676FD8943 requesting game...
+20-04-16 22:35:53 guatonmorsa scores for Alpha Team
+20-04-16 22:35:53 (1) Mehdi killed (2) rast94 with Barrett M82A1
+20-04-16 22:35:55 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:35:59 (1) Mehdi killed (2) rast94 with Barrett M82A1
+20-04-16 22:36:01 Time Left: 2 minutes
+20-04-16 22:36:10 (1) Mehdi killed (2) Galahad with Barrett M82A1
+20-04-16 22:36:10 (2) Galahad killed (1) Mehdi with Barrett M82A1
+20-04-16 22:36:13 (1) guatonmorsa killed (2) rast94 with M79
+20-04-16 22:36:28 (2) rast94 killed (1) Mehdi with Combat Knife
+20-04-16 22:36:32 rast94 gets a ping warning
+20-04-16 22:36:33 (1) guatonmorsa killed (2) Galahad with M79
+20-04-16 22:36:41 (1) guatonmorsa killed (2) rast94 with M79
+20-04-16 22:36:45 (1) Mehdi killed (2) Galahad with Barrett M82A1
+20-04-16 22:36:46 Mehdi captured the Blue Flag
+20-04-16 22:36:46 Galahad gets a ping warning
+20-04-16 22:36:57 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:36:59 Galahad captured the Red Flag
+20-04-16 22:37:01 (1) Mehdi killed (2) rast94 with USSOCOM
+20-04-16 22:37:01 Time Left: 1 minutes
+20-04-16 22:37:03 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:37:08 (1) Mehdi killed (2) Galahad with Barrett M82A1
+20-04-16 22:37:11 guatonmorsa returned the Red Flag
+20-04-16 22:37:15 rast94 captured the Red Flag
+20-04-16 22:37:16 (1) Mehdi killed (2) rast94 with USSOCOM
+20-04-16 22:37:18 Mehdi returned the Red Flag
+20-04-16 22:37:19 (2) Galahad killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:37:20 Mehdi scores for Alpha Team
+20-04-16 22:37:21 (1) Mehdi killed (2) Galahad with Barrett M82A1
+20-04-16 22:37:21 (2) Galahad killed (1) Mehdi with Combat Knife
+20-04-16 22:37:32 (2) rast94 killed (1) Mehdi with Barrett M82A1
+20-04-16 22:37:34 guatonmorsa captured the Blue Flag
+20-04-16 22:37:34 Galahad captured the Red Flag
+20-04-16 22:37:36 Mehdi has left alpha team.
+20-04-16 22:37:40 (2) rast94 killed (1) guatonmorsa with Combat Knife
+20-04-16 22:37:41 rast94 returned the Blue Flag
+20-04-16 22:37:47 Galahad scores for Bravo Team
+20-04-16 22:37:51 guatonmorsa captured the Blue Flag
+20-04-16 22:37:54 (2) Galahad killed (1) guatonmorsa with Combat Knife
+20-04-16 22:37:55 rast94 captured the Red Flag
+20-04-16 22:37:57 Galahad returned the Blue Flag
+20-04-16 22:38:01 Next map: ctf_Guardian
+20-04-16 22:38:06 ctf_Guardian by SuoW
+20-04-16 22:38:15 Galahad has left bravo team.
+20-04-16 22:38:17 (1) guatonmorsa killed (2) rast94 with M79
+20-04-16 22:38:20 guatonmorsa captured the Blue Flag
+20-04-16 22:38:38 guatonmorsa scores for Alpha Team
+20-04-16 22:38:40 (2) rast94 killed (1) guatonmorsa with Barrett M82A1
+20-04-16 22:38:41 rast94 captured the Red Flag
+20-04-16 22:38:50 guatonmorsa captured the Blue Flag
+20-04-16 22:38:52 rast94 has left bravo team.
+20-04-16 22:38:59 guatonmorsa has left alpha team.
+20-04-16 22:39:05 190.107.228.214:32376|64995B15DC0 requesting game...
+20-04-16 22:43:06 Time Left: 5 minutes
+20-04-16 22:44:06 Time Left: 4 minutes
+20-04-16 22:45:06 Time Left: 3 minutes
+20-04-16 22:46:06 Time Left: 2 minutes
+20-04-16 22:47:06 Time Left: 1 minutes
+20-04-16 22:48:06 Next map: ctf_Ash
+20-04-16 22:48:12 ctf_Ash by chakapoko maker
+20-04-16 22:53:12 Time Left: 5 minutes
+20-04-16 22:54:12 Time Left: 4 minutes
+20-04-16 22:55:12 Time Left: 3 minutes
+20-04-16 22:56:12 Time Left: 2 minutes
+20-04-16 22:57:12 Time Left: 1 minutes
+20-04-16 22:57:59 190.46.136.226:23073|19676FD8943 requesting game...
+20-04-16 22:58:12 Next map: ctf_B2b
+20-04-16 22:58:17 B2B
+20-04-16 22:59:16 201.189.93.231:23073|28E95A9EA5B requesting game...
+20-04-16 22:59:19 La Pollo joining game (201.189.93.231:23073) HWID:28E95A9EA5B
+20-04-16 22:59:19 La Pollo has joined bravo team.
+20-04-16 22:59:37 181.43.87.153:23073|757FFC8E3A5 requesting game...
+20-04-16 22:59:38 190.163.132.100:23073|62443CF3763 requesting game...
+20-04-16 22:59:38 190.160.219.53:23073|6AC5BC8A065 requesting game...
+20-04-16 22:59:41 xaguin joining game (190.163.132.100:23073) HWID:62443CF3763
+20-04-16 22:59:41 xaguin has joined alpha team.
+20-04-16 22:59:43 Maruchan joining game (181.43.87.153:23073) HWID:757FFC8E3A5
+20-04-16 22:59:43 Maruchan has joined alpha team.
+20-04-16 22:59:46 Diegokun joining game (190.160.219.53:23073) HWID:6AC5BC8A065
+20-04-16 22:59:46 Diegokun has joined alpha team.
+20-04-16 22:59:48 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 22:59:52 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 22:59:52 Babrisimo has joined alpha team.
+20-04-16 23:00:08 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:00:15 xaguin captured the Blue Flag
+20-04-16 23:00:24 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:00:27 La Pollo returned the Blue Flag
+20-04-16 23:00:32 (2) La Pollo killed (1) Diegokun with Steyr AUG
+20-04-16 23:00:32 Babrisimo captured the Blue Flag
+20-04-16 23:00:40 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:00:40 (1) Babrisimo killed (2) La Pollo with Grenade
+20-04-16 23:00:46 Maruchan captured the Blue Flag
+20-04-16 23:01:03 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:01:11 Diegokun has joined bravo team.
+20-04-16 23:01:15 Maruchan scores for Alpha Team
+20-04-16 23:01:31 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:01:41 xaguin captured the Blue Flag
+20-04-16 23:01:43 La Pollo captured the Red Flag
+20-04-16 23:01:48 132.191.3.47:59761|1FFE8F1D7CA requesting game...
+20-04-16 23:01:50 K!llersBN#| chub0 joining game (132.191.3.47:59761) HWID:1FFE8F1D7CA
+20-04-16 23:01:50 K!llersBN#| chub0 has joined bravo team.
+20-04-16 23:01:57 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:02:00 La Pollo returned the Blue Flag
+20-04-16 23:02:05 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:02:08 (2) K!llersBN#| chub0 killed (1) xaguin with M79
+20-04-16 23:02:10 181.43.218.34:63877|260C610D131 requesting game...
+20-04-16 23:02:11 (2) K!llersBN#| chub0 killed (1) Babrisimo with LAW
+20-04-16 23:02:14 Koma joining game (181.43.218.34:63877) HWID:260C610D131
+20-04-16 23:02:14 Koma has joined bravo team.
+20-04-16 23:02:15 (2) Diegokun killed (1) Maruchan with Grenade
+20-04-16 23:02:16 (2) K!llersBN#| chub0 killed (1) Babrisimo with M79
+20-04-16 23:02:18 (2) K!llersBN#| chub0 killed (1) xaguin with Grenade
+20-04-16 23:02:20 Babrisimo started votekick against K!llersBN#| chub0 - Reason: sdf
+20-04-16 23:02:29 (2) K!llersBN#| chub0 killed (1) Maruchan with M79
+20-04-16 23:02:30 La Pollo scores for Bravo Team
+20-04-16 23:02:40 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:02:41 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:02:45 (2) Koma killed (1) Maruchan with M79
+20-04-16 23:02:45 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:02:56 K!llersBN#| chub0 scores for Bravo Team
+20-04-16 23:02:58 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:02:59 La Pollo started votekick against K!llersBN#| chub0 - Reason: no friend
+20-04-16 23:03:05 (1) xaguin killed (2) Koma with Steyr AUG
+20-04-16 23:03:06 [K!llersBN#| chub0] xD
+20-04-16 23:03:07 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:03:16 (2) K!llersBN#| chub0 killed (1) xaguin with M79
+20-04-16 23:03:17 K!llersBN#| chub0 has been kicked and banned for 5 minutes (Vote Kicked (Left game))
+20-04-16 23:03:17 Time Left: 5 minutes
+20-04-16 23:03:26 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:03:29 (2) Koma killed (1) Babrisimo with Chainsaw
+20-04-16 23:03:30 (1) Maruchan killed (2) Koma with M79
+20-04-16 23:03:37 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:03:42 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:04:02 (2) Koma killed (1) xaguin with M79
+20-04-16 23:04:07 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:04:09 (1) xaguin killed (2) Diegokun with Ak-74
+20-04-16 23:04:12 La Pollo captured the Red Flag
+20-04-16 23:04:14 (2) Koma killed (1) xaguin with Chainsaw
+20-04-16 23:04:17 Time Left: 4 minutes
+20-04-16 23:04:17 (1) Babrisimo killed (2) Koma with Grenade
+20-04-16 23:04:31 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:04:35 La Pollo scores for Bravo Team
+20-04-16 23:04:37 (2) Koma killed (1) xaguin with M79
+20-04-16 23:04:39 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:04:55 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:04:59 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:05:04 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:05:10 (1) Babrisimo killed (2) Diegokun with Grenade
+20-04-16 23:05:12 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:05:12 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:05:17 Time Left: 3 minutes
+20-04-16 23:05:30 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:05:37 xaguin captured the Blue Flag
+20-04-16 23:05:39 (1) Maruchan killed (2) Koma with Ruger 77
+20-04-16 23:05:39 La Pollo captured the Red Flag
+20-04-16 23:05:54 (1) Maruchan killed (2) La Pollo with Ruger 77
+20-04-16 23:05:55 (2) Diegokun killed (1) xaguin with FN Minimi
+20-04-16 23:05:56 Babrisimo returned the Red Flag
+20-04-16 23:05:56 Diegokun returned the Blue Flag
+20-04-16 23:06:08 (1) Maruchan killed (2) Diegokun with Ruger 77
+20-04-16 23:06:17 Time Left: 2 minutes
+20-04-16 23:06:25 (2) Koma killed (1) Babrisimo with Chainsaw
+20-04-16 23:06:49 (2) Koma killed (1) Babrisimo with M79
+20-04-16 23:07:12 (2) Diegokun killed (1) Maruchan with FN Minimi
+20-04-16 23:07:16 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:07:17 (1) Babrisimo killed (2) Koma with Spas-12
+20-04-16 23:07:17 Time Left: 1 minutes
+20-04-16 23:07:22 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:07:33 (1) Maruchan killed (2) La Pollo with Ruger 77
+20-04-16 23:07:36 (1) Maruchan killed (2) Koma with Ruger 77
+20-04-16 23:07:38 IP number 132.191.3.47 (Vote Kicked (Left game)) unbanned
+20-04-16 23:07:38 Hardware ID 1FFE8F1D7CA (Vote Kicked (Left game)) unbanned
+20-04-16 23:07:39 (1) Maruchan killed (2) Diegokun with Ruger 77
+20-04-16 23:07:51 Babrisimo captured the Blue Flag
+20-04-16 23:07:52 (2) Diegokun killed (1) Babrisimo with FN Minimi
+20-04-16 23:07:55 (2) Koma killed (1) Maruchan with M79
+20-04-16 23:08:01 (1) xaguin killed (2) La Pollo with Ak-74
+20-04-16 23:08:05 (1) Maruchan killed (2) Koma with Ruger 77
+20-04-16 23:08:09 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:08:17 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:08:17 Next map: ctf_Blade
+20-04-16 23:08:22 Blade by Zakath
+20-04-16 23:08:36 (1) Maruchan killed (2) La Pollo with LAW
+20-04-16 23:08:40 (2) Koma killed (1) xaguin with Chainsaw
+20-04-16 23:08:42 (1) Maruchan killed (2) Koma with Barrett M82A1
+20-04-16 23:08:50 (1) Maruchan killed (2) Diegokun with LAW
+20-04-16 23:08:51 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:08:54 132.191.3.47:20154|1FFE8F1D7CA requesting game...
+20-04-16 23:08:55 K!llersBN#| chub0 joining game (132.191.3.47:20154) HWID:1FFE8F1D7CA
+20-04-16 23:08:55 K!llersBN#| chub0 has joined bravo team.
+20-04-16 23:08:58 (2) Koma killed (1) xaguin with Chainsaw
+20-04-16 23:08:59 La Pollo captured the Red Flag
+20-04-16 23:09:01 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:09:09 (1) Maruchan killed (2) Koma with LAW
+20-04-16 23:09:14 (1) Maruchan killed (2) Diegokun with Barrett M82A1
+20-04-16 23:09:19 (TEAM)[K!llersBN#| chub0] salta y agachate al mismo tiempo y tiras la flag
+20-04-16 23:09:23 La Pollo scores for Bravo Team
+20-04-16 23:09:27 (1) Babrisimo killed (2) La Pollo with Grenade
+20-04-16 23:09:28 (1) Babrisimo killed (2) Koma with Spas-12
+20-04-16 23:09:30 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:09:33 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:09:34 La Pollo started votekick against K!llersBN#| chub0 - Reason: no friend
+20-04-16 23:09:36 (2) Koma killed (1) xaguin with Chainsaw
+20-04-16 23:09:37 Diegokun captured the Red Flag
+20-04-16 23:09:44 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:09:44 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:09:47 200.120.51.15:23073| requesting game...
+20-04-16 23:09:48 Concentrated Orange Jews joining game (200.120.51.15:23073) HWID:2B3381F43A1
+20-04-16 23:09:48 Concentrated Orange Jews has joined as spectator.
+20-04-16 23:09:49 (1) Babrisimo killed (2) K!llersBN#| chub0 with Spas-12
+20-04-16 23:09:50 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:09:52 Concentrated Orange Jews has joined alpha team.
+20-04-16 23:09:53 Koma captured the Red Flag
+20-04-16 23:09:53 (2) Koma killed (1) Babrisimo with M79
+20-04-16 23:09:56 La Pollo captured the Red Flag
+20-04-16 23:09:58 (1) Concentrated Orange Jews killed (2) La Pollo with Barrett M82A1
+20-04-16 23:09:58 Maruchan returned the Red Flag
+20-04-16 23:10:05 (1) Concentrated Orange Jews killed (2) Diegokun with Barrett M82A1
+20-04-16 23:10:06 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:10:07 (2) Koma killed (1) Maruchan with M79
+20-04-16 23:10:09 Diegokun captured the Red Flag
+20-04-16 23:10:09 (1) Concentrated Orange Jews killed (2) Koma with Barrett M82A1
+20-04-16 23:10:12 (1) Babrisimo killed (2) K!llersBN#| chub0 with Spas-12
+20-04-16 23:10:13 Diegokun scores for Bravo Team
+20-04-16 23:10:17 (1) Concentrated Orange Jews killed (2) Koma with Barrett M82A1
+20-04-16 23:10:18 (1) Concentrated Orange Jews killed (2) K!llersBN#| chub0 with Combat Knife
+20-04-16 23:10:22 Babrisimo captured the Blue Flag
+20-04-16 23:10:22 Koma started votekick against K!llersBN#| chub0 - Reason: manco klo
+20-04-16 23:10:24 200.30.238.143:23073|4DD57DBE55F requesting game...
+20-04-16 23:10:25 La Pollo returned the Blue Flag
+20-04-16 23:10:25 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:10:27 (1) Concentrated Orange Jews killed (2) Diegokun with M79
+20-04-16 23:10:28 aliencita_gotik joining game (200.30.238.143:23073) HWID:4DD57DBE55F
+20-04-16 23:10:28 aliencita_gotik has joined bravo team.
+20-04-16 23:10:30 aliencita_gotik has left bravo team.
+20-04-16 23:10:31 (1) Concentrated Orange Jews killed (2) La Pollo with Barrett M82A1
+20-04-16 23:10:35 Koma has left bravo team.
+20-04-16 23:10:36 (2) K!llersBN#| chub0 killed (1) Babrisimo with Grenade
+20-04-16 23:10:36 La Pollo has left bravo team.
+20-04-16 23:10:37 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:10:38 200.30.238.143:23073|4DD57DBE55F requesting game...
+20-04-16 23:10:38 Babrisimo has left alpha team.
+20-04-16 23:10:40 (1) Concentrated Orange Jews killed (2) Diegokun with Grenade
+20-04-16 23:10:41 aliencita_gotik joining game (200.30.238.143:23073) HWID:4DD57DBE55F
+20-04-16 23:10:41 aliencita_gotik has joined bravo team.
+20-04-16 23:10:41 190.47.246.112:23073|183CEC152ED requesting game...
+20-04-16 23:10:45 (2) K!llersBN#| chub0 killed (1) xaguin with M79
+20-04-16 23:10:48 (1) Concentrated Orange Jews killed (2) Diegokun with Barrett M82A1
+20-04-16 23:10:48 (1) Maruchan killed (2) aliencita_gotik with Barrett M82A1
+20-04-16 23:10:50 Maruchan returned the Red Flag
+20-04-16 23:10:50 Maruchan captured the Blue Flag
+20-04-16 23:10:52 aliencita_gotik has left bravo team.
+20-04-16 23:10:52 (2) K!llersBN#| chub0 killed (1) xaguin with M79
+20-04-16 23:10:52 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:10:54 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:10:56 Diegokun returned the Blue Flag
+20-04-16 23:11:00 (2) K!llersBN#| chub0 killed (1) Maruchan with M79
+20-04-16 23:11:13 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:11:14 K!llersBN#| chub0 scores for Bravo Team
+20-04-16 23:11:14 (2) Diegokun killed (1) xaguin with Hands
+20-04-16 23:11:18 (1) Maruchan killed (2) Diegokun with Grenade
+20-04-16 23:11:19 Concentrated Orange Jews has left alpha team.
+20-04-16 23:11:21 (2) K!llersBN#| chub0 killed (1) Maruchan with M79
+20-04-16 23:11:25 K!llersBN#| chub0 captured the Red Flag
+20-04-16 23:11:27 [Maruchan] sale de aca perkin
+20-04-16 23:11:29 (1) Maruchan killed (2) K!llersBN#| chub0 with Barrett M82A1
+20-04-16 23:11:30 K!llersBN#| chub0 has left bravo team.
+20-04-16 23:11:32 Diegokun captured the Red Flag
+20-04-16 23:11:41 Diegokun scores for Bravo Team
+20-04-16 23:11:51 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:11:58 (1) Maruchan killed (2) Diegokun with Barrett M82A1
+20-04-16 23:12:01 (2) Diegokun killed (1) Maruchan with Grenade
+20-04-16 23:12:09 201.189.93.231:23073|28E95A9EA5B requesting game...
+20-04-16 23:12:12 La Pollo joining game (201.189.93.231:23073) HWID:28E95A9EA5B
+20-04-16 23:12:12 La Pollo has joined bravo team.
+20-04-16 23:12:13 xaguin captured the Blue Flag
+20-04-16 23:12:13 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:12:21 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 23:12:21 (1) xaguin killed (2) Diegokun with Ak-74
+20-04-16 23:12:24 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 23:12:24 Babrisimo has joined alpha team.
+20-04-16 23:12:26 xaguin scores for Alpha Team
+20-04-16 23:12:30 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:12:36 (1) xaguin killed (2) La Pollo with Ak-74
+20-04-16 23:12:37 (2) Diegokun killed (1) Babrisimo with Ak-74
+20-04-16 23:12:40 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:12:41 (1) Maruchan killed (2) Diegokun with LAW
+20-04-16 23:12:50 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:12:54 (2) La Pollo killed (1) xaguin with Hands
+20-04-16 23:12:59 La Pollo captured the Red Flag
+20-04-16 23:13:00 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:13:00 (1) Babrisimo killed (2) La Pollo with Ruger 77
+20-04-16 23:13:04 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:13:04 La Pollo has left bravo team.
+20-04-16 23:13:06 (1) Babrisimo killed (2) Diegokun with Ruger 77
+20-04-16 23:13:10 Babrisimo has left alpha team.
+20-04-16 23:13:16 168.196.202.239:8355|7F03342CA41 requesting game...
+20-04-16 23:13:20 ArepasBoy88 joining game (168.196.202.239:8355) HWID:7F03342CA41
+20-04-16 23:13:20 ArepasBoy88 has joined bravo team.
+20-04-16 23:13:22 Time Left: 5 minutes
+20-04-16 23:13:24 (1) Maruchan killed (2) Diegokun with Barrett M82A1
+20-04-16 23:13:24 xaguin captured the Blue Flag
+20-04-16 23:13:31 (1) Maruchan killed (2) Diegokun with Barrett M82A1
+20-04-16 23:13:37 xaguin scores for Alpha Team
+20-04-16 23:13:50 (1) Maruchan killed (2) ArepasBoy88 with Barrett M82A1
+20-04-16 23:13:56 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:14:02 (1) xaguin killed (2) Diegokun with Spas-12
+20-04-16 23:14:10 (2) ArepasBoy88 killed (1) Maruchan with Ak-74
+20-04-16 23:14:14 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:14:22 Time Left: 4 minutes
+20-04-16 23:14:24 (1) xaguin killed (2) Diegokun with Grenade
+20-04-16 23:14:31 ArepasBoy88 captured the Red Flag
+20-04-16 23:14:32 (2) ArepasBoy88 killed (1) xaguin with Ak-74
+20-04-16 23:14:37 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 23:14:38 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:14:39 (1) xaguin killed (2) ArepasBoy88 with Steyr AUG
+20-04-16 23:14:40 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 23:14:40 Babrisimo has joined alpha team.
+20-04-16 23:14:42 xaguin returned the Red Flag
+20-04-16 23:14:49 (1) Maruchan killed (2) Diegokun with FN Minimi
+20-04-16 23:14:51 xaguin captured the Blue Flag
+20-04-16 23:15:05 xaguin scores for Alpha Team
+20-04-16 23:15:09 (1) Maruchan killed (2) Diegokun with FN Minimi
+20-04-16 23:15:10 (2) ArepasBoy88 killed (1) Maruchan with Barrett M82A1
+20-04-16 23:15:13 (2) ArepasBoy88 killed (1) xaguin with USSOCOM
+20-04-16 23:15:22 Time Left: 3 minutes
+20-04-16 23:15:23 (1) Maruchan killed (2) Diegokun with FN Minimi
+20-04-16 23:15:25 (1) Maruchan killed (2) ArepasBoy88 with FN Minimi
+20-04-16 23:15:27 201.189.93.231:23073|28E95A9EA5B requesting game...
+20-04-16 23:15:27 181.43.218.34:64643|260C610D131 requesting game...
+20-04-16 23:15:30 Koma joining game (181.43.218.34:64643) HWID:260C610D131
+20-04-16 23:15:30 Koma has joined bravo team.
+20-04-16 23:15:30 La Pollo joining game (201.189.93.231:23073) HWID:28E95A9EA5B
+20-04-16 23:15:30 La Pollo has joined bravo team.
+20-04-16 23:15:34 (2) ArepasBoy88 killed (1) xaguin with HK MP5
+20-04-16 23:15:36 (1) Maruchan killed (2) Diegokun with FN Minimi
+20-04-16 23:15:44 (2) Koma killed (1) Maruchan with Barrett M82A1
+20-04-16 23:15:45 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:15:51 (2) ArepasBoy88 killed (1) xaguin with HK MP5
+20-04-16 23:15:53 (2) Koma killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:15:58 (1) Maruchan killed (2) La Pollo with FN Minimi
+20-04-16 23:16:01 (2) Diegokun killed (1) Maruchan with Steyr AUG
+20-04-16 23:16:03 (1) Babrisimo killed (2) Koma with M79
+20-04-16 23:16:04 [ArepasBoy88] tawt
+20-04-16 23:16:05 (2) ArepasBoy88 killed (1) xaguin with HK MP5
+20-04-16 23:16:10 (1) Maruchan killed (2) Diegokun with FN Minimi
+20-04-16 23:16:12 (1) Maruchan killed (2) ArepasBoy88 with FN Minimi
+20-04-16 23:16:16 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:16:18 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:16:22 Time Left: 2 minutes
+20-04-16 23:16:25 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:16:26 (2) Diegokun killed (1) Maruchan with Grenade
+20-04-16 23:16:28 Diegokun captured the Red Flag
+20-04-16 23:16:29 (2) Koma killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:16:31 179.4.191.90:23073|11075E261D7 requesting game...
+20-04-16 23:16:35 PAJAROKK joining game (179.4.191.90:23073) HWID:11075E261D7
+20-04-16 23:16:35 PAJAROKK has joined alpha team.
+20-04-16 23:16:35 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:16:38 Diegokun scores for Bravo Team
+20-04-16 23:16:46 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:16:48 (1) PAJAROKK killed (2) La Pollo with Barrett M82A1
+20-04-16 23:16:55 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:16:59 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:17:02 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:17:03 (1) PAJAROKK killed (2) La Pollo with Barrett M82A1
+20-04-16 23:17:03 (2) Koma killed (1) Maruchan with Barrett M82A1
+20-04-16 23:17:05 [Maruchan] sale de aca pajaro qlo
+20-04-16 23:17:09 (2) ArepasBoy88 killed (1) xaguin with Ak-74
+20-04-16 23:17:14 (2) ArepasBoy88 killed (1) Maruchan with Ak-74
+20-04-16 23:17:15 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:17:22 Time Left: 1 minutes
+20-04-16 23:17:23 (1) Maruchan killed (2) La Pollo with Ak-74
+20-04-16 23:17:26 (1) Babrisimo killed (2) Koma with Spas-12
+20-04-16 23:17:29 (2) ArepasBoy88 killed (1) PAJAROKK with Ak-74
+20-04-16 23:17:35 La Pollo started votekick against ArepasBoy88 - Reason: no friend
+20-04-16 23:17:38 xaguin captured the Blue Flag
+20-04-16 23:17:39 (2) ArepasBoy88 killed (1) xaguin with Ak-74
+20-04-16 23:17:46 (TEAM)[Koma] oye ccabros klos, vayanse
+20-04-16 23:17:46 (2) Diegokun killed (1) Babrisimo with Steyr AUG
+20-04-16 23:17:47 (1) PAJAROKK killed (2) Diegokun with Barrett M82A1
+20-04-16 23:17:47 ArepasBoy88 has been kicked and banned for 60 minutes (Vote Kicked)
+20-04-16 23:17:52 (1) Maruchan killed (2) Koma with Ak-74
+20-04-16 23:17:55 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:17:56 (1) PAJAROKK killed (2) La Pollo with USSOCOM
+20-04-16 23:18:01 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-16 23:18:02 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:18:05 Mehdi joining game (190.215.65.209:23073) HWID:4D3C1232A07
+20-04-16 23:18:05 Mehdi has joined bravo team.
+20-04-16 23:18:08 (2) Diegokun killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:18:09 (2) Koma killed (1) xaguin with Barrett M82A1
+20-04-16 23:18:09 (1) Babrisimo killed (2) Diegokun with Ak-74
+20-04-16 23:18:18 (2) Koma killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:18:18 (2) Koma killed (1) Maruchan with Barrett M82A1
+20-04-16 23:18:20 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:18:22 Babrisimo has left alpha team.
+20-04-16 23:18:22 Next map: ctf_Viet
+20-04-16 23:18:25 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 23:18:28 Viet
+20-04-16 23:18:28 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 23:18:28 Babrisimo has joined alpha team.
+20-04-16 23:18:40 Babrisimo has left alpha team.
+20-04-16 23:18:41 (2) Mehdi killed (1) Maruchan with FN Minimi
+20-04-16 23:18:47 Koma captured the Red Flag
+20-04-16 23:18:49 (2) Mehdi killed (1) Maruchan with FN Minimi
+20-04-16 23:18:55 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 23:18:56 (2) Mehdi killed (1) Maruchan with Ak-74
+20-04-16 23:18:58 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 23:18:58 Babrisimo has joined alpha team.
+20-04-16 23:19:00 xaguin captured the Blue Flag
+20-04-16 23:19:03 [Maruchan] /votekick Mehdi
+20-04-16 23:19:05 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:19:05 [Maruchan] chucha
+20-04-16 23:19:06 (2) Koma killed (1) PAJAROKK with Chainsaw
+20-04-16 23:19:10 (2) Mehdi killed (1) Maruchan with FN Minimi
+20-04-16 23:19:12 (2) Mehdi killed (1) PAJAROKK with Grenade
+20-04-16 23:19:15 (2) Mehdi killed (1) xaguin with Ak-74
+20-04-16 23:19:16 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:19:16 La Pollo returned the Blue Flag
+20-04-16 23:19:16 Koma scores for Bravo Team
+20-04-16 23:19:16 Mehdi captured the Red Flag
+20-04-16 23:19:19 (1) PAJAROKK killed (2) Diegokun with M79
+20-04-16 23:19:30 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:19:35 Babrisimo captured the Blue Flag
+20-04-16 23:19:37 Mehdi scores for Bravo Team
+20-04-16 23:19:41 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:19:43 Maruchan started votekick against Mehdi - Reason: por gil
+20-04-16 23:19:44 (2) Mehdi killed (1) xaguin with Ak-74
+20-04-16 23:19:44 (1) Babrisimo killed (2) Koma with Spas-12
+20-04-16 23:19:49 (1) Maruchan killed (2) Diegokun with Ruger 77
+20-04-16 23:19:57 (2) Mehdi killed (1) PAJAROKK with Ak-74
+20-04-16 23:19:59 La Pollo captured the Red Flag
+20-04-16 23:20:03 (2) Mehdi killed (1) PAJAROKK with Grenade
+20-04-16 23:20:03 xaguin captured the Blue Flag
+20-04-16 23:20:09 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:20:17 (1) PAJAROKK killed (2) Diegokun with Ak-74
+20-04-16 23:20:18 (2) Koma killed (1) xaguin with Barrett M82A1
+20-04-16 23:20:21 Koma returned the Blue Flag
+20-04-16 23:20:22 La Pollo scores for Bravo Team
+20-04-16 23:20:25 (2) Mehdi killed (1) PAJAROKK with Ak-74
+20-04-16 23:20:26 (1) Babrisimo killed (2) Koma with Spas-12
+20-04-16 23:20:29 (1) Maruchan killed (2) Mehdi with Ruger 77
+20-04-16 23:20:33 (1) xaguin killed (2) La Pollo with Grenade
+20-04-16 23:20:33 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:20:41 (2) Mehdi killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:20:42 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:20:42 (2) Koma killed (1) Maruchan with Chainsaw
+20-04-16 23:20:44 (2) Mehdi killed (1) xaguin with Steyr AUG
+20-04-16 23:20:45 Diegokun captured the Red Flag
+20-04-16 23:20:51 (1) Maruchan killed (2) Diegokun with Ruger 77
+20-04-16 23:20:52 PAJAROKK returned the Red Flag
+20-04-16 23:20:52 Diegokun gets a ping warning
+20-04-16 23:20:53 (2) Mehdi killed (1) Babrisimo with Steyr AUG
+20-04-16 23:20:53 (2) Mehdi killed (1) Maruchan with Steyr AUG
+20-04-16 23:20:53 (2) Mehdi killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:20:55 Koma captured the Red Flag
+20-04-16 23:20:56 (2) Koma killed (1) xaguin with Chainsaw
+20-04-16 23:20:59 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:20:59 Diegokun gets a ping warning
+20-04-16 23:21:01 (2) Mehdi killed (1) Babrisimo with Steyr AUG
+20-04-16 23:21:02 (1) Maruchan killed (2) Mehdi with Ruger 77
+20-04-16 23:21:05 Koma scores for Bravo Team
+20-04-16 23:21:07 La Pollo started votekick against Mehdi - Reason: no friend
+20-04-16 23:21:11 Diegokun captured the Red Flag
+20-04-16 23:21:12 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:21:15 Babrisimo returned the Red Flag
+20-04-16 23:21:17 (2) Koma killed (1) PAJAROKK with Chainsaw
+20-04-16 23:21:17 (2) Mehdi killed (1) Babrisimo with Combat Knife
+20-04-16 23:21:18 Mehdi captured the Red Flag
+20-04-16 23:21:21 (1) Maruchan killed (2) Koma with Ruger 77
+20-04-16 23:21:24 xaguin captured the Blue Flag
+20-04-16 23:21:25 Koma has left bravo team.
+20-04-16 23:21:28 (2) Mehdi killed (1) Babrisimo with Combat Knife
+20-04-16 23:21:32 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:21:37 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:21:38 (1) xaguin killed (2) La Pollo with Grenade
+20-04-16 23:21:40 Diegokun returned the Blue Flag
+20-04-16 23:21:40 (2) Mehdi killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:21:44 Mehdi scores for Bravo Team
+20-04-16 23:21:48 Maruchan captured the Blue Flag
+20-04-16 23:21:48 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:21:52 (1) PAJAROKK killed (2) Diegokun with Barrett M82A1
+20-04-16 23:21:55 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:22:00 Diegokun returned the Blue Flag
+20-04-16 23:22:02 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:22:07 Mehdi captured the Red Flag
+20-04-16 23:22:15 PAJAROKK captured the Blue Flag
+20-04-16 23:22:16 Babrisimo has left alpha team.
+20-04-16 23:22:19 La Pollo has left bravo team.
+20-04-16 23:22:26 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:22:28 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:22:39 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:22:40 PAJAROKK returned the Red Flag
+20-04-16 23:22:44 (2) Mehdi killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:22:45 Diegokun returned the Blue Flag
+20-04-16 23:22:46 Mehdi captured the Red Flag
+20-04-16 23:22:47 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:22:47 xaguin captured the Blue Flag
+20-04-16 23:22:54 (2) Diegokun killed (1) PAJAROKK with Ak-74
+20-04-16 23:23:04 (2) Diegokun killed (1) Maruchan with Grenade
+20-04-16 23:23:07 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:23:11 PAJAROKK captured the Blue Flag
+20-04-16 23:23:12 24.107.115.82:23073|73179FF18D4 requesting game...
+20-04-16 23:23:14 EvilElsie52 joining game (24.107.115.82:23073) HWID:73179FF18D4
+20-04-16 23:23:14 EvilElsie52 has joined bravo team.
+20-04-16 23:23:17 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:23:19 EvilElsie52 gets a ping warning
+20-04-16 23:23:25 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:23:26 EvilElsie52 gets a ping warning
+20-04-16 23:23:27 Time Left: 5 minutes
+20-04-16 23:23:28 PAJAROKK scores for Alpha Team
+20-04-16 23:23:30 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:23:31 (2) EvilElsie52 killed (1) Maruchan with Ruger 77
+20-04-16 23:23:33 EvilElsie52 gets a ping warning
+20-04-16 23:23:33 EvilElsie52 captured the Red Flag
+20-04-16 23:23:35 (1) PAJAROKK killed (2) EvilElsie52 with Barrett M82A1
+20-04-16 23:23:40 EvilElsie52 gets a ping warning
+20-04-16 23:23:43 Mehdi captured the Red Flag
+20-04-16 23:23:44 Diegokun has left bravo team.
+20-04-16 23:23:47 EvilElsie52 gets a ping warning
+20-04-16 23:23:51 xaguin captured the Blue Flag
+20-04-16 23:23:52 (2) EvilElsie52 killed (1) Maruchan with Grenade
+20-04-16 23:23:52 (2) EvilElsie52 killed (1) PAJAROKK with Grenade
+20-04-16 23:23:52 (1) PAJAROKK killed (2) EvilElsie52 with Barrett M82A1
+20-04-16 23:23:54 EvilElsie52 gets a ping warning
+20-04-16 23:24:00 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:24:01 EvilElsie52 gets a ping warning
+20-04-16 23:24:02 181.43.219.246:30663|3DEB8E5DAAA requesting game...
+20-04-16 23:24:05 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:24:06 Babrisimo joining game (181.43.219.246:30663) HWID:3DEB8E5DAAA
+20-04-16 23:24:06 Babrisimo has joined alpha team.
+20-04-16 23:24:07 Mehdi returned the Blue Flag
+20-04-16 23:24:08 EvilElsie52 gets a ping warning
+20-04-16 23:24:10 (2) EvilElsie52 killed (1) Maruchan with Combat Knife
+20-04-16 23:24:14 PAJAROKK captured the Blue Flag
+20-04-16 23:24:15 (2) EvilElsie52 killed (1) Babrisimo with Ruger 77
+20-04-16 23:24:15 EvilElsie52 gets a ping warning
+20-04-16 23:24:17 (2) Mehdi killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:24:18 (2) EvilElsie52 killed (1) xaguin with Ruger 77
+20-04-16 23:24:18 Mehdi returned the Blue Flag
+20-04-16 23:24:20 Mehdi scores for Bravo Team
+20-04-16 23:24:21 (1) Babrisimo killed (2) EvilElsie52 with Spas-12
+20-04-16 23:24:22 EvilElsie52 gets a ping warning
+20-04-16 23:24:27 Time Left: 4 minutes
+20-04-16 23:24:28 201.189.93.231:23073|28E95A9EA5B requesting game...
+20-04-16 23:24:29 EvilElsie52 gets a ping warning
+20-04-16 23:24:29 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:24:31 181.43.75.12:23073|23E62EE02EC requesting game...
+20-04-16 23:24:32 La Pollo joining game (201.189.93.231:23073) HWID:28E95A9EA5B
+20-04-16 23:24:32 La Pollo has joined bravo team.
+20-04-16 23:24:34 ALFAJOR joining game (181.43.75.12:23073) HWID:23E62EE02EC
+20-04-16 23:24:34 ALFAJOR has joined bravo team.
+20-04-16 23:24:34 Babrisimo captured the Blue Flag
+20-04-16 23:24:34 (2) EvilElsie52 killed (1) Maruchan with Grenade
+20-04-16 23:24:34 (2) EvilElsie52 killed (1) Babrisimo with Grenade
+20-04-16 23:24:35 (1) PAJAROKK killed (2) EvilElsie52 with Barrett M82A1
+20-04-16 23:24:36 EvilElsie52 gets a ping warning
+20-04-16 23:24:36 EvilElsie52 has been kicked and banned for 15 minutes (Ping Kick)
+20-04-16 23:24:38 190.160.219.53:23073|6AC5BC8A065 requesting game...
+20-04-16 23:24:40 xaguin captured the Blue Flag
+20-04-16 23:24:45 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:24:47 La Pollo returned the Blue Flag
+20-04-16 23:24:50 Babrisimo captured the Blue Flag
+20-04-16 23:24:54 (2) La Pollo killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:24:58 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:25:00 Diegokun joining game (190.160.219.53:23073) HWID:6AC5BC8A065
+20-04-16 23:25:00 Diegokun has joined bravo team.
+20-04-16 23:25:01 ALFAJOR captured the Red Flag
+20-04-16 23:25:03 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:25:08 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:25:15 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:25:17 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:25:24 (2) Mehdi killed (1) xaguin with Barrett M82A1
+20-04-16 23:25:24 (2) Mehdi killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:25:25 Maruchan captured the Blue Flag
+20-04-16 23:25:27 Time Left: 3 minutes
+20-04-16 23:25:28 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:25:29 Mehdi returned the Blue Flag
+20-04-16 23:25:32 (2) Mehdi killed (1) xaguin with Grenade
+20-04-16 23:25:32 ALFAJOR scores for Bravo Team
+20-04-16 23:25:33 PAJAROKK captured the Blue Flag
+20-04-16 23:25:37 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:25:39 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:25:40 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:25:41 (2) ALFAJOR killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:25:43 ALFAJOR returned the Blue Flag
+20-04-16 23:25:45 (1) Maruchan killed (2) ALFAJOR with Spas-12
+20-04-16 23:25:46 (2) Mehdi killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:25:50 (2) Mehdi killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:25:53 xaguin captured the Blue Flag
+20-04-16 23:25:53 (2) ALFAJOR killed (1) xaguin with Barrett M82A1
+20-04-16 23:25:57 ALFAJOR returned the Blue Flag
+20-04-16 23:25:57 La Pollo captured the Red Flag
+20-04-16 23:25:58 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:26:02 132.191.3.47:3722|1FFE8F1D7CA requesting game...
+20-04-16 23:26:05 K!llersBN#| chub0 joining game (132.191.3.47:3722) HWID:1FFE8F1D7CA
+20-04-16 23:26:05 K!llersBN#| chub0 has joined as spectator.
+20-04-16 23:26:08 La Pollo scores for Bravo Team
+20-04-16 23:26:09 (1) PAJAROKK killed (2) Mehdi with Ak-74
+20-04-16 23:26:11 (2) ALFAJOR killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:26:11 K!llersBN#| chub0 has joined alpha team.
+20-04-16 23:26:12 xaguin captured the Blue Flag
+20-04-16 23:26:16 (1) Maruchan killed (2) ALFAJOR with Spas-12
+20-04-16 23:26:22 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:26:24 (1) K!llersBN#| chub0 killed (2) Diegokun with M79
+20-04-16 23:26:25 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:26:27 (2) La Pollo killed (1) Babrisimo with Steyr AUG
+20-04-16 23:26:27 Time Left: 2 minutes
+20-04-16 23:26:30 La Pollo returned the Blue Flag
+20-04-16 23:26:33 (1) Maruchan killed (2) Mehdi with Spas-12
+20-04-16 23:26:34 PAJAROKK captured the Blue Flag
+20-04-16 23:26:39 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:26:47 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:26:49 (2) ALFAJOR killed (1) Babrisimo with Grenade
+20-04-16 23:26:50 (1) Maruchan killed (2) ALFAJOR with Spas-12
+20-04-16 23:26:51 186.107.37.39:23073|6BD0AA070CA requesting game...
+20-04-16 23:26:53 (2) Mehdi killed (1) K!llersBN#| chub0 with Barrett M82A1
+20-04-16 23:26:53 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:26:53 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:26:55 (1) PAJAROKK killed (2) Mehdi with Ak-74
+20-04-16 23:26:56 ALFAJOR gets a ping warning
+20-04-16 23:26:56 #KbN! Dumpw. joining game (186.107.37.39:23073) HWID:6BD0AA070CA
+20-04-16 23:26:56 #KbN! Dumpw. has joined bravo team.
+20-04-16 23:26:58 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-16 23:26:59 PAJAROKK scores for Alpha Team
+20-04-16 23:27:01 atheria joining game (190.22.47.23:23073) HWID:4C4052F23D1
+20-04-16 23:27:01 atheria has joined alpha team.
+20-04-16 23:27:03 (1) Maruchan killed (2) Diegokun with LAW
+20-04-16 23:27:07 (2) ALFAJOR killed (1) K!llersBN#| chub0 with Ak-74
+20-04-16 23:27:10 ALFAJOR gets a ping warning
+20-04-16 23:27:10 (1) atheria killed (2) La Pollo with Desert Eagles
+20-04-16 23:27:10 (2) #KbN! Dumpw. killed (1) Babrisimo with M79
+20-04-16 23:27:11 (1) Babrisimo killed (2) ALFAJOR with Spas-12
+20-04-16 23:27:15 (1) Maruchan killed (2) Mehdi with Spas-12
+20-04-16 23:27:16 (2) La Pollo killed (1) xaguin with Steyr AUG
+20-04-16 23:27:19 (2) La Pollo killed (1) Maruchan with Steyr AUG
+20-04-16 23:27:22 (2) #KbN! Dumpw. killed (1) K!llersBN#| chub0 with Ak-74
+20-04-16 23:27:22 (1) K!llersBN#| chub0 killed (2) #KbN! Dumpw. with LAW
+20-04-16 23:27:27 (1) xaguin killed (2) Mehdi with Steyr AUG
+20-04-16 23:27:27 Time Left: 1 minutes
+20-04-16 23:27:29 (1) PAJAROKK killed (2) Diegokun with Grenade
+20-04-16 23:27:29 (1) PAJAROKK killed (2) ALFAJOR with Grenade
+20-04-16 23:27:30 (2) La Pollo killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:27:32 (2) #KbN! Dumpw. killed (1) Maruchan with Spas-12
+20-04-16 23:27:32 (1) K!llersBN#| chub0 killed (2) #KbN! Dumpw. with Grenade
+20-04-16 23:27:33 xaguin captured the Blue Flag
+20-04-16 23:27:35 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:27:36 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:27:38 190.46.95.134:23073|2D6FCD3DB41 requesting game...
+20-04-16 23:27:38 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:27:39 (2) ALFAJOR killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:27:39 (1) K!llersBN#| chub0 killed (2) Mehdi with M79
+20-04-16 23:27:41 guatonmorsa joining game (190.46.95.134:23073) HWID:2D6FCD3DB41
+20-04-16 23:27:41 guatonmorsa has joined bravo team.
+20-04-16 23:27:42 (1) atheria killed (2) #KbN! Dumpw. with Desert Eagles
+20-04-16 23:27:43 (1) K!llersBN#| chub0 killed (2) guatonmorsa with M79
+20-04-16 23:27:44 (1) atheria killed (2) La Pollo with Grenade
+20-04-16 23:27:44 K!llersBN#| chub0 captured the Blue Flag
+20-04-16 23:27:46 (1) atheria killed (2) Mehdi with Combat Knife
+20-04-16 23:27:50 (2) #KbN! Dumpw. killed (1) atheria with Grenade
+20-04-16 23:27:50 (1) Maruchan killed (2) ALFAJOR with Spas-12
+20-04-16 23:27:52 [#KbN! Dumpw.] Get the flag!
+20-04-16 23:27:55 ALFAJOR has left bravo team.
+20-04-16 23:27:56 K!llersBN#| chub0 scores for Alpha Team
+20-04-16 23:27:56 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:27:57 (2) Mehdi killed (1) atheria with M79
+20-04-16 23:27:59 xaguin captured the Blue Flag
+20-04-16 23:28:00 (2) guatonmorsa killed (1) xaguin with M79
+20-04-16 23:28:00 Babrisimo captured the Blue Flag
+20-04-16 23:28:01 (1) K!llersBN#| chub0 killed (2) Diegokun with Grenade
+20-04-16 23:28:02 Mehdi captured the Red Flag
+20-04-16 23:28:03 (2) #KbN! Dumpw. killed (1) atheria with Combat Knife
+20-04-16 23:28:03 (1) atheria killed (2) #KbN! Dumpw. with Desert Eagles
+20-04-16 23:28:04 [atheria] I am the law!
+20-04-16 23:28:05 (1) K!llersBN#| chub0 killed (2) Mehdi with Grenade
+20-04-16 23:28:05 [atheria] Humi o no?
+20-04-16 23:28:06 [#KbN! Dumpw.] You're one ugly mother fu**er!
+20-04-16 23:28:08 K!llersBN#| chub0 returned the Red Flag
+20-04-16 23:28:10 (2) La Pollo killed (1) K!llersBN#| chub0 with Steyr AUG
+20-04-16 23:28:10 (1) K!llersBN#| chub0 killed (2) La Pollo with M79
+20-04-16 23:28:15 (1) atheria killed (2) #KbN! Dumpw. with Desert Eagles
+20-04-16 23:28:19 (1) K!llersBN#| chub0 killed (2) Mehdi with Grenade
+20-04-16 23:28:21 (1) K!llersBN#| chub0 killed (2) La Pollo with Grenade
+20-04-16 23:28:21 guatonmorsa captured the Red Flag
+20-04-16 23:28:22 (2) #KbN! Dumpw. killed (1) atheria with Spas-12
+20-04-16 23:28:23 (1) PAJAROKK killed (2) Diegokun with Steyr AUG
+20-04-16 23:28:24 (2) #KbN! Dumpw. killed (1) K!llersBN#| chub0 with Spas-12
+20-04-16 23:28:27 Next map: ctf_Division
+20-04-16 23:28:29 [atheria] Help!
+20-04-16 23:28:33 Division by Boxo, KC, viral
+20-04-16 23:28:34 #KbN! Dumpw. gets a ping warning
+20-04-16 23:28:42 (2) Mehdi killed (1) atheria with Barrett M82A1
+20-04-16 23:28:44 (2) La Pollo killed (1) K!llersBN#| chub0 with Steyr AUG
+20-04-16 23:28:46 (1) Maruchan killed (2) guatonmorsa with Spas-12
+20-04-16 23:28:47 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:28:48 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:28:49 K!llersBN#| chub0 has left alpha team.
+20-04-16 23:28:49 (2) La Pollo killed (1) PAJAROKK with Steyr AUG
+20-04-16 23:28:49 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:28:52 Babrisimo captured the Blue Flag
+20-04-16 23:28:55 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:28:56 Mehdi returned the Blue Flag
+20-04-16 23:28:57 xaguin captured the Blue Flag
+20-04-16 23:28:59 (1) atheria killed (2) La Pollo with Desert Eagles
+20-04-16 23:28:59 (1) PAJAROKK killed (2) guatonmorsa with Barrett M82A1
+20-04-16 23:28:59 (2) Mehdi killed (1) atheria with Barrett M82A1
+20-04-16 23:29:00 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:29:04 (1) PAJAROKK killed (2) Diegokun with Barrett M82A1
+20-04-16 23:29:05 atheria has left alpha team.
+20-04-16 23:29:06 (2) Mehdi killed (1) Maruchan with Barrett M82A1
+20-04-16 23:29:07 Mehdi captured the Red Flag
+20-04-16 23:29:10 (2) La Pollo killed (1) PAJAROKK with Spas-12
+20-04-16 23:29:10 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:29:14 Babrisimo returned the Red Flag
+20-04-16 23:29:14 xaguin scores for Alpha Team
+20-04-16 23:29:17 190.113.165.160:58061|571C5EEE7C0 requesting game...
+20-04-16 23:29:18 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:29:22 (2) guatonmorsa killed (1) PAJAROKK with Grenade
+20-04-16 23:29:25 Babrisimo captured the Blue Flag
+20-04-16 23:29:26 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:29:27 [SADAR] joining game (190.113.165.160:58061) HWID:571C5EEE7C0
+20-04-16 23:29:27 [SADAR] has joined bravo team.
+20-04-16 23:29:27 (2) Mehdi killed (1) xaguin with Grenade
+20-04-16 23:29:28 (2) Mehdi killed (1) PAJAROKK with Barrett M82A1
+20-04-16 23:29:30 [SADAR] gets a ping warning
+20-04-16 23:29:30 guatonmorsa gets a ping warning
+20-04-16 23:29:31 Mehdi captured the Red Flag
+20-04-16 23:29:32 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:29:33 [SADAR] has left bravo team.
+20-04-16 23:29:35 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:29:36 (2) guatonmorsa killed (1) xaguin with M79
+20-04-16 23:29:37 guatonmorsa captured the Red Flag
+20-04-16 23:29:39 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:29:42 xaguin captured the Blue Flag
+20-04-16 23:29:45 (1) PAJAROKK killed (2) #KbN! Dumpw. with Barrett M82A1
+20-04-16 23:29:45 (2) La Pollo killed (1) xaguin with Spas-12
+20-04-16 23:29:46 (2) Diegokun killed (1) PAJAROKK with Ruger 77
+20-04-16 23:29:46 #KbN! Dumpw. has left bravo team.
+20-04-16 23:29:46 (1) Babrisimo killed (2) La Pollo with Spas-12
+20-04-16 23:29:47 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:29:47 Babrisimo captured the Blue Flag
+20-04-16 23:29:53 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:30:03 (1) xaguin killed (2) Mehdi with Steyr AUG
+20-04-16 23:30:08 (1) PAJAROKK killed (2) La Pollo with Barrett M82A1
+20-04-16 23:30:10 (2) Diegokun killed (1) xaguin with Ruger 77
+20-04-16 23:30:10 (1) Babrisimo killed (2) Diegokun with Spas-12
+20-04-16 23:30:15 (2) Mehdi killed (1) PAJAROKK with Combat Knife
+20-04-16 23:30:19 (2) guatonmorsa killed (1) Maruchan with Spas-12
+20-04-16 23:30:20 (2) Mehdi killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:30:21 (1) xaguin killed (2) Mehdi with Steyr AUG
+20-04-16 23:30:23 PAJAROKK captured the Blue Flag
+20-04-16 23:30:29 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:30:30 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:30:31 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:30:36 (1) xaguin killed (2) Diegokun with Steyr AUG
+20-04-16 23:30:37 (2) Mehdi killed (1) Babrisimo with Barrett M82A1
+20-04-16 23:30:42 (1) xaguin killed (2) Mehdi with Steyr AUG
+20-04-16 23:30:47 guatonmorsa gets a ping warning
+20-04-16 23:30:48 (2) Diegokun killed (1) Maruchan with Ruger 77
+20-04-16 23:30:48 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:30:51 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:30:55 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:30:55 (2) guatonmorsa killed (1) Babrisimo with Spas-12
+20-04-16 23:31:08 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:31:18 (2) Mehdi killed (1) Babrisimo with M79
+20-04-16 23:31:19 (2) La Pollo killed (1) PAJAROKK with Spas-12
+20-04-16 23:31:20 (1) Maruchan killed (2) Diegokun with Grenade
+20-04-16 23:31:20 (2) guatonmorsa killed (1) Maruchan with Spas-12
+20-04-16 23:31:20 xaguin captured the Blue Flag
+20-04-16 23:31:22 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:31:23 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:31:24 Mehdi returned the Blue Flag
+20-04-16 23:31:24 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:31:27 guatonmorsa scores for Bravo Team
+20-04-16 23:31:31 (1) PAJAROKK killed (2) guatonmorsa with Barrett M82A1
+20-04-16 23:31:34 (2) Mehdi killed (1) Maruchan with M79
+20-04-16 23:31:34 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:31:35 (1) PAJAROKK killed (2) Diegokun with Barrett M82A1
+20-04-16 23:31:39 Mehdi captured the Red Flag
+20-04-16 23:31:40 (1) PAJAROKK killed (2) guatonmorsa with Barrett M82A1
+20-04-16 23:31:43 (2) Mehdi killed (1) Maruchan with Grenade
+20-04-16 23:31:43 (2) Mehdi killed (1) Babrisimo with M79
+20-04-16 23:31:45 (1) PAJAROKK killed (2) Diegokun with Barrett M82A1
+20-04-16 23:31:45 PAJAROKK captured the Blue Flag
+20-04-16 23:31:46 (2) guatonmorsa killed (1) xaguin with Grenade
+20-04-16 23:31:50 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:31:50 (2) Mehdi killed (1) PAJAROKK with Grenade
+20-04-16 23:31:51 Mehdi returned the Blue Flag
+20-04-16 23:31:52 (1) xaguin killed (2) La Pollo with Steyr AUG
+20-04-16 23:31:53 Mehdi scores for Bravo Team
+20-04-16 23:32:03 (1) PAJAROKK killed (2) Mehdi with Barrett M82A1
+20-04-16 23:32:04 (2) Diegokun killed (1) PAJAROKK with Grenade
+20-04-16 23:32:08 (1) xaguin killed (2) Diegokun with Steyr AUG
+20-04-16 23:32:09 guatonmorsa captured the Red Flag
+20-04-16 23:32:10 Maruchan captured the Blue Flag
+20-04-16 23:32:13 (2) guatonmorsa killed (1) xaguin with Grenade
+20-04-16 23:32:13 (2) guatonmorsa killed (1) PAJAROKK with Grenade
+20-04-16 23:32:14 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:32:18 (2) Diegokun killed (1) Maruchan with Ak-74
+20-04-16 23:32:20 Babrisimo captured the Blue Flag
+20-04-16 23:32:21 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:32:23 La Pollo returned the Blue Flag
+20-04-16 23:32:23 guatonmorsa scores for Bravo Team
+20-04-16 23:32:27 (1) PAJAROKK killed (2) guatonmorsa with Barrett M82A1
+20-04-16 23:32:29 (1) xaguin killed (2) Mehdi with Steyr AUG
+20-04-16 23:32:30 PAJAROKK captured the Blue Flag
+20-04-16 23:32:32 (1) xaguin killed (2) Diegokun with Steyr AUG
+20-04-16 23:32:33 xaguin returned the Red Flag
+20-04-16 23:32:34 (2) La Pollo killed (1) xaguin with Spas-12
+20-04-16 23:32:35 La Pollo captured the Red Flag
+20-04-16 23:32:39 (2) Mehdi killed (1) Babrisimo with M79
+20-04-16 23:32:40 (2) La Pollo killed (1) PAJAROKK with Spas-12
+20-04-16 23:32:41 La Pollo returned the Blue Flag
+20-04-16 23:32:43 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:32:44 PAJAROKK has left alpha team.
+20-04-16 23:32:45 (1) Babrisimo killed (2) guatonmorsa with Spas-12
+20-04-16 23:32:47 (2) Mehdi killed (1) Maruchan with Combat Knife
+20-04-16 23:32:47 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:32:53 La Pollo scores for Bravo Team
+20-04-16 23:33:00 Babrisimo captured the Blue Flag
+20-04-16 23:33:01 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:33:01 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:33:03 La Pollo returned the Blue Flag
+20-04-16 23:33:05 Mehdi captured the Red Flag
+20-04-16 23:33:07 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:33:08 (1) Maruchan killed (2) guatonmorsa with Spas-12
+20-04-16 23:33:09 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:33:15 (2) La Pollo killed (1) Babrisimo with Spas-12
+20-04-16 23:33:16 Mehdi scores for Bravo Team
+20-04-16 23:33:21 guatonmorsa gets a ping warning
+20-04-16 23:33:22 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:33:22 (2) Diegokun killed (1) xaguin with Ak-74
+20-04-16 23:33:25 (2) Mehdi killed (1) Babrisimo with M79
+20-04-16 23:33:25 guatonmorsa captured the Red Flag
+20-04-16 23:33:28 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:33:28 guatonmorsa gets a ping warning
+20-04-16 23:33:33 (2) guatonmorsa killed (1) xaguin with Grenade
+20-04-16 23:33:33 Time Left: 5 minutes
+20-04-16 23:33:37 guatonmorsa scores for Bravo Team
+20-04-16 23:33:37 (1) Babrisimo killed (2) Mehdi with Spas-12
+20-04-16 23:33:40 La Pollo started votekick against guatonmorsa - Reason: lulo ctm
+20-04-16 23:33:41 Babrisimo captured the Blue Flag
+20-04-16 23:33:49 (1) xaguin killed (2) Diegokun with Grenade
+20-04-16 23:33:49 (2) La Pollo killed (1) xaguin with Spas-12
+20-04-16 23:33:50 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:33:50 La Pollo captured the Red Flag
+20-04-16 23:33:51 guatonmorsa returned the Blue Flag
+20-04-16 23:33:53 Maruchan captured the Blue Flag
+20-04-16 23:33:56 (1) xaguin killed (2) guatonmorsa with Steyr AUG
+20-04-16 23:33:58 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:34:00 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:34:00 (1) Maruchan killed (2) La Pollo with Spas-12
+20-04-16 23:34:03 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:34:04 Babrisimo captured the Blue Flag
+20-04-16 23:34:04 Babrisimo returned the Red Flag
+20-04-16 23:34:04 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:34:05 Mehdi captured the Red Flag
+20-04-16 23:34:05 guatonmorsa returned the Blue Flag
+20-04-16 23:34:08 (2) Mehdi killed (1) Maruchan with M79
+20-04-16 23:34:12 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:34:15 (1) Maruchan killed (2) guatonmorsa with Spas-12
+20-04-16 23:34:16 Mehdi scores for Bravo Team
+20-04-16 23:34:17 Diegokun captured the Red Flag
+20-04-16 23:34:21 (2) Mehdi killed (1) xaguin with M79
+20-04-16 23:34:21 218.58.203.212:23073|A2712955F74 requesting game...
+20-04-16 23:34:24 a13432156 joining game (218.58.203.212:23073) HWID:A2712955F74
+20-04-16 23:34:24 a13432156 has joined alpha team.
+20-04-16 23:34:26 (2) Mehdi killed (1) Babrisimo with M79
+20-04-16 23:34:28 (2) La Pollo killed (1) Maruchan with Spas-12
+20-04-16 23:34:30 (2) Mehdi killed (1) Babrisimo with Combat Knife
+20-04-16 23:34:30 (2) Mehdi killed (1) xaguin with Combat Knife
+20-04-16 23:34:31 (1) a13432156 killed (2) Mehdi with Grenade
+20-04-16 23:34:31 a13432156 gets a ping warning
+20-04-16 23:34:31 guatonmorsa gets a ping warning
+20-04-16 23:34:33 Time Left: 4 minutes
+20-04-16 23:34:33 Diegokun scores for Bravo Team
+20-04-16 23:34:35 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:34:37 La Pollo captured the Red Flag
+20-04-16 23:34:38 a13432156 gets a ping warning
+20-04-16 23:34:38 (1) Babrisimo killed (2) guatonmorsa with Spas-12
+20-04-16 23:34:45 a13432156 gets a ping warning
+20-04-16 23:34:45 201.239.114.54:31376|359AEC72104 requesting game...
+20-04-16 23:34:49 La Pollo scores for Bravo Team
+20-04-16 23:34:49 (2) Mehdi killed (1) a13432156 with M79
+20-04-16 23:34:50 (2) Mehdi killed (1) xaguin with Grenade
+20-04-16 23:34:51 (2) guatonmorsa killed (1) Babrisimo with M79
+20-04-16 23:34:52 Mehdi captured the Red Flag
+20-04-16 23:34:52 a13432156 gets a ping warning
+20-04-16 23:34:55 cristobal.rivas92 joining game (201.239.114.54:31376) HWID:359AEC72104
+20-04-16 23:34:55 cristobal.rivas92 has joined bravo team.
+20-04-16 23:34:57 Babrisimo has left alpha team.
+20-04-16 23:34:58 (2) guatonmorsa killed (1) a13432156 with Spas-12
+20-04-16 23:34:59 a13432156 gets a ping warning
+20-04-16 23:34:59 (2) Mehdi killed (1) Maruchan with M79
+20-04-16 23:35:00 Next map: ctf_Death
+20-04-16 23:35:00 Mehdi scores for Bravo Team
+20-04-16 23:35:06 Death by MM, g_d. Boxo, mtk`
+20-04-16 23:35:06 a13432156 gets a ping warning
+20-04-16 23:35:08 La Pollo has left bravo team.
+20-04-16 23:35:13 a13432156 gets a ping warning
+20-04-16 23:35:19 (2) cristobal.rivas92 killed (1) xaguin with M79
+20-04-16 23:35:20 a13432156 gets a ping warning
+20-04-16 23:35:21 cristobal.rivas92 captured the Red Flag
+20-04-16 23:35:23 (1) a13432156 killed (2) Mehdi with M79
+20-04-16 23:35:27 a13432156 gets a ping warning
+20-04-16 23:35:28 Maruchan captured the Blue Flag
+20-04-16 23:35:30 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:35:32 xaguin captured the Blue Flag
+20-04-16 23:35:34 a13432156 gets a ping warning
+20-04-16 23:35:34 (1) a13432156 killed (2) guatonmorsa with M79
+20-04-16 23:35:41 a13432156 gets a ping warning
+20-04-16 23:35:41 a13432156 has been kicked and banned for 15 minutes (Ping Kick)
+20-04-16 23:35:46 (2) guatonmorsa killed (1) xaguin with M79
+20-04-16 23:35:49 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:35:50 218.58.203.212:23073|A2712955F74 requesting game (Ping Kick)...
+20-04-16 23:35:51 guatonmorsa returned the Blue Flag
+20-04-16 23:35:54 cristobal.rivas92 scores for Bravo Team
+20-04-16 23:35:54 Mehdi captured the Red Flag
+20-04-16 23:35:55 (1) Maruchan killed (2) cristobal.rivas92 with Spas-12
+20-04-16 23:35:56 Maruchan captured the Blue Flag
+20-04-16 23:35:57 (2) Mehdi killed (1) xaguin with Grenade
+20-04-16 23:36:04 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:36:05 guatonmorsa returned the Blue Flag
+20-04-16 23:36:10 Mehdi scores for Bravo Team
+20-04-16 23:36:10 cristobal.rivas92 captured the Red Flag
+20-04-16 23:36:13 (1) Maruchan killed (2) cristobal.rivas92 with Spas-12
+20-04-16 23:36:16 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:36:19 Maruchan returned the Red Flag
+20-04-16 23:36:20 Mehdi has joined alpha team.
+20-04-16 23:36:22 (2) cristobal.rivas92 killed (1) Maruchan with M79
+20-04-16 23:36:26 (1) Mehdi killed (2) guatonmorsa with Ruger 77
+20-04-16 23:36:27 cristobal.rivas92 captured the Red Flag
+20-04-16 23:36:30 (1) Mehdi killed (2) cristobal.rivas92 with Ruger 77
+20-04-16 23:36:30 Diegokun captured the Red Flag
+20-04-16 23:36:31 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:36:31 Mehdi returned the Red Flag
+20-04-16 23:36:39 Mehdi captured the Blue Flag
+20-04-16 23:36:40 (2) cristobal.rivas92 killed (1) Mehdi with M79
+20-04-16 23:36:41 guatonmorsa captured the Red Flag
+20-04-16 23:36:41 xaguin has left alpha team.
+20-04-16 23:36:42 (1) Maruchan killed (2) Diegokun with Spas-12
+20-04-16 23:36:43 Mehdi has left alpha team.
+20-04-16 23:36:44 cristobal.rivas92 gets a ping warning
+20-04-16 23:36:45 Maruchan captured the Blue Flag
+20-04-16 23:36:48 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:36:50 guatonmorsa is flooding the server
+20-04-16 23:36:51 Diegokun returned the Blue Flag
+20-04-16 23:36:53 guatonmorsa scores for Bravo Team
+20-04-16 23:36:54 (1) Maruchan killed (2) cristobal.rivas92 with Spas-12
+20-04-16 23:37:05 Diegokun captured the Red Flag
+20-04-16 23:37:06 Maruchan captured the Blue Flag
+20-04-16 23:37:19 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:37:23 guatonmorsa returned the Blue Flag
+20-04-16 23:37:25 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:37:26 Diegokun scores for Bravo Team
+20-04-16 23:37:40 cristobal.rivas92 gets a ping warning
+20-04-16 23:37:41 (2) guatonmorsa killed (1) Maruchan with M79
+20-04-16 23:37:42 Diegokun captured the Red Flag
+20-04-16 23:37:48 cristobal.rivas92 has joined alpha team.
+20-04-16 23:37:54 Maruchan has left alpha team.
+20-04-16 23:37:58 (1) cristobal.rivas92 killed (2) guatonmorsa with M79
+20-04-16 23:38:00 Diegokun scores for Bravo Team
+20-04-16 23:38:13 cristobal.rivas92 captured the Blue Flag
+20-04-16 23:38:16 guatonmorsa captured the Red Flag
+20-04-16 23:38:24 (2) Diegokun killed (1) cristobal.rivas92 with Ak-74
+20-04-16 23:38:27 118.173.219.22:23073|503FA9A13DA requesting game...
+20-04-16 23:38:28 Diegokun returned the Blue Flag
+20-04-16 23:38:32 Doom joining game (118.173.219.22:23073) HWID:503FA9A13DA
+20-04-16 23:38:32 Doom has joined bravo team.
+20-04-16 23:38:36 guatonmorsa scores for Bravo Team
+20-04-16 23:38:36 Doom gets a ping warning
+20-04-16 23:38:38 IP number 24.107.115.82 (Ping Kick) unbanned
+20-04-16 23:38:38 Hardware ID 73179FF18D4 (Ping Kick) unbanned
+20-04-16 23:38:43 Doom gets a ping warning
+20-04-16 23:38:47 (2) Doom killed (1) cristobal.rivas92 with Grenade
+20-04-16 23:38:47 Diegokun captured the Red Flag
+20-04-16 23:38:50 Doom gets a ping warning
+20-04-16 23:38:53 guatonmorsa has joined alpha team.
+20-04-16 23:38:57 Doom gets a ping warning
+20-04-16 23:39:02 (1) cristobal.rivas92 killed (2) Diegokun with FN Minimi
+20-04-16 23:39:02 (2) Doom killed (1) cristobal.rivas92 with Spas-12
+20-04-16 23:39:04 Doom gets a ping warning
+20-04-16 23:39:06 guatonmorsa captured the Blue Flag
+20-04-16 23:39:06 guatonmorsa returned the Red Flag
+20-04-16 23:39:11 Doom gets a ping warning
+20-04-16 23:39:18 Doom gets a ping warning
+20-04-16 23:39:19 (2) Doom killed (1) cristobal.rivas92 with Grenade
+20-04-16 23:39:19 guatonmorsa scores for Alpha Team
+20-04-16 23:39:25 (1) guatonmorsa killed (2) Diegokun with M79
+20-04-16 23:39:25 Doom gets a ping warning
+20-04-16 23:39:28 (1) guatonmorsa killed (2) Doom with M79
+20-04-16 23:39:32 Doom gets a ping warning
+20-04-16 23:39:35 guatonmorsa captured the Blue Flag
+20-04-16 23:39:39 Doom gets a ping warning
+20-04-16 23:39:40 (2) Diegokun killed (1) guatonmorsa with Ak-74
+20-04-16 23:39:40 Diegokun returned the Blue Flag
+20-04-16 23:39:46 Doom gets a ping warning
+20-04-16 23:39:46 Doom has been kicked and banned for 15 minutes (Ping Kick)
+20-04-16 23:39:46 guatonmorsa gets a ping warning
+20-04-16 23:39:53 guatonmorsa captured the Blue Flag
+20-04-16 23:39:53 guatonmorsa gets a ping warning
+20-04-16 23:40:01 Diegokun captured the Red Flag
+20-04-16 23:40:03 cristobal.rivas92 has left alpha team.
+20-04-16 23:40:06 Time Left: 5 minutes
+20-04-16 23:40:14 (1) guatonmorsa killed (2) Diegokun with M79
+20-04-16 23:40:17 guatonmorsa returned the Red Flag
+20-04-16 23:40:26 201.189.93.231:23073|28E95A9EA5B requesting game...
+20-04-16 23:40:28 guatonmorsa scores for Alpha Team
+20-04-16 23:40:29 (1) guatonmorsa killed (2) Diegokun with M79
+20-04-16 23:40:30 La Pollo joining game (201.189.93.231:23073) HWID:28E95A9EA5B
+20-04-16 23:40:30 La Pollo has joined alpha team.
+20-04-16 23:40:45 guatonmorsa captured the Blue Flag
+20-04-16 23:40:49 Diegokun captured the Red Flag
+20-04-16 23:40:49 (1) La Pollo killed (2) Diegokun with Ak-74
+20-04-16 23:40:55 La Pollo has left alpha team.
+20-04-16 23:41:05 guatonmorsa scores for Alpha Team
+20-04-16 23:41:06 Time Left: 4 minutes
+20-04-16 23:41:10 (1) guatonmorsa killed (2) Diegokun with Grenade
+20-04-16 23:41:23 guatonmorsa captured the Blue Flag
+20-04-16 23:41:24 Diegokun has left bravo team.
+20-04-16 23:41:35 guatonmorsa has left alpha team.
+20-04-16 23:42:06 Time Left: 3 minutes
+20-04-16 23:43:06 Time Left: 2 minutes
+20-04-16 23:44:06 Time Left: 1 minutes
+20-04-16 23:45:06 Next map: ctf_Hormone
+20-04-16 23:45:11 Hormone by Metsänaperot
+20-04-16 23:45:28 200.83.66.52:23073|2E194B0FA5C requesting game...
+20-04-16 23:45:30 Blostios joining game (200.83.66.52:23073) HWID:2E194B0FA5C
+20-04-16 23:45:30 Blostios has joined bravo team.
+20-04-16 23:45:33 Blostios has left bravo team.
+20-04-16 23:46:12 201.239.114.54:31376|359AEC72104 requesting game...
+20-04-16 23:46:28 118.173.219.22:23073|503FA9A13DA requesting game (Ping Kick)...
+20-04-16 23:46:31 118.173.219.22:23073|503FA9A13DA requesting game (Ping Kick)...
+20-04-16 23:46:39 201.239.114.54:31376|359AEC72104 requesting game...
+20-04-16 23:50:11 Time Left: 5 minutes
+20-04-16 23:50:38 IP number 218.58.203.212 (Ping Kick) unbanned
+20-04-16 23:50:38 Hardware ID A2712955F74 (Ping Kick) unbanned
+20-04-16 23:51:11 Time Left: 4 minutes
+20-04-16 23:52:11 Time Left: 3 minutes
+20-04-16 23:53:11 Time Left: 2 minutes
+20-04-16 23:54:11 Time Left: 1 minutes
+20-04-16 23:54:38 IP number 118.173.219.22 (Ping Kick) unbanned
+20-04-16 23:54:38 Hardware ID 503FA9A13DA (Ping Kick) unbanned
+20-04-16 23:55:11 Next map: ctf_Laos
+20-04-16 23:55:16 Laos
+20-04-17 00:00:07 201.215.12.27:23073|2F7194A8FD9 requesting game...
+20-04-17 00:00:08 sugoi-ne joining game (201.215.12.27:23073) HWID:2F7194A8FD9
+20-04-17 00:00:08 sugoi-ne has joined alpha team.
+20-04-17 00:00:09 sugoi-ne has left alpha team.
+20-04-17 00:00:16 Time Left: 5 minutes
+20-04-17 00:01:16 Time Left: 4 minutes
+20-04-17 00:02:16 Time Left: 3 minutes
+20-04-17 00:03:16 Time Left: 2 minutes
+20-04-17 00:04:16 Time Left: 1 minutes
+20-04-17 00:05:16 Next map: ctf_Laos2
+20-04-17 00:05:22 Laos
+20-04-17 00:10:22 Time Left: 5 minutes
+20-04-17 00:11:22 Time Left: 4 minutes
+20-04-17 00:12:22 Time Left: 3 minutes
+20-04-17 00:13:22 Time Left: 2 minutes
+20-04-17 00:14:22 Time Left: 1 minutes
+20-04-17 00:15:22 Next map: ctf_Maya
+20-04-17 00:15:27 Maya
+20-04-17 00:17:38 IP number 168.196.202.239 (Vote Kicked) unbanned
+20-04-17 00:17:38 Hardware ID 7F03342CA41 (Vote Kicked) unbanned
+20-04-17 00:20:27 Time Left: 5 minutes
+20-04-17 00:21:27 Time Left: 4 minutes
+20-04-17 00:22:27 Time Left: 3 minutes
+20-04-17 00:23:27 Time Left: 2 minutes
+20-04-17 00:24:27 Time Left: 1 minutes
+20-04-17 00:25:27 Next map: ctf_MFM
+20-04-17 00:25:32 MFM 2 by mar77a
+20-04-17 00:30:32 Time Left: 5 minutes
+20-04-17 00:31:32 Time Left: 4 minutes
+20-04-17 00:32:32 Time Left: 3 minutes
+20-04-17 00:33:32 Time Left: 2 minutes
+20-04-17 00:34:32 Time Left: 1 minutes
+20-04-17 00:35:32 Next map: ctf_Run
+20-04-17 00:35:38 Run
+20-04-17 00:40:38 Time Left: 5 minutes
+20-04-17 00:41:38 Time Left: 4 minutes
+20-04-17 00:42:38 Time Left: 3 minutes
+20-04-17 00:43:38 Time Left: 2 minutes
+20-04-17 00:44:38 Time Left: 1 minutes
+20-04-17 00:45:38 Next map: ctf_OldRun
+20-04-17 00:45:43 Run (get to the flag!)
+20-04-17 00:50:43 Time Left: 5 minutes
+20-04-17 00:51:43 Time Left: 4 minutes
+20-04-17 00:52:43 Time Left: 3 minutes
+20-04-17 00:53:43 Time Left: 2 minutes
+20-04-17 00:54:43 Time Left: 1 minutes
+20-04-17 00:55:43 Next map: ctf_Ash
+20-04-17 00:55:48 ctf_Ash by chakapoko maker
+20-04-17 01:00:48 Time Left: 5 minutes
+20-04-17 01:01:48 Time Left: 4 minutes
+20-04-17 01:02:48 Time Left: 3 minutes
+20-04-17 01:03:48 Time Left: 2 minutes
+20-04-17 01:04:48 Time Left: 1 minutes
+20-04-17 01:05:48 Next map: ctf_B2b
+20-04-17 01:05:54 B2B
+20-04-17 01:10:54 Time Left: 5 minutes
+20-04-17 01:11:54 Time Left: 4 minutes
+20-04-17 01:12:54 Time Left: 3 minutes
+20-04-17 01:13:54 Time Left: 2 minutes
+20-04-17 01:14:54 Time Left: 1 minutes
+20-04-17 01:15:54 Next map: ctf_Viet
+20-04-17 01:15:59 Viet
+20-04-17 01:20:59 Time Left: 5 minutes
+20-04-17 01:21:59 Time Left: 4 minutes
+20-04-17 01:22:59 Time Left: 3 minutes
+20-04-17 01:23:59 Time Left: 2 minutes
+20-04-17 01:24:59 Time Left: 1 minutes
+20-04-17 01:25:59 Next map: ctf_Campeche
+20-04-17 01:26:04 Campeche by Zakath
+20-04-17 01:31:04 Time Left: 5 minutes
+20-04-17 01:32:04 Time Left: 4 minutes
+20-04-17 01:33:04 Time Left: 3 minutes
+20-04-17 01:34:04 Time Left: 2 minutes
+20-04-17 01:35:04 Time Left: 1 minutes
+20-04-17 01:36:04 Next map: ctf_Snakebite
+20-04-17 01:36:10 Snakebite orig. by chakapoko maker
+20-04-17 01:41:10 Time Left: 5 minutes
+20-04-17 01:42:10 Time Left: 4 minutes
+20-04-17 01:43:10 Time Left: 3 minutes
+20-04-17 01:44:10 Time Left: 2 minutes
+20-04-17 01:45:10 Time Left: 1 minutes
+20-04-17 01:46:10 Next map: ctf_Run
+20-04-17 01:46:15 Run
+20-04-17 01:51:15 Time Left: 5 minutes
+20-04-17 01:52:15 Time Left: 4 minutes
+20-04-17 01:53:15 Time Left: 3 minutes
+20-04-17 01:54:15 Time Left: 2 minutes
+20-04-17 01:55:15 Time Left: 1 minutes
+20-04-17 01:56:15 Next map: ctf_Nuubia
+20-04-17 01:56:20 by Troskal and friends
+20-04-17 02:01:20 Time Left: 5 minutes
+20-04-17 02:02:20 Time Left: 4 minutes
+20-04-17 02:03:20 Time Left: 3 minutes
+20-04-17 02:04:20 Time Left: 2 minutes
+20-04-17 02:05:20 Time Left: 1 minutes
+20-04-17 02:06:20 Next map: ctf_Guardian
+20-04-17 02:06:26 ctf_Guardian by SuoW
+20-04-17 02:08:27 190.102.231.144:23073|1C9CD1E5A24 requesting game...
+20-04-17 02:08:29 Gml joining game (190.102.231.144:23073) HWID:1C9CD1E5A24
+20-04-17 02:08:29 Gml has joined alpha team.
+20-04-17 02:08:56 Gml has left alpha team.
+20-04-17 02:11:26 Time Left: 5 minutes
+20-04-17 02:12:26 Time Left: 4 minutes
+20-04-17 02:13:05 190.102.231.144:23073|1C9CD1E5A24 requesting game...
+20-04-17 02:13:08 Gml joining game (190.102.231.144:23073) HWID:1C9CD1E5A24
+20-04-17 02:13:08 Gml has joined alpha team.
+20-04-17 02:13:17 190.47.54.151:23073|71599CE60BF requesting game...
+20-04-17 02:13:17 186.79.247.177:23073|3D578FA445F requesting game...
+20-04-17 02:13:22 lemillion joining game (186.79.247.177:23073) HWID:3D578FA445F
+20-04-17 02:13:22 lemillion has joined alpha team.
+20-04-17 02:13:22 Seba  :)   tradeit.gg joining game (190.47.54.151:23073) HWID:71599CE60BF
+20-04-17 02:13:22 Seba  :)   tradeit.gg has joined bravo team.
+20-04-17 02:13:26 Time Left: 3 minutes
+20-04-17 02:13:28 (1) Gml killed (2) Seba  :)   tradeit.gg with Ruger 77
+20-04-17 02:13:47 lemillion captured the Blue Flag
+20-04-17 02:13:50 (1) lemillion killed (2) Seba  :)   tradeit.gg with Ruger 77
+20-04-17 02:14:01 (1) Gml killed (2) Seba  :)   tradeit.gg with Ruger 77
+20-04-17 02:14:01 (2) Seba  :)   tradeit.gg killed (1) Gml with Ak-74
+20-04-17 02:14:16 (1) lemillion killed (2) Seba  :)   tradeit.gg with Ruger 77
+20-04-17 02:14:24 lemillion scores for Alpha Team
+20-04-17 02:14:26 Time Left: 2 minutes
+20-04-17 02:14:31 (1) Gml killed (2) Seba  :)   tradeit.gg with FN Minimi
+20-04-17 02:14:41 (2) Seba  :)   tradeit.gg killed (1) Gml with Steyr AUG
+20-04-17 02:14:43 lemillion has left alpha team.
+20-04-17 02:14:53 Seba  :)   tradeit.gg captured the Red Flag
+20-04-17 02:14:55 (2) Seba  :)   tradeit.gg killed (1) Gml with Steyr AUG
+20-04-17 02:14:58 186.79.247.177:23073|3D578FA445F requesting game...
+20-04-17 02:15:01 lemillion joining game (186.79.247.177:23073) HWID:3D578FA445F
+20-04-17 02:15:01 lemillion has joined bravo team.
+20-04-17 02:15:07 (1) Gml killed (2) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:15:07 Gml captured the Blue Flag
+20-04-17 02:15:08 Gml returned the Red Flag
+20-04-17 02:15:12 (2) Seba  :)   tradeit.gg killed (1) Gml with Spas-12
+20-04-17 02:15:14 Seba  :)   tradeit.gg returned the Blue Flag
+20-04-17 02:15:26 Time Left: 1 minutes
+20-04-17 02:15:35 (1) Gml killed (2) Seba  :)   tradeit.gg with Spas-12
+20-04-17 02:15:38 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:15:39 lemillion captured the Red Flag
+20-04-17 02:15:50 lemillion scores for Bravo Team
+20-04-17 02:15:50 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:15:59 (1) Gml killed (2) lemillion with Ak-74
+20-04-17 02:16:08 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:16:11 lemillion captured the Red Flag
+20-04-17 02:16:24 lemillion scores for Bravo Team
+20-04-17 02:16:26 Next map: ctf_Ash
+20-04-17 02:16:30 Seba  :)   tradeit.gg has left bravo team.
+20-04-17 02:16:31 ctf_Ash by chakapoko maker
+20-04-17 02:16:51 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:17:03 190.47.54.151:23073|71599CE60BF requesting game...
+20-04-17 02:17:12 Gml captured the Blue Flag
+20-04-17 02:17:14 lemillion captured the Red Flag
+20-04-17 02:17:16 Seba  :)   tradeit.gg joining game (190.47.54.151:23073) HWID:71599CE60BF
+20-04-17 02:17:16 Seba  :)   tradeit.gg has joined bravo team.
+20-04-17 02:17:39 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:17:44 Seba  :)   tradeit.gg returned the Blue Flag
+20-04-17 02:17:47 (1) Gml killed (2) lemillion with M79
+20-04-17 02:17:48 Gml returned the Red Flag
+20-04-17 02:18:02 (1) Gml killed (2) lemillion with M79
+20-04-17 02:18:06 (2) Seba  :)   tradeit.gg killed (1) Gml with Ruger 77
+20-04-17 02:18:11 Seba  :)   tradeit.gg captured the Red Flag
+20-04-17 02:18:26 Seba  :)   tradeit.gg scores for Bravo Team
+20-04-17 02:18:40 Gml captured the Blue Flag
+20-04-17 02:18:43 (2) Seba  :)   tradeit.gg killed (1) Gml with Ruger 77
+20-04-17 02:18:51 Seba  :)   tradeit.gg returned the Blue Flag
+20-04-17 02:18:51 (1) Gml killed (2) lemillion with Spas-12
+20-04-17 02:18:59 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:19:23 (2) Seba  :)   tradeit.gg killed (1) Gml with Ruger 77
+20-04-17 02:19:27 Seba  :)   tradeit.gg captured the Red Flag
+20-04-17 02:19:29 (1) Gml killed (2) Seba  :)   tradeit.gg with HK MP5
+20-04-17 02:19:32 Gml returned the Red Flag
+20-04-17 02:19:32 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:19:33 lemillion captured the Red Flag
+20-04-17 02:19:39 (1) Gml killed (2) Seba  :)   tradeit.gg with Desert Eagles
+20-04-17 02:19:42 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:19:42 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:19:49 Seba  :)   tradeit.gg captured the Red Flag
+20-04-17 02:20:07 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:20:08 Seba  :)   tradeit.gg scores for Bravo Team
+20-04-17 02:20:14 (1) Gml killed (2) lemillion with Ruger 77
+20-04-17 02:20:30 (2) Seba  :)   tradeit.gg killed (1) Gml with Steyr AUG
+20-04-17 02:20:45 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:20:52 (1) Gml killed (2) Seba  :)   tradeit.gg with M79
+20-04-17 02:20:56 lemillion captured the Red Flag
+20-04-17 02:21:00 lemillion captured the Red Flag
+20-04-17 02:21:04 (2) lemillion killed (1) Gml with Ruger 77
+20-04-17 02:21:05 Seba  :)   tradeit.gg has joined alpha team.
+20-04-17 02:21:12 (1) Seba  :)   tradeit.gg killed (2) lemillion with Spas-12
+20-04-17 02:21:12 Seba  :)   tradeit.gg returned the Red Flag
+20-04-17 02:21:21 (1) Seba  :)   tradeit.gg killed (2) lemillion with Spas-12
+20-04-17 02:21:24 Seba  :)   tradeit.gg captured the Blue Flag
+20-04-17 02:21:27 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:21:31 Time Left: 5 minutes
+20-04-17 02:21:39 Seba  :)   tradeit.gg scores for Alpha Team
+20-04-17 02:21:46 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:21:54 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:21:54 (1) Seba  :)   tradeit.gg killed (2) lemillion with Spas-12
+20-04-17 02:22:08 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:22:14 Seba  :)   tradeit.gg captured the Blue Flag
+20-04-17 02:22:19 (2) lemillion killed (1) Seba  :)   tradeit.gg with Steyr AUG
+20-04-17 02:22:19 (1) Seba  :)   tradeit.gg killed (2) lemillion with Spas-12
+20-04-17 02:22:22 Gml captured the Blue Flag
+20-04-17 02:22:31 Time Left: 4 minutes
+20-04-17 02:22:32 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:22:32 Seba  :)   tradeit.gg captured the Blue Flag
+20-04-17 02:22:35 (1) Seba  :)   tradeit.gg killed (2) lemillion with Spas-12
+20-04-17 02:22:46 (1) Gml killed (2) lemillion with Spas-12
+20-04-17 02:22:53 (1) Gml killed (2) lemillion with Spas-12
+20-04-17 02:22:53 Seba  :)   tradeit.gg scores for Alpha Team
+20-04-17 02:23:03 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:23:08 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:23:14 lemillion captured the Red Flag
+20-04-17 02:23:28 lemillion scores for Bravo Team
+20-04-17 02:23:28 (1) Gml killed (2) lemillion with Spas-12
+20-04-17 02:23:30 Gml captured the Blue Flag
+20-04-17 02:23:31 Time Left: 3 minutes
+20-04-17 02:23:38 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:23:40 lemillion returned the Blue Flag
+20-04-17 02:23:43 Seba  :)   tradeit.gg captured the Blue Flag
+20-04-17 02:23:47 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:23:56 Gml captured the Blue Flag
+20-04-17 02:24:03 lemillion captured the Red Flag
+20-04-17 02:24:04 (1) Seba  :)   tradeit.gg killed (2) lemillion with USSOCOM
+20-04-17 02:24:10 Gml scores for Alpha Team
+20-04-17 02:24:22 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:24:28 lemillion captured the Red Flag
+20-04-17 02:24:29 (1) Gml killed (2) lemillion with Chainsaw
+20-04-17 02:24:29 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:24:31 Time Left: 2 minutes
+20-04-17 02:24:39 Seba  :)   tradeit.gg returned the Red Flag
+20-04-17 02:24:51 (RADIO)[Gml] Friendly flagger up!
+20-04-17 02:24:58 lemillion gets a ping warning
+20-04-17 02:24:59 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:25:04 (1) Seba  :)   tradeit.gg killed (2) lemillion with Ak-74
+20-04-17 02:25:08 Seba  :)   tradeit.gg captured the Blue Flag
+20-04-17 02:25:12 (1) Seba  :)   tradeit.gg killed (2) lemillion with Ak-74
+20-04-17 02:25:23 Seba  :)   tradeit.gg scores for Alpha Team
+20-04-17 02:25:31 Time Left: 1 minutes
+20-04-17 02:25:33 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:25:36 lemillion captured the Red Flag
+20-04-17 02:25:37 (1) Gml killed (2) lemillion with Ruger 77
+20-04-17 02:25:44 (2) lemillion killed (1) Seba  :)   tradeit.gg with LAW
+20-04-17 02:25:51 (1) Seba  :)   tradeit.gg killed (2) lemillion with FN Minimi
+20-04-17 02:25:53 190.161.15.209:23073|250EB2AE436 requesting game...
+20-04-17 02:25:56 Bolacho i2q chile joining game (190.161.15.209:23073) HWID:250EB2AE436
+20-04-17 02:25:56 Bolacho i2q chile has joined bravo team.
+20-04-17 02:26:01 (2) lemillion killed (1) Seba  :)   tradeit.gg with Grenade
+20-04-17 02:26:01 (1) Gml killed (2) Bolacho i2q chile with Ruger 77
+20-04-17 02:26:14 Gml captured the Blue Flag
+20-04-17 02:26:15 (2) lemillion killed (1) Gml with Barrett M82A1
+20-04-17 02:26:20 Bolacho i2q chile captured the Red Flag
+20-04-17 02:26:22 (1) Seba  :)   tradeit.gg killed (2) Bolacho i2q chile with FN Minimi
+20-04-17 02:26:31 Next map: ctf_B2b
+20-04-17 02:26:36 B2B
+20-04-17 02:26:56 (2) Bolacho i2q chile killed (1) Seba  :)   tradeit.gg with M79
+20-04-17 02:26:58 Gml captured the Blue Flag
+20-04-17 02:27:00 Bolacho i2q chile captured the Red Flag
+20-04-17 02:27:32 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:27:43 (1) Seba  :)   tradeit.gg killed (2) Bolacho i2q chile with Steyr AUG
+20-04-17 02:27:47 Seba  :)   tradeit.gg returned the Red Flag
+20-04-17 02:27:47 Gml scores for Alpha Team
+20-04-17 02:28:06 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:28:12 Gml captured the Blue Flag
+20-04-17 02:28:17 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:28:29 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:28:35 Bolacho i2q chile captured the Red Flag
+20-04-17 02:28:38 (2) Bolacho i2q chile killed (1) Gml with Grenade
+20-04-17 02:28:47 Bolacho i2q chile returned the Blue Flag
+20-04-17 02:28:48 (1) Seba  :)   tradeit.gg killed (2) Bolacho i2q chile with Ak-74
+20-04-17 02:28:50 Gml returned the Red Flag
+20-04-17 02:29:01 lemillion captured the Red Flag
+20-04-17 02:29:03 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:29:06 Gml returned the Red Flag
+20-04-17 02:29:24 (1) Gml killed (2) Bolacho i2q chile with Desert Eagles
+20-04-17 02:29:27 Gml captured the Blue Flag
+20-04-17 02:29:30 lemillion captured the Red Flag
+20-04-17 02:29:57 (1) Seba  :)   tradeit.gg killed (2) lemillion with Ak-74
+20-04-17 02:29:57 Seba  :)   tradeit.gg returned the Red Flag
+20-04-17 02:29:59 Bolacho i2q chile captured the Red Flag
+20-04-17 02:30:07 (2) Bolacho i2q chile killed (1) Seba  :)   tradeit.gg with Grenade
+20-04-17 02:30:10 (2) Bolacho i2q chile killed (1) Gml with M79
+20-04-17 02:30:13 Bolacho i2q chile returned the Blue Flag
+20-04-17 02:30:26 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:30:34 (1) Gml killed (2) lemillion with M79
+20-04-17 02:30:36 Bolacho i2q chile scores for Bravo Team
+20-04-17 02:30:42 (TEAM)[Seba  :)   tradeit.gg] maricon ql
+20-04-17 02:30:49 (2) Bolacho i2q chile killed (1) Seba  :)   tradeit.gg with M79
+20-04-17 02:30:49 (1) Gml killed (2) lemillion with M79
+20-04-17 02:30:58 Gml captured the Blue Flag
+20-04-17 02:30:58 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:31:01 Bolacho i2q chile returned the Blue Flag
+20-04-17 02:31:17 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:31:25 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:31:29 lemillion captured the Red Flag
+20-04-17 02:31:36 Time Left: 5 minutes
+20-04-17 02:31:50 (1) Seba  :)   tradeit.gg killed (2) Bolacho i2q chile with M79
+20-04-17 02:31:58 lemillion scores for Bravo Team
+20-04-17 02:32:09 (2) Bolacho i2q chile killed (1) Seba  :)   tradeit.gg with M79
+20-04-17 02:32:21 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:32:35 (2) Bolacho i2q chile killed (1) Gml with M79
+20-04-17 02:32:36 Bolacho i2q chile captured the Red Flag
+20-04-17 02:32:36 Time Left: 4 minutes
+20-04-17 02:32:43 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:32:50 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:32:54 Bolacho i2q chile scores for Bravo Team
+20-04-17 02:32:57 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:32:58 lemillion captured the Red Flag
+20-04-17 02:33:00 (2) lemillion killed (1) Gml with Ak-74
+20-04-17 02:33:20 lemillion scores for Bravo Team
+20-04-17 02:33:20 Bolacho i2q chile captured the Red Flag
+20-04-17 02:33:25 (2) Bolacho i2q chile killed (1) Gml with M79
+20-04-17 02:33:32 (1) Seba  :)   tradeit.gg killed (2) lemillion with FN Minimi
+20-04-17 02:33:32 (2) lemillion killed (1) Seba  :)   tradeit.gg with Ak-74
+20-04-17 02:33:36 Time Left: 3 minutes
+20-04-17 02:33:37 Gml started votekick against Bolacho i2q chile - Reason: PRO
+20-04-17 02:33:46 Bolacho i2q chile scores for Bravo Team
+20-04-17 02:33:56 (2) lemillion killed (1) Gml with Barrett M82A1
+20-04-17 02:34:11 [Bolacho i2q chile] maricones me quieren votar
+20-04-17 02:34:15 (1) Gml killed (2) Bolacho i2q chile with Barrett M82A1
+20-04-17 02:34:19 (1) Gml killed (2) lemillion with Barrett M82A1
+20-04-17 02:34:24 [Bolacho i2q chile] twuajajkajkja estan asustaos
+20-04-17 02:34:33 (TEAM)[Gml] payaso culiao tonto xD
+20-04-17 02:34:35 (2) Bolacho i2q chile killed (1) Gml with M79
+20-04-17 02:34:36 Time Left: 2 minutes
+20-04-17 02:34:38 (TEAM)[Gml] es nuestra primera partida
+20-04-17 02:34:38 (2) lemillion killed (1) Seba  :)   tradeit.gg with Barrett M82A1
+20-04-17 02:34:48 Bolacho i2q chile captured the Red Flag
+20-04-17 02:35:11 Bolacho i2q chile scores for Bravo Team
+20-04-17 02:35:19 (1) Gml killed (2) lemillion with LAW
+20-04-17 02:35:27 (1) Seba  :)   tradeit.gg killed (2) Bolacho i2q chile with LAW
+20-04-17 02:35:36 Time Left: 1 minutes
+20-04-17 02:35:48 (2) lemillion killed (1) Gml with Barrett M82A1
+20-04-17 02:35:48 (2) lemillion killed (1) Seba  :)   tradeit.gg with Barrett M82A1
+20-04-17 02:35:52 lemillion captured the Red Flag
+20-04-17 02:36:00 (1) Gml killed (2) lemillion with Desert Eagles
+20-04-17 02:36:02 (2) Bolacho i2q chile killed (1) Gml with M79
+20-04-17 02:36:08 (2) Bolacho i2q chile killed (1) Seba  :)   tradeit.gg with M79
+20-04-17 02:36:10 Seba  :)   tradeit.gg has left alpha team.
+20-04-17 02:36:14 lemillion has left bravo team.
+20-04-17 02:36:16 [Gml] payaso
+20-04-17 02:36:19 Gml has left alpha team.
+20-04-17 02:36:28 Bolacho i2q chile captured the Red Flag
+20-04-17 02:36:36 Next map: ctf_Blade
+20-04-17 02:36:42 Blade by Zakath
+20-04-17 02:36:49 [Bolacho i2q chile] wuajajajajaj xdd
+20-04-17 02:37:10 Bolacho i2q chile captured the Red Flag
+20-04-17 02:37:22 Bolacho i2q chile scores for Bravo Team
+20-04-17 02:37:30 Bolacho i2q chile has left bravo team.
+20-04-17 02:38:12 190.161.15.209:23073|250EB2AE436 requesting game...
+20-04-17 02:38:26 75.18.240.231:23073|26199CA7D60 requesting game...
+20-04-17 02:41:41 Time Left: 5 minutes
+20-04-17 02:42:41 Time Left: 4 minutes
+20-04-17 02:43:41 Time Left: 3 minutes
+20-04-17 02:44:41 Time Left: 2 minutes
+20-04-17 02:45:41 Time Left: 1 minutes
+20-04-17 02:46:41 Next map: ctf_Viet
+20-04-17 02:46:47 Viet
+20-04-17 02:51:47 Time Left: 5 minutes
+20-04-17 02:52:47 Time Left: 4 minutes
+20-04-17 02:53:47 Time Left: 3 minutes
+20-04-17 02:54:47 Time Left: 2 minutes
+20-04-17 02:55:47 Time Left: 1 minutes
+20-04-17 02:56:47 Next map: ctf_Division
+20-04-17 02:56:52 Division by Boxo, KC, viral
+20-04-17 03:01:52 Time Left: 5 minutes
+20-04-17 03:02:52 Time Left: 4 minutes
+20-04-17 03:03:52 Time Left: 3 minutes
+20-04-17 03:04:52 Time Left: 2 minutes
+20-04-17 03:05:52 Time Left: 1 minutes
+20-04-17 03:06:52 Next map: ctf_Death
+20-04-17 03:06:57 Death by MM, g_d. Boxo, mtk`
+20-04-17 03:11:57 Time Left: 5 minutes
+20-04-17 03:12:57 Time Left: 4 minutes
+20-04-17 03:13:57 Time Left: 3 minutes
+20-04-17 03:14:57 Time Left: 2 minutes
+20-04-17 03:15:57 Time Left: 1 minutes
+20-04-17 03:16:57 Next map: ctf_Hormone
+20-04-17 03:17:03 Hormone by Metsänaperot
+20-04-17 03:22:03 Time Left: 5 minutes
+20-04-17 03:23:03 Time Left: 4 minutes
+20-04-17 03:24:03 Time Left: 3 minutes
+20-04-17 03:25:03 Time Left: 2 minutes
+20-04-17 03:26:03 Time Left: 1 minutes
+20-04-17 03:27:03 Next map: ctf_Laos
+20-04-17 03:27:08 Laos
+20-04-17 03:32:08 Time Left: 5 minutes
+20-04-17 03:33:08 Time Left: 4 minutes
+20-04-17 03:34:08 Time Left: 3 minutes
+20-04-17 03:35:08 Time Left: 2 minutes
+20-04-17 03:36:08 Time Left: 1 minutes
+20-04-17 03:37:08 Next map: ctf_Laos2
+20-04-17 03:37:13 Laos
+20-04-17 03:42:13 Time Left: 5 minutes
+20-04-17 03:43:13 Time Left: 4 minutes
+20-04-17 03:44:13 Time Left: 3 minutes
+20-04-17 03:45:13 Time Left: 2 minutes
+20-04-17 03:46:13 Time Left: 1 minutes
+20-04-17 03:47:13 Next map: ctf_Maya
+20-04-17 03:47:19 Maya
+20-04-17 03:52:19 Time Left: 5 minutes
+20-04-17 03:53:19 Time Left: 4 minutes
+20-04-17 03:54:19 Time Left: 3 minutes
+20-04-17 03:55:19 Time Left: 2 minutes
+20-04-17 03:56:19 Time Left: 1 minutes
+20-04-17 03:57:19 Next map: ctf_MFM
+20-04-17 03:57:24 MFM 2 by mar77a
+20-04-17 04:02:24 Time Left: 5 minutes
+20-04-17 04:03:24 Time Left: 4 minutes
+20-04-17 04:04:24 Time Left: 3 minutes
+20-04-17 04:05:24 Time Left: 2 minutes
+20-04-17 04:06:24 Time Left: 1 minutes
+20-04-17 04:07:24 Next map: ctf_Run
+20-04-17 04:07:29 Run
+20-04-17 04:12:29 Time Left: 5 minutes
+20-04-17 04:13:29 Time Left: 4 minutes
+20-04-17 04:14:29 Time Left: 3 minutes
+20-04-17 04:15:29 Time Left: 2 minutes
+20-04-17 04:16:29 Time Left: 1 minutes
+20-04-17 04:17:29 Next map: ctf_OldRun
+20-04-17 04:17:35 Run (get to the flag!)
+20-04-17 04:22:35 Time Left: 5 minutes
+20-04-17 04:23:35 Time Left: 4 minutes
+20-04-17 04:24:35 Time Left: 3 minutes
+20-04-17 04:25:35 Time Left: 2 minutes
+20-04-17 04:26:35 Time Left: 1 minutes
+20-04-17 04:27:35 Next map: ctf_Ash
+20-04-17 04:27:40 ctf_Ash by chakapoko maker
+20-04-17 04:32:40 Time Left: 5 minutes
+20-04-17 04:33:40 Time Left: 4 minutes
+20-04-17 04:34:40 Time Left: 3 minutes
+20-04-17 04:35:40 Time Left: 2 minutes
+20-04-17 04:36:40 Time Left: 1 minutes
+20-04-17 04:37:40 Next map: ctf_B2b
+20-04-17 04:37:45 B2B
+20-04-17 04:42:45 Time Left: 5 minutes
+20-04-17 04:43:45 Time Left: 4 minutes
+20-04-17 04:44:45 Time Left: 3 minutes
+20-04-17 04:45:45 Time Left: 2 minutes
+20-04-17 04:46:45 Time Left: 1 minutes
+20-04-17 04:47:45 Next map: ctf_Viet
+20-04-17 04:47:51 Viet
+20-04-17 04:52:51 Time Left: 5 minutes
+20-04-17 04:53:51 Time Left: 4 minutes
+20-04-17 04:54:51 Time Left: 3 minutes
+20-04-17 04:55:51 Time Left: 2 minutes
+20-04-17 04:56:51 Time Left: 1 minutes
+20-04-17 04:57:51 Next map: ctf_Campeche
+20-04-17 04:57:56 Campeche by Zakath
+20-04-17 05:02:56 Time Left: 5 minutes
+20-04-17 05:03:56 Time Left: 4 minutes
+20-04-17 05:04:56 Time Left: 3 minutes
+20-04-17 05:05:56 Time Left: 2 minutes
+20-04-17 05:06:56 Time Left: 1 minutes
+20-04-17 05:07:56 Next map: ctf_Snakebite
+20-04-17 05:08:01 Snakebite orig. by chakapoko maker
+20-04-17 05:13:01 Time Left: 5 minutes
+20-04-17 05:14:01 Time Left: 4 minutes
+20-04-17 05:15:01 Time Left: 3 minutes
+20-04-17 05:16:01 Time Left: 2 minutes
+20-04-17 05:17:01 Time Left: 1 minutes
+20-04-17 05:18:01 Next map: ctf_Run
+20-04-17 05:18:07 Run
+20-04-17 05:23:07 Time Left: 5 minutes
+20-04-17 05:24:07 Time Left: 4 minutes
+20-04-17 05:25:07 Time Left: 3 minutes
+20-04-17 05:26:07 Time Left: 2 minutes
+20-04-17 05:27:07 Time Left: 1 minutes
+20-04-17 05:28:07 Next map: ctf_Nuubia
+20-04-17 05:28:12 by Troskal and friends
+20-04-17 05:33:12 Time Left: 5 minutes
+20-04-17 05:34:12 Time Left: 4 minutes
+20-04-17 05:35:12 Time Left: 3 minutes
+20-04-17 05:36:12 Time Left: 2 minutes
+20-04-17 05:37:12 Time Left: 1 minutes
+20-04-17 05:38:12 Next map: ctf_Guardian
+20-04-17 05:38:17 ctf_Guardian by SuoW
+20-04-17 05:43:17 Time Left: 5 minutes
+20-04-17 05:44:17 Time Left: 4 minutes
+20-04-17 05:45:17 Time Left: 3 minutes
+20-04-17 05:46:17 Time Left: 2 minutes
+20-04-17 05:47:17 Time Left: 1 minutes
+20-04-17 05:48:17 Next map: ctf_Ash
+20-04-17 05:48:23 ctf_Ash by chakapoko maker
+20-04-17 05:53:23 Time Left: 5 minutes
+20-04-17 05:54:23 Time Left: 4 minutes
+20-04-17 05:55:23 Time Left: 3 minutes
+20-04-17 05:56:23 Time Left: 2 minutes
+20-04-17 05:57:23 Time Left: 1 minutes
+20-04-17 05:58:22 Next map: ctf_B2b
+20-04-17 05:58:28 B2B
+20-04-17 06:03:28 Time Left: 5 minutes
+20-04-17 06:04:28 Time Left: 4 minutes
+20-04-17 06:05:28 Time Left: 3 minutes
+20-04-17 06:06:28 Time Left: 2 minutes
+20-04-17 06:07:28 Time Left: 1 minutes
+20-04-17 06:08:28 Next map: ctf_Blade
+20-04-17 06:08:33 Blade by Zakath
+20-04-17 06:13:33 Time Left: 5 minutes
+20-04-17 06:14:33 Time Left: 4 minutes
+20-04-17 06:15:33 Time Left: 3 minutes
+20-04-17 06:16:33 Time Left: 2 minutes
+20-04-17 06:17:33 Time Left: 1 minutes
+20-04-17 06:18:33 Next map: ctf_Viet
+20-04-17 06:18:38 Viet
+20-04-17 06:23:38 Time Left: 5 minutes
+20-04-17 06:24:38 Time Left: 4 minutes
+20-04-17 06:25:38 Time Left: 3 minutes
+20-04-17 06:26:38 Time Left: 2 minutes
+20-04-17 06:27:38 Time Left: 1 minutes
+20-04-17 06:28:38 Next map: ctf_Division
+20-04-17 06:28:44 Division by Boxo, KC, viral
+20-04-17 06:33:44 Time Left: 5 minutes
+20-04-17 06:34:44 Time Left: 4 minutes
+20-04-17 06:35:44 Time Left: 3 minutes
+20-04-17 06:36:44 Time Left: 2 minutes
+20-04-17 06:37:44 Time Left: 1 minutes
+20-04-17 06:38:44 Next map: ctf_Death
+20-04-17 06:38:49 Death by MM, g_d. Boxo, mtk`
+20-04-17 06:43:49 Time Left: 5 minutes
+20-04-17 06:44:49 Time Left: 4 minutes
+20-04-17 06:45:49 Time Left: 3 minutes
+20-04-17 06:46:49 Time Left: 2 minutes
+20-04-17 06:47:49 Time Left: 1 minutes
+20-04-17 06:48:49 Next map: ctf_Hormone
+20-04-17 06:48:54 Hormone by Metsänaperot
+20-04-17 06:53:54 Time Left: 5 minutes
+20-04-17 06:54:54 Time Left: 4 minutes
+20-04-17 06:55:54 Time Left: 3 minutes
+20-04-17 06:56:54 Time Left: 2 minutes
+20-04-17 06:57:54 Time Left: 1 minutes
+20-04-17 06:58:54 Next map: ctf_Laos
+20-04-17 06:59:00 Laos
+20-04-17 07:04:00 Time Left: 5 minutes
+20-04-17 07:05:00 Time Left: 4 minutes
+20-04-17 07:06:00 Time Left: 3 minutes
+20-04-17 07:07:00 Time Left: 2 minutes
+20-04-17 07:08:00 Time Left: 1 minutes
+20-04-17 07:09:00 Next map: ctf_Laos2
+20-04-17 07:09:05 Laos
+20-04-17 07:14:05 Time Left: 5 minutes
+20-04-17 07:15:05 Time Left: 4 minutes
+20-04-17 07:16:05 Time Left: 3 minutes
+20-04-17 07:17:05 Time Left: 2 minutes
+20-04-17 07:18:05 Time Left: 1 minutes
+20-04-17 07:19:05 Next map: ctf_Maya
+20-04-17 07:19:10 Maya
+20-04-17 07:24:10 Time Left: 5 minutes
+20-04-17 07:25:10 Time Left: 4 minutes
+20-04-17 07:26:10 Time Left: 3 minutes
+20-04-17 07:27:10 Time Left: 2 minutes
+20-04-17 07:28:10 Time Left: 1 minutes
+20-04-17 07:29:10 Next map: ctf_MFM
+20-04-17 07:29:16 MFM 2 by mar77a
+20-04-17 07:34:16 Time Left: 5 minutes
+20-04-17 07:35:16 Time Left: 4 minutes
+20-04-17 07:36:16 Time Left: 3 minutes
+20-04-17 07:37:16 Time Left: 2 minutes
+20-04-17 07:38:16 Time Left: 1 minutes
+20-04-17 07:39:16 Next map: ctf_Run
+20-04-17 07:39:21 Run
+20-04-17 07:44:21 Time Left: 5 minutes
+20-04-17 07:45:21 Time Left: 4 minutes
+20-04-17 07:46:21 Time Left: 3 minutes
+20-04-17 07:47:21 Time Left: 2 minutes
+20-04-17 07:48:21 Time Left: 1 minutes
+20-04-17 07:49:21 Next map: ctf_OldRun
+20-04-17 07:49:26 Run (get to the flag!)
+20-04-17 07:54:26 Time Left: 5 minutes
+20-04-17 07:55:26 Time Left: 4 minutes
+20-04-17 07:56:26 Time Left: 3 minutes
+20-04-17 07:57:26 Time Left: 2 minutes
+20-04-17 07:58:26 Time Left: 1 minutes
+20-04-17 07:59:26 Next map: ctf_Ash
+20-04-17 07:59:32 ctf_Ash by chakapoko maker
+20-04-17 08:04:32 Time Left: 5 minutes
+20-04-17 08:05:32 Time Left: 4 minutes
+20-04-17 08:06:32 Time Left: 3 minutes
+20-04-17 08:07:32 Time Left: 2 minutes
+20-04-17 08:08:32 Time Left: 1 minutes
+20-04-17 08:09:32 Next map: ctf_B2b
+20-04-17 08:09:37 B2B
+20-04-17 08:14:37 Time Left: 5 minutes
+20-04-17 08:15:37 Time Left: 4 minutes
+20-04-17 08:16:37 Time Left: 3 minutes
+20-04-17 08:17:37 Time Left: 2 minutes
+20-04-17 08:18:37 Time Left: 1 minutes
+20-04-17 08:19:37 Next map: ctf_Viet
+20-04-17 08:19:42 Viet
+20-04-17 08:24:42 Time Left: 5 minutes
+20-04-17 08:25:42 Time Left: 4 minutes
+20-04-17 08:26:42 Time Left: 3 minutes
+20-04-17 08:27:42 Time Left: 2 minutes
+20-04-17 08:28:42 Time Left: 1 minutes
+20-04-17 08:29:42 Next map: ctf_Campeche
+20-04-17 08:29:48 Campeche by Zakath
+20-04-17 08:34:48 Time Left: 5 minutes
+20-04-17 08:35:48 Time Left: 4 minutes
+20-04-17 08:36:48 Time Left: 3 minutes
+20-04-17 08:37:48 Time Left: 2 minutes
+20-04-17 08:38:48 Time Left: 1 minutes
+20-04-17 08:39:48 Next map: ctf_Snakebite
+20-04-17 08:39:53 Snakebite orig. by chakapoko maker
+20-04-17 08:44:53 Time Left: 5 minutes
+20-04-17 08:45:53 Time Left: 4 minutes
+20-04-17 08:46:53 Time Left: 3 minutes
+20-04-17 08:47:53 Time Left: 2 minutes
+20-04-17 08:48:53 Time Left: 1 minutes
+20-04-17 08:49:53 Next map: ctf_Run
+20-04-17 08:49:58 Run
+20-04-17 08:54:58 Time Left: 5 minutes
+20-04-17 08:55:58 Time Left: 4 minutes
+20-04-17 08:56:58 Time Left: 3 minutes
+20-04-17 08:57:58 Time Left: 2 minutes
+20-04-17 08:58:58 Time Left: 1 minutes
+20-04-17 08:59:58 Next map: ctf_Nuubia
+20-04-17 09:00:04 by Troskal and friends
+20-04-17 09:05:04 Time Left: 5 minutes
+20-04-17 09:06:04 Time Left: 4 minutes
+20-04-17 09:07:04 Time Left: 3 minutes
+20-04-17 09:08:04 Time Left: 2 minutes
+20-04-17 09:09:04 Time Left: 1 minutes
+20-04-17 09:10:04 Next map: ctf_Guardian
+20-04-17 09:10:09 ctf_Guardian by SuoW
+20-04-17 09:15:09 Time Left: 5 minutes
+20-04-17 09:16:09 Time Left: 4 minutes
+20-04-17 09:17:09 Time Left: 3 minutes
+20-04-17 09:18:09 Time Left: 2 minutes
+20-04-17 09:19:09 Time Left: 1 minutes
+20-04-17 09:20:09 Next map: ctf_Ash
+20-04-17 09:20:14 ctf_Ash by chakapoko maker
+20-04-17 09:25:14 Time Left: 5 minutes
+20-04-17 09:26:14 Time Left: 4 minutes
+20-04-17 09:27:14 Time Left: 3 minutes
+20-04-17 09:28:14 Time Left: 2 minutes
+20-04-17 09:29:14 Time Left: 1 minutes
+20-04-17 09:30:14 Next map: ctf_B2b
+20-04-17 09:30:19 B2B
+20-04-17 09:35:19 Time Left: 5 minutes
+20-04-17 09:36:19 Time Left: 4 minutes
+20-04-17 09:37:19 Time Left: 3 minutes
+20-04-17 09:38:19 Time Left: 2 minutes
+20-04-17 09:39:19 Time Left: 1 minutes
+20-04-17 09:40:19 Next map: ctf_Blade
+20-04-17 09:40:25 Blade by Zakath
+20-04-17 09:45:25 Time Left: 5 minutes
+20-04-17 09:46:25 Time Left: 4 minutes
+20-04-17 09:47:25 Time Left: 3 minutes
+20-04-17 09:48:25 Time Left: 2 minutes
+20-04-17 09:49:25 Time Left: 1 minutes
+20-04-17 09:50:25 Next map: ctf_Viet
+20-04-17 09:50:30 Viet
+20-04-17 09:55:30 Time Left: 5 minutes
+20-04-17 09:56:30 Time Left: 4 minutes
+20-04-17 09:57:30 Time Left: 3 minutes
+20-04-17 09:58:30 Time Left: 2 minutes
+20-04-17 09:59:30 Time Left: 1 minutes
+20-04-17 10:00:30 Next map: ctf_Division
+20-04-17 10:00:35 Division by Boxo, KC, viral
+20-04-17 10:05:35 Time Left: 5 minutes
+20-04-17 10:06:35 Time Left: 4 minutes
+20-04-17 10:07:35 Time Left: 3 minutes
+20-04-17 10:08:35 Time Left: 2 minutes
+20-04-17 10:08:41 190.102.239.200:24422|2205DC00382 requesting game...
+20-04-17 10:09:35 Time Left: 1 minutes
+20-04-17 10:10:35 Next map: ctf_Death
+20-04-17 10:10:41 Death by MM, g_d. Boxo, mtk`
+20-04-17 10:15:41 Time Left: 5 minutes
+20-04-17 10:16:41 Time Left: 4 minutes
+20-04-17 10:17:41 Time Left: 3 minutes
+20-04-17 10:18:41 Time Left: 2 minutes
+20-04-17 10:19:41 Time Left: 1 minutes
+20-04-17 10:20:41 Next map: ctf_Hormone
+20-04-17 10:20:46 Hormone by Metsänaperot
+20-04-17 10:25:46 Time Left: 5 minutes
+20-04-17 10:26:46 Time Left: 4 minutes
+20-04-17 10:27:46 Time Left: 3 minutes
+20-04-17 10:28:46 Time Left: 2 minutes
+20-04-17 10:29:46 Time Left: 1 minutes
+20-04-17 10:30:46 Next map: ctf_Laos
+20-04-17 10:30:51 Laos
+20-04-17 10:35:51 Time Left: 5 minutes
+20-04-17 10:36:51 Time Left: 4 minutes
+20-04-17 10:37:51 Time Left: 3 minutes
+20-04-17 10:38:51 Time Left: 2 minutes
+20-04-17 10:39:51 Time Left: 1 minutes
+20-04-17 10:40:51 Next map: ctf_Laos2
+20-04-17 10:40:57 Laos
+20-04-17 10:45:57 Time Left: 5 minutes
+20-04-17 10:46:57 Time Left: 4 minutes
+20-04-17 10:47:57 Time Left: 3 minutes
+20-04-17 10:48:57 Time Left: 2 minutes
+20-04-17 10:49:57 Time Left: 1 minutes
+20-04-17 10:50:57 Next map: ctf_Maya
+20-04-17 10:51:02 Maya
+20-04-17 10:56:02 Time Left: 5 minutes
+20-04-17 10:57:02 Time Left: 4 minutes
+20-04-17 10:58:02 Time Left: 3 minutes
+20-04-17 10:59:02 Time Left: 2 minutes
+20-04-17 11:00:02 Time Left: 1 minutes
+20-04-17 11:01:02 Next map: ctf_MFM
+20-04-17 11:01:07 MFM 2 by mar77a
+20-04-17 11:06:07 Time Left: 5 minutes
+20-04-17 11:07:07 Time Left: 4 minutes
+20-04-17 11:08:07 Time Left: 3 minutes
+20-04-17 11:09:07 Time Left: 2 minutes
+20-04-17 11:10:07 Time Left: 1 minutes
+20-04-17 11:11:07 Next map: ctf_Run
+20-04-17 11:11:13 Run
+20-04-17 11:16:13 Time Left: 5 minutes
+20-04-17 11:17:13 Time Left: 4 minutes
+20-04-17 11:18:13 Time Left: 3 minutes
+20-04-17 11:19:13 Time Left: 2 minutes
+20-04-17 11:20:13 Time Left: 1 minutes
+20-04-17 11:21:13 Next map: ctf_OldRun
+20-04-17 11:21:18 Run (get to the flag!)
+20-04-17 11:26:18 Time Left: 5 minutes
+20-04-17 11:27:18 Time Left: 4 minutes
+20-04-17 11:28:18 Time Left: 3 minutes
+20-04-17 11:29:18 Time Left: 2 minutes
+20-04-17 11:30:18 Time Left: 1 minutes
+20-04-17 11:31:18 Next map: ctf_Ash
+20-04-17 11:31:23 ctf_Ash by chakapoko maker
+20-04-17 11:36:23 Time Left: 5 minutes
+20-04-17 11:37:23 Time Left: 4 minutes
+20-04-17 11:38:23 Time Left: 3 minutes
+20-04-17 11:39:23 Time Left: 2 minutes
+20-04-17 11:40:23 Time Left: 1 minutes
+20-04-17 11:41:23 Next map: ctf_B2b
+20-04-17 11:41:29 B2B
+20-04-17 11:46:29 Time Left: 5 minutes
+20-04-17 11:47:29 Time Left: 4 minutes
+20-04-17 11:48:29 Time Left: 3 minutes
+20-04-17 11:49:29 Time Left: 2 minutes
+20-04-17 11:50:29 Time Left: 1 minutes
+20-04-17 11:51:29 Next map: ctf_Viet
+20-04-17 11:51:34 Viet
+20-04-17 11:56:34 Time Left: 5 minutes
+20-04-17 11:57:34 Time Left: 4 minutes
+20-04-17 11:58:34 Time Left: 3 minutes
+20-04-17 11:59:34 Time Left: 2 minutes
+20-04-17 12:00:34 Time Left: 1 minutes
+20-04-17 12:01:34 Next map: ctf_Campeche
+20-04-17 12:01:39 Campeche by Zakath
+20-04-17 12:06:39 Time Left: 5 minutes
+20-04-17 12:07:39 Time Left: 4 minutes
+20-04-17 12:08:39 Time Left: 3 minutes
+20-04-17 12:09:39 Time Left: 2 minutes
+20-04-17 12:10:39 Time Left: 1 minutes
+20-04-17 12:11:39 Next map: ctf_Snakebite
+20-04-17 12:11:45 Snakebite orig. by chakapoko maker
+20-04-17 12:16:45 Time Left: 5 minutes
+20-04-17 12:17:45 Time Left: 4 minutes
+20-04-17 12:18:45 Time Left: 3 minutes
+20-04-17 12:19:45 Time Left: 2 minutes
+20-04-17 12:20:45 Time Left: 1 minutes
+20-04-17 12:21:45 Next map: ctf_Run
+20-04-17 12:21:50 Run
+20-04-17 12:26:50 Time Left: 5 minutes
+20-04-17 12:27:50 Time Left: 4 minutes
+20-04-17 12:28:50 Time Left: 3 minutes
+20-04-17 12:29:50 Time Left: 2 minutes
+20-04-17 12:30:50 Time Left: 1 minutes
+20-04-17 12:31:50 Next map: ctf_Nuubia
+20-04-17 12:31:55 by Troskal and friends
+20-04-17 12:36:55 Time Left: 5 minutes
+20-04-17 12:37:55 Time Left: 4 minutes
+20-04-17 12:38:55 Time Left: 3 minutes
+20-04-17 12:39:55 Time Left: 2 minutes
+20-04-17 12:40:55 Time Left: 1 minutes
+20-04-17 12:41:55 Next map: ctf_Guardian
+20-04-17 12:42:01 ctf_Guardian by SuoW
+20-04-17 12:47:00 Time Left: 5 minutes
+20-04-17 12:48:00 Time Left: 4 minutes
+20-04-17 12:49:00 Time Left: 3 minutes
+20-04-17 12:50:00 Time Left: 2 minutes
+20-04-17 12:51:00 Time Left: 1 minutes
+20-04-17 12:52:00 Next map: ctf_Ash
+20-04-17 12:52:06 ctf_Ash by chakapoko maker
+20-04-17 12:55:09 190.101.190.28:23073|348574D9644 requesting game...
+20-04-17 12:57:06 Time Left: 5 minutes
+20-04-17 12:58:06 Time Left: 4 minutes
+20-04-17 12:59:06 Time Left: 3 minutes
+20-04-17 13:00:06 Time Left: 2 minutes
+20-04-17 13:01:06 Time Left: 1 minutes
+20-04-17 13:02:06 Next map: ctf_B2b
+20-04-17 13:02:11 B2B
+20-04-17 13:02:47 Shutting down server...
+20-04-17 13:02:47 Shutting down FileServer...
+20-04-17 13:02:47 Shutting down admin server...

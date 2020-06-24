@@ -1,0 +1,168 @@
+20-05-01 21:15:01    Log Started
+20-05-01 21:15:01 Opened /home/kader_b/Publico/soldat.ini
+20-05-01 21:15:01 Creating network interface.
+20-05-01 21:15:01 Loading Animations.
+20-05-01 21:15:01 Loading Lobby Servers List
+20-05-01 21:15:01 Loading Maps List
+20-05-01 21:15:01 Loading Map.
+20-05-01 21:15:01 Creating Weapons.
+20-05-01 21:15:01 Starting Game Server.
+20-05-01 21:15:01 TCP/IP File Server started
+20-05-01 21:45:02 TCP/IP File Server started
+20-05-01 22:15:02 TCP/IP File Server started
+20-05-01 22:45:02 TCP/IP File Server started
+20-05-01 23:15:02 TCP/IP File Server started
+20-05-01 23:45:02 TCP/IP File Server started
+20-05-02 00:15:02 TCP/IP File Server started
+20-05-02 00:45:02 TCP/IP File Server started
+20-05-02 01:15:02 TCP/IP File Server started
+20-05-02 01:45:02 TCP/IP File Server started
+20-05-02 02:15:02 TCP/IP File Server started
+20-05-02 02:45:02 TCP/IP File Server started
+20-05-02 03:15:02 TCP/IP File Server started
+20-05-02 03:45:02 TCP/IP File Server started
+20-05-02 04:15:02 TCP/IP File Server started
+20-05-02 04:45:02 TCP/IP File Server started
+20-05-02 05:15:02 TCP/IP File Server started
+20-05-02 05:45:02 TCP/IP File Server started
+20-05-02 06:15:02 TCP/IP File Server started
+20-05-02 06:45:02 TCP/IP File Server started
+20-05-02 07:15:02 TCP/IP File Server started
+20-05-02 07:45:02 TCP/IP File Server started
+20-05-02 08:15:02 TCP/IP File Server started
+20-05-02 08:45:02 TCP/IP File Server started
+20-05-02 09:15:02 TCP/IP File Server started
+20-05-02 09:45:02 TCP/IP File Server started
+20-05-02 10:15:02 TCP/IP File Server started
+20-05-02 10:45:02 TCP/IP File Server started
+20-05-02 11:15:02 TCP/IP File Server started
+20-05-02 11:45:02 TCP/IP File Server started
+20-05-02 12:15:02 TCP/IP File Server started
+20-05-02 12:45:02 TCP/IP File Server started
+20-05-02 13:15:02 TCP/IP File Server started
+20-05-02 13:45:02 TCP/IP File Server started
+20-05-02 14:15:02 TCP/IP File Server started
+20-05-02 14:45:02 TCP/IP File Server started
+20-05-02 15:15:02 TCP/IP File Server started
+20-05-02 15:45:02 TCP/IP File Server started
+20-05-02 16:15:02 TCP/IP File Server started
+20-05-02 16:45:02 TCP/IP File Server started
+20-05-02 17:15:02 TCP/IP File Server started
+20-05-02 17:45:02 TCP/IP File Server started
+20-05-02 18:15:02 TCP/IP File Server started
+20-05-02 18:45:02 TCP/IP File Server started
+20-05-02 19:15:02 TCP/IP File Server started
+20-05-02 19:30:35  Net - anonimous.exe connected 2-5-20 19:30:35
+20-05-02 19:32:26  Net - anonimous.exe disconnected 2-5-20 19:32:26
+20-05-02 19:34:08  Net - MaRc0s connected 2-5-20 19:34:08
+20-05-02 19:36:32  Net - MaRc0s disconnected 2-5-20 19:36:32
+20-05-02 19:37:15  Net - har connected 2-5-20 19:37:15
+20-05-02 19:37:17  Net - har disconnected 2-5-20 19:37:17
+20-05-02 19:45:02 TCP/IP File Server started
+20-05-02 20:15:02 TCP/IP File Server started
+20-05-02 20:45:02 TCP/IP File Server started
+20-05-02 21:13:02  Net - anonimous connected 2-5-20 21:13:02
+20-05-02 21:14:51  Net - anonimous disconnected 2-5-20 21:14:51
+20-05-02 21:15:02 TCP/IP File Server started
+20-05-02 21:45:02 TCP/IP File Server started
+20-05-02 22:15:02 TCP/IP File Server started
+20-05-02 22:45:02 TCP/IP File Server started
+20-05-02 23:15:02 TCP/IP File Server started
+20-05-02 23:45:02 TCP/IP File Server started
+20-05-03 00:15:02 TCP/IP File Server started
+20-05-03 00:17:56  Net - -phobos connected 3-5-20 00:17:56
+20-05-03 00:18:58  Net - -phobos disconnected 3-5-20 00:18:58
+20-05-03 00:45:02 TCP/IP File Server started
+20-05-03 01:15:02 TCP/IP File Server started
+20-05-03 01:45:02 TCP/IP File Server started
+20-05-03 02:15:02 TCP/IP File Server started
+20-05-03 02:45:02 TCP/IP File Server started
+20-05-03 03:15:02 TCP/IP File Server started
+20-05-03 03:45:02 TCP/IP File Server started
+20-05-03 04:15:02 TCP/IP File Server started
+20-05-03 04:45:02 TCP/IP File Server started
+20-05-03 05:15:02 TCP/IP File Server started
+20-05-03 05:19:48  Net - |R| Verde connected 3-5-20 05:19:48
+20-05-03 05:19:51  Net - |R| Verde connected 3-5-20 05:19:51
+20-05-03 05:20:21  Net - |R| Verde disconnected 3-5-20 05:20:21
+20-05-03 05:45:02 TCP/IP File Server started
+20-05-03 06:15:02 TCP/IP File Server started
+20-05-03 06:45:02 TCP/IP File Server started
+20-05-03 07:15:02 TCP/IP File Server started
+20-05-03 07:45:02 TCP/IP File Server started
+20-05-03 08:15:02 TCP/IP File Server started
+20-05-03 08:45:02 TCP/IP File Server started
+20-05-03 08:57:26  Net - Weeknd~ connected 3-5-20 08:57:26
+20-05-03 08:57:55  Net - Weeknd~ disconnected 3-5-20 08:57:55
+20-05-03 09:15:02 TCP/IP File Server started
+20-05-03 09:45:02 TCP/IP File Server started
+20-05-03 10:15:02 TCP/IP File Server started
+20-05-03 10:45:02 TCP/IP File Server started
+20-05-03 11:15:02 TCP/IP File Server started
+20-05-03 11:45:02 TCP/IP File Server started
+20-05-03 12:15:02 TCP/IP File Server started
+20-05-03 12:45:02 TCP/IP File Server started
+20-05-03 13:15:02 TCP/IP File Server started
+20-05-03 13:45:02 TCP/IP File Server started
+20-05-03 14:15:02 TCP/IP File Server started
+20-05-03 14:45:02 TCP/IP File Server started
+20-05-03 15:15:02 TCP/IP File Server started
+20-05-03 15:45:02 TCP/IP File Server started
+20-05-03 16:15:02 TCP/IP File Server started
+20-05-03 16:45:02 TCP/IP File Server started
+20-05-03 17:15:02 TCP/IP File Server started
+20-05-03 17:45:02 TCP/IP File Server started
+20-05-03 18:15:02 TCP/IP File Server started
+20-05-03 18:45:02 TCP/IP File Server started
+20-05-03 19:15:02 TCP/IP File Server started
+20-05-03 19:45:02 TCP/IP File Server started
+20-05-03 20:15:02 TCP/IP File Server started
+20-05-03 20:45:02 TCP/IP File Server started
+20-05-03 21:15:02 TCP/IP File Server started
+20-05-03 21:45:02 TCP/IP File Server started
+20-05-03 22:15:02 TCP/IP File Server started
+20-05-03 22:45:02 TCP/IP File Server started
+20-05-03 23:15:02 TCP/IP File Server started
+20-05-03 23:45:02 TCP/IP File Server started
+20-05-04 00:15:02 TCP/IP File Server started
+20-05-04 00:45:02 TCP/IP File Server started
+20-05-04 01:14:38  Net - error404 connected 4-5-20 01:14:38
+20-05-04 01:14:39  Net - anonimous.exe connected 4-5-20 01:14:39
+20-05-04 01:15:02 TCP/IP File Server started
+20-05-04 01:34:01  Net - error404 disconnected 4-5-20 01:34:01
+20-05-04 01:34:01  Net - anonimous.exe disconnected 4-5-20 01:34:01
+20-05-04 01:45:02 TCP/IP File Server started
+20-05-04 02:15:02 TCP/IP File Server started
+20-05-04 02:45:02 TCP/IP File Server started
+20-05-04 03:15:02 TCP/IP File Server started
+20-05-04 03:45:02 TCP/IP File Server started
+20-05-04 04:05:52  Net - Weeknd~ connected 4-5-20 04:05:52
+20-05-04 04:06:07  Net - Weeknd~ disconnected 4-5-20 04:06:07
+20-05-04 04:15:02 TCP/IP File Server started
+20-05-04 04:45:02 TCP/IP File Server started
+20-05-04 05:15:02 TCP/IP File Server started
+20-05-04 05:45:02 TCP/IP File Server started
+20-05-04 06:15:02 TCP/IP File Server started
+20-05-04 06:45:02 TCP/IP File Server started
+20-05-04 07:15:02 TCP/IP File Server started
+20-05-04 07:45:02 TCP/IP File Server started
+20-05-04 08:15:02 TCP/IP File Server started
+20-05-04 08:45:02 TCP/IP File Server started
+20-05-04 09:15:02 TCP/IP File Server started
+20-05-04 09:45:02 TCP/IP File Server started
+20-05-04 10:15:02 TCP/IP File Server started
+20-05-04 10:45:02 TCP/IP File Server started
+20-05-04 11:15:02 TCP/IP File Server started
+20-05-04 11:45:02 TCP/IP File Server started
+20-05-04 12:15:02 TCP/IP File Server started
+20-05-04 12:45:02 TCP/IP File Server started
+20-05-04 13:15:02 TCP/IP File Server started
+20-05-04 13:45:02 TCP/IP File Server started
+20-05-04 14:15:02 TCP/IP File Server started
+20-05-04 14:45:02 TCP/IP File Server started
+20-05-04 15:15:02 TCP/IP File Server started
+20-05-04 15:45:02 TCP/IP File Server started
+20-05-04 16:02:42  Net - |BR| iTzTadeo connected 4-5-20 16:02:42
+20-05-04 16:05:17  Net - |BR| iTzTadeo disconnected 4-5-20 16:05:17
+20-05-04 16:06:24 Destroying Devices.
+20-05-04 16:06:24    End of Log.

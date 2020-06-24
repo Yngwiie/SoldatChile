@@ -1,0 +1,12 @@
+20-04-17 15:36:01    Log Started
+20-04-17 15:36:01 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-17 15:36:01 Creating network interface.
+20-04-17 15:36:01 Loading Animations.
+20-04-17 15:36:02 Loading Lobby Servers List
+20-04-17 15:36:02 Loading Maps List
+20-04-17 15:36:02 Loading Map.
+20-04-17 15:36:02 Creating Weapons.
+20-04-17 15:36:02 Starting Game Server.
+20-04-17 15:36:02 TCP/IP File Server started
+20-04-17 15:37:09  Net - D.Forc3 Wagyu connected 17-04-2020 15:37:09
+20-04-17 15:38:26  Net - D.Forc3 Wagyu disconnected 17-04-2020 15:38:26

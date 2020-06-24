@@ -1,0 +1,373 @@
+20-05-07 01:57:16    Log Started
+20-05-07 01:57:16 Opened /home/kader_b/Publico/soldat.ini
+20-05-07 01:57:38  Net - |D.Forc3|Gatitos connected 7-5-20 01:57:38
+20-05-07 01:58:10  Net - |D.Forc3|Gatitos disconnected 7-5-20 01:58:10
+20-05-07 01:58:18  Net - |D.Forc3|Gatitos connected 7-5-20 01:58:18
+20-05-07 01:58:33  Net - |D.Forc3|Gatitos disconnected 7-5-20 01:58:33
+20-05-07 01:58:34  Net - Major disconnected 7-5-20 01:58:34
+20-05-07 01:58:39  Net - |D.Forc3|Gatitos connected 7-5-20 01:58:39
+20-05-07 01:59:13  Net - LtKillroy connected 7-5-20 01:59:13
+20-05-07 02:01:03  Net - zuckini007fb connected 7-5-20 02:01:03
+20-05-07 02:02:26  Net - zuckini007fb disconnected 7-5-20 02:02:26
+20-05-07 02:04:37  Net - Cayouche connected 7-5-20 02:04:37
+20-05-07 02:06:14  Net - [CHL]Jaramigo connected 7-5-20 02:06:14
+20-05-07 02:08:03  Net - threum disconnected 7-5-20 02:08:03
+20-05-07 02:08:32  Net - Train of Friendship xd disconnected 7-5-20 02:08:32
+20-05-07 02:09:28  Net - Hombre_Horrible disconnected 7-5-20 02:09:28
+20-05-07 02:10:06  Net - Stupid connected 7-5-20 02:10:06
+20-05-07 02:10:08  Net - O Chupa Cu disconnected 7-5-20 02:10:08
+20-05-07 02:10:25  Net - compra contada connected 7-5-20 02:10:25
+20-05-07 02:10:30  Net - O Chupa Cu connected 7-5-20 02:10:30
+20-05-07 02:10:39  Net - CARTERO connected 7-5-20 02:10:39
+20-05-07 02:10:47  Net - O Chupa Cu disconnected 7-5-20 02:10:47
+20-05-07 02:11:59  Net - |D.Forc3|Gatitos disconnected 7-5-20 02:11:59
+20-05-07 02:12:07  Net - Stupid disconnected 7-5-20 02:12:07
+20-05-07 02:12:07  Net - |D.Forc3|Gatitos connected 7-5-20 02:12:07
+20-05-07 02:12:18  Net - Major connected 7-5-20 02:12:18
+20-05-07 02:13:22  Net - LtKillroy disconnected 7-5-20 02:13:22
+20-05-07 02:13:43  Net - !F. MotA connected 7-5-20 02:13:43
+20-05-07 02:13:55  Net - !F. MotA disconnected 7-5-20 02:13:55
+20-05-07 02:15:06 TCP/IP File Server started
+20-05-07 02:15:07  Net - O Chupa Cu connected 7-5-20 02:15:07
+20-05-07 02:16:13  Net - furkancylcyl connected 7-5-20 02:16:13
+20-05-07 02:17:29  Net - furkancylcyl disconnected 7-5-20 02:17:29
+20-05-07 02:17:47  Net - RtP| Shuter connected 7-5-20 02:17:47
+20-05-07 02:20:26  Net - compra contada disconnected 7-5-20 02:20:26
+20-05-07 02:20:42  Net - |D.Forc3|Gatitos disconnected 7-5-20 02:20:42
+20-05-07 02:20:59  Net - Becks connected 7-5-20 02:20:59
+20-05-07 02:21:46  Net - Silenite connected 7-5-20 02:21:46
+20-05-07 02:21:50  Net - RtP| Shuter disconnected 7-5-20 02:21:50
+20-05-07 02:22:05  Net - Gachi-nCoV connected 7-5-20 02:22:05
+20-05-07 02:22:11  Net - Gachi-nCoV disconnected 7-5-20 02:22:11
+20-05-07 02:22:44  Net - Silenite disconnected 7-5-20 02:22:44
+20-05-07 02:22:46  Net - RtP| Shuter connected 7-5-20 02:22:46
+20-05-07 02:22:54  Net - =tNt=~Bartok~ connected 7-5-20 02:22:54
+20-05-07 02:23:06  Net - RtP| Shuter disconnected 7-5-20 02:23:06
+20-05-07 02:23:10  Net - Silenite connected 7-5-20 02:23:10
+20-05-07 02:24:22  Net - Silenite disconnected 7-5-20 02:24:22
+20-05-07 02:25:03  Net - AlphaTeam connected 7-5-20 02:25:03
+20-05-07 02:25:55  Net - Major disconnected 7-5-20 02:25:55
+20-05-07 02:25:59  Net - O Chupa Cu disconnected 7-5-20 02:25:59
+20-05-07 02:26:06  Net - ManoBoca connected 7-5-20 02:26:06
+20-05-07 02:26:08  Net - rambler59 connected 7-5-20 02:26:08
+20-05-07 02:30:08  Net - rambler59 disconnected 7-5-20 02:30:08
+20-05-07 02:30:24  Net - blasacosta68 connected 7-5-20 02:30:24
+20-05-07 02:30:39  Net - Becks connected 7-5-20 02:30:39
+20-05-07 02:31:50  Net - blasacosta68 disconnected 7-5-20 02:31:50
+20-05-07 02:32:45  Net - ManoBoca disconnected 7-5-20 02:32:45
+20-05-07 02:32:46  Net - DMage disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - [FuBaLa] Biteko disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - =tNt=~Bartok~ disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - mbappe te coje disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - [FuBaLa] FEIJAO disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - Rayador Gimenez disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - CARTERO disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - Becks disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - AlphaTeam disconnected 7-5-20 02:32:46
+20-05-07 02:32:46  Net - Cayouche disconnected 7-5-20 02:32:46
+20-05-07 02:32:58  Net - Cayouche connected 7-5-20 02:32:58
+20-05-07 02:32:58  Net - CARTERO connected 7-5-20 02:32:58
+20-05-07 02:32:59  Net - Becks connected 7-5-20 02:32:59
+20-05-07 02:32:59  Net - ManoBoca connected 7-5-20 02:32:59
+20-05-07 02:33:02  Net - =tNt=~Bartok~ connected 7-5-20 02:33:02
+20-05-07 02:33:20  Net - [FuBaLa] Biteko connected 7-5-20 02:33:20
+20-05-07 02:33:21  Net - [FuBaLa] FEIJAO connected 7-5-20 02:33:21
+20-05-07 02:33:23  Net - mbappe te coje connected 7-5-20 02:33:23
+20-05-07 02:33:27  Net - Rayador Gimenez connected 7-5-20 02:33:27
+20-05-07 02:33:33  Net - ManoBoca connected 7-5-20 02:33:33
+20-05-07 02:33:55  Net - DMage connected 7-5-20 02:33:55
+20-05-07 02:34:19  Net - Mr. Hands connected 7-5-20 02:34:19
+20-05-07 02:34:32  Net - IncuboyD ~ disconnected 7-5-20 02:34:32
+20-05-07 02:35:41  Net - Mr. Hands disconnected 7-5-20 02:35:41
+20-05-07 02:36:06  Net - Get This connected 7-5-20 02:36:06
+20-05-07 02:37:10  Net - adilson0391 connected 7-5-20 02:37:10
+20-05-07 02:37:15  Net - CARTERO disconnected 7-5-20 02:37:15
+20-05-07 02:37:46  Net - adilson0391 disconnected 7-5-20 02:37:46
+20-05-07 02:38:08  Net - ZGanj connected 7-5-20 02:38:08
+20-05-07 02:39:32  Net - ZGanj disconnected 7-5-20 02:39:32
+20-05-07 02:40:57  Net - =tNt=~Bartok~ disconnected 7-5-20 02:40:57
+20-05-07 02:42:47  Net - desertstorm disconnected 7-5-20 02:42:47
+20-05-07 02:43:01  Net - Cayouche disconnected 7-5-20 02:43:01
+20-05-07 02:43:04  Net - Rayador Gimenez disconnected 7-5-20 02:43:04
+20-05-07 02:43:06  Net - mbappe te coje disconnected 7-5-20 02:43:06
+20-05-07 02:43:26  Net - Becks connected 7-5-20 02:43:26
+20-05-07 02:43:53  Net - asdhasdhjds disconnected 7-5-20 02:43:53
+20-05-07 02:44:01  Net - ManoBoca disconnected 7-5-20 02:44:01
+20-05-07 02:44:02  Net - DMage disconnected 7-5-20 02:44:02
+20-05-07 02:44:09  Net - athe connected 7-5-20 02:44:09
+20-05-07 02:44:11  Net - Becks disconnected 7-5-20 02:44:11
+20-05-07 02:44:21  Net - |0.$.G| Decadencia. connected 7-5-20 02:44:21
+20-05-07 02:44:32  Net - Aweak connected 7-5-20 02:44:32
+20-05-07 02:44:56  Net - |0.$.G| Decadencia. connected 7-5-20 02:44:56
+20-05-07 02:45:06 TCP/IP File Server started
+20-05-07 02:45:50  Net - Aweak disconnected 7-5-20 02:45:50
+20-05-07 02:45:52  Net - athe disconnected 7-5-20 02:45:52
+20-05-07 02:45:55  Net - meselfs connected 7-5-20 02:45:55
+20-05-07 02:47:07  Net - meselfs disconnected 7-5-20 02:47:07
+20-05-07 02:47:11  Net - TiTi connected 7-5-20 02:47:11
+20-05-07 02:47:16  Net - athe connected 7-5-20 02:47:16
+20-05-07 02:48:46  Net - athe disconnected 7-5-20 02:48:46
+20-05-07 02:49:02  Net - RtP| Shuter connected 7-5-20 02:49:02
+20-05-07 02:49:33  Net - RtP| Shuter disconnected 7-5-20 02:49:33
+20-05-07 02:50:15  Net - ~>PuT'Z<~ GArrucHA connected 7-5-20 02:50:15
+20-05-07 02:54:39  Net - BERSERK connected 7-5-20 02:54:39
+20-05-07 02:54:50  Net - BERSERK disconnected 7-5-20 02:54:50
+20-05-07 02:56:41  Net - Get This disconnected 7-5-20 02:56:41
+20-05-07 02:56:53  Net - O Pombo connected 7-5-20 02:56:53
+20-05-07 02:57:14  Net - nenrdoseila connected 7-5-20 02:57:14
+20-05-07 02:58:18  Net - what?  GUIZA * connected 7-5-20 02:58:18
+20-05-07 02:58:19  Net - O Pombo disconnected 7-5-20 02:58:19
+20-05-07 02:58:46  Net - felipe.juegos88 connected 7-5-20 02:58:46
+20-05-07 03:01:25  Net - Bond connected 7-5-20 03:01:25
+20-05-07 03:01:28  Net - nenrdoseila disconnected 7-5-20 03:01:28
+20-05-07 03:02:13  Net - Gachi-nCoV connected 7-5-20 03:02:13
+20-05-07 03:02:19  Net - Bond disconnected 7-5-20 03:02:19
+20-05-07 03:02:35  Net - Bond connected 7-5-20 03:02:35
+20-05-07 03:03:02  Net - [FuBaLa] FEIJAO disconnected 7-5-20 03:03:02
+20-05-07 03:03:08  Net - ~>PuT'Z<~ GArrucHA disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - |0.$.G| Decadencia. disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - [FuBaLa] Biteko disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - what?  GUIZA * disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - Bond disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - [CHL]Jaramigo disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - felipe.juegos88 disconnected 7-5-20 03:03:08
+20-05-07 03:03:08  Net - Gachi-nCoV disconnected 7-5-20 03:03:08
+20-05-07 03:04:01  Net - TiTi disconnected 7-5-20 03:04:01
+20-05-07 03:15:06 TCP/IP File Server started
+20-05-07 03:33:31  Net - HairBrainedProjects connected 7-5-20 03:33:31
+20-05-07 03:34:43  Net - HairBrainedProjects disconnected 7-5-20 03:34:43
+20-05-07 03:45:06 TCP/IP File Server started
+20-05-07 04:15:06 TCP/IP File Server started
+20-05-07 04:45:06 TCP/IP File Server started
+20-05-07 05:15:06 TCP/IP File Server started
+20-05-07 05:45:06 TCP/IP File Server started
+20-05-07 06:15:06 TCP/IP File Server started
+20-05-07 06:45:06 TCP/IP File Server started
+20-05-07 07:15:06 TCP/IP File Server started
+20-05-07 07:45:06 TCP/IP File Server started
+20-05-07 08:15:06 TCP/IP File Server started
+20-05-07 08:45:06 TCP/IP File Server started
+20-05-07 09:15:06 TCP/IP File Server started
+20-05-07 09:45:06 TCP/IP File Server started
+20-05-07 10:15:06 TCP/IP File Server started
+20-05-07 10:45:06 TCP/IP File Server started
+20-05-07 11:15:06 TCP/IP File Server started
+20-05-07 11:45:06 TCP/IP File Server started
+20-05-07 12:15:06 TCP/IP File Server started
+20-05-07 12:45:06 TCP/IP File Server started
+20-05-07 13:15:06 TCP/IP File Server started
+20-05-07 13:45:06 TCP/IP File Server started
+20-05-07 14:15:06 TCP/IP File Server started
+20-05-07 14:45:06 TCP/IP File Server started
+20-05-07 15:15:06 TCP/IP File Server started
+20-05-07 15:33:44  Net - Toki Andreus connected 7-5-20 15:33:44
+20-05-07 15:35:30  Net - Toki Andreus disconnected 7-5-20 15:35:30
+20-05-07 15:35:58  Net - pichulothar connected 7-5-20 15:35:58
+20-05-07 15:36:13  Net - Toki Andreus connected 7-5-20 15:36:13
+20-05-07 15:36:58  Net - pichulothar disconnected 7-5-20 15:36:58
+20-05-07 15:37:10  Net - WildGun connected 7-5-20 15:37:10
+20-05-07 15:37:14  Net - WildGun disconnected 7-5-20 15:37:14
+20-05-07 15:37:27  Net - Toki Andreus disconnected 7-5-20 15:37:27
+20-05-07 15:45:06 TCP/IP File Server started
+20-05-07 16:15:06 TCP/IP File Server started
+20-05-07 16:45:06 TCP/IP File Server started
+20-05-07 17:15:06 TCP/IP File Server started
+20-05-07 17:45:06 TCP/IP File Server started
+20-05-07 18:15:06 TCP/IP File Server started
+20-05-07 18:45:06 TCP/IP File Server started
+20-05-07 19:15:12 TCP/IP File Server started
+20-05-07 19:45:12 TCP/IP File Server started
+20-05-07 20:15:12 TCP/IP File Server started
+20-05-07 20:45:12 TCP/IP File Server started
+20-05-07 21:15:12 TCP/IP File Server started
+20-05-07 21:45:12 TCP/IP File Server started
+20-05-07 21:51:33  Net - furtadojairo806 connected 7-5-20 21:51:33
+20-05-07 21:52:54  Net - furtadojairo806 disconnected 7-5-20 21:52:54
+20-05-07 22:10:08  Net - |D.Forc3|Gatitos connected 7-5-20 22:10:08
+20-05-07 22:10:35  Net - |D.Forc3|Gatitos disconnected 7-5-20 22:10:35
+20-05-07 22:11:34  Net - |D.Forc3|Gatitos connected 7-5-20 22:11:34
+20-05-07 22:11:37  Net - |D.Forc3|Gatitos disconnected 7-5-20 22:11:37
+20-05-07 22:11:48  Net - |D.Forc3|Gatitos connected 7-5-20 22:11:48
+20-05-07 22:11:58  Net - |D.Forc3|Gatitos disconnected 7-5-20 22:11:58
+20-05-07 22:12:33  Net - |D.Forc3|Gatitos connected 7-5-20 22:12:33
+20-05-07 22:12:42  Net - |D.Forc3|Gatitos connected 7-5-20 22:12:42
+20-05-07 22:13:53  Net - |D.Forc3|Gatitos disconnected 7-5-20 22:13:53
+20-05-07 22:13:58  Net - |D.Forc3|Gatitos connected 7-5-20 22:13:58
+20-05-07 22:14:49  Net - |D.Forc3|Gatitos disconnected 7-5-20 22:14:49
+20-05-07 22:15:12 TCP/IP File Server started
+20-05-07 22:19:49  Net - =|D.4s|= Utena connected 7-5-20 22:19:49
+20-05-07 22:21:58  Net - =|D.4s|= Utena disconnected 7-5-20 22:21:58
+20-05-07 22:45:12 TCP/IP File Server started
+20-05-07 23:15:12 TCP/IP File Server started
+20-05-07 23:45:12 TCP/IP File Server started
+20-05-08 00:08:03  Net - #KbN! VanscL connected 8-5-20 00:08:03
+20-05-08 00:08:07  Net - #KbN! VanscL disconnected 8-5-20 00:08:07
+20-05-08 00:15:12 TCP/IP File Server started
+20-05-08 00:45:12 TCP/IP File Server started
+20-05-08 01:15:12 TCP/IP File Server started
+20-05-08 01:37:27  Net - D z 9 . connected 8-5-20 01:37:27
+20-05-08 01:38:53  Net - TiTi connected 8-5-20 01:38:53
+20-05-08 01:39:22  Net - Kosko connected 8-5-20 01:39:22
+20-05-08 01:43:12  Net - !F. MotA connected 8-5-20 01:43:12
+20-05-08 01:43:13  Net - !F. MotA disconnected 8-5-20 01:43:13
+20-05-08 01:43:14  Net - Toki Andreus connected 8-5-20 01:43:14
+20-05-08 01:43:38  Net - AcQuaZerA connected 8-5-20 01:43:38
+20-05-08 01:43:41  Net - pichulothar connected 8-5-20 01:43:41
+20-05-08 01:45:12 TCP/IP File Server started
+20-05-08 01:45:28  Net - #KbN! VanscL connected 8-5-20 01:45:28
+20-05-08 01:48:16  Net - |0.$.G| Killer_InsT. connected 8-5-20 01:48:16
+20-05-08 01:49:33  Net - |0.$.G| Killer_InsT. disconnected 8-5-20 01:49:33
+20-05-08 01:51:16  Net - Get This connected 8-5-20 01:51:16
+20-05-08 01:53:35  Net - [FuBaLa] Biteko connected 8-5-20 01:53:35
+20-05-08 01:53:48  Net - |0.$.G| Killer_InsT. connected 8-5-20 01:53:48
+20-05-08 01:54:43  Net - Kosko disconnected 8-5-20 01:54:43
+20-05-08 01:55:55  Net - Orange Lipe connected 8-5-20 01:55:55
+20-05-08 01:56:00  Net - Tim connected 8-5-20 01:56:00
+20-05-08 01:56:10  Net - doguinha tudo 2 connected 8-5-20 01:56:10
+20-05-08 01:56:49  Net - Keokuk connected 8-5-20 01:56:49
+20-05-08 01:57:07  Net - Tehubersheezy connected 8-5-20 01:57:07
+20-05-08 01:57:11  Net - Tim disconnected 8-5-20 01:57:11
+20-05-08 01:57:32  Net - Major connected 8-5-20 01:57:32
+20-05-08 01:57:43  Net - Keokuk disconnected 8-5-20 01:57:43
+20-05-08 01:58:54  Net - Dambros connected 8-5-20 01:58:54
+20-05-08 01:58:58  Net - doguinha tudo 2 disconnected 8-5-20 01:58:58
+20-05-08 01:59:06  Net - anonimous.exe connected 8-5-20 01:59:06
+20-05-08 01:59:20  Net - Tehubersheezy disconnected 8-5-20 01:59:20
+20-05-08 01:59:36  Net - Keokuk connected 8-5-20 01:59:36
+20-05-08 02:00:52  Net - Corman0 connected 8-5-20 02:00:52
+20-05-08 02:00:54  Net - Corman0 disconnected 8-5-20 02:00:54
+20-05-08 02:01:04  Net - Corman0 connected 8-5-20 02:01:04
+20-05-08 02:01:28  Net - Corman0 disconnected 8-5-20 02:01:28
+20-05-08 02:01:48  Net - CARTERO connected 8-5-20 02:01:48
+20-05-08 02:01:48  Net - later CrasheR connected 8-5-20 02:01:48
+20-05-08 02:02:33  Net - pichulothar disconnected 8-5-20 02:02:33
+20-05-08 02:02:36  Net - CARTERO disconnected 8-5-20 02:02:36
+20-05-08 02:02:38  Net - Blodhren connected 8-5-20 02:02:38
+20-05-08 02:02:42  Net - later CrasheR disconnected 8-5-20 02:02:42
+20-05-08 02:02:43  Net - later CrasheR connected 8-5-20 02:02:43
+20-05-08 02:02:44  Net - Toki Andreus disconnected 8-5-20 02:02:44
+20-05-08 02:02:47  Net - anonimous.exe disconnected 8-5-20 02:02:47
+20-05-08 02:03:23  Net - Shirocornio connected 8-5-20 02:03:23
+20-05-08 02:04:06  Net - Train of Friendship xd connected 8-5-20 02:04:06
+20-05-08 02:04:12  Net - Train of Friendship xd connected 8-5-20 02:04:12
+20-05-08 02:04:16  Net - Train of Friendship xd connected 8-5-20 02:04:16
+20-05-08 02:04:46  Net - Shirocornio disconnected 8-5-20 02:04:46
+20-05-08 02:04:54  Net - Train of Friendship xd disconnected 8-5-20 02:04:54
+20-05-08 02:04:59  Net - Major disconnected 8-5-20 02:04:59
+20-05-08 02:05:17  Net - Dambros connected 8-5-20 02:05:17
+20-05-08 02:05:54  Net - Dambros disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - later CrasheR disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - D z 9 . disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - |0.$.G| Killer_InsT. disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - [FuBaLa] Biteko disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - AcQuaZerA disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - Get This disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - Orange Lipe disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - Keokuk disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - Blodhren disconnected 8-5-20 02:05:54
+20-05-08 02:05:54  Net - #KbN! VanscL disconnected 8-5-20 02:05:54
+20-05-08 02:06:02  Net - Get This connected 8-5-20 02:06:02
+20-05-08 02:06:06  Net - AcQuaZerA connected 8-5-20 02:06:06
+20-05-08 02:06:07  Net - Blodhren connected 8-5-20 02:06:07
+20-05-08 02:06:07  Net - Keokuk connected 8-5-20 02:06:07
+20-05-08 02:06:08  Net - Dambros connected 8-5-20 02:06:08
+20-05-08 02:06:08  Net - Fly connected 8-5-20 02:06:08
+20-05-08 02:06:11  Net - Blodhren connected 8-5-20 02:06:11
+20-05-08 02:06:21  Net - [FuBaLa] Biteko connected 8-5-20 02:06:21
+20-05-08 02:06:38  Net - kellsws6 connected 8-5-20 02:06:38
+20-05-08 02:06:41  Net - Blodhren connected 8-5-20 02:06:41
+20-05-08 02:06:41  Net - later CrasheR connected 8-5-20 02:06:41
+20-05-08 02:06:42  Net - Blodhren connected 8-5-20 02:06:42
+20-05-08 02:07:29  Net - the bot 1 :v connected 8-5-20 02:07:29
+20-05-08 02:08:02  Net - kellsws6 disconnected 8-5-20 02:08:02
+20-05-08 02:08:08  Net - Fly disconnected 8-5-20 02:08:08
+20-05-08 02:08:12  Net - Fly connected 8-5-20 02:08:12
+20-05-08 02:08:42  Net - Dambros disconnected 8-5-20 02:08:42
+20-05-08 02:09:51  Net - [FuBaLa] Biteko connected 8-5-20 02:09:51
+20-05-08 02:11:09  Net - [FuBaLa] FEIJAO connected 8-5-20 02:11:09
+20-05-08 02:11:22  Net - [FuBaLa] FEIJAO disconnected 8-5-20 02:11:22
+20-05-08 02:11:39  Net - Rav connected 8-5-20 02:11:39
+20-05-08 02:12:21  Net - [FuBaLa] FEIJAO connected 8-5-20 02:12:21
+20-05-08 02:12:37  Net - [FuBaLa] FEIJAO disconnected 8-5-20 02:12:37
+20-05-08 02:14:33  Net - [FuBaLa] FEIJAO connected 8-5-20 02:14:33
+20-05-08 02:14:36  Net - [FuBaLa] FEIJAO disconnected 8-5-20 02:14:36
+20-05-08 02:14:44  Net - Factory connected 8-5-20 02:14:44
+20-05-08 02:14:49  Net - [FuBaLa] FEIJAO connected 8-5-20 02:14:49
+20-05-08 02:15:12 TCP/IP File Server started
+20-05-08 02:16:12  Net - TiTi disconnected 8-5-20 02:16:12
+20-05-08 02:16:35  Net - [FuBaLa] Biteko connected 8-5-20 02:16:35
+20-05-08 02:16:52  Net - the bot 1 :v connected 8-5-20 02:16:52
+20-05-08 02:16:52  Net - Tier connected 8-5-20 02:16:52
+20-05-08 02:17:13  Net - Major connected 8-5-20 02:17:13
+20-05-08 02:18:25  Net - Major disconnected 8-5-20 02:18:25
+20-05-08 02:19:41  Net - Tier disconnected 8-5-20 02:19:41
+20-05-08 02:19:55  Net - Rav connected 8-5-20 02:19:55
+20-05-08 02:21:39  Net - Tier connected 8-5-20 02:21:39
+20-05-08 02:22:34  Net - the bot 1 :v disconnected 8-5-20 02:22:34
+20-05-08 02:23:36  Net - joseluisgamer12 connected 8-5-20 02:23:36
+20-05-08 02:23:49  Net - later CrasheR disconnected 8-5-20 02:23:49
+20-05-08 02:24:09  Net - anonimous.exe connected 8-5-20 02:24:09
+20-05-08 02:24:19  Net - Shirocornio connected 8-5-20 02:24:19
+20-05-08 02:24:29  Net - `Shmurda connected 8-5-20 02:24:29
+20-05-08 02:24:32  Net - Tier disconnected 8-5-20 02:24:32
+20-05-08 02:24:44  Net - anonimous.exe disconnected 8-5-20 02:24:44
+20-05-08 02:25:32  Net - joseluisgamer12 disconnected 8-5-20 02:25:32
+20-05-08 02:25:32  Net - Shirocornio disconnected 8-5-20 02:25:32
+20-05-08 02:26:20  Net - Keokuk disconnected 8-5-20 02:26:20
+20-05-08 02:27:42  Net - Fly disconnected 8-5-20 02:27:42
+20-05-08 02:29:51  Net - Rav connected 8-5-20 02:29:51
+20-05-08 02:32:19  Net - Factory disconnected 8-5-20 02:32:19
+20-05-08 02:33:56  Net - `Shmurda disconnected 8-5-20 02:33:56
+20-05-08 02:35:54  Net - Blodhren disconnected 8-5-20 02:35:54
+20-05-08 02:36:16  Net - AcQuaZerA disconnected 8-5-20 02:36:16
+20-05-08 02:36:16  Net - [FuBaLa] Biteko disconnected 8-5-20 02:36:16
+20-05-08 02:36:16  Net - [FuBaLa] FEIJAO disconnected 8-5-20 02:36:16
+20-05-08 02:36:16  Net - Butt Her Nut connected 8-5-20 02:36:16
+20-05-08 02:36:19  Net - Butt Her Nut disconnected 8-5-20 02:36:19
+20-05-08 02:36:56  Net - Rav disconnected 8-5-20 02:36:56
+20-05-08 02:38:13  Net - Get This disconnected 8-5-20 02:38:13
+20-05-08 02:45:12 TCP/IP File Server started
+20-05-08 03:04:49  Net - [FuBaLa] FEIJAO connected 8-5-20 03:04:49
+20-05-08 03:06:58  Net - [FuBaLa] Biteko connected 8-5-20 03:06:58
+20-05-08 03:10:45  Net - [FuBaLa] FEIJAO disconnected 8-5-20 03:10:45
+20-05-08 03:10:59  Net - VanscL connected 8-5-20 03:10:59
+20-05-08 03:12:01  Net - [FuBaLa] Biteko disconnected 8-5-20 03:12:01
+20-05-08 03:12:06  Net - VanscL disconnected 8-5-20 03:12:06
+20-05-08 03:12:44  Net - [FuBaLa] FEIJAO connected 8-5-20 03:12:44
+20-05-08 03:12:45  Net - [FuBaLa] Biteko connected 8-5-20 03:12:45
+20-05-08 03:15:12 TCP/IP File Server started
+20-05-08 03:19:02  Net - 2 connected 8-5-20 03:19:02
+20-05-08 03:20:15  Net - 2 disconnected 8-5-20 03:20:15
+20-05-08 03:22:13  Net - chub0 connected 8-5-20 03:22:13
+20-05-08 03:23:35  Net - dash.cl connected 8-5-20 03:23:35
+20-05-08 03:23:43  Net - [FuBaLa] FEIJAO connected 8-5-20 03:23:43
+20-05-08 03:23:45  Net - Warlock connected 8-5-20 03:23:45
+20-05-08 03:29:06  Net - PedroBoh connected 8-5-20 03:29:06
+20-05-08 03:31:39  Net - Majorly Unique connected 8-5-20 03:31:39
+20-05-08 03:31:57  Net - >Bio< PoLoPLaY.~ connected 8-5-20 03:31:57
+20-05-08 03:32:51  Net - Majorly Unique disconnected 8-5-20 03:32:51
+20-05-08 03:34:11  Net - >Bio< PoLoPLaY.~ disconnected 8-5-20 03:34:11
+20-05-08 03:35:25  Net - mbappe te coje connected 8-5-20 03:35:25
+20-05-08 03:35:27  Net - Rayador Gimenez connected 8-5-20 03:35:27
+20-05-08 03:37:21  Net - Zero connected 8-5-20 03:37:21
+20-05-08 03:37:59  Net - chub0 disconnected 8-5-20 03:37:59
+20-05-08 03:38:21  Net - Zero disconnected 8-5-20 03:38:21
+20-05-08 03:38:26  Net - [FuBaLa] Biteko connected 8-5-20 03:38:26
+20-05-08 03:41:22  Net - loki connected 8-5-20 03:41:22
+20-05-08 03:44:49  Net - loki disconnected 8-5-20 03:44:49
+20-05-08 03:45:12 TCP/IP File Server started
+20-05-08 03:47:14  Net - =tNt=~MegadetH~ connected 8-5-20 03:47:14
+20-05-08 03:47:27  Net - =tNt=~MegadetH~ connected 8-5-20 03:47:27
+20-05-08 03:48:58  Net - doguinha tudo 2 connected 8-5-20 03:48:58
+20-05-08 03:52:51  Net - doguinha tudo 2 disconnected 8-5-20 03:52:51
+20-05-08 03:55:26  Net - CORONA connected 8-5-20 03:55:26
+20-05-08 03:55:33  Net - CORONA connected 8-5-20 03:55:33
+20-05-08 03:56:53  Net - CORONA disconnected 8-5-20 03:56:53
+20-05-08 03:57:10  Net - [O.S.O] TULON* connected 8-5-20 03:57:10
+20-05-08 03:57:38  Net - Link connected 8-5-20 03:57:38
+20-05-08 03:58:42  Net - `Shmurda connected 8-5-20 03:58:42
+20-05-08 03:59:10  Net - sad connected 8-5-20 03:59:10
+20-05-08 03:59:34  Net - [O.S.O] TULON* disconnected 8-5-20 03:59:34
+20-05-08 03:59:46  Net - PedroBoh disconnected 8-5-20 03:59:46
+20-05-08 04:00:05  Net - Mrcool429 connected 8-5-20 04:00:05
+20-05-08 04:00:07  Net - kellsws6 connected 8-5-20 04:00:07

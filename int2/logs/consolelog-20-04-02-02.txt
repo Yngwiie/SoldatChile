@@ -1,0 +1,3162 @@
+20-04-02 00:55:19    Console Log Started
+20-04-02 00:55:20 Welcome to Soldat 1.7.1
+20-04-02 00:55:20  [*] Preparing scripts to be launched
+20-04-02 00:55:20  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-04-02 00:55:20  [*] commands_by_keen compiled
+20-04-02 00:55:20  [*] Compiling match -> match.pas...
+20-04-02 00:55:20  [*] match compiled
+20-04-02 00:55:20  [*] Done
+20-04-02 00:55:20 ctf_Ash by chakapoko maker
+20-04-02 00:55:20 Loaded weapons mod "Default v1.8"
+20-04-02 00:55:20  Connection for file server started. Port: 23110
+20-04-02 00:55:20 Registering server @ 88.99.234.252
+20-04-02 00:56:00 Admin connected (168.196.201.165).
+20-04-02 00:56:00 /friendlyfire (168.196.201.165)
+20-04-02 00:56:00 Friendly Fire is 0
+20-04-02 00:56:00 /bonus (168.196.201.165)
+20-04-02 00:56:00 Current bonus frequency is 1
+20-04-02 00:56:00 /vote% (168.196.201.165)
+20-04-02 00:56:00 Voting percent is 60
+20-04-02 00:56:00 /respawntime (168.196.201.165)
+20-04-02 00:56:00 Respawn time is 3 seconds
+20-04-02 00:56:00 /maxrespawntime (168.196.201.165)
+20-04-02 00:56:00 Maximum Respawn time is 5 seconds
+20-04-02 00:57:16 /banip 190.183.193.63 (168.196.201.165)
+20-04-02 00:57:16 IP number 190.183.193.63 banned
+20-04-02 00:57:33 /banip 190.183.193.63:14643 (168.196.201.165)
+20-04-02 00:57:33 IP number 190.183.193.63:14643 banned
+20-04-02 00:57:53 /banip 190.183.193.145 (168.196.201.165)
+20-04-02 00:57:53 IP number 190.183.193.145 banned
+20-04-02 00:58:08 /banip 190.183.193.145:63841 (168.196.201.165)
+20-04-02 00:58:08 IP number 190.183.193.145:63841 banned
+20-04-02 00:58:34 /banhw 3097693FBBF (168.196.201.165)
+20-04-02 00:58:34 HWID 3097693FBBF banned
+20-04-02 00:58:58 Admin disconnected (168.196.201.165).
+20-04-02 01:00:20 Time Left: 5 minutes
+20-04-02 01:01:20 Time Left: 4 minutes
+20-04-02 01:02:20 Time Left: 3 minutes
+20-04-02 01:03:20 Time Left: 2 minutes
+20-04-02 01:04:20 Time Left: 1 minutes
+20-04-02 01:05:20 Next map: ctf_B2b
+20-04-02 01:05:25 B2B
+20-04-02 01:10:25 Time Left: 5 minutes
+20-04-02 01:11:25 Time Left: 4 minutes
+20-04-02 01:12:25 Time Left: 3 minutes
+20-04-02 01:13:25 Time Left: 2 minutes
+20-04-02 01:14:25 Time Left: 1 minutes
+20-04-02 01:15:25 Next map: ctf_Blade
+20-04-02 01:15:30 Blade by Zakath
+20-04-02 01:20:30 Time Left: 5 minutes
+20-04-02 01:21:30 Time Left: 4 minutes
+20-04-02 01:22:30 Time Left: 3 minutes
+20-04-02 01:23:30 Time Left: 2 minutes
+20-04-02 01:24:30 Time Left: 1 minutes
+20-04-02 01:25:30 Next map: ctf_Viet
+20-04-02 01:25:36 Viet
+20-04-02 01:30:36 Time Left: 5 minutes
+20-04-02 01:31:36 Time Left: 4 minutes
+20-04-02 01:32:36 Time Left: 3 minutes
+20-04-02 01:33:36 Time Left: 2 minutes
+20-04-02 01:34:36 Time Left: 1 minutes
+20-04-02 01:35:36 Next map: ctf_Division
+20-04-02 01:35:41 Division by Boxo, KC, viral
+20-04-02 01:40:41 Time Left: 5 minutes
+20-04-02 01:41:41 Time Left: 4 minutes
+20-04-02 01:42:41 Time Left: 3 minutes
+20-04-02 01:43:41 Time Left: 2 minutes
+20-04-02 01:44:41 Time Left: 1 minutes
+20-04-02 01:45:28 190.101.172.91:23073|3D179A615C8 requesting game...
+20-04-02 01:45:41 Next map: ctf_Death
+20-04-02 01:45:46 Death by MM, g_d. Boxo, mtk`
+20-04-02 01:50:46 Time Left: 5 minutes
+20-04-02 01:51:46 Time Left: 4 minutes
+20-04-02 01:52:46 Time Left: 3 minutes
+20-04-02 01:53:46 Time Left: 2 minutes
+20-04-02 01:54:46 Time Left: 1 minutes
+20-04-02 01:55:46 Next map: ctf_Hormone
+20-04-02 01:55:52 Hormone by Metsänaperot
+20-04-02 02:00:52 Time Left: 5 minutes
+20-04-02 02:01:52 Time Left: 4 minutes
+20-04-02 02:02:52 Time Left: 3 minutes
+20-04-02 02:03:52 Time Left: 2 minutes
+20-04-02 02:04:52 Time Left: 1 minutes
+20-04-02 02:05:52 Next map: ctf_Laos
+20-04-02 02:05:57 Laos
+20-04-02 02:10:57 Time Left: 5 minutes
+20-04-02 02:11:57 Time Left: 4 minutes
+20-04-02 02:12:57 Time Left: 3 minutes
+20-04-02 02:13:57 Time Left: 2 minutes
+20-04-02 02:14:57 Time Left: 1 minutes
+20-04-02 02:15:57 Next map: ctf_Laos2
+20-04-02 02:16:02 Laos
+20-04-02 02:21:02 Time Left: 5 minutes
+20-04-02 02:22:02 Time Left: 4 minutes
+20-04-02 02:23:02 Time Left: 3 minutes
+20-04-02 02:24:02 Time Left: 2 minutes
+20-04-02 02:25:02 Time Left: 1 minutes
+20-04-02 02:26:02 Next map: ctf_Maya
+20-04-02 02:26:08 Maya
+20-04-02 02:31:08 Time Left: 5 minutes
+20-04-02 02:32:08 Time Left: 4 minutes
+20-04-02 02:33:08 Time Left: 3 minutes
+20-04-02 02:34:08 Time Left: 2 minutes
+20-04-02 02:35:08 Time Left: 1 minutes
+20-04-02 02:36:08 Next map: ctf_MFM
+20-04-02 02:36:13 MFM 2 by mar77a
+20-04-02 02:41:13 Time Left: 5 minutes
+20-04-02 02:42:13 Time Left: 4 minutes
+20-04-02 02:43:13 Time Left: 3 minutes
+20-04-02 02:44:13 Time Left: 2 minutes
+20-04-02 02:45:13 Time Left: 1 minutes
+20-04-02 02:46:13 Next map: ctf_Run
+20-04-02 02:46:18 Run
+20-04-02 02:51:18 Time Left: 5 minutes
+20-04-02 02:52:18 Time Left: 4 minutes
+20-04-02 02:53:18 Time Left: 3 minutes
+20-04-02 02:54:18 Time Left: 2 minutes
+20-04-02 02:55:18 Time Left: 1 minutes
+20-04-02 02:56:18 Next map: ctf_OldRun
+20-04-02 02:56:24 Run (get to the flag!)
+20-04-02 03:01:24 Time Left: 5 minutes
+20-04-02 03:02:24 Time Left: 4 minutes
+20-04-02 03:03:24 Time Left: 3 minutes
+20-04-02 03:04:24 Time Left: 2 minutes
+20-04-02 03:05:24 Time Left: 1 minutes
+20-04-02 03:06:24 Next map: ctf_Ash
+20-04-02 03:06:29 ctf_Ash by chakapoko maker
+20-04-02 03:11:29 Time Left: 5 minutes
+20-04-02 03:12:29 Time Left: 4 minutes
+20-04-02 03:13:29 Time Left: 3 minutes
+20-04-02 03:14:29 Time Left: 2 minutes
+20-04-02 03:15:29 Time Left: 1 minutes
+20-04-02 03:16:29 Next map: ctf_B2b
+20-04-02 03:16:34 B2B
+20-04-02 03:21:34 Time Left: 5 minutes
+20-04-02 03:22:34 Time Left: 4 minutes
+20-04-02 03:23:34 Time Left: 3 minutes
+20-04-02 03:24:34 Time Left: 2 minutes
+20-04-02 03:25:34 Time Left: 1 minutes
+20-04-02 03:26:34 Next map: ctf_Blade
+20-04-02 03:26:40 Blade by Zakath
+20-04-02 03:31:40 Time Left: 5 minutes
+20-04-02 03:32:40 Time Left: 4 minutes
+20-04-02 03:33:40 Time Left: 3 minutes
+20-04-02 03:34:40 Time Left: 2 minutes
+20-04-02 03:35:40 Time Left: 1 minutes
+20-04-02 03:36:40 Next map: ctf_Viet
+20-04-02 03:36:45 Viet
+20-04-02 03:41:45 Time Left: 5 minutes
+20-04-02 03:42:45 Time Left: 4 minutes
+20-04-02 03:43:45 Time Left: 3 minutes
+20-04-02 03:44:45 Time Left: 2 minutes
+20-04-02 03:45:45 Time Left: 1 minutes
+20-04-02 03:46:45 Next map: ctf_Division
+20-04-02 03:46:50 Division by Boxo, KC, viral
+20-04-02 03:51:50 Time Left: 5 minutes
+20-04-02 03:52:50 Time Left: 4 minutes
+20-04-02 03:53:50 Time Left: 3 minutes
+20-04-02 03:54:50 Time Left: 2 minutes
+20-04-02 03:55:50 Time Left: 1 minutes
+20-04-02 03:56:50 Next map: ctf_Death
+20-04-02 03:56:56 Death by MM, g_d. Boxo, mtk`
+20-04-02 04:01:56 Time Left: 5 minutes
+20-04-02 04:02:56 Time Left: 4 minutes
+20-04-02 04:03:56 Time Left: 3 minutes
+20-04-02 04:04:56 Time Left: 2 minutes
+20-04-02 04:05:56 Time Left: 1 minutes
+20-04-02 04:06:56 Next map: ctf_Hormone
+20-04-02 04:07:01 Hormone by Metsänaperot
+20-04-02 04:12:01 Time Left: 5 minutes
+20-04-02 04:13:01 Time Left: 4 minutes
+20-04-02 04:14:01 Time Left: 3 minutes
+20-04-02 04:15:01 Time Left: 2 minutes
+20-04-02 04:16:01 Time Left: 1 minutes
+20-04-02 04:17:01 Next map: ctf_Laos
+20-04-02 04:17:06 Laos
+20-04-02 04:22:06 Time Left: 5 minutes
+20-04-02 04:23:06 Time Left: 4 minutes
+20-04-02 04:24:06 Time Left: 3 minutes
+20-04-02 04:25:06 Time Left: 2 minutes
+20-04-02 04:26:06 Time Left: 1 minutes
+20-04-02 04:27:06 Next map: ctf_Laos2
+20-04-02 04:27:12 Laos
+20-04-02 04:32:11 Time Left: 5 minutes
+20-04-02 04:33:11 Time Left: 4 minutes
+20-04-02 04:34:11 Time Left: 3 minutes
+20-04-02 04:35:11 Time Left: 2 minutes
+20-04-02 04:36:11 Time Left: 1 minutes
+20-04-02 04:37:11 Next map: ctf_Maya
+20-04-02 04:37:17 Maya
+20-04-02 04:42:17 Time Left: 5 minutes
+20-04-02 04:43:17 Time Left: 4 minutes
+20-04-02 04:44:17 Time Left: 3 minutes
+20-04-02 04:45:17 Time Left: 2 minutes
+20-04-02 04:46:17 Time Left: 1 minutes
+20-04-02 04:47:17 Next map: ctf_MFM
+20-04-02 04:47:22 MFM 2 by mar77a
+20-04-02 04:52:22 Time Left: 5 minutes
+20-04-02 04:53:22 Time Left: 4 minutes
+20-04-02 04:54:22 Time Left: 3 minutes
+20-04-02 04:55:22 Time Left: 2 minutes
+20-04-02 04:56:22 Time Left: 1 minutes
+20-04-02 04:57:22 Next map: ctf_Run
+20-04-02 04:57:27 Run
+20-04-02 05:02:27 Time Left: 5 minutes
+20-04-02 05:03:27 Time Left: 4 minutes
+20-04-02 05:04:27 Time Left: 3 minutes
+20-04-02 05:05:27 Time Left: 2 minutes
+20-04-02 05:06:27 Time Left: 1 minutes
+20-04-02 05:07:27 Next map: ctf_OldRun
+20-04-02 05:07:33 Run (get to the flag!)
+20-04-02 05:12:33 Time Left: 5 minutes
+20-04-02 05:13:33 Time Left: 4 minutes
+20-04-02 05:14:33 Time Left: 3 minutes
+20-04-02 05:15:33 Time Left: 2 minutes
+20-04-02 05:16:33 Time Left: 1 minutes
+20-04-02 05:17:33 Next map: ctf_Ash
+20-04-02 05:17:38 ctf_Ash by chakapoko maker
+20-04-02 05:22:38 Time Left: 5 minutes
+20-04-02 05:23:38 Time Left: 4 minutes
+20-04-02 05:24:38 Time Left: 3 minutes
+20-04-02 05:25:38 Time Left: 2 minutes
+20-04-02 05:26:38 Time Left: 1 minutes
+20-04-02 05:27:38 Next map: ctf_B2b
+20-04-02 05:27:43 B2B
+20-04-02 05:32:43 Time Left: 5 minutes
+20-04-02 05:33:43 Time Left: 4 minutes
+20-04-02 05:34:43 Time Left: 3 minutes
+20-04-02 05:35:43 Time Left: 2 minutes
+20-04-02 05:36:43 Time Left: 1 minutes
+20-04-02 05:37:43 Next map: ctf_Blade
+20-04-02 05:37:49 Blade by Zakath
+20-04-02 05:42:49 Time Left: 5 minutes
+20-04-02 05:43:49 Time Left: 4 minutes
+20-04-02 05:44:49 Time Left: 3 minutes
+20-04-02 05:45:49 Time Left: 2 minutes
+20-04-02 05:46:49 Time Left: 1 minutes
+20-04-02 05:47:49 Next map: ctf_Viet
+20-04-02 05:47:54 Viet
+20-04-02 05:52:54 Time Left: 5 minutes
+20-04-02 05:53:54 Time Left: 4 minutes
+20-04-02 05:54:54 Time Left: 3 minutes
+20-04-02 05:55:54 Time Left: 2 minutes
+20-04-02 05:56:54 Time Left: 1 minutes
+20-04-02 05:57:54 Next map: ctf_Division
+20-04-02 05:57:59 Division by Boxo, KC, viral
+20-04-02 06:02:59 Time Left: 5 minutes
+20-04-02 06:03:59 Time Left: 4 minutes
+20-04-02 06:04:59 Time Left: 3 minutes
+20-04-02 06:05:59 Time Left: 2 minutes
+20-04-02 06:06:59 Time Left: 1 minutes
+20-04-02 06:07:59 Next map: ctf_Death
+20-04-02 06:08:05 Death by MM, g_d. Boxo, mtk`
+20-04-02 06:13:05 Time Left: 5 minutes
+20-04-02 06:14:05 Time Left: 4 minutes
+20-04-02 06:15:05 Time Left: 3 minutes
+20-04-02 06:16:05 Time Left: 2 minutes
+20-04-02 06:17:05 Time Left: 1 minutes
+20-04-02 06:18:05 Next map: ctf_Hormone
+20-04-02 06:18:10 Hormone by Metsänaperot
+20-04-02 06:23:10 Time Left: 5 minutes
+20-04-02 06:24:10 Time Left: 4 minutes
+20-04-02 06:25:10 Time Left: 3 minutes
+20-04-02 06:26:10 Time Left: 2 minutes
+20-04-02 06:27:10 Time Left: 1 minutes
+20-04-02 06:28:10 Next map: ctf_Laos
+20-04-02 06:28:15 Laos
+20-04-02 06:33:15 Time Left: 5 minutes
+20-04-02 06:34:15 Time Left: 4 minutes
+20-04-02 06:35:15 Time Left: 3 minutes
+20-04-02 06:36:15 Time Left: 2 minutes
+20-04-02 06:37:15 Time Left: 1 minutes
+20-04-02 06:38:15 Next map: ctf_Laos2
+20-04-02 06:38:21 Laos
+20-04-02 06:43:21 Time Left: 5 minutes
+20-04-02 06:44:21 Time Left: 4 minutes
+20-04-02 06:45:21 Time Left: 3 minutes
+20-04-02 06:46:21 Time Left: 2 minutes
+20-04-02 06:47:21 Time Left: 1 minutes
+20-04-02 06:48:21 Next map: ctf_Maya
+20-04-02 06:48:26 Maya
+20-04-02 06:53:26 Time Left: 5 minutes
+20-04-02 06:54:26 Time Left: 4 minutes
+20-04-02 06:55:26 Time Left: 3 minutes
+20-04-02 06:56:26 Time Left: 2 minutes
+20-04-02 06:57:26 Time Left: 1 minutes
+20-04-02 06:58:26 Next map: ctf_MFM
+20-04-02 06:58:31 MFM 2 by mar77a
+20-04-02 07:03:31 Time Left: 5 minutes
+20-04-02 07:04:31 Time Left: 4 minutes
+20-04-02 07:05:31 Time Left: 3 minutes
+20-04-02 07:06:31 Time Left: 2 minutes
+20-04-02 07:07:31 Time Left: 1 minutes
+20-04-02 07:08:31 Next map: ctf_Run
+20-04-02 07:08:37 Run
+20-04-02 07:13:37 Time Left: 5 minutes
+20-04-02 07:14:37 Time Left: 4 minutes
+20-04-02 07:15:37 Time Left: 3 minutes
+20-04-02 07:16:37 Time Left: 2 minutes
+20-04-02 07:17:37 Time Left: 1 minutes
+20-04-02 07:18:37 Next map: ctf_OldRun
+20-04-02 07:18:42 Run (get to the flag!)
+20-04-02 07:23:42 Time Left: 5 minutes
+20-04-02 07:24:42 Time Left: 4 minutes
+20-04-02 07:25:42 Time Left: 3 minutes
+20-04-02 07:26:42 Time Left: 2 minutes
+20-04-02 07:27:42 Time Left: 1 minutes
+20-04-02 07:28:42 Next map: ctf_Ash
+20-04-02 07:28:47 ctf_Ash by chakapoko maker
+20-04-02 07:33:47 Time Left: 5 minutes
+20-04-02 07:34:47 Time Left: 4 minutes
+20-04-02 07:35:47 Time Left: 3 minutes
+20-04-02 07:36:47 Time Left: 2 minutes
+20-04-02 07:37:47 Time Left: 1 minutes
+20-04-02 07:38:47 Next map: ctf_B2b
+20-04-02 07:38:53 B2B
+20-04-02 07:43:53 Time Left: 5 minutes
+20-04-02 07:44:53 Time Left: 4 minutes
+20-04-02 07:45:53 Time Left: 3 minutes
+20-04-02 07:45:53 109.252.71.40:8992|5B771599A5A requesting game...
+20-04-02 07:46:53 Time Left: 2 minutes
+20-04-02 07:47:53 Time Left: 1 minutes
+20-04-02 07:48:52 Next map: ctf_Blade
+20-04-02 07:48:58 Blade by Zakath
+20-04-02 07:52:49 109.252.71.40:15169|72EF63DBB5C requesting game...
+20-04-02 07:52:57 109.252.71.40:15169|72EF63DBB5C requesting game...
+20-04-02 07:52:58 109.252.71.40:15169|72EF63DBB5C requesting game...
+20-04-02 07:53:58 Time Left: 5 minutes
+20-04-02 07:54:58 Time Left: 4 minutes
+20-04-02 07:55:58 Time Left: 3 minutes
+20-04-02 07:56:58 Time Left: 2 minutes
+20-04-02 07:57:58 Time Left: 1 minutes
+20-04-02 07:58:58 Next map: ctf_Viet
+20-04-02 07:59:03 Viet
+20-04-02 08:04:03 Time Left: 5 minutes
+20-04-02 08:05:03 Time Left: 4 minutes
+20-04-02 08:06:03 Time Left: 3 minutes
+20-04-02 08:07:03 Time Left: 2 minutes
+20-04-02 08:08:03 Time Left: 1 minutes
+20-04-02 08:09:03 Next map: ctf_Division
+20-04-02 08:09:08 Division by Boxo, KC, viral
+20-04-02 08:14:08 Time Left: 5 minutes
+20-04-02 08:15:08 Time Left: 4 minutes
+20-04-02 08:16:08 Time Left: 3 minutes
+20-04-02 08:17:08 Time Left: 2 minutes
+20-04-02 08:18:08 Time Left: 1 minutes
+20-04-02 08:19:08 Next map: ctf_Death
+20-04-02 08:19:14 Death by MM, g_d. Boxo, mtk`
+20-04-02 08:24:14 Time Left: 5 minutes
+20-04-02 08:25:14 Time Left: 4 minutes
+20-04-02 08:26:14 Time Left: 3 minutes
+20-04-02 08:27:14 Time Left: 2 minutes
+20-04-02 08:28:14 Time Left: 1 minutes
+20-04-02 08:29:14 Next map: ctf_Hormone
+20-04-02 08:29:19 Hormone by Metsänaperot
+20-04-02 08:34:19 Time Left: 5 minutes
+20-04-02 08:35:19 Time Left: 4 minutes
+20-04-02 08:36:19 Time Left: 3 minutes
+20-04-02 08:37:19 Time Left: 2 minutes
+20-04-02 08:38:19 Time Left: 1 minutes
+20-04-02 08:39:19 Next map: ctf_Laos
+20-04-02 08:39:24 Laos
+20-04-02 08:44:24 Time Left: 5 minutes
+20-04-02 08:45:24 Time Left: 4 minutes
+20-04-02 08:46:24 Time Left: 3 minutes
+20-04-02 08:47:24 Time Left: 2 minutes
+20-04-02 08:48:24 Time Left: 1 minutes
+20-04-02 08:49:24 Next map: ctf_Laos2
+20-04-02 08:49:30 Laos
+20-04-02 08:54:30 Time Left: 5 minutes
+20-04-02 08:55:30 Time Left: 4 minutes
+20-04-02 08:56:30 Time Left: 3 minutes
+20-04-02 08:57:30 Time Left: 2 minutes
+20-04-02 08:58:30 Time Left: 1 minutes
+20-04-02 08:59:30 Next map: ctf_Maya
+20-04-02 08:59:35 Maya
+20-04-02 09:04:35 Time Left: 5 minutes
+20-04-02 09:05:35 Time Left: 4 minutes
+20-04-02 09:06:35 Time Left: 3 minutes
+20-04-02 09:07:35 Time Left: 2 minutes
+20-04-02 09:08:35 Time Left: 1 minutes
+20-04-02 09:09:35 Next map: ctf_MFM
+20-04-02 09:09:40 MFM 2 by mar77a
+20-04-02 09:14:40 Time Left: 5 minutes
+20-04-02 09:15:40 Time Left: 4 minutes
+20-04-02 09:16:40 Time Left: 3 minutes
+20-04-02 09:17:40 Time Left: 2 minutes
+20-04-02 09:18:40 Time Left: 1 minutes
+20-04-02 09:19:40 Next map: ctf_Run
+20-04-02 09:19:46 Run
+20-04-02 09:24:46 Time Left: 5 minutes
+20-04-02 09:25:46 Time Left: 4 minutes
+20-04-02 09:26:46 Time Left: 3 minutes
+20-04-02 09:27:46 Time Left: 2 minutes
+20-04-02 09:28:46 Time Left: 1 minutes
+20-04-02 09:29:46 Next map: ctf_OldRun
+20-04-02 09:29:51 Run (get to the flag!)
+20-04-02 09:34:51 Time Left: 5 minutes
+20-04-02 09:35:51 Time Left: 4 minutes
+20-04-02 09:36:51 Time Left: 3 minutes
+20-04-02 09:37:51 Time Left: 2 minutes
+20-04-02 09:38:51 Time Left: 1 minutes
+20-04-02 09:39:51 Next map: ctf_Ash
+20-04-02 09:39:56 ctf_Ash by chakapoko maker
+20-04-02 09:44:56 Time Left: 5 minutes
+20-04-02 09:45:56 Time Left: 4 minutes
+20-04-02 09:46:56 Time Left: 3 minutes
+20-04-02 09:47:56 Time Left: 2 minutes
+20-04-02 09:48:56 Time Left: 1 minutes
+20-04-02 09:49:56 Next map: ctf_B2b
+20-04-02 09:50:02 B2B
+20-04-02 09:55:02 Time Left: 5 minutes
+20-04-02 09:56:02 Time Left: 4 minutes
+20-04-02 09:57:02 Time Left: 3 minutes
+20-04-02 09:58:02 Time Left: 2 minutes
+20-04-02 09:59:02 Time Left: 1 minutes
+20-04-02 10:00:02 Next map: ctf_Blade
+20-04-02 10:00:07 Blade by Zakath
+20-04-02 10:04:30 Registering server @ 88.99.234.252
+20-04-02 10:05:07 Time Left: 5 minutes
+20-04-02 10:06:07 Time Left: 4 minutes
+20-04-02 10:07:07 Time Left: 3 minutes
+20-04-02 10:08:07 Time Left: 2 minutes
+20-04-02 10:09:07 Time Left: 1 minutes
+20-04-02 10:10:07 Next map: ctf_Viet
+20-04-02 10:10:12 Viet
+20-04-02 10:15:12 Time Left: 5 minutes
+20-04-02 10:16:12 Time Left: 4 minutes
+20-04-02 10:17:12 Time Left: 3 minutes
+20-04-02 10:18:12 Time Left: 2 minutes
+20-04-02 10:19:12 Time Left: 1 minutes
+20-04-02 10:20:12 Next map: ctf_Division
+20-04-02 10:20:18 Division by Boxo, KC, viral
+20-04-02 10:25:18 Time Left: 5 minutes
+20-04-02 10:26:18 Time Left: 4 minutes
+20-04-02 10:27:18 Time Left: 3 minutes
+20-04-02 10:28:18 Time Left: 2 minutes
+20-04-02 10:29:18 Time Left: 1 minutes
+20-04-02 10:30:18 Next map: ctf_Death
+20-04-02 10:30:23 Death by MM, g_d. Boxo, mtk`
+20-04-02 10:35:23 Time Left: 5 minutes
+20-04-02 10:36:23 Time Left: 4 minutes
+20-04-02 10:37:23 Time Left: 3 minutes
+20-04-02 10:38:23 Time Left: 2 minutes
+20-04-02 10:39:23 Time Left: 1 minutes
+20-04-02 10:40:23 Next map: ctf_Hormone
+20-04-02 10:40:28 Hormone by Metsänaperot
+20-04-02 10:45:28 Time Left: 5 minutes
+20-04-02 10:46:28 Time Left: 4 minutes
+20-04-02 10:47:28 Time Left: 3 minutes
+20-04-02 10:48:28 Time Left: 2 minutes
+20-04-02 10:49:28 Time Left: 1 minutes
+20-04-02 10:50:28 Next map: ctf_Laos
+20-04-02 10:50:34 Laos
+20-04-02 10:55:34 Time Left: 5 minutes
+20-04-02 10:56:34 Time Left: 4 minutes
+20-04-02 10:57:34 Time Left: 3 minutes
+20-04-02 10:58:34 Time Left: 2 minutes
+20-04-02 10:59:34 Time Left: 1 minutes
+20-04-02 11:00:34 Next map: ctf_Laos2
+20-04-02 11:00:39 Laos
+20-04-02 11:05:39 Time Left: 5 minutes
+20-04-02 11:06:39 Time Left: 4 minutes
+20-04-02 11:07:39 Time Left: 3 minutes
+20-04-02 11:08:39 Time Left: 2 minutes
+20-04-02 11:09:39 Time Left: 1 minutes
+20-04-02 11:10:39 Next map: ctf_Maya
+20-04-02 11:10:44 Maya
+20-04-02 11:15:44 Time Left: 5 minutes
+20-04-02 11:16:44 Time Left: 4 minutes
+20-04-02 11:17:44 Time Left: 3 minutes
+20-04-02 11:18:44 Time Left: 2 minutes
+20-04-02 11:19:44 Time Left: 1 minutes
+20-04-02 11:20:44 Next map: ctf_MFM
+20-04-02 11:20:49 MFM 2 by mar77a
+20-04-02 11:25:49 Time Left: 5 minutes
+20-04-02 11:26:49 Time Left: 4 minutes
+20-04-02 11:27:49 Time Left: 3 minutes
+20-04-02 11:28:49 Time Left: 2 minutes
+20-04-02 11:29:49 Time Left: 1 minutes
+20-04-02 11:30:49 Next map: ctf_Run
+20-04-02 11:30:55 Run
+20-04-02 11:35:55 Time Left: 5 minutes
+20-04-02 11:36:55 Time Left: 4 minutes
+20-04-02 11:37:55 Time Left: 3 minutes
+20-04-02 11:38:55 Time Left: 2 minutes
+20-04-02 11:39:55 Time Left: 1 minutes
+20-04-02 11:40:55 Next map: ctf_OldRun
+20-04-02 11:41:00 Run (get to the flag!)
+20-04-02 11:46:00 Time Left: 5 minutes
+20-04-02 11:47:00 Time Left: 4 minutes
+20-04-02 11:48:00 Time Left: 3 minutes
+20-04-02 11:49:00 Time Left: 2 minutes
+20-04-02 11:50:00 Time Left: 1 minutes
+20-04-02 11:51:00 Next map: ctf_Ash
+20-04-02 11:51:05 ctf_Ash by chakapoko maker
+20-04-02 11:56:05 Time Left: 5 minutes
+20-04-02 11:57:05 Time Left: 4 minutes
+20-04-02 11:58:05 Time Left: 3 minutes
+20-04-02 11:59:05 Time Left: 2 minutes
+20-04-02 12:00:05 Time Left: 1 minutes
+20-04-02 12:01:05 Next map: ctf_B2b
+20-04-02 12:01:11 B2B
+20-04-02 12:06:11 Time Left: 5 minutes
+20-04-02 12:07:11 Time Left: 4 minutes
+20-04-02 12:08:11 Time Left: 3 minutes
+20-04-02 12:09:11 Time Left: 2 minutes
+20-04-02 12:10:11 Time Left: 1 minutes
+20-04-02 12:11:11 Next map: ctf_Blade
+20-04-02 12:11:16 Blade by Zakath
+20-04-02 12:16:16 Time Left: 5 minutes
+20-04-02 12:17:16 Time Left: 4 minutes
+20-04-02 12:18:16 Time Left: 3 minutes
+20-04-02 12:19:16 Time Left: 2 minutes
+20-04-02 12:20:16 Time Left: 1 minutes
+20-04-02 12:21:16 Next map: ctf_Viet
+20-04-02 12:21:21 Viet
+20-04-02 12:26:21 Time Left: 5 minutes
+20-04-02 12:27:21 Time Left: 4 minutes
+20-04-02 12:28:21 Time Left: 3 minutes
+20-04-02 12:29:21 Time Left: 2 minutes
+20-04-02 12:30:21 Time Left: 1 minutes
+20-04-02 12:31:21 Next map: ctf_Division
+20-04-02 12:31:27 Division by Boxo, KC, viral
+20-04-02 12:36:27 Time Left: 5 minutes
+20-04-02 12:37:27 Time Left: 4 minutes
+20-04-02 12:38:27 Time Left: 3 minutes
+20-04-02 12:39:27 Time Left: 2 minutes
+20-04-02 12:40:27 Time Left: 1 minutes
+20-04-02 12:41:27 Next map: ctf_Death
+20-04-02 12:41:32 Death by MM, g_d. Boxo, mtk`
+20-04-02 12:46:32 Time Left: 5 minutes
+20-04-02 12:47:32 Time Left: 4 minutes
+20-04-02 12:48:32 Time Left: 3 minutes
+20-04-02 12:49:32 Time Left: 2 minutes
+20-04-02 12:50:32 Time Left: 1 minutes
+20-04-02 12:51:32 Next map: ctf_Hormone
+20-04-02 12:51:37 Hormone by Metsänaperot
+20-04-02 12:56:37 Time Left: 5 minutes
+20-04-02 12:57:37 Time Left: 4 minutes
+20-04-02 12:58:37 Time Left: 3 minutes
+20-04-02 12:59:37 Time Left: 2 minutes
+20-04-02 13:00:37 Time Left: 1 minutes
+20-04-02 13:01:37 Next map: ctf_Laos
+20-04-02 13:01:43 Laos
+20-04-02 13:05:21 168.194.162.230:16254|338D365B889 requesting game...
+20-04-02 13:06:43 Time Left: 5 minutes
+20-04-02 13:07:43 Time Left: 4 minutes
+20-04-02 13:08:43 Time Left: 3 minutes
+20-04-02 13:09:43 Time Left: 2 minutes
+20-04-02 13:10:43 Time Left: 1 minutes
+20-04-02 13:11:43 Next map: ctf_Laos2
+20-04-02 13:11:48 Laos
+20-04-02 13:16:48 Time Left: 5 minutes
+20-04-02 13:17:48 Time Left: 4 minutes
+20-04-02 13:18:48 Time Left: 3 minutes
+20-04-02 13:19:48 Time Left: 2 minutes
+20-04-02 13:20:48 Time Left: 1 minutes
+20-04-02 13:21:48 Next map: ctf_Maya
+20-04-02 13:21:53 Maya
+20-04-02 13:26:53 Time Left: 5 minutes
+20-04-02 13:27:53 Time Left: 4 minutes
+20-04-02 13:28:53 Time Left: 3 minutes
+20-04-02 13:29:53 Time Left: 2 minutes
+20-04-02 13:30:53 Time Left: 1 minutes
+20-04-02 13:31:53 Next map: ctf_MFM
+20-04-02 13:31:59 MFM 2 by mar77a
+20-04-02 13:36:59 Time Left: 5 minutes
+20-04-02 13:37:59 Time Left: 4 minutes
+20-04-02 13:38:59 Time Left: 3 minutes
+20-04-02 13:39:59 Time Left: 2 minutes
+20-04-02 13:40:59 Time Left: 1 minutes
+20-04-02 13:41:59 Next map: ctf_Run
+20-04-02 13:42:04 Run
+20-04-02 13:47:04 Time Left: 5 minutes
+20-04-02 13:48:04 Time Left: 4 minutes
+20-04-02 13:49:04 Time Left: 3 minutes
+20-04-02 13:50:04 Time Left: 2 minutes
+20-04-02 13:51:04 Time Left: 1 minutes
+20-04-02 13:52:04 Next map: ctf_OldRun
+20-04-02 13:52:09 Run (get to the flag!)
+20-04-02 13:57:09 Time Left: 5 minutes
+20-04-02 13:58:09 Time Left: 4 minutes
+20-04-02 13:59:09 Time Left: 3 minutes
+20-04-02 14:00:09 Time Left: 2 minutes
+20-04-02 14:01:09 Time Left: 1 minutes
+20-04-02 14:02:09 Next map: ctf_Ash
+20-04-02 14:02:15 ctf_Ash by chakapoko maker
+20-04-02 14:07:15 Time Left: 5 minutes
+20-04-02 14:08:15 Time Left: 4 minutes
+20-04-02 14:09:15 Time Left: 3 minutes
+20-04-02 14:10:15 Time Left: 2 minutes
+20-04-02 14:11:15 Time Left: 1 minutes
+20-04-02 14:12:15 Next map: ctf_B2b
+20-04-02 14:12:20 B2B
+20-04-02 14:17:20 Time Left: 5 minutes
+20-04-02 14:18:20 Time Left: 4 minutes
+20-04-02 14:19:20 Time Left: 3 minutes
+20-04-02 14:20:20 Time Left: 2 minutes
+20-04-02 14:21:20 Time Left: 1 minutes
+20-04-02 14:22:20 Next map: ctf_Blade
+20-04-02 14:22:25 Blade by Zakath
+20-04-02 14:27:25 Time Left: 5 minutes
+20-04-02 14:28:25 Time Left: 4 minutes
+20-04-02 14:29:25 Time Left: 3 minutes
+20-04-02 14:30:25 Time Left: 2 minutes
+20-04-02 14:31:25 Time Left: 1 minutes
+20-04-02 14:32:25 Next map: ctf_Viet
+20-04-02 14:32:31 Viet
+20-04-02 14:37:30 Time Left: 5 minutes
+20-04-02 14:38:30 Time Left: 4 minutes
+20-04-02 14:39:30 Time Left: 3 minutes
+20-04-02 14:40:30 Time Left: 2 minutes
+20-04-02 14:41:30 Time Left: 1 minutes
+20-04-02 14:42:30 Next map: ctf_Division
+20-04-02 14:42:36 Division by Boxo, KC, viral
+20-04-02 14:47:36 Time Left: 5 minutes
+20-04-02 14:48:36 Time Left: 4 minutes
+20-04-02 14:49:36 Time Left: 3 minutes
+20-04-02 14:50:36 Time Left: 2 minutes
+20-04-02 14:51:36 Time Left: 1 minutes
+20-04-02 14:52:36 Next map: ctf_Death
+20-04-02 14:52:41 Death by MM, g_d. Boxo, mtk`
+20-04-02 14:57:41 Time Left: 5 minutes
+20-04-02 14:58:41 Time Left: 4 minutes
+20-04-02 14:59:41 Time Left: 3 minutes
+20-04-02 15:00:41 Time Left: 2 minutes
+20-04-02 15:01:41 Time Left: 1 minutes
+20-04-02 15:02:41 Next map: ctf_Hormone
+20-04-02 15:02:46 Hormone by Metsänaperot
+20-04-02 15:07:46 Time Left: 5 minutes
+20-04-02 15:08:46 Time Left: 4 minutes
+20-04-02 15:09:46 Time Left: 3 minutes
+20-04-02 15:10:46 Time Left: 2 minutes
+20-04-02 15:11:46 Time Left: 1 minutes
+20-04-02 15:12:46 Next map: ctf_Laos
+20-04-02 15:12:52 Laos
+20-04-02 15:17:52 Time Left: 5 minutes
+20-04-02 15:18:52 Time Left: 4 minutes
+20-04-02 15:19:52 Time Left: 3 minutes
+20-04-02 15:20:52 Time Left: 2 minutes
+20-04-02 15:21:52 Time Left: 1 minutes
+20-04-02 15:22:52 Next map: ctf_Laos2
+20-04-02 15:22:57 Laos
+20-04-02 15:27:57 Time Left: 5 minutes
+20-04-02 15:28:57 Time Left: 4 minutes
+20-04-02 15:29:57 Time Left: 3 minutes
+20-04-02 15:30:57 Time Left: 2 minutes
+20-04-02 15:31:57 Time Left: 1 minutes
+20-04-02 15:32:57 Next map: ctf_Maya
+20-04-02 15:33:02 Maya
+20-04-02 15:38:02 Time Left: 5 minutes
+20-04-02 15:39:02 Time Left: 4 minutes
+20-04-02 15:40:02 Time Left: 3 minutes
+20-04-02 15:41:02 Time Left: 2 minutes
+20-04-02 15:42:02 Time Left: 1 minutes
+20-04-02 15:43:02 Next map: ctf_MFM
+20-04-02 15:43:08 MFM 2 by mar77a
+20-04-02 15:48:08 Time Left: 5 minutes
+20-04-02 15:49:08 Time Left: 4 minutes
+20-04-02 15:50:08 Time Left: 3 minutes
+20-04-02 15:51:08 Time Left: 2 minutes
+20-04-02 15:52:08 Time Left: 1 minutes
+20-04-02 15:53:08 Next map: ctf_Run
+20-04-02 15:53:13 Run
+20-04-02 15:58:13 Time Left: 5 minutes
+20-04-02 15:59:13 Time Left: 4 minutes
+20-04-02 16:00:13 Time Left: 3 minutes
+20-04-02 16:01:13 Time Left: 2 minutes
+20-04-02 16:02:13 Time Left: 1 minutes
+20-04-02 16:03:13 Next map: ctf_OldRun
+20-04-02 16:03:18 Run (get to the flag!)
+20-04-02 16:08:18 Time Left: 5 minutes
+20-04-02 16:09:18 Time Left: 4 minutes
+20-04-02 16:10:18 Time Left: 3 minutes
+20-04-02 16:11:18 Time Left: 2 minutes
+20-04-02 16:12:18 Time Left: 1 minutes
+20-04-02 16:13:18 Next map: ctf_Ash
+20-04-02 16:13:24 ctf_Ash by chakapoko maker
+20-04-02 16:18:24 Time Left: 5 minutes
+20-04-02 16:19:24 Time Left: 4 minutes
+20-04-02 16:20:24 Time Left: 3 minutes
+20-04-02 16:21:24 Time Left: 2 minutes
+20-04-02 16:22:24 Time Left: 1 minutes
+20-04-02 16:23:24 Next map: ctf_B2b
+20-04-02 16:23:29 B2B
+20-04-02 16:28:29 Time Left: 5 minutes
+20-04-02 16:29:29 Time Left: 4 minutes
+20-04-02 16:30:29 Time Left: 3 minutes
+20-04-02 16:31:29 Time Left: 2 minutes
+20-04-02 16:32:29 Time Left: 1 minutes
+20-04-02 16:33:29 Next map: ctf_Blade
+20-04-02 16:33:34 Blade by Zakath
+20-04-02 16:34:09 138.117.48.31:22958|2123C10E822 requesting game...
+20-04-02 16:38:34 Time Left: 5 minutes
+20-04-02 16:39:34 Time Left: 4 minutes
+20-04-02 16:40:34 Time Left: 3 minutes
+20-04-02 16:41:34 Time Left: 2 minutes
+20-04-02 16:42:34 Time Left: 1 minutes
+20-04-02 16:43:34 Next map: ctf_Viet
+20-04-02 16:43:40 Viet
+20-04-02 16:48:40 Time Left: 5 minutes
+20-04-02 16:49:40 Time Left: 4 minutes
+20-04-02 16:50:40 Time Left: 3 minutes
+20-04-02 16:51:40 Time Left: 2 minutes
+20-04-02 16:52:40 Time Left: 1 minutes
+20-04-02 16:53:40 Next map: ctf_Division
+20-04-02 16:53:45 Division by Boxo, KC, viral
+20-04-02 16:58:45 Time Left: 5 minutes
+20-04-02 16:59:45 Time Left: 4 minutes
+20-04-02 17:00:45 Time Left: 3 minutes
+20-04-02 17:01:45 Time Left: 2 minutes
+20-04-02 17:02:45 Time Left: 1 minutes
+20-04-02 17:03:45 Next map: ctf_Death
+20-04-02 17:03:50 Death by MM, g_d. Boxo, mtk`
+20-04-02 17:08:50 Time Left: 5 minutes
+20-04-02 17:09:50 Time Left: 4 minutes
+20-04-02 17:10:50 Time Left: 3 minutes
+20-04-02 17:11:50 Time Left: 2 minutes
+20-04-02 17:12:37 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:12:49 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:12:50 Time Left: 1 minutes
+20-04-02 17:12:50 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 17:12:50 Picard has joined alpha team.
+20-04-02 17:12:54 [Picard] !map Guardian
+20-04-02 17:12:54 Map not found (Guardian)
+20-04-02 17:12:57 [Picard] !map ctf_Guardian
+20-04-02 17:13:02 ctf_Guardian by SuoW
+20-04-02 17:13:15 Picard has left alpha team.
+20-04-02 17:13:15 Server password changed to scl
+20-04-02 17:18:02 Time Left: 5 minutes
+20-04-02 17:19:02 Time Left: 4 minutes
+20-04-02 17:20:02 Time Left: 3 minutes
+20-04-02 17:21:02 Time Left: 2 minutes
+20-04-02 17:22:02 Time Left: 1 minutes
+20-04-02 17:23:02 Next map: ctf_Hormone
+20-04-02 17:23:07 Hormone by Metsänaperot
+20-04-02 17:28:07 Time Left: 5 minutes
+20-04-02 17:29:07 Time Left: 4 minutes
+20-04-02 17:30:07 Time Left: 3 minutes
+20-04-02 17:31:07 Time Left: 2 minutes
+20-04-02 17:32:07 Time Left: 1 minutes
+20-04-02 17:33:07 Next map: ctf_Laos
+20-04-02 17:33:13 Laos
+20-04-02 17:38:12 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:38:13 Time Left: 5 minutes
+20-04-02 17:38:14 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 17:38:14 Picard has joined alpha team.
+20-04-02 17:38:15 190.183.193.145:63845|3097693FBBF requesting game (Banned by an admin)...
+20-04-02 17:38:17 190.183.193.145:63845|3097693FBBF requesting game (Banned by an admin)...
+20-04-02 17:38:17 [Picard] !map ctf_Guardian
+20-04-02 17:38:22 ctf_Guardian by SuoW
+20-04-02 17:38:36 Picard has left alpha team.
+20-04-02 17:38:36 Server password changed to scl
+20-04-02 17:38:37 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:38:38 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 17:38:38 Picard has joined alpha team.
+20-04-02 17:38:39 Picard has left alpha team.
+20-04-02 17:38:39 Server password changed to scl
+20-04-02 17:38:42 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:38:43 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 17:38:43 Picard has joined alpha team.
+20-04-02 17:38:44 Picard has left alpha team.
+20-04-02 17:38:44 Server password changed to scl
+20-04-02 17:39:18 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 17:39:19 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 17:39:19 Picard has joined bravo team.
+20-04-02 17:39:26 Picard captured the Red Flag
+20-04-02 17:39:57 Picard scores for Bravo Team
+20-04-02 17:40:02 Picard captured the Red Flag
+20-04-02 17:40:07 Picard has left bravo team.
+20-04-02 17:40:07 Server password changed to scl
+20-04-02 17:43:22 Time Left: 5 minutes
+20-04-02 17:44:22 Time Left: 4 minutes
+20-04-02 17:45:22 Time Left: 3 minutes
+20-04-02 17:46:22 Time Left: 2 minutes
+20-04-02 17:47:22 Time Left: 1 minutes
+20-04-02 17:48:22 Next map: ctf_Laos2
+20-04-02 17:48:28 Laos
+20-04-02 17:53:28 Time Left: 5 minutes
+20-04-02 17:54:28 Time Left: 4 minutes
+20-04-02 17:55:28 Time Left: 3 minutes
+20-04-02 17:56:28 Time Left: 2 minutes
+20-04-02 17:57:28 Time Left: 1 minutes
+20-04-02 17:58:28 Next map: ctf_Maya
+20-04-02 17:58:33 Maya
+20-04-02 18:01:55 109.252.71.40:15213|5B771599A5A requesting game...
+20-04-02 18:03:01 109.252.71.40:15213|5B771599A5A requesting game...
+20-04-02 18:03:33 Time Left: 5 minutes
+20-04-02 18:03:38 109.252.71.40:15213|5B771599A5A requesting game...
+20-04-02 18:04:33 Time Left: 4 minutes
+20-04-02 18:05:08 109.252.71.40:7173|72EF63DBB5C requesting game...
+20-04-02 18:05:33 Time Left: 3 minutes
+20-04-02 18:06:16 109.252.71.40:7173|72EF63DBB5C requesting game...
+20-04-02 18:06:33 Time Left: 2 minutes
+20-04-02 18:06:52 109.252.71.40:7173|72EF63DBB5C requesting game...
+20-04-02 18:07:33 Time Left: 1 minutes
+20-04-02 18:08:33 Next map: ctf_MFM
+20-04-02 18:08:38 MFM 2 by mar77a
+20-04-02 18:10:42 109.252.71.40:7173|72EF63DBB5C requesting game...
+20-04-02 18:13:38 Time Left: 5 minutes
+20-04-02 18:14:38 Time Left: 4 minutes
+20-04-02 18:15:38 Time Left: 3 minutes
+20-04-02 18:15:52 109.252.71.40:9305|5B771599A5A requesting game...
+20-04-02 18:16:38 Time Left: 2 minutes
+20-04-02 18:17:38 Time Left: 1 minutes
+20-04-02 18:18:37 109.252.71.40:9305|5B771599A5A requesting game...
+20-04-02 18:18:38 Next map: ctf_Run
+20-04-02 18:18:39 109.252.71.40:9305|5B771599A5A requesting game...
+20-04-02 18:18:44 Run
+20-04-02 18:23:44 Time Left: 5 minutes
+20-04-02 18:24:20 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 18:24:21 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 18:24:21 Picard has joined alpha team.
+20-04-02 18:24:28 190.161.152.160:23073|1F387DCE705 requesting game...
+20-04-02 18:24:33 190.161.152.160:23073|1F387DCE705 requesting game...
+20-04-02 18:24:35 S2 ~ patuzhOO* joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-04-02 18:24:35 S2 ~ patuzhOO* has joined bravo team.
+20-04-02 18:24:38 201.215.223.74:23073|42442391B2F requesting game...
+20-04-02 18:24:43 S2 ~ Status Quo!! joining game (201.215.223.74:23073) HWID:42442391B2F
+20-04-02 18:24:43 S2 ~ Status Quo!! has joined bravo team.
+20-04-02 18:24:44 Time Left: 4 minutes
+20-04-02 18:24:58 S2 ~ Status Quo!! captured the Red Flag
+20-04-02 18:25:03 (2) S2 ~ Status Quo!! killed (1) Picard with Grenade
+20-04-02 18:25:08 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:25:14 S2 ~ Status Quo!! scores for Bravo Team
+20-04-02 18:25:15 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:25:22 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:25:27 S2 ~ Status Quo!! captured the Red Flag
+20-04-02 18:25:30 (2) S2 ~ Status Quo!! killed (1) Picard with Barrett M82A1
+20-04-02 18:25:43 S2 ~ Status Quo!! scores for Bravo Team
+20-04-02 18:25:43 181.25.172.226:23073|FA809FDDA68 requesting game...
+20-04-02 18:25:44 Time Left: 3 minutes
+20-04-02 18:25:51 d4zy joining game (181.25.172.226:23073) HWID:FA809FDDA68
+20-04-02 18:25:51 d4zy has joined alpha team.
+20-04-02 18:25:55 d4zy gets a ping warning
+20-04-02 18:26:01 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:26:02 d4zy gets a ping warning
+20-04-02 18:26:05 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:26:08 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:26:09 d4zy gets a ping warning
+20-04-02 18:26:10 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:26:16 d4zy gets a ping warning
+20-04-02 18:26:17 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:26:17 [Picard] porq tiene poderes
+20-04-02 18:26:18 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:26:18 [Picard] esta wea
+20-04-02 18:26:20 S2 ~ Status Quo!! captured the Red Flag
+20-04-02 18:26:21 [S2 ~ Status Quo!!] no se jaja
+20-04-02 18:26:22 (TEAM)[d4zy] vo me pediste 1v1 el otro dia no?
+20-04-02 18:26:23 d4zy gets a ping warning
+20-04-02 18:26:24 (TEAM)[d4zy] xd
+20-04-02 18:26:25 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:26:27 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:26:29 [S2 ~ patuzhOO*] vieja eascuela
+20-04-02 18:26:30 d4zy gets a ping warning
+20-04-02 18:26:30 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:26:33 (1) d4zy killed (2) S2 ~ Status Quo!! with Combat Knife
+20-04-02 18:26:37 (TEAM)[Picard] si xd
+20-04-02 18:26:37 d4zy gets a ping warning
+20-04-02 18:26:39 S2 ~ patuzhOO* captured the Red Flag
+20-04-02 18:26:44 Time Left: 2 minutes
+20-04-02 18:26:44 d4zy gets a ping warning
+20-04-02 18:26:51 d4zy gets a ping warning
+20-04-02 18:26:51 S2 ~ patuzhOO* scores for Bravo Team
+20-04-02 18:26:57 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:26:58 S2 ~ Status Quo!! captured the Red Flag
+20-04-02 18:26:58 d4zy gets a ping warning
+20-04-02 18:26:58 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:05 d4zy gets a ping warning
+20-04-02 18:27:05 d4zy has been kicked and banned for 15 minutes (Ping Kick)
+20-04-02 18:27:06 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:08 [S2 ~ Status Quo!!] !ub
+20-04-02 18:27:08 IP number 181.25.172.226 unbanned
+20-04-02 18:27:08 HWID FA809FDDA68 unbanned
+20-04-02 18:27:12 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:27:12 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:13 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:27:16 201.189.194.160:23073|112D01D3832 requesting game...
+20-04-02 18:27:19 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:21 181.25.172.226:23073|FA809FDDA68 requesting game...
+20-04-02 18:27:24 d4zy joining game (181.25.172.226:23073) HWID:FA809FDDA68
+20-04-02 18:27:24 d4zy has joined alpha team.
+20-04-02 18:27:25 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:26 d4zy gets a ping warning
+20-04-02 18:27:27 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:27:31 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:33 d4zy gets a ping warning
+20-04-02 18:27:34 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:27:40 d4zy gets a ping warning
+20-04-02 18:27:41 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:44 Time Left: 1 minutes
+20-04-02 18:27:44 [Picard] vamos al 200 que no tiene
+20-04-02 18:27:45 (2) S2 ~ Status Quo!! killed (1) d4zy with Grenade
+20-04-02 18:27:46 [Picard] estas weas?
+20-04-02 18:27:46 (2) S2 ~ Status Quo!! killed (1) Picard with Flamer
+20-04-02 18:27:47 d4zy gets a ping warning
+20-04-02 18:27:49 [Picard] me dicen pro interno
+20-04-02 18:27:50 (2) S2 ~ Status Quo!! killed (1) d4zy with Flamer
+20-04-02 18:27:52 [S2 ~ Status Quo!!] ya
+20-04-02 18:27:54 S2 ~ Status Quo!! has left bravo team.
+20-04-02 18:27:54 d4zy gets a ping warning
+20-04-02 18:27:57 Picard has left alpha team.
+20-04-02 18:28:00 S2 ~ patuzhOO* has left bravo team.
+20-04-02 18:28:01 d4zy gets a ping warning
+20-04-02 18:28:06 d4zy has left alpha team.
+20-04-02 18:28:06 Server password changed to scl
+20-04-02 18:28:44 Next map: ctf_OldRun
+20-04-02 18:28:49 Run (get to the flag!)
+20-04-02 18:33:49 Time Left: 5 minutes
+20-04-02 18:34:49 Time Left: 4 minutes
+20-04-02 18:35:49 Time Left: 3 minutes
+20-04-02 18:36:49 Time Left: 2 minutes
+20-04-02 18:37:49 Time Left: 1 minutes
+20-04-02 18:38:49 Next map: ctf_Ash
+20-04-02 18:38:54 ctf_Ash by chakapoko maker
+20-04-02 18:43:54 Time Left: 5 minutes
+20-04-02 18:44:54 Time Left: 4 minutes
+20-04-02 18:45:54 Time Left: 3 minutes
+20-04-02 18:46:54 Time Left: 2 minutes
+20-04-02 18:47:54 Time Left: 1 minutes
+20-04-02 18:48:54 Next map: ctf_B2b
+20-04-02 18:49:00 B2B
+20-04-02 18:53:59 Time Left: 5 minutes
+20-04-02 18:54:59 Time Left: 4 minutes
+20-04-02 18:55:59 Time Left: 3 minutes
+20-04-02 18:56:59 Time Left: 2 minutes
+20-04-02 18:57:59 Time Left: 1 minutes
+20-04-02 18:58:59 Next map: ctf_Blade
+20-04-02 18:59:05 Blade by Zakath
+20-04-02 19:04:05 Time Left: 5 minutes
+20-04-02 19:04:23 200.89.42.19:23073|39246F26048 requesting game...
+20-04-02 19:05:05 Time Left: 4 minutes
+20-04-02 19:06:05 Time Left: 3 minutes
+20-04-02 19:07:05 Time Left: 2 minutes
+20-04-02 19:08:05 Time Left: 1 minutes
+20-04-02 19:09:05 Next map: ctf_Viet
+20-04-02 19:09:10 Viet
+20-04-02 19:14:10 Time Left: 5 minutes
+20-04-02 19:15:10 Time Left: 4 minutes
+20-04-02 19:16:10 Time Left: 3 minutes
+20-04-02 19:17:10 Time Left: 2 minutes
+20-04-02 19:18:10 Time Left: 1 minutes
+20-04-02 19:19:10 Next map: ctf_Division
+20-04-02 19:19:15 Division by Boxo, KC, viral
+20-04-02 19:24:15 Time Left: 5 minutes
+20-04-02 19:25:15 Time Left: 4 minutes
+20-04-02 19:26:15 Time Left: 3 minutes
+20-04-02 19:27:15 Time Left: 2 minutes
+20-04-02 19:28:15 Time Left: 1 minutes
+20-04-02 19:29:15 Next map: ctf_Death
+20-04-02 19:29:21 Death by MM, g_d. Boxo, mtk`
+20-04-02 19:34:21 Time Left: 5 minutes
+20-04-02 19:35:21 Time Left: 4 minutes
+20-04-02 19:36:21 Time Left: 3 minutes
+20-04-02 19:37:21 Time Left: 2 minutes
+20-04-02 19:37:45 201.241.224.61:23073|42605788715 requesting game...
+20-04-02 19:37:47 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-02 19:37:47 Picard has joined alpha team.
+20-04-02 19:37:53 190.45.32.62:23073|2258920FBD8 requesting game...
+20-04-02 19:37:58 190.45.32.62:23073|2258920FBD8 requesting game...
+20-04-02 19:38:01 sT#' Maaxis* joining game (190.45.32.62:23073) HWID:2258920FBD8
+20-04-02 19:38:01 sT#' Maaxis* has joined bravo team.
+20-04-02 19:38:06 [Picard] al 200 mejor q esta wea tiene los poderes
+20-04-02 19:38:07 [Picard] culiaos
+20-04-02 19:38:08 [Picard] dale?
+20-04-02 19:38:08 sT#' Maaxis* gets a ping warning
+20-04-02 19:38:15 (1) Picard killed (2) sT#' Maaxis* with Ruger 77
+20-04-02 19:38:15 sT#' Maaxis* gets a ping warning
+20-04-02 19:38:15 [sT#' Maaxis*] go
+20-04-02 19:38:17 Picard has left alpha team.
+20-04-02 19:38:18 sT#' Maaxis* has left bravo team.
+20-04-02 19:38:18 Server password changed to scl
+20-04-02 19:38:21 Time Left: 1 minutes
+20-04-02 19:38:37 168.196.203.75:17292|64995B15DC0 requesting game...
+20-04-02 19:38:38 sT#' YnGwi3 joining game (168.196.203.75:17292) HWID:64995B15DC0
+20-04-02 19:38:38 sT#' YnGwi3 has joined as spectator.
+20-04-02 19:38:40 sT#' YnGwi3 has left spectators
+20-04-02 19:38:40 Server password changed to scl
+20-04-02 19:39:21 Next map: ctf_Hormone
+20-04-02 19:39:26 Hormone by Metsänaperot
+20-04-02 19:44:26 Time Left: 5 minutes
+20-04-02 19:45:26 Time Left: 4 minutes
+20-04-02 19:46:26 Time Left: 3 minutes
+20-04-02 19:47:26 Time Left: 2 minutes
+20-04-02 19:48:26 Time Left: 1 minutes
+20-04-02 19:49:26 Next map: ctf_Laos
+20-04-02 19:49:31 Laos
+20-04-02 19:54:31 Time Left: 5 minutes
+20-04-02 19:55:31 Time Left: 4 minutes
+20-04-02 19:56:31 Time Left: 3 minutes
+20-04-02 19:57:31 Time Left: 2 minutes
+20-04-02 19:58:31 Time Left: 1 minutes
+20-04-02 19:59:31 Next map: ctf_Laos2
+20-04-02 19:59:37 Laos
+20-04-02 20:04:37 Time Left: 5 minutes
+20-04-02 20:05:37 Time Left: 4 minutes
+20-04-02 20:06:37 Time Left: 3 minutes
+20-04-02 20:07:37 Time Left: 2 minutes
+20-04-02 20:08:37 Time Left: 1 minutes
+20-04-02 20:09:37 Next map: ctf_Maya
+20-04-02 20:09:42 Maya
+20-04-02 20:14:42 Time Left: 5 minutes
+20-04-02 20:15:42 Time Left: 4 minutes
+20-04-02 20:16:42 Time Left: 3 minutes
+20-04-02 20:17:42 Time Left: 2 minutes
+20-04-02 20:18:42 Time Left: 1 minutes
+20-04-02 20:19:42 Next map: ctf_MFM
+20-04-02 20:19:47 MFM 2 by mar77a
+20-04-02 20:24:47 Time Left: 5 minutes
+20-04-02 20:25:47 Time Left: 4 minutes
+20-04-02 20:26:47 Time Left: 3 minutes
+20-04-02 20:27:47 Time Left: 2 minutes
+20-04-02 20:28:47 Time Left: 1 minutes
+20-04-02 20:29:47 Next map: ctf_Run
+20-04-02 20:29:53 Run
+20-04-02 20:34:53 Time Left: 5 minutes
+20-04-02 20:35:53 Time Left: 4 minutes
+20-04-02 20:36:53 Time Left: 3 minutes
+20-04-02 20:37:53 Time Left: 2 minutes
+20-04-02 20:38:53 Time Left: 1 minutes
+20-04-02 20:39:53 Next map: ctf_OldRun
+20-04-02 20:39:58 Run (get to the flag!)
+20-04-02 20:44:58 Time Left: 5 minutes
+20-04-02 20:45:58 Time Left: 4 minutes
+20-04-02 20:46:58 Time Left: 3 minutes
+20-04-02 20:47:58 Time Left: 2 minutes
+20-04-02 20:48:58 Time Left: 1 minutes
+20-04-02 20:49:58 Next map: ctf_Ash
+20-04-02 20:50:03 ctf_Ash by chakapoko maker
+20-04-02 20:55:03 Time Left: 5 minutes
+20-04-02 20:56:03 Time Left: 4 minutes
+20-04-02 20:57:03 Time Left: 3 minutes
+20-04-02 20:58:03 Time Left: 2 minutes
+20-04-02 20:59:03 Time Left: 1 minutes
+20-04-02 21:00:03 Next map: ctf_B2b
+20-04-02 21:00:09 B2B
+20-04-02 21:05:09 Time Left: 5 minutes
+20-04-02 21:06:09 Time Left: 4 minutes
+20-04-02 21:07:09 Time Left: 3 minutes
+20-04-02 21:08:09 Time Left: 2 minutes
+20-04-02 21:09:09 Time Left: 1 minutes
+20-04-02 21:10:09 Next map: ctf_Blade
+20-04-02 21:10:14 Blade by Zakath
+20-04-02 21:15:14 Time Left: 5 minutes
+20-04-02 21:16:14 Time Left: 4 minutes
+20-04-02 21:17:14 Time Left: 3 minutes
+20-04-02 21:18:14 Time Left: 2 minutes
+20-04-02 21:19:14 Time Left: 1 minutes
+20-04-02 21:20:14 Next map: ctf_Viet
+20-04-02 21:20:19 Viet
+20-04-02 21:25:19 Time Left: 5 minutes
+20-04-02 21:26:19 Time Left: 4 minutes
+20-04-02 21:27:19 Time Left: 3 minutes
+20-04-02 21:28:19 Time Left: 2 minutes
+20-04-02 21:29:19 Time Left: 1 minutes
+20-04-02 21:30:19 Next map: ctf_Division
+20-04-02 21:30:25 Division by Boxo, KC, viral
+20-04-02 21:35:25 Time Left: 5 minutes
+20-04-02 21:36:25 Time Left: 4 minutes
+20-04-02 21:37:25 Time Left: 3 minutes
+20-04-02 21:38:25 Time Left: 2 minutes
+20-04-02 21:39:25 Time Left: 1 minutes
+20-04-02 21:40:25 Next map: ctf_Death
+20-04-02 21:40:30 Death by MM, g_d. Boxo, mtk`
+20-04-02 21:45:30 Time Left: 5 minutes
+20-04-02 21:46:30 Time Left: 4 minutes
+20-04-02 21:47:30 Time Left: 3 minutes
+20-04-02 21:48:30 Time Left: 2 minutes
+20-04-02 21:49:30 Time Left: 1 minutes
+20-04-02 21:50:30 Next map: ctf_Hormone
+20-04-02 21:50:35 Hormone by Metsänaperot
+20-04-02 21:55:35 Time Left: 5 minutes
+20-04-02 21:56:35 Time Left: 4 minutes
+20-04-02 21:57:35 Time Left: 3 minutes
+20-04-02 21:58:35 Time Left: 2 minutes
+20-04-02 21:59:17 200.104.158.107:23073|19A0375C592 requesting game...
+20-04-02 21:59:35 Time Left: 1 minutes
+20-04-02 21:59:39 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 21:59:40 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 21:59:46 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 21:59:48 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 21:59:50 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 21:59:52 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 22:00:05 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 22:00:08 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 22:00:11 201.214.109.144:23073|456555B20EE requesting game...
+20-04-02 22:00:35 Next map: ctf_Laos
+20-04-02 22:00:41 Laos
+20-04-02 22:05:41 Time Left: 5 minutes
+20-04-02 22:06:41 Time Left: 4 minutes
+20-04-02 22:07:41 Time Left: 3 minutes
+20-04-02 22:08:41 Time Left: 2 minutes
+20-04-02 22:09:41 Time Left: 1 minutes
+20-04-02 22:10:40 Next map: ctf_Laos2
+20-04-02 22:10:46 Laos
+20-04-02 22:15:46 Time Left: 5 minutes
+20-04-02 22:16:46 Time Left: 4 minutes
+20-04-02 22:17:46 Time Left: 3 minutes
+20-04-02 22:18:46 Time Left: 2 minutes
+20-04-02 22:19:46 Time Left: 1 minutes
+20-04-02 22:20:46 Next map: ctf_Maya
+20-04-02 22:20:51 Maya
+20-04-02 22:25:51 Time Left: 5 minutes
+20-04-02 22:26:51 Time Left: 4 minutes
+20-04-02 22:27:51 Time Left: 3 minutes
+20-04-02 22:28:51 Time Left: 2 minutes
+20-04-02 22:29:51 Time Left: 1 minutes
+20-04-02 22:30:51 Next map: ctf_MFM
+20-04-02 22:30:56 MFM 2 by mar77a
+20-04-02 22:32:27 190.45.2.14:23073|4CDA7136265 requesting game...
+20-04-02 22:32:29 190.45.2.14:23073|4CDA7136265 requesting game...
+20-04-02 22:35:56 Time Left: 5 minutes
+20-04-02 22:36:56 Time Left: 4 minutes
+20-04-02 22:37:56 Time Left: 3 minutes
+20-04-02 22:38:56 Time Left: 2 minutes
+20-04-02 22:39:56 Time Left: 1 minutes
+20-04-02 22:40:56 Next map: ctf_Run
+20-04-02 22:41:02 Run
+20-04-02 22:46:02 Time Left: 5 minutes
+20-04-02 22:46:24 200.73.125.8:23073|C70484CEECC requesting game...
+20-04-02 22:46:28 190.183.193.145:63859|3097693FBBF requesting game (Banned by an admin)...
+20-04-02 22:46:35 190.183.193.145:63859|3097693FBBF requesting game (Banned by an admin)...
+20-04-02 22:47:02 Time Left: 4 minutes
+20-04-02 22:48:02 Time Left: 3 minutes
+20-04-02 22:49:02 Time Left: 2 minutes
+20-04-02 22:50:02 Time Left: 1 minutes
+20-04-02 22:51:02 Next map: ctf_OldRun
+20-04-02 22:51:07 Run (get to the flag!)
+20-04-02 22:55:09 201.214.190.176:23073|3E87BD17409 requesting game...
+20-04-02 22:55:11 S2 ~ bio* joining game (201.214.190.176:23073) HWID:3E87BD17409
+20-04-02 22:55:11 S2 ~ bio* has joined alpha team.
+20-04-02 22:55:29 S2 ~ bio* has left alpha team.
+20-04-02 22:55:29 Server password changed to scl
+20-04-02 22:56:07 Time Left: 5 minutes
+20-04-02 22:57:07 Time Left: 4 minutes
+20-04-02 22:57:36 201.214.190.176:23073|3E87BD17409 requesting game...
+20-04-02 22:58:07 Time Left: 3 minutes
+20-04-02 22:58:29 186.105.8.233:23073|218A929E6CE requesting game...
+20-04-02 22:59:07 Time Left: 2 minutes
+20-04-02 23:00:07 Time Left: 1 minutes
+20-04-02 23:01:07 Next map: ctf_Ash
+20-04-02 23:01:12 ctf_Ash by chakapoko maker
+20-04-02 23:06:12 Time Left: 5 minutes
+20-04-02 23:07:12 Time Left: 4 minutes
+20-04-02 23:07:53 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-02 23:07:53 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-02 23:07:53 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-02 23:07:53 mipHo has joined alpha team.
+20-04-02 23:08:03 mipHo has left alpha team.
+20-04-02 23:08:03 Server password changed to scl
+20-04-02 23:08:12 Time Left: 3 minutes
+20-04-02 23:09:12 Time Left: 2 minutes
+20-04-02 23:10:12 Time Left: 1 minutes
+20-04-02 23:11:12 Next map: ctf_B2b
+20-04-02 23:11:18 B2B
+20-04-02 23:12:18 186.105.8.233:23073|218A929E6CE requesting game...
+20-04-02 23:16:18 Time Left: 5 minutes
+20-04-02 23:17:18 Time Left: 4 minutes
+20-04-02 23:18:18 Time Left: 3 minutes
+20-04-02 23:19:18 Time Left: 2 minutes
+20-04-02 23:20:18 Time Left: 1 minutes
+20-04-02 23:21:18 Next map: ctf_Blade
+20-04-02 23:21:23 Blade by Zakath
+20-04-02 23:26:23 Time Left: 5 minutes
+20-04-02 23:27:23 Time Left: 4 minutes
+20-04-02 23:28:23 Time Left: 3 minutes
+20-04-02 23:29:23 Time Left: 2 minutes
+20-04-02 23:30:23 Time Left: 1 minutes
+20-04-02 23:31:23 Next map: ctf_Viet
+20-04-02 23:31:28 Viet
+20-04-02 23:36:28 Time Left: 5 minutes
+20-04-02 23:37:28 Time Left: 4 minutes
+20-04-02 23:38:28 Time Left: 3 minutes
+20-04-02 23:39:28 Time Left: 2 minutes
+20-04-02 23:40:28 Time Left: 1 minutes
+20-04-02 23:41:28 Next map: ctf_Division
+20-04-02 23:41:34 Division by Boxo, KC, viral
+20-04-02 23:46:34 Time Left: 5 minutes
+20-04-02 23:47:34 Time Left: 4 minutes
+20-04-02 23:48:34 Time Left: 3 minutes
+20-04-02 23:49:34 Time Left: 2 minutes
+20-04-02 23:50:34 Time Left: 1 minutes
+20-04-02 23:51:34 Next map: ctf_Death
+20-04-02 23:51:39 Death by MM, g_d. Boxo, mtk`
+20-04-02 23:56:39 Time Left: 5 minutes
+20-04-02 23:57:39 Time Left: 4 minutes
+20-04-02 23:58:39 Time Left: 3 minutes
+20-04-02 23:59:39 Time Left: 2 minutes
+20-04-03 00:00:39 Time Left: 1 minutes
+20-04-03 00:01:39 Next map: ctf_Hormone
+20-04-03 00:01:44 Hormone by Metsänaperot
+20-04-03 00:06:44 Time Left: 5 minutes
+20-04-03 00:07:44 Time Left: 4 minutes
+20-04-03 00:08:44 Time Left: 3 minutes
+20-04-03 00:09:44 Time Left: 2 minutes
+20-04-03 00:10:44 Time Left: 1 minutes
+20-04-03 00:11:44 Next map: ctf_Laos
+20-04-03 00:11:50 Laos
+20-04-03 00:16:50 Time Left: 5 minutes
+20-04-03 00:17:50 Time Left: 4 minutes
+20-04-03 00:18:50 Time Left: 3 minutes
+20-04-03 00:19:50 Time Left: 2 minutes
+20-04-03 00:20:50 Time Left: 1 minutes
+20-04-03 00:21:50 Next map: ctf_Laos2
+20-04-03 00:21:55 Laos
+20-04-03 00:26:55 Time Left: 5 minutes
+20-04-03 00:27:55 Time Left: 4 minutes
+20-04-03 00:28:55 Time Left: 3 minutes
+20-04-03 00:29:55 Time Left: 2 minutes
+20-04-03 00:30:55 Time Left: 1 minutes
+20-04-03 00:31:55 Next map: ctf_Maya
+20-04-03 00:32:00 Maya
+20-04-03 00:37:00 Time Left: 5 minutes
+20-04-03 00:38:00 Time Left: 4 minutes
+20-04-03 00:39:00 Time Left: 3 minutes
+20-04-03 00:40:00 Time Left: 2 minutes
+20-04-03 00:41:00 Time Left: 1 minutes
+20-04-03 00:42:00 Next map: ctf_MFM
+20-04-03 00:42:06 MFM 2 by mar77a
+20-04-03 00:47:06 Time Left: 5 minutes
+20-04-03 00:48:06 Time Left: 4 minutes
+20-04-03 00:49:06 Time Left: 3 minutes
+20-04-03 00:50:06 Time Left: 2 minutes
+20-04-03 00:51:06 Time Left: 1 minutes
+20-04-03 00:52:06 Next map: ctf_Run
+20-04-03 00:52:11 Run
+20-04-03 00:57:11 Time Left: 5 minutes
+20-04-03 00:58:11 Time Left: 4 minutes
+20-04-03 00:59:11 Time Left: 3 minutes
+20-04-03 01:00:11 Time Left: 2 minutes
+20-04-03 01:01:11 Time Left: 1 minutes
+20-04-03 01:02:11 Next map: ctf_OldRun
+20-04-03 01:02:16 Run (get to the flag!)
+20-04-03 01:07:16 Time Left: 5 minutes
+20-04-03 01:08:16 Time Left: 4 minutes
+20-04-03 01:09:16 Time Left: 3 minutes
+20-04-03 01:10:16 Time Left: 2 minutes
+20-04-03 01:11:16 Time Left: 1 minutes
+20-04-03 01:12:16 Next map: ctf_Ash
+20-04-03 01:12:22 ctf_Ash by chakapoko maker
+20-04-03 01:17:22 Time Left: 5 minutes
+20-04-03 01:18:22 Time Left: 4 minutes
+20-04-03 01:19:22 Time Left: 3 minutes
+20-04-03 01:20:22 Time Left: 2 minutes
+20-04-03 01:21:22 Time Left: 1 minutes
+20-04-03 01:22:22 Next map: ctf_B2b
+20-04-03 01:22:27 B2B
+20-04-03 01:27:27 Time Left: 5 minutes
+20-04-03 01:28:27 Time Left: 4 minutes
+20-04-03 01:29:27 Time Left: 3 minutes
+20-04-03 01:30:27 Time Left: 2 minutes
+20-04-03 01:31:27 Time Left: 1 minutes
+20-04-03 01:32:27 Next map: ctf_Blade
+20-04-03 01:32:32 Blade by Zakath
+20-04-03 01:37:32 Time Left: 5 minutes
+20-04-03 01:38:32 Time Left: 4 minutes
+20-04-03 01:39:32 Time Left: 3 minutes
+20-04-03 01:40:32 Time Left: 2 minutes
+20-04-03 01:41:32 Time Left: 1 minutes
+20-04-03 01:42:32 Next map: ctf_Viet
+20-04-03 01:42:37 Viet
+20-04-03 01:47:37 Time Left: 5 minutes
+20-04-03 01:48:37 Time Left: 4 minutes
+20-04-03 01:49:37 Time Left: 3 minutes
+20-04-03 01:50:37 Time Left: 2 minutes
+20-04-03 01:51:37 Time Left: 1 minutes
+20-04-03 01:51:43 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-03 01:52:37 Next map: ctf_Division
+20-04-03 01:52:43 Division by Boxo, KC, viral
+20-04-03 01:57:43 Time Left: 5 minutes
+20-04-03 01:58:43 Time Left: 4 minutes
+20-04-03 01:59:43 Time Left: 3 minutes
+20-04-03 02:00:43 Time Left: 2 minutes
+20-04-03 02:01:43 Time Left: 1 minutes
+20-04-03 02:02:06 186.156.56.4:23073|351CB61D452 requesting game...
+20-04-03 02:02:43 Next map: ctf_Death
+20-04-03 02:02:48 Death by MM, g_d. Boxo, mtk`
+20-04-03 02:07:48 Time Left: 5 minutes
+20-04-03 02:08:48 Time Left: 4 minutes
+20-04-03 02:09:48 Time Left: 3 minutes
+20-04-03 02:10:48 Time Left: 2 minutes
+20-04-03 02:11:48 Time Left: 1 minutes
+20-04-03 02:12:48 Next map: ctf_Hormone
+20-04-03 02:12:53 Hormone by Metsänaperot
+20-04-03 02:17:56 Time Left: 5 minutes
+20-04-03 02:18:56 Time Left: 4 minutes
+20-04-03 02:19:56 Time Left: 3 minutes
+20-04-03 02:20:56 Time Left: 2 minutes
+20-04-03 02:21:56 Time Left: 1 minutes
+20-04-03 02:22:56 Next map: ctf_Laos
+20-04-03 02:23:02 Laos
+20-04-03 02:28:02 Time Left: 5 minutes
+20-04-03 02:29:02 Time Left: 4 minutes
+20-04-03 02:30:02 Time Left: 3 minutes
+20-04-03 02:31:02 Time Left: 2 minutes
+20-04-03 02:32:02 Time Left: 1 minutes
+20-04-03 02:33:02 Next map: ctf_Laos2
+20-04-03 02:33:07 Laos
+20-04-03 02:38:07 Time Left: 5 minutes
+20-04-03 02:39:07 Time Left: 4 minutes
+20-04-03 02:40:07 Time Left: 3 minutes
+20-04-03 02:41:07 Time Left: 2 minutes
+20-04-03 02:42:07 Time Left: 1 minutes
+20-04-03 02:43:07 Next map: ctf_Maya
+20-04-03 02:43:12 Maya
+20-04-03 02:48:12 Time Left: 5 minutes
+20-04-03 02:49:12 Time Left: 4 minutes
+20-04-03 02:50:12 Time Left: 3 minutes
+20-04-03 02:51:12 Time Left: 2 minutes
+20-04-03 02:52:12 Time Left: 1 minutes
+20-04-03 02:53:12 Next map: ctf_MFM
+20-04-03 02:53:18 MFM 2 by mar77a
+20-04-03 02:58:18 Time Left: 5 minutes
+20-04-03 02:59:18 Time Left: 4 minutes
+20-04-03 03:00:18 Time Left: 3 minutes
+20-04-03 03:01:18 Time Left: 2 minutes
+20-04-03 03:02:18 Time Left: 1 minutes
+20-04-03 03:03:18 Next map: ctf_Run
+20-04-03 03:03:23 Run
+20-04-03 03:08:23 Time Left: 5 minutes
+20-04-03 03:09:23 Time Left: 4 minutes
+20-04-03 03:10:23 Time Left: 3 minutes
+20-04-03 03:11:08 212.112.111.87:23073|22E4AF98852 requesting game...
+20-04-03 03:11:16 212.112.111.87:23073|22E4AF98852 requesting game...
+20-04-03 03:11:19 212.112.111.87:23073|22E4AF98852 requesting game...
+20-04-03 03:11:23 Time Left: 2 minutes
+20-04-03 03:11:23 212.112.111.87:23073|22E4AF98852 requesting game...
+20-04-03 03:12:23 Time Left: 1 minutes
+20-04-03 03:13:23 Next map: ctf_OldRun
+20-04-03 03:13:28 Run (get to the flag!)
+20-04-03 03:18:28 Time Left: 5 minutes
+20-04-03 03:19:28 Time Left: 4 minutes
+20-04-03 03:20:28 Time Left: 3 minutes
+20-04-03 03:21:28 Time Left: 2 minutes
+20-04-03 03:22:28 Time Left: 1 minutes
+20-04-03 03:23:28 Next map: ctf_Ash
+20-04-03 03:23:33 ctf_Ash by chakapoko maker
+20-04-03 03:28:33 Time Left: 5 minutes
+20-04-03 03:29:33 Time Left: 4 minutes
+20-04-03 03:30:33 Time Left: 3 minutes
+20-04-03 03:31:33 Time Left: 2 minutes
+20-04-03 03:32:33 Time Left: 1 minutes
+20-04-03 03:33:33 Next map: ctf_B2b
+20-04-03 03:33:39 B2B
+20-04-03 03:38:39 Time Left: 5 minutes
+20-04-03 03:39:39 Time Left: 4 minutes
+20-04-03 03:40:39 Time Left: 3 minutes
+20-04-03 03:41:39 Time Left: 2 minutes
+20-04-03 03:42:39 Time Left: 1 minutes
+20-04-03 03:43:39 Next map: ctf_Blade
+20-04-03 03:43:44 Blade by Zakath
+20-04-03 03:48:44 Time Left: 5 minutes
+20-04-03 03:49:44 Time Left: 4 minutes
+20-04-03 03:50:44 Time Left: 3 minutes
+20-04-03 03:51:44 Time Left: 2 minutes
+20-04-03 03:52:44 Time Left: 1 minutes
+20-04-03 03:53:44 Next map: ctf_Viet
+20-04-03 03:53:49 Viet
+20-04-03 03:58:49 Time Left: 5 minutes
+20-04-03 03:59:49 Time Left: 4 minutes
+20-04-03 04:00:49 Time Left: 3 minutes
+20-04-03 04:01:49 Time Left: 2 minutes
+20-04-03 04:02:49 Time Left: 1 minutes
+20-04-03 04:03:49 Next map: ctf_Division
+20-04-03 04:03:55 Division by Boxo, KC, viral
+20-04-03 04:08:55 Time Left: 5 minutes
+20-04-03 04:09:55 Time Left: 4 minutes
+20-04-03 04:10:55 Time Left: 3 minutes
+20-04-03 04:11:55 Time Left: 2 minutes
+20-04-03 04:12:55 Time Left: 1 minutes
+20-04-03 04:13:55 Next map: ctf_Death
+20-04-03 04:14:00 Death by MM, g_d. Boxo, mtk`
+20-04-03 04:19:00 Time Left: 5 minutes
+20-04-03 04:20:00 Time Left: 4 minutes
+20-04-03 04:21:00 Time Left: 3 minutes
+20-04-03 04:22:00 Time Left: 2 minutes
+20-04-03 04:23:00 Time Left: 1 minutes
+20-04-03 04:24:00 Next map: ctf_Hormone
+20-04-03 04:24:05 Hormone by Metsänaperot
+20-04-03 04:29:05 Time Left: 5 minutes
+20-04-03 04:30:05 Time Left: 4 minutes
+20-04-03 04:31:05 Time Left: 3 minutes
+20-04-03 04:32:05 Time Left: 2 minutes
+20-04-03 04:33:05 Time Left: 1 minutes
+20-04-03 04:34:05 Next map: ctf_Laos
+20-04-03 04:34:11 Laos
+20-04-03 04:39:11 Time Left: 5 minutes
+20-04-03 04:40:11 Time Left: 4 minutes
+20-04-03 04:40:23 89.64.43.236:14413|4B3E350943D requesting game...
+20-04-03 04:40:26 89.64.43.236:14413|4B3E350943D requesting game...
+20-04-03 04:41:11 Time Left: 3 minutes
+20-04-03 04:42:11 Time Left: 2 minutes
+20-04-03 04:43:11 Time Left: 1 minutes
+20-04-03 04:44:11 Next map: ctf_Laos2
+20-04-03 04:44:16 Laos
+20-04-03 04:49:16 Time Left: 5 minutes
+20-04-03 04:50:16 Time Left: 4 minutes
+20-04-03 04:51:16 Time Left: 3 minutes
+20-04-03 04:52:16 Time Left: 2 minutes
+20-04-03 04:53:16 Time Left: 1 minutes
+20-04-03 04:54:16 Next map: ctf_Maya
+20-04-03 04:54:21 Maya
+20-04-03 04:59:21 Time Left: 5 minutes
+20-04-03 05:00:21 Time Left: 4 minutes
+20-04-03 05:01:21 Time Left: 3 minutes
+20-04-03 05:02:21 Time Left: 2 minutes
+20-04-03 05:03:21 Time Left: 1 minutes
+20-04-03 05:04:21 Next map: ctf_MFM
+20-04-03 05:04:27 MFM 2 by mar77a
+20-04-03 05:09:27 Time Left: 5 minutes
+20-04-03 05:10:27 Time Left: 4 minutes
+20-04-03 05:11:27 Time Left: 3 minutes
+20-04-03 05:12:27 Time Left: 2 minutes
+20-04-03 05:13:27 Time Left: 1 minutes
+20-04-03 05:14:27 Next map: ctf_Run
+20-04-03 05:14:32 Run
+20-04-03 05:19:32 Time Left: 5 minutes
+20-04-03 05:20:32 Time Left: 4 minutes
+20-04-03 05:21:32 Time Left: 3 minutes
+20-04-03 05:22:32 Time Left: 2 minutes
+20-04-03 05:23:32 Time Left: 1 minutes
+20-04-03 05:24:32 Next map: ctf_OldRun
+20-04-03 05:24:37 Run (get to the flag!)
+20-04-03 05:29:37 Time Left: 5 minutes
+20-04-03 05:30:37 Time Left: 4 minutes
+20-04-03 05:31:37 Time Left: 3 minutes
+20-04-03 05:32:37 Time Left: 2 minutes
+20-04-03 05:33:37 Time Left: 1 minutes
+20-04-03 05:34:37 Next map: ctf_Ash
+20-04-03 05:34:43 ctf_Ash by chakapoko maker
+20-04-03 05:39:43 Time Left: 5 minutes
+20-04-03 05:40:43 Time Left: 4 minutes
+20-04-03 05:41:43 Time Left: 3 minutes
+20-04-03 05:42:43 Time Left: 2 minutes
+20-04-03 05:43:43 Time Left: 1 minutes
+20-04-03 05:44:43 Next map: ctf_B2b
+20-04-03 05:44:48 B2B
+20-04-03 05:49:48 Time Left: 5 minutes
+20-04-03 05:50:48 Time Left: 4 minutes
+20-04-03 05:51:48 Time Left: 3 minutes
+20-04-03 05:52:48 Time Left: 2 minutes
+20-04-03 05:53:48 Time Left: 1 minutes
+20-04-03 05:54:48 Next map: ctf_Blade
+20-04-03 05:54:53 Blade by Zakath
+20-04-03 05:59:53 Time Left: 5 minutes
+20-04-03 06:00:53 Time Left: 4 minutes
+20-04-03 06:01:53 Time Left: 3 minutes
+20-04-03 06:02:53 Time Left: 2 minutes
+20-04-03 06:03:53 Time Left: 1 minutes
+20-04-03 06:04:53 Next map: ctf_Viet
+20-04-03 06:04:59 Viet
+20-04-03 06:09:59 Time Left: 5 minutes
+20-04-03 06:10:59 Time Left: 4 minutes
+20-04-03 06:11:59 Time Left: 3 minutes
+20-04-03 06:12:59 Time Left: 2 minutes
+20-04-03 06:13:59 Time Left: 1 minutes
+20-04-03 06:14:59 Next map: ctf_Division
+20-04-03 06:15:04 Division by Boxo, KC, viral
+20-04-03 06:20:04 Time Left: 5 minutes
+20-04-03 06:21:04 Time Left: 4 minutes
+20-04-03 06:22:04 Time Left: 3 minutes
+20-04-03 06:23:04 Time Left: 2 minutes
+20-04-03 06:24:04 Time Left: 1 minutes
+20-04-03 06:25:04 Next map: ctf_Death
+20-04-03 06:25:09 Death by MM, g_d. Boxo, mtk`
+20-04-03 06:30:09 Time Left: 5 minutes
+20-04-03 06:31:09 Time Left: 4 minutes
+20-04-03 06:32:09 Time Left: 3 minutes
+20-04-03 06:33:09 Time Left: 2 minutes
+20-04-03 06:34:09 Time Left: 1 minutes
+20-04-03 06:35:09 Next map: ctf_Hormone
+20-04-03 06:35:15 Hormone by Metsänaperot
+20-04-03 06:40:14 Time Left: 5 minutes
+20-04-03 06:41:14 Time Left: 4 minutes
+20-04-03 06:42:14 Time Left: 3 minutes
+20-04-03 06:43:14 Time Left: 2 minutes
+20-04-03 06:44:14 Time Left: 1 minutes
+20-04-03 06:45:14 Next map: ctf_Laos
+20-04-03 06:45:20 Laos
+20-04-03 06:50:20 Time Left: 5 minutes
+20-04-03 06:51:20 Time Left: 4 minutes
+20-04-03 06:52:20 Time Left: 3 minutes
+20-04-03 06:53:20 Time Left: 2 minutes
+20-04-03 06:54:20 Time Left: 1 minutes
+20-04-03 06:55:20 Next map: ctf_Laos2
+20-04-03 06:55:25 Laos
+20-04-03 07:00:25 Time Left: 5 minutes
+20-04-03 07:01:25 Time Left: 4 minutes
+20-04-03 07:02:25 Time Left: 3 minutes
+20-04-03 07:03:25 Time Left: 2 minutes
+20-04-03 07:04:25 Time Left: 1 minutes
+20-04-03 07:05:25 Next map: ctf_Maya
+20-04-03 07:05:30 Maya
+20-04-03 07:10:30 Time Left: 5 minutes
+20-04-03 07:11:30 Time Left: 4 minutes
+20-04-03 07:12:30 Time Left: 3 minutes
+20-04-03 07:13:30 Time Left: 2 minutes
+20-04-03 07:14:30 Time Left: 1 minutes
+20-04-03 07:15:30 Next map: ctf_MFM
+20-04-03 07:15:36 MFM 2 by mar77a
+20-04-03 07:20:36 Time Left: 5 minutes
+20-04-03 07:21:36 Time Left: 4 minutes
+20-04-03 07:22:36 Time Left: 3 minutes
+20-04-03 07:23:36 Time Left: 2 minutes
+20-04-03 07:24:36 Time Left: 1 minutes
+20-04-03 07:25:36 Next map: ctf_Run
+20-04-03 07:25:41 Run
+20-04-03 07:30:41 Time Left: 5 minutes
+20-04-03 07:31:41 Time Left: 4 minutes
+20-04-03 07:32:41 Time Left: 3 minutes
+20-04-03 07:33:41 Time Left: 2 minutes
+20-04-03 07:34:41 Time Left: 1 minutes
+20-04-03 07:35:41 Next map: ctf_OldRun
+20-04-03 07:35:46 Run (get to the flag!)
+20-04-03 07:40:46 Time Left: 5 minutes
+20-04-03 07:41:46 Time Left: 4 minutes
+20-04-03 07:42:46 Time Left: 3 minutes
+20-04-03 07:43:46 Time Left: 2 minutes
+20-04-03 07:44:46 Time Left: 1 minutes
+20-04-03 07:45:46 Next map: ctf_Ash
+20-04-03 07:45:52 ctf_Ash by chakapoko maker
+20-04-03 07:50:52 Time Left: 5 minutes
+20-04-03 07:51:52 Time Left: 4 minutes
+20-04-03 07:52:52 Time Left: 3 minutes
+20-04-03 07:53:52 Time Left: 2 minutes
+20-04-03 07:54:52 Time Left: 1 minutes
+20-04-03 07:55:52 Next map: ctf_B2b
+20-04-03 07:55:57 B2B
+20-04-03 08:00:57 Time Left: 5 minutes
+20-04-03 08:01:57 Time Left: 4 minutes
+20-04-03 08:02:57 Time Left: 3 minutes
+20-04-03 08:03:57 Time Left: 2 minutes
+20-04-03 08:04:57 Time Left: 1 minutes
+20-04-03 08:05:57 Next map: ctf_Blade
+20-04-03 08:06:02 Blade by Zakath
+20-04-03 08:11:02 Time Left: 5 minutes
+20-04-03 08:12:02 Time Left: 4 minutes
+20-04-03 08:13:02 Time Left: 3 minutes
+20-04-03 08:14:02 Time Left: 2 minutes
+20-04-03 08:15:02 Time Left: 1 minutes
+20-04-03 08:16:02 Next map: ctf_Viet
+20-04-03 08:16:08 Viet
+20-04-03 08:21:08 Time Left: 5 minutes
+20-04-03 08:22:08 Time Left: 4 minutes
+20-04-03 08:23:08 Time Left: 3 minutes
+20-04-03 08:24:08 Time Left: 2 minutes
+20-04-03 08:25:08 Time Left: 1 minutes
+20-04-03 08:26:08 Next map: ctf_Division
+20-04-03 08:26:13 Division by Boxo, KC, viral
+20-04-03 08:31:13 Time Left: 5 minutes
+20-04-03 08:32:13 Time Left: 4 minutes
+20-04-03 08:33:13 Time Left: 3 minutes
+20-04-03 08:34:13 Time Left: 2 minutes
+20-04-03 08:35:13 Time Left: 1 minutes
+20-04-03 08:36:13 Next map: ctf_Death
+20-04-03 08:36:18 Death by MM, g_d. Boxo, mtk`
+20-04-03 08:41:18 Time Left: 5 minutes
+20-04-03 08:42:18 Time Left: 4 minutes
+20-04-03 08:43:18 Time Left: 3 minutes
+20-04-03 08:44:18 Time Left: 2 minutes
+20-04-03 08:45:18 Time Left: 1 minutes
+20-04-03 08:46:18 Next map: ctf_Hormone
+20-04-03 08:46:24 Hormone by Metsänaperot
+20-04-03 08:51:24 Time Left: 5 minutes
+20-04-03 08:52:24 Time Left: 4 minutes
+20-04-03 08:53:24 Time Left: 3 minutes
+20-04-03 08:54:24 Time Left: 2 minutes
+20-04-03 08:55:24 Time Left: 1 minutes
+20-04-03 08:56:24 Next map: ctf_Laos
+20-04-03 08:56:29 Laos
+20-04-03 09:01:29 Time Left: 5 minutes
+20-04-03 09:02:29 Time Left: 4 minutes
+20-04-03 09:03:29 Time Left: 3 minutes
+20-04-03 09:04:29 Time Left: 2 minutes
+20-04-03 09:05:29 Time Left: 1 minutes
+20-04-03 09:06:29 Next map: ctf_Laos2
+20-04-03 09:06:34 Laos
+20-04-03 09:11:34 Time Left: 5 minutes
+20-04-03 09:12:34 Time Left: 4 minutes
+20-04-03 09:13:34 Time Left: 3 minutes
+20-04-03 09:14:34 Time Left: 2 minutes
+20-04-03 09:15:34 Time Left: 1 minutes
+20-04-03 09:16:34 Next map: ctf_Maya
+20-04-03 09:16:40 Maya
+20-04-03 09:21:40 Time Left: 5 minutes
+20-04-03 09:22:40 Time Left: 4 minutes
+20-04-03 09:23:40 Time Left: 3 minutes
+20-04-03 09:24:40 Time Left: 2 minutes
+20-04-03 09:25:40 Time Left: 1 minutes
+20-04-03 09:26:40 Next map: ctf_MFM
+20-04-03 09:26:45 MFM 2 by mar77a
+20-04-03 09:31:45 Time Left: 5 minutes
+20-04-03 09:32:45 Time Left: 4 minutes
+20-04-03 09:33:45 Time Left: 3 minutes
+20-04-03 09:34:45 Time Left: 2 minutes
+20-04-03 09:35:45 Time Left: 1 minutes
+20-04-03 09:36:45 Next map: ctf_Run
+20-04-03 09:36:50 Run
+20-04-03 09:41:50 Time Left: 5 minutes
+20-04-03 09:42:50 Time Left: 4 minutes
+20-04-03 09:43:50 Time Left: 3 minutes
+20-04-03 09:44:50 Time Left: 2 minutes
+20-04-03 09:45:50 Time Left: 1 minutes
+20-04-03 09:46:50 Next map: ctf_OldRun
+20-04-03 09:46:56 Run (get to the flag!)
+20-04-03 09:51:56 Time Left: 5 minutes
+20-04-03 09:52:56 Time Left: 4 minutes
+20-04-03 09:53:56 Time Left: 3 minutes
+20-04-03 09:54:56 Time Left: 2 minutes
+20-04-03 09:55:56 Time Left: 1 minutes
+20-04-03 09:56:55 Next map: ctf_Ash
+20-04-03 09:57:01 ctf_Ash by chakapoko maker
+20-04-03 10:02:01 Time Left: 5 minutes
+20-04-03 10:03:01 Time Left: 4 minutes
+20-04-03 10:04:01 Time Left: 3 minutes
+20-04-03 10:05:01 Time Left: 2 minutes
+20-04-03 10:06:01 Time Left: 1 minutes
+20-04-03 10:07:01 Next map: ctf_B2b
+20-04-03 10:07:06 B2B
+20-04-03 10:12:06 Time Left: 5 minutes
+20-04-03 10:13:06 Time Left: 4 minutes
+20-04-03 10:14:06 Time Left: 3 minutes
+20-04-03 10:15:06 Time Left: 2 minutes
+20-04-03 10:16:06 Time Left: 1 minutes
+20-04-03 10:17:06 Next map: ctf_Blade
+20-04-03 10:17:11 Blade by Zakath
+20-04-03 10:22:11 Time Left: 5 minutes
+20-04-03 10:23:11 Time Left: 4 minutes
+20-04-03 10:24:11 Time Left: 3 minutes
+20-04-03 10:25:11 Time Left: 2 minutes
+20-04-03 10:26:11 Time Left: 1 minutes
+20-04-03 10:27:11 Next map: ctf_Viet
+20-04-03 10:27:17 Viet
+20-04-03 10:32:17 Time Left: 5 minutes
+20-04-03 10:33:17 Time Left: 4 minutes
+20-04-03 10:34:17 Time Left: 3 minutes
+20-04-03 10:35:17 Time Left: 2 minutes
+20-04-03 10:36:17 Time Left: 1 minutes
+20-04-03 10:37:17 Next map: ctf_Division
+20-04-03 10:37:22 Division by Boxo, KC, viral
+20-04-03 10:42:22 Time Left: 5 minutes
+20-04-03 10:43:22 Time Left: 4 minutes
+20-04-03 10:44:22 Time Left: 3 minutes
+20-04-03 10:45:22 Time Left: 2 minutes
+20-04-03 10:46:22 Time Left: 1 minutes
+20-04-03 10:47:22 Next map: ctf_Death
+20-04-03 10:47:27 Death by MM, g_d. Boxo, mtk`
+20-04-03 10:52:27 Time Left: 5 minutes
+20-04-03 10:53:27 Time Left: 4 minutes
+20-04-03 10:54:27 Time Left: 3 minutes
+20-04-03 10:55:27 Time Left: 2 minutes
+20-04-03 10:56:27 Time Left: 1 minutes
+20-04-03 10:57:27 Next map: ctf_Hormone
+20-04-03 10:57:33 Hormone by Metsänaperot
+20-04-03 11:02:33 Time Left: 5 minutes
+20-04-03 11:03:33 Time Left: 4 minutes
+20-04-03 11:04:33 Time Left: 3 minutes
+20-04-03 11:05:33 Time Left: 2 minutes
+20-04-03 11:06:33 Time Left: 1 minutes
+20-04-03 11:07:33 Next map: ctf_Laos
+20-04-03 11:07:38 Laos
+20-04-03 11:10:14 190.161.88.172:23073|33E13601C11 requesting game...
+20-04-03 11:12:38 Time Left: 5 minutes
+20-04-03 11:13:38 Time Left: 4 minutes
+20-04-03 11:14:38 Time Left: 3 minutes
+20-04-03 11:15:38 Time Left: 2 minutes
+20-04-03 11:16:38 Time Left: 1 minutes
+20-04-03 11:17:38 Next map: ctf_Laos2
+20-04-03 11:17:43 Laos
+20-04-03 11:22:43 Time Left: 5 minutes
+20-04-03 11:23:38 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 11:23:38 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 11:23:40 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 11:23:40 mipHo has joined alpha team.
+20-04-03 11:23:42 [mipHo] !sp
+20-04-03 11:23:43 Time Left: 4 minutes
+20-04-03 11:23:45 [mipHo] !pass caca
+20-04-03 11:23:45 Server password changed to caca
+20-04-03 11:23:57 mipHo captured the Blue Flag
+20-04-03 11:24:43 Time Left: 3 minutes
+20-04-03 11:24:49 mipHo scores for Alpha Team
+20-04-03 11:25:00 mipHo captured the Blue Flag
+20-04-03 11:25:11 mipHo scores for Alpha Team
+20-04-03 11:25:21 mipHo captured the Blue Flag
+20-04-03 11:25:43 Time Left: 2 minutes
+20-04-03 11:25:53 mipHo scores for Alpha Team
+20-04-03 11:26:03 mipHo captured the Blue Flag
+20-04-03 11:26:43 Time Left: 1 minutes
+20-04-03 11:27:39 mipHo has left alpha team.
+20-04-03 11:27:39 Server password changed to scl
+20-04-03 11:27:43 Next map: ctf_Maya
+20-04-03 11:27:49 Maya
+20-04-03 11:32:49 Time Left: 5 minutes
+20-04-03 11:33:49 Time Left: 4 minutes
+20-04-03 11:34:49 Time Left: 3 minutes
+20-04-03 11:35:49 Time Left: 2 minutes
+20-04-03 11:36:49 Time Left: 1 minutes
+20-04-03 11:37:49 Next map: ctf_MFM
+20-04-03 11:37:54 MFM 2 by mar77a
+20-04-03 11:42:54 Time Left: 5 minutes
+20-04-03 11:43:54 Time Left: 4 minutes
+20-04-03 11:44:54 Time Left: 3 minutes
+20-04-03 11:45:54 Time Left: 2 minutes
+20-04-03 11:46:54 Time Left: 1 minutes
+20-04-03 11:47:54 Next map: ctf_Run
+20-04-03 11:47:59 Run
+20-04-03 11:52:59 Time Left: 5 minutes
+20-04-03 11:53:59 Time Left: 4 minutes
+20-04-03 11:54:59 Time Left: 3 minutes
+20-04-03 11:55:05 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 11:55:05 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 11:55:07 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 11:55:07 mipHo has joined alpha team.
+20-04-03 11:55:12 [mipHo] !pass caca
+20-04-03 11:55:12 Server password changed to caca
+20-04-03 11:55:22 mipHo captured the Blue Flag
+20-04-03 11:55:32 mipHo scores for Alpha Team
+20-04-03 11:55:59 Time Left: 2 minutes
+20-04-03 11:56:59 Time Left: 1 minutes
+20-04-03 11:57:59 Next map: ctf_OldRun
+20-04-03 11:58:05 Run (get to the flag!)
+20-04-03 11:58:22 mipHo captured the Blue Flag
+20-04-03 12:03:05 Time Left: 5 minutes
+20-04-03 12:03:26 mipHo has left alpha team.
+20-04-03 12:03:26 Server password changed to scl
+20-04-03 12:04:05 Time Left: 4 minutes
+20-04-03 12:05:05 Time Left: 3 minutes
+20-04-03 12:06:05 Time Left: 2 minutes
+20-04-03 12:07:05 Time Left: 1 minutes
+20-04-03 12:08:05 Next map: ctf_Ash
+20-04-03 12:08:10 ctf_Ash by chakapoko maker
+20-04-03 12:13:10 Time Left: 5 minutes
+20-04-03 12:14:10 Time Left: 4 minutes
+20-04-03 12:15:10 Time Left: 3 minutes
+20-04-03 12:16:10 Time Left: 2 minutes
+20-04-03 12:17:10 Time Left: 1 minutes
+20-04-03 12:18:10 Next map: ctf_B2b
+20-04-03 12:18:15 B2B
+20-04-03 12:23:15 Time Left: 5 minutes
+20-04-03 12:24:15 Time Left: 4 minutes
+20-04-03 12:25:15 Time Left: 3 minutes
+20-04-03 12:26:15 Time Left: 2 minutes
+20-04-03 12:27:15 Time Left: 1 minutes
+20-04-03 12:28:15 Next map: ctf_Blade
+20-04-03 12:28:21 Blade by Zakath
+20-04-03 12:33:21 Time Left: 5 minutes
+20-04-03 12:34:21 Time Left: 4 minutes
+20-04-03 12:35:21 Time Left: 3 minutes
+20-04-03 12:36:21 Time Left: 2 minutes
+20-04-03 12:37:21 Time Left: 1 minutes
+20-04-03 12:38:21 Next map: ctf_Viet
+20-04-03 12:38:26 Viet
+20-04-03 12:43:26 Time Left: 5 minutes
+20-04-03 12:44:26 Time Left: 4 minutes
+20-04-03 12:45:26 Time Left: 3 minutes
+20-04-03 12:46:26 Time Left: 2 minutes
+20-04-03 12:47:26 Time Left: 1 minutes
+20-04-03 12:48:26 Next map: ctf_Division
+20-04-03 12:48:31 Division by Boxo, KC, viral
+20-04-03 12:53:31 Time Left: 5 minutes
+20-04-03 12:54:31 Time Left: 4 minutes
+20-04-03 12:55:31 Time Left: 3 minutes
+20-04-03 12:56:31 Time Left: 2 minutes
+20-04-03 12:57:31 Time Left: 1 minutes
+20-04-03 12:58:31 Next map: ctf_Death
+20-04-03 12:58:37 Death by MM, g_d. Boxo, mtk`
+20-04-03 13:03:37 Time Left: 5 minutes
+20-04-03 13:04:37 Time Left: 4 minutes
+20-04-03 13:05:37 Time Left: 3 minutes
+20-04-03 13:06:37 Time Left: 2 minutes
+20-04-03 13:07:37 Time Left: 1 minutes
+20-04-03 13:08:37 Next map: ctf_Hormone
+20-04-03 13:08:42 Hormone by Metsänaperot
+20-04-03 13:13:42 Time Left: 5 minutes
+20-04-03 13:14:42 Time Left: 4 minutes
+20-04-03 13:15:42 Time Left: 3 minutes
+20-04-03 13:16:42 Time Left: 2 minutes
+20-04-03 13:17:42 Time Left: 1 minutes
+20-04-03 13:18:42 Next map: ctf_Laos
+20-04-03 13:18:47 Laos
+20-04-03 13:23:47 Time Left: 5 minutes
+20-04-03 13:24:47 Time Left: 4 minutes
+20-04-03 13:25:47 Time Left: 3 minutes
+20-04-03 13:26:47 Time Left: 2 minutes
+20-04-03 13:27:47 Time Left: 1 minutes
+20-04-03 13:28:47 Next map: ctf_Laos2
+20-04-03 13:28:52 Laos
+20-04-03 13:33:52 Time Left: 5 minutes
+20-04-03 13:34:52 Time Left: 4 minutes
+20-04-03 13:35:52 Time Left: 3 minutes
+20-04-03 13:36:52 Time Left: 2 minutes
+20-04-03 13:37:52 Time Left: 1 minutes
+20-04-03 13:38:52 Next map: ctf_Maya
+20-04-03 13:38:58 Maya
+20-04-03 13:43:58 Time Left: 5 minutes
+20-04-03 13:44:58 Time Left: 4 minutes
+20-04-03 13:45:58 Time Left: 3 minutes
+20-04-03 13:46:58 Time Left: 2 minutes
+20-04-03 13:47:58 Time Left: 1 minutes
+20-04-03 13:48:58 Next map: ctf_MFM
+20-04-03 13:49:03 MFM 2 by mar77a
+20-04-03 13:54:03 Time Left: 5 minutes
+20-04-03 13:55:03 Time Left: 4 minutes
+20-04-03 13:56:03 Time Left: 3 minutes
+20-04-03 13:57:03 Time Left: 2 minutes
+20-04-03 13:58:03 Time Left: 1 minutes
+20-04-03 13:59:03 Next map: ctf_Run
+20-04-03 13:59:08 Run
+20-04-03 14:04:08 Time Left: 5 minutes
+20-04-03 14:05:08 Time Left: 4 minutes
+20-04-03 14:06:08 Time Left: 3 minutes
+20-04-03 14:07:08 Time Left: 2 minutes
+20-04-03 14:08:08 Time Left: 1 minutes
+20-04-03 14:09:08 Next map: ctf_OldRun
+20-04-03 14:09:14 Run (get to the flag!)
+20-04-03 14:14:14 Time Left: 5 minutes
+20-04-03 14:15:14 Time Left: 4 minutes
+20-04-03 14:16:14 Time Left: 3 minutes
+20-04-03 14:17:14 Time Left: 2 minutes
+20-04-03 14:18:14 Time Left: 1 minutes
+20-04-03 14:19:14 Next map: ctf_Ash
+20-04-03 14:19:19 ctf_Ash by chakapoko maker
+20-04-03 14:24:19 Time Left: 5 minutes
+20-04-03 14:25:19 Time Left: 4 minutes
+20-04-03 14:26:19 Time Left: 3 minutes
+20-04-03 14:27:19 Time Left: 2 minutes
+20-04-03 14:28:19 Time Left: 1 minutes
+20-04-03 14:29:19 Next map: ctf_B2b
+20-04-03 14:29:24 B2B
+20-04-03 14:34:24 Time Left: 5 minutes
+20-04-03 14:35:24 Time Left: 4 minutes
+20-04-03 14:36:24 Time Left: 3 minutes
+20-04-03 14:37:24 Time Left: 2 minutes
+20-04-03 14:38:24 Time Left: 1 minutes
+20-04-03 14:39:24 Next map: ctf_Blade
+20-04-03 14:39:30 Blade by Zakath
+20-04-03 14:44:30 Time Left: 5 minutes
+20-04-03 14:45:30 Time Left: 4 minutes
+20-04-03 14:46:30 Time Left: 3 minutes
+20-04-03 14:47:30 Time Left: 2 minutes
+20-04-03 14:48:30 Time Left: 1 minutes
+20-04-03 14:49:30 Next map: ctf_Viet
+20-04-03 14:49:35 Viet
+20-04-03 14:54:35 Time Left: 5 minutes
+20-04-03 14:55:35 Time Left: 4 minutes
+20-04-03 14:56:35 Time Left: 3 minutes
+20-04-03 14:57:35 Time Left: 2 minutes
+20-04-03 14:58:35 Time Left: 1 minutes
+20-04-03 14:59:35 Next map: ctf_Division
+20-04-03 14:59:40 Division by Boxo, KC, viral
+20-04-03 15:04:40 Time Left: 5 minutes
+20-04-03 15:05:40 Time Left: 4 minutes
+20-04-03 15:06:40 Time Left: 3 minutes
+20-04-03 15:07:40 Time Left: 2 minutes
+20-04-03 15:08:40 Time Left: 1 minutes
+20-04-03 15:09:40 Next map: ctf_Death
+20-04-03 15:09:46 Death by MM, g_d. Boxo, mtk`
+20-04-03 15:14:46 Time Left: 5 minutes
+20-04-03 15:15:46 Time Left: 4 minutes
+20-04-03 15:16:46 Time Left: 3 minutes
+20-04-03 15:17:46 Time Left: 2 minutes
+20-04-03 15:18:46 Time Left: 1 minutes
+20-04-03 15:19:46 Next map: ctf_Hormone
+20-04-03 15:19:51 Hormone by Metsänaperot
+20-04-03 15:24:51 Time Left: 5 minutes
+20-04-03 15:25:51 Time Left: 4 minutes
+20-04-03 15:26:51 Time Left: 3 minutes
+20-04-03 15:27:51 Time Left: 2 minutes
+20-04-03 15:28:51 Time Left: 1 minutes
+20-04-03 15:29:51 Next map: ctf_Laos
+20-04-03 15:29:56 Laos
+20-04-03 15:34:56 Time Left: 5 minutes
+20-04-03 15:35:56 Time Left: 4 minutes
+20-04-03 15:36:56 Time Left: 3 minutes
+20-04-03 15:37:56 Time Left: 2 minutes
+20-04-03 15:38:56 Time Left: 1 minutes
+20-04-03 15:39:56 Next map: ctf_Laos2
+20-04-03 15:40:02 Laos
+20-04-03 15:45:02 Time Left: 5 minutes
+20-04-03 15:46:02 Time Left: 4 minutes
+20-04-03 15:47:02 Time Left: 3 minutes
+20-04-03 15:48:02 Time Left: 2 minutes
+20-04-03 15:49:02 Time Left: 1 minutes
+20-04-03 15:50:02 Next map: ctf_Maya
+20-04-03 15:50:07 Maya
+20-04-03 15:55:07 Time Left: 5 minutes
+20-04-03 15:56:07 Time Left: 4 minutes
+20-04-03 15:57:07 Time Left: 3 minutes
+20-04-03 15:58:07 Time Left: 2 minutes
+20-04-03 15:59:07 Time Left: 1 minutes
+20-04-03 16:00:07 Next map: ctf_MFM
+20-04-03 16:00:12 MFM 2 by mar77a
+20-04-03 16:05:12 Time Left: 5 minutes
+20-04-03 16:06:12 Time Left: 4 minutes
+20-04-03 16:07:12 Time Left: 3 minutes
+20-04-03 16:08:12 Time Left: 2 minutes
+20-04-03 16:09:12 Time Left: 1 minutes
+20-04-03 16:10:12 Next map: ctf_Run
+20-04-03 16:10:18 Run
+20-04-03 16:15:18 Time Left: 5 minutes
+20-04-03 16:16:18 Time Left: 4 minutes
+20-04-03 16:17:18 Time Left: 3 minutes
+20-04-03 16:18:18 Time Left: 2 minutes
+20-04-03 16:19:18 Time Left: 1 minutes
+20-04-03 16:20:18 Next map: ctf_OldRun
+20-04-03 16:20:23 Run (get to the flag!)
+20-04-03 16:25:23 Time Left: 5 minutes
+20-04-03 16:26:23 Time Left: 4 minutes
+20-04-03 16:27:23 Time Left: 3 minutes
+20-04-03 16:28:23 Time Left: 2 minutes
+20-04-03 16:29:23 Time Left: 1 minutes
+20-04-03 16:30:23 Next map: ctf_Ash
+20-04-03 16:30:28 ctf_Ash by chakapoko maker
+20-04-03 16:35:28 Time Left: 5 minutes
+20-04-03 16:36:28 Time Left: 4 minutes
+20-04-03 16:37:28 Time Left: 3 minutes
+20-04-03 16:38:28 Time Left: 2 minutes
+20-04-03 16:39:28 Time Left: 1 minutes
+20-04-03 16:40:28 Next map: ctf_B2b
+20-04-03 16:40:34 B2B
+20-04-03 16:45:33 Time Left: 5 minutes
+20-04-03 16:46:33 Time Left: 4 minutes
+20-04-03 16:47:33 Time Left: 3 minutes
+20-04-03 16:48:33 Time Left: 2 minutes
+20-04-03 16:49:33 Time Left: 1 minutes
+20-04-03 16:50:23 186.58.179.194:23073|53766E47384 requesting game...
+20-04-03 16:50:32 186.58.179.194:23073|53766E47384 requesting game...
+20-04-03 16:50:33 Next map: ctf_Blade
+20-04-03 16:50:39 Blade by Zakath
+20-04-03 16:50:40 186.58.179.194:23073|53766E47384 requesting game...
+20-04-03 16:50:41 186.58.179.194:23073|53766E47384 requesting game...
+20-04-03 16:50:43 186.58.179.194:23073|53766E47384 requesting game...
+20-04-03 16:55:39 Time Left: 5 minutes
+20-04-03 16:56:39 Time Left: 4 minutes
+20-04-03 16:57:39 Time Left: 3 minutes
+20-04-03 16:58:39 Time Left: 2 minutes
+20-04-03 16:59:39 Time Left: 1 minutes
+20-04-03 17:00:39 Next map: ctf_Viet
+20-04-03 17:00:44 Viet
+20-04-03 17:05:44 Time Left: 5 minutes
+20-04-03 17:06:44 Time Left: 4 minutes
+20-04-03 17:07:44 Time Left: 3 minutes
+20-04-03 17:08:44 Time Left: 2 minutes
+20-04-03 17:09:44 Time Left: 1 minutes
+20-04-03 17:10:44 Next map: ctf_Division
+20-04-03 17:10:49 Division by Boxo, KC, viral
+20-04-03 17:14:37 37.47.22.21:10824|78D46571BAD requesting game...
+20-04-03 17:14:39 80.51.181.43:49473|275765BEAC4 requesting game...
+20-04-03 17:14:42 80.51.181.43:49473|275765BEAC4 requesting game...
+20-04-03 17:14:44 80.51.181.43:49473|275765BEAC4 requesting game...
+20-04-03 17:14:48 80.51.181.43:49473|275765BEAC4 requesting game...
+20-04-03 17:15:49 Time Left: 5 minutes
+20-04-03 17:16:49 Time Left: 4 minutes
+20-04-03 17:17:49 Time Left: 3 minutes
+20-04-03 17:18:49 Time Left: 2 minutes
+20-04-03 17:19:49 Time Left: 1 minutes
+20-04-03 17:20:49 Next map: ctf_Death
+20-04-03 17:20:55 Death by MM, g_d. Boxo, mtk`
+20-04-03 17:25:55 Time Left: 5 minutes
+20-04-03 17:26:55 Time Left: 4 minutes
+20-04-03 17:27:55 Time Left: 3 minutes
+20-04-03 17:28:55 Time Left: 2 minutes
+20-04-03 17:29:55 Time Left: 1 minutes
+20-04-03 17:30:55 Next map: ctf_Hormone
+20-04-03 17:31:00 Hormone by Metsänaperot
+20-04-03 17:36:00 Time Left: 5 minutes
+20-04-03 17:37:00 Time Left: 4 minutes
+20-04-03 17:38:00 Time Left: 3 minutes
+20-04-03 17:39:00 Time Left: 2 minutes
+20-04-03 17:40:00 Time Left: 1 minutes
+20-04-03 17:41:00 Next map: ctf_Laos
+20-04-03 17:41:05 Laos
+20-04-03 17:46:05 Time Left: 5 minutes
+20-04-03 17:47:05 Time Left: 4 minutes
+20-04-03 17:48:05 Time Left: 3 minutes
+20-04-03 17:49:05 Time Left: 2 minutes
+20-04-03 17:50:05 Time Left: 1 minutes
+20-04-03 17:51:05 Next map: ctf_Laos2
+20-04-03 17:51:11 Laos
+20-04-03 17:56:11 Time Left: 5 minutes
+20-04-03 17:57:11 Time Left: 4 minutes
+20-04-03 17:58:11 Time Left: 3 minutes
+20-04-03 17:59:11 Time Left: 2 minutes
+20-04-03 18:00:11 Time Left: 1 minutes
+20-04-03 18:01:11 Next map: ctf_Maya
+20-04-03 18:01:16 Maya
+20-04-03 18:06:16 Time Left: 5 minutes
+20-04-03 18:07:16 Time Left: 4 minutes
+20-04-03 18:08:16 Time Left: 3 minutes
+20-04-03 18:09:16 Time Left: 2 minutes
+20-04-03 18:10:16 Time Left: 1 minutes
+20-04-03 18:11:16 Next map: ctf_MFM
+20-04-03 18:11:21 MFM 2 by mar77a
+20-04-03 18:16:21 Time Left: 5 minutes
+20-04-03 18:17:21 Time Left: 4 minutes
+20-04-03 18:18:21 Time Left: 3 minutes
+20-04-03 18:19:21 Time Left: 2 minutes
+20-04-03 18:20:21 Time Left: 1 minutes
+20-04-03 18:21:21 Next map: ctf_Run
+20-04-03 18:21:27 Run
+20-04-03 18:26:27 Time Left: 5 minutes
+20-04-03 18:27:27 Time Left: 4 minutes
+20-04-03 18:28:27 Time Left: 3 minutes
+20-04-03 18:29:27 Time Left: 2 minutes
+20-04-03 18:30:27 Time Left: 1 minutes
+20-04-03 18:31:27 Next map: ctf_OldRun
+20-04-03 18:31:32 Run (get to the flag!)
+20-04-03 18:36:32 Time Left: 5 minutes
+20-04-03 18:37:32 Time Left: 4 minutes
+20-04-03 18:38:32 Time Left: 3 minutes
+20-04-03 18:39:32 Time Left: 2 minutes
+20-04-03 18:40:32 Time Left: 1 minutes
+20-04-03 18:41:32 Next map: ctf_Ash
+20-04-03 18:41:37 ctf_Ash by chakapoko maker
+20-04-03 18:46:37 Time Left: 5 minutes
+20-04-03 18:47:37 Time Left: 4 minutes
+20-04-03 18:48:37 Time Left: 3 minutes
+20-04-03 18:49:37 Time Left: 2 minutes
+20-04-03 18:50:37 Time Left: 1 minutes
+20-04-03 18:51:37 Next map: ctf_B2b
+20-04-03 18:51:43 B2B
+20-04-03 18:56:43 Time Left: 5 minutes
+20-04-03 18:57:43 Time Left: 4 minutes
+20-04-03 18:58:43 Time Left: 3 minutes
+20-04-03 18:59:43 Time Left: 2 minutes
+20-04-03 19:00:43 Time Left: 1 minutes
+20-04-03 19:01:43 Next map: ctf_Blade
+20-04-03 19:01:48 Blade by Zakath
+20-04-03 19:06:48 Time Left: 5 minutes
+20-04-03 19:07:28 201.215.200.211:1027|5B255317F3E requesting game...
+20-04-03 19:07:29 201.215.200.211:23073|77BA1C8B732 requesting game...
+20-04-03 19:07:29 201.215.200.211:1027|5B255317F3E requesting game...
+20-04-03 19:07:31 201.215.200.211:1027|5B255317F3E requesting game...
+20-04-03 19:07:36 201.215.200.211:23073|77BA1C8B732 requesting game...
+20-04-03 19:07:48 Time Left: 4 minutes
+20-04-03 19:08:48 Time Left: 3 minutes
+20-04-03 19:09:48 Time Left: 2 minutes
+20-04-03 19:10:31 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:10:31 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:10:32 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 19:10:32 mipHo has joined bravo team.
+20-04-03 19:10:48 Time Left: 1 minutes
+20-04-03 19:10:59 mipHo captured the Red Flag
+20-04-03 19:11:48 Next map: ctf_Viet
+20-04-03 19:11:53 Viet
+20-04-03 19:12:07 mipHo captured the Red Flag
+20-04-03 19:12:22 mipHo captured the Red Flag
+20-04-03 19:12:38 mipHo captured the Red Flag
+20-04-03 19:12:55 mipHo captured the Red Flag
+20-04-03 19:13:11 mipHo captured the Red Flag
+20-04-03 19:13:32 mipHo captured the Red Flag
+20-04-03 19:13:49 mipHo captured the Red Flag
+20-04-03 19:13:53 mipHo captured the Red Flag
+20-04-03 19:14:12 mipHo captured the Red Flag
+20-04-03 19:14:50 mipHo captured the Red Flag
+20-04-03 19:15:01 mipHo captured the Red Flag
+20-04-03 19:15:10 mipHo captured the Red Flag
+20-04-03 19:15:27 mipHo captured the Red Flag
+20-04-03 19:15:48 mipHo captured the Red Flag
+20-04-03 19:16:08 mipHo captured the Red Flag
+20-04-03 19:16:25 mipHo captured the Red Flag
+20-04-03 19:16:26 mipHo captured the Red Flag
+20-04-03 19:16:43 mipHo captured the Red Flag
+20-04-03 19:16:50 mipHo captured the Red Flag
+20-04-03 19:16:53 Time Left: 5 minutes
+20-04-03 19:17:01 mipHo captured the Red Flag
+20-04-03 19:17:17 mipHo scores for Bravo Team
+20-04-03 19:17:26 mipHo captured the Red Flag
+20-04-03 19:17:52 mipHo captured the Red Flag
+20-04-03 19:17:53 Time Left: 4 minutes
+20-04-03 19:17:59 mipHo captured the Red Flag
+20-04-03 19:18:07 mipHo captured the Red Flag
+20-04-03 19:18:53 Time Left: 3 minutes
+20-04-03 19:19:01 mipHo captured the Red Flag
+20-04-03 19:19:22 mipHo captured the Red Flag
+20-04-03 19:19:53 Time Left: 2 minutes
+20-04-03 19:20:25 mipHo captured the Red Flag
+20-04-03 19:20:53 Time Left: 1 minutes
+20-04-03 19:21:02 mipHo has left bravo team.
+20-04-03 19:21:02 Server password changed to scl
+20-04-03 19:21:53 Next map: ctf_Division
+20-04-03 19:21:55 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:21:55 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:21:56 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 19:21:56 mipHo has joined bravo team.
+20-04-03 19:21:59 Division by Boxo, KC, viral
+20-04-03 19:22:10 mipHo captured the Red Flag
+20-04-03 19:22:20 mipHo scores for Bravo Team
+20-04-03 19:22:28 mipHo captured the Red Flag
+20-04-03 19:22:40 mipHo captured the Red Flag
+20-04-03 19:24:07 [mipHo] !map ctf_Rotten
+20-04-03 19:24:12 Rotten by Biggles
+20-04-03 19:24:38 mipHo captured the Red Flag
+20-04-03 19:24:52 mipHo captured the Red Flag
+20-04-03 19:25:04 mipHo scores for Bravo Team
+20-04-03 19:25:13 mipHo captured the Red Flag
+20-04-03 19:25:19 mipHo scores for Bravo Team
+20-04-03 19:25:31 mipHo captured the Red Flag
+20-04-03 19:26:05 mipHo scores for Bravo Team
+20-04-03 19:26:15 mipHo captured the Red Flag
+20-04-03 19:26:39 mipHo scores for Bravo Team
+20-04-03 19:26:44 mipHo captured the Red Flag
+20-04-03 19:27:07 mipHo scores for Bravo Team
+20-04-03 19:27:38 mipHo captured the Red Flag
+20-04-03 19:27:43 mipHo scores for Bravo Team
+20-04-03 19:27:53 mipHo captured the Red Flag
+20-04-03 19:28:34 mipHo captured the Red Flag
+20-04-03 19:29:08 mipHo captured the Red Flag
+20-04-03 19:29:12 Time Left: 5 minutes
+20-04-03 19:29:12 mipHo scores for Bravo Team
+20-04-03 19:29:23 mipHo captured the Red Flag
+20-04-03 19:29:56 mipHo captured the Red Flag
+20-04-03 19:30:12 Time Left: 4 minutes
+20-04-03 19:30:41 mipHo captured the Red Flag
+20-04-03 19:30:51 mipHo captured the Red Flag
+20-04-03 19:31:12 Time Left: 3 minutes
+20-04-03 19:31:14 mipHo captured the Red Flag
+20-04-03 19:32:12 Time Left: 2 minutes
+20-04-03 19:32:13 mipHo captured the Red Flag
+20-04-03 19:33:12 Time Left: 1 minutes
+20-04-03 19:33:55 mipHo captured the Red Flag
+20-04-03 19:34:12 Next map: ctf_Death
+20-04-03 19:34:17 Death by MM, g_d. Boxo, mtk`
+20-04-03 19:34:29 mipHo captured the Red Flag
+20-04-03 19:34:40 mipHo captured the Red Flag
+20-04-03 19:36:02 mipHo scores for Bravo Team
+20-04-03 19:36:09 mipHo captured the Red Flag
+20-04-03 19:36:21 mipHo scores for Bravo Team
+20-04-03 19:36:49 mipHo captured the Red Flag
+20-04-03 19:37:00 mipHo scores for Bravo Team
+20-04-03 19:37:49 mipHo has left bravo team.
+20-04-03 19:37:49 Server password changed to scl
+20-04-03 19:38:00 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:38:00 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 19:38:01 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 19:38:01 mipHo has joined alpha team.
+20-04-03 19:38:23 mipHo captured the Blue Flag
+20-04-03 19:39:17 Time Left: 5 minutes
+20-04-03 19:40:17 Time Left: 4 minutes
+20-04-03 19:41:00 mipHo scores for Alpha Team
+20-04-03 19:41:17 Time Left: 3 minutes
+20-04-03 19:42:17 Time Left: 2 minutes
+20-04-03 19:42:30 mipHo captured the Blue Flag
+20-04-03 19:42:34 mipHo captured the Blue Flag
+20-04-03 19:42:37 mipHo captured the Blue Flag
+20-04-03 19:42:59 mipHo has joined bravo team.
+20-04-03 19:43:17 Time Left: 1 minutes
+20-04-03 19:43:48 mipHo gets a ping warning
+20-04-03 19:44:17 Next map: ctf_Hormone
+20-04-03 19:44:23 Hormone by Metsänaperot
+20-04-03 19:44:28 mipHo captured the Red Flag
+20-04-03 19:45:09 mipHo captured the Red Flag
+20-04-03 19:45:32 mipHo captured the Red Flag
+20-04-03 19:46:17 mipHo captured the Red Flag
+20-04-03 19:46:55 5.62.47.247:1376|317834F3E21 requesting game...
+20-04-03 19:47:52 mipHo captured the Red Flag
+20-04-03 19:48:59 mipHo captured the Red Flag
+20-04-03 19:49:20 mipHo scores for Bravo Team
+20-04-03 19:49:23 Time Left: 5 minutes
+20-04-03 19:49:43 mipHo captured the Red Flag
+20-04-03 19:50:23 Time Left: 4 minutes
+20-04-03 19:50:29 mipHo captured the Red Flag
+20-04-03 19:51:15 mipHo scores for Bravo Team
+20-04-03 19:51:23 Time Left: 3 minutes
+20-04-03 19:51:24 mipHo captured the Red Flag
+20-04-03 19:52:23 Time Left: 2 minutes
+20-04-03 19:52:51 mipHo captured the Red Flag
+20-04-03 19:53:16 mipHo captured the Red Flag
+20-04-03 19:53:23 Time Left: 1 minutes
+20-04-03 19:53:55 mipHo scores for Bravo Team
+20-04-03 19:54:07 [mipHo] !r
+20-04-03 19:54:12 Hormone by Metsänaperot
+20-04-03 19:54:15 mipHo captured the Red Flag
+20-04-03 19:54:22 mipHo scores for Bravo Team
+20-04-03 19:54:59 mipHo captured the Red Flag
+20-04-03 19:55:38 mipHo scores for Bravo Team
+20-04-03 19:55:44 mipHo has left bravo team.
+20-04-03 19:55:44 Server password changed to scl
+20-04-03 19:59:12 Time Left: 5 minutes
+20-04-03 20:00:12 Time Left: 4 minutes
+20-04-03 20:01:12 Time Left: 3 minutes
+20-04-03 20:02:12 Time Left: 2 minutes
+20-04-03 20:03:12 Time Left: 1 minutes
+20-04-03 20:04:11 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:04:11 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:04:12 Next map: ctf_Laos
+20-04-03 20:04:12 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 20:04:12 mipHo has joined alpha team.
+20-04-03 20:04:17 Laos
+20-04-03 20:04:31 mipHo captured the Blue Flag
+20-04-03 20:04:39 mipHo scores for Alpha Team
+20-04-03 20:04:53 mipHo captured the Blue Flag
+20-04-03 20:04:56 mipHo captured the Blue Flag
+20-04-03 20:05:22 mipHo has left alpha team.
+20-04-03 20:05:22 Server password changed to scl
+20-04-03 20:07:01 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:07:01 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:07:02 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 20:07:02 mipHo has joined alpha team.
+20-04-03 20:07:15 mipHo captured the Blue Flag
+20-04-03 20:07:23 mipHo captured the Blue Flag
+20-04-03 20:07:29 mipHo captured the Blue Flag
+20-04-03 20:07:40 mipHo captured the Blue Flag
+20-04-03 20:07:56 mipHo scores for Alpha Team
+20-04-03 20:08:06 mipHo captured the Blue Flag
+20-04-03 20:08:14 mipHo has left alpha team.
+20-04-03 20:08:14 Server password changed to scl
+20-04-03 20:08:28 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:08:28 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:08:30 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 20:08:30 mipHo has joined alpha team.
+20-04-03 20:08:34 [mipHo] !map ctf_Ash
+20-04-03 20:08:39 ctf_Ash by chakapoko maker
+20-04-03 20:09:01 mipHo captured the Blue Flag
+20-04-03 20:09:01 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 20:09:03 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 20:09:04 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 20:09:04 LB ~ Skipo has joined bravo team.
+20-04-03 20:09:05 mipHo captured the Blue Flag
+20-04-03 20:09:07 [LB ~ Skipo] !R
+20-04-03 20:09:13 ctf_Ash by chakapoko maker
+20-04-03 20:09:31 (2) LB ~ Skipo killed (1) mipHo with Steyr AUG
+20-04-03 20:09:44 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:09:44 [LB ~ Skipo] !r
+20-04-03 20:09:49 ctf_Ash by chakapoko maker
+20-04-03 20:09:53 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:10:01 LB ~ Skipo captured the Red Flag
+20-04-03 20:10:07 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:10:09 mipHo returned the Red Flag
+20-04-03 20:10:12 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:10:17 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:10:29 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:10:33 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:10:39 mipHo captured the Blue Flag
+20-04-03 20:11:01 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:11:04 mipHo scores for Alpha Team
+20-04-03 20:11:08 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:11:15 LB ~ Skipo captured the Red Flag
+20-04-03 20:11:17 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:11:33 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:11:59 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:12:04 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:12:07 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:12:15 (2) LB ~ Skipo killed (1) mipHo with LAW
+20-04-03 20:12:18 LB ~ Skipo captured the Red Flag
+20-04-03 20:12:21 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:12:38 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:12:40 mipHo captured the Blue Flag
+20-04-03 20:12:45 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:12:52 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:12:54 LB ~ Skipo has left bravo team.
+20-04-03 20:12:55 mipHo captured the Blue Flag
+20-04-03 20:13:00 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 20:13:02 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 20:13:02 LB ~ Skipo has joined bravo team.
+20-04-03 20:13:15 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:13:17 LB ~ Skipo has left bravo team.
+20-04-03 20:13:22 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 20:13:23 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 20:13:23 LB ~ Skipo has joined bravo team.
+20-04-03 20:13:31 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:13:33 LB ~ Skipo returned the Blue Flag
+20-04-03 20:13:35 (1) mipHo killed (2) LB ~ Skipo with Combat Knife
+20-04-03 20:13:45 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:14:05 (2) LB ~ Skipo killed (1) mipHo with LAW
+20-04-03 20:14:12 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:14:12 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:14:18 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:14:25 LB ~ Skipo captured the Red Flag
+20-04-03 20:14:26 (2) LB ~ Skipo killed (1) mipHo with FN Minimi
+20-04-03 20:14:34 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:14:39 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:14:42 mipHo returned the Red Flag
+20-04-03 20:14:47 (1) mipHo killed (2) LB ~ Skipo with FN Minimi
+20-04-03 20:14:49 Time Left: 5 minutes
+20-04-03 20:14:55 mipHo captured the Blue Flag
+20-04-03 20:15:01 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:15:05 LB ~ Skipo returned the Blue Flag
+20-04-03 20:15:07 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:15:17 LB ~ Skipo captured the Red Flag
+20-04-03 20:15:22 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:15:22 179.105.198.7:23073|345537A6B72 requesting game...
+20-04-03 20:15:26 179.105.198.7:23073|345537A6B72 requesting game...
+20-04-03 20:15:34 mipHo captured the Blue Flag
+20-04-03 20:15:48 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:15:49 Time Left: 4 minutes
+20-04-03 20:15:53 mipHo scores for Alpha Team
+20-04-03 20:15:58 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:15:59 (2) LB ~ Skipo killed (1) mipHo with Cluster Grenades
+20-04-03 20:16:09 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:16:09 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:16:15 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:16:19 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:16:23 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:16:27 LB ~ Skipo captured the Red Flag
+20-04-03 20:16:37 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:16:39 mipHo returned the Red Flag
+20-04-03 20:16:43 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:16:49 Time Left: 3 minutes
+20-04-03 20:16:51 (1) mipHo killed (2) LB ~ Skipo with Desert Eagles
+20-04-03 20:16:54 (1) mipHo killed (2) LB ~ Skipo with Combat Knife
+20-04-03 20:17:04 (1) mipHo killed (2) LB ~ Skipo with Desert Eagles
+20-04-03 20:17:08 mipHo captured the Blue Flag
+20-04-03 20:17:13 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:17:18 (1) mipHo killed (2) LB ~ Skipo with Desert Eagles
+20-04-03 20:17:22 mipHo captured the Blue Flag
+20-04-03 20:17:28 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:17:29 LB ~ Skipo returned the Blue Flag
+20-04-03 20:17:34 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:17:37 LB ~ Skipo captured the Red Flag
+20-04-03 20:17:41 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:17:49 (1) mipHo killed (2) LB ~ Skipo with Desert Eagles
+20-04-03 20:17:49 Time Left: 2 minutes
+20-04-03 20:17:53 mipHo returned the Red Flag
+20-04-03 20:17:54 mipHo captured the Blue Flag
+20-04-03 20:17:56 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:03 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:10 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:15 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:22 LB ~ Skipo captured the Red Flag
+20-04-03 20:18:25 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:18:27 mipHo returned the Red Flag
+20-04-03 20:18:31 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:43 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:18:48 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:18:49 Time Left: 1 minutes
+20-04-03 20:18:53 LB ~ Skipo captured the Red Flag
+20-04-03 20:18:56 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:19:03 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:19:07 LB ~ Skipo captured the Red Flag
+20-04-03 20:19:13 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:19:23 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:19:34 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:19:39 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:19:39 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:19:45 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:19:49 mipHo captured the Blue Flag
+20-04-03 20:19:49 Next map: ctf_Laos2
+20-04-03 20:19:52 [mipHo] !r
+20-04-03 20:19:57 ctf_Ash by chakapoko maker
+20-04-03 20:20:03 [LB ~ Skipo] !map ctf_Guardian
+20-04-03 20:20:08 ctf_Guardian by SuoW
+20-04-03 20:20:16 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:20:20 mipHo captured the Blue Flag
+20-04-03 20:20:27 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:20:30 mipHo scores for Alpha Team
+20-04-03 20:20:34 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:20:35 LB ~ Skipo captured the Red Flag
+20-04-03 20:20:40 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:20:44 mipHo returned the Red Flag
+20-04-03 20:20:47 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:20:53 (2) LB ~ Skipo killed (1) mipHo with Flamer
+20-04-03 20:20:57 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:20:58 LB ~ Skipo captured the Red Flag
+20-04-03 20:21:03 (2) LB ~ Skipo killed (1) mipHo with Flamer
+20-04-03 20:21:07 LB ~ Skipo scores for Bravo Team
+20-04-03 20:21:11 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:21:11 (2) LB ~ Skipo killed (1) mipHo with Flamer
+20-04-03 20:21:24 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:21:30 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:21:38 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:21:42 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:21:46 LB ~ Skipo captured the Red Flag
+20-04-03 20:21:47 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:21:52 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:22:02 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:22:06 mipHo captured the Blue Flag
+20-04-03 20:22:08 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:22:19 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:22:19 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:22:26 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:22:29 mipHo captured the Blue Flag
+20-04-03 20:22:31 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:22:35 LB ~ Skipo captured the Red Flag
+20-04-03 20:22:38 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:22:42 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:22:48 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:22:48 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:22:55 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:22:58 LB ~ Skipo captured the Red Flag
+20-04-03 20:22:59 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:23:05 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:23:15 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:23:19 mipHo captured the Blue Flag
+20-04-03 20:23:25 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:23:27 mipHo scores for Alpha Team
+20-04-03 20:23:31 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:23:34 LB ~ Skipo captured the Red Flag
+20-04-03 20:23:36 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:23:37 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:23:39 190.22.5.251:23073|4C4052F23D1 requesting game...
+20-04-03 20:23:42 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:23:47 LB ~ Skipo captured the Red Flag
+20-04-03 20:23:50 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:23:50 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:23:54 190.22.5.251:23073|4C4052F23D1 requesting game...
+20-04-03 20:23:57 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:23:57 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:24:13 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:17 mipHo captured the Blue Flag
+20-04-03 20:24:20 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:26 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:30 mipHo scores for Alpha Team
+20-04-03 20:24:34 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:41 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:45 mipHo captured the Blue Flag
+20-04-03 20:24:47 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:24:50 LB ~ Skipo captured the Red Flag
+20-04-03 20:24:52 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:24:59 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:25:02 LB ~ Skipo captured the Red Flag
+20-04-03 20:25:04 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:25:08 mipHo captured the Blue Flag
+20-04-03 20:25:08 Time Left: 5 minutes
+20-04-03 20:25:20 LB ~ Skipo captured the Red Flag
+20-04-03 20:25:26 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:25:26 mipHo returned the Red Flag
+20-04-03 20:25:31 mipHo scores for Alpha Team
+20-04-03 20:25:33 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:25:35 LB ~ Skipo captured the Red Flag
+20-04-03 20:25:37 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:25:37 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:25:44 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:25:49 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:25:56 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:26:01 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:26:08 Time Left: 4 minutes
+20-04-03 20:26:09 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:26:21 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:26:43 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:26:51 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:27:03 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:27:06 mipHo captured the Blue Flag
+20-04-03 20:27:08 Time Left: 3 minutes
+20-04-03 20:27:15 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:27:19 mipHo scores for Alpha Team
+20-04-03 20:27:22 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:27:26 LB ~ Skipo captured the Red Flag
+20-04-03 20:27:28 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:27:31 mipHo returned the Red Flag
+20-04-03 20:27:35 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:27:38 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:27:49 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:27:53 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:28:00 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:28:04 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:28:08 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:28:08 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:28:08 Time Left: 2 minutes
+20-04-03 20:28:17 LB ~ Skipo captured the Red Flag
+20-04-03 20:28:21 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:28:26 LB ~ Skipo scores for Bravo Team
+20-04-03 20:28:31 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:28:32 mipHo captured the Blue Flag
+20-04-03 20:28:36 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:28:36 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:28:41 LB ~ Skipo returned the Blue Flag
+20-04-03 20:28:52 (1) mipHo killed (2) LB ~ Skipo with Ak-74
+20-04-03 20:28:59 (2) LB ~ Skipo killed (1) mipHo with HK MP5
+20-04-03 20:29:04 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:29:08 Time Left: 1 minutes
+20-04-03 20:29:10 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:29:14 mipHo captured the Blue Flag
+20-04-03 20:29:18 (1) mipHo killed (2) LB ~ Skipo with Combat Knife
+20-04-03 20:29:21 mipHo scores for Alpha Team
+20-04-03 20:29:23 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:29:28 LB ~ Skipo captured the Red Flag
+20-04-03 20:29:32 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:29:37 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:29:40 mipHo captured the Blue Flag
+20-04-03 20:29:43 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:29:43 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:29:48 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:29:54 (1) mipHo killed (2) LB ~ Skipo with Flamer
+20-04-03 20:30:08 Next map: ctf_Maya
+20-04-03 20:30:14 Maya
+20-04-03 20:30:30 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:30:32 mipHo captured the Blue Flag
+20-04-03 20:30:35 LB ~ Skipo returned the Blue Flag
+20-04-03 20:30:38 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:30:52 [LB ~ Skipo] !map ctf_Mine
+20-04-03 20:30:57 ctf_Mine by Pure
+20-04-03 20:30:58 mipHo has left alpha team.
+20-04-03 20:31:00 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:31:00 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:31:02 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 20:31:02 mipHo has joined alpha team.
+20-04-03 20:31:05 (1) mipHo killed (2) LB ~ Skipo with HK MP5
+20-04-03 20:31:14 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:31:31 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:31:40 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:31:47 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:31:54 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:32:00 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:32:04 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:32:11 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:32:16 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:32:23 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:32:27 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:32:33 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:32:33 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:32:40 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:32:43 LB ~ Skipo captured the Red Flag
+20-04-03 20:32:47 mipHo returned the Red Flag
+20-04-03 20:32:48 (1) mipHo killed (2) LB ~ Skipo with LAW
+20-04-03 20:32:58 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:33:07 LB ~ Skipo captured the Red Flag
+20-04-03 20:33:08 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:33:12 mipHo captured the Blue Flag
+20-04-03 20:33:14 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:33:17 LB ~ Skipo captured the Red Flag
+20-04-03 20:33:23 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:33:23 mipHo returned the Red Flag
+20-04-03 20:33:26 mipHo captured the Blue Flag
+20-04-03 20:33:31 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:33:35 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:33:39 mipHo captured the Blue Flag
+20-04-03 20:33:40 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:33:44 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:33:49 LB ~ Skipo captured the Red Flag
+20-04-03 20:33:50 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:33:54 mipHo captured the Blue Flag
+20-04-03 20:33:57 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:34:06 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:34:10 mipHo returned the Red Flag
+20-04-03 20:34:15 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:34:18 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:34:24 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:34:28 LB ~ Skipo captured the Red Flag
+20-04-03 20:34:29 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:34:35 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:34:37 LB ~ Skipo captured the Red Flag
+20-04-03 20:34:38 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:34:43 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:34:47 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:34:52 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:34:55 mipHo captured the Blue Flag
+20-04-03 20:34:56 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:35:00 mipHo returned the Red Flag
+20-04-03 20:35:01 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:35:06 LB ~ Skipo returned the Blue Flag
+20-04-03 20:35:08 mipHo captured the Blue Flag
+20-04-03 20:35:09 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:35:11 LB ~ Skipo returned the Blue Flag
+20-04-03 20:35:16 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:35:22 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:35:22 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:35:31 mipHo captured the Blue Flag
+20-04-03 20:35:37 LB ~ Skipo captured the Red Flag
+20-04-03 20:35:39 mipHo captured the Blue Flag
+20-04-03 20:35:46 mipHo returned the Red Flag
+20-04-03 20:35:48 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:35:54 mipHo captured the Blue Flag
+20-04-03 20:35:56 LB ~ Skipo captured the Red Flag
+20-04-03 20:35:57 Time Left: 5 minutes
+20-04-03 20:36:01 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:36:09 LB ~ Skipo returned the Blue Flag
+20-04-03 20:36:12 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:36:13 LB ~ Skipo captured the Red Flag
+20-04-03 20:36:16 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:36:21 LB ~ Skipo captured the Red Flag
+20-04-03 20:36:22 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:36:29 mipHo captured the Blue Flag
+20-04-03 20:36:31 mipHo returned the Red Flag
+20-04-03 20:36:36 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:36:42 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:36:49 LB ~ Skipo captured the Red Flag
+20-04-03 20:36:57 Time Left: 4 minutes
+20-04-03 20:36:59 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:37:01 LB ~ Skipo returned the Blue Flag
+20-04-03 20:37:06 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:37:07 mipHo returned the Red Flag
+20-04-03 20:37:11 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:37:16 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:37:21 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:37:23 mipHo captured the Blue Flag
+20-04-03 20:37:25 mipHo captured the Blue Flag
+20-04-03 20:37:29 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:37:35 mipHo captured the Blue Flag
+20-04-03 20:37:42 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:37:43 [mipHo] Son of a bitch!
+20-04-03 20:37:43 LB ~ Skipo returned the Blue Flag
+20-04-03 20:37:49 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:37:57 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:37:57 Time Left: 3 minutes
+20-04-03 20:38:04 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:38:08 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:38:18 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:38:27 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:38:33 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:38:35 LB ~ Skipo captured the Red Flag
+20-04-03 20:38:37 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:38:43 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:38:46 LB ~ Skipo captured the Red Flag
+20-04-03 20:38:47 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:38:49 mipHo returned the Red Flag
+20-04-03 20:38:56 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:38:57 Time Left: 2 minutes
+20-04-03 20:39:06 LB ~ Skipo captured the Red Flag
+20-04-03 20:39:13 [mipHo] JAJAA
+20-04-03 20:39:14 LB ~ Skipo captured the Red Flag
+20-04-03 20:39:15 LB ~ Skipo captured the Red Flag
+20-04-03 20:39:21 LB ~ Skipo captured the Red Flag
+20-04-03 20:39:25 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:39:27 mipHo returned the Red Flag
+20-04-03 20:39:34 (1) mipHo killed (2) LB ~ Skipo with LAW
+20-04-03 20:39:38 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:39:43 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:39:47 mipHo captured the Blue Flag
+20-04-03 20:39:48 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:39:53 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:39:54 LB ~ Skipo returned the Blue Flag
+20-04-03 20:39:57 LB ~ Skipo captured the Red Flag
+20-04-03 20:39:57 Time Left: 1 minutes
+20-04-03 20:39:58 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:40:03 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:40:07 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:40:09 mipHo returned the Red Flag
+20-04-03 20:40:10 mipHo captured the Blue Flag
+20-04-03 20:40:11 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:40:16 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:40:18 LB ~ Skipo returned the Blue Flag
+20-04-03 20:40:21 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:40:25 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:40:29 (1) mipHo killed (2) LB ~ Skipo with LAW
+20-04-03 20:40:34 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:40:41 (1) mipHo killed (2) LB ~ Skipo with Ruger 77
+20-04-03 20:40:46 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:40:54 mipHo captured the Blue Flag
+20-04-03 20:40:57 Next map: ctf_MFM
+20-04-03 20:41:03 MFM 2 by mar77a
+20-04-03 20:41:14 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:41:19 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:41:23 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:41:23 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:41:31 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:41:35 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:41:49 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:41:54 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:42:00 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:42:04 mipHo captured the Blue Flag
+20-04-03 20:42:16 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:42:21 mipHo scores for Alpha Team
+20-04-03 20:42:31 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:42:35 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:42:35 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:42:44 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:42:51 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:42:55 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:43:02 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:43:07 LB ~ Skipo captured the Red Flag
+20-04-03 20:43:09 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:43:17 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:43:22 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:43:31 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:43:38 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:43:48 mipHo captured the Blue Flag
+20-04-03 20:43:50 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:43:54 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:43:59 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:44:03 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:44:12 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:44:17 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:44:17 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:44:27 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:44:31 mipHo captured the Blue Flag
+20-04-03 20:44:38 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:44:47 mipHo scores for Alpha Team
+20-04-03 20:44:51 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:44:51 LB ~ Skipo captured the Red Flag
+20-04-03 20:44:57 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:44:59 mipHo returned the Red Flag
+20-04-03 20:45:03 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:45:09 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:45:14 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:45:21 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:45:21 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:45:28 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:45:33 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:45:39 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:45:43 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:45:51 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:45:58 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:46:02 mipHo captured the Blue Flag
+20-04-03 20:46:03 Time Left: 5 minutes
+20-04-03 20:46:17 (2) LB ~ Skipo killed (1) mipHo with Combat Knife
+20-04-03 20:46:18 [mipHo] I am the law!
+20-04-03 20:46:19 LB ~ Skipo captured the Red Flag
+20-04-03 20:46:21 mipHo captured the Blue Flag
+20-04-03 20:46:24 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:46:24 LB ~ Skipo returned the Blue Flag
+20-04-03 20:46:32 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:46:37 LB ~ Skipo scores for Bravo Team
+20-04-03 20:46:42 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:46:48 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:46:53 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:47:01 LB ~ Skipo captured the Red Flag
+20-04-03 20:47:03 Time Left: 4 minutes
+20-04-03 20:47:12 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:47:14 mipHo returned the Red Flag
+20-04-03 20:47:18 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:47:31 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:47:38 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:47:46 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:47:51 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:47:56 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:48:00 (2) LB ~ Skipo killed (1) mipHo with Grenade
+20-04-03 20:48:03 Time Left: 3 minutes
+20-04-03 20:48:07 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:48:12 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:48:20 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:48:24 mipHo captured the Blue Flag
+20-04-03 20:48:35 (2) LB ~ Skipo killed (1) mipHo with Ruger 77
+20-04-03 20:48:45 LB ~ Skipo captured the Red Flag
+20-04-03 20:48:55 mipHo captured the Blue Flag
+20-04-03 20:49:00 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:49:03 Time Left: 2 minutes
+20-04-03 20:49:05 mipHo returned the Red Flag
+20-04-03 20:49:11 (1) mipHo killed (2) LB ~ Skipo with Grenade
+20-04-03 20:49:15 mipHo captured the Blue Flag
+20-04-03 20:49:18 mipHo captured the Blue Flag
+20-04-03 20:49:22 (1) mipHo killed (2) LB ~ Skipo with Spas-12
+20-04-03 20:49:24 LB ~ Skipo has left bravo team.
+20-04-03 20:49:24 mipHo scores for Alpha Team
+20-04-03 20:49:32 mipHo has left alpha team.
+20-04-03 20:49:32 Server password changed to scl
+20-04-03 20:50:03 Time Left: 1 minutes
+20-04-03 20:51:03 Next map: ctf_Run
+20-04-03 20:51:08 Run
+20-04-03 20:51:29 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:51:29 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:51:30 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 20:51:30 mipHo has joined alpha team.
+20-04-03 20:51:38 [mipHo] !map ctf_Horror
+20-04-03 20:51:43 Horror by Pure
+20-04-03 20:52:01 mipHo captured the Blue Flag
+20-04-03 20:52:28 mipHo captured the Blue Flag
+20-04-03 20:52:30 mipHo has left alpha team.
+20-04-03 20:52:30 Server password changed to scl
+20-04-03 20:53:42 188.186.210.202:3809|1F6671C28ED requesting game...
+20-04-03 20:56:43 Time Left: 5 minutes
+20-04-03 20:57:43 Time Left: 4 minutes
+20-04-03 20:58:43 Time Left: 3 minutes
+20-04-03 20:59:20 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:59:20 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 20:59:43 Time Left: 2 minutes
+20-04-03 21:00:43 Time Left: 1 minutes
+20-04-03 21:01:02 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:01:02 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:01:03 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 21:01:03 mipHo has joined alpha team.
+20-04-03 21:01:08 [mipHo] !map ctf_Amensia
+20-04-03 21:01:08 Map not found (ctf_Amensia)
+20-04-03 21:01:17 [mipHo] !map ctf_Amnesia
+20-04-03 21:01:22 Amnesia - by LoneWolf
+20-04-03 21:01:34 mipHo captured the Blue Flag
+20-04-03 21:01:39 mipHo has left alpha team.
+20-04-03 21:01:39 Server password changed to scl
+20-04-03 21:01:42 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:01:42 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:01:42 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 21:01:42 mipHo has joined alpha team.
+20-04-03 21:01:46 201.219.234.130:3135|64995B15DC0 requesting game...
+20-04-03 21:01:47 mipHo captured the Blue Flag
+20-04-03 21:01:48 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 21:01:48 sT#' YnGwi3 joining game (201.219.234.130:3135) HWID:64995B15DC0
+20-04-03 21:01:48 sT#' YnGwi3 has joined bravo team.
+20-04-03 21:01:50 mipHo captured the Blue Flag
+20-04-03 21:01:51 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 21:01:51 LB ~ Skipo has joined alpha team.
+20-04-03 21:01:57 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:02:00 mipHo returned the Red Flag
+20-04-03 21:02:10 sT#' YnGwi3 has joined alpha team.
+20-04-03 21:02:10 sT#' YnGwi3 has joined bravo team.
+20-04-03 21:02:14 LB ~ Skipo captured the Blue Flag
+20-04-03 21:02:20 mipHo captured the Blue Flag
+20-04-03 21:02:23 [sT#' YnGwi3] !map ctf_Catch
+20-04-03 21:02:28 Catch by Zakath
+20-04-03 21:02:28 LB ~ Skipo has left alpha team.
+20-04-03 21:02:28 mipHo has left alpha team.
+20-04-03 21:02:28 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 21:02:30 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:02:30 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:02:31 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 21:02:31 LB ~ Skipo has joined alpha team.
+20-04-03 21:02:31 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 21:02:31 mipHo has joined alpha team.
+20-04-03 21:02:37 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:02:40 mipHo returned the Red Flag
+20-04-03 21:02:49 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:02:53 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:02:54 sT#' KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-03 21:02:54 sT#' KorN has joined as spectator.
+20-04-03 21:02:55 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:02:57 mipHo captured the Blue Flag
+20-04-03 21:03:01 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:03:05 LB ~ Skipo captured the Blue Flag
+20-04-03 21:03:12 LB ~ Skipo captured the Blue Flag
+20-04-03 21:03:16 LB ~ Skipo captured the Blue Flag
+20-04-03 21:03:17 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:03:19 mipHo captured the Blue Flag
+20-04-03 21:03:27 (2) sT#' YnGwi3 killed (1) LB ~ Skipo with Spas-12
+20-04-03 21:03:27 sT#' KorN has left spectators
+20-04-03 21:03:31 (1) mipHo killed (2) sT#' YnGwi3 with HK MP5
+20-04-03 21:03:34 mipHo returned the Red Flag
+20-04-03 21:03:35 [sT#' YnGwi3] !map Fl
+20-04-03 21:03:35 Map not found (Fl)
+20-04-03 21:03:37 [LB ~ Skipo] !map ctf_Horror
+20-04-03 21:03:38 [sT#' YnGwi3] !map ctf_Fl
+20-04-03 21:03:40 [sT#' YnGwi3] !map ctf_Fl
+20-04-03 21:03:42 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:03:43 sT#' KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-03 21:03:43 sT#' KorN has joined as spectator.
+20-04-03 21:03:45 Frozen Lake by Zakath
+20-04-03 21:03:45 LB ~ Skipo has left alpha team.
+20-04-03 21:03:45 mipHo has left alpha team.
+20-04-03 21:03:45 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 21:03:47 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 21:03:47 LB ~ Skipo has joined alpha team.
+20-04-03 21:03:47 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:03:47 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:03:48 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 21:03:48 mipHo has joined alpha team.
+20-04-03 21:03:52 (1) mipHo killed (2) sT#' YnGwi3 with HK MP5
+20-04-03 21:03:59 mipHo captured the Blue Flag
+20-04-03 21:04:04 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:04:17 mipHo captured the Blue Flag
+20-04-03 21:04:22 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:04:27 LB ~ Skipo captured the Blue Flag
+20-04-03 21:04:27 LB ~ Skipo scores for Alpha Team
+20-04-03 21:04:34 LB ~ Skipo captured the Blue Flag
+20-04-03 21:04:40 LB ~ Skipo scores for Alpha Team
+20-04-03 21:04:42 (2) sT#' YnGwi3 killed (1) LB ~ Skipo with Spas-12
+20-04-03 21:04:43 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:04:50 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:04:53 mipHo captured the Blue Flag
+20-04-03 21:04:58 [sT#' YnGwi3] !map ctf_Horror
+20-04-03 21:05:03 Horror by Pure
+20-04-03 21:05:09 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:05:12 mipHo captured the Blue Flag
+20-04-03 21:05:15 mipHo captured the Blue Flag
+20-04-03 21:05:18 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:05:22 mipHo captured the Blue Flag
+20-04-03 21:05:28 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:05:32 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:05:32 mipHo captured the Blue Flag
+20-04-03 21:05:36 LB ~ Skipo captured the Blue Flag
+20-04-03 21:05:37 (2) sT#' YnGwi3 killed (1) mipHo with Spas-12
+20-04-03 21:05:39 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:05:48 LB ~ Skipo scores for Alpha Team
+20-04-03 21:05:50 (2) sT#' YnGwi3 killed (1) LB ~ Skipo with Spas-12
+20-04-03 21:05:56 mipHo captured the Blue Flag
+20-04-03 21:06:06 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:06:08 mipHo captured the Blue Flag
+20-04-03 21:06:14 LB ~ Skipo captured the Blue Flag
+20-04-03 21:06:25 [LB ~ Skipo] !map ctf_Mine
+20-04-03 21:06:31 ctf_Mine by Pure
+20-04-03 21:06:31 sT#' KorN has left spectators
+20-04-03 21:06:32 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:06:33 sT#' KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-03 21:06:33 sT#' KorN has joined as spectator.
+20-04-03 21:06:37 mipHo captured the Blue Flag
+20-04-03 21:06:42 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:06:47 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:06:48 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:06:58 mipHo returned the Red Flag
+20-04-03 21:07:05 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:07:11 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:07:11 (1) mipHo killed (2) sT#' YnGwi3 with HK MP5
+20-04-03 21:07:11 mipHo returned the Red Flag
+20-04-03 21:07:19 mipHo captured the Blue Flag
+20-04-03 21:07:27 mipHo captured the Blue Flag
+20-04-03 21:07:28 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:07:33 LB ~ Skipo returned the Red Flag
+20-04-03 21:07:34 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:07:40 mipHo captured the Blue Flag
+20-04-03 21:07:45 LB ~ Skipo captured the Blue Flag
+20-04-03 21:07:48 LB ~ Skipo captured the Blue Flag
+20-04-03 21:07:55 mipHo captured the Blue Flag
+20-04-03 21:07:57 mipHo scores for Alpha Team
+20-04-03 21:08:07 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:08:09 mipHo captured the Blue Flag
+20-04-03 21:08:15 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:08:18 LB ~ Skipo captured the Blue Flag
+20-04-03 21:08:19 sT#' KorN has left spectators
+20-04-03 21:08:30 [sT#' YnGwi3] !map ctf_ Tv
+20-04-03 21:08:30 Map not found (ctf_)
+20-04-03 21:08:32 LB ~ Skipo captured the Blue Flag
+20-04-03 21:08:33 [sT#' YnGwi3] !map ctf_Tv
+20-04-03 21:08:39 Terminal Velocity by Zakath
+20-04-03 21:08:39 LB ~ Skipo has left alpha team.
+20-04-03 21:08:39 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:08:39 mipHo has left alpha team.
+20-04-03 21:08:39 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 21:08:39 sT#' KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-03 21:08:39 sT#' KorN has joined as spectator.
+20-04-03 21:08:40 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 21:08:40 LB ~ Skipo has joined alpha team.
+20-04-03 21:08:41 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:08:41 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-03 21:08:42 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-03 21:08:42 mipHo has joined alpha team.
+20-04-03 21:08:42 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:08:43 LB ~ Skipo returned the Red Flag
+20-04-03 21:08:49 LB ~ Skipo captured the Blue Flag
+20-04-03 21:08:55 LB ~ Skipo returned the Red Flag
+20-04-03 21:08:57 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:09:03 mipHo returned the Red Flag
+20-04-03 21:09:03 LB ~ Skipo scores for Alpha Team
+20-04-03 21:09:07 mipHo returned the Red Flag
+20-04-03 21:09:09 mipHo returned the Red Flag
+20-04-03 21:09:10 LB ~ Skipo captured the Blue Flag
+20-04-03 21:09:12 mipHo returned the Red Flag
+20-04-03 21:09:15 mipHo returned the Red Flag
+20-04-03 21:09:18 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:09:21 sT#' KorN has left spectators
+20-04-03 21:09:26 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Grenade
+20-04-03 21:09:26 LB ~ Skipo returned the Red Flag
+20-04-03 21:09:37 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:09:37 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:09:39 LB ~ Skipo returned the Red Flag
+20-04-03 21:09:40 [mipHo] !map ctf_Aftermath
+20-04-03 21:09:46 ctf_aftermath by Viral
+20-04-03 21:09:46 LB ~ Skipo has left alpha team.
+20-04-03 21:09:46 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-03 21:09:47 LB ~ Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-03 21:09:47 LB ~ Skipo has joined alpha team.
+20-04-03 21:09:52 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:09:54 mipHo captured the Blue Flag
+20-04-03 21:09:56 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-03 21:09:57 sT#' KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-03 21:09:57 sT#' KorN has joined as spectator.
+20-04-03 21:09:58 mipHo captured the Blue Flag
+20-04-03 21:10:04 LB ~ Skipo captured the Blue Flag
+20-04-03 21:10:05 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:10:07 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:10:08 LB ~ Skipo returned the Red Flag
+20-04-03 21:10:10 LB ~ Skipo scores for Alpha Team
+20-04-03 21:10:16 mipHo captured the Blue Flag
+20-04-03 21:10:17 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:10:18 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:10:30 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:10:35 mipHo captured the Blue Flag
+20-04-03 21:10:38 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Grenade
+20-04-03 21:10:47 mipHo captured the Blue Flag
+20-04-03 21:10:49 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:10:50 mipHo captured the Blue Flag
+20-04-03 21:10:56 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:10:57 sT#' KorN has left spectators
+20-04-03 21:10:58 LB ~ Skipo returned the Red Flag
+20-04-03 21:11:02 mipHo has joined spectators.
+20-04-03 21:11:04 LB ~ Skipo captured the Blue Flag
+20-04-03 21:11:06 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:11:19 mipHo has joined alpha team.
+20-04-03 21:11:29 LB ~ Skipo returned the Red Flag
+20-04-03 21:11:29 (2) sT#' YnGwi3 killed (1) LB ~ Skipo with Spas-12
+20-04-03 21:11:31 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:11:36 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:11:36 (1) LB ~ Skipo killed (2) sT#' YnGwi3 with Steyr AUG
+20-04-03 21:11:38 LB ~ Skipo returned the Red Flag
+20-04-03 21:11:41 mipHo captured the Blue Flag
+20-04-03 21:11:43 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:11:46 LB ~ Skipo has left alpha team.
+20-04-03 21:11:53 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:11:54 (2) sT#' YnGwi3 killed (1) mipHo with Barrett M82A1
+20-04-03 21:11:59 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:12:02 mipHo captured the Blue Flag
+20-04-03 21:12:16 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:12:17 (2) sT#' YnGwi3 killed (1) mipHo with Barrett M82A1
+20-04-03 21:12:21 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:12:26 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:12:34 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:12:35 mipHo captured the Blue Flag
+20-04-03 21:12:39 (2) sT#' YnGwi3 killed (1) mipHo with Barrett M82A1
+20-04-03 21:12:39 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:12:43 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:12:50 mipHo captured the Blue Flag
+20-04-03 21:12:51 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:13:01 (1) mipHo killed (2) sT#' YnGwi3 with M79
+20-04-03 21:13:03 mipHo returned the Red Flag
+20-04-03 21:13:14 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:13:21 (1) mipHo killed (2) sT#' YnGwi3 with Barrett M82A1
+20-04-03 21:13:26 mipHo returned the Red Flag
+20-04-03 21:13:27 (1) mipHo killed (2) sT#' YnGwi3 with Barrett M82A1
+20-04-03 21:13:30 mipHo scores for Alpha Team
+20-04-03 21:13:36 sT#' YnGwi3 captured the Red Flag
+20-04-03 21:13:42 sT#' YnGwi3 scores for Bravo Team
+20-04-03 21:13:43 (1) mipHo killed (2) sT#' YnGwi3 with Barrett M82A1
+20-04-03 21:13:44 mipHo captured the Blue Flag
+20-04-03 21:13:49 (1) mipHo killed (2) sT#' YnGwi3 with Barrett M82A1
+20-04-03 21:13:53 mipHo scores for Alpha Team
+20-04-03 21:13:56 [sT#' YnGwi3] !maps
+20-04-03 21:13:58 [sT#' YnGwi3] !listmaps
+20-04-03 21:13:59 mipHo captured the Blue Flag
+20-04-03 21:14:01 (2) sT#' YnGwi3 killed (1) mipHo with Barrett M82A1
+20-04-03 21:14:05 sT#' YnGwi3 returned the Blue Flag
+20-04-03 21:14:18 (1) mipHo killed (2) sT#' YnGwi3 with M79
+20-04-03 21:14:22 sT#' YnGwi3 has left bravo team.
+20-04-03 21:14:24 mipHo captured the Blue Flag
+20-04-03 21:14:32 mipHo has left alpha team.
+20-04-03 21:14:32 Server password changed to scl
+20-04-03 21:14:46 Time Left: 5 minutes
+20-04-03 21:15:46 Time Left: 4 minutes
+20-04-03 21:16:44 190.164.162.181:23073|23C48D0FE40 requesting game...
+20-04-03 21:16:46 Time Left: 3 minutes
+20-04-03 21:17:46 Time Left: 2 minutes
+20-04-03 21:18:46 Time Left: 1 minutes
+20-04-03 21:19:46 Next map: ctf_OldRun
+20-04-03 21:19:51 Run (get to the flag!)
+20-04-03 21:24:51 Time Left: 5 minutes
+20-04-03 21:25:51 Time Left: 4 minutes
+20-04-03 21:26:51 Time Left: 3 minutes
+20-04-03 21:27:51 Time Left: 2 minutes
+20-04-03 21:28:51 Time Left: 1 minutes
+20-04-03 21:29:51 Next map: ctf_Ash
+20-04-03 21:29:56 ctf_Ash by chakapoko maker
+20-04-03 21:34:56 Time Left: 5 minutes
+20-04-03 21:35:56 Time Left: 4 minutes
+20-04-03 21:36:56 Time Left: 3 minutes
+20-04-03 21:37:56 Time Left: 2 minutes
+20-04-03 21:38:56 Time Left: 1 minutes
+20-04-03 21:39:56 Next map: ctf_B2b
+20-04-03 21:40:02 B2B
+20-04-03 21:45:02 Time Left: 5 minutes
+20-04-03 21:46:02 Time Left: 4 minutes
+20-04-03 21:47:02 Time Left: 3 minutes
+20-04-03 21:48:02 Time Left: 2 minutes
+20-04-03 21:49:02 Time Left: 1 minutes
+20-04-03 21:50:02 Next map: ctf_Blade
+20-04-03 21:50:07 Blade by Zakath
+20-04-03 21:55:07 Time Left: 5 minutes
+20-04-03 21:56:07 Time Left: 4 minutes
+20-04-03 21:57:07 Time Left: 3 minutes
+20-04-03 21:58:07 Time Left: 2 minutes
+20-04-03 21:59:07 Time Left: 1 minutes
+20-04-03 22:00:07 Next map: ctf_Viet
+20-04-03 22:00:12 Viet
+20-04-03 22:05:12 Time Left: 5 minutes
+20-04-03 22:06:12 Time Left: 4 minutes
+20-04-03 22:07:12 Time Left: 3 minutes
+20-04-03 22:08:12 Time Left: 2 minutes
+20-04-03 22:09:12 Time Left: 1 minutes
+20-04-03 22:10:12 Next map: ctf_Division
+20-04-03 22:10:17 Division by Boxo, KC, viral
+20-04-03 22:15:17 Time Left: 5 minutes
+20-04-03 22:16:17 Time Left: 4 minutes
+20-04-03 22:17:17 Time Left: 3 minutes
+20-04-03 22:18:17 Time Left: 2 minutes
+20-04-03 22:19:17 Time Left: 1 minutes
+20-04-03 22:20:14 201.241.39.54:23073|535AA511D5F requesting game...
+20-04-03 22:20:15 |D.forc3|Lead joining game (201.241.39.54:23073) HWID:535AA511D5F
+20-04-03 22:20:15 |D.forc3|Lead has joined as spectator.
+20-04-03 22:20:17 Next map: ctf_Death
+20-04-03 22:20:23 Death by MM, g_d. Boxo, mtk`
+20-04-03 22:20:26 [|D.forc3|Lead] !a
+20-04-03 22:20:26 |D.forc3|Lead has joined alpha team.
+20-04-03 22:20:50 |D.forc3|Lead has left alpha team.
+20-04-03 22:20:50 Server password changed to scl
+20-04-03 22:21:53 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:21:55 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:21:57 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:22:10 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:22:13 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:22:16 201.239.63.172:14747|540FB01DF7C requesting game...
+20-04-03 22:22:17 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:22:27 179.56.73.145:23073|59F0267A364 requesting game...
+20-04-03 22:23:35 181.72.245.84:23073|438CC6B31F0 requesting game...
+20-04-03 22:25:23 Time Left: 5 minutes
+20-04-03 22:26:23 Time Left: 4 minutes
+20-04-03 22:27:23 Time Left: 3 minutes
+20-04-03 22:28:23 Time Left: 2 minutes
+20-04-03 22:29:23 Time Left: 1 minutes
+20-04-03 22:30:23 Next map: ctf_Hormone
+20-04-03 22:30:28 Hormone by Metsänaperot
+20-04-03 22:35:28 Time Left: 5 minutes
+20-04-03 22:36:28 Time Left: 4 minutes
+20-04-03 22:37:28 Time Left: 3 minutes
+20-04-03 22:38:28 Time Left: 2 minutes
+20-04-03 22:39:28 Time Left: 1 minutes
+20-04-03 22:40:28 Next map: ctf_Laos
+20-04-03 22:40:33 Laos
+20-04-03 22:45:33 Time Left: 5 minutes
+20-04-03 22:46:33 Time Left: 4 minutes
+20-04-03 22:47:33 Time Left: 3 minutes
+20-04-03 22:48:33 Time Left: 2 minutes
+20-04-03 22:49:33 Time Left: 1 minutes
+20-04-03 22:50:33 Next map: ctf_Laos2
+20-04-03 22:50:39 Laos
+20-04-03 22:55:39 Time Left: 5 minutes
+20-04-03 22:56:39 Time Left: 4 minutes
+20-04-03 22:57:39 Time Left: 3 minutes
+20-04-03 22:58:39 Time Left: 2 minutes
+20-04-03 22:59:39 Time Left: 1 minutes
+20-04-03 23:00:39 Next map: ctf_Maya
+20-04-03 23:00:44 Maya
+20-04-03 23:05:19 190.100.119.33:23073|4771E50F88A requesting game...
+20-04-03 23:05:21 190.100.119.33:23073|4771E50F88A requesting game...
+20-04-03 23:05:44 Time Left: 5 minutes
+20-04-03 23:06:44 Time Left: 4 minutes
+20-04-03 23:07:44 Time Left: 3 minutes
+20-04-03 23:08:44 Time Left: 2 minutes
+20-04-03 23:09:44 Time Left: 1 minutes
+20-04-03 23:10:44 Next map: ctf_MFM
+20-04-03 23:10:49 MFM 2 by mar77a
+20-04-03 23:15:49 Time Left: 5 minutes
+20-04-03 23:16:49 Time Left: 4 minutes
+20-04-03 23:17:49 Time Left: 3 minutes
+20-04-03 23:18:49 Time Left: 2 minutes
+20-04-03 23:19:49 Time Left: 1 minutes
+20-04-03 23:20:49 Next map: ctf_Run
+20-04-03 23:20:55 Run
+20-04-03 23:25:55 Time Left: 5 minutes
+20-04-03 23:26:55 Time Left: 4 minutes
+20-04-03 23:27:55 Time Left: 3 minutes
+20-04-03 23:28:55 Time Left: 2 minutes
+20-04-03 23:29:55 Time Left: 1 minutes
+20-04-03 23:30:55 Next map: ctf_OldRun
+20-04-03 23:31:00 Run (get to the flag!)
+20-04-03 23:36:00 Time Left: 5 minutes
+20-04-03 23:37:00 Time Left: 4 minutes
+20-04-03 23:38:00 Time Left: 3 minutes
+20-04-03 23:39:00 Time Left: 2 minutes
+20-04-03 23:40:00 Time Left: 1 minutes
+20-04-03 23:41:00 Next map: ctf_Ash
+20-04-03 23:41:05 ctf_Ash by chakapoko maker
+20-04-03 23:46:05 Time Left: 5 minutes
+20-04-03 23:47:05 Time Left: 4 minutes
+20-04-03 23:48:05 Time Left: 3 minutes
+20-04-03 23:48:24 190.161.155.92:23073|435A330A735 requesting game...
+20-04-03 23:48:29 190.161.155.92:23073|435A330A735 requesting game...
+20-04-03 23:48:32 190.161.155.92:23073|435A330A735 requesting game...
+20-04-03 23:49:05 Time Left: 2 minutes
+20-04-03 23:50:05 Time Left: 1 minutes
+20-04-03 23:51:05 Next map: ctf_B2b
+20-04-03 23:51:11 B2B
+20-04-03 23:56:11 Time Left: 5 minutes
+20-04-03 23:57:11 Time Left: 4 minutes
+20-04-03 23:58:11 Time Left: 3 minutes
+20-04-03 23:59:11 Time Left: 2 minutes
+20-04-04 00:00:11 Time Left: 1 minutes
+20-04-04 00:01:11 Next map: ctf_Blade
+20-04-04 00:01:16 Blade by Zakath
+20-04-04 00:06:16 Time Left: 5 minutes
+20-04-04 00:07:16 Time Left: 4 minutes
+20-04-04 00:08:16 Time Left: 3 minutes
+20-04-04 00:09:16 Time Left: 2 minutes
+20-04-04 00:10:16 Time Left: 1 minutes
+20-04-04 00:11:16 Next map: ctf_Viet
+20-04-04 00:11:21 Viet
+20-04-04 00:16:21 Time Left: 5 minutes
+20-04-04 00:17:21 Time Left: 4 minutes
+20-04-04 00:18:21 Time Left: 3 minutes
+20-04-04 00:19:21 Time Left: 2 minutes
+20-04-04 00:20:21 Time Left: 1 minutes
+20-04-04 00:21:21 Next map: ctf_Division
+20-04-04 00:21:27 Division by Boxo, KC, viral
+20-04-04 00:26:27 Time Left: 5 minutes
+20-04-04 00:27:27 Time Left: 4 minutes
+20-04-04 00:28:27 Time Left: 3 minutes
+20-04-04 00:28:43 Shutting down server...
+20-04-04 00:28:43 Shutting down FileServer...
+20-04-04 00:28:43 Shutting down admin server...

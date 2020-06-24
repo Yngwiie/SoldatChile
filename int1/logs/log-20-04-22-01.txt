@@ -1,0 +1,64 @@
+20-04-22 02:16:20    Log Started
+20-04-22 02:16:20 Opened /home/kader_b/int1/soldat.ini
+20-04-22 02:16:20 Creating network interface.
+20-04-22 02:16:20 Loading Animations.
+20-04-22 02:16:21 Loading Lobby Servers List
+20-04-22 02:16:21 Loading Maps List
+20-04-22 02:16:21 Loading Map.
+20-04-22 02:16:21 Creating Weapons.
+20-04-22 02:16:21 Starting Game Server.
+20-04-22 02:16:21 TCP/IP File Server started
+20-04-22 02:16:30  Net - Divas| Rattle connected 22-4-20 02:16:30
+20-04-22 02:16:31  Net - |D.Forc3|.LinkirD connected 22-4-20 02:16:31
+20-04-22 02:16:34  Net - |D.Forc3|Lawshot connected 22-4-20 02:16:34
+20-04-22 02:16:36  Net - Divas| Rattle connected 22-4-20 02:16:36
+20-04-22 02:16:40  Net - |D.Forc3|Gatitos connected 22-4-20 02:16:40
+20-04-22 02:16:48  Net - Pricilo connected 22-4-20 02:16:48
+20-04-22 02:16:50  Net - |D.Form3|LeprosycL connected 22-4-20 02:16:50
+20-04-22 02:17:09  Net - Divas| mipHo connected 22-4-20 02:17:09
+20-04-22 02:17:10  Net - |D.Form3|LeprosycL disconnected 22-4-20 02:17:10
+20-04-22 02:17:10  Net - Divas| Enigma connected 22-4-20 02:17:10
+20-04-22 02:17:12  Net - Divas| Sk8' connected 22-4-20 02:17:12
+20-04-22 02:17:20  Net - |D.Forc3|LeprosycL connected 22-4-20 02:17:20
+20-04-22 02:17:25  Net - |D.Forc3|.LinkirD disconnected 22-4-20 02:17:25
+20-04-22 02:17:37  Net - sT.- YnGwi3 connected 22-4-20 02:17:37
+20-04-22 02:26:38  Net - sT.- YnGwi3 disconnected 22-4-20 02:26:38
+20-04-22 02:28:53  Net - Divas| Rattle connected 22-4-20 02:28:53
+20-04-22 02:28:59  Net - Divas| Sk8' connected 22-4-20 02:28:59
+20-04-22 02:29:39  Net - |D.Forc3|Luis Dimas connected 22-4-20 02:29:39
+20-04-22 02:29:42  Net - |D.Forc3|Gatitos disconnected 22-4-20 02:29:42
+20-04-22 02:40:50  Net - |D.Forc3|Lawshot disconnected 22-4-20 02:40:50
+20-04-22 02:40:52  Net - Divas| Rattle disconnected 22-4-20 02:40:52
+20-04-22 02:40:52  Net - Divas| Enigma disconnected 22-4-20 02:40:52
+20-04-22 02:40:54  Net - |D.Forc3|LeprosycL disconnected 22-4-20 02:40:54
+20-04-22 02:40:56  Net - |D.Forc3|Luis Dimas disconnected 22-4-20 02:40:56
+20-04-22 02:41:06  Net - Divas| mipHo disconnected 22-4-20 02:41:06
+20-04-22 02:41:09  Net - Pricilo disconnected 22-4-20 02:41:09
+20-04-22 02:41:11  Net - Divas| Sk8' disconnected 22-4-20 02:41:11
+20-04-22 02:43:26  Net - Divas| Rattle connected 22-4-20 02:43:26
+20-04-22 02:43:49  Net - Divas| Sk8' connected 22-4-20 02:43:49
+20-04-22 02:44:09  Net - |D.Forc3|Luis Dimas connected 22-4-20 02:44:09
+20-04-22 02:44:25  Net - Divas| Sk8' disconnected 22-4-20 02:44:25
+20-04-22 02:44:26  Net - |D.Forc3|LeprosycL connected 22-4-20 02:44:26
+20-04-22 02:44:28  Net - Divas| Sk8' connected 22-4-20 02:44:28
+20-04-22 02:44:28  Net - Divas| Enigma connected 22-4-20 02:44:28
+20-04-22 02:44:29  Net - |D.Forc3|LeprosycL disconnected 22-4-20 02:44:29
+20-04-22 02:44:31  Net - |D.Forc3|LeprosycL connected 22-4-20 02:44:31
+20-04-22 02:44:31  Net - Divas| Enigma connected 22-4-20 02:44:31
+20-04-22 02:46:21 TCP/IP File Server started
+20-04-22 02:46:30  Net - |D.Forc3|Lawshot connected 22-4-20 02:46:30
+20-04-22 02:47:23  Net - Divas| mipHo connected 22-4-20 02:47:23
+20-04-22 02:57:16  Net - Divas| Sk8' disconnected 22-4-20 02:57:16
+20-04-22 02:57:20  Net - Divas| Sk8' connected 22-4-20 02:57:20
+20-04-22 02:57:20  Net - |D.Forc3|LeprosycL connected 22-4-20 02:57:20
+20-04-22 02:57:22  Net - Divas| Sk8' connected 22-4-20 02:57:22
+20-04-22 02:57:32  Net - |D.Forc3|Lawshot disconnected 22-4-20 02:57:32
+20-04-22 02:57:39  Net - Divas| Sk8' connected 22-4-20 02:57:39
+20-04-22 02:58:00  Net - Divas| mipHo disconnected 22-4-20 02:58:00
+20-04-22 02:58:02  Net - Divas| mipHo connected 22-4-20 02:58:02
+20-04-22 02:58:19  Net - |D.Forc3|Lawshot connected 22-4-20 02:58:19
+20-04-22 02:58:29  Net - |D.Forc3|LeprosycL connected 22-4-20 02:58:29
+20-04-22 03:06:20  Net - .:{MIS}:.RanKoR.cl connected 22-4-20 03:06:20
+20-04-22 03:06:34  Net - .:{MIS}:.RanKoR.cl disconnected 22-4-20 03:06:34
+20-04-22 03:13:30 Destroying Devices.
+20-04-22 03:13:31    End of Log.

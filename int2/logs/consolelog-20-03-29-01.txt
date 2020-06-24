@@ -1,0 +1,12 @@
+20-03-29 01:43:48    Console Log Started
+20-03-29 01:43:49 Welcome to Soldat 1.7.1
+20-03-29 01:43:49  [*] Preparing scripts to be launched
+20-03-29 01:43:49  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-03-29 01:43:49  [*] commands_by_keen compiled
+20-03-29 01:43:49  [*] Compiling match -> match.pas...
+20-03-29 01:43:49  [*] match compiled
+20-03-29 01:43:49  [*] Done
+20-03-29 01:43:49 ctf_Ash by chakapoko maker
+20-03-29 01:43:49 Loaded weapons mod "Default v1.8"
+20-03-29 01:43:49  Connection for file server started. Port: 23110
+20-03-29 01:43:49 Registering server @ 88.99.234.252

@@ -1,0 +1,29 @@
+20-04-24 17:47:09    Log Started
+20-04-24 17:47:09 Opened /home/kader_b/int1/soldat.ini
+20-04-24 17:47:09 Creating network interface.
+20-04-24 17:47:09 Loading Animations.
+20-04-24 17:47:10 Loading Lobby Servers List
+20-04-24 17:47:10 Loading Maps List
+20-04-24 17:47:10 Loading Map.
+20-04-24 17:47:10 Creating Weapons.
+20-04-24 17:47:10 Starting Game Server.
+20-04-24 17:47:10 TCP/IP File Server started
+20-04-24 17:48:51  Net - Divas| Rattle connected 24-4-20 17:48:51
+20-04-24 17:50:35  Net - Divas| Rattle disconnected 24-4-20 17:50:35
+20-04-24 18:00:02  Net - sT.- YnGwi3 connected 24-4-20 18:00:02
+20-04-24 18:00:08  Net - sT.- YnGwi3 disconnected 24-4-20 18:00:08
+20-04-24 18:11:37  Net - sT.- YnGwi3 connected 24-4-20 18:11:37
+20-04-24 18:11:39  Net - sT.- YnGwi3 disconnected 24-4-20 18:11:39
+20-04-24 18:11:42  Net - sT.- YnGwi3 connected 24-4-20 18:11:42
+20-04-24 18:11:43  Net - sT.- YnGwi3 disconnected 24-4-20 18:11:43
+20-04-24 18:11:57  Net - sT.- YnGwi3 connected 24-4-20 18:11:57
+20-04-24 18:12:11  Net - sT.- YnGwi3 disconnected 24-4-20 18:12:11
+20-04-24 18:17:16 TCP/IP File Server started
+20-04-24 18:41:49  Net - sT.- YnGwi3 connected 24-4-20 18:41:49
+20-04-24 18:44:49  Net - sT.- YnGwi3 disconnected 24-4-20 18:44:49
+20-04-24 18:47:16 TCP/IP File Server started
+20-04-24 19:17:06  Net - Divas| Rattle connected 24-4-20 19:17:06
+20-04-24 19:17:15  Net - Divas| Rattle disconnected 24-4-20 19:17:15
+20-04-24 19:17:16 TCP/IP File Server started
+20-04-24 19:20:06 Destroying Devices.
+20-04-24 19:20:07    End of Log.

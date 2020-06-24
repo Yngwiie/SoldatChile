@@ -1,0 +1,17 @@
+20-04-20 21:06:15    Console Log Started
+20-04-20 21:06:15 Welcome to Soldat 1.7.1
+20-04-20 21:06:15  [*] Preparing scripts to be launched
+20-04-20 21:06:15  [*] [BasicCommands] Compilation started
+20-04-20 21:06:15  [*] [BasicCommands] Compilation complete
+20-04-20 21:06:15  [*] [BasicCommands] Loading bytecode
+20-04-20 21:06:15  [*] [BasicCommands] Bytecode loaded
+20-04-20 21:06:15  [*] Compiling match -> match.pas...
+20-04-20 21:06:15  [*] match compiled
+20-04-20 21:06:15  [*] Done
+20-04-20 21:06:15 Lothic - Gothic Lobby Room
+20-04-20 21:06:15 Loaded weapons mod "Default v1.8"
+20-04-20 21:06:15  Connection for file server started. Port: 23110
+20-04-20 21:06:15 Registering server @ 88.99.234.252
+20-04-20 21:06:17 Shutting down server...
+20-04-20 21:06:17 Shutting down FileServer...
+20-04-20 21:06:17 Shutting down admin server...

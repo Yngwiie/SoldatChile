@@ -1,0 +1,38 @@
+20-03-28 00:51:39    Log Started
+20-03-28 00:51:39 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-03-28 00:51:39 Creating network interface.
+20-03-28 00:51:39 Loading Animations.
+20-03-28 00:51:39 Loading Lobby Servers List
+20-03-28 00:51:39 Loading Maps List
+20-03-28 00:51:39 Loading Map.
+20-03-28 00:51:39 Creating Weapons.
+20-03-28 00:51:39 Starting Game Server.
+20-03-28 00:51:39 TCP/IP File Server started
+20-03-28 00:51:44  Net - KorN connected 28-03-2020 0:51:44
+20-03-28 00:51:45  Net - |BhooD| Ultra_Cod3 connected 28-03-2020 0:51:45
+20-03-28 00:51:45  Net - |BhooD| Analdo connected 28-03-2020 0:51:45
+20-03-28 00:51:46  Net - KorN connected 28-03-2020 0:51:46
+20-03-28 00:51:48  Net - |BhooD| patuzhOO* connected 28-03-2020 0:51:48
+20-03-28 00:51:50  Net - |BhooD| Analdo connected 28-03-2020 0:51:50
+20-03-28 00:51:54  Net - |D.Forc3|Aberracion connected 28-03-2020 0:51:54
+20-03-28 00:51:55  Net - |BhooD| Ultra_Cod3 disconnected 28-03-2020 0:51:55
+20-03-28 00:52:01  Net - DsF - F4ll.cL connected 28-03-2020 0:52:01
+20-03-28 00:52:03  Net - |BhooD| Ultra_Cod3 connected 28-03-2020 0:52:03
+20-03-28 00:52:13  Net - |X.Forc3|Lead.- connected 28-03-2020 0:52:13
+20-03-28 00:52:15  Net - |X.Forc3|Lead.- connected 28-03-2020 0:52:15
+20-03-28 00:52:18  Net - |D.Forc3|RainbowDash connected 28-03-2020 0:52:18
+20-03-28 00:52:24  Net - |X.Forc3|.Turko connected 28-03-2020 0:52:24
+20-03-28 00:52:27  Net - |X.Forc3|.Turko connected 28-03-2020 0:52:27
+20-03-28 00:52:53  Net - |BhooD| bio* connected 28-03-2020 0:52:53
+20-03-28 00:53:22  Net - DsF - F4ll.cL connected 28-03-2020 0:53:22
+20-03-28 00:54:10  Net - |X.Forc3|.Turko connected 28-03-2020 0:54:10
+20-03-28 00:55:10  Net - DsF - F4ll.cL connected 28-03-2020 0:55:10
+20-03-28 00:55:15  Net - DsF - F4ll.cL connected 28-03-2020 0:55:15
+20-03-28 00:55:25  Net - HartCheat] connected 28-03-2020 0:55:25
+20-03-28 00:56:00  Net - HartCheat] connected 28-03-2020 0:56:00
+20-03-28 00:57:03  Net - |D.Forc3|Aberracion disconnected 28-03-2020 0:57:03
+20-03-28 00:57:10  Net - HartCheat] disconnected 28-03-2020 0:57:10
+20-03-28 00:57:21  Net - HartCheat] connected 28-03-2020 0:57:21
+20-03-28 00:57:44  Net - |X.Forc3|Lead.- disconnected 28-03-2020 0:57:44
+20-03-28 00:57:49 Destroying Devices.
+20-03-28 00:57:50    End of Log.

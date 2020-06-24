@@ -1,0 +1,327 @@
+20-06-12 02:03:37    Log Started
+20-06-12 02:03:37 Opened /home/kader_b/int2/soldat.ini
+20-06-12 02:04:26  Net - R.S.F/. SNSD disconnected 12-6-20 02:04:26
+20-06-12 02:04:27  Net - R.S.F/.LinkirD. disconnected 12-6-20 02:04:27
+20-06-12 02:04:28  Net - Marcelo disconnected 12-6-20 02:04:28
+20-06-12 02:04:30  Net - |D.Forc3| Gatitos disconnected 12-6-20 02:04:30
+20-06-12 02:04:31  Net - |D.Forc3|.-Lead disconnected 12-6-20 02:04:31
+20-06-12 02:04:32  Net - |D.Forc3|.Turko disconnected 12-6-20 02:04:32
+20-06-12 02:04:36  Net - |D.Forc3|.Dohko.Messi! disconnected 12-6-20 02:04:36
+20-06-12 02:04:52  Net - |D.Forc3|.Turko connected 12-6-20 02:04:52
+20-06-12 02:04:54  Net - |D.Forc3|.Turko connected 12-6-20 02:04:54
+20-06-12 02:05:31  Net - Marcelo connected 12-6-20 02:05:31
+20-06-12 02:05:34  Net - Marcelo disconnected 12-6-20 02:05:34
+20-06-12 02:05:38  Net - KorN connected 12-6-20 02:05:38
+20-06-12 02:05:43  Net - |exskit.Forc3| Rattle connected 12-6-20 02:05:43
+20-06-12 02:05:55  Net - S2 ~ DeFkOndOz* connected 12-6-20 02:05:55
+20-06-12 02:05:58  Net - |D.Forc3|.Dohko.Messi! connected 12-6-20 02:05:58
+20-06-12 02:06:00  Net - |D.Forc3|.Dohko.Messi! disconnected 12-6-20 02:06:00
+20-06-12 02:06:49  Net - |D.Forc3| Gatitos connected 12-6-20 02:06:49
+20-06-12 02:06:54  Net - KorN disconnected 12-6-20 02:06:54
+20-06-12 02:07:39  Net - |D.Forc3| Gatitos disconnected 12-6-20 02:07:39
+20-06-12 02:07:40  Net - =*= d4zy connected 12-6-20 02:07:40
+20-06-12 02:07:50  Net - |D.Forc3| Gatitos connected 12-6-20 02:07:50
+20-06-12 02:08:05  Net - S2 ~ DeFkOndOz* disconnected 12-6-20 02:08:05
+20-06-12 02:08:07  Net - KorN connected 12-6-20 02:08:07
+20-06-12 02:08:42  Net - #1 Mand3s connected 12-6-20 02:08:42
+20-06-12 02:08:44  Net - =*= d4zy disconnected 12-6-20 02:08:44
+20-06-12 02:08:47  Net - Sk8' connected 12-6-20 02:08:47
+20-06-12 02:08:47  Net - #1 Mand3s disconnected 12-6-20 02:08:47
+20-06-12 02:08:49  Net - #1 Mand3s connected 12-6-20 02:08:49
+20-06-12 02:08:50  Net - WildR4P` connected 12-6-20 02:08:50
+20-06-12 02:08:52  Net - Sk8' disconnected 12-6-20 02:08:52
+20-06-12 02:09:30  Net - KorN disconnected 12-6-20 02:09:30
+20-06-12 02:09:32  Net - KorN connected 12-6-20 02:09:32
+20-06-12 02:09:43  Net - |exskit.Forc3| Sk8' connected 12-6-20 02:09:43
+20-06-12 02:09:44  Net - |exskit.forc3|  d4zy connected 12-6-20 02:09:44
+20-06-12 02:09:47  Net - |exskit.forc3|  d4zy disconnected 12-6-20 02:09:47
+20-06-12 02:09:55  Net - |exskit.forc3|  d4zy connected 12-6-20 02:09:55
+20-06-12 02:10:00  Net - |exskit.forc3|  d4zy disconnected 12-6-20 02:10:00
+20-06-12 02:10:09  Net - |exskit.Forc3|  d4zy connected 12-6-20 02:10:09
+20-06-12 02:10:12  Net - |exskit.Forc3|  d4zy disconnected 12-6-20 02:10:12
+20-06-12 02:10:21  Net - |exskit.Forc3| d4zy connected 12-6-20 02:10:21
+20-06-12 02:11:25  Net - WildR4P` disconnected 12-6-20 02:11:25
+20-06-12 02:11:27  Net - WildR4P` connected 12-6-20 02:11:27
+20-06-12 02:11:59  Net - |D.Forc3|Lead.- connected 12-6-20 02:11:59
+20-06-12 02:12:46  Net - |exskit.Forc3| Sk8' disconnected 12-6-20 02:12:46
+20-06-12 02:12:54  Net - |exskit.Forc3| Sk8' connected 12-6-20 02:12:54
+20-06-12 02:13:00  Net - sT.- YnGwi3 connected 12-6-20 02:13:00
+20-06-12 02:20:42 TCP/IP File Server started
+20-06-12 02:21:21  Net - Rynor.- connected 12-6-20 02:21:21
+20-06-12 02:27:14  Net - Chaky connected 12-6-20 02:27:14
+20-06-12 02:27:55  Net - =D*R= CWe1C connected 12-6-20 02:27:55
+20-06-12 02:28:00  Net - =D*R= CWe1C disconnected 12-6-20 02:28:00
+20-06-12 02:28:11  Net - =D*R= CWe1C connected 12-6-20 02:28:11
+20-06-12 02:36:04  Net - |D.Forc3|.Turko disconnected 12-6-20 02:36:04
+20-06-12 02:36:05  Net - |D.Forc3| Gatitos disconnected 12-6-20 02:36:05
+20-06-12 02:36:05  Net - sT.- YnGwi3 disconnected 12-6-20 02:36:05
+20-06-12 02:36:06  Net - |D.Forc3|Lead.- disconnected 12-6-20 02:36:06
+20-06-12 02:36:08  Net - |exskit.Forc3| d4zy disconnected 12-6-20 02:36:08
+20-06-12 02:36:08  Net - WildR4P` disconnected 12-6-20 02:36:08
+20-06-12 02:36:09  Net - Rynor.- disconnected 12-6-20 02:36:09
+20-06-12 02:36:09  Net - |exskit.Forc3| Sk8' disconnected 12-6-20 02:36:09
+20-06-12 02:36:10  Net - KorN disconnected 12-6-20 02:36:10
+20-06-12 02:36:13  Net - #1 Mand3s disconnected 12-6-20 02:36:13
+20-06-12 02:36:14  Net - |exskit.Forc3| Rattle disconnected 12-6-20 02:36:14
+20-06-12 02:36:30  Net - =D*R= CWe1C disconnected 12-6-20 02:36:30
+20-06-12 02:36:35  Net - Chaky disconnected 12-6-20 02:36:35
+20-06-12 02:39:32  Net - CHILE| Shuter connected 12-6-20 02:39:32
+20-06-12 02:40:06  Net - CHILE| Shuter disconnected 12-6-20 02:40:06
+20-06-12 02:45:55  Net - #1 Mand3s connected 12-6-20 02:45:55
+20-06-12 02:48:27  Net - #1 Mand3s disconnected 12-6-20 02:48:27
+20-06-12 02:48:29  Net - #1 Mand3s connected 12-6-20 02:48:29
+20-06-12 02:48:42  Net - |exskit.Forc3| Sk8' connected 12-6-20 02:48:42
+20-06-12 02:50:43 TCP/IP File Server started
+20-06-12 02:52:00  Net - #1 Mand3s disconnected 12-6-20 02:52:00
+20-06-12 02:52:01  Net - |exskit.Forc3| Sk8' disconnected 12-6-20 02:52:01
+20-06-12 03:00:04  Net - |D.Forc3|.Turko connected 12-6-20 03:00:04
+20-06-12 03:00:08  Net - |D.Forc3|.Turko connected 12-6-20 03:00:08
+20-06-12 03:00:15  Net - R.S.F/.LinkirD. connected 12-6-20 03:00:15
+20-06-12 03:00:18  Net - R.S.F/.LinkirD. connected 12-6-20 03:00:18
+20-06-12 03:01:50  Net - R.S.F/. SNSD connected 12-6-20 03:01:50
+20-06-12 03:01:58  Net - |D.Forc3| Gatitos connected 12-6-20 03:01:58
+20-06-12 03:03:05  Net - |D.Forc3|Lead.- connected 12-6-20 03:03:05
+20-06-12 03:03:53  Net - R.S.F/.LinkirD. disconnected 12-6-20 03:03:53
+20-06-12 03:04:21  Net - KorN connected 12-6-20 03:04:21
+20-06-12 03:04:25  Net - KorN connected 12-6-20 03:04:25
+20-06-12 03:04:57  Net - R.S.F/.LinkirD. connected 12-6-20 03:04:57
+20-06-12 03:05:01  Net - KorN disconnected 12-6-20 03:05:01
+20-06-12 03:05:57  Net - |D.Forc3| Gatitos connected 12-6-20 03:05:57
+20-06-12 03:06:30  Net - KorN connected 12-6-20 03:06:30
+20-06-12 03:06:35  Net - KorN connected 12-6-20 03:06:35
+20-06-12 03:06:41  Net - |D.Forc3| Gatitos connected 12-6-20 03:06:41
+20-06-12 03:07:06  Net - |D.Forc3| Gatitos connected 12-6-20 03:07:06
+20-06-12 03:07:33  Net - |D.Forc3| Gatitos disconnected 12-6-20 03:07:33
+20-06-12 03:08:15  Net - |D.Forc3| Gatitos connected 12-6-20 03:08:15
+20-06-12 03:09:06  Net - R.S.F/.LinkirD. connected 12-6-20 03:09:06
+20-06-12 03:09:51  Net - |D.Forc3|.Turko connected 12-6-20 03:09:51
+20-06-12 03:09:52  Net - |D.Forc3| Gatitos connected 12-6-20 03:09:52
+20-06-12 03:09:57  Net - |D.Forc3|.Turko connected 12-6-20 03:09:57
+20-06-12 03:17:10  Net - S2 ~ BioSeaX! connected 12-6-20 03:17:10
+20-06-12 03:17:38  Net - S2 ~ BioSeaX! disconnected 12-6-20 03:17:38
+20-06-12 03:20:43 TCP/IP File Server started
+20-06-12 03:30:39  Net - |D.Forc3|.Turko connected 12-6-20 03:30:39
+20-06-12 03:30:54  Net - |D.Forc3|Lead.- connected 12-6-20 03:30:54
+20-06-12 03:36:38  Net - KorN(1) connected 12-6-20 03:36:38
+20-06-12 03:36:41  Net - KorN(1) connected 12-6-20 03:36:41
+20-06-12 03:37:23  Net - KorN disconnected 12-6-20 03:37:23
+20-06-12 03:43:00  Net - KorN(1) disconnected 12-6-20 03:43:00
+20-06-12 03:43:03  Net - R.S.F/. SNSD disconnected 12-6-20 03:43:03
+20-06-12 03:43:04  Net - R.S.F/.LinkirD. disconnected 12-6-20 03:43:04
+20-06-12 03:43:15  Net - |D.Forc3|Lead.- disconnected 12-6-20 03:43:15
+20-06-12 03:43:17  Net - |D.Forc3|.Turko disconnected 12-6-20 03:43:17
+20-06-12 03:43:45  Net - |D.Forc3| Gatitos disconnected 12-6-20 03:43:45
+20-06-12 03:50:43 TCP/IP File Server started
+20-06-12 04:11:37  Net - GodLikeCL connected 12-6-20 04:11:37
+20-06-12 04:11:39  Net - GodLikeCL disconnected 12-6-20 04:11:39
+20-06-12 04:20:43 TCP/IP File Server started
+20-06-12 04:50:42 TCP/IP File Server started
+20-06-12 05:20:43 TCP/IP File Server started
+20-06-12 05:50:43 TCP/IP File Server started
+20-06-12 06:20:42 TCP/IP File Server started
+20-06-12 06:50:43 TCP/IP File Server started
+20-06-12 07:20:42 TCP/IP File Server started
+20-06-12 07:50:43 TCP/IP File Server started
+20-06-12 07:59:26  Net - mew connected 12-6-20 07:59:26
+20-06-12 08:00:24  Net - sapnu puas connected 12-6-20 08:00:24
+20-06-12 08:00:30  Net - sapnu puas connected 12-6-20 08:00:30
+20-06-12 08:00:37  Net - 0 connected 12-6-20 08:00:37
+20-06-12 08:00:40  Net - Major connected 12-6-20 08:00:40
+20-06-12 08:01:45  Net - sapnu puas disconnected 12-6-20 08:01:45
+20-06-12 08:02:41  Net - sapnu puas connected 12-6-20 08:02:41
+20-06-12 08:03:58  Net - sapnu puas disconnected 12-6-20 08:03:58
+20-06-12 08:10:40  Net - 0 disconnected 12-6-20 08:10:40
+20-06-12 08:11:09  Net - 0 connected 12-6-20 08:11:09
+20-06-12 08:11:14  Net - sapnu puas connected 12-6-20 08:11:14
+20-06-12 08:11:17  Net - sapnu puas connected 12-6-20 08:11:17
+20-06-12 08:12:29  Net - sapnu puas disconnected 12-6-20 08:12:29
+20-06-12 08:12:45  Net - 0 connected 12-6-20 08:12:45
+20-06-12 08:13:12  Net - sapnu puas connected 12-6-20 08:13:12
+20-06-12 08:14:35  Net - sapnu puas disconnected 12-6-20 08:14:35
+20-06-12 08:14:46  Net - sapnu puas connected 12-6-20 08:14:46
+20-06-12 08:16:06  Net - sapnu puas disconnected 12-6-20 08:16:06
+20-06-12 08:16:16  Net - mew connected 12-6-20 08:16:16
+20-06-12 08:16:16  Net - sapnu puas connected 12-6-20 08:16:16
+20-06-12 08:16:18  Net - sapnu puas disconnected 12-6-20 08:16:18
+20-06-12 08:16:22  Net - sapnu puas connected 12-6-20 08:16:22
+20-06-12 08:17:37  Net - sapnu puas disconnected 12-6-20 08:17:37
+20-06-12 08:20:42 TCP/IP File Server started
+20-06-12 08:21:53  Net - Major disconnected 12-6-20 08:21:53
+20-06-12 08:22:07  Net - 0 disconnected 12-6-20 08:22:07
+20-06-12 08:22:09  Net - mew disconnected 12-6-20 08:22:09
+20-06-12 08:50:43 TCP/IP File Server started
+20-06-12 09:20:42 TCP/IP File Server started
+20-06-12 09:50:43 TCP/IP File Server started
+20-06-12 10:20:42 TCP/IP File Server started
+20-06-12 10:50:43 TCP/IP File Server started
+20-06-12 11:20:43 TCP/IP File Server started
+20-06-12 11:50:43 TCP/IP File Server started
+20-06-12 12:20:43 TCP/IP File Server started
+20-06-12 12:50:42 TCP/IP File Server started
+20-06-12 13:20:43 TCP/IP File Server started
+20-06-12 13:50:43 TCP/IP File Server started
+20-06-12 14:20:42 TCP/IP File Server started
+20-06-12 14:50:42 TCP/IP File Server started
+20-06-12 15:20:43 TCP/IP File Server started
+20-06-12 15:50:43 TCP/IP File Server started
+20-06-12 16:20:43 TCP/IP File Server started
+20-06-12 16:50:43 TCP/IP File Server started
+20-06-12 17:20:43 TCP/IP File Server started
+20-06-12 17:50:43 TCP/IP File Server started
+20-06-12 18:20:43 TCP/IP File Server started
+20-06-12 18:50:43 TCP/IP File Server started
+20-06-12 19:20:43 TCP/IP File Server started
+20-06-12 19:50:43 TCP/IP File Server started
+20-06-12 20:20:42 TCP/IP File Server started
+20-06-12 20:50:43 TCP/IP File Server started
+20-06-12 21:01:21  Net - XRe1ch|Sadiko connected 12-6-20 21:01:21
+20-06-12 21:01:24  Net - =D*R= CWe1C connected 12-6-20 21:01:24
+20-06-12 21:20:46 TCP/IP File Server started
+20-06-12 21:23:11  Net - =D*R= CWe1C connected 12-6-20 21:23:11
+20-06-12 21:36:13  Net - XRe1ch|Sadiko disconnected 12-6-20 21:36:13
+20-06-12 21:36:16  Net - =D*R= CWe1C disconnected 12-6-20 21:36:16
+20-06-12 21:50:46 TCP/IP File Server started
+20-06-12 22:20:46 TCP/IP File Server started
+20-06-12 22:50:46 TCP/IP File Server started
+20-06-12 23:20:46 TCP/IP File Server started
+20-06-12 23:50:46 TCP/IP File Server started
+20-06-13 00:20:46 TCP/IP File Server started
+20-06-13 00:50:46 TCP/IP File Server started
+20-06-13 01:20:46 TCP/IP File Server started
+20-06-13 01:38:40  Net - S2 ~ patuzhO* connected 13-6-20 01:38:40
+20-06-13 01:38:42  Net - S2 ~ PoKemon connected 13-6-20 01:38:42
+20-06-13 01:38:44  Net - S2 ~ PoKemon connected 13-6-20 01:38:44
+20-06-13 01:49:01  Net - S2 ~ BioSeaX! connected 13-6-20 01:49:01
+20-06-13 01:49:40  Net - S3 - TTe Pepe connected 13-6-20 01:49:40
+20-06-13 01:50:09  Net - S3 ~ dooooritoz! connected 13-6-20 01:50:09
+20-06-13 01:50:24  Net - S2 ~ Opazo* connected 13-6-20 01:50:24
+20-06-13 01:50:34  Net - S2 ~ $$$ connected 13-6-20 01:50:34
+20-06-13 01:50:39  Net - S2 ~ Opazo* connected 13-6-20 01:50:39
+20-06-13 01:50:44  Net - S2 ~ DeFkOndOz* connected 13-6-20 01:50:44
+20-06-13 01:50:49  Net - S2 ~ PoKemon connected 13-6-20 01:50:49
+20-06-13 01:50:50 TCP/IP File Server started
+20-06-13 01:50:52  Net - S3 ~ dooooritoz! connected 13-6-20 01:50:52
+20-06-13 01:50:55  Net - S2 ~ PoKemon connected 13-6-20 01:50:55
+20-06-13 01:50:57  Net - S2 ~ PoKemon disconnected 13-6-20 01:50:57
+20-06-13 01:51:06  Net - S2 ~ Opazo* disconnected 13-6-20 01:51:06
+20-06-13 01:51:13  Net - S3 ~ Opazo* connected 13-6-20 01:51:13
+20-06-13 01:51:16  Net - S2 ~ DeFkOndOz* disconnected 13-6-20 01:51:16
+20-06-13 01:51:19  Net - S3 ~ PoKemon connected 13-6-20 01:51:19
+20-06-13 01:52:28  Net - S2 ~ BioSeaX! disconnected 13-6-20 01:52:28
+20-06-13 01:53:17  Net - S3 ~ PoKemon connected 13-6-20 01:53:17
+20-06-13 01:53:21  Net - S3 ~ dooooritoz! connected 13-6-20 01:53:21
+20-06-13 01:53:26  Net - S3 ~ dooooritoz! connected 13-6-20 01:53:26
+20-06-13 01:53:32  Net - S2 ~ BioSeaX! connected 13-6-20 01:53:32
+20-06-13 01:54:54  Net - S2 ~ BioSeaX! disconnected 13-6-20 01:54:54
+20-06-13 01:55:10  Net - S2 ~ Aste KaKa connected 13-6-20 01:55:10
+20-06-13 01:58:17  Net - S3 ~ PoKemon disconnected 13-6-20 01:58:17
+20-06-13 01:58:26  Net - S3 ~ PoKemon connected 13-6-20 01:58:26
+20-06-13 02:00:56  Net - S3 ~ PoKemon connected 13-6-20 02:00:56
+20-06-13 02:01:03  Net - S3 ~ PoKemon connected 13-6-20 02:01:03
+20-06-13 02:01:07  Net - S3 ~ PoKemon connected 13-6-20 02:01:07
+20-06-13 02:01:39  Net - S2 ~ DeFkOndOz* connected 13-6-20 02:01:39
+20-06-13 02:01:55  Net - S2 ~ DeFkOndOz* disconnected 13-6-20 02:01:55
+20-06-13 02:02:11  Net - S3 ~ Opazo* connected 13-6-20 02:02:11
+20-06-13 02:02:35  Net - S3 ~ PoKemon disconnected 13-6-20 02:02:35
+20-06-13 02:02:38  Net - S2 ~ patuzhO* disconnected 13-6-20 02:02:38
+20-06-13 02:03:34  Net - S2 ~ $$$ connected 13-6-20 02:03:34
+20-06-13 02:03:42  Net - S2 ~ $$$ disconnected 13-6-20 02:03:42
+20-06-13 02:04:03  Net - S3 ~ PoKemon connected 13-6-20 02:04:03
+20-06-13 02:04:11  Net - S3 ~ dooooritoz! disconnected 13-6-20 02:04:11
+20-06-13 02:04:15  Net - S3 ~ dooooritoz! connected 13-6-20 02:04:15
+20-06-13 02:04:44  Net - S2 ~ DeFkOndOz* connected 13-6-20 02:04:44
+20-06-13 02:04:45  Net - S2 ~ DeFkOndOz* disconnected 13-6-20 02:04:45
+20-06-13 02:07:24  Net - S3 ~ PoKemon disconnected 13-6-20 02:07:24
+20-06-13 02:07:59  Net - S3 ~ Opazo* connected 13-6-20 02:07:59
+20-06-13 02:10:50  Net - S2 ~ Aste KaKa disconnected 13-6-20 02:10:50
+20-06-13 02:12:40  Net - S3 ~ Opazo* disconnected 13-6-20 02:12:40
+20-06-13 02:13:51  Net - S3 - TTe Pepe connected 13-6-20 02:13:51
+20-06-13 02:18:24  Net - S3 ~ PoKemon connected 13-6-20 02:18:24
+20-06-13 02:18:43  Net - S3 ~ Opazo* connected 13-6-20 02:18:43
+20-06-13 02:20:04  Net - S3 - TTe Pepe connected 13-6-20 02:20:04
+20-06-13 02:20:50 TCP/IP File Server started
+20-06-13 02:21:31  Net - S3 - TTe Pepe connected 13-6-20 02:21:31
+20-06-13 02:26:43  Net - S3 - TTe Pepe disconnected 13-6-20 02:26:43
+20-06-13 02:26:47  Net - S3 ~ PoKemon disconnected 13-6-20 02:26:47
+20-06-13 02:26:52  Net - S3 ~ TTe Pepe connected 13-6-20 02:26:52
+20-06-13 02:26:54  Net - S3 ~ TTe Pepe disconnected 13-6-20 02:26:54
+20-06-13 02:27:12  Net - S3 ~ Opazo* disconnected 13-6-20 02:27:12
+20-06-13 02:27:17  Net - S3 ~ TTe Pepe connected 13-6-20 02:27:17
+20-06-13 02:28:18  Net - S3 ~ Opazo* connected 13-6-20 02:28:18
+20-06-13 02:34:20  Net - S3 ~ dooooritoz! connected 13-6-20 02:34:20
+20-06-13 02:36:03  Net - S3 ~ PoKemon connected 13-6-20 02:36:03
+20-06-13 02:40:08  Net - S3 ~ PoKemon disconnected 13-6-20 02:40:08
+20-06-13 02:40:11  Net - S3 ~ Opazo* disconnected 13-6-20 02:40:11
+20-06-13 02:40:11  Net - S3 ~ TTe Pepe disconnected 13-6-20 02:40:11
+20-06-13 02:40:12  Net - S3 ~ dooooritoz! disconnected 13-6-20 02:40:12
+20-06-13 02:41:14  Net - S3 ~ dooooritoz! connected 13-6-20 02:41:14
+20-06-13 02:41:25  Net - S3 ~ dooooritoz! disconnected 13-6-20 02:41:25
+20-06-13 02:50:50 TCP/IP File Server started
+20-06-13 02:52:35  Net - |D.Forc3|Lead.- connected 13-6-20 02:52:35
+20-06-13 02:53:13  Net - |D.Forc3|.Turko connected 13-6-20 02:53:13
+20-06-13 02:54:52  Net - |D.Forc3| Gatitos connected 13-6-20 02:54:52
+20-06-13 02:54:53  Net - R.S.F/.SNSD connected 13-6-20 02:54:53
+20-06-13 02:54:55  Net - R.S.F/.LinkirD. connected 13-6-20 02:54:55
+20-06-13 02:55:05  Net - R.S.F/.LinkirD. disconnected 13-6-20 02:55:05
+20-06-13 02:55:10  Net - .LinkirD. connected 13-6-20 02:55:10
+20-06-13 02:55:14  Net - .LinkirD. connected 13-6-20 02:55:14
+20-06-13 02:55:15  Net - R.S.F/.SNSD disconnected 13-6-20 02:55:15
+20-06-13 02:55:22  Net - |D.Forc3|.Turko connected 13-6-20 02:55:22
+20-06-13 02:55:28  Net - |D.Forc3| Gatitos connected 13-6-20 02:55:28
+20-06-13 02:55:38  Net - |D.Forc3|.SNSD connected 13-6-20 02:55:38
+20-06-13 02:55:50  Net - L.Forc3/Aberracion connected 13-6-20 02:55:50
+20-06-13 02:55:54  Net - L.Forc3/Aberracion connected 13-6-20 02:55:54
+20-06-13 02:55:56  Net - |D.Forc3|.SNSD connected 13-6-20 02:55:56
+20-06-13 02:55:57  Net - L.Forc3/Aberracion connected 13-6-20 02:55:57
+20-06-13 02:56:04  Net - |D.Forc3|.Turko connected 13-6-20 02:56:04
+20-06-13 02:56:06  Net - |D.Forc3|Lead.- connected 13-6-20 02:56:06
+20-06-13 02:56:30  Net - |D.Forc3|.SNSD connected 13-6-20 02:56:30
+20-06-13 03:17:03  Net - R.S.F/KorN connected 13-6-20 03:17:03
+20-06-13 03:20:50 TCP/IP File Server started
+20-06-13 03:21:16  Net - R.S.F/KorN disconnected 13-6-20 03:21:16
+20-06-13 03:21:22  Net - Marcelo connected 13-6-20 03:21:22
+20-06-13 03:25:38  Net - Marcelo disconnected 13-6-20 03:25:38
+20-06-13 03:25:51  Net - Marcelo connected 13-6-20 03:25:51
+20-06-13 03:27:45  Net - Marcelo disconnected 13-6-20 03:27:45
+20-06-13 03:28:32  Net - Marcelo connected 13-6-20 03:28:32
+20-06-13 03:48:26  Net - Marcelo connected 13-6-20 03:48:26
+20-06-13 03:48:36  Net - |D.Forc3|.SNSD connected 13-6-20 03:48:36
+20-06-13 03:48:44  Net - L.Forc3/Aberracion connected 13-6-20 03:48:44
+20-06-13 03:48:52  Net - L.Forc3/Aberracion connected 13-6-20 03:48:52
+20-06-13 03:49:21  Net - |D.Forc3| Gatitos disconnected 13-6-20 03:49:21
+20-06-13 03:49:21  Net - |D.Forc3|.Turko disconnected 13-6-20 03:49:21
+20-06-13 03:49:23  Net - |D.Forc3|.Turko connected 13-6-20 03:49:23
+20-06-13 03:49:24  Net - |D.Forc3| Gatitos connected 13-6-20 03:49:24
+20-06-13 03:49:25  Net - |D.Forc3|.Turko connected 13-6-20 03:49:25
+20-06-13 03:50:50 TCP/IP File Server started
+20-06-13 03:51:59  Net - L.Forc3/Aberracion disconnected 13-6-20 03:51:59
+20-06-13 03:51:59  Net - |D.Forc3|.SNSD disconnected 13-6-20 03:51:59
+20-06-13 03:51:59  Net - Marcelo disconnected 13-6-20 03:51:59
+20-06-13 03:51:59  Net - |D.Forc3| Gatitos disconnected 13-6-20 03:51:59
+20-06-13 03:51:59  Net - .LinkirD. disconnected 13-6-20 03:51:59
+20-06-13 03:52:00  Net - |D.Forc3|Lead.- disconnected 13-6-20 03:52:00
+20-06-13 03:52:02  Net - |D.Forc3|.Turko disconnected 13-6-20 03:52:02
+20-06-13 03:53:05  Net - .LinkirD. connected 13-6-20 03:53:05
+20-06-13 03:53:07  Net - .LinkirD. connected 13-6-20 03:53:07
+20-06-13 03:53:10  Net - L.Forc3/Aberracion connected 13-6-20 03:53:10
+20-06-13 03:53:11  Net - |D.Forc3|.SNSD connected 13-6-20 03:53:11
+20-06-13 03:53:14  Net - L.Forc3/Aberracion connected 13-6-20 03:53:14
+20-06-13 03:53:26  Net - L.Forc3/Aberracion disconnected 13-6-20 03:53:26
+20-06-13 03:53:28  Net - .LinkirD. disconnected 13-6-20 03:53:28
+20-06-13 03:53:33  Net - |D.Forc3|.SNSD disconnected 13-6-20 03:53:33
+20-06-13 04:20:50 TCP/IP File Server started
+20-06-13 04:50:50 TCP/IP File Server started
+20-06-13 05:20:50 TCP/IP File Server started
+20-06-13 05:50:50 TCP/IP File Server started
+20-06-13 06:20:50 TCP/IP File Server started
+20-06-13 06:50:50 TCP/IP File Server started
+20-06-13 07:20:50 TCP/IP File Server started
+20-06-13 07:50:50 TCP/IP File Server started
+20-06-13 08:20:50 TCP/IP File Server started
+20-06-13 08:50:50 TCP/IP File Server started
+20-06-13 09:20:50 TCP/IP File Server started
+20-06-13 09:50:50 TCP/IP File Server started
+20-06-13 10:20:50 TCP/IP File Server started
+20-06-13 10:50:50 TCP/IP File Server started
+20-06-13 11:20:50 TCP/IP File Server started
+20-06-13 11:50:50 TCP/IP File Server started

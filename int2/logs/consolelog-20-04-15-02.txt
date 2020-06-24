@@ -1,0 +1,333 @@
+20-04-15 11:13:07    Console Log Started
+20-04-15 11:13:07 Welcome to Soldat 1.7.1
+20-04-15 11:13:07  [*] Preparing scripts to be launched
+20-04-15 11:13:07  [*] [BasicCommands] Loading bytecode
+20-04-15 11:13:07  [*] [BasicCommands] Bytecode loaded
+20-04-15 11:13:07  [*] Compiling match -> match.pas...
+20-04-15 11:13:07  [*] match compiled
+20-04-15 11:13:07  [*] Done
+20-04-15 11:13:07 Lothic - Gothic Lobby Room
+20-04-15 11:13:07 Loaded weapons mod "Default v1.8"
+20-04-15 11:13:07  Connection for file server started. Port: 23110
+20-04-15 11:13:08 Registering server @ 88.99.234.252
+20-04-15 11:14:46 45.232.32.208:3469|696908AC8E7 requesting game...
+20-04-15 11:14:47 |X.Forc3|.Turko joining game (45.232.32.208:3469) HWID:696908AC8E7
+20-04-15 11:14:47 |X.Forc3|.Turko has joined as spectator.
+20-04-15 11:14:51 |X.Forc3|.Turko has joined alpha team.
+20-04-15 11:16:03 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:16:10 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:16:45 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:17:27 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:17:34 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:18:01 |X.Forc3|.Turko has left alpha team.
+20-04-15 11:18:08 Time Left: 5 minutes
+20-04-15 11:19:07 45.232.92.78:26632|7F7D637F5E1 requesting game...
+20-04-15 11:19:08 Time Left: 4 minutes
+20-04-15 11:19:09 45.232.92.78:26632|7F7D637F5E1 requesting game...
+20-04-15 11:19:19 45.232.92.78:26632|7F7D637F5E1 requesting game...
+20-04-15 11:19:24 45.232.92.78:26632|7F7D637F5E1 requesting game...
+20-04-15 11:20:08 Time Left: 3 minutes
+20-04-15 11:20:17 45.232.32.208:3473|696908AC8E7 requesting game...
+20-04-15 11:20:17 |X.Forc3|.Turko joining game (45.232.32.208:3473) HWID:696908AC8E7
+20-04-15 11:20:17 |X.Forc3|.Turko has joined as spectator.
+20-04-15 11:20:19 |X.Forc3|.Turko has joined alpha team.
+20-04-15 11:20:47 190.74.17.79:23073|47A62F8CAFE requesting game...
+20-04-15 11:21:08 Time Left: 2 minutes
+20-04-15 11:21:32 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:21:39 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:22:08 Time Left: 1 minutes
+20-04-15 11:22:14 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:22:56 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:23:03 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:23:08 Next map: Lobby
+20-04-15 11:23:14 Lothic - Gothic Lobby Room
+20-04-15 11:23:45 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:25:09 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:25:30 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:26:26 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:26:27 201.220.110.127:23073|612A9A34002 requesting game...
+20-04-15 11:26:29 201.220.110.127:23073|612A9A34002 requesting game...
+20-04-15 11:26:33 201.220.110.127:23073|612A9A34002 requesting game...
+20-04-15 11:26:47 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:28:14 Time Left: 5 minutes
+20-04-15 11:28:51 [|X.Forc3|.Turko] !map laos
+20-04-15 11:28:56 Laos
+20-04-15 11:29:11 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:29:22 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 11:29:27 [|X.Forc3|.Turko] !map viet
+20-04-15 11:29:34  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-15 11:29:34 Viet
+20-04-15 11:29:48 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:29:57 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 11:29:59 [|X.Forc3|.Turko] !map ash
+20-04-15 11:30:05  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-15 11:30:05 ctf_Ash by chakapoko maker
+20-04-15 11:32:35 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:32:41 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:33:32 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:33:33 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 11:33:51 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:34:04 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 11:35:05 Time Left: 5 minutes
+20-04-15 11:35:38 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 11:35:51 |X.Forc3|.Turko has left alpha team.
+20-04-15 11:36:05 Time Left: 4 minutes
+20-04-15 11:37:05 Time Left: 3 minutes
+20-04-15 11:38:05 Time Left: 2 minutes
+20-04-15 11:38:36 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 11:38:36 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-15 11:38:36 |D.Forc3|.LinkirD has joined as spectator.
+20-04-15 11:38:38 |D.Forc3|.LinkirD has joined bravo team.
+20-04-15 11:38:57 200.120.7.167:23073|3E87BD17409 requesting game...
+20-04-15 11:38:58 S2 ~ David Bisbal joining game (200.120.7.167:23073) HWID:3E87BD17409
+20-04-15 11:38:58 S2 ~ David Bisbal has joined as spectator.
+20-04-15 11:38:58 45.232.32.208:4039|696908AC8E7 requesting game...
+20-04-15 11:38:59 |X.Forc3|.Turko joining game (45.232.32.208:4039) HWID:696908AC8E7
+20-04-15 11:38:59 |X.Forc3|.Turko has joined as spectator.
+20-04-15 11:39:02 |X.Forc3|.Turko has joined alpha team.
+20-04-15 11:39:05 Time Left: 1 minutes
+20-04-15 11:39:11 [S2 ~ David Bisbal] jelou
+20-04-15 11:39:20 |X.Forc3|.Turko added to Game Admins
+20-04-15 11:39:27 /kick 1(45.232.32.208[|X.Forc3|.Turko])
+20-04-15 11:39:27 |D.Forc3|.LinkirD has been kicked.(200.86.99.83)
+20-04-15 11:39:29 S2 ~ David Bisbal has joined bravo team.
+20-04-15 11:39:30 [|X.Forc3|.Turko] ya bio
+20-04-15 11:39:39 [S2 ~ David Bisbal] como es la cotsa
+20-04-15 11:39:40 [|X.Forc3|.Turko] !map viet
+20-04-15 11:39:46 Viet
+20-04-15 11:40:17 [|X.Forc3|.Turko] mm no se ve bien
+20-04-15 11:40:17 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:40:27 [S2 ~ David Bisbal] que cosa
+20-04-15 11:40:53 (2) S2 ~ David Bisbal killed (1) |X.Forc3|.Turko with Steyr AUG
+20-04-15 11:40:54 |X.Forc3|.Turko gets a ping warning
+20-04-15 11:41:04 [|X.Forc3|.Turko] mira el canal
+20-04-15 11:41:12 [|X.Forc3|.Turko] mapas-jugados
+20-04-15 11:41:18 (2) S2 ~ David Bisbal killed (1) |X.Forc3|.Turko with Combat Knife
+20-04-15 11:41:19 [S2 ~ David Bisbal] buena
+20-04-15 11:41:29 (1) |X.Forc3|.Turko killed (2) S2 ~ David Bisbal with Hands
+20-04-15 11:41:29 |X.Forc3|.Turko returned the Red Flag
+20-04-15 11:41:34 [S2 ~ David Bisbal] y como capta los clnes?
+20-04-15 11:41:38 [S2 ~ David Bisbal] clanes
+20-04-15 11:41:43 [|X.Forc3|.Turko] el tag
+20-04-15 11:41:45 [S2 ~ David Bisbal] aaah
+20-04-15 11:41:50 [|X.Forc3|.Turko] asi que siempre tienen que estar bien puestos
+20-04-15 11:42:07 [S2 ~ David Bisbal] y entonces hay que entrar al server no mas y jugar?
+20-04-15 11:42:29 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 11:42:29 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-15 11:42:29 |D.Forc3|.LinkirD has joined as spectator.
+20-04-15 11:42:33 (1) |X.Forc3|.Turko killed (2) S2 ~ David Bisbal with M79
+20-04-15 11:42:33 (2) S2 ~ David Bisbal killed (1) |X.Forc3|.Turko with Combat Knife
+20-04-15 11:42:41 [|X.Forc3|.Turko] voy y vuelvo
+20-04-15 11:42:43 (TEAM)[|X.Forc3|.Turko] >INC< MID / Vienen medio!
+20-04-15 11:42:43 |X.Forc3|.Turko has left alpha team.
+20-04-15 11:42:48 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:43:12 |D.Forc3|.LinkirD has left spectators
+20-04-15 11:43:35 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:43:40 152.174.13.85:23073|2659D0DE306 requesting game...
+20-04-15 11:43:43 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:43:56 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:44:06 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:44:23 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:44:43 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:44:45 Time Left: 5 minutes
+20-04-15 11:44:52 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:45:04 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:45:23 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:45:30 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:45:40 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:45:45 Time Left: 4 minutes
+20-04-15 11:45:47 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:45:58 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:46:05 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:46:16 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:46:29 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:46:37 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:46:45 Time Left: 3 minutes
+20-04-15 11:46:45 S2 ~ David Bisbal captured the Red Flag
+20-04-15 11:46:54 Next map: Lobby
+20-04-15 11:46:54 S2 ~ David Bisbal scores for Bravo Team
+20-04-15 11:47:00  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-15 11:47:00 Lothic - Gothic Lobby Room
+20-04-15 11:49:45 S2 ~ David Bisbal has left bravo team.
+20-04-15 11:52:00 Time Left: 5 minutes
+20-04-15 11:53:00 Time Left: 4 minutes
+20-04-15 11:54:00 Time Left: 3 minutes
+20-04-15 11:55:00 Time Left: 2 minutes
+20-04-15 11:55:35 45.232.32.208:4043|696908AC8E7 requesting game...
+20-04-15 11:55:35 |X.Forc3|.Turko joining game (45.232.32.208:4043) HWID:696908AC8E7
+20-04-15 11:55:35 |X.Forc3|.Turko has joined as spectator.
+20-04-15 11:55:37 |X.Forc3|.Turko has joined alpha team.
+20-04-15 11:56:00 Time Left: 1 minutes
+20-04-15 11:56:31 (TEAM)[|X.Forc3|.Turko] >EFC< HIGH / Arriba va!
+20-04-15 11:57:00 Next map: Lobby
+20-04-15 11:57:05 Lothic - Gothic Lobby Room
+20-04-15 11:59:48 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:00:44 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:05 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:12 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:19 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:26 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:33 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:01:40 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:02:05 Time Left: 5 minutes
+20-04-15 12:03:05 Time Left: 4 minutes
+20-04-15 12:04:00 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:04:05 Time Left: 3 minutes
+20-04-15 12:05:05 Time Left: 2 minutes
+20-04-15 12:06:05 Time Left: 1 minutes
+20-04-15 12:07:05 Next map: Lobby
+20-04-15 12:07:10 Lothic - Gothic Lobby Room
+20-04-15 12:12:10 Time Left: 5 minutes
+20-04-15 12:13:10 Time Left: 4 minutes
+20-04-15 12:14:02 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-15 12:14:02 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:14:10 Time Left: 3 minutes
+20-04-15 12:15:10 Time Left: 2 minutes
+20-04-15 12:16:10 Time Left: 1 minutes
+20-04-15 12:16:21 |X.Forc3|.Turko has left alpha team.
+20-04-15 12:17:10 Next map: Lobby
+20-04-15 12:17:16 Lothic - Gothic Lobby Room
+20-04-15 12:22:16 Time Left: 5 minutes
+20-04-15 12:23:16 Time Left: 4 minutes
+20-04-15 12:24:16 Time Left: 3 minutes
+20-04-15 12:25:16 Time Left: 2 minutes
+20-04-15 12:26:16 Time Left: 1 minutes
+20-04-15 12:27:16 Next map: Lobby
+20-04-15 12:27:21 Lothic - Gothic Lobby Room
+20-04-15 12:32:21 Time Left: 5 minutes
+20-04-15 12:33:21 Time Left: 4 minutes
+20-04-15 12:34:21 Time Left: 3 minutes
+20-04-15 12:35:21 Time Left: 2 minutes
+20-04-15 12:36:21 Time Left: 1 minutes
+20-04-15 12:37:21 Next map: Lobby
+20-04-15 12:37:26 Lothic - Gothic Lobby Room
+20-04-15 12:42:26 Time Left: 5 minutes
+20-04-15 12:43:26 Time Left: 4 minutes
+20-04-15 12:44:26 Time Left: 3 minutes
+20-04-15 12:45:26 Time Left: 2 minutes
+20-04-15 12:45:39 45.232.32.208:4050|696908AC8E7 requesting game...
+20-04-15 12:45:39 |X.Forc3|.Turko joining game (45.232.32.208:4050) HWID:696908AC8E7
+20-04-15 12:45:39 |X.Forc3|.Turko has joined as spectator.
+20-04-15 12:45:41 |X.Forc3|.Turko has joined alpha team.
+20-04-15 12:45:53 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:00 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:07 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:14 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:21 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:26 Time Left: 1 minutes
+20-04-15 12:46:42 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:46:49 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:47:26 Next map: Lobby
+20-04-15 12:47:32 Lothic - Gothic Lobby Room
+20-04-15 12:47:38 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:47:45 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:47:54 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 12:47:55 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-15 12:47:55 |D.Forc3|.LinkirD has joined as spectator.
+20-04-15 12:48:00 |D.Forc3|.LinkirD has joined bravo team.
+20-04-15 12:49:09 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:49:37 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:50:23 [|X.Forc3|.Turko] !map laos
+20-04-15 12:50:28 Laos
+20-04-15 12:50:41 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:50:41 (2) |D.Forc3|.LinkirD killed (1) |X.Forc3|.Turko with Steyr AUG
+20-04-15 12:50:44 |D.Forc3|.LinkirD returned the Blue Flag
+20-04-15 12:50:59 |D.Forc3|.LinkirD captured the Red Flag
+20-04-15 12:51:00 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:51:07 (1) |X.Forc3|.Turko killed (2) |D.Forc3|.LinkirD with Ak-74
+20-04-15 12:51:08 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:51:08 |X.Forc3|.Turko is admin and cannot be kicked.
+20-04-15 12:51:09 [|X.Forc3|.Turko] yahoO!!!
+20-04-15 12:51:12 |X.Forc3|.Turko returned the Red Flag
+20-04-15 12:51:18 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 12:51:23 [|D.Forc3|.LinkirD] qq wea
+20-04-15 12:51:25 [|D.Forc3|.LinkirD] cont
+20-04-15 12:51:28 (1) |X.Forc3|.Turko killed (2) |D.Forc3|.LinkirD with Flamer
+20-04-15 12:51:40 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:51:43 (2) |D.Forc3|.LinkirD killed (1) |X.Forc3|.Turko with Steyr AUG
+20-04-15 12:51:45 |D.Forc3|.LinkirD returned the Blue Flag
+20-04-15 12:51:47 [|X.Forc3|.Turko] !map viet
+20-04-15 12:51:53  [*] [Error] match -> OnGameEnd(14:3) Exception: Socket Error # 10061
+Connection refused.
+20-04-15 12:51:53 Viet
+20-04-15 12:51:57 [|X.Forc3|.Turko] D:
+20-04-15 12:52:05 [|X.Forc3|.Turko] !r
+20-04-15 12:52:05 Reiniciando...
+20-04-15 12:52:11  [*] [Error] match -> OnGameEnd(14:3) Exception: Socket Error # 10061
+Connection refused.
+20-04-15 12:52:11 Viet
+20-04-15 12:52:11 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:52:11 |X.Forc3|.Turko is admin and cannot be kicked.
+20-04-15 12:52:16 [|X.Forc3|.Turko] jaja me lo pitié
+20-04-15 12:52:23 |D.Forc3|.LinkirD captured the Red Flag
+20-04-15 12:52:23 |X.Forc3|.Turko has left alpha team.
+20-04-15 12:52:33 |D.Forc3|.LinkirD scores for Bravo Team
+20-04-15 12:52:42 |D.Forc3|.LinkirD captured the Red Flag
+20-04-15 12:52:51 |D.Forc3|.LinkirD scores for Bravo Team
+20-04-15 12:53:01 |D.Forc3|.LinkirD captured the Red Flag
+20-04-15 12:53:06 |D.Forc3|.LinkirD has left bravo team.
+20-04-15 12:53:06 45.232.32.208:4050|696908AC8E7 requesting game...
+20-04-15 12:53:07 |X.Forc3|.Turko joining game (45.232.32.208:4050) HWID:696908AC8E7
+20-04-15 12:53:07 |X.Forc3|.Turko has joined as spectator.
+20-04-15 12:53:09 |X.Forc3|.Turko has joined alpha team.
+20-04-15 12:54:31 [|X.Forc3|.Turko] !map lobby
+20-04-15 12:54:44  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-15 12:54:44 Lothic - Gothic Lobby Room
+20-04-15 12:54:58 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-15 12:54:59 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-15 12:55:01 =E*R= Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-15 12:55:01 =E*R= Skipo has joined bravo team.
+20-04-15 12:55:06 [|X.Forc3|.Turko] ya
+20-04-15 12:55:07 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:55:07 [|X.Forc3|.Turko] dos mapas
+20-04-15 12:55:12 [=E*R= Skipo] !map Amnesia
+20-04-15 12:55:17 Amnesia - by LoneWolf
+20-04-15 12:55:23 (1) |X.Forc3|.Turko killed (2) =E*R= Skipo with Steyr AUG
+20-04-15 12:55:27 (1) |X.Forc3|.Turko killed (2) =E*R= Skipo with Combat Knife
+20-04-15 12:55:30 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:55:41 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:55:41 [|X.Forc3|.Turko] yahoO!!!
+20-04-15 12:55:50 =E*R= Skipo captured the Red Flag
+20-04-15 12:55:55 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:56:04 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with Hands
+20-04-15 12:56:04 =E*R= Skipo returned the Blue Flag
+20-04-15 12:56:08 [=E*R= Skipo] pero wn
+20-04-15 12:56:10 [=E*R= Skipo] estan con bonus
+20-04-15 12:56:19 =E*R= Skipo scores for Bravo Team
+20-04-15 12:56:24 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:56:29 (1) |X.Forc3|.Turko killed (2) =E*R= Skipo with Combat Knife
+20-04-15 12:56:32 [|X.Forc3|.Turko] jaja
+20-04-15 12:56:32 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:56:37 =E*R= Skipo returned the Blue Flag
+20-04-15 12:56:37 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:56:43 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:56:46 [|X.Forc3|.Turko] ya 1-0
+20-04-15 12:56:49 [|X.Forc3|.Turko] go ash
+20-04-15 12:56:50 [|X.Forc3|.Turko] !map ash
+20-04-15 12:56:58 ctf_Ash by chakapoko maker
+20-04-15 12:57:09 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:57:20 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:57:25 =E*R= Skipo captured the Red Flag
+20-04-15 12:57:26 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:57:30 181.42.46.184:47329|32439DD33E8 requesting game...
+20-04-15 12:57:37 =E*R= Skipo scores for Bravo Team
+20-04-15 12:57:39 (2) =E*R= Skipo killed (1) |X.Forc3|.Turko with FN Minimi
+20-04-15 12:57:40 181.42.46.184:47329|32439DD33E8 requesting game...
+20-04-15 12:57:41 KillMe! joining game (181.42.46.184:47329) HWID:32439DD33E8
+20-04-15 12:57:41 KillMe! has joined as spectator.
+20-04-15 12:57:48 (1) |X.Forc3|.Turko killed (2) =E*R= Skipo with Ruger 77
+20-04-15 12:57:58 KillMe! has left spectators
+20-04-15 12:57:59 (1) |X.Forc3|.Turko killed (2) =E*R= Skipo with Ruger 77
+20-04-15 12:58:01 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 12:58:04 [=E*R= Skipo] salio el gather
+20-04-15 12:58:10 [|X.Forc3|.Turko] !map viet
+20-04-15 12:58:11 [|X.Forc3|.Turko] ya
+20-04-15 12:58:13 [=E*R= Skipo] aer
+20-04-15 12:58:15 Viet
+20-04-15 12:58:16 |X.Forc3|.Turko gets a ping warning
+20-04-15 12:58:16 =E*R= Skipo has left bravo team.
+20-04-15 12:58:17 |X.Forc3|.Turko has left alpha team.
+20-04-15 12:59:09 201.188.96.242:23073|E6A174865AC requesting game...
+20-04-15 13:02:04 Shutting down server...
+20-04-15 13:02:04 Shutting down FileServer...
+20-04-15 13:02:04 Shutting down admin server...

@@ -1,0 +1,8 @@
+20-04-24 05:08:40    Log Started
+20-04-24 05:08:40 Opened /home/kader_b/int3/soldat.ini
+20-04-24 05:08:40 Creating network interface.
+20-04-24 05:08:40 Loading Animations.
+20-04-24 05:08:40 Loading Lobby Servers List
+20-04-24 05:08:40 Loading Maps List
+20-04-24 05:08:40 Destroying Devices.
+20-04-24 05:08:40    End of Log.

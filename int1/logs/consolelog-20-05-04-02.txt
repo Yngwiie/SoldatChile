@@ -1,0 +1,51 @@
+20-05-04 16:05:01    Console Log Started
+20-05-04 16:05:02 Welcome to Soldat 1.7.1
+20-05-04 16:05:02  [*] Preparing scripts to be launched
+20-05-04 16:05:02  [*] [BasicCommands] Compilation started
+20-05-04 16:05:02  [*] [BasicCommands] Compilation complete
+20-05-04 16:05:02  [*] [BasicCommands] Loading bytecode
+20-05-04 16:05:02  [*] [BasicCommands] Bytecode loaded
+20-05-04 16:05:02  [*] Compiling match -> match.pas...
+20-05-04 16:05:02  [*] match compiled
+20-05-04 16:05:02  [*] Done
+20-05-04 16:05:02 Lothic - Gothic Lobby Room
+20-05-04 16:05:02  Connection for file server started. Port: 23110
+20-05-04 16:05:02 Registering server @ 88.99.234.252
+20-05-04 16:06:28 45.232.32.217:57230|64995B15DC0 requesting game...
+20-05-04 16:06:30 45.232.32.217:57230|64995B15DC0 requesting game...
+20-05-04 16:06:31 !F. YnGwi3 joining game (45.232.32.217:57230) HWID:64995B15DC0
+20-05-04 16:06:31 !F. YnGwi3 has joined bravo team.
+20-05-04 16:06:32 !F. YnGwi3 has left bravo team.
+20-05-04 16:08:33 45.232.32.217:57230|64995B15DC0 requesting game...
+20-05-04 16:08:34 !F. YnGwi3 joining game (45.232.32.217:57230) HWID:64995B15DC0
+20-05-04 16:08:34 !F. YnGwi3 has joined bravo team.
+20-05-04 16:08:35 [!F. YnGwi3] !ub
+20-05-04 16:08:35 There is no one to unban.
+20-05-04 16:08:39 !F. YnGwi3 has left bravo team.
+20-05-04 16:08:47 45.232.32.217:57230|64995B15DC0 requesting game...
+20-05-04 16:08:47 !F. YnGwi3 joining game (45.232.32.217:57230) HWID:64995B15DC0
+20-05-04 16:08:47 !F. YnGwi3 has joined alpha team.
+20-05-04 16:08:48 [!F. YnGwi3] !sp
+20-05-04 16:08:48 Clave modificada a:961
+20-05-04 16:08:50 [!F. YnGwi3] !dp
+20-05-04 16:08:50 Clave reseteada
+20-05-04 16:08:51 [!F. YnGwi3] !p
+20-05-04 16:08:51 Pausando...
+20-05-04 16:08:52 [!F. YnGwi3] !up
+20-05-04 16:08:52 Despausando en: 3
+20-05-04 16:08:53 Despausando en: 2
+20-05-04 16:08:54 Despausando en: 1
+20-05-04 16:08:55 Go!
+20-05-04 16:08:59 [!F. YnGwi3] !up
+20-05-04 16:08:59 Despausado!
+20-05-04 16:09:00 [!F. YnGwi3] !ub
+20-05-04 16:09:00 There is no one to unban.
+20-05-04 16:09:07 !F. YnGwi3 has left alpha team.
+20-05-04 16:10:06 Time Left: 5 minutes
+20-05-04 16:11:06 Time Left: 4 minutes
+20-05-04 16:12:06 Time Left: 3 minutes
+20-05-04 16:13:06 Time Left: 2 minutes
+20-05-04 16:13:47 Signal received, shutting down
+20-05-04 16:13:47 Shutting down server...
+20-05-04 16:13:47 Shutting down FileServer...
+20-05-04 16:13:47 Shutting down admin server...

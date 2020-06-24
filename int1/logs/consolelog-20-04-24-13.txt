@@ -1,0 +1,24 @@
+20-04-24 19:22:12    Console Log Started
+20-04-24 19:22:12 Welcome to Soldat 1.7.1
+20-04-24 19:22:12  [*] Preparing scripts to be launched
+20-04-24 19:22:12  [*] [BasicCommands] Compilation started
+20-04-24 19:22:12  [*] [BasicCommands] Compilation complete
+20-04-24 19:22:12  [*] [BasicCommands] Loading bytecode
+20-04-24 19:22:12  [*] [BasicCommands] Bytecode loaded
+20-04-24 19:22:12  [*] Compiling match -> match.pas...
+20-04-24 19:22:12  [*] match compiled
+20-04-24 19:22:12  [*] Done
+20-04-24 19:22:12 Lothic - Gothic Lobby Room
+20-04-24 19:22:12 Loaded weapons mod "Default v1.8"
+20-04-24 19:22:12  Connection for file server started. Port: 23110
+20-04-24 19:22:12 Registering server @ 88.99.234.252
+20-04-24 19:22:16 186.143.197.13:56217|14189A02D27 requesting game...
+20-04-24 19:22:17 Divas| Rattle joining game (186.143.197.13:56217) HWID:14189A02D27
+20-04-24 19:22:17 Divas| Rattle has joined alpha team.
+20-04-24 19:22:18 [Divas| Rattle] !map tv
+20-04-24 19:22:24 Terminal Velocity by Zakath
+20-04-24 19:22:24 Divas| Rattle has left alpha team.
+20-04-24 19:23:34 Signal received, shutting down
+20-04-24 19:23:34 Shutting down server...
+20-04-24 19:23:34 Shutting down FileServer...
+20-04-24 19:23:34 Shutting down admin server...

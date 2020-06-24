@@ -1,0 +1,46 @@
+20-04-24 19:20:08    Console Log Started
+20-04-24 19:20:08 Welcome to Soldat 1.7.1
+20-04-24 19:20:08  [*] Preparing scripts to be launched
+20-04-24 19:20:08  [*] [BasicCommands] Compilation started
+20-04-24 19:20:08  [*] [BasicCommands] Compilation complete
+20-04-24 19:20:08  [*] [BasicCommands] Loading bytecode
+20-04-24 19:20:08  [*] [BasicCommands] Bytecode loaded
+20-04-24 19:20:08  [*] Compiling match -> match.pas...
+20-04-24 19:20:08  [*] match compiled
+20-04-24 19:20:08  [*] Done
+20-04-24 19:20:08 Lothic - Gothic Lobby Room
+20-04-24 19:20:08 Loaded weapons mod "Default v1.8"
+20-04-24 19:20:08  Connection for file server started. Port: 23110
+20-04-24 19:20:09 Registering server @ 88.99.234.252
+20-04-24 19:20:20 186.143.197.13:56217|14189A02D27 requesting game...
+20-04-24 19:20:22 Divas| Rattle joining game (186.143.197.13:56217) HWID:14189A02D27
+20-04-24 19:20:22 Divas| Rattle has joined alpha team.
+20-04-24 19:20:24 [Divas| Rattle] !map tv
+20-04-24 19:20:24 Map not found (tv)
+20-04-24 19:20:27 168.196.203.136:37543|64995B15DC0 requesting game...
+20-04-24 19:20:28 [Divas| Rattle] !map razer
+20-04-24 19:20:28 Map not found (razer)
+20-04-24 19:20:28 sT.- YnGwi3 joining game (168.196.203.136:37543) HWID:64995B15DC0
+20-04-24 19:20:28 sT.- YnGwi3 has joined bravo team.
+20-04-24 19:20:30 [Divas| Rattle] !map Razer
+20-04-24 19:20:30 Map not found (razer)
+20-04-24 19:20:31 [Divas| Rattle] no pasa na
+20-04-24 19:20:32 [sT.- YnGwi3] !map ctf_Razer
+20-04-24 19:20:32 Map not found (ctf_razer)
+20-04-24 19:20:34 [sT.- YnGwi3] nop
+20-04-24 19:20:34 Divas| Rattle has left alpha team.
+20-04-24 19:20:34 [sT.- YnGwi3] !sp
+20-04-24 19:20:34 Clave modificada a:995
+20-04-24 19:20:35 [sT.- YnGwi3] !dp
+20-04-24 19:20:35 Clave reseteada
+20-04-24 19:20:36 sT.- YnGwi3 has left bravo team.
+20-04-24 19:21:52 186.143.197.13:56217|14189A02D27 requesting game...
+20-04-24 19:21:52 186.143.197.13:56217|14189A02D27 requesting game...
+20-04-24 19:21:53 Divas| Rattle joining game (186.143.197.13:56217) HWID:14189A02D27
+20-04-24 19:21:53 Divas| Rattle has joined alpha team.
+20-04-24 19:21:55 [Divas| Rattle] !ctf tv
+20-04-24 19:21:57 Divas| Rattle has left alpha team.
+20-04-24 19:22:07 Signal received, shutting down
+20-04-24 19:22:07 Shutting down server...
+20-04-24 19:22:07 Shutting down FileServer...
+20-04-24 19:22:07 Shutting down admin server...

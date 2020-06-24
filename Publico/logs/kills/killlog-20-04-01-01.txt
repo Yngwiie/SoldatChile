@@ -1,0 +1,9787 @@
+20-04-01 19:19:29    Kill Log Started
+--- 20-04-01 19:19:29
+Mr Aspid
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:19:30
+Amotinao
+Mr Aspid
+Grenade
+--- 20-04-01 19:19:40
+Mark Rii
+Stalkero
+FN Minimi
+--- 20-04-01 19:19:47
+Mark Rii
+EPIC IncuboyD
+FN Minimi
+--- 20-04-01 19:19:48
+Mr Aspid
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:19:50
+Stalkero
+Mark Rii
+Grenade
+--- 20-04-01 19:19:58
+Amotinao
+Gaborit
+Grenade
+--- 20-04-01 19:20:35
+EPIC IncuboyD
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:20:37
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:20:40
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:20:44
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:20:50
+EPIC IncuboyD
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:20:52
+DmChord
+Mr Aspid
+Chainsaw
+--- 20-04-01 19:20:57
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:21:02
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:21:05
+Mr Aspid
+DmChord
+Ruger 77
+--- 20-04-01 19:21:17
+Mark Rii
+Stalkero
+Steyr AUG
+--- 20-04-01 19:21:18
+Mark Rii
+EPIC IncuboyD
+Steyr AUG
+--- 20-04-01 19:21:24
+Stalkero
+Amotinao
+Steyr AUG
+--- 20-04-01 19:21:27
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 19:21:28
+EPIC IncuboyD
+Mark Rii
+USSOCOM
+--- 20-04-01 19:21:33
+Stalkero
+Mr Aspid
+Steyr AUG
+--- 20-04-01 19:21:34
+EPIC IncuboyD
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:21:38
+EPIC IncuboyD
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:21:40
+Amotinao
+Stalkero
+Grenade
+--- 20-04-01 19:21:44
+EPIC IncuboyD
+EPIC IncuboyD
+Grenade
+--- 20-04-01 19:21:44
+EPIC IncuboyD
+Amotinao
+Grenade
+--- 20-04-01 19:21:51
+DmChord
+Mr Aspid
+Chainsaw
+--- 20-04-01 19:21:51
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:21:59
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:22:04
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 19:22:04
+Mr Aspid
+Stalkero
+HK MP5
+--- 20-04-01 19:22:13
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:22:14
+Mark Rii
+Stalkero
+Steyr AUG
+--- 20-04-01 19:22:14
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 19:22:17
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:22:22
+Mr Aspid
+EPIC IncuboyD
+HK MP5
+--- 20-04-01 19:22:28
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:22:34
+Mr Aspid
+DmChord
+HK MP5
+--- 20-04-01 19:22:39
+EPIC IncuboyD
+Mark Rii
+HK MP5
+--- 20-04-01 19:22:42
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:22:46
+Mark Rii
+Stalkero
+Steyr AUG
+--- 20-04-01 19:22:53
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:22:57
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:23:03
+Mark Rii
+EPIC IncuboyD
+Steyr AUG
+--- 20-04-01 19:23:03
+Mr Aspid
+Stalkero
+Grenade
+--- 20-04-01 19:23:04
+Mr Aspid
+DmChord
+HK MP5
+--- 20-04-01 19:23:13
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:23:15
+DmChord
+Mr Aspid
+Desert Eagles
+--- 20-04-01 19:23:20
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:23:23
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:23:29
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:23:29
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:23:37
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:23:39
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:23:41
+Nickname
+Mr Aspid
+Desert Eagles
+--- 20-04-01 19:23:46
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 19:23:46
+DmChord
+Mark Rii
+Desert Eagles
+--- 20-04-01 19:23:50
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:23:50
+Amotinao
+Nickname
+M79
+--- 20-04-01 19:23:52
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:23:52
+Mark Rii
+Stalkero
+Steyr AUG
+--- 20-04-01 19:23:58
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 19:24:01
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:24:01
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:24:06
+DmChord
+Mr Aspid
+Desert Eagles
+--- 20-04-01 19:24:08
+DmChord
+Mark Rii
+Grenade
+--- 20-04-01 19:24:12
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:24:21
+Mr Aspid
+Stalkero
+Ak-74
+--- 20-04-01 19:24:23
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:24:24
+DmChord
+Mr Aspid
+Desert Eagles
+--- 20-04-01 19:24:27
+Amotinao
+Stalkero
+Grenade
+--- 20-04-01 19:24:31
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:24:33
+DmChord
+Mr Aspid
+Desert Eagles
+--- 20-04-01 19:24:34
+Nickname
+Amotinao
+USSOCOM
+--- 20-04-01 19:24:35
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:24:42
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:24:48
+Mr Aspid
+DmChord
+Spas-12
+--- 20-04-01 19:24:49
+Mr Aspid
+Nickname
+Spas-12
+--- 20-04-01 19:24:51
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:24:53
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 19:24:56
+EPIC IncuboyD
+Amotinao
+M79
+--- 20-04-01 19:25:00
+EPIC IncuboyD
+Mr Aspid
+M79
+--- 20-04-01 19:25:02
+Mark Rii
+Nickname
+Steyr AUG
+--- 20-04-01 19:25:06
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:25:09
+Mr Aspid
+EPIC IncuboyD
+Spas-12
+--- 20-04-01 19:25:11
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:25:14
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:25:20
+EPIC IncuboyD
+Amotinao
+M79
+--- 20-04-01 19:25:21
+Nickname
+Mr Aspid
+Spas-12
+--- 20-04-01 19:25:22
+Mr Aspid
+Nickname
+Spas-12
+--- 20-04-01 19:25:25
+Mark Rii
+Stalkero
+Steyr AUG
+--- 20-04-01 19:25:29
+EPIC IncuboyD
+Mark Rii
+M79
+--- 20-04-01 19:25:29
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:25:31
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:25:38
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:25:41
+Mark Rii
+Nickname
+Steyr AUG
+--- 20-04-01 19:25:43
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:25:45
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:25:46
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:25:52
+Nickname
+Mark Rii
+M79
+--- 20-04-01 19:25:52
+Mr Aspid
+DmChord
+Spas-12
+--- 20-04-01 19:25:56
+Nickname
+Mr Aspid
+M79
+--- 20-04-01 19:25:58
+EPIC IncuboyD
+Amotinao
+USSOCOM
+--- 20-04-01 19:26:00
+DmChord
+DmChord
+Grenade
+--- 20-04-01 19:26:04
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:26:06
+Nickname
+Amotinao
+M79
+--- 20-04-01 19:26:07
+Amotinao
+Nickname
+M79
+--- 20-04-01 19:26:15
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:26:15
+Mr Aspid
+Stalkero
+Spas-12
+--- 20-04-01 19:26:18
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:26:22
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:26:24
+Amotinao
+Nickname
+M79
+--- 20-04-01 19:26:24
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:26:27
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:26:30
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:26:31
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:26:37
+Mr Aspid
+DmChord
+Spas-12
+--- 20-04-01 19:26:41
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:26:44
+S2 ~ DeFkOndOz*
+DmChord
+Grenade
+--- 20-04-01 19:26:46
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:26:46
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:26:48
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+FN Minimi
+--- 20-04-01 19:26:51
+S2 ~ DeFkOndOz*
+Nickname
+FN Minimi
+--- 20-04-01 19:26:56
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:26:57
+Mr Aspid
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:26:57
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:26:57
+Nickname
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:27:00
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:27:05
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Spas-12
+--- 20-04-01 19:27:06
+DmChord
+Mr Aspid
+Spas-12
+--- 20-04-01 19:27:11
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 19:27:11
+Nickname
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:27:11
+Amotinao
+Stalkero
+Grenade
+--- 20-04-01 19:27:18
+Mr Aspid
+DmChord
+FN Minimi
+--- 20-04-01 19:27:19
+EPIC IncuboyD
+Amotinao
+M79
+--- 20-04-01 19:27:20
+EPIC IncuboyD
+Mr Aspid
+USSOCOM
+--- 20-04-01 19:27:22
+S2 ~ DeFkOndOz*
+Stalkero
+Spas-12
+--- 20-04-01 19:27:24
+S2 ~ DeFkOndOz*
+Nickname
+LAW
+--- 20-04-01 19:27:26
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:27:27
+EPIC IncuboyD
+Mark Rii
+M79
+--- 20-04-01 19:27:27
+EPIC IncuboyD
+EPIC IncuboyD
+M79
+--- 20-04-01 19:27:30
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:27:31
+Stalkero
+Mr Aspid
+Spas-12
+--- 20-04-01 19:27:34
+Amotinao
+Nickname
+M79
+--- 20-04-01 19:27:34
+Mark Rii
+Stalkero
+HK MP5
+--- 20-04-01 19:27:36
+Amotinao
+DmChord
+Grenade
+--- 20-04-01 19:27:40
+Nickname
+Mark Rii
+FN Minimi
+--- 20-04-01 19:27:40
+S2 ~ DeFkOndOz*
+Nickname
+LAW
+--- 20-04-01 19:27:40
+EPIC IncuboyD
+Mr Aspid
+M79
+--- 20-04-01 19:27:47
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:27:51
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:27:51
+Mark Rii
+Bassofia
+HK MP5
+--- 20-04-01 19:27:53
+Nickname
+Mark Rii
+XM214 Minigun
+--- 20-04-01 19:27:54
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:27:56
+Mr Aspid
+DmChord
+Steyr AUG
+--- 20-04-01 19:27:58
+S2 ~ DeFkOndOz*
+Nickname
+Spas-12
+--- 20-04-01 19:28:02
+Mr Aspid
+Bassofia
+Steyr AUG
+--- 20-04-01 19:28:03
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:28:04
+EPIC IncuboyD
+Amotinao
+USSOCOM
+--- 20-04-01 19:28:10
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+M79
+--- 20-04-01 19:28:10
+DmChord
+Mr Aspid
+Spas-12
+--- 20-04-01 19:28:12
+EPIC IncuboyD
+Amotinao
+USSOCOM
+--- 20-04-01 19:28:12
+Mark Rii
+EPIC IncuboyD
+HK MP5
+--- 20-04-01 19:28:13
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:28:17
+S2 ~ DeFkOndOz*
+DmChord
+Spas-12
+--- 20-04-01 19:28:18
+S2 ~ DeFkOndOz*
+Nickname
+Spas-12
+--- 20-04-01 19:28:18
+Bassofia
+Mr Aspid
+Grenade
+--- 20-04-01 19:28:21
+S2 ~ DeFkOndOz*
+Bassofia
+Spas-12
+--- 20-04-01 19:28:21
+Stalkero
+Mark Rii
+Spas-12
+--- 20-04-01 19:28:21
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:28:28
+S2 ~ DeFkOndOz*
+DmChord
+Spas-12
+--- 20-04-01 19:28:28
+|D.Forc3| LawshoT
+Bassofia
+Barrett M82A1
+--- 20-04-01 19:28:29
+Bassofia
+Amotinao
+Grenade
+--- 20-04-01 19:28:31
+S2 ~ DeFkOndOz*
+Stalkero
+Spas-12
+--- 20-04-01 19:28:31
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:28:33
+Bassofia
+|D.Forc3| LawshoT
+Steyr AUG
+--- 20-04-01 19:28:36
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 19:28:38
+S2 ~ DeFkOndOz*
+DmChord
+Spas-12
+--- 20-04-01 19:28:40
+Amotinao
+Nickname
+M79
+--- 20-04-01 19:28:41
+S2 ~ DeFkOndOz*
+Stalkero
+Spas-12
+--- 20-04-01 19:28:42
+Stalkero
+Mr Aspid
+Grenade
+--- 20-04-01 19:28:44
+Bassofia
+|D.Forc3| LawshoT
+Steyr AUG
+--- 20-04-01 19:28:46
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:28:46
+Mark Rii
+EPIC IncuboyD
+HK MP5
+--- 20-04-01 19:28:48
+Nickname
+Amotinao
+Spas-12
+--- 20-04-01 19:28:51
+Stalkero
+Mr Aspid
+Grenade
+--- 20-04-01 19:28:53
+Nickname
+Mark Rii
+Spas-12
+--- 20-04-01 19:28:54
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:28:55
+EPIC IncuboyD
+|D.Forc3| LawshoT
+M79
+--- 20-04-01 19:28:57
+EPIC IncuboyD
+Mr Aspid
+M79
+--- 20-04-01 19:29:03
+Mark Rii
+Stalkero
+HK MP5
+--- 20-04-01 19:29:04
+|D.Forc3| LawshoT
+Bassofia
+Grenade
+--- 20-04-01 19:29:05
+|D.Forc3| LawshoT
+Nickname
+Combat Knife
+--- 20-04-01 19:29:06
+EPIC IncuboyD
+Mr Aspid
+USSOCOM
+--- 20-04-01 19:29:07
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:29:07
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:29:12
+Bassofia
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:29:12
+Stalkero
+|D.Forc3| LawshoT
+Grenade
+--- 20-04-01 19:29:14
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:29:17
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 19:29:18
+Nickname
+Amotinao
+Steyr AUG
+--- 20-04-01 19:29:23
+|D.Forc3| LawshoT
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:29:23
+|D.Forc3| LawshoT
+DmChord
+Barrett M82A1
+--- 20-04-01 19:29:23
+Nickname
+Mr Aspid
+Steyr AUG
+--- 20-04-01 19:29:23
+|D.Forc3| LawshoT
+Bassofia
+Grenade
+--- 20-04-01 19:29:24
+S2 ~ DeFkOndOz*
+Nickname
+Grenade
+--- 20-04-01 19:29:33
+S2 ~ DeFkOndOz*
+Bassofia
+Spas-12
+--- 20-04-01 19:29:33
+DmChord
+Amotinao
+Ak-74
+--- 20-04-01 19:29:36
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 19:29:38
+|D.Forc3| LawshoT
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:29:39
+S2 ~ DeFkOndOz*
+Nickname
+Spas-12
+--- 20-04-01 19:29:40
+Mr Aspid
+EPIC IncuboyD
+Ak-74
+--- 20-04-01 19:29:42
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:29:42
+S2 ~ DeFkOndOz*
+Bassofia
+Grenade
+--- 20-04-01 19:29:47
+Stalkero
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:29:47
+Stalkero
+Mark Rii
+Ruger 77
+--- 20-04-01 19:29:49
+|D.Forc3| LawshoT
+Nickname
+Barrett M82A1
+--- 20-04-01 19:29:51
+Mr Aspid
+Stalkero
+Ak-74
+--- 20-04-01 19:29:53
+Bassofia
+|D.Forc3| LawshoT
+Spas-12
+--- 20-04-01 19:29:54
+EPIC IncuboyD
+Mr Aspid
+M79
+--- 20-04-01 19:29:55
+S2 ~ DeFkOndOz*
+DmChord
+Spas-12
+--- 20-04-01 19:29:57
+Bassofia
+Amotinao
+Spas-12
+--- 20-04-01 19:30:02
+S2 ~ DeFkOndOz*
+Bassofia
+Spas-12
+--- 20-04-01 19:30:04
+|D.Forc3| LawshoT
+Nickname
+Barrett M82A1
+--- 20-04-01 19:30:04
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:30:25
+M79
+--- 20-04-01 19:30:25
+Bassofia
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:30:30
+Nickname
+issma11
+Ak-74
+--- 20-04-01 19:30:30
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:30:33
+|D.Forc3| LawshoT
+DmChord
+Barrett M82A1
+--- 20-04-01 19:30:37
+Stalkero
+Steyr AUG
+--- 20-04-01 19:30:39
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:30:41
+Bassofia
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:30:43
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:30:49
+Bassofia
+Barrett M82A1
+--- 20-04-01 19:30:50
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:30:53
+|D.Forc3| LawshoT
+DmChord
+Combat Knife
+--- 20-04-01 19:30:54
+Bassofia
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-04-01 19:31:01
+Mark Rii
+M79
+--- 20-04-01 19:31:01
+Nickname
+S2 ~ DeFkOndOz*
+M79
+--- 20-04-01 19:31:04
+Nickname
+Nickname
+M79
+--- 20-04-01 19:31:04
+Nickname
+issma11
+M79
+--- 20-04-01 19:31:05
+Bassofia
+Barrett M82A1
+--- 20-04-01 19:31:09
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:31:10
+Stalkero
+Amotinao
+Ak-74
+--- 20-04-01 19:31:14
+Bassofia
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-04-01 19:31:17
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:31:20
+Bassofia
+Barrett M82A1
+--- 20-04-01 19:31:25
+Bassofia
+issma11
+Barrett M82A1
+--- 20-04-01 19:31:28
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:31:29
+Nickname
+|D.Forc3| LawshoT
+XM214 Minigun
+--- 20-04-01 19:31:30
+Nickname
+M79
+--- 20-04-01 19:31:32
+DmChord
+Spas-12
+--- 20-04-01 19:31:34
+Amotinao
+Mark Rii
+M79
+--- 20-04-01 19:31:36
+Dentist
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-04-01 19:31:37
+issma11
+DmChord
+Ak-74
+--- 20-04-01 19:31:37
+DmChord
+issma11
+Hands
+--- 20-04-01 19:31:42
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:31:44
+Dentist
+Ruger 77
+--- 20-04-01 19:31:44
+S2 ~ DeFkOndOz*
+Bassofia
+Barrett M82A1
+--- 20-04-01 19:31:46
+|D.Forc3| LawshoT
+Stalkero
+M79
+--- 20-04-01 19:31:47
+Dentist
+issma11
+Ruger 77
+--- 20-04-01 19:31:48
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:31:50
+Amotinao
+Dentist
+M79
+--- 20-04-01 19:31:51
+Mark Rii
+|D.Forc3| LawshoT
+Ak-74
+--- 20-04-01 19:31:58
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:31:58
+DmChord
+Amotinao
+Spas-12
+--- 20-04-01 19:32:05
+Mark Rii
+|D.Forc3| LawshoT
+Ak-74
+--- 20-04-01 19:32:06
+issma11
+Mark Rii
+Ak-74
+--- 20-04-01 19:32:06
+Stalkero
+issma11
+Spas-12
+--- 20-04-01 19:32:09
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:32:16
+Warchlak
+Stalkero
+Ak-74
+--- 20-04-01 19:32:16
+Nickname
+Amotinao
+XM214 Minigun
+--- 20-04-01 19:32:17
+DmChord
+|D.Forc3| LawshoT
+Spas-12
+--- 20-04-01 19:32:20
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:32:21
+Dentist
+issma11
+Combat Knife
+--- 20-04-01 19:32:23
+Dentist
+Warchlak
+Ruger 77
+--- 20-04-01 19:32:24
+Dentist
+Amotinao
+Ruger 77
+--- 20-04-01 19:32:24
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:32:25
+Amotinao
+Dentist
+Grenade
+--- 20-04-01 19:32:33
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:32:36
+issma11
+DmChord
+Ak-74
+--- 20-04-01 19:32:38
+Dentist
+|D.Forc3| LawshoT
+Ruger 77
+--- 20-04-01 19:32:40
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:32:41
+Amotinao
+Amotinao
+Grenade
+--- 20-04-01 19:32:49
+Dentist
+DatFick
+Ruger 77
+--- 20-04-01 19:32:51
+|D.Forc3| LawshoT
+Dentist
+M79
+--- 20-04-01 19:32:52
+issma11
+Mark Rii
+Ak-74
+--- 20-04-01 19:32:57
+Nickname
+issma11
+XM214 Minigun
+--- 20-04-01 19:33:01
+Stalkero
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-04-01 19:33:02
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:33:02
+EPIC IncuboyD
+DatFick
+USSOCOM
+--- 20-04-01 19:33:04
+S2 ~ DeFkOndOz*
+Mark Rii
+Grenade
+--- 20-04-01 19:33:08
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:33:10
+Dentist
+issma11
+Grenade
+--- 20-04-01 19:33:13
+S2 ~ DeFkOndOz*
+Nickname
+Grenade
+--- 20-04-01 19:33:15
+EPIC IncuboyD
+|D.Forc3| LawshoT
+USSOCOM
+--- 20-04-01 19:33:16
+Stalkero
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-04-01 19:33:19
+issma11
+Dentist
+Ak-74
+--- 20-04-01 19:33:20
+Stalkero
+narrowgar
+Barrett M82A1
+--- 20-04-01 19:33:23
+EPIC IncuboyD
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-04-01 19:33:29
+Mark Rii
+issma11
+Ak-74
+--- 20-04-01 19:33:29
+Amotinao
+Stalkero
+LAW
+--- 20-04-01 19:33:37
+Mark Rii
+narrowgar
+Ak-74
+--- 20-04-01 19:33:39
+|D.Forc3| LawshoT
+Mark Rii
+Grenade
+--- 20-04-01 19:33:40
+|D.Forc3| LawshoT
+DmChord
+Combat Knife
+--- 20-04-01 19:33:41
+Stalkero
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:33:43
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:33:44
+Dentist
+issma11
+Ruger 77
+--- 20-04-01 19:33:45
+|D.Forc3| LawshoT
+Nickname
+M79
+--- 20-04-01 19:33:47
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:33:49
+|D.Forc3| LawshoT
+Dentist
+Barrett M82A1
+--- 20-04-01 19:33:52
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:33:58
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:34:02
+EPIC IncuboyD
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:34:04
+DmChord
+narrowgar
+Spas-12
+--- 20-04-01 19:34:06
+Nickname
+issma11
+Barrett M82A1
+--- 20-04-01 19:34:08
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:34:10
+DmChord
+|D.Forc3| LawshoT
+Grenade
+--- 20-04-01 19:34:13
+Mark Rii
+Amotinao
+Steyr AUG
+--- 20-04-01 19:34:15
+issma11
+DmChord
+Ak-74
+--- 20-04-01 19:34:15
+DmChord
+issma11
+Spas-12
+--- 20-04-01 19:34:17
+|D.Forc3| LawshoT
+Mark Rii
+Grenade
+--- 20-04-01 19:34:17
+S2 ~ DeFkOndOz*
+Nickname
+Grenade
+--- 20-04-01 19:34:18
+Dentist
+|D.Forc3| LawshoT
+Grenade
+--- 20-04-01 19:34:20
+Dentist
+Amotinao
+Ruger 77
+--- 20-04-01 19:34:21
+Amotinao
+Dentist
+Grenade
+--- 20-04-01 19:34:26
+|D.Forc3| LawshoT
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:34:32
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+LAW
+--- 20-04-01 19:34:35
+|D.Forc3| LawshoT
+DmChord
+Barrett M82A1
+--- 20-04-01 19:34:38
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:34:38
+Dentist
+issma11
+Ruger 77
+--- 20-04-01 19:34:40
+|D.Forc3| LawshoT
+Dentist
+Barrett M82A1
+--- 20-04-01 19:34:48
+Stalkero
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-04-01 19:34:49
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:34:56
+S2 ~ DeFkOndOz*
+Dentist
+Barrett M82A1
+--- 20-04-01 19:35:00
+issma11
+DmChord
+Ak-74
+--- 20-04-01 19:35:03
+Stalkero
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:35:06
+Dentist
+issma11
+Ruger 77
+--- 20-04-01 19:35:13
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:35:13
+Mark Rii
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-04-01 19:35:17
+|D.Forc3| LawshoT
+DmChord
+Barrett M82A1
+--- 20-04-01 19:35:22
+Nickname
+|D.Forc3| LawshoT
+Steyr AUG
+--- 20-04-01 19:35:24
+EPIC IncuboyD
+Amotinao
+USSOCOM
+--- 20-04-01 19:35:33
+DmChord
+issma11
+Desert Eagles
+--- 20-04-01 19:35:34
+S2 ~ DeFkOndOz*
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:35:34
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:35:37
+Nickname
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-04-01 19:35:43
+Nickname
+Medusa
+Steyr AUG
+--- 20-04-01 19:35:44
+DmChord
+Amotinao
+Desert Eagles
+--- 20-04-01 19:35:44
+issma11
+Dentist
+Ak-74
+--- 20-04-01 19:35:55
+Mark Rii
+issma11
+Steyr AUG
+--- 20-04-01 19:35:57
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-04-01 19:36:00
+Stalkero
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:36:01
+Medusa
+Mark Rii
+Ak-74
+--- 20-04-01 19:36:05
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:36:06
+issma11
+Stalkero
+Ak-74
+--- 20-04-01 19:36:11
+EPIC IncuboyD
+issma11
+Barrett M82A1
+--- 20-04-01 19:36:17
+DmChord
+Medusa
+Desert Eagles
+--- 20-04-01 19:36:18
+EPIC IncuboyD
+Amotinao
+USSOCOM
+--- 20-04-01 19:36:23
+issma11
+DmChord
+Ak-74
+--- 20-04-01 19:36:28
+issma11
+Mark Rii
+Ak-74
+--- 20-04-01 19:36:29
+Nickname
+S2 ~ DeFkOndOz*
+M79
+--- 20-04-01 19:36:30
+Stalkero
+Amotinao
+Steyr AUG
+--- 20-04-01 19:36:30
+Stalkero
+issma11
+Steyr AUG
+--- 20-04-01 19:36:33
+Medusa
+Stalkero
+Ak-74
+--- 20-04-01 19:36:46
+EPIC IncuboyD
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:36:48
+DmChord
+issma11
+Desert Eagles
+--- 20-04-01 19:36:54
+Stalkero
+Chedragon
+Steyr AUG
+--- 20-04-01 19:36:55
+Stalkero
+Medusa
+Steyr AUG
+--- 20-04-01 19:36:56
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:36:59
+DmChord
+Amotinao
+Desert Eagles
+--- 20-04-01 19:37:03
+issma11
+Mark Rii
+Ak-74
+--- 20-04-01 19:37:04
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:37:04
+Stalkero
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:37:07
+EPIC IncuboyD
+issma11
+USSOCOM
+--- 20-04-01 19:37:10
+Medusa
+DmChord
+Ak-74
+--- 20-04-01 19:37:14
+Nickname
+Chedragon
+M79
+--- 20-04-01 19:37:23
+Nickname
+Medusa
+M79
+--- 20-04-01 19:37:26
+Mark Rii
+issma11
+Ak-74
+--- 20-04-01 19:37:26
+Chedragon
+Nickname
+Ak-74
+--- 20-04-01 19:37:37
+Chedragon
+Mark Rii
+Ak-74
+--- 20-04-01 19:37:40
+DmChord
+Medusa
+Desert Eagles
+--- 20-04-01 19:37:42
+Stalkero
+Chedragon
+Ak-74
+--- 20-04-01 19:37:47
+EPIC IncuboyD
+issma11
+Barrett M82A1
+--- 20-04-01 19:37:47
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:37:49
+Medusa
+DmChord
+Ak-74
+--- 20-04-01 19:37:54
+Chedragon
+Stalkero
+Ak-74
+--- 20-04-01 19:38:03
+Nickname
+issma11
+Desert Eagles
+--- 20-04-01 19:38:04
+Mark Rii
+Chedragon
+Ak-74
+--- 20-04-01 19:38:04
+Nickname
+Medusa
+Desert Eagles
+--- 20-04-01 19:38:04
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:38:04
+Medusa
+Nickname
+Ak-74
+--- 20-04-01 19:38:12
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:38:15
+issma11
+Mark Rii
+Ak-74
+--- 20-04-01 19:38:16
+DmChord
+JJJ
+Desert Eagles
+--- 20-04-01 19:38:17
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:38:21
+Stalkero
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:38:23
+JJJ
+DmChord
+Spas-12
+--- 20-04-01 19:38:31
+Stalkero
+issma11
+Ak-74
+--- 20-04-01 19:38:37
+S2 ~ DeFkOndOz*
+Stalkero
+Grenade
+--- 20-04-01 19:38:37
+Stalkero
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:38:39
+DmChord
+Amotinao
+Desert Eagles
+--- 20-04-01 19:38:43
+Chedragon
+DmChord
+Ak-74
+--- 20-04-01 19:38:44
+Mark Rii
+issma11
+Ak-74
+--- 20-04-01 19:38:45
+Mark Rii
+Medusa
+Ak-74
+--- 20-04-01 19:38:52
+S2 ~ DeFkOndOz*
+Mark Rii
+Grenade
+--- 20-04-01 19:38:53
+Stalkero
+Chedragon
+Grenade
+--- 20-04-01 19:38:56
+EPIC IncuboyD
+JJJ
+USSOCOM
+--- 20-04-01 19:39:04
+S2 ~ DeFkOndOz*
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:39:04
+DmChord
+Medusa
+Desert Eagles
+--- 20-04-01 19:39:07
+Chedragon
+DmChord
+Steyr AUG
+--- 20-04-01 19:39:14
+S2 ~ DeFkOndOz*
+Nickname
+Hands
+--- 20-04-01 19:39:15
+Stalkero
+Chedragon
+Hands
+--- 20-04-01 19:39:15
+Medusa
+Stalkero
+Ak-74
+--- 20-04-01 19:39:16
+Mark Rii
+Amotinao
+Ak-74
+--- 20-04-01 19:39:18
+EPIC IncuboyD
+JJJ
+USSOCOM
+--- 20-04-01 19:39:24
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:39:26
+EPIC IncuboyD
+Medusa
+Grenade
+--- 20-04-01 19:39:27
+DmChord
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-04-01 19:39:30
+Chedragon
+DmChord
+Steyr AUG
+--- 20-04-01 19:39:34
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:39:45
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:39:48
+Amotinao
+Amotinao
+M79
+--- 20-04-01 19:39:52
+Mark Rii
+issma11
+Ak-74
+--- 20-04-01 19:39:52
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:39:57
+Mark Rii
+Medusa
+Ak-74
+--- 20-04-01 19:39:58
+Medusa
+Mark Rii
+Ak-74
+--- 20-04-01 19:39:58
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:40:04
+Stalkero
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:40:05
+JJJ
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:40:08
+EPIC IncuboyD
+JJJ
+USSOCOM
+--- 20-04-01 19:40:23
+Amotinao
+DmChord
+M79
+--- 20-04-01 19:40:26
+Nickname
+Amotinao
+XM214 Minigun
+--- 20-04-01 19:40:28
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:40:28
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:40:30
+Stalkero
+Stalkero
+Selfkill
+--- 20-04-01 19:40:33
+Nickname
+Medusa
+Grenade
+--- 20-04-01 19:40:33
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:40:33
+JJJ
+Nickname
+Ak-74
+--- 20-04-01 19:40:34
+DmChord
+S2 ~ DeFkOndOz*
+M79
+--- 20-04-01 19:40:38
+DmChord
+Chedragon
+M79
+--- 20-04-01 19:40:41
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:40:47
+Medusa
+Stalkero
+Ruger 77
+--- 20-04-01 19:40:48
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:40:48
+JJJ
+JJJ
+Selfkill
+--- 20-04-01 19:40:56
+Amotinao
+Mark Rii
+M79
+--- 20-04-01 19:40:59
+Medusa
+DmChord
+Ruger 77
+--- 20-04-01 19:40:59
+Stalkero
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:40:59
+Amotinao
+EPIC IncuboyD
+M79
+--- 20-04-01 19:41:04
+Amotinao
+Mark Rii
+M79
+--- 20-04-01 19:41:06
+Nickname
+Amotinao
+FN Minimi
+--- 20-04-01 19:41:07
+DmChord
+JJJ
+M79
+--- 20-04-01 19:41:09
+Nickname
+Medusa
+FN Minimi
+--- 20-04-01 19:41:09
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:41:18
+Medusa
+DmChord
+Ruger 77
+--- 20-04-01 19:41:19
+Mark Rii
+Amotinao
+Ak-74
+--- 20-04-01 19:41:20
+Mark Rii
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:41:23
+Chedragon
+Mark Rii
+Grenade
+--- 20-04-01 19:41:23
+Chedragon
+Chedragon
+Grenade
+--- 20-04-01 19:41:24
+EPIC IncuboyD
+Amotinao
+Barrett M82A1
+--- 20-04-01 19:41:28
+Medusa
+Stalkero
+Ruger 77
+--- 20-04-01 19:41:30
+Nickname
+Medusa
+M79
+--- 20-04-01 19:41:33
+EPIC IncuboyD
+EPIC IncuboyD
+Selfkill
+--- 20-04-01 19:41:38
+Medusa
+Nickname
+Ruger 77
+--- 20-04-01 19:41:39
+Chedragon
+DmChord
+Spas-12
+--- 20-04-01 19:41:44
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:41:47
+Mark Rii
+Chedragon
+Ak-74
+--- 20-04-01 19:41:49
+JJJ
+Mark Rii
+HK MP5
+--- 20-04-01 19:41:52
+S2 ~ DeFkOndOz*
+Nickname
+LAW
+--- 20-04-01 19:41:55
+Medusa
+DmChord
+Ruger 77
+--- 20-04-01 19:41:57
+S2 ~ DeFkOndOz*
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:41:58
+Stalkero
+Chedragon
+Steyr AUG
+--- 20-04-01 19:42:00
+Chedragon
+EPIC IncuboyD
+Grenade
+--- 20-04-01 19:42:01
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:42:03
+Nickname
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-04-01 19:42:06
+Nickname
+Medusa
+Desert Eagles
+--- 20-04-01 19:42:08
+Nickname
+JJJ
+Desert Eagles
+--- 20-04-01 19:42:12
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:42:14
+S2 ~ DeFkOndOz*
+DmChord
+LAW
+--- 20-04-01 19:42:17
+JJJ
+Stalkero
+Ak-74
+--- 20-04-01 19:42:18
+EPIC IncuboyD
+JJJ
+Barrett M82A1
+--- 20-04-01 19:42:19
+Nickname
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-04-01 19:42:20
+EPIC IncuboyD
+Medusa
+USSOCOM
+--- 20-04-01 19:42:24
+Mark Rii
+Chedragon
+Ak-74
+--- 20-04-01 19:42:26
+S2 ~ DeFkOndOz*
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:42:27
+EPIC IncuboyD
+Medusa
+Barrett M82A1
+--- 20-04-01 19:42:27
+DmChord
+S2 ~ DeFkOndOz*
+M79
+--- 20-04-01 19:42:31
+DmChord
+JJJ
+M79
+--- 20-04-01 19:42:34
+Stalkero
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:42:37
+EPIC IncuboyD
+Medusa
+USSOCOM
+--- 20-04-01 19:42:39
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:42:41
+S2 ~ DeFkOndOz*
+DmChord
+Barrett M82A1
+--- 20-04-01 19:42:42
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-04-01 19:42:44
+Medusa
+EPIC IncuboyD
+Ruger 77
+--- 20-04-01 19:42:47
+Medusa
+Stalkero
+Ruger 77
+--- 20-04-01 19:42:57
+S2 ~ DeFkOndOz*
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:42:59
+Medusa
+DmChord
+Grenade
+--- 20-04-01 19:43:00
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-04-01 19:43:06
+Amotinao
+Nickname
+Barrett M82A1
+--- 20-04-01 19:43:09
+Stalkero
+Chedragon
+Spas-12
+--- 20-04-01 19:43:12
+JJJ
+DmChord
+M79
+--- 20-04-01 19:43:13
+Amotinao
+Nickname
+Barrett M82A1
+--- 20-04-01 19:43:15
+JJJ
+EPIC IncuboyD
+M79
+--- 20-04-01 19:43:17
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:43:20
+Stalkero
+Chedragon
+Grenade
+--- 20-04-01 19:43:21
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-04-01 19:43:23
+Medusa
+Stalkero
+Ruger 77
+--- 20-04-01 19:43:26
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:43:27
+DmChord
+Medusa
+Chainsaw
+--- 20-04-01 19:43:27
+Amotinao
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:43:34
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:43:34
+Koda
+DmChord
+HK MP5
+--- 20-04-01 19:43:38
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:43:39
+Koda
+Nickname
+HK MP5
+--- 20-04-01 19:43:43
+Chedragon
+Mark Rii
+Spas-12
+--- 20-04-01 19:43:43
+Chedragon
+Lopiton
+Spas-12
+--- 20-04-01 19:43:46
+EPIC IncuboyD
+Chedragon
+USSOCOM
+--- 20-04-01 19:43:47
+Stalkero
+Koda
+Grenade
+--- 20-04-01 19:43:48
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:43:50
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:43:51
+S2 ~ DeFkOndOz*
+Nickname
+Grenade
+--- 20-04-01 19:43:52
+Amotinao
+DmChord
+Grenade
+--- 20-04-01 19:43:58
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:44:04
+DmChord
+Koda
+M79
+--- 20-04-01 19:44:05
+Stalkero
+Chedragon
+Spas-12
+--- 20-04-01 19:44:09
+S2 ~ DeFkOndOz*
+DmChord
+Grenade
+--- 20-04-01 19:44:10
+Nickname
+JJJ
+Grenade
+--- 20-04-01 19:44:10
+Mark Rii
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:44:11
+Amotinao
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:44:15
+Mark Rii
+Amotinao
+Ak-74
+--- 20-04-01 19:44:23
+WitZker
+Nickname
+Ak-74
+--- 20-04-01 19:44:24
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:44:25
+DmChord
+WitZker
+M79
+--- 20-04-01 19:44:28
+Stalkero
+Lopiton
+Spas-12
+--- 20-04-01 19:44:30
+JJJ
+Stalkero
+Spas-12
+--- 20-04-01 19:44:37
+S2 ~ DeFkOndOz*
+Stalkero
+Grenade
+--- 20-04-01 19:44:38
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 19:44:42
+S2 ~ DeFkOndOz*
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:44:42
+Stalkero
+Chedragon
+Spas-12
+--- 20-04-01 19:44:43
+DmChord
+Lopiton
+Grenade
+--- 20-04-01 19:44:45
+Stalkero
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-04-01 19:44:48
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:44:51
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:44:51
+Lopiton
+Mark Rii
+M79
+--- 20-04-01 19:44:52
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:44:54
+S2 ~ DeFkOndOz*
+Nickname
+Barrett M82A1
+--- 20-04-01 19:44:55
+Stalkero
+Lopiton
+Spas-12
+--- 20-04-01 19:44:56
+EPIC IncuboyD
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:45:02
+Lopiton
+DmChord
+M79
+--- 20-04-01 19:45:03
+WitZker
+Stalkero
+Ak-74
+--- 20-04-01 19:45:07
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 19:45:08
+Mark Rii
+WitZker
+Ak-74
+--- 20-04-01 19:45:08
+WitZker
+Mark Rii
+Ak-74
+--- 20-04-01 19:45:12
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:45:13
+DmChord
+DmChord
+M79
+--- 20-04-01 19:45:15
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:45:17
+DmChord
+S2 ~ DeFkOndOz*
+Chainsaw
+--- 20-04-01 19:45:18
+Amotinao
+EPIC IncuboyD
+Barrett M82A1
+--- 20-04-01 19:45:22
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 19:45:22
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:45:22
+DmChord
+Chedragon
+Chainsaw
+--- 20-04-01 19:45:26
+S2 ~ DeFkOndOz*
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:45:27
+Nickname
+Koda
+Chainsaw
+--- 20-04-01 19:45:27
+Amotinao
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:45:28
+Lopiton
+Nickname
+M79
+--- 20-04-01 19:45:34
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-04-01 19:45:37
+Mark Rii
+Lopiton
+Ak-74
+--- 20-04-01 19:45:39
+Chedragon
+sicK
+Chainsaw
+--- 20-04-01 19:45:42
+WitZker
+Mark Rii
+Ak-74
+--- 20-04-01 19:45:44
+S2 ~ DeFkOndOz*
+Nickname
+Grenade
+--- 20-04-01 19:45:45
+WitZker
+DmChord
+Ak-74
+--- 20-04-01 19:45:51
+sicK
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-04-01 19:45:51
+WitZker
+Stalkero
+Ak-74
+--- 20-04-01 19:45:54
+Mark Rii
+Amotinao
+Ak-74
+--- 20-04-01 19:45:55
+Nickname
+Lopiton
+Desert Eagles
+--- 20-04-01 19:45:55
+Chedragon
+sicK
+Chainsaw
+--- 20-04-01 19:45:55
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:45:57
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:45:59
+Nickname
+WitZker
+Desert Eagles
+--- 20-04-01 19:46:01
+Mark Rii
+Chedragon
+Ak-74
+--- 20-04-01 19:46:03
+Koda
+Nickname
+HK MP5
+--- 20-04-01 19:46:04
+Lopiton
+DmChord
+Combat Knife
+--- 20-04-01 19:46:07
+Stalkero
+Lopiton
+Spas-12
+--- 20-04-01 19:46:08
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 19:46:09
+WitZker
+Mark Rii
+Ruger 77
+--- 20-04-01 19:46:14
+WitZker
+Stalkero
+Ruger 77
+--- 20-04-01 19:46:15
+Lopiton
+DmChord
+M79
+--- 20-04-01 19:46:16
+WitZker
+sicK
+Ruger 77
+--- 20-04-01 19:46:20
+Amotinao
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:46:25
+Stalkero
+WitZker
+Ak-74
+--- 20-04-01 19:46:27
+Koda
+Stalkero
+HK MP5
+--- 20-04-01 19:46:28
+Amotinao
+Mark Rii
+Barrett M82A1
+--- 20-04-01 19:46:28
+Lopiton
+DmChord
+M79
+--- 20-04-01 19:46:31
+Chedragon
+sicK
+Chainsaw
+--- 20-04-01 19:46:32
+Nickname
+JJJ
+XM214 Minigun
+--- 20-04-01 19:46:35
+DmChord
+Chedragon
+Chainsaw
+--- 20-04-01 19:46:35
+Koda
+Nickname
+HK MP5
+--- 20-04-01 19:46:39
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:46:39
+WitZker
+Stalkero
+Hands
+--- 20-04-01 19:46:39
+Lopiton
+sicK
+M79
+--- 20-04-01 19:46:40
+WitZker
+DmChord
+Ruger 77
+--- 20-04-01 19:46:41
+Mark Rii
+Amotinao
+Steyr AUG
+--- 20-04-01 19:46:44
+Nickname
+Lopiton
+Ak-74
+--- 20-04-01 19:46:45
+Nickname
+WitZker
+Ak-74
+--- 20-04-01 19:46:49
+Nickname
+JJJ
+Ak-74
+--- 20-04-01 19:46:50
+Nickname
+Chedragon
+Ak-74
+--- 20-04-01 19:46:51
+DmChord
+Koda
+M79
+--- 20-04-01 19:46:56
+Nickname
+WitZker
+Ak-74
+--- 20-04-01 19:46:58
+Chedragon
+sicK
+Chainsaw
+--- 20-04-01 19:47:00
+Mark Rii
+Amotinao
+Steyr AUG
+--- 20-04-01 19:47:04
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:47:06
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:47:06
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:47:07
+Mark Rii
+Mark Rii
+Selfkill
+--- 20-04-01 19:47:08
+Lopiton
+sicK
+M79
+--- 20-04-01 19:47:08
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:47:12
+Chedragon
+Mark Rii
+Chainsaw
+--- 20-04-01 19:47:14
+Chedragon
+Stalkero
+Chainsaw
+--- 20-04-01 19:47:15
+Nickname
+Lopiton
+Ak-74
+--- 20-04-01 19:47:16
+Chedragon
+Nickname
+Chainsaw
+--- 20-04-01 19:47:17
+JJJ
+DmChord
+HK MP5
+--- 20-04-01 19:47:18
+Chedragon
+sicK
+Chainsaw
+--- 20-04-01 19:47:19
+Chedragon
+Mark Rii
+Chainsaw
+--- 20-04-01 19:47:21
+Amotinao
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:47:22
+Nickname
+WitZker
+Chainsaw
+--- 20-04-01 19:47:24
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:47:29
+Lopiton
+DmChord
+M79
+--- 20-04-01 19:47:30
+sicK
+Lopiton
+Ruger 77
+--- 20-04-01 19:47:33
+Mark Rii
+JJJ
+Steyr AUG
+--- 20-04-01 19:47:38
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:47:39
+JJJ
+Mark Rii
+Ak-74
+--- 20-04-01 19:47:41
+Stalkero
+Koda
+Grenade
+--- 20-04-01 19:47:42
+Lopiton
+Nickname
+Combat Knife
+--- 20-04-01 19:47:42
+WitZker
+WitZker
+Grenade
+--- 20-04-01 19:47:44
+Nickname
+Chedragon
+Grenade
+--- 20-04-01 19:47:47
+DmChord
+JJJ
+M79
+--- 20-04-01 19:47:51
+Vomar
+Chedragon
+Steyr AUG
+--- 20-04-01 19:47:52
+Stalkero
+Lopiton
+Spas-12
+--- 20-04-01 19:47:53
+DmChord
+DmChord
+M79
+--- 20-04-01 19:47:54
+Nickname
+Koda
+Steyr AUG
+--- 20-04-01 19:47:58
+Amotinao
+Vomar
+Barrett M82A1
+--- 20-04-01 19:48:00
+sicK
+Amotinao
+Ruger 77
+--- 20-04-01 19:48:01
+sicK
+WitZker
+Ruger 77
+--- 20-04-01 19:48:01
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:48:03
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:48:07
+WitZker
+Nickname
+Hands
+--- 20-04-01 19:48:09
+WitZker
+sicK
+Ak-74
+--- 20-04-01 19:48:09
+Amotinao
+Mark Rii
+M79
+--- 20-04-01 19:48:11
+Stalkero
+Chedragon
+Spas-12
+--- 20-04-01 19:48:12
+Vomar
+Vomar
+Grenade
+--- 20-04-01 19:48:12
+Vomar
+Lopiton
+Grenade
+--- 20-04-01 19:48:18
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 19:48:19
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:48:20
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:48:20
+Vomar
+JJJ
+Steyr AUG
+--- 20-04-01 19:48:29
+DmChord
+Chedragon
+M79
+--- 20-04-01 19:48:33
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:48:35
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:48:35
+sicK
+Amotinao
+Ruger 77
+--- 20-04-01 19:48:40
+JJJ
+Nickname
+M79
+--- 20-04-01 19:48:40
+DmChord
+Chedragon
+Chainsaw
+--- 20-04-01 19:48:40
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:48:42
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 19:48:42
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:48:42
+Vomar
+JJJ
+Steyr AUG
+--- 20-04-01 19:48:45
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:48:48
+Chedragon
+Vomar
+Ak-74
+--- 20-04-01 19:48:50
+Amotinao
+Stalkero
+M79
+--- 20-04-01 19:48:50
+Stalkero
+Amotinao
+Spas-12
+--- 20-04-01 19:48:52
+Nickname
+Koda
+Desert Eagles
+--- 20-04-01 19:48:52
+WitZker
+Nickname
+Ak-74
+--- 20-04-01 19:48:56
+Lopiton
+DmChord
+M79
+--- 20-04-01 19:48:59
+Mark Rii
+WitZker
+Steyr AUG
+--- 20-04-01 19:49:01
+JJJ
+Mark Rii
+Steyr AUG
+--- 20-04-01 19:49:08
+Mark Rii
+Chedragon
+Steyr AUG
+--- 20-04-01 19:49:10
+Lopiton
+sicK
+M79
+--- 20-04-01 19:49:11
+Koda
+Mark Rii
+XM214 Minigun
+--- 20-04-01 19:49:15
+DmChord
+Amotinao
+Chainsaw
+--- 20-04-01 19:49:16
+Lopiton
+sicK
+M79
+--- 20-04-01 19:49:17
+DmChord
+Chedragon
+Chainsaw
+--- 20-04-01 19:49:19
+Lopiton
+Nickname
+M79
+--- 20-04-01 19:49:22
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:49:22
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:49:23
+Amotinao
+DmChord
+Barrett M82A1
+--- 20-04-01 19:49:26
+WitZker
+Stalkero
+Ak-74
+--- 20-04-01 19:49:27
+Mark Rii
+WitZker
+Steyr AUG
+--- 20-04-01 19:49:28
+Nickname
+Lopiton
+Hands
+--- 20-04-01 19:49:32
+Koda
+sicK
+Ak-74
+--- 20-04-01 19:49:36
+DmChord
+DmChord
+M79
+--- 20-04-01 19:49:40
+sicK
+Chedragon
+Ak-74
+--- 20-04-01 19:49:40
+Amotinao
+Amotinao
+LAW
+--- 20-04-01 19:49:41
+Lopiton
+Mark Rii
+M79
+--- 20-04-01 19:49:43
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:49:43
+sicK
+Koda
+Ak-74
+--- 20-04-01 19:49:44
+DmChord
+Lopiton
+Chainsaw
+--- 20-04-01 19:49:46
+JJJ
+sicK
+Steyr AUG
+--- 20-04-01 19:49:47
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:49:52
+Mark Rii
+WitZker
+Steyr AUG
+--- 20-04-01 19:49:54
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:49:57
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:49:59
+JJJ
+Mark Rii
+Steyr AUG
+--- 20-04-01 19:50:00
+JJJ
+sicK
+Steyr AUG
+--- 20-04-01 19:50:04
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:50:07
+JJJ
+DmChord
+Steyr AUG
+--- 20-04-01 19:50:07
+Nickname
+Lopiton
+FN Minimi
+--- 20-04-01 19:50:07
+Lopiton
+Nickname
+Combat Knife
+--- 20-04-01 19:50:12
+Koda
+sicK
+Ak-74
+--- 20-04-01 19:50:12
+Nickname
+WitZker
+Spas-12
+--- 20-04-01 19:50:17
+JJJ
+DmChord
+Steyr AUG
+--- 20-04-01 19:50:37
+Mark Rii
+JJJ
+Steyr AUG
+--- 20-04-01 19:50:40
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:50:45
+Nickname
+WitZker
+Barrett M82A1
+--- 20-04-01 19:50:49
+DmChord
+Koda
+Desert Eagles
+--- 20-04-01 19:51:00
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:51:00
+Koda
+sicK
+Ak-74
+--- 20-04-01 19:51:02
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 19:51:05
+DmChord
+WitZker
+Desert Eagles
+--- 20-04-01 19:51:08
+DmChord
+Koda
+Desert Eagles
+--- 20-04-01 19:51:11
+JJJ
+DmChord
+HK MP5
+--- 20-04-01 19:51:18
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 19:51:22
+Mark Rii
+JJJ
+Steyr AUG
+--- 20-04-01 19:51:28
+JJJ
+DmChord
+Hands
+--- 20-04-01 19:51:28
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:51:31
+Stalkero
+WitZker
+Barrett M82A1
+--- 20-04-01 19:51:37
+Mark Rii
+Koda
+Steyr AUG
+--- 20-04-01 19:51:45
+DmChord
+WitZker
+Grenade
+--- 20-04-01 19:51:51
+WitZker
+sicK
+HK MP5
+--- 20-04-01 19:51:54
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:51:55
+Chedragon
+DmChord
+Steyr AUG
+--- 20-04-01 19:51:56
+Korvakox
+Stalkero
+Barrett M82A1
+--- 20-04-01 19:52:02
+DmChord
+WitZker
+Desert Eagles
+--- 20-04-01 19:52:07
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 19:52:08
+Stalkero
+Korvakox
+Barrett M82A1
+--- 20-04-01 19:52:11
+JJJ
+DmChord
+HK MP5
+--- 20-04-01 19:52:13
+WitZker
+sicK
+USSOCOM
+--- 20-04-01 19:52:17
+Stalkero
+Koda
+Barrett M82A1
+--- 20-04-01 19:52:24
+sicK
+JJJ
+Ruger 77
+--- 20-04-01 19:52:26
+DmChord
+WitZker
+Desert Eagles
+--- 20-04-01 19:52:31
+Koda
+Chedragon
+Ak-74
+--- 20-04-01 19:52:33
+DmChord
+JJJ
+Hands
+--- 20-04-01 19:52:34
+Korvakox
+DmChord
+Ruger 77
+--- 20-04-01 19:52:34
+Korvakox
+Mark Rii
+Grenade
+--- 20-04-01 19:52:38
+Korvakox
+Stalkero
+Ruger 77
+--- 20-04-01 19:52:44
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 19:52:47
+WitZker
+Mark Rii
+Grenade
+--- 20-04-01 19:52:51
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:52:55
+Stalkero
+WitZker
+Barrett M82A1
+--- 20-04-01 19:52:57
+JJJ
+Chedragon
+Ak-74
+--- 20-04-01 19:52:57
+Korvakox
+sicK
+Ruger 77
+--- 20-04-01 19:53:05
+sicK
+JJJ
+Ruger 77
+--- 20-04-01 19:53:08
+Korvakox
+Stalkero
+Ruger 77
+--- 20-04-01 19:53:09
+WitZker
+DmChord
+Grenade
+--- 20-04-01 19:53:15
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:53:20
+DmChord
+WitZker
+Desert Eagles
+--- 20-04-01 19:53:20
+sicK
+Koda
+Ruger 77
+--- 20-04-01 19:53:21
+Korvakox
+sicK
+Ruger 77
+--- 20-04-01 19:53:25
+Nickname
+JJJ
+Barrett M82A1
+--- 20-04-01 19:53:31
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:53:31
+WitZker
+DmChord
+Steyr AUG
+--- 20-04-01 19:53:41
+Chedragon
+JJJ
+Ak-74
+--- 20-04-01 19:53:42
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 19:53:48
+Mark Rii
+Koda
+Ruger 77
+--- 20-04-01 19:53:51
+DmChord
+WitZker
+Desert Eagles
+--- 20-04-01 19:53:52
+Korvakox
+Mark Rii
+Ruger 77
+--- 20-04-01 19:53:55
+Stalkero
+Korvakox
+Spas-12
+--- 20-04-01 19:53:58
+Koda
+Chedragon
+Ak-74
+--- 20-04-01 19:54:03
+JJJ
+Stalkero
+Spas-12
+--- 20-04-01 19:54:07
+DmChord
+DmChord
+Grenade
+--- 20-04-01 19:54:09
+WitZker
+Mark Rii
+Ak-74
+--- 20-04-01 19:54:17
+Mark Rii
+WitZker
+Spas-12
+--- 20-04-01 19:54:18
+Mark Rii
+Koda
+Spas-12
+--- 20-04-01 19:54:19
+JJJ
+Mark Rii
+Spas-12
+--- 20-04-01 19:54:22
+DmChord
+Korvakox
+M79
+--- 20-04-01 19:54:26
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:54:30
+WitZker
+WitZker
+Grenade
+--- 20-04-01 19:54:35
+Mark Rii
+JJJ
+Spas-12
+--- 20-04-01 19:54:37
+sicK
+Koda
+Ruger 77
+--- 20-04-01 19:54:38
+Stalkero
+Korvakox
+Spas-12
+--- 20-04-01 19:54:38
+WitZker
+sicK
+Spas-12
+--- 20-04-01 19:54:41
+Chedragon
+JJJ
+Barrett M82A1
+--- 20-04-01 19:54:41
+Chedragon
+Koda
+Barrett M82A1
+--- 20-04-01 19:54:48
+Chedragon
+WitZker
+Barrett M82A1
+--- 20-04-01 19:54:54
+Chedragon
+Koda
+Barrett M82A1
+--- 20-04-01 19:54:54
+Korvakox
+Stalkero
+Ak-74
+--- 20-04-01 19:54:58
+WitZker
+DmChord
+Spas-12
+--- 20-04-01 19:55:04
+Chedragon
+Koda
+Barrett M82A1
+--- 20-04-01 19:55:06
+Mark Rii
+JJJ
+Spas-12
+--- 20-04-01 19:55:06
+JJJ
+Mark Rii
+Steyr AUG
+--- 20-04-01 19:55:07
+sicK
+Korvakox
+Ruger 77
+--- 20-04-01 19:55:12
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:55:12
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:55:12
+Korvakox
+sicK
+Ak-74
+--- 20-04-01 19:55:13
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 19:55:16
+DmChord
+Korvakox
+Chainsaw
+--- 20-04-01 19:55:18
+Stalkero
+WitZker
+Grenade
+--- 20-04-01 19:55:18
+Chedragon
+Koda
+Barrett M82A1
+--- 20-04-01 19:55:20
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 19:55:34
+Korvakox
+Mark Rii
+Ak-74
+--- 20-04-01 19:55:34
+Mark Rii
+Korvakox
+Spas-12
+--- 20-04-01 19:55:34
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:55:38
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:55:42
+Chedragon
+JJJ
+Barrett M82A1
+--- 20-04-01 19:55:43
+sicK
+Koda
+Ruger 77
+--- 20-04-01 19:55:50
+WitZker
+DmChord
+Spas-12
+--- 20-04-01 19:55:50
+Chedragon
+WitZker
+Barrett M82A1
+--- 20-04-01 19:55:50
+JJJ
+sicK
+Ruger 77
+--- 20-04-01 19:55:57
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:55:59
+Chedragon
+JJJ
+Grenade
+--- 20-04-01 19:56:07
+Mark Rii
+WitZker
+Spas-12
+--- 20-04-01 19:56:07
+WitZker
+Mark Rii
+Spas-12
+--- 20-04-01 19:56:08
+JJJ
+DmChord
+Ruger 77
+--- 20-04-01 19:56:13
+Mark Rii
+Koda
+Spas-12
+--- 20-04-01 19:56:13
+WitZker
+Stalkero
+Spas-12
+--- 20-04-01 19:56:19
+JJJ
+Chedragon
+Ruger 77
+--- 20-04-01 19:56:20
+Mark Rii
+WitZker
+Spas-12
+--- 20-04-01 19:56:23
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:56:26
+Koda
+DmChord
+Grenade
+--- 20-04-01 19:56:30
+Korvakox
+Mark Rii
+M79
+--- 20-04-01 19:56:32
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:56:32
+Koda
+sicK
+Ak-74
+--- 20-04-01 19:56:33
+Stalkero
+Korvakox
+Spas-12
+--- 20-04-01 19:56:41
+Stalkero
+Korvakox
+Spas-12
+--- 20-04-01 19:56:41
+DmChord
+WitZker
+M79
+--- 20-04-01 19:56:42
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:56:44
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:56:47
+Nickname
+JJJ
+Barrett M82A1
+--- 20-04-01 19:56:48
+Mark Rii
+Korvakox
+Spas-12
+--- 20-04-01 19:56:50
+WitZker
+Mark Rii
+Spas-12
+--- 20-04-01 19:56:55
+Chedragon
+JJJ
+Barrett M82A1
+--- 20-04-01 19:56:57
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:57:03
+Korvakox
+sicK
+Ruger 77
+--- 20-04-01 19:57:07
+Korvakox
+Chedragon
+Ruger 77
+--- 20-04-01 19:57:08
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:57:10
+Nickname
+Koda
+Barrett M82A1
+--- 20-04-01 19:57:15
+Koda
+DmChord
+Ak-74
+--- 20-04-01 19:57:20
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:57:22
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:57:24
+sicK
+Koda
+Spas-12
+--- 20-04-01 19:57:25
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 19:57:26
+WitZker
+sicK
+Spas-12
+--- 20-04-01 19:57:28
+Nickname
+Korvakox
+Barrett M82A1
+--- 20-04-01 19:57:31
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 19:57:31
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 19:57:33
+Korvakox
+DmChord
+Ruger 77
+--- 20-04-01 19:57:42
+Korvakox
+Mark Rii
+Ruger 77
+--- 20-04-01 19:57:44
+Nickname
+WitZker
+Barrett M82A1
+--- 20-04-01 19:57:47
+Korvakox
+sicK
+Ruger 77
+--- 20-04-01 19:57:56
+DmChord
+Korvakox
+Chainsaw
+--- 20-04-01 19:58:03
+Koda
+Nickname
+Ak-74
+--- 20-04-01 19:58:05
+WitZker
+DmChord
+Grenade
+--- 20-04-01 19:58:07
+Korvakox
+Mark Rii
+Spas-12
+--- 20-04-01 19:58:14
+sicK
+Korvakox
+Barrett M82A1
+--- 20-04-01 19:58:18
+DmChord
+DmChord
+Grenade
+--- 20-04-01 19:58:22
+Nickname
+WitZker
+XM214 Minigun
+--- 20-04-01 19:58:27
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 19:58:28
+Korvakox
+Nickname
+Ruger 77
+--- 20-04-01 19:58:30
+sicK
+JJJ
+Barrett M82A1
+--- 20-04-01 19:58:38
+WitZker
+DmChord
+Spas-12
+--- 20-04-01 19:58:41
+WitZker
+sicK
+Spas-12
+--- 20-04-01 19:58:45
+JJJ
+Nickname
+Spas-12
+--- 20-04-01 19:58:47
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 19:58:54
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 19:58:57
+Korvakox
+Korvakox
+Grenade
+--- 20-04-01 19:58:58
+sicK
+JJJ
+Barrett M82A1
+--- 20-04-01 19:59:03
+Stalkero
+Chedragon
+Spas-12
+--- 20-04-01 19:59:03
+Koda
+DmChord
+Hands
+--- 20-04-01 19:59:09
+Stalkero
+Korvakox
+Grenade
+--- 20-04-01 19:59:10
+Stalkero
+JJJ
+Grenade
+--- 20-04-01 19:59:10
+Nickname
+Chedragon
+Spas-12
+--- 20-04-01 19:59:14
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 19:59:14
+WitZker
+sicK
+USSOCOM
+--- 20-04-01 19:59:19
+Korvakox
+DmChord
+Ruger 77
+--- 20-04-01 19:59:23
+Nickname
+Chedragon
+Spas-12
+--- 20-04-01 19:59:24
+Korvakox
+Mark Rii
+Ruger 77
+--- 20-04-01 19:59:25
+Nickname
+Korvakox
+Spas-12
+--- 20-04-01 19:59:30
+Stalkero
+WitZker
+Hands
+--- 20-04-01 19:59:32
+Korvakox
+sicK
+Ruger 77
+--- 20-04-01 19:59:35
+Mark Rii
+Koda
+Spas-12
+--- 20-04-01 19:59:36
+DmChord
+JJJ
+Chainsaw
+--- 20-04-01 19:59:41
+Nickname
+Korvakox
+Spas-12
+--- 20-04-01 19:59:48
+Nickname
+WitZker
+Hands
+--- 20-04-01 19:59:50
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 19:59:52
+DmChord
+Chedragon
+M79
+--- 20-04-01 19:59:53
+Nickname
+JJJ
+Spas-12
+--- 20-04-01 19:59:57
+Korvakox
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:00:00
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:00:00
+Chedragon
+Mark Rii
+Spas-12
+--- 20-04-01 20:00:07
+WitZker
+Nickname
+Spas-12
+--- 20-04-01 20:00:10
+Korvakox
+Mark Rii
+Barrett M82A1
+--- 20-04-01 20:00:13
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:00:14
+Nickname
+Korvakox
+Spas-12
+--- 20-04-01 20:00:18
+Nickname
+Koda
+Spas-12
+--- 20-04-01 20:00:19
+WitZker
+Stalkero
+Spas-12
+--- 20-04-01 20:00:41
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:00:43
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:00:49
+Koda
+sicK
+Ak-74
+--- 20-04-01 20:00:55
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:00:57
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:01:01
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:01:06
+JJJ
+Mark Rii
+Ruger 77
+--- 20-04-01 20:01:08
+JJJ
+sicK
+Ruger 77
+--- 20-04-01 20:01:16
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 20:01:20
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:01:20
+sicK
+WitZker
+Hands
+--- 20-04-01 20:01:30
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:01:35
+Mark Rii
+JJJ
+Spas-12
+--- 20-04-01 20:01:37
+Mark Rii
+Koda
+Spas-12
+--- 20-04-01 20:01:42
+Koda
+sicK
+Ak-74
+--- 20-04-01 20:01:43
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 20:01:43
+Mark Rii
+JJJ
+Spas-12
+--- 20-04-01 20:01:44
+Stalkero
+WitZker
+Grenade
+--- 20-04-01 20:01:51
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:01:58
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:02:00
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:02:04
+Mark Rii
+JJJ
+Steyr AUG
+--- 20-04-01 20:02:06
+mipHo
+Mark Rii
+HK MP5
+--- 20-04-01 20:02:08
+Stalkero
+Koda
+Grenade
+--- 20-04-01 20:02:16
+Stalkero
+Koda
+Hands
+--- 20-04-01 20:02:17
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 20:02:17
+mipHo
+sicK
+HK MP5
+--- 20-04-01 20:02:19
+WitZker
+WitZker
+Grenade
+--- 20-04-01 20:02:19
+mipHo
+Mark Rii
+HK MP5
+--- 20-04-01 20:02:30
+Stalkero
+Koda
+Chainsaw
+--- 20-04-01 20:02:32
+mipHo
+DmChord
+HK MP5
+--- 20-04-01 20:02:38
+Stalkero
+Koda
+Chainsaw
+--- 20-04-01 20:02:39
+mipHo
+sicK
+HK MP5
+--- 20-04-01 20:02:39
+sicK
+mipHo
+Steyr AUG
+--- 20-04-01 20:02:40
+DmChord
+WitZker
+M79
+--- 20-04-01 20:02:41
+Stalkero
+JJJ
+Chainsaw
+--- 20-04-01 20:02:48
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:02:53
+mipHo
+sicK
+Chainsaw
+--- 20-04-01 20:02:54
+mipHo
+Stalkero
+Chainsaw
+--- 20-04-01 20:02:55
+mipHo
+DmChord
+Chainsaw
+--- 20-04-01 20:02:56
+mipHo
+Mark Rii
+Chainsaw
+--- 20-04-01 20:03:01
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:03:01
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:03:08
+DmChord
+mipHo
+M79
+--- 20-04-01 20:03:09
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:03:09
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:03:15
+mipHo
+Stalkero
+Chainsaw
+--- 20-04-01 20:03:15
+DmChord
+Koda
+Chainsaw
+--- 20-04-01 20:03:15
+mipHo
+DmChord
+Chainsaw
+--- 20-04-01 20:03:15
+Mark Rii
+mipHo
+Ak-74
+--- 20-04-01 20:03:20
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:03:20
+sicK
+WitZker
+Steyr AUG
+--- 20-04-01 20:03:20
+JJJ
+Mark Rii
+Ruger 77
+--- 20-04-01 20:03:25
+DmChord
+mipHo
+M79
+--- 20-04-01 20:03:28
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:03:31
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 20:03:33
+Stalkero
+WitZker
+Grenade
+--- 20-04-01 20:03:35
+Mark Rii
+mipHo
+Ak-74
+--- 20-04-01 20:03:41
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:03:43
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:03:43
+mipHo
+Stalkero
+Chainsaw
+--- 20-04-01 20:03:44
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:03:46
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:03:46
+mipHo
+Mark Rii
+Chainsaw
+--- 20-04-01 20:03:53
+Stalkero
+mipHo
+Chainsaw
+--- 20-04-01 20:03:59
+WitZker
+Mark Rii
+Chainsaw
+--- 20-04-01 20:04:01
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:04:10
+JJJ
+DmChord
+Ruger 77
+--- 20-04-01 20:04:16
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:04:19
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 20:04:22
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:04:22
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 20:04:24
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:04:25
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:04:28
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:04:36
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:04:39
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:04:41
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:04:42
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 20:04:43
+Stalkero
+WitZker
+Grenade
+--- 20-04-01 20:04:46
+sicK
+Koda
+Grenade
+--- 20-04-01 20:04:49
+WitZker
+Stalkero
+Steyr AUG
+--- 20-04-01 20:04:51
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:04:54
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:04:54
+JJJ
+DmChord
+Ruger 77
+--- 20-04-01 20:04:58
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 20:05:01
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 20:05:05
+Stalkero
+JJJ
+Chainsaw
+--- 20-04-01 20:05:05
+Stalkero
+Koda
+Chainsaw
+--- 20-04-01 20:05:09
+WitZker
+Mark Rii
+Chainsaw
+--- 20-04-01 20:05:12
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:05:23
+JJJ
+sicK
+Ruger 77
+--- 20-04-01 20:05:25
+Koda
+Mark Rii
+Ak-74
+--- 20-04-01 20:05:27
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:05:41
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:05:46
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:05:47
+WitZker
+Mark Rii
+Grenade
+--- 20-04-01 20:05:48
+WitZker
+DmChord
+Steyr AUG
+--- 20-04-01 20:06:01
+sicK
+JJJ
+Grenade
+--- 20-04-01 20:06:02
+Koda
+sicK
+Ak-74
+--- 20-04-01 20:06:04
+WitZker
+WitZker
+Grenade
+--- 20-04-01 20:06:05
+DmChord
+Koda
+M79
+--- 20-04-01 20:06:09
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:06:11
+JJJ
+DmChord
+Ruger 77
+--- 20-04-01 20:06:13
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:06:21
+Koda
+Stalkero
+Ak-74
+--- 20-04-01 20:06:25
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 20:06:25
+DmChord
+Koda
+Grenade
+--- 20-04-01 20:06:27
+sicK
+JJJ
+Steyr AUG
+--- 20-04-01 20:06:29
+razer0ff  ('-')
+sicK
+Ak-74
+--- 20-04-01 20:06:31
+Stalkero
+WitZker
+Spas-12
+--- 20-04-01 20:06:39
+DmChord
+Koda
+M79
+--- 20-04-01 20:06:41
+DmChord
+WitZker
+Chainsaw
+--- 20-04-01 20:06:41
+razer0ff  ('-')
+DmChord
+Ak-74
+--- 20-04-01 20:06:42
+JJJ
+Mark Rii
+Ruger 77
+--- 20-04-01 20:06:45
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 20:06:49
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:06:57
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:06:57
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:06:58
+sicK
+WitZker
+Grenade
+--- 20-04-01 20:07:01
+Mark Rii
+JJJ
+HK MP5
+--- 20-04-01 20:07:01
+sicK
+Koda
+Grenade
+--- 20-04-01 20:07:03
+WitZker
+Mark Rii
+Steyr AUG
+--- 20-04-01 20:07:09
+DmChord
+Koda
+Grenade
+--- 20-04-01 20:07:15
+WitZker
+DmChord
+Steyr AUG
+--- 20-04-01 20:07:16
+Stalkero
+Koda
+Grenade
+--- 20-04-01 20:07:17
+sicK
+WitZker
+Grenade
+--- 20-04-01 20:07:24
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:07:24
+JJJ
+sicK
+Ruger 77
+--- 20-04-01 20:07:24
+Stalkero
+Koda
+Grenade
+--- 20-04-01 20:07:31
+DmChord
+WitZker
+Grenade
+--- 20-04-01 20:07:36
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 20:07:39
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:07:43
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:07:49
+DmChord
+WitZker
+M79
+--- 20-04-01 20:07:52
+Stalkero
+Koda
+Grenade
+--- 20-04-01 20:07:52
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:07:59
+Mark Rii
+JJJ
+HK MP5
+--- 20-04-01 20:08:02
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:08:03
+DmChord
+WitZker
+Grenade
+--- 20-04-01 20:08:07
+DmChord
+JJJ
+M79
+--- 20-04-01 20:08:08
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:08:09
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:08:09
+sicK
+Koda
+Grenade
+--- 20-04-01 20:08:13
+sicK
+WitZker
+Steyr AUG
+--- 20-04-01 20:08:19
+JJJ
+sicK
+Ruger 77
+--- 20-04-01 20:08:22
+DmChord
+JJJ
+Grenade
+--- 20-04-01 20:08:24
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:08:25
+WitZker
+Stalkero
+Steyr AUG
+--- 20-04-01 20:08:27
+sicK
+WitZker
+Steyr AUG
+--- 20-04-01 20:08:27
+WitZker
+sicK
+Steyr AUG
+--- 20-04-01 20:08:36
+Mark Rii
+Koda
+HK MP5
+--- 20-04-01 20:08:36
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:08:36
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 20:08:41
+WitZker
+DmChord
+Grenade
+--- 20-04-01 20:08:45
+sicK
+sicK
+Grenade
+--- 20-04-01 20:08:46
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:08:54
+WitZker
+DmChord
+Steyr AUG
+--- 20-04-01 20:08:56
+sicK
+WitZker
+Grenade
+--- 20-04-01 20:09:01
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:09:03
+Stalkero
+JJJ
+Spas-12
+--- 20-04-01 20:09:11
+sicK
+WitZker
+Steyr AUG
+--- 20-04-01 20:09:18
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:09:21
+sicK
+JJJ
+Steyr AUG
+--- 20-04-01 20:09:28
+JJJ
+Stalkero
+Ruger 77
+--- 20-04-01 20:09:31
+DmChord
+JJJ
+M79
+--- 20-04-01 20:09:33
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:09:34
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:09:38
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:09:41
+WitZker
+DmChord
+Steyr AUG
+--- 20-04-01 20:09:43
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:09:44
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:09:51
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:09:58
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:10:00
+sicK
+Koda
+Grenade
+--- 20-04-01 20:10:02
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:10:05
+DmChord
+WitZker
+M79
+--- 20-04-01 20:10:06
+Koda
+DmChord
+Spas-12
+--- 20-04-01 20:10:13
+Mark Rii
+JJJ
+Ak-74
+--- 20-04-01 20:10:14
+Koda
+Mark Rii
+Spas-12
+--- 20-04-01 20:10:18
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:10:19
+WitZker
+Stalkero
+Steyr AUG
+--- 20-04-01 20:10:20
+DmChord
+DmChord
+Grenade
+--- 20-04-01 20:10:47
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:10:48
+Elnaxo
+sicK
+Desert Eagles
+--- 20-04-01 20:10:51
+Mark Rii
+Elnaxo
+Ak-74
+--- 20-04-01 20:10:53
+Koda
+Mark Rii
+Desert Eagles
+--- 20-04-01 20:10:57
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:11:02
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:11:05
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:11:18
+Mark Rii
+Elnaxo
+Ak-74
+--- 20-04-01 20:11:18
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:11:20
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:11:26
+Elnaxo
+DmChord
+Desert Eagles
+--- 20-04-01 20:11:28
+sicK
+sicK
+Grenade
+--- 20-04-01 20:11:38
+Mark Rii
+Koda
+Ak-74
+--- 20-04-01 20:11:40
+sicK
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:11:47
+Koda
+Stalkero
+Spas-12
+--- 20-04-01 20:11:54
+Koda
+sicK
+Spas-12
+--- 20-04-01 20:12:03
+Stalkero
+Koda
+Spas-12
+--- 20-04-01 20:12:12
+Elnaxo
+Stalkero
+Desert Eagles
+--- 20-04-01 20:12:23
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:12:28
+Koda
+sicK
+Hands
+--- 20-04-01 20:12:34
+Koda
+DmChord
+Ak-74
+--- 20-04-01 20:12:39
+sicK
+Koda
+Steyr AUG
+--- 20-04-01 20:12:51
+DmChord
+DmChord
+M79
+--- 20-04-01 20:12:51
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:12:55
+sicK
+sicK
+Grenade
+--- 20-04-01 20:13:05
+Meromero
+Mark Rii
+Grenade
+--- 20-04-01 20:13:06
+Mark Rii
+Meromero
+Ak-74
+--- 20-04-01 20:13:07
+DmChord
+Stalkero
+Chainsaw
+--- 20-04-01 20:13:07
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:13:15
+DmChord
+DmChord
+Grenade
+--- 20-04-01 20:13:18
+Stalkero
+Elnaxo
+Chainsaw
+--- 20-04-01 20:13:22
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:13:25
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:13:36
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:13:38
+Elnaxo
+Mark Rii
+Desert Eagles
+--- 20-04-01 20:13:59
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:14:05
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:14:11
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:14:12
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:14:24
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:14:28
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:14:33
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:14:34
+Cahuel
+DmChord
+Desert Eagles
+--- 20-04-01 20:14:44
+Mark Rii
+Elnaxo
+Ak-74
+--- 20-04-01 20:14:50
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:14:52
+Meromero
+Stalkero
+Grenade
+--- 20-04-01 20:14:53
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:15:04
+Elnaxo
+Mark Rii
+Ak-74
+--- 20-04-01 20:15:07
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:15:13
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:15:13
+Cahuel
+Elnaxo
+Desert Eagles
+--- 20-04-01 20:15:17
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:15:18
+Cahuel
+DmChord
+Desert Eagles
+--- 20-04-01 20:15:27
+Elnaxo
+Cahuel
+Ak-74
+--- 20-04-01 20:15:27
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:15:33
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:15:34
+Cahuel
+DmChord
+Desert Eagles
+--- 20-04-01 20:15:45
+Cahuel
+Elnaxo
+Desert Eagles
+--- 20-04-01 20:15:54
+DmChord
+phobos
+M79
+--- 20-04-01 20:15:57
+Cahuel
+DmChord
+Desert Eagles
+--- 20-04-01 20:15:57
+Meromero
+Cahuel
+XM214 Minigun
+--- 20-04-01 20:15:57
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:16:04
+Elnaxo
+Stalkero
+Ak-74
+--- 20-04-01 20:16:04
+Cahuel
+Meromero
+Desert Eagles
+--- 20-04-01 20:16:08
+Cahuel
+Elnaxo
+Desert Eagles
+--- 20-04-01 20:16:10
+DmChord
+Cahuel
+Chainsaw
+--- 20-04-01 20:16:13
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:16:17
+phobos
+DmChord
+Spas-12
+--- 20-04-01 20:16:20
+Mark Rii
+Meromero
+Ak-74
+--- 20-04-01 20:16:27
+phobos
+Elnaxo
+Grenade
+--- 20-04-01 20:16:29
+DmChord
+Cahuel
+Grenade
+--- 20-04-01 20:16:32
+phobos
+DmChord
+Spas-12
+--- 20-04-01 20:16:32
+phobos
+phobos
+Grenade
+--- 20-04-01 20:16:35
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:16:38
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:16:42
+phobos
+Meromero
+Spas-12
+--- 20-04-01 20:16:47
+Mark Rii
+DmChord
+Ak-74
+--- 20-04-01 20:16:57
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:16:58
+Meromero
+Cahuel
+XM214 Minigun
+--- 20-04-01 20:17:00
+phobos
+DmChord
+Spas-12
+--- 20-04-01 20:17:05
+Meromero
+Mark Rii
+Grenade
+--- 20-04-01 20:17:07
+Meromero
+phobos
+Grenade
+--- 20-04-01 20:17:12
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:17:14
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:17:19
+Cahuel
+Meromero
+Desert Eagles
+--- 20-04-01 20:17:21
+Cahuel
+Elnaxo
+Desert Eagles
+--- 20-04-01 20:17:24
+Cahuel
+DmChord
+Desert Eagles
+--- 20-04-01 20:17:26
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:17:28
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:17:28
+Elnaxo
+Cahuel
+M79
+--- 20-04-01 20:17:31
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:17:41
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:17:44
+Elnaxo
+Cahuel
+M79
+--- 20-04-01 20:17:46
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:17:47
+phobos
+DmChord
+Grenade
+--- 20-04-01 20:17:52
+Meromero
+Stalkero
+Grenade
+--- 20-04-01 20:17:55
+Elnaxo
+Elnaxo
+M79
+--- 20-04-01 20:17:55
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:17:59
+Meromero
+Stalkero
+Grenade
+--- 20-04-01 20:18:04
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:18:06
+Cahuel
+Meromero
+Desert Eagles
+--- 20-04-01 20:18:12
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:18:22
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:18:24
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:18:32
+DmChord
+Stalkero
+Chainsaw
+--- 20-04-01 20:18:37
+Elnaxo
+Cahuel
+M79
+--- 20-04-01 20:18:39
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:18:46
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:18:51
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:18:52
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:18:55
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:19:01
+Meromero
+Cahuel
+XM214 Minigun
+--- 20-04-01 20:19:04
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:19:05
+DmChord
+Mark Rii
+Grenade
+--- 20-04-01 20:19:05
+Stalkero
+Elnaxo
+Grenade
+--- 20-04-01 20:19:08
+Cahuel
+DmChord
+HK MP5
+--- 20-04-01 20:19:17
+Mark Rii
+Meromero
+Ak-74
+--- 20-04-01 20:19:20
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:19:20
+Mark Rii
+DmChord
+Ak-74
+--- 20-04-01 20:19:31
+Cahuel
+Elnaxo
+HK MP5
+--- 20-04-01 20:19:47
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 20:19:48
+Cahuel
+DmChord
+Barrett M82A1
+--- 20-04-01 20:19:54
+Cahuel
+Elnaxo
+Barrett M82A1
+--- 20-04-01 20:19:54
+Cahuel
+Meromero
+Barrett M82A1
+--- 20-04-01 20:19:57
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:20:03
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:20:04
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:20:08
+Cahuel
+Meromero
+Barrett M82A1
+--- 20-04-01 20:20:13
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:20:14
+phobos
+DmChord
+Spas-12
+--- 20-04-01 20:20:15
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:20:21
+Elnaxo
+Cahuel
+M79
+--- 20-04-01 20:20:22
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:20:24
+Stalkero
+Elnaxo
+Grenade
+--- 20-04-01 20:20:30
+Cahuel
+DmChord
+Barrett M82A1
+--- 20-04-01 20:20:33
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:20:35
+Cahuel
+Meromero
+Grenade
+--- 20-04-01 20:20:42
+Cahuel
+DmChord
+Barrett M82A1
+--- 20-04-01 20:20:44
+Zeppelin
+phobos
+Ak-74
+--- 20-04-01 20:20:45
+Zeppelin
+Cahuel
+Grenade
+--- 20-04-01 20:20:50
+Zeppelin
+Mark Rii
+Grenade
+--- 20-04-01 20:20:50
+Cahuel
+Zeppelin
+Steyr AUG
+--- 20-04-01 20:20:52
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:20:55
+Cahuel
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:20:57
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:21:02
+Cahuel
+Zeppelin
+Ruger 77
+--- 20-04-01 20:21:06
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:21:06
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:21:09
+Zeppelin
+phobos
+Steyr AUG
+--- 20-04-01 20:21:10
+Cahuel
+DmChord
+Ruger 77
+--- 20-04-01 20:21:11
+Meromero
+Mark Rii
+USSOCOM
+--- 20-04-01 20:21:15
+Cahuel
+Meromero
+Ruger 77
+--- 20-04-01 20:21:21
+phobos
+Zeppelin
+Steyr AUG
+--- 20-04-01 20:21:22
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:21:23
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:21:24
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:21:31
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 20:21:32
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:21:34
+Cahuel
+Meromero
+Ruger 77
+--- 20-04-01 20:21:36
+phobos
+Zeppelin
+Steyr AUG
+--- 20-04-01 20:21:36
+Cahuel
+Elnaxo
+Ruger 77
+--- 20-04-01 20:21:37
+Cahuel
+DmChord
+Ruger 77
+--- 20-04-01 20:21:43
+Zeppelin
+phobos
+Steyr AUG
+--- 20-04-01 20:21:43
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:21:46
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:21:50
+Cahuel
+Zeppelin
+Ruger 77
+--- 20-04-01 20:21:53
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 20:21:56
+DmChord
+Cahuel
+Spas-12
+--- 20-04-01 20:21:56
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:21:59
+Stalkero
+Zeppelin
+Spas-12
+--- 20-04-01 20:22:00
+Elnaxo
+Elnaxo
+Grenade
+--- 20-04-01 20:22:02
+Stalkero
+DmChord
+Hands
+--- 20-04-01 20:22:06
+Zeppelin
+Stalkero
+Steyr AUG
+--- 20-04-01 20:22:09
+Mark Rii
+Meromero
+Steyr AUG
+--- 20-04-01 20:22:10
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 20:22:13
+Zeppelin
+Cahuel
+Steyr AUG
+--- 20-04-01 20:22:14
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:22:17
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:22:18
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:22:21
+phobos
+Zeppelin
+Steyr AUG
+--- 20-04-01 20:22:26
+DmChord
+Mark Rii
+Grenade
+--- 20-04-01 20:22:29
+Zeppelin
+Cahuel
+Steyr AUG
+--- 20-04-01 20:22:30
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:22:34
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:22:36
+Zeppelin
+Stalkero
+Steyr AUG
+--- 20-04-01 20:22:39
+DmChord
+phobos
+Spas-12
+--- 20-04-01 20:22:44
+phobos
+Zeppelin
+Steyr AUG
+--- 20-04-01 20:22:47
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 20:22:50
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:22:52
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:22:52
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:22:53
+phobos
+Elnaxo
+Grenade
+--- 20-04-01 20:22:57
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:22:58
+DmChord
+phobos
+Spas-12
+--- 20-04-01 20:23:02
+Mark Rii
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:23:05
+DmChord
+Mark Rii
+Spas-12
+--- 20-04-01 20:23:07
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:23:09
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:23:10
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:23:13
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:23:16
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:23:16
+Cahuel
+Meromero
+Spas-12
+--- 20-04-01 20:23:17
+DmChord
+Cahuel
+Spas-12
+--- 20-04-01 20:23:19
+Mark Rii
+DmChord
+Grenade
+--- 20-04-01 20:23:22
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:23:29
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:23:31
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:23:32
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 20:23:38
+Elnaxo
+Mark Rii
+USSOCOM
+--- 20-04-01 20:23:39
+Cahuel
+Meromero
+Ruger 77
+--- 20-04-01 20:23:40
+Elnaxo
+Elnaxo
+Grenade
+--- 20-04-01 20:23:46
+Cahuel
+Meromero
+Ruger 77
+--- 20-04-01 20:23:49
+DmChord
+Cahuel
+Spas-12
+--- 20-04-01 20:23:49
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:23:53
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:23:54
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:23:54
+DmChord
+Stalkero
+Spas-12
+--- 20-04-01 20:23:55
+Mark Rii
+Meromero
+Steyr AUG
+--- 20-04-01 20:24:00
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:24:02
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:24:07
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:24:08
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:24:14
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:24:19
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:24:22
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:24:24
+Mark Rii
+Meromero
+Hands
+--- 20-04-01 20:24:25
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:24:27
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:24:31
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:24:31
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:24:31
+DmChord
+Stalkero
+Spas-12
+--- 20-04-01 20:24:37
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:24:37
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:24:39
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:24:40
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:24:46
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:24:48
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:24:51
+Mark Rii
+DmChord
+Steyr AUG
+--- 20-04-01 20:24:53
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:24:56
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:24:59
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:25:03
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:25:04
+Maniafic_Official
+Cahuel
+HK MP5
+--- 20-04-01 20:25:05
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:25:11
+Elnaxo
+Maniafic_Official
+M79
+--- 20-04-01 20:25:14
+Mark Rii
+Cahuel
+Grenade
+--- 20-04-01 20:25:19
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:25:19
+DmChord
+Mark Rii
+Desert Eagles
+--- 20-04-01 20:25:20
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:25:22
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:25:26
+phobos
+DmChord
+Ak-74
+--- 20-04-01 20:25:32
+Elnaxo
+Maniafic_Official
+M79
+--- 20-04-01 20:25:35
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:25:37
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:25:40
+DmChord
+tokiandreus
+Desert Eagles
+--- 20-04-01 20:25:40
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:25:45
+Mark Rii
+Cahuel
+Spas-12
+--- 20-04-01 20:25:48
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:25:49
+DmChord
+Maniafic_Official
+Grenade
+--- 20-04-01 20:25:51
+tokiandreus
+DmChord
+Ak-74
+--- 20-04-01 20:25:53
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:25:54
+Meromero
+Mark Rii
+Grenade
+--- 20-04-01 20:25:55
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:25:59
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:26:08
+phobos
+DmChord
+Ak-74
+--- 20-04-01 20:26:08
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:26:09
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:26:17
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:26:19
+Maniafic_Official
+DmChord
+Barrett M82A1
+--- 20-04-01 20:26:24
+Cahuel
+Maniafic_Official
+Ruger 77
+--- 20-04-01 20:26:25
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:26:28
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:26:32
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:26:32
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:26:33
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:26:33
+tokiandreus
+DmChord
+Ak-74
+--- 20-04-01 20:26:39
+Meromero
+Maniafic_Official
+XM214 Minigun
+--- 20-04-01 20:26:42
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:26:42
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:26:44
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:26:46
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:26:49
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:26:52
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:26:53
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:26:56
+Maniafic_Official
+Cahuel
+FN Minimi
+--- 20-04-01 20:27:01
+DmChord
+tokiandreus
+Desert Eagles
+--- 20-04-01 20:27:03
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:27:04
+Elnaxo
+Elnaxo
+M79
+--- 20-04-01 20:27:04
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:27:11
+DmChord
+Stalkero
+Desert Eagles
+--- 20-04-01 20:27:12
+DmChord
+Mark Rii
+Grenade
+--- 20-04-01 20:27:16
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:27:17
+tokiandreus
+DmChord
+Ak-74
+--- 20-04-01 20:27:26
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:27:27
+phobos
+Cahuel
+Steyr AUG
+--- 20-04-01 20:27:27
+Stalkero
+DmChord
+Chainsaw
+--- 20-04-01 20:27:27
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:27:33
+Meromero
+Maniafic_Official
+XM214 Minigun
+--- 20-04-01 20:27:35
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:27:35
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:27:38
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:27:39
+tokiandreus
+Cahuel
+Ak-74
+--- 20-04-01 20:27:42
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:27:44
+DmChord
+tokiandreus
+Desert Eagles
+--- 20-04-01 20:27:46
+Maniafic_Official
+DmChord
+FN Minimi
+--- 20-04-01 20:27:50
+Cahuel
+Maniafic_Official
+Ruger 77
+--- 20-04-01 20:27:51
+Mark Rii
+Cahuel
+Spas-12
+--- 20-04-01 20:27:55
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:27:59
+Meromero
+Mark Rii
+Grenade
+--- 20-04-01 20:28:02
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:28:05
+DmChord
+Maniafic_Official
+Chainsaw
+--- 20-04-01 20:28:08
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:28:09
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:28:17
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:28:18
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:28:19
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:28:19
+Maniafic_Official
+Cahuel
+Spas-12
+--- 20-04-01 20:28:22
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:28:24
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:28:26
+Cahuel
+Maniafic_Official
+Ruger 77
+--- 20-04-01 20:28:27
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:28:28
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:28:29
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:28:36
+Stalkero
+i|StipZ
+Grenade
+--- 20-04-01 20:28:37
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:28:38
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:28:38
+Stalkero
+Elnaxo
+Hands
+--- 20-04-01 20:28:40
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:28:42
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:28:46
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:28:52
+Stalkero
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:28:53
+Stalkero
+Meromero
+Spas-12
+--- 20-04-01 20:28:53
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:28:53
+Elnaxo
+tokiandreus
+M79
+--- 20-04-01 20:28:55
+i|StipZ
+phobos
+Grenade
+--- 20-04-01 20:28:55
+Maniafic_Official
+DmChord
+Spas-12
+--- 20-04-01 20:28:56
+Cahuel
+Maniafic_Official
+Ruger 77
+--- 20-04-01 20:29:01
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:29:01
+Stalkero
+i|StipZ
+Spas-12
+--- 20-04-01 20:29:04
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:29:06
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:29:07
+Meromero
+Maniafic_Official
+XM214 Minigun
+--- 20-04-01 20:29:08
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:29:08
+Mark Rii
+Cahuel
+Spas-12
+--- 20-04-01 20:29:09
+tokiandreus
+Meromero
+Ak-74
+--- 20-04-01 20:29:09
+PERUANO ANTIGUO INCAICO
+Mark Rii
+HK MP5
+--- 20-04-01 20:29:12
+phobos
+PERUANO ANTIGUO INCAICO
+Steyr AUG
+--- 20-04-01 20:29:17
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:29:18
+DmChord
+DmChord
+M79
+--- 20-04-01 20:29:19
+Cahuel
+Stalkero
+Grenade
+--- 20-04-01 20:29:20
+Cahuel
+phobos
+Ruger 77
+--- 20-04-01 20:29:23
+PERUANO ANTIGUO INCAICO
+Maniafic_Official
+HK MP5
+--- 20-04-01 20:29:27
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:29:30
+PERUANO ANTIGUO INCAICO
+Mark Rii
+HK MP5
+--- 20-04-01 20:29:30
+Stalkero
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:29:33
+tokiandreus
+Cahuel
+Ak-74
+--- 20-04-01 20:29:36
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:29:37
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:30:02
+DmChord
+Maniafic_Official
+M79
+--- 20-04-01 20:30:04
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:30:08
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:30:09
+DmChord
+Maniafic_Official
+Chainsaw
+--- 20-04-01 20:30:11
+PERUANO ANTIGUO INCAICO
+Stalkero
+Steyr AUG
+--- 20-04-01 20:30:11
+Mark Rii
+PERUANO ANTIGUO INCAICO
+Ak-74
+--- 20-04-01 20:30:12
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:30:15
+Cahuel
+Maniafic_Official
+Barrett M82A1
+--- 20-04-01 20:30:20
+Cahuel
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:30:31
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:30:35
+Meromero
+tokiandreus
+XM214 Minigun
+--- 20-04-01 20:30:37
+Cahuel
+Mark Rii
+Combat Knife
+--- 20-04-01 20:30:37
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:30:38
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:30:42
+phobos
+Meromero
+Steyr AUG
+--- 20-04-01 20:30:43
+Elnaxo
+Maniafic_Official
+M79
+--- 20-04-01 20:30:47
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:30:49
+Cahuel
+phobos
+Barrett M82A1
+--- 20-04-01 20:30:54
+Cahuel
+Mark Rii
+Barrett M82A1
+--- 20-04-01 20:30:55
+Maniafic_Official
+DmChord
+Hands
+--- 20-04-01 20:30:56
+Stalkero
+PERUANO ANTIGUO INCAICO
+Grenade
+--- 20-04-01 20:31:00
+phobos
+Cahuel
+Barrett M82A1
+--- 20-04-01 20:31:02
+The Urban Moose
+Maniafic_Official
+USSOCOM
+--- 20-04-01 20:31:05
+Stalkero
+The Urban Moose
+Spas-12
+--- 20-04-01 20:31:07
+Perturbador
+Elnaxo
+HK MP5
+--- 20-04-01 20:31:08
+DmChord
+Perturbador
+M79
+--- 20-04-01 20:31:09
+Meromero
+tokiandreus
+Grenade
+--- 20-04-01 20:31:13
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:31:18
+Elnaxo
+Mark Rii
+Grenade
+--- 20-04-01 20:31:20
+DmChord
+Stalkero
+Chainsaw
+--- 20-04-01 20:31:24
+phobos
+Cahuel
+Barrett M82A1
+--- 20-04-01 20:31:29
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:31:32
+Elnaxo
+Maniafic_Official
+M79
+--- 20-04-01 20:31:32
+Cahuel
+Perturbador
+Barrett M82A1
+--- 20-04-01 20:31:34
+Mark Rii
+DmChord
+Ak-74
+--- 20-04-01 20:31:38
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:31:42
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:31:45
+tokiandreus
+DmChord
+Steyr AUG
+--- 20-04-01 20:31:45
+Cahuel
+Perturbador
+Combat Knife
+--- 20-04-01 20:31:47
+tokiandreus
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:31:53
+DmChord
+tokiandreus
+M79
+--- 20-04-01 20:31:56
+Perturbador
+Cahuel
+FN Minimi
+--- 20-04-01 20:31:57
+Perturbador
+Meromero
+FN Minimi
+--- 20-04-01 20:32:00
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:32:02
+tokiandreus
+PERUANO ANTIGUO INCAICO
+Ak-74
+--- 20-04-01 20:32:02
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:32:05
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:32:06
+Elnaxo
+Maniafic_Official
+M79
+--- 20-04-01 20:32:06
+Maniafic_Official
+Cahuel
+Barrett M82A1
+--- 20-04-01 20:32:17
+Mark Rii
+DmChord
+Ak-74
+--- 20-04-01 20:32:19
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:32:25
+Cahuel
+phobos
+Combat Knife
+--- 20-04-01 20:32:38
+Mark Rii
+PERUANO ANTIGUO INCAICO
+Hands
+--- 20-04-01 20:32:39
+Cahuel
+Maniafic_Official
+M79
+--- 20-04-01 20:32:40
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:32:46
+Korhang
+Stalkero
+FN Minimi
+--- 20-04-01 20:32:47
+Maniafic_Official
+Maniafic_Official
+M79
+--- 20-04-01 20:32:51
+Cahuel
+Mark Rii
+M79
+--- 20-04-01 20:32:54
+Korhang
+tokiandreus
+Grenade
+--- 20-04-01 20:32:55
+PERUANO ANTIGUO INCAICO
+phobos
+XM214 Minigun
+--- 20-04-01 20:33:00
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:33:07
+Maniafic_Official
+DmChord
+M79
+--- 20-04-01 20:33:11
+Mark Rii
+Cahuel
+Ak-74
+--- 20-04-01 20:33:12
+Korhang
+Maniafic_Official
+FN Minimi
+--- 20-04-01 20:33:13
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:33:16
+Stalkero
+Elnaxo
+Spas-12
+--- 20-04-01 20:33:16
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:33:19
+tokiandreus
+Korhang
+Ak-74
+--- 20-04-01 20:33:26
+Mark Rii
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:33:28
+Meromero
+Meromero
+Grenade
+--- 20-04-01 20:33:28
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:33:29
+DmChord
+Stalkero
+Chainsaw
+--- 20-04-01 20:33:30
+Cahuel
+tokiandreus
+Combat Knife
+--- 20-04-01 20:33:37
+Elnaxo
+Mark Rii
+M79
+--- 20-04-01 20:33:41
+DmChord
+Maniafic_Official
+Chainsaw
+--- 20-04-01 20:33:51
+Stalkero
+Elnaxo
+Barrett M82A1
+--- 20-04-01 20:33:55
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:33:55
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:33:58
+Cahuel
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:34:03
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:34:05
+Maniafic_Official
+PERUANO ANTIGUO INCAICO
+Chainsaw
+--- 20-04-01 20:34:06
+Maniafic_Official
+Meromero
+Chainsaw
+--- 20-04-01 20:34:09
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:34:12
+Cahuel
+tokiandreus
+Ak-74
+--- 20-04-01 20:34:18
+Cahuel
+Maniafic_Official
+Barrett M82A1
+--- 20-04-01 20:34:20
+PERUANO ANTIGUO INCAICO
+Mark Rii
+Ruger 77
+--- 20-04-01 20:34:26
+DmChord
+DmChord
+Grenade
+--- 20-04-01 20:34:26
+Stalkero
+Meromero
+Chainsaw
+--- 20-04-01 20:34:27
+Elnaxo
+tokiandreus
+Grenade
+--- 20-04-01 20:34:28
+Maniafic_Official
+Cahuel
+Spas-12
+--- 20-04-01 20:34:30
+PERUANO ANTIGUO INCAICO
+phobos
+Ruger 77
+--- 20-04-01 20:34:30
+Mark Rii
+Elnaxo
+Spas-12
+--- 20-04-01 20:34:38
+PERUANO ANTIGUO INCAICO
+Stalkero
+Ruger 77
+--- 20-04-01 20:34:41
+phobos
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:34:43
+Meromero
+Maniafic_Official
+XM214 Minigun
+--- 20-04-01 20:34:43
+Cahuel
+Mark Rii
+Barrett M82A1
+--- 20-04-01 20:34:46
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:34:48
+tokiandreus
+DmChord
+Barrett M82A1
+--- 20-04-01 20:34:58
+PERUANO ANTIGUO INCAICO
+Mark Rii
+Ruger 77
+--- 20-04-01 20:34:59
+phobos
+phobos
+LAW
+--- 20-04-01 20:35:02
+Cahuel
+Maniafic_Official
+Barrett M82A1
+--- 20-04-01 20:35:07
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:35:10
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:35:13
+PERUANO ANTIGUO INCAICO
+Mark Rii
+Ruger 77
+--- 20-04-01 20:35:13
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:35:13
+DmChord
+Stalkero
+Chainsaw
+--- 20-04-01 20:35:19
+phobos
+Cahuel
+M79
+--- 20-04-01 20:35:21
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:35:23
+PERUANO ANTIGUO INCAICO
+Maniafic_Official
+Ruger 77
+--- 20-04-01 20:35:29
+Stalkero
+DmChord
+Spas-12
+--- 20-04-01 20:35:30
+Elnaxo
+Mark Rii
+Grenade
+--- 20-04-01 20:35:33
+Elnaxo
+Stalkero
+M79
+--- 20-04-01 20:35:37
+Maniafic_Official
+Elnaxo
+Grenade
+--- 20-04-01 20:35:37
+=X*R= CWeiC
+PERUANO ANTIGUO INCAICO
+HK MP5
+--- 20-04-01 20:35:37
+Meromero
+Maniafic_Official
+XM214 Minigun
+--- 20-04-01 20:35:40
+=X*R= CWeiC
+Meromero
+HK MP5
+--- 20-04-01 20:35:43
+DmChord
+=X*R= CWeiC
+M79
+--- 20-04-01 20:35:45
+Cahuel
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:35:45
+Cahuel
+tokiandreus
+Barrett M82A1
+--- 20-04-01 20:35:46
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:35:46
+Mark Rii
+DmChord
+Spas-12
+--- 20-04-01 20:35:55
+phobos
+Meromero
+Barrett M82A1
+--- 20-04-01 20:35:55
+=X*R= CWeiC
+Cahuel
+HK MP5
+--- 20-04-01 20:35:57
+Stalkero
+raibaM
+Steyr AUG
+--- 20-04-01 20:35:58
+PERUANO ANTIGUO INCAICO
+phobos
+Desert Eagles
+--- 20-04-01 20:36:00
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:36:01
+=X*R= CWeiC
+PERUANO ANTIGUO INCAICO
+HK MP5
+--- 20-04-01 20:36:03
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:36:06
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:36:08
+=X*R= CWeiC
+Meromero
+HK MP5
+--- 20-04-01 20:36:10
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:36:12
+Stalkero
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:36:16
+Stalkero
+DmChord
+Steyr AUG
+--- 20-04-01 20:36:16
+Meromero
+=X*R= CWeiC
+XM214 Minigun
+--- 20-04-01 20:36:22
+Mark Rii
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:36:22
+raibaM
+Mark Rii
+Hands
+--- 20-04-01 20:36:25
+=X*R= CWeiC
+raibaM
+HK MP5
+--- 20-04-01 20:36:25
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:36:29
+=X*R= CWeiC
+DmChord
+HK MP5
+--- 20-04-01 20:36:36
+Meromero
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:36:44
+Stalkero
+Cahuel
+Steyr AUG
+--- 20-04-01 20:36:47
+Stalkero
+PERUANO ANTIGUO INCAICO
+Grenade
+--- 20-04-01 20:36:51
+Meromero
+Stalkero
+Grenade
+--- 20-04-01 20:36:53
+DmChord
+Mark Rii
+Chainsaw
+--- 20-04-01 20:36:55
+=X*R= CWeiC
+Elnaxo
+HK MP5
+--- 20-04-01 20:36:55
+Cahuel
+=X*R= CWeiC
+Barrett M82A1
+--- 20-04-01 20:36:56
+=X*R= CWeiC
+Cahuel
+Grenade
+--- 20-04-01 20:36:56
+=X*R= CWeiC
+PERUANO ANTIGUO INCAICO
+HK MP5
+--- 20-04-01 20:37:02
+Stalkero
+DmChord
+Steyr AUG
+--- 20-04-01 20:37:08
+=X*R= CWeiC
+Elnaxo
+Grenade
+--- 20-04-01 20:37:08
+Mark Rii
+Meromero
+Spas-12
+--- 20-04-01 20:37:09
+Cahuel
+=X*R= CWeiC
+Barrett M82A1
+--- 20-04-01 20:37:14
+phobos
+DmChord
+M79
+--- 20-04-01 20:37:17
+Cahuel
+=X*R= CWeiC
+Barrett M82A1
+--- 20-04-01 20:37:17
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:37:17
+Stalkero
+Meromero
+Grenade
+--- 20-04-01 20:37:22
+Stalkero
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:37:22
+DmChord
+Stalkero
+M79
+--- 20-04-01 20:37:24
+PERUANO ANTIGUO INCAICO
+tokiandreus
+XM214 Minigun
+--- 20-04-01 20:37:26
+=X*R= CWeiC
+Cahuel
+HK MP5
+--- 20-04-01 20:37:28
+=X*R= CWeiC
+PERUANO ANTIGUO INCAICO
+HK MP5
+--- 20-04-01 20:37:31
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:37:33
+Stalkero
+DmChord
+Steyr AUG
+--- 20-04-01 20:37:35
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:37:46
+Cahuel
+tokiandreus
+Grenade
+--- 20-04-01 20:37:46
+Cahuel
+phobos
+Barrett M82A1
+--- 20-04-01 20:37:50
+=X*R= CWeiC
+Cahuel
+HK MP5
+--- 20-04-01 20:37:54
+DmChord
+=X*R= CWeiC
+M79
+--- 20-04-01 20:37:58
+phobos
+DmChord
+LAW
+--- 20-04-01 20:38:00
+Stalkero
+PERUANO ANTIGUO INCAICO
+Steyr AUG
+--- 20-04-01 20:38:09
+Meromero
+Mark Rii
+XM214 Minigun
+--- 20-04-01 20:38:10
+Stalkero
+Meromero
+Steyr AUG
+--- 20-04-01 20:38:10
+=X*R= CWeiC
+Cahuel
+HK MP5
+--- 20-04-01 20:38:12
+System0
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:38:14
+=X*R= CWeiC
+DmChord
+HK MP5
+--- 20-04-01 20:38:17
+Cahuel
+tokiandreus
+Ruger 77
+--- 20-04-01 20:38:20
+phobos
+Elnaxo
+Spas-12
+--- 20-04-01 20:38:20
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:38:21
+=X*R= CWeiC
+Meromero
+HK MP5
+--- 20-04-01 20:38:26
+=X*R= CWeiC
+DmChord
+HK MP5
+--- 20-04-01 20:38:28
+=X*R= CWeiC
+Meromero
+HK MP5
+--- 20-04-01 20:38:28
+Meromero
+=X*R= CWeiC
+XM214 Minigun
+--- 20-04-01 20:38:34
+Mark Rii
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:38:35
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:38:39
+Cahuel
+Stalkero
+Ruger 77
+--- 20-04-01 20:38:39
+tokiandreus
+Cahuel
+Ak-74
+--- 20-04-01 20:38:39
+DmChord
+tokiandreus
+M79
+--- 20-04-01 20:38:41
+phobos
+DmChord
+Steyr AUG
+--- 20-04-01 20:38:43
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:38:45
+Elnaxo
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:38:46
+=X*R= CWeiC
+Meromero
+Grenade
+--- 20-04-01 20:38:58
+Mark Rii
+DmChord
+FN Minimi
+--- 20-04-01 20:38:59
+Cahuel
+Mark Rii
+Ruger 77
+--- 20-04-01 20:38:59
+tokiandreus
+Cahuel
+Ak-74
+--- 20-04-01 20:39:01
+Lukser
+phobos
+Ak-74
+--- 20-04-01 20:39:05
+Stalkero
+PERUANO ANTIGUO INCAICO
+Spas-12
+--- 20-04-01 20:39:08
+Mark Rii
+Lukser
+HK MP5
+--- 20-04-01 20:39:08
+=X*R= CWeiC
+Meromero
+Grenade
+--- 20-04-01 20:39:10
+Cahuel
+Stalkero
+Desert Eagles
+--- 20-04-01 20:39:13
+DmChord
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:39:17
+Meromero
+tokiandreus
+XM214 Minigun
+--- 20-04-01 20:39:17
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:39:18
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:39:20
+Stalkero
+Cahuel
+Spas-12
+--- 20-04-01 20:39:20
+=X*R= CWeiC
+Elnaxo
+HK MP5
+--- 20-04-01 20:39:23
+=X*R= CWeiC
+DmChord
+HK MP5
+--- 20-04-01 20:39:32
+Cahuel
+=X*R= CWeiC
+Desert Eagles
+--- 20-04-01 20:39:35
+DmChord
+Mark Rii
+M79
+--- 20-04-01 20:39:37
+tokiandreus
+PERUANO ANTIGUO INCAICO
+Ak-74
+--- 20-04-01 20:39:41
+Meromero
+Stalkero
+XM214 Minigun
+--- 20-04-01 20:39:42
+tokiandreus
+DmChord
+Ak-74
+--- 20-04-01 20:40:15
+=X*R= CWeiC
+Meromero
+Steyr AUG
+--- 20-04-01 20:40:17
+Stalkero
+=X*R= CWeiC
+Barrett M82A1
+--- 20-04-01 20:40:18
+phobos
+DmChord
+M79
+--- 20-04-01 20:40:31
+phobos
+DmChord
+USSOCOM
+--- 20-04-01 20:40:31
+DmChord
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:40:31
+=X*R= CWeiC
+Stalkero
+Steyr AUG
+--- 20-04-01 20:40:33
+Elnaxo
+=X*R= CWeiC
+M79
+--- 20-04-01 20:40:42
+Cahuel
+Meromero
+Combat Knife
+--- 20-04-01 20:40:46
+DmChord
+phobos
+M79
+--- 20-04-01 20:40:54
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:40:56
+=X*R= CWeiC
+Meromero
+Ak-74
+--- 20-04-01 20:40:59
+Cahuel
+DmChord
+Barrett M82A1
+--- 20-04-01 20:41:06
+=X*R= CWeiC
+Meromero
+Ak-74
+--- 20-04-01 20:41:06
+Elnaxo
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:41:11
+Elnaxo
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:41:12
+Cahuel
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:41:17
+DmChord
+guly
+M79
+--- 20-04-01 20:41:17
+=X*R= CWeiC
+DmChord
+Ak-74
+--- 20-04-01 20:41:18
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:41:19
+Cahuel
+Meromero
+XM214 Minigun
+--- 20-04-01 20:41:19
+Stalkero
+Cahuel
+Barrett M82A1
+--- 20-04-01 20:41:24
+=X*R= CWeiC
+Elnaxo
+Grenade
+--- 20-04-01 20:41:27
+Meromero
+=X*R= CWeiC
+XM214 Minigun
+--- 20-04-01 20:41:30
+Stalkero
+PERUANO ANTIGUO INCAICO
+Barrett M82A1
+--- 20-04-01 20:41:38
+=X*R= CWeiC
+DmChord
+Ak-74
+--- 20-04-01 20:41:40
+Cahuel
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:41:42
+Meromero
+phobos
+XM214 Minigun
+--- 20-04-01 20:41:43
+=X*R= CWeiC
+Elnaxo
+Grenade
+--- 20-04-01 20:41:45
+=X*R= CWeiC
+DmChord
+Grenade
+--- 20-04-01 20:41:45
+=X*R= CWeiC
+Meromero
+Grenade
+--- 20-04-01 20:41:45
+=X*R= CWeiC
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:41:49
+Stalkero
+tokiandreus
+Spas-12
+--- 20-04-01 20:41:51
+guly
+Stalkero
+Barrett M82A1
+--- 20-04-01 20:41:52
+DmChord
+guly
+M79
+--- 20-04-01 20:41:54
+Elnaxo
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:41:55
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:42:02
+=X*R= CWeiC
+Meromero
+Ak-74
+--- 20-04-01 20:42:03
+Stalkero
+=X*R= CWeiC
+Spas-12
+--- 20-04-01 20:42:05
+DmChord
+Cahuel
+M79
+--- 20-04-01 20:42:10
+DmChord
+DmChord
+M79
+--- 20-04-01 20:42:16
+PERUANO ANTIGUO INCAICO
+Stalkero
+Spas-12
+--- 20-04-01 20:42:16
+Elnaxo
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:42:22
+Meromero
+guly
+XM214 Minigun
+--- 20-04-01 20:42:24
+Stalkero
+=X*R= CWeiC
+Spas-12
+--- 20-04-01 20:42:27
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:42:34
+PERUANO ANTIGUO INCAICO
+DmChord
+FN Minimi
+--- 20-04-01 20:42:37
+Stalkero
+guly
+Spas-12
+--- 20-04-01 20:42:39
+=X*R= CWeiC
+Cahuel
+Ak-74
+--- 20-04-01 20:42:40
+Stalkero
+tokiandreus
+Spas-12
+--- 20-04-01 20:42:43
+phobos
+Elnaxo
+Steyr AUG
+--- 20-04-01 20:42:45
+DmChord
+PERUANO ANTIGUO INCAICO
+M79
+--- 20-04-01 20:42:46
+Stalkero
+phobos
+Spas-12
+--- 20-04-01 20:42:49
+=X*R= CWeiC
+DmChord
+Ak-74
+--- 20-04-01 20:42:55
+guly
+Mark Rii
+Barrett M82A1
+--- 20-04-01 20:42:56
+=X*R= CWeiC
+Cahuel
+Ak-74
+--- 20-04-01 20:42:59
+=X*R= CWeiC
+Meromero
+Ak-74
+--- 20-04-01 20:42:59
+DmChord
+=X*R= CWeiC
+M79
+--- 20-04-01 20:43:05
+tokiandreus
+DmChord
+M79
+--- 20-04-01 20:43:06
+DmChord
+phobos
+Grenade
+--- 20-04-01 20:43:06
+guly
+Mark Rii
+Barrett M82A1
+--- 20-04-01 20:43:08
+Stalkero
+tokiandreus
+Spas-12
+--- 20-04-01 20:43:11
+guly
+Meromero
+Barrett M82A1
+--- 20-04-01 20:43:14
+phobos
+phobos
+M79
+--- 20-04-01 20:43:14
+phobos
+Stalkero
+M79
+--- 20-04-01 20:43:17
+Elnaxo
+guly
+M79
+--- 20-04-01 20:43:24
+DmChord
+DmChord
+Grenade
+--- 20-04-01 20:43:24
+DmChord
+tokiandreus
+Grenade
+--- 20-04-01 20:43:26
+phobos
+Meromero
+M79
+--- 20-04-01 20:43:30
+Soul o/ CoV.2
+Cahuel
+FN Minimi
+--- 20-04-01 20:43:33
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:43:37
+Elnaxo
+guly
+M79
+--- 20-04-01 20:43:42
+Stalkero
+Soul o/ CoV.2
+Spas-12
+--- 20-04-01 20:43:45
+Cahuel
+=X*R= CWeiC
+Desert Eagles
+--- 20-04-01 20:43:45
+DmChord
+guly
+Chainsaw
+--- 20-04-01 20:43:46
+tokiandreus
+DmChord
+Grenade
+--- 20-04-01 20:43:50
+Cahuel
+tokiandreus
+Desert Eagles
+--- 20-04-01 20:43:51
+=X*R= CWeiC
+Meromero
+Grenade
+--- 20-04-01 20:43:52
+=X*R= CWeiC
+Cahuel
+Grenade
+--- 20-04-01 20:43:52
+=X*R= CWeiC
+=X*R= CWeiC
+Grenade
+--- 20-04-01 20:44:00
+DmChord
+phobos
+M79
+--- 20-04-01 20:44:03
+tokiandreus
+Stalkero
+Ak-74
+--- 20-04-01 20:44:06
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:44:06
+DmChord
+Soul o/ CoV.2
+Chainsaw
+--- 20-04-01 20:44:08
+=X*R= CWeiC
+Cahuel
+Ak-74
+--- 20-04-01 20:44:10
+phobos
+DmChord
+M79
+--- 20-04-01 20:44:11
+=X*R= CWeiC
+Meromero
+Ak-74
+--- 20-04-01 20:44:13
+=X*R= CWeiC
+Stalkero
+Ak-74
+--- 20-04-01 20:44:15
+DmChord
+=X*R= CWeiC
+M79
+--- 20-04-01 20:44:26
+Soul o/ CoV.2
+Cahuel
+FN Minimi
+--- 20-04-01 20:44:29
+Stalkero
+Soul o/ CoV.2
+Spas-12
+--- 20-04-01 20:44:31
+Stalkero
+tokiandreus
+Spas-12
+--- 20-04-01 20:44:33
+DmChord
+phobos
+Chainsaw
+--- 20-04-01 20:44:37
+Stalkero
+Stalkero
+Grenade
+--- 20-04-01 20:44:42
+Meromero
+Soul o/ CoV.2
+XM214 Minigun
+--- 20-04-01 20:44:49
+Meromero
+Soul o/ CoV.2
+Grenade
+--- 20-04-01 20:44:51
+phobos
+DmChord
+M79
+--- 20-04-01 20:44:55
+Elnaxo
+phobos
+M79
+--- 20-04-01 20:44:58
+Cahuel
+Meromero
+FN Minimi
+--- 20-04-01 20:45:01
+tokiandreus
+Elnaxo
+HK MP5
+--- 20-04-01 20:45:01
+Cahuel
+Stalkero
+FN Minimi
+--- 20-04-01 20:45:10
+Soul o/ CoV.2
+Elnaxo
+FN Minimi
+--- 20-04-01 20:45:14
+Cahuel
+DmChord
+Hands
+--- 20-04-01 20:45:20
+Meromero
+tokiandreus
+XM214 Minigun
+--- 20-04-01 20:45:24
+Cahuel
+Stalkero
+FN Minimi
+--- 20-04-01 20:45:24
+phobos
+Cahuel
+Spas-12
+--- 20-04-01 20:45:34
+tokiandreus
+phobos
+Ak-74
+--- 20-04-01 20:45:36
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:45:37
+Cahuel
+DmChord
+FN Minimi
+--- 20-04-01 20:45:41
+Cahuel
+Elnaxo
+FN Minimi
+--- 20-04-01 20:45:50
+phobos
+Cahuel
+M79
+--- 20-04-01 20:45:54
+tokiandreus
+phobos
+Ak-74
+--- 20-04-01 20:45:56
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:45:57
+Cahuel
+Meromero
+Ruger 77
+--- 20-04-01 20:46:01
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:46:03
+Cahuel
+DmChord
+Ruger 77
+--- 20-04-01 20:46:32
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:46:53
+Cahuel
+DmChord
+Ruger 77
+--- 20-04-01 20:47:09
+DmChord
+tokiandreus
+Chainsaw
+--- 20-04-01 20:47:18
+tokiandreus
+Meromero
+Spas-12
+--- 20-04-01 20:47:27
+DmChord
+Cahuel
+Chainsaw
+--- 20-04-01 20:47:28
+tokiandreus
+DmChord
+Hands
+--- 20-04-01 20:47:29
+Meromero
+Neraksofia
+XM214 Minigun
+--- 20-04-01 20:47:49
+Neraksofia
+DmChord
+Ak-74
+--- 20-04-01 20:47:50
+phobos
+tokiandreus
+XM214 Minigun
+--- 20-04-01 20:48:33
+tokiandreus
+phobos
+Ak-74
+--- 20-04-01 20:48:34
+tokiandreus
+Meromero
+Ak-74
+--- 20-04-01 20:49:15
+tokiandreus
+tokiandreus
+Grenade
+--- 20-04-01 20:49:22
+tokiandreus
+Meromero
+Ak-74
+--- 20-04-01 20:51:05
+toljaabixi
+phobos
+M79
+--- 20-04-01 20:52:18
+toljaabixi
+phobos
+M79
+--- 20-04-01 21:01:34
+FelpuditoPomPom
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:01:50
+FelpuditoPomPom
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:02:09
+FelpuditoPomPom
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:02:16
+ignacho.369
+FelpuditoPomPom
+Spas-12
+--- 20-04-01 21:02:30
+ignacho.369
+FelpuditoPomPom
+Hands
+--- 20-04-01 21:03:11
+FelpuditoPomPom
+ignacho.369
+LAW
+--- 20-04-01 21:03:18
+(antiyuta) S O M E
+ignacho.369
+HK MP5
+--- 20-04-01 21:03:30
+(antiyuta) S O M E
+ignacho.369
+HK MP5
+--- 20-04-01 21:03:36
+(antiyuta) S O M E
+ignacho.369
+HK MP5
+--- 20-04-01 21:03:42
+(antiyuta) S O M E
+ignacho.369
+HK MP5
+--- 20-04-01 21:03:48
+ignacho.369
+FelpuditoPomPom
+Spas-12
+--- 20-04-01 21:03:54
+FelpuditoPomPom
+ignacho.369
+LAW
+--- 20-04-01 21:04:04
+FelpuditoPomPom
+ignacho.369
+Ak-74
+--- 20-04-01 21:04:10
+ignacho.369
+FelpuditoPomPom
+Ruger 77
+--- 20-04-01 21:04:15
+FelpuditoPomPom
+ignacho.369
+Desert Eagles
+--- 20-04-01 21:04:26
+ignacho.369
+FelpuditoPomPom
+Ruger 77
+--- 20-04-01 21:04:30
+FelpuditoPomPom
+ignacho.369
+HK MP5
+--- 20-04-01 21:04:46
+FelpuditoPomPom
+ignacho.369
+HK MP5
+--- 20-04-01 21:04:59
+ignacho.369
+FelpuditoPomPom
+Ruger 77
+--- 20-04-01 21:05:05
+FelpuditoPomPom
+ignacho.369
+Steyr AUG
+--- 20-04-01 21:05:13
+FelpuditoPomPom
+ignacho.369
+Steyr AUG
+--- 20-04-01 21:05:18
+ignacho.369
+FelpuditoPomPom
+M79
+--- 20-04-01 21:05:25
+FelpuditoPomPom
+ignacho.369
+Spas-12
+--- 20-04-01 21:05:31
+FelpuditoPomPom
+ignacho.369
+LAW
+--- 20-04-01 21:05:47
+FelpuditoPomPom
+ignacho.369
+Grenade
+--- 20-04-01 21:05:53
+ignacho.369
+ignacho.369
+Grenade
+--- 20-04-01 21:06:10
+FelpuditoPomPom
+ignacho.369
+Spas-12
+--- 20-04-01 21:06:32
+FelpuditoPomPom
+ignacho.369
+Spas-12
+--- 20-04-01 21:06:43
+FelpuditoPomPom
+ignacho.369
+Spas-12
+--- 20-04-01 21:06:43
+ignacho.369
+FelpuditoPomPom
+M79
+--- 20-04-01 21:06:53
+FelpuditoPomPom
+ignacho.369
+XM214 Minigun
+--- 20-04-01 21:07:07
+ignacho.369
+FelpuditoPomPom
+M79
+--- 20-04-01 21:07:28
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:07:40
+ignacho.369
+FelpuditoPomPom
+XM214 Minigun
+--- 20-04-01 21:07:42
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:07:50
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:08:01
+FelpuditoPomPom
+ignacho.369
+M79
+--- 20-04-01 21:08:08
+FelpuditoPomPom
+ignacho.369
+M79
+--- 20-04-01 21:08:08
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:08:11
+FelpuditoPomPom
+(antiyuta) S O M E
+M79
+--- 20-04-01 21:08:17
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:08:18
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:08:24
+Phoenix Blaster
+ignacho.369
+LAW
+--- 20-04-01 21:08:25
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:08:35
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:08:49
+ignacho.369
+FelpuditoPomPom
+Ruger 77
+--- 20-04-01 21:08:57
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:09:14
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:09:25
+FelpuditoPomPom
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:09:45
+ignacho.369
+FelpuditoPomPom
+Barrett M82A1
+--- 20-04-01 21:09:45
+ignacho.369
+Phoenix Blaster
+Barrett M82A1
+--- 20-04-01 21:09:54
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:10:23
+Phoenix Blaster
+(antiyuta) S O M E
+Grenade
+--- 20-04-01 21:10:23
+FelpuditoPomPom
+ignacho.369
+Stationary gun
+--- 20-04-01 21:10:28
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:10:48
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:10:49
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:10:58
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:11:20
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:11:24
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:11:52
+ignacho.369
+Phoenix Blaster
+Ak-74
+--- 20-04-01 21:12:04
+FelpuditoPomPom
+ignacho.369
+Steyr AUG
+--- 20-04-01 21:12:05
+FelpuditoPomPom
+(antiyuta) S O M E
+Steyr AUG
+--- 20-04-01 21:12:11
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:12:16
+FelpuditoPomPom
+(antiyuta) S O M E
+Steyr AUG
+--- 20-04-01 21:12:19
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:12:41
+Phoenix Blaster
+(antiyuta) S O M E
+Ruger 77
+--- 20-04-01 21:12:44
+ignacho.369
+Phoenix Blaster
+Ak-74
+--- 20-04-01 21:12:50
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:13:01
+(antiyuta) S O M E
+FelpuditoPomPom
+Grenade
+--- 20-04-01 21:13:05
+Phoenix Blaster
+ignacho.369
+Grenade
+--- 20-04-01 21:13:12
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:13:16
+FelpuditoPomPom
+Asksuki
+Steyr AUG
+--- 20-04-01 21:13:20
+ignacho.369
+FelpuditoPomPom
+Ak-74
+--- 20-04-01 21:13:22
+Phoenix Blaster
+ignacho.369
+Ruger 77
+--- 20-04-01 21:13:30
+Phoenix Blaster
+(antiyuta) S O M E
+Ruger 77
+--- 20-04-01 21:13:35
+Mentho
+(antiyuta) S O M E
+Barrett M82A1
+--- 20-04-01 21:13:36
+Nickname
+Asksuki
+Ak-74
+--- 20-04-01 21:13:46
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:13:47
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:13:47
+Phoenix Blaster
+ignacho.369
+Stationary gun
+--- 20-04-01 21:13:52
+(antiyuta) S O M E
+Mentho
+HK MP5
+--- 20-04-01 21:13:55
+Nickname
+ignacho.369
+Ak-74
+--- 20-04-01 21:13:55
+MaLicht -Ark-
+Nickname
+Ruger 77
+--- 20-04-01 21:13:59
+FelpuditoPomPom
+Asksuki
+M79
+--- 20-04-01 21:14:01
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:14:15
+(antiyuta) S O M E
+Mentho
+HK MP5
+--- 20-04-01 21:14:16
+Nickname
+MaLicht -Ark-
+Ak-74
+--- 20-04-01 21:14:20
+Nickname
+Asksuki
+Ak-74
+--- 20-04-01 21:14:23
+Nickname
+(antiyuta) S O M E
+Ak-74
+--- 20-04-01 21:14:27
+Mentho
+MaLicht -Ark-
+Barrett M82A1
+--- 20-04-01 21:14:29
+ignacho.369
+Nickname
+HK MP5
+--- 20-04-01 21:14:31
+Phoenix Blaster
+Asksuki
+Grenade
+--- 20-04-01 21:14:31
+MaLicht -Ark-
+Mentho
+Ruger 77
+--- 20-04-01 21:14:34
+FelpuditoPomPom
+MaLicht -Ark-
+Stationary gun
+--- 20-04-01 21:14:36
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:14:46
+Nickname
+MaLicht -Ark-
+Steyr AUG
+--- 20-04-01 21:14:48
+ignacho.369
+Nickname
+HK MP5
+--- 20-04-01 21:14:50
+Mentho
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:14:50
+Mentho
+(antiyuta) S O M E
+Barrett M82A1
+--- 20-04-01 21:14:54
+Mentho
+MaLicht -Ark-
+Barrett M82A1
+--- 20-04-01 21:14:56
+Phoenix Blaster
+ignacho.369
+Grenade
+--- 20-04-01 21:15:02
+Mentho
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:15:05
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:15:05
+FelpuditoPomPom
+MaLicht -Ark-
+Stationary gun
+--- 20-04-01 21:15:09
+(antiyuta) S O M E
+Nickname
+HK MP5
+--- 20-04-01 21:15:11
+Mentho
+MaLicht -Ark-
+Barrett M82A1
+--- 20-04-01 21:15:18
+Mentho
+MaLicht -Ark-
+Barrett M82A1
+--- 20-04-01 21:15:25
+FelpuditoPomPom
+MaLicht -Ark-
+Stationary gun
+--- 20-04-01 21:15:29
+Nickname
+(antiyuta) S O M E
+Desert Eagles
+--- 20-04-01 21:15:33
+MaLicht -Ark-
+Nickname
+Ruger 77
+--- 20-04-01 21:15:35
+MaLicht -Ark-
+Phoenix Blaster
+Ruger 77
+--- 20-04-01 21:15:47
+(antiyuta) S O M E
+Nickname
+HK MP5
+--- 20-04-01 21:15:55
+FelpuditoPomPom
+(antiyuta) S O M E
+Stationary gun
+--- 20-04-01 21:15:55
+(antiyuta) S O M E
+FelpuditoPomPom
+HK MP5
+--- 20-04-01 21:15:56
+Nickname
+MaLicht -Ark-
+Desert Eagles
+--- 20-04-01 21:15:58
+Mentho
+ignacho.369
+Barrett M82A1
+--- 20-04-01 21:16:01
+(antiyuta) S O M E
+Mentho
+HK MP5
+--- 20-04-01 21:16:12
+FelpuditoPomPom
+ignacho.369
+M79
+--- 20-04-01 21:16:14
+Mentho
+MaLicht -Ark-
+Barrett M82A1
+--- 20-04-01 21:16:20
+Phoenix Blaster
+(antiyuta) S O M E
+Ruger 77
+--- 20-04-01 21:16:23
+Phoenix Blaster
+MaLicht -Ark-
+Ruger 77
+--- 20-04-01 21:16:28
+(antiyuta) S O M E
+Phoenix Blaster
+HK MP5
+--- 20-04-01 21:16:33
+MaLicht -Ark-
+FelpuditoPomPom
+Ruger 77
+--- 20-04-01 21:16:38
+Mentho
+(antiyuta) S O M E
+Barrett M82A1
+--- 20-04-01 21:16:40
+Nickname
+MaLicht -Ark-
+Stationary gun
+--- 20-04-01 21:16:43
+Nickname
+ignacho.369
+Stationary gun
+--- 20-04-01 21:16:51
+Phoenix Blaster
+ignacho.369
+Grenade
+--- 20-04-01 21:16:59
+MaLicht -Ark-
+Phoenix Blaster
+Ruger 77
+--- 20-04-01 21:17:06
+MaLicht -Ark-
+MaLicht -Ark-
+Grenade
+--- 20-04-01 21:17:07
+Phoenix Blaster
+(antiyuta) S O M E
+Ruger 77
+--- 20-04-01 21:17:11
+ignacho.369
+Nickname
+Barrett M82A1
+--- 20-04-01 21:17:12
+FelpuditoPomPom
+ignacho.369
+Stationary gun
+--- 20-04-01 21:17:19
+(antiyuta) S O M E
+Mentho
+HK MP5
+--- 20-04-01 21:17:22
+(antiyuta) S O M E
+Phoenix Blaster
+LAW
+--- 20-04-01 21:17:23
+FelpuditoPomPom
+(antiyuta) S O M E
+Stationary gun
+--- 20-04-01 21:17:27
+Mentho
+FelpuditoPomPom
+Barrett M82A1
+--- 20-04-01 21:17:27
+MaLicht -Ark-
+Phoenix Blaster
+Ruger 77
+--- 20-04-01 21:17:37
+Mentho
+Phoenix Blaster
+Barrett M82A1
+--- 20-04-01 21:17:40
+Nickname
+(antiyuta) S O M E
+Desert Eagles
+--- 20-04-01 21:17:40
+FelpuditoPomPom
+Mentho
+Ak-74
+--- 20-04-01 21:17:51
+Phoenix Blaster
+(antiyuta) S O M E
+Grenade
+--- 20-04-01 21:17:55
+FelpuditoPomPom
+Mentho
+Ak-74
+--- 20-04-01 21:17:59
+ignacho.369
+Phoenix Blaster
+Barrett M82A1
+--- 20-04-01 21:17:59
+ignacho.369
+FelpuditoPomPom
+Barrett M82A1
+--- 20-04-01 21:18:09
+FelpuditoPomPom
+Mentho
+Ak-74
+--- 20-04-01 21:18:09
+Mentho
+Phoenix Blaster
+Desert Eagles
+--- 20-04-01 21:18:11
+(antiyuta) S O M E
+Nickname
+Grenade
+--- 20-04-01 21:18:18
+(antiyuta) S O M E
+Nickname
+HK MP5
+--- 20-04-01 21:18:21
+Phoenix Blaster
+(antiyuta) S O M E
+Ruger 77
+--- 20-04-01 21:18:23
+FelpuditoPomPom
+ignacho.369
+Ak-74
+--- 20-04-01 21:18:35
+FelpuditoPomPom
+ignacho.369
+Stationary gun
+--- 20-04-01 21:18:43
+ignacho.369
+Nickname
+Barrett M82A1
+--- 20-04-01 21:18:46
+FelpuditoPomPom
+MaLicht -Ark-
+Stationary gun
+--- 20-04-01 21:18:47
+Phoenix Blaster
+Mentho
+LAW
+--- 20-04-01 21:18:53
+ignacho.369
+FelpuditoPomPom
+Barrett M82A1
+--- 20-04-01 21:19:02
+Nickname
+ignacho.369
+Chainsaw
+--- 20-04-01 21:19:02
+Mentho
+FelpuditoPomPom
+M79
+--- 20-04-01 21:19:02
+Nickname
+MaLicht -Ark-
+Chainsaw
+--- 20-04-01 21:19:06
+Mentho
+Phoenix Blaster
+Grenade
+--- 20-04-01 21:19:08
+(antiyuta) S O M E
+Nickname
+HK MP5
+--- 20-04-01 21:19:10
+FelpuditoPomPom
+Mentho
+Ak-74
+--- 20-04-01 21:19:22
+Mentho
+Nickname
+Barrett M82A1
+--- 20-04-01 21:19:23
+Mentho
+Phoenix Blaster
+LAW
+--- 20-04-01 21:19:28
+(antiyuta) S O M E
+FelpuditoPomPom
+Grenade
+--- 20-04-01 21:19:29
+Mentho
+Nickname
+Barrett M82A1
+--- 20-04-01 21:19:40
+Mentho
+Nickname
+Barrett M82A1
+--- 20-04-01 21:19:46
+(antiyuta) S O M E
+FelpuditoPomPom
+Stationary gun
+--- 20-04-01 21:19:47
+MaLicht -Ark-
+Phoenix Blaster
+Ruger 77
+--- 20-04-01 21:19:50
+(antiyuta) S O M E
+Nickname
+Stationary gun
+--- 20-04-01 21:19:51
+Mentho
+FelpuditoPomPom
+Barrett M82A1
+--- 20-04-01 21:19:58
+(antiyuta) S O M E
+Phoenix Blaster
+Stationary gun
+--- 20-04-01 21:20:03
+Nickname
+Mentho
+Chainsaw
+--- 20-04-01 21:20:28
+Phoenix Blaster
+Nickname
+Stationary gun
+--- 20-04-01 21:21:43
+Nickname
+Phoenix Blaster
+Barrett M82A1
+--- 20-04-01 21:22:40
+Phoenix Blaster
+Nickname
+Ruger 77
+--- 20-04-01 21:23:46
+Phoenix Blaster
+Nickname
+Ruger 77
+--- 20-04-01 21:23:54
+Phoenix Blaster
+Nickname
+Ruger 77
+--- 20-04-01 21:24:00
+Phoenix Blaster
+Nickname
+Ruger 77
+--- 20-04-01 21:24:08
+Nickname
+Phoenix Blaster
+Barrett M82A1
+--- 20-04-01 21:24:20
+Nickname
+Phoenix Blaster
+Stationary gun
+--- 20-04-01 21:25:24
+Nickname
+Phoenix Blaster
+Chainsaw
+--- 20-04-01 21:25:30
+Phoenix Blaster
+Nickname
+Ruger 77
+--- 20-04-01 22:41:48
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:42:05
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:42:24
+Maxites
+PorkyDan1
+Combat Knife
+--- 20-04-01 22:42:41
+PorkyDan1
+Maxites
+XM214 Minigun
+--- 20-04-01 22:42:49
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:42:56
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:43:06
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:43:29
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:43:43
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:43:56
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:44:02
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:44:12
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 22:44:24
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:44:36
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:44:46
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:44:53
+Bred
+Maxites
+Ak-74
+--- 20-04-01 22:45:11
+PorkyDan1
+Maxites
+Ruger 77
+--- 20-04-01 22:45:21
+Maxites
+PorkyDan1
+Steyr AUG
+--- 20-04-01 22:45:42
+Maxites
+PorkyDan1
+Combat Knife
+--- 20-04-01 22:46:03
+Maxites
+PorkyDan1
+Steyr AUG
+--- 20-04-01 22:46:06
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:46:12
+Maxites
+PorkyDan1
+Steyr AUG
+--- 20-04-01 22:46:24
+Maxites
+PorkyDan1
+Steyr AUG
+--- 20-04-01 22:46:30
+Bred
+Maxites
+Steyr AUG
+--- 20-04-01 22:46:37
+Bred
+S2 ~ patuzhOO*
+Steyr AUG
+--- 20-04-01 22:46:46
+Maxites
+Bred
+Steyr AUG
+--- 20-04-01 22:46:47
+S2 ~ patuzhOO*
+PorkyDan1
+M79
+--- 20-04-01 22:46:54
+Bred
+Maxites
+Steyr AUG
+--- 20-04-01 22:46:55
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:47:02
+S2 ~ patuzhOO*
+PorkyDan1
+M79
+--- 20-04-01 22:47:09
+Bred
+Maxites
+Hands
+--- 20-04-01 22:47:17
+S2 ~ patuzhOO*
+PorkyDan1
+Grenade
+--- 20-04-01 22:47:22
+Maxites
+Bred
+Steyr AUG
+--- 20-04-01 22:47:29
+S2 ~ patuzhOO*
+Bred
+Grenade
+--- 20-04-01 22:47:33
+S2 ~ patuzhOO*
+PorkyDan1
+M79
+--- 20-04-01 22:47:50
+PorkyDan1
+dbreathless
+FN Minimi
+--- 20-04-01 22:47:52
+PorkyDan1
+S2 ~ patuzhOO*
+FN Minimi
+--- 20-04-01 22:48:19
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:48:21
+S2 ~ patuzhOO*
+Maxites
+LAW
+--- 20-04-01 22:48:21
+Maxites
+S2 ~ patuzhOO*
+Steyr AUG
+--- 20-04-01 22:48:37
+S2 ~ patuzhOO*
+PorkyDan1
+M79
+--- 20-04-01 22:48:41
+S2 ~ patuzhOO*
+Maxites
+M79
+--- 20-04-01 22:48:49
+S2 ~ patuzhOO*
+PorkyDan1
+LAW
+--- 20-04-01 22:48:58
+S2 ~ patuzhOO*
+Maxites
+M79
+--- 20-04-01 22:49:01
+Bred
+S2 ~ patuzhOO*
+HK MP5
+--- 20-04-01 22:49:06
+Maxites
+S2 ~ patuzhOO*
+LAW
+--- 20-04-01 22:49:18
+Bred
+S2 ~ patuzhOO*
+HK MP5
+--- 20-04-01 22:49:28
+S2 ~ patuzhOO*
+PorkyDan1
+M79
+--- 20-04-01 22:49:38
+Maxites
+S2 ~ patuzhOO*
+Steyr AUG
+--- 20-04-01 22:49:45
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:49:51
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:50:07
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:50:08
+Maxites
+S2 ~ patuzhOO*
+Grenade
+--- 20-04-01 22:50:15
+S2 ~ patuzhOO*
+Bred
+M79
+--- 20-04-01 22:50:19
+Maxites
+S2 ~ patuzhOO*
+Steyr AUG
+--- 20-04-01 22:50:29
+S2 ~ patuzhOO*
+Maxites
+M79
+--- 20-04-01 22:50:44
+S2 ~ patuzhOO*
+Maxites
+M79
+--- 20-04-01 22:50:49
+S2 ~ patuzhOO*
+S2 ~ patuzhOO*
+LAW
+--- 20-04-01 22:50:49
+S2 ~ patuzhOO*
+Bred
+LAW
+--- 20-04-01 22:51:06
+Maxites
+Maxites
+LAW
+--- 20-04-01 22:51:14
+Maxites
+S2 ~ patuzhOO*
+LAW
+--- 20-04-01 22:51:20
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:51:26
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:51:32
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:51:37
+S2 ~ patuzhOO*
+Bred
+Ruger 77
+--- 20-04-01 22:51:51
+S2 ~ patuzhOO*
+Bred
+Ruger 77
+--- 20-04-01 22:51:51
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:51:58
+S2 ~ patuzhOO*
+Maxites
+Ruger 77
+--- 20-04-01 22:52:12
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:52:21
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:52:25
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:52:58
+S2 ~ patuzhOO*
+Maxites
+Ruger 77
+--- 20-04-01 22:53:07
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:53:18
+S2 ~ patuzhOO*
+Maxites
+Ruger 77
+--- 20-04-01 22:53:19
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:53:25
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:53:31
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:53:36
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:53:43
+S2 ~ patuzhOO*
+Maxites
+Ruger 77
+--- 20-04-01 22:53:44
+Bred
+S2 ~ patuzhOO*
+Ruger 77
+--- 20-04-01 22:53:51
+S2 ~ patuzhOO*
+Bred
+Ruger 77
+--- 20-04-01 22:54:01
+S2 ~ patuzhOO*
+Bred
+Ruger 77
+--- 20-04-01 22:54:03
+S2 ~ patuzhOO*
+PorkyDan1
+Ruger 77
+--- 20-04-01 22:54:05
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:54:20
+S2 ~ patuzhOO*
+Maxites
+Ruger 77
+--- 20-04-01 22:54:22
+S2 ~ patuzhOO*
+Bred
+Ruger 77
+--- 20-04-01 22:54:25
+S2 ~ patuzhOO*
+PorkyDan1
+LAW
+--- 20-04-01 22:54:51
+Maxites
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:55:00
+Bred
+S2 ~ patuzhOO*
+M79
+--- 20-04-01 22:55:06
+PorkyDan1
+S2 ~ patuzhOO*
+Barrett M82A1
+--- 20-04-01 22:55:28
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:55:35
+Bred
+Maxites
+M79
+--- 20-04-01 22:56:14
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:56:39
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:56:51
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:57:08
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 22:57:18
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:57:42
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:58:00
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 22:58:38
+Bred
+Maxites
+Grenade
+--- 20-04-01 22:59:01
+Bred
+Maxites
+M79
+--- 20-04-01 22:59:15
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 22:59:30
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 22:59:39
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 23:00:02
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 23:00:07
+Maxites
+Bred
+Barrett M82A1
+--- 20-04-01 23:00:14
+Bred
+Maxites
+M79
+--- 20-04-01 23:00:24
+PorkyDan1
+~>2Q2C| Kaito
+Barrett M82A1
+--- 20-04-01 23:00:29
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 23:00:29
+Bred
+Bred
+M79
+--- 20-04-01 23:00:36
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:01:28
+Maxites
+Bred
+Grenade
+--- 20-04-01 23:01:45
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 23:02:05
+Bred
+Maxites
+FN Minimi
+--- 20-04-01 23:02:15
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 23:02:26
+Maxites
+PorkyDan1
+Barrett M82A1
+--- 20-04-01 23:02:43
+Bred
+Maxites
+FN Minimi
+--- 20-04-01 23:02:59
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 23:02:59
+Maxites
+Bred
+Ak-74
+--- 20-04-01 23:03:17
+Maxites
+PorkyDan1
+Grenade
+--- 20-04-01 23:03:21
+Maxites
+Bred
+Ak-74
+--- 20-04-01 23:03:32
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:04:01
+Maxites
+PorkyDan1
+Grenade
+--- 20-04-01 23:04:10
+Maxites
+Bred
+Ak-74
+--- 20-04-01 23:04:20
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:04:26
+Bred
+Maxites
+Barrett M82A1
+--- 20-04-01 23:05:11
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:05:16
+Bred
+Maxites
+Barrett M82A1
+--- 20-04-01 23:05:33
+Bred
+Maxites
+Barrett M82A1
+--- 20-04-01 23:05:34
+PWR|URANIO 235
+Bred
+Combat Knife
+--- 20-04-01 23:05:34
+PWR|URANIO 235
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:05:50
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:06:07
+Bred
+Maxites
+Barrett M82A1
+--- 20-04-01 23:06:27
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:06:27
+Bred
+Maxites
+Barrett M82A1
+--- 20-04-01 23:06:35
+Bred
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:06:53
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:07:06
+Maxites
+PorkyDan1
+Ak-74
+--- 20-04-01 23:07:27
+PWR|URANIO 235
+PorkyDan1
+Ruger 77
+--- 20-04-01 23:07:36
+Bred
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:07:40
+Maxites
+Bred
+Ak-74
+--- 20-04-01 23:07:41
+PorkyDan1
+Maxites
+Barrett M82A1
+--- 20-04-01 23:08:15
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:08:19
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:08:21
+Maxites
+Bred
+Ak-74
+--- 20-04-01 23:08:28
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:08:30
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:08:34
+PWR|URANIO 235
+Bred
+Combat Knife
+--- 20-04-01 23:08:37
+PWR|URANIO 235
+PorkyDan1
+Hands
+--- 20-04-01 23:08:40
+Bred
+PWR|URANIO 235
+M79
+--- 20-04-01 23:08:54
+PWR|URANIO 235
+PorkyDan1
+Grenade
+--- 20-04-01 23:08:57
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:09:01
+PWR|URANIO 235
+PWR|URANIO 235
+M79
+--- 20-04-01 23:09:01
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:09:08
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:09:17
+PWR|URANIO 235
+Bred
+Grenade
+--- 20-04-01 23:09:18
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:09:24
+PWR|URANIO 235
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:09:37
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:09:42
+PWR|URANIO 235
+Maxites
+Grenade
+--- 20-04-01 23:09:42
+PWR|URANIO 235
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:09:48
+PWR|URANIO 235
+PorkyDan1
+Ruger 77
+--- 20-04-01 23:09:50
+Bred
+PWR|URANIO 235
+M79
+--- 20-04-01 23:09:57
+Bred
+PWR|URANIO 235
+M79
+--- 20-04-01 23:10:13
+PWR|URANIO 235
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:10:21
+Bred
+Bred
+M79
+--- 20-04-01 23:10:25
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:10:36
+Bred
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:10:46
+PWR|URANIO 235
+PorkyDan1
+Grenade
+--- 20-04-01 23:10:50
+PWR|URANIO 235
+Bred
+Combat Knife
+--- 20-04-01 23:10:55
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:11:00
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:11:00
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:11:07
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:11:09
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:11:09
+PWR|URANIO 235
+PorkyDan1
+Grenade
+--- 20-04-01 23:11:36
+PWR|URANIO 235
+Maxites
+Combat Knife
+--- 20-04-01 23:11:47
+Maxites
+PWR|URANIO 235
+Steyr AUG
+--- 20-04-01 23:11:51
+PWR|URANIO 235
+Bred
+Combat Knife
+--- 20-04-01 23:12:01
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:12:06
+PWR|URANIO 235
+Bred
+Combat Knife
+--- 20-04-01 23:12:13
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:12:15
+Maxites
+PWR|URANIO 235
+Steyr AUG
+--- 20-04-01 23:12:21
+PWR|URANIO 235
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:12:30
+Maxites
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:12:37
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:12:44
+PWR|URANIO 235
+Maxites
+Grenade
+--- 20-04-01 23:12:44
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:12:51
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:12:57
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:13:01
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:13:05
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:13:05
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:13:13
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:13:16
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:13:29
+PWR|URANIO 235
+Maxites
+Combat Knife
+--- 20-04-01 23:13:30
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:13:37
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:13:41
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:13:43
+Bred
+Bred
+Grenade
+--- 20-04-01 23:13:51
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:14:08
+PWR|URANIO 235
+Maxites
+Steyr AUG
+--- 20-04-01 23:14:11
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:14:24
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:14:32
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:14:37
+Bred
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:14:49
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:15:19
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:15:29
+Bred
+PWR|URANIO 235
+M79
+--- 20-04-01 23:15:30
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:15:44
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:15:51
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:15:57
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:16:00
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:16:09
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:16:16
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:16:21
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:16:41
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:16:41
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:16:57
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:16:57
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:16:58
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:17:05
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:17:10
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:17:17
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:17:22
+PWR|URANIO 235
+Bred
+Grenade
+--- 20-04-01 23:17:34
+PWR|URANIO 235
+Bred
+M79
+--- 20-04-01 23:17:47
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:17:54
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:18:20
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:18:26
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:18:34
+PWR|URANIO 235
+PWR|URANIO 235
+Selfkill
+--- 20-04-01 23:18:41
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:03
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:09
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:18
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:28
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:37
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:49
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:19:55
+Maxites
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:20:01
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:20:04
+anibalfuentesnaipil
+Maxites
+Ak-74
+--- 20-04-01 23:20:10
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:20:17
+anibalfuentesnaipil
+PorkyDan1
+Ak-74
+--- 20-04-01 23:20:21
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:20:25
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:20:30
+Maxites
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:20:43
+Jaedong-ChL
+PWR|URANIO 235
+USSOCOM
+--- 20-04-01 23:20:45
+Jaedong-ChL
+anibalfuentesnaipil
+USSOCOM
+--- 20-04-01 23:20:53
+anibalfuentesnaipil
+Jaedong-ChL
+Ak-74
+--- 20-04-01 23:20:56
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:21:00
+PorkyDan1
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:21:05
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:21:11
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:21:12
+Jaedong-ChL
+anibalfuentesnaipil
+FN Minimi
+--- 20-04-01 23:21:17
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:21:25
+Jaedong-ChL
+anibalfuentesnaipil
+FN Minimi
+--- 20-04-01 23:21:27
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:21:31
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:21:37
+Jaedong-ChL
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:21:38
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:21:45
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:21:46
+anibalfuentesnaipil
+Jaedong-ChL
+M79
+--- 20-04-01 23:21:53
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:21:59
+Jaedong-ChL
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:22:02
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:22:09
+Jaedong-ChL
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:22:13
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:22:25
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:22:40
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:22:40
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:22:44
+anibalfuentesnaipil
+Jaedong-ChL
+FN Minimi
+--- 20-04-01 23:22:49
+Maxites
+anibalfuentesnaipil
+Combat Knife
+--- 20-04-01 23:22:53
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:23:17
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:23:22
+PWR|URANIO 235
+PWR|URANIO 235
+M79
+--- 20-04-01 23:23:27
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:23:32
+Maxites
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:23:35
+PorkyDan1
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:23:46
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:23:52
+anibalfuentesnaipil
+PorkyDan1
+Spas-12
+--- 20-04-01 23:23:58
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:23:59
+PWR|URANIO 235
+Jaedong-ChL
+Combat Knife
+--- 20-04-01 23:24:01
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:24:08
+anibalfuentesnaipil
+Maxites
+Spas-12
+--- 20-04-01 23:24:11
+Jaedong-ChL
+PWR|URANIO 235
+Grenade
+--- 20-04-01 23:24:17
+Maxites
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:24:21
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:24:24
+Jaedong-ChL
+PWR|URANIO 235
+Desert Eagles
+--- 20-04-01 23:24:28
+Maxites
+Maxites
+Grenade
+--- 20-04-01 23:24:30
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:24:42
+Maxites
+PWR|URANIO 235
+Combat Knife
+--- 20-04-01 23:24:42
+Jaedong-ChL
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:24:50
+Maxites
+PWR|URANIO 235
+Combat Knife
+--- 20-04-01 23:25:01
+PWR|URANIO 235
+Jaedong-ChL
+M79
+--- 20-04-01 23:25:06
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:25:06
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:25:26
+Maxites
+PWR|URANIO 235
+Combat Knife
+--- 20-04-01 23:25:26
+PWR|URANIO 235
+Maxites
+Grenade
+--- 20-04-01 23:25:38
+Maxites
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:25:41
+PWR|URANIO 235
+PorkyDan1
+Combat Knife
+--- 20-04-01 23:25:48
+PorkyDan1
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:25:48
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:25:55
+Maxites
+PWR|URANIO 235
+Combat Knife
+--- 20-04-01 23:25:58
+PorkyDan1
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:26:04
+PWR|URANIO 235
+PorkyDan1
+M79
+--- 20-04-01 23:26:07
+PWR|URANIO 235
+Maxites
+Combat Knife
+--- 20-04-01 23:26:14
+Maxites
+PWR|URANIO 235
+Barrett M82A1
+--- 20-04-01 23:26:20
+Jaedong-ChL
+PorkyDan1
+Steyr AUG
+--- 20-04-01 23:26:27
+Jaedong-ChL
+Maxites
+Steyr AUG
+--- 20-04-01 23:26:33
+PWR|URANIO 235
+Maxites
+M79
+--- 20-04-01 23:26:44
+Jaedong-ChL
+PorkyDan1
+Hands
+--- 20-04-01 23:27:06
+Jaedong-ChL
+Maxites
+Hands
+--- 20-04-01 23:27:12
+PWR|URANIO 235
+Maxites
+Combat Knife
+--- 20-04-01 23:27:59
+Major
+Jaedong-ChL
+HK MP5
+--- 20-04-01 23:28:16
+Major
+Jaedong-ChL
+HK MP5
+--- 20-04-01 23:28:16
+Jaedong-ChL
+Major
+Spas-12
+--- 20-04-01 23:28:19
+PWR|URANIO 235
+Jaedong-ChL
+M79
+--- 20-04-01 23:28:26
+Major
+anibalfuentesnaipil
+HK MP5
+--- 20-04-01 23:28:33
+Major
+Jaedong-ChL
+HK MP5
+--- 20-04-01 23:28:40
+Major
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:28:43
+Major
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:28:53
+Jaedong-ChL
+PWR|URANIO 235
+Spas-12
+--- 20-04-01 23:29:06
+Major
+Jaedong-ChL
+HK MP5
+--- 20-04-01 23:29:11
+Major
+anibalfuentesnaipil
+HK MP5
+--- 20-04-01 23:29:31
+Major
+anibalfuentesnaipil
+HK MP5
+--- 20-04-01 23:29:42
+Major
+Jaedong-ChL
+HK MP5
+--- 20-04-01 23:31:35
+Jaedong-ChL
+anibalfuentesnaipil
+Steyr AUG
+--- 20-04-01 23:32:05
+Jaedong-ChL
+anibalfuentesnaipil
+Steyr AUG
+--- 20-04-01 23:32:28
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:32:33
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:33:09
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:33:09
+Jaedong-ChL
+anibalfuentesnaipil
+USSOCOM
+--- 20-04-01 23:33:25
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:33:41
+Jaedong-ChL
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:33:49
+Jaedong-ChL
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:33:58
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:34:12
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:34:24
+Jaedong-ChL
+anibalfuentesnaipil
+Steyr AUG
+--- 20-04-01 23:34:45
+Jaedong-ChL
+anibalfuentesnaipil
+USSOCOM
+--- 20-04-01 23:35:02
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:35:09
+Jaedong-ChL
+anibalfuentesnaipil
+Ak-74
+--- 20-04-01 23:36:12
+Jaedong-ChL
+anibalfuentesnaipil
+FN Minimi
+--- 20-04-01 23:36:14
+Jaedong-ChL
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:36:34
+Jaedong-ChL
+anibalfuentesnaipil
+M79
+--- 20-04-01 23:36:39
+Jaedong-ChL
+anibalfuentesnaipil
+M79
+--- 20-04-01 23:36:52
+anibalfuentesnaipil
+Jaedong-ChL
+M79
+--- 20-04-01 23:37:29
+Jaedong-ChL
+anibalfuentesnaipil
+USSOCOM
+--- 20-04-01 23:37:29
+anibalfuentesnaipil
+Jaedong-ChL
+M79
+--- 20-04-01 23:37:50
+anibalfuentesnaipil
+Jaedong-ChL
+M79
+--- 20-04-01 23:37:51
+Jaedong-ChL
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:38:02
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:38:17
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:38:24
+Jaedong-ChL
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:38:28
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:38:39
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:38:45
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:38:55
+anibalfuentesnaipil
+Jaedong-ChL
+Spas-12
+--- 20-04-01 23:39:09
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:39:14
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:39:21
+Jaedong-ChL
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:39:30
+Jaedong-ChL
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:39:37
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:39:45
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:41:01
+Mr OZ
+Jaedong-ChL
+Hands
+--- 20-04-01 23:41:18
+Jaedong-ChL
+anibalfuentesnaipil
+USSOCOM
+--- 20-04-01 23:41:27
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:41:35
+Mr OZ
+Jaedong-ChL
+LAW
+--- 20-04-01 23:41:39
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:41:59
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:42:12
+Jaedong-ChL
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:42:15
+Jaedong-ChL
+Mr OZ
+Steyr AUG
+--- 20-04-01 23:42:23
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:42:30
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:42:41
+Jaedong-ChL
+Mr OZ
+Ruger 77
+--- 20-04-01 23:42:51
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:43:04
+Jaedong-ChL
+anibalfuentesnaipil
+Spas-12
+--- 20-04-01 23:43:05
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:43:19
+anibalfuentesnaipil
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:43:21
+Jaedong-ChL
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:43:32
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:43:45
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:43:55
+anibalfuentesnaipil
+Jaedong-ChL
+Ruger 77
+--- 20-04-01 23:44:00
+Jaedong-ChL
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:44:19
+anibalfuentesnaipil
+Mr OZ
+Spas-12
+--- 20-04-01 23:44:25
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:44:50
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:45:02
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:45:07
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:45:10
+Jaedong-ChL
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:45:35
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:45:42
+Mr OZ
+Mr OZ
+Grenade
+--- 20-04-01 23:45:49
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:45:56
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:46:02
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:46:11
+Mr OZ
+Mr OZ
+Grenade
+--- 20-04-01 23:46:17
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:46:31
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:46:40
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:46:45
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:47:52
+anibalfuentesnaipil
+Mr OZ
+M79
+--- 20-04-01 23:47:59
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:48:10
+Jaedong-ChL
+Mr OZ
+Grenade
+--- 20-04-01 23:48:21
+Mr OZ
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:48:28
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:48:32
+anibalfuentesnaipil
+Mr OZ
+M79
+--- 20-04-01 23:48:57
+anibalfuentesnaipil
+anibalfuentesnaipil
+M79
+--- 20-04-01 23:48:57
+anibalfuentesnaipil
+Mr OZ
+M79
+--- 20-04-01 23:49:06
+Jaedong-ChL
+Mr OZ
+Steyr AUG
+--- 20-04-01 23:49:13
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:49:13
+anibalfuentesnaipil
+Mr OZ
+M79
+--- 20-04-01 23:49:24
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:49:29
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:49:49
+Jaedong-ChL
+Mr OZ
+Grenade
+--- 20-04-01 23:49:56
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:50:00
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:50:08
+Jaedong-ChL
+Mr OZ
+Steyr AUG
+--- 20-04-01 23:50:40
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:50:48
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:51:04
+Jaedong-ChL
+Mr OZ
+Steyr AUG
+--- 20-04-01 23:51:20
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:51:27
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:52:04
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:52:09
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:52:50
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:52:52
+Mr OZ
+anibalfuentesnaipil
+LAW
+--- 20-04-01 23:53:11
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:53:15
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:53:26
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:54:17
+Mr OZ
+Jaedong-ChL
+LAW
+--- 20-04-01 23:54:27
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:54:28
+Jaedong-ChL
+Mr OZ
+XM214 Minigun
+--- 20-04-01 23:55:06
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:55:09
+Mr OZ
+anibalfuentesnaipil
+LAW
+--- 20-04-01 23:55:09
+anibalfuentesnaipil
+Mr OZ
+Spas-12
+--- 20-04-01 23:55:41
+Mr OZ
+anibalfuentesnaipil
+Grenade
+--- 20-04-01 23:56:02
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:56:07
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:56:09
+Mr OZ
+anibalfuentesnaipil
+LAW
+--- 20-04-01 23:56:33
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:56:39
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:56:44
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:57:06
+Mr OZ
+anibalfuentesnaipil
+LAW
+--- 20-04-01 23:57:18
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:57:24
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:57:28
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:57:30
+anibalfuentesnaipil
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:57:53
+anibalfuentesnaipil
+Mr OZ
+Barrett M82A1
+--- 20-04-01 23:58:31
+Jaedong-ChL
+Mr OZ
+Steyr AUG
+--- 20-04-01 23:58:41
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:58:47
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-01 23:59:00
+anibalfuentesnaipil
+Mr OZ
+Spas-12
+--- 20-04-01 23:59:07
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-01 23:59:22
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-01 23:59:30
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-01 23:59:41
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-01 23:59:52
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-01 23:59:58
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-02 00:00:00
+Jaedong-ChL
+misf!t
+Barrett M82A1
+--- 20-04-02 00:00:08
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-02 00:00:15
+misf!t
+anibalfuentesnaipil
+Combat Knife
+--- 20-04-02 00:00:21
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-02 00:00:22
+misf!t
+Jaedong-ChL
+Hands
+--- 20-04-02 00:00:44
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-02 00:00:54
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-02 00:01:01
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-02 00:01:06
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-02 00:01:09
+misf!t
+Jaedong-ChL
+Combat Knife
+--- 20-04-02 00:01:15
+misf!t
+Jaedong-ChL
+Combat Knife
+--- 20-04-02 00:01:17
+anibalfuentesnaipil
+misf!t
+Spas-12
+--- 20-04-02 00:01:26
+Jaedong-ChL
+Mr OZ
+Ak-74
+--- 20-04-02 00:01:32
+misf!t
+anibalfuentesnaipil
+Combat Knife
+--- 20-04-02 00:01:37
+misf!t
+Jaedong-ChL
+Combat Knife
+--- 20-04-02 00:01:45
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:01:52
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-02 00:02:08
+misf!t
+anibalfuentesnaipil
+Grenade
+--- 20-04-02 00:02:19
+misf!t
+Jaedong-ChL
+Hands
+--- 20-04-02 00:02:23
+Mr OZ
+anibalfuentesnaipil
+Barrett M82A1
+--- 20-04-02 00:02:30
+Mr OZ
+Jaedong-ChL
+Grenade
+--- 20-04-02 00:02:35
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:02:40
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:02:44
+Jaedong-ChL
+misf!t
+Steyr AUG
+--- 20-04-02 00:02:49
+Mr OZ
+Jaedong-ChL
+Hands
+--- 20-04-02 00:02:53
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:02:57
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:03:01
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:03:05
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:03:09
+Mr OZ
+Jaedong-ChL
+Barrett M82A1
+--- 20-04-02 00:03:16
+Jaedong-ChL
+Mr OZ
+Spas-12

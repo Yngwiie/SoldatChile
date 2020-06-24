@@ -1,0 +1,23 @@
+20-02-12 09:24:07    Console Log Started
+20-02-12 09:24:07 Welcome to Soldat 1.7.1
+20-02-12 09:24:07  [*] Preparing scripts to be launched
+20-02-12 09:24:07  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 09:24:07  [*] commands_by_keen compiled
+20-02-12 09:24:07  [*] Compiling matchreporter -> match.pas...
+20-02-12 09:24:07  [*] matchreporter compiled
+20-02-12 09:24:07  [*] Done
+20-02-12 09:24:07 ctf_Ash by chakapoko maker
+20-02-12 09:24:07  Connection for file server started. Port: 23110
+20-02-12 09:24:08 Registering server @ 88.99.234.252
+20-02-12 09:24:26 190.107.226.45:53115|2CAF32344FB requesting game...
+20-02-12 09:24:27 |X.Forc3|.Prueba joining game (190.107.226.45:53115) HWID:2CAF32344FB
+20-02-12 09:24:27 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:24:35 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:24:35 Next map: ctf_B2b
+20-02-12 09:24:40 B2B
+20-02-12 09:26:28 |X.Forc3|.Prueba gets a ping warning
+20-02-12 09:26:35 |X.Forc3|.Prueba gets a ping warning
+20-02-12 09:26:42 |X.Forc3|.Prueba gets a ping warning
+20-02-12 09:26:49 |X.Forc3|.Prueba gets a ping warning
+20-02-12 09:26:52 |X.Forc3|.Prueba could not respond
+20-02-12 09:26:52 Server password changed to scl

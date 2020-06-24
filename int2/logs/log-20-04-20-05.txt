@@ -1,0 +1,27 @@
+20-04-20 22:01:52    Log Started
+20-04-20 22:01:52 Opened /home/kader_b/int2/soldat.ini
+20-04-20 22:01:52 Creating network interface.
+20-04-20 22:01:52 Loading Animations.
+20-04-20 22:01:52 Loading Lobby Servers List
+20-04-20 22:01:52 Loading Maps List
+20-04-20 22:01:52 Loading Map.
+20-04-20 22:01:52 Creating Weapons.
+20-04-20 22:01:52 Starting Game Server.
+20-04-20 22:01:52 TCP/IP File Server started
+20-04-20 22:31:52 TCP/IP File Server started
+20-04-20 23:01:52 TCP/IP File Server started
+20-04-20 23:31:52 TCP/IP File Server started
+20-04-20 23:35:09  Net - =E*R= KillMe! connected 20-4-20 23:35:09
+20-04-20 23:35:34  Net - =E*R= KillMe! disconnected 20-4-20 23:35:34
+20-04-21 00:01:52 TCP/IP File Server started
+20-04-21 00:14:37  Net - .:{MIS}:. Leche connected 21-4-20 00:14:37
+20-04-21 00:14:39  Net - .:{MIS}:. Leche disconnected 21-4-20 00:14:39
+20-04-21 00:31:52 TCP/IP File Server started
+20-04-21 00:56:00  Net - Kozk |INS| connected 21-4-20 00:56:00
+20-04-21 00:56:02  Net - Kozk |INS| disconnected 21-4-20 00:56:02
+20-04-21 01:01:52 TCP/IP File Server started
+20-04-21 01:31:52 TCP/IP File Server started
+20-04-21 02:01:52 TCP/IP File Server started
+20-04-21 02:31:52 TCP/IP File Server started
+20-04-21 03:01:52 TCP/IP File Server started
+20-04-21 03:32:45 TCP/IP File Server started

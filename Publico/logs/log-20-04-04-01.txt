@@ -1,0 +1,37 @@
+20-04-04 13:10:44    Log Started
+20-04-04 13:10:44 Opened C:\Users\Administrador\Desktop\Publico\soldat.ini
+20-04-04 13:25:19 TCP/IP File Server started
+20-04-04 13:36:05  Net - LB ~ Skipo connected 04-04-2020 13:36:05
+20-04-04 13:36:46  Net - LB ~ Skipo disconnected 04-04-2020 13:36:46
+20-04-04 13:36:50  Net - LB ~ Skipo connected 04-04-2020 13:36:50
+20-04-04 13:37:51  Net - LB ~ Skipo disconnected 04-04-2020 13:37:51
+20-04-04 13:55:19 TCP/IP File Server started
+20-04-04 14:12:26  Net - FernetConMANAOS connected 04-04-2020 14:12:26
+20-04-04 14:15:06  Net - FernetConMANAOS disconnected 04-04-2020 14:15:06
+20-04-04 14:19:19  Net - Gonsas connected 04-04-2020 14:19:19
+20-04-04 14:19:23  Net - Gonsas disconnected 04-04-2020 14:19:23
+20-04-04 14:22:34  Net - Major connected 04-04-2020 14:22:34
+20-04-04 14:23:23  Net - Major disconnected 04-04-2020 14:23:23
+20-04-04 14:25:19 TCP/IP File Server started
+20-04-04 14:39:11  Net - Squash connected 04-04-2020 14:39:11
+20-04-04 14:40:05  Net - Squash disconnected 04-04-2020 14:40:05
+20-04-04 14:55:19 TCP/IP File Server started
+20-04-04 14:56:03  Net - CLSource connected 04-04-2020 14:56:03
+20-04-04 14:58:59  Net - CLSource disconnected 04-04-2020 14:58:59
+20-04-04 15:25:19 TCP/IP File Server started
+20-04-04 15:55:19 TCP/IP File Server started
+20-04-04 16:25:19 TCP/IP File Server started
+20-04-04 16:33:35  Net - UnForGiveN* connected 04-04-2020 16:33:35
+20-04-04 16:37:21  Net - UnForGiveN* disconnected 04-04-2020 16:37:21
+20-04-04 16:55:05  Net - RatzorcL connected 04-04-2020 16:55:05
+20-04-04 16:55:19 TCP/IP File Server started
+20-04-04 16:55:31  Net - RatzorcL disconnected 04-04-2020 16:55:31
+20-04-04 16:57:11  Net - RatzorcL connected 04-04-2020 16:57:11
+20-04-04 16:58:57  Net - SUPER DICK connected 04-04-2020 16:58:57
+20-04-04 16:59:00  Net - KaimaGaming connected 04-04-2020 16:59:00
+20-04-04 17:02:43  Net - KaimaGaming disconnected 04-04-2020 17:02:43
+20-04-04 17:06:02  Net - RatzorcL disconnected 04-04-2020 17:06:02
+20-04-04 17:06:32  Net - SUPER DICK disconnected 04-04-2020 17:06:32
+20-04-04 17:20:38  Net - xilouwow connected 04-04-2020 17:20:38
+20-04-04 17:21:05  Net - xilouwow disconnected 04-04-2020 17:21:05
+20-04-04 17:25:19 TCP/IP File Server started

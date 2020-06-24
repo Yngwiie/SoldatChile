@@ -1,0 +1,189 @@
+20-05-22 17:43:11    Log Started
+20-05-22 17:43:11 Opened /home/kader_b/Publico/soldat.ini
+20-05-22 17:43:28  Net - [MMC] s4r disconnected 22-5-20 17:43:28
+20-05-22 17:43:32  Net - m.e.yusubov disconnected 22-5-20 17:43:32
+20-05-22 17:44:14  Net - NaXo.COB disconnected 22-5-20 17:44:14
+20-05-22 17:44:19  Net - ~>PuT'Z<~ GArrucHA connected 22-5-20 17:44:19
+20-05-22 17:45:16 TCP/IP File Server started
+20-05-22 17:50:33  Net - |R| Amarilla connected 22-5-20 17:50:33
+20-05-22 17:51:53  Net - |R| Amarilla disconnected 22-5-20 17:51:53
+20-05-22 17:53:38  Net - <UC> Sacola <UC> disconnected 22-5-20 17:53:38
+20-05-22 17:53:43  Net - ~>PuT'Z<~ GArrucHA disconnected 22-5-20 17:53:43
+20-05-22 17:55:19  Net - |R| Amarilla connected 22-5-20 17:55:19
+20-05-22 17:55:43  Net - |R| Amarilla disconnected 22-5-20 17:55:43
+20-05-22 18:15:16 TCP/IP File Server started
+20-05-22 18:45:16 TCP/IP File Server started
+20-05-22 19:15:16 TCP/IP File Server started
+20-05-22 19:45:16 TCP/IP File Server started
+20-05-22 19:46:42  Net - NaXo.COB connected 22-5-20 19:46:42
+20-05-22 19:49:27  Net - -=BloodLust=- connected 22-5-20 19:49:27
+20-05-22 19:50:09  Net - LapizMina connected 22-5-20 19:50:09
+20-05-22 19:51:11  Net - Cuack connected 22-5-20 19:51:11
+20-05-22 19:51:49  Net - TiTi connected 22-5-20 19:51:49
+20-05-22 19:52:26  Net - LapizMina disconnected 22-5-20 19:52:26
+20-05-22 19:52:30  Net - Cuack connected 22-5-20 19:52:30
+20-05-22 19:53:24  Net - -=BloodLust=- disconnected 22-5-20 19:53:24
+20-05-22 19:53:50  Net - Efa ~* TaInchock connected 22-5-20 19:53:50
+20-05-22 19:53:57  Net - |R| Blanca connected 22-5-20 19:53:57
+20-05-22 19:54:04  Net - |R| Blanca connected 22-5-20 19:54:04
+20-05-22 19:54:13  Net - FrLN! connected 22-5-20 19:54:13
+20-05-22 19:59:54  Net - NaXo.COB disconnected 22-5-20 19:59:54
+20-05-22 20:02:10  Net - |R| Blanca disconnected 22-5-20 20:02:10
+20-05-22 20:05:45  Net - Cuack disconnected 22-5-20 20:05:45
+20-05-22 20:05:57  Net - |R| Blanca connected 22-5-20 20:05:57
+20-05-22 20:12:52  Net - reillywashere1 connected 22-5-20 20:12:52
+20-05-22 20:13:23  Net - |R| Blanca disconnected 22-5-20 20:13:23
+20-05-22 20:14:16  Net - reillywashere1 disconnected 22-5-20 20:14:16
+20-05-22 20:14:45  Net - FrLN! disconnected 22-5-20 20:14:45
+20-05-22 20:14:50  Net - Efa ~* TaInchock disconnected 22-5-20 20:14:50
+20-05-22 20:14:55  Net - TiTi disconnected 22-5-20 20:14:55
+20-05-22 20:15:16 TCP/IP File Server started
+20-05-22 20:33:34  Net - NaXo.COB connected 22-5-20 20:33:34
+20-05-22 20:40:53  Net - NaXo.COB disconnected 22-5-20 20:40:53
+20-05-22 20:45:16 TCP/IP File Server started
+20-05-22 21:15:16 TCP/IP File Server started
+20-05-22 21:45:16 TCP/IP File Server started
+20-05-22 22:15:16 TCP/IP File Server started
+20-05-22 22:45:16 TCP/IP File Server started
+20-05-22 23:15:16 TCP/IP File Server started
+20-05-22 23:45:16 TCP/IP File Server started
+20-05-23 00:11:38  Net - punhepeiro connected 23-5-20 00:11:38
+20-05-23 00:12:01  Net - punhepeiro disconnected 23-5-20 00:12:01
+20-05-23 00:12:10  Net - punhepeiro connected 23-5-20 00:12:10
+20-05-23 00:12:15  Net - punhepeiro disconnected 23-5-20 00:12:15
+20-05-23 00:12:30  Net - punhepeiro connected 23-5-20 00:12:30
+20-05-23 00:12:35  Net - punhepeiro disconnected 23-5-20 00:12:35
+20-05-23 00:15:16 TCP/IP File Server started
+20-05-23 00:45:16 TCP/IP File Server started
+20-05-23 01:07:02  Net - onitnaS connected 23-5-20 01:07:02
+20-05-23 01:08:03  Net - onitnaS disconnected 23-5-20 01:08:03
+20-05-23 01:15:16 TCP/IP File Server started
+20-05-23 01:45:16 TCP/IP File Server started
+20-05-23 02:15:16 TCP/IP File Server started
+20-05-23 02:45:16 TCP/IP File Server started
+20-05-23 03:15:16 TCP/IP File Server started
+20-05-23 03:45:16 TCP/IP File Server started
+20-05-23 04:01:11  Net - Pony Pisador connected 23-5-20 04:01:11
+20-05-23 04:01:51  Net - Pony Pisador disconnected 23-5-20 04:01:51
+20-05-23 04:15:16 TCP/IP File Server started
+20-05-23 04:45:16 TCP/IP File Server started
+20-05-23 05:15:16 TCP/IP File Server started
+20-05-23 05:45:16 TCP/IP File Server started
+20-05-23 06:15:16 TCP/IP File Server started
+20-05-23 06:45:16 TCP/IP File Server started
+20-05-23 07:15:16 TCP/IP File Server started
+20-05-23 07:45:16 TCP/IP File Server started
+20-05-23 08:15:16 TCP/IP File Server started
+20-05-23 08:45:16 TCP/IP File Server started
+20-05-23 09:15:16 TCP/IP File Server started
+20-05-23 09:45:55 TCP/IP File Server started
+20-05-23 10:15:55 TCP/IP File Server started
+20-05-23 10:45:55 TCP/IP File Server started
+20-05-23 11:15:55 TCP/IP File Server started
+20-05-23 11:45:55 TCP/IP File Server started
+20-05-23 12:15:55 TCP/IP File Server started
+20-05-23 12:45:55 TCP/IP File Server started
+20-05-23 13:15:55 TCP/IP File Server started
+20-05-23 13:45:55 TCP/IP File Server started
+20-05-23 14:15:55 TCP/IP File Server started
+20-05-23 14:25:49  Net - icarofaria connected 23-5-20 14:25:49
+20-05-23 14:26:11  Net - icarofaria disconnected 23-5-20 14:26:11
+20-05-23 14:45:55 TCP/IP File Server started
+20-05-23 15:15:55 TCP/IP File Server started
+20-05-23 15:45:55 TCP/IP File Server started
+20-05-23 16:15:55 TCP/IP File Server started
+20-05-23 16:45:55 TCP/IP File Server started
+20-05-23 17:15:55 TCP/IP File Server started
+20-05-23 17:36:54  Net - |R| Amarilla connected 23-5-20 17:36:54
+20-05-23 17:44:07  Net - |R| Amarilla disconnected 23-5-20 17:44:07
+20-05-23 17:45:55 TCP/IP File Server started
+20-05-23 17:49:58  Net - A connected 23-5-20 17:49:58
+20-05-23 17:51:19  Net - A disconnected 23-5-20 17:51:19
+20-05-23 18:15:55 TCP/IP File Server started
+20-05-23 18:45:55 TCP/IP File Server started
+20-05-23 19:15:55 TCP/IP File Server started
+20-05-23 19:45:55 TCP/IP File Server started
+20-05-23 19:54:14  Net - |R| Amarilla connected 23-5-20 19:54:14
+20-05-23 19:57:31  Net - |R| Amarilla disconnected 23-5-20 19:57:31
+20-05-23 19:58:59  Net - | a | a R connected 23-5-20 19:58:59
+20-05-23 19:59:01  Net - | a | a R disconnected 23-5-20 19:59:01
+20-05-23 20:15:55 TCP/IP File Server started
+20-05-23 20:45:55 TCP/IP File Server started
+20-05-23 21:15:55 TCP/IP File Server started
+20-05-23 21:45:55 TCP/IP File Server started
+20-05-23 22:15:55 TCP/IP File Server started
+20-05-23 22:45:55 TCP/IP File Server started
+20-05-23 23:15:55 TCP/IP File Server started
+20-05-23 23:45:55 TCP/IP File Server started
+20-05-24 00:11:41  Net - ndeah22 connected 24-5-20 00:11:41
+20-05-24 00:11:48  Net - ndeah22 disconnected 24-5-20 00:11:48
+20-05-24 00:15:55 TCP/IP File Server started
+20-05-24 00:45:55 TCP/IP File Server started
+20-05-24 01:15:55 TCP/IP File Server started
+20-05-24 01:45:55 TCP/IP File Server started
+20-05-24 02:15:55 TCP/IP File Server started
+20-05-24 02:45:55 TCP/IP File Server started
+20-05-24 03:15:55 TCP/IP File Server started
+20-05-24 03:31:56  Net - Emily Ratajkowski connected 24-5-20 03:31:56
+20-05-24 03:32:26  Net - i|VanscL connected 24-5-20 03:32:26
+20-05-24 03:33:05  Net - i|VanscL disconnected 24-5-20 03:33:05
+20-05-24 03:33:06  Net - Emily Ratajkowski disconnected 24-5-20 03:33:06
+20-05-24 03:45:55 TCP/IP File Server started
+20-05-24 04:15:55 TCP/IP File Server started
+20-05-24 04:45:55 TCP/IP File Server started
+20-05-24 04:50:57  Net - i|VanscL connected 24-5-20 04:50:57
+20-05-24 04:52:38  Net - i|VanscL disconnected 24-5-20 04:52:38
+20-05-24 05:15:55 TCP/IP File Server started
+20-05-24 05:45:55 TCP/IP File Server started
+20-05-24 05:52:58  Net - #1. Breaki connected 24-5-20 05:52:58
+20-05-24 05:53:00  Net - #1. Breaki disconnected 24-5-20 05:53:00
+20-05-24 06:09:38  Net - wp.rattle connected 24-5-20 06:09:38
+20-05-24 06:10:03  Net - wp.rattle disconnected 24-5-20 06:10:03
+20-05-24 06:15:55 TCP/IP File Server started
+20-05-24 06:45:55 TCP/IP File Server started
+20-05-24 06:51:19  Net - Sade connected 24-5-20 06:51:19
+20-05-24 06:53:36  Net - Chuto longo connected 24-5-20 06:53:36
+20-05-24 06:53:37  Net - LECHOSO connected 24-5-20 06:53:37
+20-05-24 07:12:35  Net - #2 VanscL connected 24-5-20 07:12:35
+20-05-24 07:14:46  Net - #2 VanscL disconnected 24-5-20 07:14:46
+20-05-24 07:15:55 TCP/IP File Server started
+20-05-24 07:16:44  Net - Dununba connected 24-5-20 07:16:44
+20-05-24 07:18:23  Net - Dununba disconnected 24-5-20 07:18:23
+20-05-24 07:18:25  Net - LECHOSO disconnected 24-5-20 07:18:25
+20-05-24 07:18:31  Net - Chuto longo disconnected 24-5-20 07:18:31
+20-05-24 07:18:52  Net - Sade disconnected 24-5-20 07:18:52
+20-05-24 07:45:55 TCP/IP File Server started
+20-05-24 08:15:55 TCP/IP File Server started
+20-05-24 08:45:55 TCP/IP File Server started
+20-05-24 09:15:55 TCP/IP File Server started
+20-05-24 09:45:55 TCP/IP File Server started
+20-05-24 10:15:55 TCP/IP File Server started
+20-05-24 10:45:55 TCP/IP File Server started
+20-05-24 11:15:55 TCP/IP File Server started
+20-05-24 11:39:38  Net - patcharee.tonglungsuk connected 24-5-20 11:39:38
+20-05-24 11:41:09  Net - patcharee.tonglungsuk disconnected 24-5-20 11:41:09
+20-05-24 11:45:55 TCP/IP File Server started
+20-05-24 12:15:55 TCP/IP File Server started
+20-05-24 12:45:55 TCP/IP File Server started
+20-05-24 13:15:55 TCP/IP File Server started
+20-05-24 13:45:55 TCP/IP File Server started
+20-05-24 14:15:55 TCP/IP File Server started
+20-05-24 14:23:58  Net - ndeah22 connected 24-5-20 14:23:58
+20-05-24 14:28:26  Net - ndeah22 disconnected 24-5-20 14:28:26
+20-05-24 14:45:55 TCP/IP File Server started
+20-05-24 15:15:55 TCP/IP File Server started
+20-05-24 15:45:55 TCP/IP File Server started
+20-05-24 16:15:55 TCP/IP File Server started
+20-05-24 16:28:36  Net - Chileno connected 24-5-20 16:28:36
+20-05-24 16:29:07  Net - Chileno disconnected 24-5-20 16:29:07
+20-05-24 16:45:55 TCP/IP File Server started
+20-05-24 17:00:05  Net - Miorio connected 24-5-20 17:00:05
+20-05-24 17:00:28  Net - Miorio disconnected 24-5-20 17:00:28
+20-05-24 17:15:55 TCP/IP File Server started
+20-05-24 17:45:55 TCP/IP File Server started
+20-05-24 18:15:55 TCP/IP File Server started
+20-05-24 18:45:55 TCP/IP File Server started
+20-05-24 19:15:55 TCP/IP File Server started
+20-05-24 19:45:55 TCP/IP File Server started
+20-05-24 19:49:33 Destroying Devices.
+20-05-24 19:49:33    End of Log.

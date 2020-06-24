@@ -1,0 +1,194 @@
+20-05-29 23:25:01    Log Started
+20-05-29 23:25:01 Opened /home/kader_b/int2/soldat.ini
+20-05-29 23:25:01 Creating network interface.
+20-05-29 23:25:01 Loading Animations.
+20-05-29 23:25:01 Loading Lobby Servers List
+20-05-29 23:25:01 Loading Maps List
+20-05-29 23:25:01 Loading Map.
+20-05-29 23:25:01 Creating Weapons.
+20-05-29 23:25:01 Starting Game Server.
+20-05-29 23:25:01 TCP/IP File Server started
+20-05-29 23:55:33 TCP/IP File Server started
+20-05-30 00:26:03 TCP/IP File Server started
+20-05-30 00:56:13 TCP/IP File Server started
+20-05-30 01:26:19 TCP/IP File Server started
+20-05-30 01:56:27 TCP/IP File Server started
+20-05-30 02:26:30 TCP/IP File Server started
+20-05-30 02:56:36 TCP/IP File Server started
+20-05-30 03:26:42 TCP/IP File Server started
+20-05-30 03:56:44 TCP/IP File Server started
+20-05-30 04:26:45 TCP/IP File Server started
+20-05-30 04:56:58 TCP/IP File Server started
+20-05-30 05:27:12 TCP/IP File Server started
+20-05-30 05:57:12 TCP/IP File Server started
+20-05-30 06:27:13 TCP/IP File Server started
+20-05-30 06:57:13 TCP/IP File Server started
+20-05-30 07:27:13 TCP/IP File Server started
+20-05-30 07:57:13 TCP/IP File Server started
+20-05-30 08:27:13 TCP/IP File Server started
+20-05-30 08:57:13 TCP/IP File Server started
+20-05-30 09:27:13 TCP/IP File Server started
+20-05-30 09:57:13 TCP/IP File Server started
+20-05-30 10:27:13 TCP/IP File Server started
+20-05-30 10:57:13 TCP/IP File Server started
+20-05-30 11:27:13 TCP/IP File Server started
+20-05-30 11:57:13 TCP/IP File Server started
+20-05-30 12:27:13 TCP/IP File Server started
+20-05-30 12:57:13 TCP/IP File Server started
+20-05-30 13:27:13 TCP/IP File Server started
+20-05-30 13:57:13 TCP/IP File Server started
+20-05-30 14:27:13 TCP/IP File Server started
+20-05-30 14:57:13 TCP/IP File Server started
+20-05-30 15:27:13 TCP/IP File Server started
+20-05-30 15:57:13 TCP/IP File Server started
+20-05-30 16:27:13 TCP/IP File Server started
+20-05-30 16:57:13 TCP/IP File Server started
+20-05-30 17:27:13 TCP/IP File Server started
+20-05-30 17:57:13 TCP/IP File Server started
+20-05-30 18:27:13 TCP/IP File Server started
+20-05-30 18:57:13 TCP/IP File Server started
+20-05-30 19:27:13 TCP/IP File Server started
+20-05-30 19:57:13 TCP/IP File Server started
+20-05-30 20:27:13 TCP/IP File Server started
+20-05-30 20:57:13 TCP/IP File Server started
+20-05-30 21:27:13 TCP/IP File Server started
+20-05-30 21:57:13 TCP/IP File Server started
+20-05-30 22:27:13 TCP/IP File Server started
+20-05-30 22:57:13 TCP/IP File Server started
+20-05-30 23:27:13 TCP/IP File Server started
+20-05-30 23:57:13 TCP/IP File Server started
+20-05-31 00:27:13 TCP/IP File Server started
+20-05-31 00:57:13 TCP/IP File Server started
+20-05-31 01:27:13 TCP/IP File Server started
+20-05-31 01:57:13 TCP/IP File Server started
+20-05-31 01:57:43  Net - S2 ~ Astek connected 31-5-20 01:57:43
+20-05-31 01:58:04  Net - S2 ~ Astek disconnected 31-5-20 01:58:04
+20-05-31 02:27:13 TCP/IP File Server started
+20-05-31 02:57:13 TCP/IP File Server started
+20-05-31 03:27:13 TCP/IP File Server started
+20-05-31 03:57:13 TCP/IP File Server started
+20-05-31 04:27:13 TCP/IP File Server started
+20-05-31 04:57:13 TCP/IP File Server started
+20-05-31 05:27:13 TCP/IP File Server started
+20-05-31 05:57:13 TCP/IP File Server started
+20-05-31 06:27:13 TCP/IP File Server started
+20-05-31 06:57:13 TCP/IP File Server started
+20-05-31 07:27:13 TCP/IP File Server started
+20-05-31 07:57:13 TCP/IP File Server started
+20-05-31 08:27:13 TCP/IP File Server started
+20-05-31 08:57:13 TCP/IP File Server started
+20-05-31 09:27:13 TCP/IP File Server started
+20-05-31 09:57:13 TCP/IP File Server started
+20-05-31 10:27:13 TCP/IP File Server started
+20-05-31 10:57:13 TCP/IP File Server started
+20-05-31 11:27:13 TCP/IP File Server started
+20-05-31 11:57:13 TCP/IP File Server started
+20-05-31 12:27:13 TCP/IP File Server started
+20-05-31 12:57:13 TCP/IP File Server started
+20-05-31 13:27:13 TCP/IP File Server started
+20-05-31 13:57:13 TCP/IP File Server started
+20-05-31 14:27:13 TCP/IP File Server started
+20-05-31 14:57:13 TCP/IP File Server started
+20-05-31 15:27:13 TCP/IP File Server started
+20-05-31 15:57:13 TCP/IP File Server started
+20-05-31 16:27:13 TCP/IP File Server started
+20-05-31 16:57:13 TCP/IP File Server started
+20-05-31 17:27:13 TCP/IP File Server started
+20-05-31 17:57:13 TCP/IP File Server started
+20-05-31 18:27:13 TCP/IP File Server started
+20-05-31 18:57:13 TCP/IP File Server started
+20-05-31 19:27:13 TCP/IP File Server started
+20-05-31 19:57:13 TCP/IP File Server started
+20-05-31 20:27:13 TCP/IP File Server started
+20-05-31 20:57:13 TCP/IP File Server started
+20-05-31 21:27:13 TCP/IP File Server started
+20-05-31 21:57:13 TCP/IP File Server started
+20-05-31 22:27:13 TCP/IP File Server started
+20-05-31 22:57:13 TCP/IP File Server started
+20-05-31 23:27:13 TCP/IP File Server started
+20-05-31 23:31:50  Net - CHILE| Shuter connected 31-5-20 23:31:50
+20-05-31 23:31:56  Net - CHILE| Shuter disconnected 31-5-20 23:31:56
+20-05-31 23:57:13 TCP/IP File Server started
+20-06-01 00:27:13 TCP/IP File Server started
+20-06-01 00:55:47  Net - cB.DrK connected 1-6-20 00:55:47
+20-06-01 00:55:49  Net - r3v' Colt connected 1-6-20 00:55:49
+20-06-01 00:55:57  Net - #1 Mand3s connected 1-6-20 00:55:57
+20-06-01 00:56:05  Net - r3v' Winter connected 1-6-20 00:56:05
+20-06-01 00:57:13 TCP/IP File Server started
+20-06-01 00:57:48  Net - $HILE5 - Skipo connected 1-6-20 00:57:48
+20-06-01 00:59:09  Net - r3v' Colt disconnected 1-6-20 00:59:09
+20-06-01 01:00:13  Net - r3v' Winter disconnected 1-6-20 01:00:13
+20-06-01 01:00:29  Net - RtP| LeprosycL connected 1-6-20 01:00:29
+20-06-01 01:00:32  Net - RtP| LeprosycL disconnected 1-6-20 01:00:32
+20-06-01 01:00:52  Net - RtP| LeprosycL connected 1-6-20 01:00:52
+20-06-01 01:02:22  Net - KorN Comentador connected 1-6-20 01:02:22
+20-06-01 01:02:34  Net - RtP| Breeze connected 1-6-20 01:02:34
+20-06-01 01:02:39  Net - r3v' Winter connected 1-6-20 01:02:39
+20-06-01 01:02:42  Net - KorN Comentador disconnected 1-6-20 01:02:42
+20-06-01 01:02:43  Net - KorN Comentador connected 1-6-20 01:02:43
+20-06-01 01:02:44  Net - RtP| Shuter connected 1-6-20 01:02:44
+20-06-01 01:02:44  Net - r3v' Colt connected 1-6-20 01:02:44
+20-06-01 01:02:45  Net - RtP| Shuter disconnected 1-6-20 01:02:45
+20-06-01 01:02:46  Net - cB.DrK disconnected 1-6-20 01:02:46
+20-06-01 01:02:47  Net - #1 Mand3s disconnected 1-6-20 01:02:47
+20-06-01 01:02:48  Net - RtP| Shuter connected 1-6-20 01:02:48
+20-06-01 01:02:50  Net - RtP| Shuter disconnected 1-6-20 01:02:50
+20-06-01 01:02:52  Net - RtP| Shuter connected 1-6-20 01:02:52
+20-06-01 01:02:52  Net - KorN Comentador disconnected 1-6-20 01:02:52
+20-06-01 01:02:54  Net - r3v' DrK connected 1-6-20 01:02:54
+20-06-01 01:02:56  Net - r3v' Mand3s connected 1-6-20 01:02:56
+20-06-01 01:02:57  Net - r3v' DrK connected 1-6-20 01:02:57
+20-06-01 01:02:59  Net - CHILE| SontercL connected 1-6-20 01:02:59
+20-06-01 01:03:04  Net - RtP| LeprosycL connected 1-6-20 01:03:04
+20-06-01 01:03:05  Net - CHILE| SontercL disconnected 1-6-20 01:03:05
+20-06-01 01:03:08  Net - \\F.O.S.T//F4ll.cL connected 1-6-20 01:03:08
+20-06-01 01:03:13  Net - RtP| SontercL connected 1-6-20 01:03:13
+20-06-01 01:03:20  Net - KorN Comentador connected 1-6-20 01:03:20
+20-06-01 01:03:26  Net - RtP| LoKitoHcL connected 1-6-20 01:03:26
+20-06-01 01:03:34  Net - im:// WildR4P` connected 1-6-20 01:03:34
+20-06-01 01:03:53  Net - r3v' Mand3s connected 1-6-20 01:03:53
+20-06-01 01:04:09  Net - mami no me dejes solo connected 1-6-20 01:04:09
+20-06-01 01:04:12  Net - \\F.O.S.T//F4ll.cL connected 1-6-20 01:04:12
+20-06-01 01:04:28  Net - Violet connected 1-6-20 01:04:28
+20-06-01 01:04:29  Net - rakk (respectful spec) connected 1-6-20 01:04:29
+20-06-01 01:04:47  Net - rakk (respectful spec) disconnected 1-6-20 01:04:47
+20-06-01 01:04:48  Net - RtP| Shuter connected 1-6-20 01:04:48
+20-06-01 01:04:53  Net - rakk (respectful spec) connected 1-6-20 01:04:53
+20-06-01 01:04:59  Net - Violet disconnected 1-6-20 01:04:59
+20-06-01 01:05:00  Net - rakk (respectful spec) disconnected 1-6-20 01:05:00
+20-06-01 01:05:02  Net - RtP| SontercL connected 1-6-20 01:05:02
+20-06-01 01:05:06  Net - rakk (respectful spec) connected 1-6-20 01:05:06
+20-06-01 01:05:12  Net - Violet connected 1-6-20 01:05:12
+20-06-01 01:06:04  Net - Violet disconnected 1-6-20 01:06:04
+20-06-01 01:06:07  Net - Battousai connected 1-6-20 01:06:07
+20-06-01 01:09:02  Net - RtP| SontercL connected 1-6-20 01:09:02
+20-06-01 01:09:24  Net - r3v' Mand3s connected 1-6-20 01:09:24
+20-06-01 01:09:30  Net - RtP| Breeze connected 1-6-20 01:09:30
+20-06-01 01:09:35  Net - r3v' DrK connected 1-6-20 01:09:35
+20-06-01 01:09:54  Net - r3v' Winter connected 1-6-20 01:09:54
+20-06-01 01:10:02  Net - RtP| SontercL connected 1-6-20 01:10:02
+20-06-01 01:10:04  Net - r3v' Colt connected 1-6-20 01:10:04
+20-06-01 01:10:34  Net - r3v' Colt connected 1-6-20 01:10:34
+20-06-01 01:11:41  Net - Shaka connected 1-6-20 01:11:41
+20-06-01 01:11:49  Net - Shaka disconnected 1-6-20 01:11:49
+20-06-01 01:11:51  Net - later Maaxis* (New guy) connected 1-6-20 01:11:51
+20-06-01 01:11:56  Net - Shaka connected 1-6-20 01:11:56
+20-06-01 01:12:07  Net - sT.- YnGwi3 connected 1-6-20 01:12:07
+20-06-01 01:12:45  Net - RtP| Breeze connected 1-6-20 01:12:45
+20-06-01 01:12:56  Net - r3v' Winter connected 1-6-20 01:12:56
+20-06-01 01:13:06  Net - r3v' DrK connected 1-6-20 01:13:06
+20-06-01 01:13:09  Net - rakk (respectful spec) disconnected 1-6-20 01:13:09
+20-06-01 01:13:14  Net - r3v' Mand3s connected 1-6-20 01:13:14
+20-06-01 01:13:18  Net - Shaka disconnected 1-6-20 01:13:18
+20-06-01 01:13:28  Net - Shaka connected 1-6-20 01:13:28
+20-06-01 01:13:39  Net - r3v' Colt connected 1-6-20 01:13:39
+20-06-01 01:13:45  Net - RtP| Shuter connected 1-6-20 01:13:45
+20-06-01 01:13:52  Net - RtP| LoKitoHcL connected 1-6-20 01:13:52
+20-06-01 01:14:35  Net - RtP| SontercL disconnected 1-6-20 01:14:35
+20-06-01 01:14:50  Net - RtP| SontercL connected 1-6-20 01:14:50
+20-06-01 01:15:08  Net - later Maaxis* (New guy) disconnected 1-6-20 01:15:08
+20-06-01 01:16:11  Net - RtP| Breeze disconnected 1-6-20 01:16:11
+20-06-01 01:16:25  Net - RtP| Breeze connected 1-6-20 01:16:25
+20-06-01 01:16:48  Net - KorN Comentador disconnected 1-6-20 01:16:48
+20-06-01 01:17:12  Net - im:// WildR4P` disconnected 1-6-20 01:17:12
+20-06-01 01:17:22  Net - mami no me dejes solo disconnected 1-6-20 01:17:22

@@ -1,0 +1,2141 @@
+20-04-21 04:03:54    Console Log Started
+20-04-21 04:03:54 Welcome to Soldat 1.7.1
+20-04-21 04:03:54  [*] Preparing scripts to be launched
+20-04-21 04:03:54  [*] [BasicCommands] Loading bytecode
+20-04-21 04:03:54  [*] [BasicCommands] Bytecode loaded
+20-04-21 04:03:54  [*] Compiling match -> match.pas...
+20-04-21 04:03:54  [*] match compiled
+20-04-21 04:03:54  [*] Done
+20-04-21 04:03:54 Lothic - Gothic Lobby Room
+20-04-21 04:03:54 Loaded weapons mod "Default v1.8"
+20-04-21 04:03:54  Connection for file server started. Port: 23210
+20-04-21 04:03:55 Registering server @ 88.99.234.252
+20-04-21 04:03:59 Admin connected (200.86.99.83).
+20-04-21 04:03:59 /maxplayers (200.86.99.83)
+20-04-21 04:03:59 Max players is 16
+20-04-21 04:03:59 /maxrespawntime (200.86.99.83)
+20-04-21 04:03:59 Maximum Respawn time is 5 seconds
+20-04-21 04:03:59 /respawntime (200.86.99.83)
+20-04-21 04:03:59 Respawn time is 3 seconds
+20-04-21 04:03:59 /limit (200.86.99.83)
+20-04-21 04:03:59 Current kill/point/capture limit is 10
+20-04-21 04:03:59 /timelimit (200.86.99.83)
+20-04-21 04:03:59 Current time limit is 10 minutes
+20-04-21 04:03:59 /friendlyfire (200.86.99.83)
+20-04-21 04:03:59 Friendly Fire is 0
+20-04-21 04:03:59 /scripting (200.86.99.83)
+20-04-21 04:03:59 Scripting is currently Enabled (1)
+20-04-21 04:03:59 /balance (200.86.99.83)
+20-04-21 04:03:59 Bot Balance is off (0)
+20-04-21 04:03:59 /bonus (200.86.99.83)
+20-04-21 04:03:59 Current bonus frequency is 0
+20-04-21 04:03:59 /vote% (200.86.99.83)
+20-04-21 04:03:59 Voting percent is 60
+20-04-21 04:08:55 Time Left: 5 minutes
+20-04-21 04:09:55 Time Left: 4 minutes
+20-04-21 04:10:55 Time Left: 3 minutes
+20-04-21 04:11:55 Time Left: 2 minutes
+20-04-21 04:12:55 Time Left: 1 minutes
+20-04-21 04:13:55 Next map: Lobby
+20-04-21 04:14:00 Lothic - Gothic Lobby Room
+20-04-21 04:19:00 Time Left: 5 minutes
+20-04-21 04:20:00 Time Left: 4 minutes
+20-04-21 04:21:00 Time Left: 3 minutes
+20-04-21 04:22:00 Time Left: 2 minutes
+20-04-21 04:23:00 Time Left: 1 minutes
+20-04-21 04:24:00 Next map: Lobby
+20-04-21 04:24:05 Lothic - Gothic Lobby Room
+20-04-21 04:29:05 Time Left: 5 minutes
+20-04-21 04:30:05 Time Left: 4 minutes
+20-04-21 04:31:05 Time Left: 3 minutes
+20-04-21 04:32:05 Time Left: 2 minutes
+20-04-21 04:33:05 Time Left: 1 minutes
+20-04-21 04:34:05 Next map: Lobby
+20-04-21 04:34:11 Lothic - Gothic Lobby Room
+20-04-21 04:39:11 Time Left: 5 minutes
+20-04-21 04:40:11 Time Left: 4 minutes
+20-04-21 04:41:11 Time Left: 3 minutes
+20-04-21 04:42:11 Time Left: 2 minutes
+20-04-21 04:43:11 Time Left: 1 minutes
+20-04-21 04:44:11 Next map: Lobby
+20-04-21 04:44:16 Lothic - Gothic Lobby Room
+20-04-21 04:49:16 Time Left: 5 minutes
+20-04-21 04:50:16 Time Left: 4 minutes
+20-04-21 04:51:16 Time Left: 3 minutes
+20-04-21 04:52:16 Time Left: 2 minutes
+20-04-21 04:53:16 Time Left: 1 minutes
+20-04-21 04:54:16 Next map: Lobby
+20-04-21 04:54:21 Lothic - Gothic Lobby Room
+20-04-21 04:59:21 Time Left: 5 minutes
+20-04-21 05:00:21 Time Left: 4 minutes
+20-04-21 05:01:10 Admin disconnected (200.86.99.83).
+20-04-21 05:01:21 Time Left: 3 minutes
+20-04-21 05:02:21 Time Left: 2 minutes
+20-04-21 05:03:21 Time Left: 1 minutes
+20-04-21 05:04:21 Next map: Lobby
+20-04-21 05:04:27 Lothic - Gothic Lobby Room
+20-04-21 05:09:27 Time Left: 5 minutes
+20-04-21 05:10:27 Time Left: 4 minutes
+20-04-21 05:11:27 Time Left: 3 minutes
+20-04-21 05:12:27 Time Left: 2 minutes
+20-04-21 05:13:27 Time Left: 1 minutes
+20-04-21 05:14:27 Next map: Lobby
+20-04-21 05:14:32 Lothic - Gothic Lobby Room
+20-04-21 05:19:32 Time Left: 5 minutes
+20-04-21 05:20:32 Time Left: 4 minutes
+20-04-21 05:21:32 Time Left: 3 minutes
+20-04-21 05:22:32 Time Left: 2 minutes
+20-04-21 05:23:32 Time Left: 1 minutes
+20-04-21 05:24:32 Next map: Lobby
+20-04-21 05:24:37 Lothic - Gothic Lobby Room
+20-04-21 05:29:37 Time Left: 5 minutes
+20-04-21 05:30:37 Time Left: 4 minutes
+20-04-21 05:31:37 Time Left: 3 minutes
+20-04-21 05:32:37 Time Left: 2 minutes
+20-04-21 05:33:37 Time Left: 1 minutes
+20-04-21 05:34:37 Next map: Lobby
+20-04-21 05:34:43 Lothic - Gothic Lobby Room
+20-04-21 05:39:43 Time Left: 5 minutes
+20-04-21 05:40:43 Time Left: 4 minutes
+20-04-21 05:41:43 Time Left: 3 minutes
+20-04-21 05:42:43 Time Left: 2 minutes
+20-04-21 05:43:43 Time Left: 1 minutes
+20-04-21 05:44:43 Next map: Lobby
+20-04-21 05:44:48 Lothic - Gothic Lobby Room
+20-04-21 05:49:48 Time Left: 5 minutes
+20-04-21 05:50:48 Time Left: 4 minutes
+20-04-21 05:51:48 Time Left: 3 minutes
+20-04-21 05:52:48 Time Left: 2 minutes
+20-04-21 05:53:48 Time Left: 1 minutes
+20-04-21 05:54:48 Next map: Lobby
+20-04-21 05:54:53 Lothic - Gothic Lobby Room
+20-04-21 05:59:53 Time Left: 5 minutes
+20-04-21 06:00:53 Time Left: 4 minutes
+20-04-21 06:01:53 Time Left: 3 minutes
+20-04-21 06:02:53 Time Left: 2 minutes
+20-04-21 06:03:53 Time Left: 1 minutes
+20-04-21 06:04:53 Next map: Lobby
+20-04-21 06:04:59 Lothic - Gothic Lobby Room
+20-04-21 06:09:59 Time Left: 5 minutes
+20-04-21 06:10:59 Time Left: 4 minutes
+20-04-21 06:11:59 Time Left: 3 minutes
+20-04-21 06:12:59 Time Left: 2 minutes
+20-04-21 06:13:59 Time Left: 1 minutes
+20-04-21 06:14:59 Next map: Lobby
+20-04-21 06:15:04 Lothic - Gothic Lobby Room
+20-04-21 06:20:04 Time Left: 5 minutes
+20-04-21 06:21:04 Time Left: 4 minutes
+20-04-21 06:22:04 Time Left: 3 minutes
+20-04-21 06:23:04 Time Left: 2 minutes
+20-04-21 06:24:04 Time Left: 1 minutes
+20-04-21 06:25:04 Next map: Lobby
+20-04-21 06:25:09 Lothic - Gothic Lobby Room
+20-04-21 06:30:09 Time Left: 5 minutes
+20-04-21 06:31:09 Time Left: 4 minutes
+20-04-21 06:32:09 Time Left: 3 minutes
+20-04-21 06:33:09 Time Left: 2 minutes
+20-04-21 06:34:09 Time Left: 1 minutes
+20-04-21 06:35:09 Next map: Lobby
+20-04-21 06:35:15 Lothic - Gothic Lobby Room
+20-04-21 06:40:15 Time Left: 5 minutes
+20-04-21 06:41:15 Time Left: 4 minutes
+20-04-21 06:42:15 Time Left: 3 minutes
+20-04-21 06:43:15 Time Left: 2 minutes
+20-04-21 06:44:15 Time Left: 1 minutes
+20-04-21 06:45:15 Next map: Lobby
+20-04-21 06:45:20 Lothic - Gothic Lobby Room
+20-04-21 06:50:20 Time Left: 5 minutes
+20-04-21 06:51:20 Time Left: 4 minutes
+20-04-21 06:52:20 Time Left: 3 minutes
+20-04-21 06:53:20 Time Left: 2 minutes
+20-04-21 06:54:20 Time Left: 1 minutes
+20-04-21 06:55:20 Next map: Lobby
+20-04-21 06:55:25 Lothic - Gothic Lobby Room
+20-04-21 07:00:25 Time Left: 5 minutes
+20-04-21 07:01:25 Time Left: 4 minutes
+20-04-21 07:02:25 Time Left: 3 minutes
+20-04-21 07:03:25 Time Left: 2 minutes
+20-04-21 07:04:25 Time Left: 1 minutes
+20-04-21 07:05:25 Next map: Lobby
+20-04-21 07:05:30 Lothic - Gothic Lobby Room
+20-04-21 07:10:30 Time Left: 5 minutes
+20-04-21 07:11:30 Time Left: 4 minutes
+20-04-21 07:12:30 Time Left: 3 minutes
+20-04-21 07:13:30 Time Left: 2 minutes
+20-04-21 07:14:30 Time Left: 1 minutes
+20-04-21 07:15:30 Next map: Lobby
+20-04-21 07:15:36 Lothic - Gothic Lobby Room
+20-04-21 07:20:36 Time Left: 5 minutes
+20-04-21 07:21:36 Time Left: 4 minutes
+20-04-21 07:22:36 Time Left: 3 minutes
+20-04-21 07:23:36 Time Left: 2 minutes
+20-04-21 07:24:36 Time Left: 1 minutes
+20-04-21 07:25:36 Next map: Lobby
+20-04-21 07:25:41 Lothic - Gothic Lobby Room
+20-04-21 07:30:41 Time Left: 5 minutes
+20-04-21 07:31:41 Time Left: 4 minutes
+20-04-21 07:32:41 Time Left: 3 minutes
+20-04-21 07:33:41 Time Left: 2 minutes
+20-04-21 07:34:41 Time Left: 1 minutes
+20-04-21 07:35:41 Next map: Lobby
+20-04-21 07:35:46 Lothic - Gothic Lobby Room
+20-04-21 07:40:46 Time Left: 5 minutes
+20-04-21 07:41:46 Time Left: 4 minutes
+20-04-21 07:42:46 Time Left: 3 minutes
+20-04-21 07:43:46 Time Left: 2 minutes
+20-04-21 07:44:46 Time Left: 1 minutes
+20-04-21 07:45:46 Next map: Lobby
+20-04-21 07:45:52 Lothic - Gothic Lobby Room
+20-04-21 07:50:52 Time Left: 5 minutes
+20-04-21 07:51:52 Time Left: 4 minutes
+20-04-21 07:52:52 Time Left: 3 minutes
+20-04-21 07:53:52 Time Left: 2 minutes
+20-04-21 07:54:52 Time Left: 1 minutes
+20-04-21 07:55:52 Next map: Lobby
+20-04-21 07:55:57 Lothic - Gothic Lobby Room
+20-04-21 08:00:57 Time Left: 5 minutes
+20-04-21 08:01:57 Time Left: 4 minutes
+20-04-21 08:02:57 Time Left: 3 minutes
+20-04-21 08:03:57 Time Left: 2 minutes
+20-04-21 08:04:57 Time Left: 1 minutes
+20-04-21 08:05:57 Next map: Lobby
+20-04-21 08:06:02 Lothic - Gothic Lobby Room
+20-04-21 08:11:02 Time Left: 5 minutes
+20-04-21 08:12:02 Time Left: 4 minutes
+20-04-21 08:13:02 Time Left: 3 minutes
+20-04-21 08:14:02 Time Left: 2 minutes
+20-04-21 08:15:02 Time Left: 1 minutes
+20-04-21 08:16:02 Next map: Lobby
+20-04-21 08:16:08 Lothic - Gothic Lobby Room
+20-04-21 08:21:08 Time Left: 5 minutes
+20-04-21 08:22:08 Time Left: 4 minutes
+20-04-21 08:23:08 Time Left: 3 minutes
+20-04-21 08:24:08 Time Left: 2 minutes
+20-04-21 08:25:08 Time Left: 1 minutes
+20-04-21 08:26:08 Next map: Lobby
+20-04-21 08:26:13 Lothic - Gothic Lobby Room
+20-04-21 08:31:13 Time Left: 5 minutes
+20-04-21 08:32:13 Time Left: 4 minutes
+20-04-21 08:33:13 Time Left: 3 minutes
+20-04-21 08:34:13 Time Left: 2 minutes
+20-04-21 08:35:13 Time Left: 1 minutes
+20-04-21 08:36:13 Next map: Lobby
+20-04-21 08:36:18 Lothic - Gothic Lobby Room
+20-04-21 08:41:18 Time Left: 5 minutes
+20-04-21 08:42:18 Time Left: 4 minutes
+20-04-21 08:43:18 Time Left: 3 minutes
+20-04-21 08:44:18 Time Left: 2 minutes
+20-04-21 08:45:18 Time Left: 1 minutes
+20-04-21 08:46:18 Next map: Lobby
+20-04-21 08:46:24 Lothic - Gothic Lobby Room
+20-04-21 08:51:24 Time Left: 5 minutes
+20-04-21 08:52:24 Time Left: 4 minutes
+20-04-21 08:53:24 Time Left: 3 minutes
+20-04-21 08:54:24 Time Left: 2 minutes
+20-04-21 08:55:24 Time Left: 1 minutes
+20-04-21 08:56:24 Next map: Lobby
+20-04-21 08:56:29 Lothic - Gothic Lobby Room
+20-04-21 09:01:29 Time Left: 5 minutes
+20-04-21 09:02:29 Time Left: 4 minutes
+20-04-21 09:03:29 Time Left: 3 minutes
+20-04-21 09:04:29 Time Left: 2 minutes
+20-04-21 09:05:29 Time Left: 1 minutes
+20-04-21 09:06:29 Next map: Lobby
+20-04-21 09:06:34 Lothic - Gothic Lobby Room
+20-04-21 09:11:34 Time Left: 5 minutes
+20-04-21 09:12:34 Time Left: 4 minutes
+20-04-21 09:13:34 Time Left: 3 minutes
+20-04-21 09:14:34 Time Left: 2 minutes
+20-04-21 09:15:34 Time Left: 1 minutes
+20-04-21 09:16:34 Next map: Lobby
+20-04-21 09:16:40 Lothic - Gothic Lobby Room
+20-04-21 09:21:40 Time Left: 5 minutes
+20-04-21 09:22:40 Time Left: 4 minutes
+20-04-21 09:23:40 Time Left: 3 minutes
+20-04-21 09:24:40 Time Left: 2 minutes
+20-04-21 09:25:40 Time Left: 1 minutes
+20-04-21 09:26:40 Next map: Lobby
+20-04-21 09:26:45 Lothic - Gothic Lobby Room
+20-04-21 09:31:45 Time Left: 5 minutes
+20-04-21 09:32:45 Time Left: 4 minutes
+20-04-21 09:33:45 Time Left: 3 minutes
+20-04-21 09:34:45 Time Left: 2 minutes
+20-04-21 09:35:45 Time Left: 1 minutes
+20-04-21 09:36:45 Next map: Lobby
+20-04-21 09:36:50 Lothic - Gothic Lobby Room
+20-04-21 09:41:50 Time Left: 5 minutes
+20-04-21 09:42:50 Time Left: 4 minutes
+20-04-21 09:43:50 Time Left: 3 minutes
+20-04-21 09:44:50 Time Left: 2 minutes
+20-04-21 09:45:50 Time Left: 1 minutes
+20-04-21 09:46:50 Next map: Lobby
+20-04-21 09:46:56 Lothic - Gothic Lobby Room
+20-04-21 09:51:56 Time Left: 5 minutes
+20-04-21 09:52:56 Time Left: 4 minutes
+20-04-21 09:53:56 Time Left: 3 minutes
+20-04-21 09:54:56 Time Left: 2 minutes
+20-04-21 09:55:56 Time Left: 1 minutes
+20-04-21 09:56:56 Next map: Lobby
+20-04-21 09:57:01 Lothic - Gothic Lobby Room
+20-04-21 10:02:01 Time Left: 5 minutes
+20-04-21 10:03:01 Time Left: 4 minutes
+20-04-21 10:04:01 Time Left: 3 minutes
+20-04-21 10:05:01 Time Left: 2 minutes
+20-04-21 10:06:01 Time Left: 1 minutes
+20-04-21 10:07:01 Next map: Lobby
+20-04-21 10:07:06 Lothic - Gothic Lobby Room
+20-04-21 10:12:06 Time Left: 5 minutes
+20-04-21 10:13:06 Time Left: 4 minutes
+20-04-21 10:14:06 Time Left: 3 minutes
+20-04-21 10:15:06 Time Left: 2 minutes
+20-04-21 10:16:06 Time Left: 1 minutes
+20-04-21 10:17:06 Next map: Lobby
+20-04-21 10:17:12 Lothic - Gothic Lobby Room
+20-04-21 10:22:11 Time Left: 5 minutes
+20-04-21 10:23:11 Time Left: 4 minutes
+20-04-21 10:24:11 Time Left: 3 minutes
+20-04-21 10:25:11 Time Left: 2 minutes
+20-04-21 10:26:11 Time Left: 1 minutes
+20-04-21 10:27:11 Next map: Lobby
+20-04-21 10:27:17 Lothic - Gothic Lobby Room
+20-04-21 10:32:17 Time Left: 5 minutes
+20-04-21 10:33:17 Time Left: 4 minutes
+20-04-21 10:34:17 Time Left: 3 minutes
+20-04-21 10:35:17 Time Left: 2 minutes
+20-04-21 10:36:17 Time Left: 1 minutes
+20-04-21 10:37:17 Next map: Lobby
+20-04-21 10:37:22 Lothic - Gothic Lobby Room
+20-04-21 10:42:22 Time Left: 5 minutes
+20-04-21 10:43:22 Time Left: 4 minutes
+20-04-21 10:44:22 Time Left: 3 minutes
+20-04-21 10:45:22 Time Left: 2 minutes
+20-04-21 10:46:22 Time Left: 1 minutes
+20-04-21 10:47:22 Next map: Lobby
+20-04-21 10:47:27 Lothic - Gothic Lobby Room
+20-04-21 10:52:27 Time Left: 5 minutes
+20-04-21 10:53:27 Time Left: 4 minutes
+20-04-21 10:54:27 Time Left: 3 minutes
+20-04-21 10:55:27 Time Left: 2 minutes
+20-04-21 10:56:27 Time Left: 1 minutes
+20-04-21 10:57:27 Next map: Lobby
+20-04-21 10:57:33 Lothic - Gothic Lobby Room
+20-04-21 11:02:33 Time Left: 5 minutes
+20-04-21 11:03:33 Time Left: 4 minutes
+20-04-21 11:04:33 Time Left: 3 minutes
+20-04-21 11:05:33 Time Left: 2 minutes
+20-04-21 11:06:33 Time Left: 1 minutes
+20-04-21 11:07:33 Next map: Lobby
+20-04-21 11:07:38 Lothic - Gothic Lobby Room
+20-04-21 11:12:38 Time Left: 5 minutes
+20-04-21 11:13:38 Time Left: 4 minutes
+20-04-21 11:14:38 Time Left: 3 minutes
+20-04-21 11:15:38 Time Left: 2 minutes
+20-04-21 11:16:38 Time Left: 1 minutes
+20-04-21 11:17:38 Next map: Lobby
+20-04-21 11:17:43 Lothic - Gothic Lobby Room
+20-04-21 11:22:43 Time Left: 5 minutes
+20-04-21 11:23:43 Time Left: 4 minutes
+20-04-21 11:24:43 Time Left: 3 minutes
+20-04-21 11:25:43 Time Left: 2 minutes
+20-04-21 11:26:43 Time Left: 1 minutes
+20-04-21 11:27:43 Next map: Lobby
+20-04-21 11:27:49 Lothic - Gothic Lobby Room
+20-04-21 11:32:49 Time Left: 5 minutes
+20-04-21 11:33:49 Time Left: 4 minutes
+20-04-21 11:34:49 Time Left: 3 minutes
+20-04-21 11:35:49 Time Left: 2 minutes
+20-04-21 11:36:49 Time Left: 1 minutes
+20-04-21 11:37:49 Next map: Lobby
+20-04-21 11:37:54 Lothic - Gothic Lobby Room
+20-04-21 11:42:54 Time Left: 5 minutes
+20-04-21 11:43:54 Time Left: 4 minutes
+20-04-21 11:44:54 Time Left: 3 minutes
+20-04-21 11:45:54 Time Left: 2 minutes
+20-04-21 11:46:54 Time Left: 1 minutes
+20-04-21 11:47:54 Next map: Lobby
+20-04-21 11:47:59 Lothic - Gothic Lobby Room
+20-04-21 11:52:59 Time Left: 5 minutes
+20-04-21 11:53:59 Time Left: 4 minutes
+20-04-21 11:54:59 Time Left: 3 minutes
+20-04-21 11:55:59 Time Left: 2 minutes
+20-04-21 11:56:59 Time Left: 1 minutes
+20-04-21 11:57:59 Next map: Lobby
+20-04-21 11:58:05 Lothic - Gothic Lobby Room
+20-04-21 12:03:05 Time Left: 5 minutes
+20-04-21 12:04:05 Time Left: 4 minutes
+20-04-21 12:05:05 Time Left: 3 minutes
+20-04-21 12:06:05 Time Left: 2 minutes
+20-04-21 12:07:05 Time Left: 1 minutes
+20-04-21 12:08:05 Next map: Lobby
+20-04-21 12:08:10 Lothic - Gothic Lobby Room
+20-04-21 12:13:10 Time Left: 5 minutes
+20-04-21 12:14:10 Time Left: 4 minutes
+20-04-21 12:15:10 Time Left: 3 minutes
+20-04-21 12:16:10 Time Left: 2 minutes
+20-04-21 12:17:10 Time Left: 1 minutes
+20-04-21 12:18:10 Next map: Lobby
+20-04-21 12:18:15 Lothic - Gothic Lobby Room
+20-04-21 12:23:15 Time Left: 5 minutes
+20-04-21 12:24:15 Time Left: 4 minutes
+20-04-21 12:25:15 Time Left: 3 minutes
+20-04-21 12:26:15 Time Left: 2 minutes
+20-04-21 12:27:15 Time Left: 1 minutes
+20-04-21 12:28:15 Next map: Lobby
+20-04-21 12:28:21 Lothic - Gothic Lobby Room
+20-04-21 12:33:21 Time Left: 5 minutes
+20-04-21 12:34:21 Time Left: 4 minutes
+20-04-21 12:35:21 Time Left: 3 minutes
+20-04-21 12:36:21 Time Left: 2 minutes
+20-04-21 12:37:21 Time Left: 1 minutes
+20-04-21 12:38:21 Next map: Lobby
+20-04-21 12:38:26 Lothic - Gothic Lobby Room
+20-04-21 12:43:26 Time Left: 5 minutes
+20-04-21 12:44:26 Time Left: 4 minutes
+20-04-21 12:45:26 Time Left: 3 minutes
+20-04-21 12:46:26 Time Left: 2 minutes
+20-04-21 12:47:26 Time Left: 1 minutes
+20-04-21 12:48:26 Next map: Lobby
+20-04-21 12:48:31 Lothic - Gothic Lobby Room
+20-04-21 12:53:31 Time Left: 5 minutes
+20-04-21 12:54:31 Time Left: 4 minutes
+20-04-21 12:55:31 Time Left: 3 minutes
+20-04-21 12:56:31 Time Left: 2 minutes
+20-04-21 12:57:31 Time Left: 1 minutes
+20-04-21 12:58:31 Next map: Lobby
+20-04-21 12:58:37 Lothic - Gothic Lobby Room
+20-04-21 13:03:37 Time Left: 5 minutes
+20-04-21 13:04:37 Time Left: 4 minutes
+20-04-21 13:05:37 Time Left: 3 minutes
+20-04-21 13:06:37 Time Left: 2 minutes
+20-04-21 13:07:37 Time Left: 1 minutes
+20-04-21 13:08:37 Next map: Lobby
+20-04-21 13:08:42 Lothic - Gothic Lobby Room
+20-04-21 13:13:42 Time Left: 5 minutes
+20-04-21 13:14:42 Time Left: 4 minutes
+20-04-21 13:15:42 Time Left: 3 minutes
+20-04-21 13:16:42 Time Left: 2 minutes
+20-04-21 13:17:42 Time Left: 1 minutes
+20-04-21 13:18:42 Next map: Lobby
+20-04-21 13:18:47 Lothic - Gothic Lobby Room
+20-04-21 13:22:14 179.187.97.102:23073|289E8F278B9 requesting game...
+20-04-21 13:23:47 Time Left: 5 minutes
+20-04-21 13:24:47 Time Left: 4 minutes
+20-04-21 13:25:47 Time Left: 3 minutes
+20-04-21 13:26:47 Time Left: 2 minutes
+20-04-21 13:27:47 Time Left: 1 minutes
+20-04-21 13:28:47 Next map: Lobby
+20-04-21 13:28:53 Lothic - Gothic Lobby Room
+20-04-21 13:33:53 Time Left: 5 minutes
+20-04-21 13:34:53 Time Left: 4 minutes
+20-04-21 13:35:53 Time Left: 3 minutes
+20-04-21 13:36:53 Time Left: 2 minutes
+20-04-21 13:37:53 Time Left: 1 minutes
+20-04-21 13:38:52 Next map: Lobby
+20-04-21 13:38:58 Lothic - Gothic Lobby Room
+20-04-21 13:43:58 Time Left: 5 minutes
+20-04-21 13:44:58 Time Left: 4 minutes
+20-04-21 13:45:58 Time Left: 3 minutes
+20-04-21 13:46:58 Time Left: 2 minutes
+20-04-21 13:47:58 Time Left: 1 minutes
+20-04-21 13:48:58 Next map: Lobby
+20-04-21 13:49:03 Lothic - Gothic Lobby Room
+20-04-21 13:54:03 Time Left: 5 minutes
+20-04-21 13:55:03 Time Left: 4 minutes
+20-04-21 13:56:03 Time Left: 3 minutes
+20-04-21 13:57:03 Time Left: 2 minutes
+20-04-21 13:58:03 Time Left: 1 minutes
+20-04-21 13:59:03 Next map: Lobby
+20-04-21 13:59:08 Lothic - Gothic Lobby Room
+20-04-21 14:04:08 Time Left: 5 minutes
+20-04-21 14:05:08 Time Left: 4 minutes
+20-04-21 14:06:08 Time Left: 3 minutes
+20-04-21 14:07:08 Time Left: 2 minutes
+20-04-21 14:08:08 Time Left: 1 minutes
+20-04-21 14:09:08 Next map: Lobby
+20-04-21 14:09:14 Lothic - Gothic Lobby Room
+20-04-21 14:14:14 Time Left: 5 minutes
+20-04-21 14:15:14 Time Left: 4 minutes
+20-04-21 14:16:14 Time Left: 3 minutes
+20-04-21 14:17:14 Time Left: 2 minutes
+20-04-21 14:18:14 Time Left: 1 minutes
+20-04-21 14:19:14 Next map: Lobby
+20-04-21 14:19:19 Lothic - Gothic Lobby Room
+20-04-21 14:24:19 Time Left: 5 minutes
+20-04-21 14:25:19 Time Left: 4 minutes
+20-04-21 14:26:19 Time Left: 3 minutes
+20-04-21 14:27:19 Time Left: 2 minutes
+20-04-21 14:28:19 Time Left: 1 minutes
+20-04-21 14:29:19 Next map: Lobby
+20-04-21 14:29:24 Lothic - Gothic Lobby Room
+20-04-21 14:34:24 Time Left: 5 minutes
+20-04-21 14:35:24 Time Left: 4 minutes
+20-04-21 14:36:24 Time Left: 3 minutes
+20-04-21 14:37:24 Time Left: 2 minutes
+20-04-21 14:38:24 Time Left: 1 minutes
+20-04-21 14:39:24 Next map: Lobby
+20-04-21 14:39:30 Lothic - Gothic Lobby Room
+20-04-21 14:44:30 Time Left: 5 minutes
+20-04-21 14:45:30 Time Left: 4 minutes
+20-04-21 14:46:30 Time Left: 3 minutes
+20-04-21 14:47:30 Time Left: 2 minutes
+20-04-21 14:48:30 Time Left: 1 minutes
+20-04-21 14:49:30 Next map: Lobby
+20-04-21 14:49:35 Lothic - Gothic Lobby Room
+20-04-21 14:54:35 Time Left: 5 minutes
+20-04-21 14:55:35 Time Left: 4 minutes
+20-04-21 14:56:35 Time Left: 3 minutes
+20-04-21 14:57:35 Time Left: 2 minutes
+20-04-21 14:58:35 Time Left: 1 minutes
+20-04-21 14:59:35 Next map: Lobby
+20-04-21 14:59:40 Lothic - Gothic Lobby Room
+20-04-21 15:04:40 Time Left: 5 minutes
+20-04-21 15:05:40 Time Left: 4 minutes
+20-04-21 15:06:40 Time Left: 3 minutes
+20-04-21 15:07:40 Time Left: 2 minutes
+20-04-21 15:08:40 Time Left: 1 minutes
+20-04-21 15:09:40 Next map: Lobby
+20-04-21 15:09:46 Lothic - Gothic Lobby Room
+20-04-21 15:14:46 Time Left: 5 minutes
+20-04-21 15:15:46 Time Left: 4 minutes
+20-04-21 15:16:46 Time Left: 3 minutes
+20-04-21 15:17:46 Time Left: 2 minutes
+20-04-21 15:18:46 Time Left: 1 minutes
+20-04-21 15:19:46 Next map: Lobby
+20-04-21 15:19:51 Lothic - Gothic Lobby Room
+20-04-21 15:24:51 Time Left: 5 minutes
+20-04-21 15:25:51 Time Left: 4 minutes
+20-04-21 15:26:51 Time Left: 3 minutes
+20-04-21 15:27:51 Time Left: 2 minutes
+20-04-21 15:28:51 Time Left: 1 minutes
+20-04-21 15:29:51 Next map: Lobby
+20-04-21 15:29:56 Lothic - Gothic Lobby Room
+20-04-21 15:33:12 181.46.164.77:42868|1151C7D69B7 requesting game...
+20-04-21 15:33:15 181.46.164.77:42868|1151C7D69B7 requesting game...
+20-04-21 15:33:19 181.46.164.77:42868|1151C7D69B7 requesting game...
+20-04-21 15:33:21 181.46.164.77:42868|1151C7D69B7 requesting game...
+20-04-21 15:33:24 181.46.164.77:42868|1151C7D69B7 requesting game...
+20-04-21 15:34:56 Time Left: 5 minutes
+20-04-21 15:35:56 Time Left: 4 minutes
+20-04-21 15:36:56 Time Left: 3 minutes
+20-04-21 15:37:56 Time Left: 2 minutes
+20-04-21 15:38:56 Time Left: 1 minutes
+20-04-21 15:39:56 Next map: Lobby
+20-04-21 15:40:02 Lothic - Gothic Lobby Room
+20-04-21 15:45:02 Time Left: 5 minutes
+20-04-21 15:46:02 Time Left: 4 minutes
+20-04-21 15:47:02 Time Left: 3 minutes
+20-04-21 15:48:02 Time Left: 2 minutes
+20-04-21 15:49:02 Time Left: 1 minutes
+20-04-21 15:50:02 Next map: Lobby
+20-04-21 15:50:07 Lothic - Gothic Lobby Room
+20-04-21 15:55:07 Time Left: 5 minutes
+20-04-21 15:56:07 Time Left: 4 minutes
+20-04-21 15:57:07 Time Left: 3 minutes
+20-04-21 15:58:07 Time Left: 2 minutes
+20-04-21 15:59:07 Time Left: 1 minutes
+20-04-21 16:00:07 Next map: Lobby
+20-04-21 16:00:12 Lothic - Gothic Lobby Room
+20-04-21 16:05:12 Time Left: 5 minutes
+20-04-21 16:06:12 Time Left: 4 minutes
+20-04-21 16:07:12 Time Left: 3 minutes
+20-04-21 16:08:12 Time Left: 2 minutes
+20-04-21 16:09:12 Time Left: 1 minutes
+20-04-21 16:10:12 Next map: Lobby
+20-04-21 16:10:18 Lothic - Gothic Lobby Room
+20-04-21 16:15:18 Time Left: 5 minutes
+20-04-21 16:16:18 Time Left: 4 minutes
+20-04-21 16:17:18 Time Left: 3 minutes
+20-04-21 16:18:18 Time Left: 2 minutes
+20-04-21 16:19:18 Time Left: 1 minutes
+20-04-21 16:20:18 Next map: Lobby
+20-04-21 16:20:23 Lothic - Gothic Lobby Room
+20-04-21 16:25:23 Time Left: 5 minutes
+20-04-21 16:26:23 Time Left: 4 minutes
+20-04-21 16:27:23 Time Left: 3 minutes
+20-04-21 16:28:23 Time Left: 2 minutes
+20-04-21 16:28:38 168.196.203.64:14565|64995B15DC0 requesting game...
+20-04-21 16:28:38 168.196.203.64:14565|64995B15DC0 requesting game...
+20-04-21 16:28:39 K!NG| YnGwi3 joining game (168.196.203.64:14565) HWID:64995B15DC0
+20-04-21 16:28:39 K!NG| YnGwi3 has joined bravo team.
+20-04-21 16:28:49 K!NG| YnGwi3 has left bravo team.
+20-04-21 16:29:23 Time Left: 1 minutes
+20-04-21 16:30:23 Next map: Lobby
+20-04-21 16:30:28 Lothic - Gothic Lobby Room
+20-04-21 16:35:28 Time Left: 5 minutes
+20-04-21 16:36:28 Time Left: 4 minutes
+20-04-21 16:37:28 Time Left: 3 minutes
+20-04-21 16:38:28 Time Left: 2 minutes
+20-04-21 16:39:28 Time Left: 1 minutes
+20-04-21 16:40:28 Next map: Lobby
+20-04-21 16:40:34 Lothic - Gothic Lobby Room
+20-04-21 16:45:34 Time Left: 5 minutes
+20-04-21 16:46:34 Time Left: 4 minutes
+20-04-21 16:47:34 Time Left: 3 minutes
+20-04-21 16:47:51 192.141.121.6:56101|74AC67EAD3B requesting game...
+20-04-21 16:48:03 192.141.122.30:27373|3122E59AAC9 requesting game...
+20-04-21 16:48:34 Time Left: 2 minutes
+20-04-21 16:49:34 Time Left: 1 minutes
+20-04-21 16:50:34 Next map: Lobby
+20-04-21 16:50:39 Lothic - Gothic Lobby Room
+20-04-21 16:55:39 Time Left: 5 minutes
+20-04-21 16:56:39 Time Left: 4 minutes
+20-04-21 16:57:39 Time Left: 3 minutes
+20-04-21 16:58:39 Time Left: 2 minutes
+20-04-21 16:59:39 Time Left: 1 minutes
+20-04-21 17:00:39 Next map: Lobby
+20-04-21 17:00:44 Lothic - Gothic Lobby Room
+20-04-21 17:05:44 Time Left: 5 minutes
+20-04-21 17:06:44 Time Left: 4 minutes
+20-04-21 17:07:44 Time Left: 3 minutes
+20-04-21 17:08:44 Time Left: 2 minutes
+20-04-21 17:09:44 Time Left: 1 minutes
+20-04-21 17:10:44 Next map: Lobby
+20-04-21 17:10:49 Lothic - Gothic Lobby Room
+20-04-21 17:15:49 Time Left: 5 minutes
+20-04-21 17:16:49 Time Left: 4 minutes
+20-04-21 17:17:49 Time Left: 3 minutes
+20-04-21 17:18:49 Time Left: 2 minutes
+20-04-21 17:19:49 Time Left: 1 minutes
+20-04-21 17:20:49 Next map: Lobby
+20-04-21 17:20:55 Lothic - Gothic Lobby Room
+20-04-21 17:25:55 Time Left: 5 minutes
+20-04-21 17:26:55 Time Left: 4 minutes
+20-04-21 17:27:55 Time Left: 3 minutes
+20-04-21 17:28:55 Time Left: 2 minutes
+20-04-21 17:29:55 Time Left: 1 minutes
+20-04-21 17:30:55 Next map: Lobby
+20-04-21 17:31:00 Lothic - Gothic Lobby Room
+20-04-21 17:36:00 Time Left: 5 minutes
+20-04-21 17:37:00 Time Left: 4 minutes
+20-04-21 17:38:00 Time Left: 3 minutes
+20-04-21 17:39:00 Time Left: 2 minutes
+20-04-21 17:40:00 Time Left: 1 minutes
+20-04-21 17:41:00 Next map: Lobby
+20-04-21 17:41:05 Lothic - Gothic Lobby Room
+20-04-21 17:46:05 Time Left: 5 minutes
+20-04-21 17:47:05 Time Left: 4 minutes
+20-04-21 17:48:05 Time Left: 3 minutes
+20-04-21 17:49:05 Time Left: 2 minutes
+20-04-21 17:50:05 Time Left: 1 minutes
+20-04-21 17:51:05 Next map: Lobby
+20-04-21 17:51:11 Lothic - Gothic Lobby Room
+20-04-21 17:56:11 Time Left: 5 minutes
+20-04-21 17:57:11 Time Left: 4 minutes
+20-04-21 17:58:11 Time Left: 3 minutes
+20-04-21 17:59:11 Time Left: 2 minutes
+20-04-21 18:00:11 Time Left: 1 minutes
+20-04-21 18:01:11 Next map: Lobby
+20-04-21 18:01:16 Lothic - Gothic Lobby Room
+20-04-21 18:06:16 Time Left: 5 minutes
+20-04-21 18:07:16 Time Left: 4 minutes
+20-04-21 18:08:16 Time Left: 3 minutes
+20-04-21 18:09:16 Time Left: 2 minutes
+20-04-21 18:10:16 Time Left: 1 minutes
+20-04-21 18:11:16 Next map: Lobby
+20-04-21 18:11:21 Lothic - Gothic Lobby Room
+20-04-21 18:16:21 Time Left: 5 minutes
+20-04-21 18:17:21 Time Left: 4 minutes
+20-04-21 18:18:21 Time Left: 3 minutes
+20-04-21 18:19:21 Time Left: 2 minutes
+20-04-21 18:20:21 Time Left: 1 minutes
+20-04-21 18:21:21 Next map: Lobby
+20-04-21 18:21:27 Lothic - Gothic Lobby Room
+20-04-21 18:26:27 Time Left: 5 minutes
+20-04-21 18:27:27 Time Left: 4 minutes
+20-04-21 18:28:27 Time Left: 3 minutes
+20-04-21 18:29:27 Time Left: 2 minutes
+20-04-21 18:30:27 Time Left: 1 minutes
+20-04-21 18:31:27 Next map: Lobby
+20-04-21 18:31:32 Lothic - Gothic Lobby Room
+20-04-21 18:36:32 Time Left: 5 minutes
+20-04-21 18:37:32 Time Left: 4 minutes
+20-04-21 18:38:32 Time Left: 3 minutes
+20-04-21 18:39:32 Time Left: 2 minutes
+20-04-21 18:40:32 Time Left: 1 minutes
+20-04-21 18:41:32 Next map: Lobby
+20-04-21 18:41:37 Lothic - Gothic Lobby Room
+20-04-21 18:46:37 Time Left: 5 minutes
+20-04-21 18:47:37 Time Left: 4 minutes
+20-04-21 18:48:37 Time Left: 3 minutes
+20-04-21 18:49:37 Time Left: 2 minutes
+20-04-21 18:50:37 Time Left: 1 minutes
+20-04-21 18:51:37 Next map: Lobby
+20-04-21 18:51:43 Lothic - Gothic Lobby Room
+20-04-21 18:56:43 Time Left: 5 minutes
+20-04-21 18:57:43 Time Left: 4 minutes
+20-04-21 18:58:43 Time Left: 3 minutes
+20-04-21 18:59:43 Time Left: 2 minutes
+20-04-21 19:00:43 Time Left: 1 minutes
+20-04-21 19:01:43 Next map: Lobby
+20-04-21 19:01:48 Lothic - Gothic Lobby Room
+20-04-21 19:06:48 Time Left: 5 minutes
+20-04-21 19:07:48 Time Left: 4 minutes
+20-04-21 19:08:48 Time Left: 3 minutes
+20-04-21 19:09:48 Time Left: 2 minutes
+20-04-21 19:10:48 Time Left: 1 minutes
+20-04-21 19:11:48 Next map: Lobby
+20-04-21 19:11:53 Lothic - Gothic Lobby Room
+20-04-21 19:16:53 Time Left: 5 minutes
+20-04-21 19:17:53 Time Left: 4 minutes
+20-04-21 19:18:53 Time Left: 3 minutes
+20-04-21 19:19:53 Time Left: 2 minutes
+20-04-21 19:20:53 Time Left: 1 minutes
+20-04-21 19:21:53 Next map: Lobby
+20-04-21 19:21:59 Lothic - Gothic Lobby Room
+20-04-21 19:26:59 Time Left: 5 minutes
+20-04-21 19:27:59 Time Left: 4 minutes
+20-04-21 19:28:59 Time Left: 3 minutes
+20-04-21 19:29:59 Time Left: 2 minutes
+20-04-21 19:30:59 Time Left: 1 minutes
+20-04-21 19:31:59 Next map: Lobby
+20-04-21 19:32:04 Lothic - Gothic Lobby Room
+20-04-21 19:37:04 Time Left: 5 minutes
+20-04-21 19:38:04 Time Left: 4 minutes
+20-04-21 19:39:04 Time Left: 3 minutes
+20-04-21 19:40:04 Time Left: 2 minutes
+20-04-21 19:40:34 201.182.165.164:62653|2E7D7F702F7 requesting game...
+20-04-21 19:41:04 Time Left: 1 minutes
+20-04-21 19:42:04 Next map: Lobby
+20-04-21 19:42:09 Lothic - Gothic Lobby Room
+20-04-21 19:47:09 Time Left: 5 minutes
+20-04-21 19:48:09 Time Left: 4 minutes
+20-04-21 19:49:09 Time Left: 3 minutes
+20-04-21 19:50:09 Time Left: 2 minutes
+20-04-21 19:51:09 Time Left: 1 minutes
+20-04-21 19:52:09 Next map: Lobby
+20-04-21 19:52:15 Lothic - Gothic Lobby Room
+20-04-21 19:57:15 Time Left: 5 minutes
+20-04-21 19:58:15 Time Left: 4 minutes
+20-04-21 19:59:15 Time Left: 3 minutes
+20-04-21 20:00:15 Time Left: 2 minutes
+20-04-21 20:01:15 Time Left: 1 minutes
+20-04-21 20:02:15 Next map: Lobby
+20-04-21 20:02:20 Lothic - Gothic Lobby Room
+20-04-21 20:07:20 Time Left: 5 minutes
+20-04-21 20:08:20 Time Left: 4 minutes
+20-04-21 20:09:20 Time Left: 3 minutes
+20-04-21 20:10:20 Time Left: 2 minutes
+20-04-21 20:11:20 Time Left: 1 minutes
+20-04-21 20:12:20 Next map: Lobby
+20-04-21 20:12:25 Lothic - Gothic Lobby Room
+20-04-21 20:17:25 Time Left: 5 minutes
+20-04-21 20:18:25 Time Left: 4 minutes
+20-04-21 20:19:25 Time Left: 3 minutes
+20-04-21 20:20:25 Time Left: 2 minutes
+20-04-21 20:21:25 Time Left: 1 minutes
+20-04-21 20:22:25 Next map: Lobby
+20-04-21 20:22:31 Lothic - Gothic Lobby Room
+20-04-21 20:27:30 Time Left: 5 minutes
+20-04-21 20:28:30 Time Left: 4 minutes
+20-04-21 20:29:30 Time Left: 3 minutes
+20-04-21 20:30:30 Time Left: 2 minutes
+20-04-21 20:31:30 Time Left: 1 minutes
+20-04-21 20:32:30 Next map: Lobby
+20-04-21 20:32:36 Lothic - Gothic Lobby Room
+20-04-21 20:37:36 Time Left: 5 minutes
+20-04-21 20:38:36 Time Left: 4 minutes
+20-04-21 20:39:36 Time Left: 3 minutes
+20-04-21 20:40:36 Time Left: 2 minutes
+20-04-21 20:41:36 Time Left: 1 minutes
+20-04-21 20:42:36 Next map: Lobby
+20-04-21 20:42:41 Lothic - Gothic Lobby Room
+20-04-21 20:47:41 Time Left: 5 minutes
+20-04-21 20:48:41 Time Left: 4 minutes
+20-04-21 20:49:41 Time Left: 3 minutes
+20-04-21 20:50:41 Time Left: 2 minutes
+20-04-21 20:51:41 Time Left: 1 minutes
+20-04-21 20:52:41 Next map: Lobby
+20-04-21 20:52:46 Lothic - Gothic Lobby Room
+20-04-21 20:57:46 Time Left: 5 minutes
+20-04-21 20:58:46 Time Left: 4 minutes
+20-04-21 20:59:46 Time Left: 3 minutes
+20-04-21 21:00:46 Time Left: 2 minutes
+20-04-21 21:01:46 Time Left: 1 minutes
+20-04-21 21:02:46 Next map: Lobby
+20-04-21 21:02:52 Lothic - Gothic Lobby Room
+20-04-21 21:07:52 Time Left: 5 minutes
+20-04-21 21:08:52 Time Left: 4 minutes
+20-04-21 21:09:52 Time Left: 3 minutes
+20-04-21 21:10:52 Time Left: 2 minutes
+20-04-21 21:11:52 Time Left: 1 minutes
+20-04-21 21:12:52 Next map: Lobby
+20-04-21 21:12:57 Lothic - Gothic Lobby Room
+20-04-21 21:17:57 Time Left: 5 minutes
+20-04-21 21:18:57 Time Left: 4 minutes
+20-04-21 21:19:57 Time Left: 3 minutes
+20-04-21 21:20:57 Time Left: 2 minutes
+20-04-21 21:21:57 Time Left: 1 minutes
+20-04-21 21:22:57 Next map: Lobby
+20-04-21 21:23:02 Lothic - Gothic Lobby Room
+20-04-21 21:28:02 Time Left: 5 minutes
+20-04-21 21:29:02 Time Left: 4 minutes
+20-04-21 21:30:02 Time Left: 3 minutes
+20-04-21 21:31:02 Time Left: 2 minutes
+20-04-21 21:32:02 Time Left: 1 minutes
+20-04-21 21:33:02 Next map: Lobby
+20-04-21 21:33:08 Lothic - Gothic Lobby Room
+20-04-21 21:38:08 Time Left: 5 minutes
+20-04-21 21:39:08 Time Left: 4 minutes
+20-04-21 21:40:08 Time Left: 3 minutes
+20-04-21 21:41:08 Time Left: 2 minutes
+20-04-21 21:42:08 Time Left: 1 minutes
+20-04-21 21:43:08 Next map: Lobby
+20-04-21 21:43:13 Lothic - Gothic Lobby Room
+20-04-21 21:48:13 Time Left: 5 minutes
+20-04-21 21:49:13 Time Left: 4 minutes
+20-04-21 21:50:13 Time Left: 3 minutes
+20-04-21 21:51:13 Time Left: 2 minutes
+20-04-21 21:52:13 Time Left: 1 minutes
+20-04-21 21:53:13 Next map: Lobby
+20-04-21 21:53:18 Lothic - Gothic Lobby Room
+20-04-21 21:58:18 Time Left: 5 minutes
+20-04-21 21:59:18 Time Left: 4 minutes
+20-04-21 22:00:18 Time Left: 3 minutes
+20-04-21 22:01:18 Time Left: 2 minutes
+20-04-21 22:02:18 Time Left: 1 minutes
+20-04-21 22:03:18 Next map: Lobby
+20-04-21 22:03:24 Lothic - Gothic Lobby Room
+20-04-21 22:08:24 Time Left: 5 minutes
+20-04-21 22:09:24 Time Left: 4 minutes
+20-04-21 22:10:24 Time Left: 3 minutes
+20-04-21 22:11:24 Time Left: 2 minutes
+20-04-21 22:12:24 Time Left: 1 minutes
+20-04-21 22:13:24 Next map: Lobby
+20-04-21 22:13:29 Lothic - Gothic Lobby Room
+20-04-21 22:18:29 Time Left: 5 minutes
+20-04-21 22:19:29 Time Left: 4 minutes
+20-04-21 22:20:29 Time Left: 3 minutes
+20-04-21 22:21:29 Time Left: 2 minutes
+20-04-21 22:22:29 Time Left: 1 minutes
+20-04-21 22:23:29 Next map: Lobby
+20-04-21 22:23:34 Lothic - Gothic Lobby Room
+20-04-21 22:28:34 Time Left: 5 minutes
+20-04-21 22:29:34 Time Left: 4 minutes
+20-04-21 22:30:34 Time Left: 3 minutes
+20-04-21 22:31:34 Time Left: 2 minutes
+20-04-21 22:32:34 Time Left: 1 minutes
+20-04-21 22:32:57 200.3.189.23:18694|7AE72C6BC4A requesting game...
+20-04-21 22:33:34 Next map: Lobby
+20-04-21 22:33:40 Lothic - Gothic Lobby Room
+20-04-21 22:34:04 181.203.88.195:19659|696908AC8E7 requesting game...
+20-04-21 22:34:04 |B.Forc3|.Turko joining game (181.203.88.195:19659) HWID:696908AC8E7
+20-04-21 22:34:04 |B.Forc3|.Turko has joined as spectator.
+20-04-21 22:34:07 |B.Forc3|.Turko has left spectators
+20-04-21 22:38:40 Time Left: 5 minutes
+20-04-21 22:39:40 Time Left: 4 minutes
+20-04-21 22:40:40 Time Left: 3 minutes
+20-04-21 22:41:40 Time Left: 2 minutes
+20-04-21 22:42:40 Time Left: 1 minutes
+20-04-21 22:43:40 Next map: Lobby
+20-04-21 22:43:45 Lothic - Gothic Lobby Room
+20-04-21 22:48:45 Time Left: 5 minutes
+20-04-21 22:49:45 Time Left: 4 minutes
+20-04-21 22:50:45 Time Left: 3 minutes
+20-04-21 22:51:45 Time Left: 2 minutes
+20-04-21 22:52:45 Time Left: 1 minutes
+20-04-21 22:53:45 Next map: Lobby
+20-04-21 22:53:50 Lothic - Gothic Lobby Room
+20-04-21 22:58:50 Time Left: 5 minutes
+20-04-21 22:59:50 Time Left: 4 minutes
+20-04-21 23:00:50 Time Left: 3 minutes
+20-04-21 23:01:50 Time Left: 2 minutes
+20-04-21 23:02:50 Time Left: 1 minutes
+20-04-21 23:03:50 Next map: Lobby
+20-04-21 23:03:56 Lothic - Gothic Lobby Room
+20-04-21 23:05:53 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-21 23:05:54 =E*R= Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-21 23:05:54 =E*R= Sadiko has joined alpha team.
+20-04-21 23:05:56 =E*R= Sadiko has left alpha team.
+20-04-21 23:08:56 Time Left: 5 minutes
+20-04-21 23:09:56 Time Left: 4 minutes
+20-04-21 23:10:56 Time Left: 3 minutes
+20-04-21 23:11:56 Time Left: 2 minutes
+20-04-21 23:12:56 Time Left: 1 minutes
+20-04-21 23:13:56 Next map: Lobby
+20-04-21 23:14:01 Lothic - Gothic Lobby Room
+20-04-21 23:19:01 Time Left: 5 minutes
+20-04-21 23:20:01 Time Left: 4 minutes
+20-04-21 23:21:01 Time Left: 3 minutes
+20-04-21 23:22:01 Time Left: 2 minutes
+20-04-21 23:23:01 Time Left: 1 minutes
+20-04-21 23:24:01 Next map: Lobby
+20-04-21 23:24:06 Lothic - Gothic Lobby Room
+20-04-21 23:29:06 Time Left: 5 minutes
+20-04-21 23:30:06 Time Left: 4 minutes
+20-04-21 23:31:06 Time Left: 3 minutes
+20-04-21 23:32:06 Time Left: 2 minutes
+20-04-21 23:33:06 Time Left: 1 minutes
+20-04-21 23:34:06 Next map: Lobby
+20-04-21 23:34:12 Lothic - Gothic Lobby Room
+20-04-21 23:39:12 Time Left: 5 minutes
+20-04-21 23:40:12 Time Left: 4 minutes
+20-04-21 23:41:12 Time Left: 3 minutes
+20-04-21 23:42:12 Time Left: 2 minutes
+20-04-21 23:43:12 Time Left: 1 minutes
+20-04-21 23:44:11 Next map: Lobby
+20-04-21 23:44:17 Lothic - Gothic Lobby Room
+20-04-21 23:49:17 Time Left: 5 minutes
+20-04-21 23:50:17 Time Left: 4 minutes
+20-04-21 23:51:17 Time Left: 3 minutes
+20-04-21 23:52:17 Time Left: 2 minutes
+20-04-21 23:53:17 Time Left: 1 minutes
+20-04-21 23:54:17 Next map: Lobby
+20-04-21 23:54:22 Lothic - Gothic Lobby Room
+20-04-21 23:59:22 Time Left: 5 minutes
+20-04-22 00:00:22 Time Left: 4 minutes
+20-04-22 00:01:22 Time Left: 3 minutes
+20-04-22 00:02:22 Time Left: 2 minutes
+20-04-22 00:03:22 Time Left: 1 minutes
+20-04-22 00:04:05 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-22 00:04:21 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-22 00:04:22 Next map: Lobby
+20-04-22 00:04:27 Lothic - Gothic Lobby Room
+20-04-22 00:09:27 Time Left: 5 minutes
+20-04-22 00:10:03 Admin connected (200.86.99.83).
+20-04-22 00:10:03 /maxplayers (200.86.99.83)
+20-04-22 00:10:03 Max players is 16
+20-04-22 00:10:03 /maxrespawntime (200.86.99.83)
+20-04-22 00:10:03 Maximum Respawn time is 5 seconds
+20-04-22 00:10:03 /respawntime (200.86.99.83)
+20-04-22 00:10:03 Respawn time is 3 seconds
+20-04-22 00:10:03 /limit (200.86.99.83)
+20-04-22 00:10:03 Current kill/point/capture limit is 10
+20-04-22 00:10:03 /timelimit (200.86.99.83)
+20-04-22 00:10:03 Current time limit is 10 minutes
+20-04-22 00:10:03 /friendlyfire (200.86.99.83)
+20-04-22 00:10:03 Friendly Fire is 0
+20-04-22 00:10:03 /scripting (200.86.99.83)
+20-04-22 00:10:03 Scripting is currently Enabled (1)
+20-04-22 00:10:03 /balance (200.86.99.83)
+20-04-22 00:10:03 Bot Balance is off (0)
+20-04-22 00:10:03 /bonus (200.86.99.83)
+20-04-22 00:10:03 Current bonus frequency is 0
+20-04-22 00:10:03 /vote% (200.86.99.83)
+20-04-22 00:10:03 Voting percent is 60
+20-04-22 00:10:27 Time Left: 4 minutes
+20-04-22 00:11:27 Time Left: 3 minutes
+20-04-22 00:12:27 Time Left: 2 minutes
+20-04-22 00:13:27 Time Left: 1 minutes
+20-04-22 00:14:27 Next map: Lobby
+20-04-22 00:14:33 Lothic - Gothic Lobby Room
+20-04-22 00:19:33 Time Left: 5 minutes
+20-04-22 00:20:33 Time Left: 4 minutes
+20-04-22 00:21:33 Time Left: 3 minutes
+20-04-22 00:22:33 Time Left: 2 minutes
+20-04-22 00:23:33 Time Left: 1 minutes
+20-04-22 00:24:33 Next map: Lobby
+20-04-22 00:24:38 Lothic - Gothic Lobby Room
+20-04-22 00:26:56 190.163.220.183:23073|30ECE4D3930 requesting game...
+20-04-22 00:26:57 |B.Forc3|.Dohko.Messi! joining game (190.163.220.183:23073) HWID:30ECE4D3930
+20-04-22 00:26:57 |B.Forc3|.Dohko.Messi! has joined as spectator.
+20-04-22 00:27:00 |B.Forc3|.Dohko.Messi! has left spectators
+20-04-22 00:29:38 Time Left: 5 minutes
+20-04-22 00:30:38 Time Left: 4 minutes
+20-04-22 00:31:38 Time Left: 3 minutes
+20-04-22 00:32:38 Time Left: 2 minutes
+20-04-22 00:33:38 Time Left: 1 minutes
+20-04-22 00:34:38 Next map: Lobby
+20-04-22 00:34:43 Lothic - Gothic Lobby Room
+20-04-22 00:39:43 Time Left: 5 minutes
+20-04-22 00:40:43 Time Left: 4 minutes
+20-04-22 00:41:43 Time Left: 3 minutes
+20-04-22 00:42:43 Time Left: 2 minutes
+20-04-22 00:43:43 Time Left: 1 minutes
+20-04-22 00:44:43 Next map: Lobby
+20-04-22 00:44:49 Lothic - Gothic Lobby Room
+20-04-22 00:49:49 Time Left: 5 minutes
+20-04-22 00:50:46 190.101.190.28:23073|348574D9644 requesting game...
+20-04-22 00:50:47 Waives|F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-04-22 00:50:47 Waives|F4ll.cL has joined alpha team.
+20-04-22 00:50:49 Time Left: 4 minutes
+20-04-22 00:50:49 Waives|F4ll.cL has left alpha team.
+20-04-22 00:51:19 201.214.236.103:23073|8007F30041B requesting game...
+20-04-22 00:51:19 eX.- Necro joining game (201.214.236.103:23073) HWID:8007F30041B
+20-04-22 00:51:19 eX.- Necro has joined as spectator.
+20-04-22 00:51:23 190.101.190.28:23073|348574D9644 requesting game...
+20-04-22 00:51:25 [UnK] F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-04-22 00:51:25 [UnK] F4ll.cL has joined alpha team.
+20-04-22 00:51:26 eX.- Necro has left spectators
+20-04-22 00:51:49 Time Left: 3 minutes
+20-04-22 00:51:56 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-22 00:51:58 uoL| rust joining game (190.22.47.23:23073) HWID:4C4052F23D1
+20-04-22 00:51:58 uoL| rust has joined alpha team.
+20-04-22 00:52:05 uoL| rust has left alpha team.
+20-04-22 00:52:23 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-22 00:52:24 [UnK] Atheria joining game (190.22.47.23:23073) HWID:4C4052F23D1
+20-04-22 00:52:24 [UnK] Atheria has joined alpha team.
+20-04-22 00:52:49 Time Left: 2 minutes
+20-04-22 00:53:00 [UnK] F4ll.cL has joined bravo team.
+20-04-22 00:53:03 [[UnK] F4ll.cL] !map ctf_Viet
+20-04-22 00:53:09 Viet
+20-04-22 00:53:21 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with FN Minimi
+20-04-22 00:53:22 [UnK] Atheria captured the Blue Flag
+20-04-22 00:53:42 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:53:47 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with FN Minimi
+20-04-22 00:53:59 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with FN Minimi
+20-04-22 00:54:07 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with FN Minimi
+20-04-22 00:54:07 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:54:17 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:54:22 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 00:54:29 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:54:34 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 00:54:42 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:54:46 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:54:47 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:54:55 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:55:01 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:55:05 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 00:55:08 [UnK] Atheria captured the Blue Flag
+20-04-22 00:55:09 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:55:18 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:55:19 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:55:24 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:55:29 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:55:39 [UnK] Atheria captured the Blue Flag
+20-04-22 00:55:41 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:55:45 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:55:47 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 00:55:52 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:55:58 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:56:07 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:56:14 [[UnK] F4ll.cL] !p
+20-04-22 00:56:14 Pausando...
+20-04-22 00:56:27 [[UnK] F4ll.cL] !up
+20-04-22 00:56:28 Despausando en: 3
+20-04-22 00:56:29 Despausando en: 2
+20-04-22 00:56:30 Despausando en: 1
+20-04-22 00:56:31 Go!
+20-04-22 00:56:36 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:56:40 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 00:56:53 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 00:56:57 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:57:06 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:57:06 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:57:17 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:57:20 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:57:30 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:57:31 [UnK] Atheria captured the Blue Flag
+20-04-22 00:57:37 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 00:57:41 [UnK] Atheria captured the Blue Flag
+20-04-22 00:57:48 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 00:57:51 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:57:55 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:58:00 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:58:11 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:58:17 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 00:58:26 Time Left: 5 minutes
+20-04-22 00:58:38 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:58:40 [UnK] Atheria captured the Blue Flag
+20-04-22 00:58:45 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:58:47 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 00:58:51 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:58:57 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:59:01 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 00:59:10 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:59:14 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Grenade
+20-04-22 00:59:26 Time Left: 4 minutes
+20-04-22 00:59:26 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:59:26 [UnK] Atheria captured the Blue Flag
+20-04-22 00:59:32 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:59:33 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 00:59:37 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 00:59:45 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 00:59:48 [UnK] F4ll.cL captured the Red Flag
+20-04-22 00:59:52 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 00:59:56 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 01:00:02 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:00:09 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:00:13 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:00:14 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:00:26 Time Left: 3 minutes
+20-04-22 01:00:26 [UnK] Atheria captured the Blue Flag
+20-04-22 01:00:28 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:00:32 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:00:35 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 01:00:41 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:00:46 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:00:57 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:01:04 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 01:01:07 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:01:13 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:01:13 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with LAW
+20-04-22 01:01:20 [UnK] Atheria returned the Red Flag
+20-04-22 01:01:26 Time Left: 2 minutes
+20-04-22 01:01:26 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:01:32 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:01:39 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 01:01:40 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:01:46 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:01:53 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:02:00 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:02:26 Time Left: 1 minutes
+20-04-22 01:02:26 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:02:33 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:02:44 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:02:46 [UnK] Atheria captured the Blue Flag
+20-04-22 01:02:53 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:02:59 [UnK] Atheria captured the Blue Flag
+20-04-22 01:03:02 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Grenade
+20-04-22 01:03:04 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 01:03:16 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:03:16 Next map: Lobby
+20-04-22 01:03:16 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:03:23  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-22 01:03:23 Lothic - Gothic Lobby Room
+20-04-22 01:03:38 [[UnK] F4ll.cL] !map ctf_Guardian
+20-04-22 01:03:43 ctf_Guardian by SuoW
+20-04-22 01:03:50 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:03:55 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:04:04 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:04:12 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:04:20 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:04:23 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 01:04:27 [UnK] Atheria returned the Red Flag
+20-04-22 01:04:29 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:04:36 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 01:04:36 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:04:43 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:04:49 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:04:55 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:05:01 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with HK MP5
+20-04-22 01:05:07 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:05:10 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:05:13 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:05:17 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:05:25 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:05:26 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Grenade
+20-04-22 01:05:39 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:05:44 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:05:50 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:05:54 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with LAW
+20-04-22 01:06:25 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:06:33 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with LAW
+20-04-22 01:06:46 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with LAW
+20-04-22 01:06:49 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:06:56 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:06:59 [UnK] Atheria captured the Blue Flag
+20-04-22 01:07:07 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:07:12 [UnK] F4ll.cL returned the Blue Flag
+20-04-22 01:07:15 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:07:26 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:07:30 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:07:34 [UnK] Atheria captured the Blue Flag
+20-04-22 01:07:47 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with Ruger 77
+20-04-22 01:07:49 [UnK] Atheria returned the Red Flag
+20-04-22 01:07:52 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:07:58 [UnK] F4ll.cL captured the Red Flag
+20-04-22 01:08:03 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:08:18 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:08:20 [UnK] F4ll.cL scores for Bravo Team
+20-04-22 01:08:25 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:08:32 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:08:38 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with LAW
+20-04-22 01:08:38 (2) [UnK] F4ll.cL killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:08:43 Time Left: 5 minutes
+20-04-22 01:08:50 (1) [UnK] Atheria killed (2) [UnK] F4ll.cL with M79
+20-04-22 01:08:51 [UnK] Atheria captured the Blue Flag
+20-04-22 01:10:14 [UnK] Atheria has left alpha team.
+20-04-22 01:10:14 [UnK] F4ll.cL has left bravo team.
+20-04-22 01:10:16 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:10:17 Registering server @ 88.99.234.252
+20-04-22 01:10:18 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:10:18 [O.S.O] TULON* has joined alpha team.
+20-04-22 01:10:20 [O.S.O] TULON* has left alpha team.
+20-04-22 01:11:05 Time Left: 4 minutes
+20-04-22 01:12:05 Time Left: 3 minutes
+20-04-22 01:12:06 190.101.190.28:23073|348574D9644 requesting game...
+20-04-22 01:12:07 [UnK] F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-04-22 01:12:07 [UnK] F4ll.cL has joined alpha team.
+20-04-22 01:12:19 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-22 01:12:21 [UnK] Atheria joining game (190.22.47.23:23073) HWID:4C4052F23D1
+20-04-22 01:12:21 [UnK] Atheria has joined alpha team.
+20-04-22 01:12:23 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:12:28 104.33.249.20:23073|512EEDE5A9C requesting game...
+20-04-22 01:12:30 [UnK] D$SH joining game (104.33.249.20:23073) HWID:512EEDE5A9C
+20-04-22 01:12:30 [UnK] D$SH has joined alpha team.
+20-04-22 01:12:36 [[UnK] F4ll.cL] they incoming
+20-04-22 01:12:38 (TEAM)[[UnK] F4ll.cL] come disc
+20-04-22 01:12:55 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-22 01:12:57 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-04-22 01:12:57 Divas| Enigma has joined as spectator.
+20-04-22 01:13:05 Time Left: 2 minutes
+20-04-22 01:13:08 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:13:09 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:13:09 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:13:10 191.84.65.230:23073|14189A02D27 requesting game...
+20-04-22 01:13:10 191.84.65.230:23073|14189A02D27 requesting game...
+20-04-22 01:13:12 Divas| Rattle joining game (191.84.65.230:23073) HWID:14189A02D27
+20-04-22 01:13:12 Divas| Rattle has joined bravo team.
+20-04-22 01:13:16 201.239.101.160:18542|1F7342C1D76 requesting game...
+20-04-22 01:13:16 201.239.101.160:18542|1F7342C1D76 requesting game...
+20-04-22 01:13:17 Divas| mipHo joining game (201.239.101.160:18542) HWID:1F7342C1D76
+20-04-22 01:13:17 Divas| mipHo has joined bravo team.
+20-04-22 01:13:17 (1) [UnK] D$SH killed (2) Divas| Rattle with Spas-12
+20-04-22 01:13:19 (TEAM)[[UnK] Atheria] i dont speak englando
+20-04-22 01:13:21 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:13:21 [[O.S.O] TULON*] titin
+20-04-22 01:13:27 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:13:29 (1) [UnK] D$SH killed (2) Divas| Rattle with Spas-12
+20-04-22 01:13:29 (2) Divas| Rattle killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:13:33 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:13:36 [UnK] Atheria captured the Blue Flag
+20-04-22 01:13:36 (2) Divas| Rattle killed (1) [UnK] F4ll.cL with Ruger 77
+20-04-22 01:13:36 [UnK] Atheria scores for Alpha Team
+20-04-22 01:13:39 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-22 01:13:40 (2) Divas| Rattle killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:13:40 Divas| mipHo captured the Red Flag
+20-04-22 01:13:40 Divas| Sk8' joining game (152.173.46.208:23073) HWID:604C8DA500F
+20-04-22 01:13:40 Divas| Sk8' has joined bravo team.
+20-04-22 01:13:41 (TEAM)[[UnK] D$SH] gua
+20-04-22 01:13:43 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:13:44 (TEAM)[[UnK] D$SH] whats tb
+20-04-22 01:13:47 Divas| mipHo scores for Bravo Team
+20-04-22 01:13:48 (2) Divas| Rattle killed (1) [UnK] D$SH with Grenade
+20-04-22 01:13:48 [Divas| Rattle] amigazo
+20-04-22 01:13:51 [Divas| Rattle] molestelos pa ganar
+20-04-22 01:13:52 (1) [UnK] Atheria killed (2) Divas| Rattle with Grenade
+20-04-22 01:13:59 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:13:59 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:14:01 (1) [UnK] D$SH killed (2) Divas| Rattle with Spas-12
+20-04-22 01:14:05 Time Left: 1 minutes
+20-04-22 01:14:11 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:14:11 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:14:14 (2) Divas| mipHo killed (1) [UnK] Atheria with Grenade
+20-04-22 01:14:16 Divas| mipHo captured the Red Flag
+20-04-22 01:14:19 (TEAM)[[UnK] D$SH] my daughter is watching me play right now
+20-04-22 01:14:20 (TEAM)[[UnK] D$SH] so we have to win
+20-04-22 01:14:21 Divas| mipHo captured the Red Flag
+20-04-22 01:14:26 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:14:26 (1) [UnK] D$SH killed (2) Divas| Sk8' with Grenade
+20-04-22 01:14:26 [[O.S.O] TULON*] me cambiee
+20-04-22 01:14:27 (1) [UnK] D$SH killed (2) Divas| Rattle with Spas-12
+20-04-22 01:14:29 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:14:30 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:14:32 (1) [UnK] D$SH killed (2) Divas| Rattle with Spas-12
+20-04-22 01:14:33 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:14:34 (TEAM)[[UnK] Atheria] i suck in this game dash carry me please
+20-04-22 01:14:35 (TEAM)[[UnK] D$SH] no 1
+20-04-22 01:14:38 (1) [UnK] D$SH killed (2) Divas| Sk8' with Grenade
+20-04-22 01:14:39 [Divas| Rattle] aban?
+20-04-22 01:14:41 Divas| mipHo captured the Red Flag
+20-04-22 01:14:42 (2) Divas| Rattle killed (1) [UnK] Atheria with Grenade
+20-04-22 01:14:45 192.141.199.203:46591|5C6E980A005 requesting game...
+20-04-22 01:14:46 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Ruger 77
+20-04-22 01:14:48 [[UnK] F4ll.cL] es spark el 
+20-04-22 01:14:48 (2) Divas| Rattle killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:14:49 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:14:50 Divas| Rattle returned the Blue Flag
+20-04-22 01:14:52 [[UnK] F4ll.cL] tb xd
+20-04-22 01:14:53 Divas| mipHo captured the Red Flag
+20-04-22 01:15:00 [[UnK] F4ll.cL] amm baneamos cobra
+20-04-22 01:15:02 (2) Divas| Sk8' killed (1) [UnK] Atheria with Ruger 77
+20-04-22 01:15:02 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:15:03 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:15:03 [UnK] D$SH returned the Red Flag
+20-04-22 01:15:05 [[UnK] F4ll.cL] pñerdon
+20-04-22 01:15:05 Next map: Lobby
+20-04-22 01:15:07 [[UnK] F4ll.cL] dropdown
+20-04-22 01:15:09 [[UnK] F4ll.cL] baneamos dropdown
+20-04-22 01:15:12 Lothic - Gothic Lobby Room
+20-04-22 01:15:12 Divas| Sk8' has left bravo team.
+20-04-22 01:15:12 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-22 01:15:15 Divas| Sk8' joining game (152.173.46.208:23073) HWID:604C8DA500F
+20-04-22 01:15:15 Divas| Sk8' has joined bravo team.
+20-04-22 01:15:20 [[UnK] D$SH] 5dont type curse words in server pls
+20-04-22 01:15:21 [[UnK] F4ll.cL] y stds
+20-04-22 01:15:25 [[UnK] D$SH] kids watching
+20-04-22 01:15:28 (2) Divas| Rattle killed (1) [UnK] F4ll.cL with M79
+20-04-22 01:15:34 [[UnK] Atheria] NIGG
+20-04-22 01:15:34 [Divas| Enigma] ok gringo
+20-04-22 01:15:35 [Divas| Rattle] baneamos blade
+20-04-22 01:15:41 [[UnK] F4ll.cL] ok
+20-04-22 01:15:42 (TEAM)[[UnK] Atheria] dash
+20-04-22 01:15:42 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:15:44 [[UnK] F4ll.cL] !map ctf_Guardian
+20-04-22 01:15:45 [[UnK] F4ll.cL] gogo
+20-04-22 01:15:49 ctf_Guardian by SuoW
+20-04-22 01:15:51 Divas| Enigma has joined alpha team.
+20-04-22 01:15:51 [Divas| Rattle] !s
+20-04-22 01:15:51 Divas| Rattle has joined spectators.
+20-04-22 01:15:52 Divas| Enigma has joined bravo team.
+20-04-22 01:15:55 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:15:57 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:15:57 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:16:02 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:16:05 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:16:08 [Divas| Rattle] votamos cobra
+20-04-22 01:16:08 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:16:08 (TEAM)[[UnK] D$SH] whts their map
+20-04-22 01:16:09 Divas| Enigma captured the Red Flag
+20-04-22 01:16:12 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:16:14 [Divas| mipHo] calmao
+20-04-22 01:16:16 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:16:17 Divas| Enigma scores for Bravo Team
+20-04-22 01:16:18 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:16:22 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Barrett M82A1
+20-04-22 01:16:23 (TEAM)[[UnK] D$SH] ok
+20-04-22 01:16:26 Divas| mipHo captured the Red Flag
+20-04-22 01:16:28 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:16:30 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:16:30 (2) Divas| Enigma killed (1) [UnK] D$SH with Barrett M82A1
+20-04-22 01:16:32 [[UnK] D$SH] !r
+20-04-22 01:16:32 Reiniciando...
+20-04-22 01:16:38 ctf_Guardian by SuoW
+20-04-22 01:16:38 [Divas| Enigma] calmao
+20-04-22 01:16:42 [Divas| Rattle] calmados
+20-04-22 01:16:42 [[UnK] F4ll.cL] okok
+20-04-22 01:16:42 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Combat Knife
+20-04-22 01:16:43 [Divas| Rattle] be quiet
+20-04-22 01:16:43 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:16:46 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:16:47 [UnK] D$SH captured the Blue Flag
+20-04-22 01:16:48 (2) Divas| Enigma killed (1) [UnK] Atheria with Desert Eagles
+20-04-22 01:16:48 [[UnK] F4ll.cL] este es el 1 partido
+20-04-22 01:16:50 [[UnK] F4ll.cL] q tenemos xd?
+20-04-22 01:16:51 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:16:53 [Divas| Sk8'] si
+20-04-22 01:16:55 [[UnK] F4ll.cL] okok
+20-04-22 01:16:57 [UnK] D$SH scores for Alpha Team
+20-04-22 01:16:57 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:16:59 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:17:01 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:17:03 (2) Divas| Enigma killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:17:07 [Divas| Rattle] alfinal votamos wretch
+20-04-22 01:17:08 [Divas| Rattle] go
+20-04-22 01:17:08 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:17:09 [Divas| Rattle] !r
+20-04-22 01:17:09 (1) [UnK] Atheria killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:17:12 [[UnK] F4ll.cL] ok
+20-04-22 01:17:15 [[UnK] F4ll.cL] !r
+20-04-22 01:17:15 Reiniciando...
+20-04-22 01:17:21 ctf_Guardian by SuoW
+20-04-22 01:17:23 [Divas| mipHo] !r
+20-04-22 01:17:23 Reiniciando...
+20-04-22 01:17:29 ctf_Guardian by SuoW
+20-04-22 01:17:29 [O.S.O] TULON* has left spectators
+20-04-22 01:17:31 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:17:32 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:17:32 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:17:32 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:17:34 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:17:38 (TEAM)[[UnK] Atheria] MEDIO/MID
+20-04-22 01:17:39 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:17:41 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:17:41 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:17:42 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:17:44 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:17:45 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:17:47 [O.S.O] TULON* has left spectators
+20-04-22 01:17:48 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:17:50 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:17:50 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:17:51 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:17:51 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:17:53 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:17:55 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:17:56 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:17:56 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:17:59 (2) Divas| mipHo killed (1) [UnK] D$SH with Grenade
+20-04-22 01:18:02 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:18:02 Divas| mipHo captured the Red Flag
+20-04-22 01:18:02 Divas| mipHo returned the Blue Flag
+20-04-22 01:18:04 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Grenade
+20-04-22 01:18:07 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:18:13 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:18:15 [O.S.O] TULON* has left spectators
+20-04-22 01:18:17 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:18:18 (1) [UnK] D$SH killed (2) Divas| mipHo with Hands
+20-04-22 01:18:21 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:18:22 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:18:24 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:18:26 (1) [UnK] D$SH killed (2) Divas| Sk8' with LAW
+20-04-22 01:18:27 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:18:27 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:18:30 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:18:31 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:18:32 152.174.13.85:23073|2659D0DE306 requesting game...
+20-04-22 01:18:32 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:18:34 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:18:35 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:18:36 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:18:36 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:18:36 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:18:37 [[UnK] F4ll.cL] !p
+20-04-22 01:18:37 Pausando...
+20-04-22 01:18:41 [Divas| Rattle] !sp
+20-04-22 01:18:43 [[UnK] F4ll.cL] !up
+20-04-22 01:18:43 Despausando en: 3
+20-04-22 01:18:44 Despausando en: 2
+20-04-22 01:18:45 Despausando en: 1
+20-04-22 01:18:46 Go!
+20-04-22 01:18:47 (2) Divas| Sk8' killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:18:51 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:18:52 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:18:53 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:18:55 (2) Divas| mipHo killed (1) [UnK] D$SH with LAW
+20-04-22 01:19:00 (2) Divas| Enigma killed (1) [UnK] Atheria with FN Minimi
+20-04-22 01:19:00 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:19:02 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:19:03 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with FN Minimi
+20-04-22 01:19:05 Divas| Enigma captured the Red Flag
+20-04-22 01:19:07 Divas| Enigma captured the Red Flag
+20-04-22 01:19:07 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:19:08 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:19:10 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Hands
+20-04-22 01:19:12 (2) Divas| Sk8' killed (1) [UnK] D$SH with Grenade
+20-04-22 01:19:14 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:19:15 Divas| mipHo captured the Red Flag
+20-04-22 01:19:16 (2) Divas| Enigma killed (1) [UnK] Atheria with FN Minimi
+20-04-22 01:19:18 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:19:18 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Combat Knife
+20-04-22 01:19:19 Divas| mipHo scores for Bravo Team
+20-04-22 01:19:19 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-22 01:19:19 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:19:20 (2) Divas| Sk8' killed (1) [UnK] D$SH with Grenade
+20-04-22 01:19:25 (2) Divas| Enigma killed (1) [UnK] Atheria with FN Minimi
+20-04-22 01:19:26 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:19:26 HughscL joining game (45.168.70.189:23073) HWID:7EC3BB161E5
+20-04-22 01:19:26 HughscL has joined as spectator.
+20-04-22 01:19:27 HughscL has left spectators
+20-04-22 01:19:29 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:19:29 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:19:29 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:19:31 [UnK] D$SH captured the Blue Flag
+20-04-22 01:19:33 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-22 01:19:34 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:19:34 (2) Divas| Enigma killed (1) [UnK] D$SH with FN Minimi
+20-04-22 01:19:35 cN.HughscL joining game (45.168.70.189:23073) HWID:7EC3BB161E5
+20-04-22 01:19:35 cN.HughscL has joined as spectator.
+20-04-22 01:19:36 [UnK] Atheria captured the Blue Flag
+20-04-22 01:19:37 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:19:38 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:19:39 Divas| mipHo captured the Red Flag
+20-04-22 01:19:41 [O.S.O] TULON* has left spectators
+20-04-22 01:19:44 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:19:46 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:19:48 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:19:48 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:19:51 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:19:51 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:19:51 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:19:55 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:19:57 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:19:58 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:19:59 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:20:00 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:20:01 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:20:02 Divas| mipHo returned the Blue Flag
+20-04-22 01:20:02 Divas| mipHo captured the Red Flag
+20-04-22 01:20:05 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:20:08 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:20:08 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:20:08 [UnK] Atheria captured the Blue Flag
+20-04-22 01:20:09 [UnK] D$SH returned the Red Flag
+20-04-22 01:20:10 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Combat Knife
+20-04-22 01:20:11 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:20:12 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:20:15 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:20:18 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with FN Minimi
+20-04-22 01:20:19 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:20:19 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:20:20 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:20:20 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:20:20 Divas| mipHo captured the Red Flag
+20-04-22 01:20:22 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:20:22 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:20:23 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with LAW
+20-04-22 01:20:25 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:20:31 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:20:33 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with LAW
+20-04-22 01:20:35 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:20:35 [UnK] Atheria returned the Red Flag
+20-04-22 01:20:36 [UnK] Atheria captured the Blue Flag
+20-04-22 01:20:40 [UnK] Atheria scores for Alpha Team
+20-04-22 01:20:40 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:20:42 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:20:43 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:20:43 [UnK] D$SH captured the Blue Flag
+20-04-22 01:20:45 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:20:48 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:20:49 [UnK] D$SH scores for Alpha Team
+20-04-22 01:20:51 Divas| Enigma captured the Red Flag
+20-04-22 01:20:52 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:20:55 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:20:58 [O.S.O] TULON* has left spectators
+20-04-22 01:21:02 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:21:03 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:21:04 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:21:07 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:21:07 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:21:08 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:21:09 (1) [UnK] Atheria killed (2) Divas| mipHo with Grenade
+20-04-22 01:21:11 (1) [UnK] D$SH killed (2) Divas| Sk8' with LAW
+20-04-22 01:21:12 Divas| Enigma returned the Blue Flag
+20-04-22 01:21:15 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:21:17 (2) Divas| mipHo killed (1) [UnK] Atheria with LAW
+20-04-22 01:21:18 (TEAM)[[UnK] Atheria] MEDIO/MID
+20-04-22 01:21:18 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:21:20 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:21:21 Divas| mipHo captured the Red Flag
+20-04-22 01:21:23 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:21:23 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-22 01:21:24 [O.S.O] TULON* joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-22 01:21:24 [O.S.O] TULON* has joined as spectator.
+20-04-22 01:21:28 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:21:28 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:21:30 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:21:36 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:21:38 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:21:40 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:21:42 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:21:45 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:21:46 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:21:46 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:21:49 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:21:49 [UnK] F4ll.cL scores for Alpha Team
+20-04-22 01:21:50 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:21:55 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:21:56 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:22:00 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:22:00 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:22:01 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:22:04 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:22:05 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:22:05 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:22:07 97.101.133.191:23073|BAF5E73A5B0 requesting game...
+20-04-22 01:22:10 97.101.133.191:23073|BAF5E73A5B0 requesting game...
+20-04-22 01:22:10 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:22:11 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:22:11 (1) [UnK] Atheria killed (2) Divas| Sk8' with Grenade
+20-04-22 01:22:17 213.127.126.51:19855|79350F95E5D requesting game...
+20-04-22 01:22:18 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:22:20 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:22:20 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:22:24 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:22:25 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-22 01:22:27 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:22:27 Divas| Sk8' captured the Red Flag
+20-04-22 01:22:28 #KbN! Shaka Ohma joining game (190.160.115.174:23073) HWID:5FD3AE3E9B6
+20-04-22 01:22:28 #KbN! Shaka Ohma has joined as spectator.
+20-04-22 01:22:31 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:22:31 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:22:33 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:22:34 [UnK] Atheria returned the Red Flag
+20-04-22 01:22:35 [UnK] D$SH captured the Blue Flag
+20-04-22 01:22:35 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:22:37 [UnK] D$SH scores for Alpha Team
+20-04-22 01:22:37 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:22:37 Time Left: 5 minutes
+20-04-22 01:22:38 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:22:40 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:22:41 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:22:43 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:22:44 (TEAM)[Divas| Sk8'] INC TOP
+20-04-22 01:22:45 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:22:46 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:22:46 201.188.101.103:23073|2498EB4F8BB requesting game...
+20-04-22 01:22:47 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:22:47 (1) [UnK] D$SH killed (2) Divas| Sk8' with Grenade
+20-04-22 01:22:49 [UnK] D$SH captured the Blue Flag
+20-04-22 01:22:52 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:22:54 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:22:55 (2) Divas| mipHo killed (1) [UnK] Atheria with LAW
+20-04-22 01:22:57 Divas| Sk8' captured the Red Flag
+20-04-22 01:22:58 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with LAW
+20-04-22 01:22:59 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:23:01 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:02 (TEAM)[[UnK] D$SH] LOW HP!!
+20-04-22 01:23:02 Divas| Sk8' returned the Blue Flag
+20-04-22 01:23:04 (2) Divas| mipHo killed (1) [UnK] Atheria with Grenade
+20-04-22 01:23:06 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:23:06 Divas| Sk8' scores for Bravo Team
+20-04-22 01:23:07 (1) [UnK] D$SH killed (2) Divas| Sk8' with LAW
+20-04-22 01:23:08 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:11 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:23:12 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:23:12 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:23:13 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:23:15 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:15 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:23:16 (2) Divas| Enigma killed (1) [UnK] Atheria with Combat Knife
+20-04-22 01:23:19 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:23:22 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:23 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:23:24 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:23:24 (TEAM)[Divas| Sk8'] INC TOP
+20-04-22 01:23:27 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:23:28 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:23:29 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:23:29 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:31 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:23:35 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:23:36 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:37 Time Left: 4 minutes
+20-04-22 01:23:38 (2) Divas| Enigma killed (1) [UnK] Atheria with Ak-74
+20-04-22 01:23:39 (TEAM)[[UnK] D$SH] INC MID
+20-04-22 01:23:43 #KbN! Shaka Ohma gets a ping warning
+20-04-22 01:23:43 #KbN! Shaka Ohma has been kicked and banned for 15 minutes (Ping Kick)
+20-04-22 01:23:44 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:23:45 (2) Divas| Enigma killed (1) [UnK] D$SH with Ak-74
+20-04-22 01:23:48 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:23:50 (1) [UnK] Atheria killed (2) Divas| Sk8' with Grenade
+20-04-22 01:23:53 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:23:53 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:23:54 [UnK] D$SH captured the Blue Flag
+20-04-22 01:23:56 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:23:59 (2) Divas| Sk8' killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:24:02 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:24:03 Divas| Sk8' captured the Red Flag
+20-04-22 01:24:05 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:24:06 (TEAM)[[UnK] Atheria] MEDIO/MID
+20-04-22 01:24:07 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:24:08 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:24:08 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:24:09 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:24:11 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:24:14 [UnK] Atheria returned the Red Flag
+20-04-22 01:24:16 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:24:16 [UnK] Atheria captured the Blue Flag
+20-04-22 01:24:16 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:24:20 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:24:22 (2) Divas| Enigma killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:24:22 Divas| Sk8' returned the Blue Flag
+20-04-22 01:24:23 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:24:26 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:24:28 Divas| Sk8' captured the Red Flag
+20-04-22 01:24:29 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:24:29 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:24:31 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:24:33 [UnK] Atheria captured the Blue Flag
+20-04-22 01:24:36 (2) Divas| mipHo killed (1) [UnK] Atheria with Grenade
+20-04-22 01:24:36 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:24:36 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:24:37 Time Left: 3 minutes
+20-04-22 01:24:37 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with LAW
+20-04-22 01:24:41 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:24:42 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:24:43 Divas| Enigma returned the Blue Flag
+20-04-22 01:24:44 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:24:44 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:24:46 (TEAM)[[UnK] D$SH] INC LOW
+20-04-22 01:24:46 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:24:50 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:24:52 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:24:53 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with LAW
+20-04-22 01:24:55 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:24:57 181.43.35.48:23073|4001BC38B7E requesting game...
+20-04-22 01:24:58 Divas| Sk8' captured the Red Flag
+20-04-22 01:24:59 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:25:01 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:25:02 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:25:02 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:25:03 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:25:04 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:25:04 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:25:05 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:25:08 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:25:08 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with LAW
+20-04-22 01:25:11 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:25:16 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:25:16 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:25:17 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:25:18 (TEAM)[Divas| Sk8'] INC TOP
+20-04-22 01:25:19 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:25:20 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:25:22 [UnK] Atheria captured the Blue Flag
+20-04-22 01:25:24 (2) Divas| Enigma killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:25:25 Divas| Enigma returned the Blue Flag
+20-04-22 01:25:25 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:25:27 Divas| Enigma captured the Red Flag
+20-04-22 01:25:28 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:25:29 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:25:30 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:25:31 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:25:32 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:25:34 [UnK] Atheria returned the Red Flag
+20-04-22 01:25:36 [UnK] Atheria captured the Blue Flag
+20-04-22 01:25:37 Time Left: 2 minutes
+20-04-22 01:25:38 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Steyr AUG
+20-04-22 01:25:38 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:25:40 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:25:41 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:25:43 [UnK] Atheria scores for Alpha Team
+20-04-22 01:25:44 (1) [UnK] D$SH killed (2) Divas| Enigma with LAW
+20-04-22 01:25:47 (2) Divas| mipHo killed (1) [UnK] Atheria with Grenade
+20-04-22 01:25:48 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:25:49 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:25:50 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:25:53 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:25:58 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Steyr AUG
+20-04-22 01:26:00 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:26:00 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:26:01 (TEAM)[[UnK] Atheria] MEDIO/MID
+20-04-22 01:26:05 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:26:05 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:26:06 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Grenade
+20-04-22 01:26:07 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:26:08 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:26:13 Divas| Sk8' captured the Red Flag
+20-04-22 01:26:13 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:26:15 (TEAM)[[UnK] D$SH] EFC LOW
+20-04-22 01:26:16 (2) Divas| Enigma killed (1) [UnK] Atheria with FN Minimi
+20-04-22 01:26:17 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with FN Minimi
+20-04-22 01:26:20 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:26:20 Divas| Sk8' scores for Bravo Team
+20-04-22 01:26:22 Divas| mipHo captured the Red Flag
+20-04-22 01:26:23 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:26:24 192.141.199.203:46591|5C6E980A005 requesting game...
+20-04-22 01:26:26 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:26:29 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:26:31 (1) [UnK] D$SH killed (2) Divas| mipHo with LAW
+20-04-22 01:26:33 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:26:35 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:26:37 Time Left: 1 minutes
+20-04-22 01:26:38 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:26:39 (2) Divas| Enigma killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:26:41 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:26:45 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:26:45 45.173.28.32:23073|5D00135A21D requesting game...
+20-04-22 01:26:45 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:26:47 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:26:51 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:26:52 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:26:53 (TEAM)[[UnK] D$SH] INC MID
+20-04-22 01:26:53 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:26:54 Divas| Enigma captured the Red Flag
+20-04-22 01:26:55 (TEAM)[[UnK] D$SH] BASE HOT
+20-04-22 01:26:55 (TEAM)[[UnK] D$SH] EFC LOW
+20-04-22 01:26:58 [UnK] Atheria captured the Blue Flag
+20-04-22 01:27:00 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:27:00 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Grenade
+20-04-22 01:27:01 Divas| Enigma returned the Blue Flag
+20-04-22 01:27:01 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:27:02 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:27:02 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:27:03 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:27:07 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:27:09 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:27:11 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:27:11 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:27:12 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:27:12 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:27:13 [UnK] D$SH captured the Blue Flag
+20-04-22 01:27:16 [UnK] D$SH scores for Alpha Team
+20-04-22 01:27:17 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:27:17 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:27:20 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:27:24 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:27:26 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:27:27 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:27:28 Divas| Sk8' captured the Red Flag
+20-04-22 01:27:29 189.29.21.246:23073|2FA418A1F90 requesting game...
+20-04-22 01:27:29 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:27:33 (2) Divas| Enigma killed (1) [UnK] Atheria with FN Minimi
+20-04-22 01:27:35 Divas| Sk8' scores for Bravo Team
+20-04-22 01:27:35 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Steyr AUG
+20-04-22 01:27:37 Next map: Lobby
+20-04-22 01:27:40 179.108.92.18:27763|91935C3BDC3 requesting game...
+20-04-22 01:27:44 Lothic - Gothic Lobby Room
+20-04-22 01:27:51 [[UnK] D$SH] !map Wretch
+20-04-22 01:27:52 (TEAM)[[UnK] D$SH] FFC LOW
+20-04-22 01:27:57 Wretch by AdamD
+20-04-22 01:28:03 [Divas| mipHo] !r
+20-04-22 01:28:03 Reiniciando...
+20-04-22 01:28:09 Wretch by AdamD
+20-04-22 01:28:10 191.84.65.230:23073|14189A02D27 requesting game...
+20-04-22 01:28:10 191.84.65.230:23073|14189A02D27 requesting game...
+20-04-22 01:28:11 Divas| Rattle joining game (191.84.65.230:23073) HWID:14189A02D27
+20-04-22 01:28:11 Divas| Rattle has joined as spectator.
+20-04-22 01:28:14 (2) Divas| mipHo killed (1) [UnK] Atheria with LAW
+20-04-22 01:28:15 (TEAM)[[UnK] Atheria] ARRIBA/TOP
+20-04-22 01:28:15 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:28:15 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:28:21 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:28:21 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:28:22 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:28:22 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:28:24 Divas| Sk8' captured the Red Flag
+20-04-22 01:28:24 (TEAM)[[UnK] D$SH] LOW HP!!
+20-04-22 01:28:25 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:28:26 Divas| mipHo captured the Red Flag
+20-04-22 01:28:28 (1) [UnK] D$SH killed (2) Divas| Sk8' with Combat Knife
+20-04-22 01:28:30 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:28:30 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:28:34 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:28:34 (2) Divas| Sk8' killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:28:36 Divas| mipHo scores for Bravo Team
+20-04-22 01:28:37 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:28:38 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:28:39 [UnK] Atheria captured the Blue Flag
+20-04-22 01:28:40 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:28:40 Divas| mipHo returned the Blue Flag
+20-04-22 01:28:42 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:28:44 (TEAM)[Divas| Sk8'] INC LOW
+20-04-22 01:28:45 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:28:48 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:28:49 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:28:51 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:28:54 [UnK] D$SH captured the Blue Flag
+20-04-22 01:28:54 (1) [UnK] D$SH killed (2) Divas| Sk8' with Grenade
+20-04-22 01:28:56 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:28:59 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:29:00 [UnK] D$SH scores for Alpha Team
+20-04-22 01:29:03 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:29:04 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:29:06 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:29:06 (2) Divas| Sk8' killed (1) [UnK] D$SH with Grenade
+20-04-22 01:29:11 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:29:14 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:29:16 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:29:17 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:29:18 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:29:21 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:29:23 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:29:25 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:29:25 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:29:29 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:29:31 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:29:33 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:29:36 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:29:43 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:29:44 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:29:44 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:29:45 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:29:50 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:29:51 (2) Divas| Sk8' killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:29:52 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:29:56 (1) [UnK] Atheria killed (2) Divas| Enigma with Combat Knife
+20-04-22 01:29:56 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:29:56 [UnK] Atheria captured the Blue Flag
+20-04-22 01:29:57 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:29:57 45.173.28.32:23073|5D00135A21D requesting game...
+20-04-22 01:29:59 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:29:59 (2) Divas| Sk8' killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:30:02 Divas| Sk8' returned the Blue Flag
+20-04-22 01:30:02 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with LAW
+20-04-22 01:30:03 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:30:06 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:30:09 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:30:11 [UnK] Atheria returned the Red Flag
+20-04-22 01:30:13 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:30:14 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:30:14 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:30:20 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:30:21 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:30:23 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:30:26 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:30:28 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:30:31 (2) Divas| Sk8' killed (1) [UnK] D$SH with Grenade
+20-04-22 01:30:35 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:30:36 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:30:37 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:30:38 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:30:43 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:30:47 (2) Divas| Enigma killed (1) [UnK] D$SH with Combat Knife
+20-04-22 01:30:47 Divas| Enigma captured the Red Flag
+20-04-22 01:30:48 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:30:50 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:30:52 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:30:55 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:30:58 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:30:58 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:31:01 [UnK] Atheria captured the Blue Flag
+20-04-22 01:31:02 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:31:02 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:31:05 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:31:05 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Combat Knife
+20-04-22 01:31:07 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:31:07 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Combat Knife
+20-04-22 01:31:08 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:31:09 [UnK] D$SH captured the Blue Flag
+20-04-22 01:31:11 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:31:14 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:31:17 (2) Divas| mipHo killed (1) [UnK] D$SH with LAW
+20-04-22 01:31:19 [[UnK] D$SH] ns
+20-04-22 01:31:19 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:31:19 [UnK] F4ll.cL scores for Alpha Team
+20-04-22 01:31:20 (1) [UnK] Atheria killed (2) Divas| Sk8' with Grenade
+20-04-22 01:31:21 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:31:21 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:31:21 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:31:22 Divas| Enigma captured the Red Flag
+20-04-22 01:31:27 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:31:29 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:31:29 Divas| mipHo captured the Red Flag
+20-04-22 01:31:29 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:31:30 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:31:31 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:31:33 [UnK] Atheria returned the Red Flag
+20-04-22 01:31:33 [[UnK] Atheria] Humi o no?
+20-04-22 01:31:38 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:31:39 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:31:42 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:31:48 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:31:50 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:31:52 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:31:54 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:31:55 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:31:57 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:32:00 Divas| Enigma captured the Red Flag
+20-04-22 01:32:00 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:32:01 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:32:01 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:32:02 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:32:04 [UnK] D$SH returned the Red Flag
+20-04-22 01:32:09 (2) Divas| mipHo killed (1) [UnK] D$SH with Grenade
+20-04-22 01:32:09 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:32:12 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:32:16 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:32:19 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:32:19 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:32:23 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:32:27 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:32:29 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:32:31 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:32:32 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:32:33 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:32:36 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:32:38 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:32:39 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:32:44 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:32:45 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:32:49 (2) Divas| Enigma killed (1) [UnK] D$SH with Combat Knife
+20-04-22 01:32:49 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:32:51 [UnK] Atheria captured the Blue Flag
+20-04-22 01:32:53 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:32:54 [UnK] Atheria captured the Blue Flag
+20-04-22 01:32:54 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:32:56 Divas| Sk8' returned the Blue Flag
+20-04-22 01:32:58 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:33:00 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:33:02 [UnK] D$SH captured the Blue Flag
+20-04-22 01:33:02 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:33:02 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:33:05 Divas| Sk8' returned the Blue Flag
+20-04-22 01:33:08 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:33:08 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:33:08 Time Left: 5 minutes
+20-04-22 01:33:10 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:33:10 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:33:13 [UnK] D$SH captured the Blue Flag
+20-04-22 01:33:14 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:33:17 (1) [UnK] Atheria killed (2) Divas| Sk8' with Grenade
+20-04-22 01:33:18 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:33:20 [UnK] D$SH scores for Alpha Team
+20-04-22 01:33:21 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:33:21 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:33:23 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:33:28 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:33:28 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:33:30 (2) Divas| Sk8' killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:33:33 Divas| Sk8' captured the Red Flag
+20-04-22 01:33:34 (1) [UnK] D$SH killed (2) Divas| Sk8' with Combat Knife
+20-04-22 01:33:36 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:33:40 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:33:41 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:33:41 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:33:44 (TEAM)[[UnK] D$SH] INC LOW
+20-04-22 01:33:45 Divas| Sk8' captured the Red Flag
+20-04-22 01:33:47 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:33:49 [UnK] D$SH returned the Red Flag
+20-04-22 01:33:49 (2) Divas| Enigma killed (1) [UnK] D$SH with Grenade
+20-04-22 01:33:51 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:33:52 Divas| mipHo captured the Red Flag
+20-04-22 01:33:54 (TEAM)[[UnK] D$SH] EFC LOW
+20-04-22 01:33:54 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:33:57 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:33:58 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:33:59 [UnK] Atheria returned the Red Flag
+20-04-22 01:33:59 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Grenade
+20-04-22 01:33:59 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:34:00 (RADIO)[Divas| Enigma] INC LOW
+20-04-22 01:34:01 [UnK] D$SH captured the Blue Flag
+20-04-22 01:34:02 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:34:04 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:34:06 (1) [UnK] D$SH killed (2) Divas| Enigma with Grenade
+20-04-22 01:34:06 [UnK] F4ll.cL captured the Blue Flag
+20-04-22 01:34:08 Time Left: 4 minutes
+20-04-22 01:34:09 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:34:09 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:34:11 [UnK] F4ll.cL scores for Alpha Team
+20-04-22 01:34:16 (2) Divas| mipHo killed (1) [UnK] D$SH with Grenade
+20-04-22 01:34:16 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:34:17 (TEAM)[[UnK] D$SH] LOW HP!!
+20-04-22 01:34:17 (2) Divas| Enigma killed (1) [UnK] Atheria with Grenade
+20-04-22 01:34:18 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:34:20 Divas| Sk8' captured the Red Flag
+20-04-22 01:34:23 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:34:26 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:34:26 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:34:27 [UnK] D$SH returned the Red Flag
+20-04-22 01:34:30 (2) Divas| mipHo killed (1) [UnK] Atheria with LAW
+20-04-22 01:34:33 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:34:33 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:34:34 Divas| mipHo captured the Red Flag
+20-04-22 01:34:34 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Grenade
+20-04-22 01:34:35 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:34:35 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:34:45 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:34:45 (2) Divas| Sk8' killed (1) [UnK] Atheria with Grenade
+20-04-22 01:34:50 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Grenade
+20-04-22 01:34:50 Divas| mipHo captured the Red Flag
+20-04-22 01:34:51 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with Grenade
+20-04-22 01:34:54 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:34:56 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:34:59 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:34:59 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:35:00 (2) Divas| mipHo killed (1) [UnK] D$SH with Grenade
+20-04-22 01:35:06 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:35:06 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with Hands
+20-04-22 01:35:06 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:35:08 Time Left: 3 minutes
+20-04-22 01:35:09 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:35:13 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:35:15 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:35:16 (2) Divas| Sk8' killed (1) [UnK] D$SH with LAW
+20-04-22 01:35:17 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:35:18 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:35:25 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:35:26 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:35:27 (2) Divas| mipHo killed (1) [UnK] Atheria with Grenade
+20-04-22 01:35:27 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:35:28 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:35:35 [UnK] D$SH captured the Blue Flag
+20-04-22 01:35:35 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:35:35 (2) Divas| Sk8' killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:35:37 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:35:39 (TEAM)[[UnK] Atheria] ABAJO/LOW
+20-04-22 01:35:41 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:35:43 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:35:43 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:35:43 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:35:44 (TEAM)[Divas| Sk8'] EFC LOW
+20-04-22 01:35:45 (TEAM)[Divas| Sk8'] INC LOW
+20-04-22 01:35:45 [Divas| Sk8'] 111
+20-04-22 01:35:46 [UnK] D$SH captured the Blue Flag
+20-04-22 01:35:47 (1) [UnK] D$SH killed (2) Divas| mipHo with Grenade
+20-04-22 01:35:51 (2) Divas| Enigma killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:35:51 (1) [UnK] Atheria killed (2) Divas| Sk8' with Grenade
+20-04-22 01:35:52 [UnK] D$SH scores for Alpha Team
+20-04-22 01:35:55 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:36:00 [UnK] D$SH captured the Blue Flag
+20-04-22 01:36:01 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:36:02 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:36:04 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:36:04 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:36:05 Divas| Enigma returned the Blue Flag
+20-04-22 01:36:08 Time Left: 2 minutes
+20-04-22 01:36:12 (1) [UnK] D$SH killed (2) Divas| mipHo with Spas-12
+20-04-22 01:36:13 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:36:14 [UnK] D$SH captured the Blue Flag
+20-04-22 01:36:15 (2) Divas| Sk8' killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:36:17 (1) [UnK] D$SH killed (2) Divas| Enigma with Spas-12
+20-04-22 01:36:19 Divas| Sk8' captured the Red Flag
+20-04-22 01:36:20 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:36:20 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:36:20 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:36:21 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:36:21 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:36:23 [UnK] D$SH scores for Alpha Team
+20-04-22 01:36:26 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:36:27 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:36:28 (TEAM)[[UnK] D$SH] BASE HOT
+20-04-22 01:36:29 Divas| Enigma captured the Red Flag
+20-04-22 01:36:32 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:36:32 (1) [UnK] Atheria killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:36:34 (1) [UnK] Atheria killed (2) Divas| Enigma with Grenade
+20-04-22 01:36:37 [UnK] D$SH captured the Blue Flag
+20-04-22 01:36:38 [UnK] F4ll.cL returned the Red Flag
+20-04-22 01:36:40 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:36:44 [UnK] D$SH scores for Alpha Team
+20-04-22 01:36:44 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with Combat Knife
+20-04-22 01:36:45 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Combat Knife
+20-04-22 01:36:48 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:36:48 Divas| mipHo captured the Red Flag
+20-04-22 01:36:50 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:36:52 (2) Divas| Sk8' killed (1) [UnK] Atheria with LAW
+20-04-22 01:36:54 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:36:54 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:36:54 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:36:57 [UnK] D$SH captured the Blue Flag
+20-04-22 01:36:58 (2) Divas| mipHo killed (1) [UnK] D$SH with Grenade
+20-04-22 01:37:01 (2) Divas| Sk8' killed (1) [UnK] Atheria with HK MP5
+20-04-22 01:37:05 (1) [UnK] F4ll.cL killed (2) Divas| mipHo with HK MP5
+20-04-22 01:37:06 Divas| Sk8' captured the Red Flag
+20-04-22 01:37:06 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:37:08 Time Left: 1 minutes
+20-04-22 01:37:09 (1) [UnK] Atheria killed (2) Divas| Enigma with HK MP5
+20-04-22 01:37:10 [UnK] D$SH captured the Blue Flag
+20-04-22 01:37:15 (1) [UnK] F4ll.cL killed (2) Divas| Sk8' with HK MP5
+20-04-22 01:37:15 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:37:17 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:37:18 [UnK] Atheria captured the Blue Flag
+20-04-22 01:37:19 Divas| Sk8' captured the Red Flag
+20-04-22 01:37:19 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Grenade
+20-04-22 01:37:23 190.160.115.174:23073|5FD3AE3E9B6 requesting game (Ping Kick)...
+20-04-22 01:37:23 (2) Divas| mipHo killed (1) [UnK] Atheria with Spas-12
+20-04-22 01:37:25 Divas| Enigma returned the Blue Flag
+20-04-22 01:37:27 (2) Divas| Enigma killed (1) [UnK] F4ll.cL with Steyr AUG
+20-04-22 01:37:29 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:37:29 [UnK] D$SH returned the Red Flag
+20-04-22 01:37:30 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:37:33 [UnK] D$SH captured the Blue Flag
+20-04-22 01:37:33 Divas| Enigma captured the Red Flag
+20-04-22 01:37:34 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:37:38 [UnK] Atheria returned the Red Flag
+20-04-22 01:37:40 Divas| Sk8' returned the Blue Flag
+20-04-22 01:37:40 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:37:40 (2) Divas| mipHo killed (1) [UnK] D$SH with Spas-12
+20-04-22 01:37:43 (2) Divas| mipHo killed (1) [UnK] F4ll.cL with Spas-12
+20-04-22 01:37:46 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:37:48 (2) Divas| Enigma killed (1) [UnK] Atheria with Steyr AUG
+20-04-22 01:37:53 (2) Divas| Enigma killed (1) [UnK] D$SH with Steyr AUG
+20-04-22 01:37:55 (2) Divas| Sk8' killed (1) [UnK] F4ll.cL with HK MP5
+20-04-22 01:37:57 (1) [UnK] Atheria killed (2) Divas| mipHo with HK MP5
+20-04-22 01:38:01 (2) Divas| Sk8' killed (1) [UnK] D$SH with HK MP5
+20-04-22 01:38:02 (1) [UnK] D$SH killed (2) Divas| Sk8' with Spas-12
+20-04-22 01:38:02 45.173.28.32:23073|5D00135A21D requesting game...
+20-04-22 01:38:03 (1) [UnK] F4ll.cL killed (2) Divas| Enigma with HK MP5
+20-04-22 01:38:04 [Divas| Sk8'] gg
+20-04-22 01:38:05 [Divas| Rattle] gg
+20-04-22 01:38:06 [[UnK] Atheria] gg
+20-04-22 01:38:07 Divas| mipHo captured the Red Flag
+20-04-22 01:38:08 Next map: Lobby
+20-04-22 01:38:10 [[UnK] F4ll.cL] gg
+20-04-22 01:38:11 [Divas| Enigma] ggs
+20-04-22 01:38:12 Divas| Rattle has left spectators
+20-04-22 01:38:15 Lothic - Gothic Lobby Room
+20-04-22 01:38:15 Divas| mipHo has left bravo team.
+20-04-22 01:38:15 Divas| Enigma has left bravo team.
+20-04-22 01:38:16 Divas| Sk8' has left bravo team.
+20-04-22 01:38:17 IP number 190.160.115.174 (Ping Kick) unbanned
+20-04-22 01:38:17 Hardware ID 5FD3AE3E9B6 (Ping Kick) unbanned
+20-04-22 01:38:18 [O.S.O] TULON* has left spectators
+20-04-22 01:38:19 cN.HughscL has left spectators
+20-04-22 01:38:21 [UnK] D$SH has left alpha team.
+20-04-22 01:38:21 [UnK] F4ll.cL has left alpha team.
+20-04-22 01:38:34 [UnK] Atheria has left alpha team.
+20-04-22 01:38:41 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-22 01:43:14 Time Left: 5 minutes
+20-04-22 01:44:14 Time Left: 4 minutes
+20-04-22 01:45:14 Time Left: 3 minutes
+20-04-22 01:46:14 Time Left: 2 minutes
+20-04-22 01:47:14 Time Left: 1 minutes
+20-04-22 01:48:14 Next map: Lobby
+20-04-22 01:48:19 Lothic - Gothic Lobby Room
+20-04-22 01:53:19 Time Left: 5 minutes
+20-04-22 01:54:19 Time Left: 4 minutes
+20-04-22 01:55:19 Time Left: 3 minutes
+20-04-22 01:56:19 Time Left: 2 minutes
+20-04-22 01:57:19 Time Left: 1 minutes
+20-04-22 01:58:19 Next map: Lobby
+20-04-22 01:58:24 Lothic - Gothic Lobby Room
+20-04-22 02:03:24 Time Left: 5 minutes
+20-04-22 02:04:24 Time Left: 4 minutes
+20-04-22 02:05:24 Time Left: 3 minutes
+20-04-22 02:06:24 Time Left: 2 minutes
+20-04-22 02:07:24 Time Left: 1 minutes
+20-04-22 02:08:24 Next map: Lobby
+20-04-22 02:08:30 Lothic - Gothic Lobby Room
+20-04-22 02:13:30 Time Left: 5 minutes
+20-04-22 02:14:30 Time Left: 4 minutes

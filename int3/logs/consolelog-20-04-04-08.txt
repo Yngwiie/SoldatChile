@@ -1,0 +1,22 @@
+20-04-04 17:44:59    Console Log Started
+20-04-04 17:44:59 Welcome to Soldat 1.7.1
+20-04-04 17:44:59  [*] Preparing scripts to be launched
+20-04-04 17:44:59  [*] [BasicCommands] Loading bytecode
+20-04-04 17:44:59  [*] [BasicCommands] Bytecode loaded
+20-04-04 17:44:59  [*] Compiling match -> match.pas...
+20-04-04 17:44:59  [*] match compiled
+20-04-04 17:44:59  [*] Done
+20-04-04 17:44:59 ctf_Ash by chakapoko maker
+20-04-04 17:44:59 Loaded weapons mod "Default v1.8"
+20-04-04 17:44:59  Connection for file server started. Port: 23110
+20-04-04 17:44:59 Registering server @ 88.99.234.252
+20-04-04 17:45:11 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 17:45:12 LB ~ Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-04 17:45:12 LB ~ Sadiko has joined alpha team.
+20-04-04 17:45:14 LB ~ Sadiko has left alpha team.
+20-04-04 17:49:59 Time Left: 5 minutes
+20-04-04 17:50:48 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-04 17:50:51 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-04 17:50:52 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-04 17:50:59 Time Left: 4 minutes
+20-04-04 17:51:59 Time Left: 3 minutes

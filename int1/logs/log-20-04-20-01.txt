@@ -1,0 +1,120 @@
+20-04-20 03:48:08    Log Started
+20-04-20 03:48:08 Opened /home/kader_b/Internacional 1/soldat.ini
+20-04-20 03:48:09  Net - K!NG| MaaX* connected 20-4-20 03:48:09
+20-04-20 03:48:21  Net - r3v' Mand3s connected 20-4-20 03:48:21
+20-04-20 03:54:38  Net - Warfar3.- disconnected 20-4-20 03:54:38
+20-04-20 03:58:53  Net - K!NG| Rakkety disconnected 20-4-20 03:58:53
+20-04-20 03:58:53  Net - r3v' Mand3s disconnected 20-4-20 03:58:53
+20-04-20 03:58:53  Net - K!NG| YnGwi3 disconnected 20-4-20 03:58:53
+20-04-20 03:58:55  Net - r3v' Winter disconnected 20-4-20 03:58:55
+20-04-20 03:58:55  Net - K!NG| PK disconnected 20-4-20 03:58:55
+20-04-20 03:58:55  Net - r3v' Colt disconnected 20-4-20 03:58:55
+20-04-20 03:58:55  Net - K!NG| MaaX* disconnected 20-4-20 03:58:55
+20-04-20 03:58:58  Net - r3v' DrK disconnected 20-4-20 03:58:58
+20-04-20 03:59:14  Net - r3v' Coco disconnected 20-4-20 03:59:14
+20-04-20 04:02:38  Net - Divas| Sk8' disconnected 20-4-20 04:02:38
+20-04-20 04:04:11  Net - r3v' Mand3s connected 20-4-20 04:04:11
+20-04-20 04:04:13  Net - =E*R= Chaky//<3K connected 20-4-20 04:04:13
+20-04-20 04:04:14  Net - =E*R= KillMe! connected 20-4-20 04:04:14
+20-04-20 04:04:17  Net - =E*R= KillMe! disconnected 20-4-20 04:04:17
+20-04-20 04:04:20  Net - =E*R= KillMe! connected 20-4-20 04:04:20
+20-04-20 04:04:21  Net - r3v' Colt connected 20-4-20 04:04:21
+20-04-20 04:04:26  Net - r3v' Coco connected 20-4-20 04:04:26
+20-04-20 04:04:31  Net - =E*R= Sadiko connected 20-4-20 04:04:31
+20-04-20 04:04:33  Net - r3v' DrK connected 20-4-20 04:04:33
+20-04-20 04:04:34  Net - =E*R= Sadiko connected 20-4-20 04:04:34
+20-04-20 04:04:47  Net - r3v' DrK connected 20-4-20 04:04:47
+20-04-20 04:04:50  Net - r3v' Colt connected 20-4-20 04:04:50
+20-04-20 04:04:58  Net - =E*R= Chaky//<3K connected 20-4-20 04:04:58
+20-04-20 04:06:40  Net - [UnK] F4ll.cL connected 20-4-20 04:06:40
+20-04-20 04:09:12  Net - r3v' Mand3s disconnected 20-4-20 04:09:12
+20-04-20 04:09:14  Net - Divas| Rattle connected 20-4-20 04:09:14
+20-04-20 04:09:30  Net - r3v' Mand3s connected 20-4-20 04:09:30
+20-04-20 04:09:32  Net - Divas| Rattle disconnected 20-4-20 04:09:32
+20-04-20 04:10:02  Net - [UnK] F4ll.cL disconnected 20-4-20 04:10:02
+20-04-20 04:10:13 TCP/IP File Server started
+20-04-20 04:29:02  Net - r3v' Coco connected 20-4-20 04:29:02
+20-04-20 04:29:04  Net - r3v' Mand3s connected 20-4-20 04:29:04
+20-04-20 04:37:39  Net - =E*R= Sadiko disconnected 20-4-20 04:37:39
+20-04-20 04:37:41  Net - r3v' DrK disconnected 20-4-20 04:37:41
+20-04-20 04:37:41  Net - r3v' Mand3s disconnected 20-4-20 04:37:41
+20-04-20 04:37:42  Net - =E*R= KillMe! disconnected 20-4-20 04:37:42
+20-04-20 04:37:43  Net - r3v' Colt disconnected 20-4-20 04:37:43
+20-04-20 04:37:43  Net - =E*R= Chaky//<3K disconnected 20-4-20 04:37:43
+20-04-20 04:37:45  Net - r3v' Coco disconnected 20-4-20 04:37:45
+20-04-20 04:40:13 TCP/IP File Server started
+20-04-20 04:48:36  Net - r3v' Mand3s connected 20-4-20 04:48:36
+20-04-20 04:49:04  Net - r3v' Colt connected 20-4-20 04:49:04
+20-04-20 04:49:12  Net - r3v' Coco connected 20-4-20 04:49:12
+20-04-20 04:49:33  Net - S2 ~ patuzhO* connected 20-4-20 04:49:33
+20-04-20 04:49:36  Net - S2 ~ patuzhO* connected 20-4-20 04:49:36
+20-04-20 04:49:46  Net - S2 ~ bio connected 20-4-20 04:49:46
+20-04-20 04:49:49  Net - r3v' Mand3s connected 20-4-20 04:49:49
+20-04-20 04:49:52  Net - r3v' Coco connected 20-4-20 04:49:52
+20-04-20 04:49:57  Net - r3v' Colt connected 20-4-20 04:49:57
+20-04-20 04:49:57  Net - r3v' DrK connected 20-4-20 04:49:57
+20-04-20 04:50:08  Net - S2 ~ bio connected 20-4-20 04:50:08
+20-04-20 04:50:12  Net - r3v' DrK disconnected 20-4-20 04:50:12
+20-04-20 04:50:14  Net - r3v' DrK connected 20-4-20 04:50:14
+20-04-20 04:50:25  Net - S2 ~ patuzhO* connected 20-4-20 04:50:25
+20-04-20 04:50:26  Net - S2 ~ DeFkOndOz* connected 20-4-20 04:50:26
+20-04-20 04:50:38  Net - *dennis rodman connected 20-4-20 04:50:38
+20-04-20 04:50:55  Net - S2 ~ DeFkOndOz* disconnected 20-4-20 04:50:55
+20-04-20 04:50:58  Net - S2 ~ DeFkOndOz* connected 20-4-20 04:50:58
+20-04-20 04:52:21  Net - *cAppY ExOtiC connected 20-4-20 04:52:21
+20-04-20 04:52:26  Net - r3v' Coco connected 20-4-20 04:52:26
+20-04-20 04:52:37  Net - S2 ~ Opazo* connected 20-4-20 04:52:37
+20-04-20 04:53:01  Net - r3v' DrK connected 20-4-20 04:53:01
+20-04-20 04:57:52  Net - S2 ~ Opazo* disconnected 20-4-20 04:57:52
+20-04-20 04:57:55  Net - S2 ~ Opazo* connected 20-4-20 04:57:55
+20-04-20 04:58:18  Net - S2 ~ bio disconnected 20-4-20 04:58:18
+20-04-20 05:06:04  Net - r3v' Coco connected 20-4-20 05:06:04
+20-04-20 05:06:06  Net - r3v' DrK connected 20-4-20 05:06:06
+20-04-20 05:06:16  Net - r3v' Mand3s connected 20-4-20 05:06:16
+20-04-20 05:06:44  Net - r3v' DrK connected 20-4-20 05:06:44
+20-04-20 05:07:18  Net - r3v' Mand3s disconnected 20-4-20 05:07:18
+20-04-20 05:07:18  Net - *dennis rodman disconnected 20-4-20 05:07:18
+20-04-20 05:07:28  Net - *cAppY ExOtiC disconnected 20-4-20 05:07:28
+20-04-20 05:07:29  Net - r3v' Mand3s connected 20-4-20 05:07:29
+20-04-20 05:09:45  Net - S2 ~ bio connected 20-4-20 05:09:45
+20-04-20 05:10:13 TCP/IP File Server started
+20-04-20 05:10:36  Net - r3v' Colt disconnected 20-4-20 05:10:36
+20-04-20 05:10:49  Net - r3v' Colt connected 20-4-20 05:10:49
+20-04-20 05:18:01  Net - [UnK] KorN connected 20-4-20 05:18:01
+20-04-20 05:21:22  Net - S2 ~ Opazo* connected 20-4-20 05:21:22
+20-04-20 05:21:26  Net - r3v' Coco connected 20-4-20 05:21:26
+20-04-20 05:21:27  Net - S2 ~ bio connected 20-4-20 05:21:27
+20-04-20 05:21:28  Net - r3v' Mand3s connected 20-4-20 05:21:28
+20-04-20 05:23:28  Net - [UnK] F4ll.cL connected 20-4-20 05:23:28
+20-04-20 05:28:17  Net - r3v' Mand3s disconnected 20-4-20 05:28:17
+20-04-20 05:28:17  Net - S2 ~ patuzhO* disconnected 20-4-20 05:28:17
+20-04-20 05:28:17  Net - S2 ~ bio disconnected 20-4-20 05:28:17
+20-04-20 05:28:17  Net - S2 ~ DeFkOndOz* disconnected 20-4-20 05:28:17
+20-04-20 05:28:18  Net - S2 ~ Opazo* disconnected 20-4-20 05:28:18
+20-04-20 05:28:18  Net - r3v' Coco disconnected 20-4-20 05:28:18
+20-04-20 05:28:18  Net - r3v' Colt disconnected 20-4-20 05:28:18
+20-04-20 05:28:21  Net - r3v' DrK disconnected 20-4-20 05:28:21
+20-04-20 05:28:21  Net - [UnK] F4ll.cL disconnected 20-4-20 05:28:21
+20-04-20 05:29:45  Net - [UnK] KorN disconnected 20-4-20 05:29:45
+20-04-20 05:40:13 TCP/IP File Server started
+20-04-20 06:10:13 TCP/IP File Server started
+20-04-20 06:40:13 TCP/IP File Server started
+20-04-20 07:10:13 TCP/IP File Server started
+20-04-20 07:40:13 TCP/IP File Server started
+20-04-20 08:10:13 TCP/IP File Server started
+20-04-20 08:40:13 TCP/IP File Server started
+20-04-20 09:10:13 TCP/IP File Server started
+20-04-20 09:40:13 TCP/IP File Server started
+20-04-20 10:10:13 TCP/IP File Server started
+20-04-20 10:40:13 TCP/IP File Server started
+20-04-20 11:10:13 TCP/IP File Server started
+20-04-20 11:40:13 TCP/IP File Server started
+20-04-20 12:10:13 TCP/IP File Server started
+20-04-20 12:40:13 TCP/IP File Server started
+20-04-20 13:10:13 TCP/IP File Server started
+20-04-20 13:40:13 TCP/IP File Server started
+20-04-20 14:10:13 TCP/IP File Server started
+20-04-20 14:40:13 TCP/IP File Server started
+20-04-20 15:10:13 TCP/IP File Server started
+20-04-20 15:40:13 TCP/IP File Server started
+20-04-20 16:10:13 TCP/IP File Server started

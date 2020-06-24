@@ -1,0 +1,74 @@
+20-04-14 21:41:47    Log Started
+20-04-14 21:41:47 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-14 21:48:42 TCP/IP File Server started
+20-04-14 21:51:47  Net - Alex Ubago connected 14-04-2020 21:51:47
+20-04-14 21:51:47  Net - RompeCorazones* connected 14-04-2020 21:51:47
+20-04-14 21:51:57  Net - RompeCorazones* disconnected 14-04-2020 21:51:57
+20-04-14 21:51:58  Net - Alex Ubago disconnected 14-04-2020 21:51:58
+20-04-14 22:18:42 TCP/IP File Server started
+20-04-14 22:34:08  Net - |X.Forc3|.Dohko.Messi! disconnected 14-04-2020 22:34:08
+20-04-14 22:34:09  Net - |D.Forc3|.LinkirD disconnected 14-04-2020 22:34:09
+20-04-14 22:34:11  Net - Cyborg disconnected 14-04-2020 22:34:11
+20-04-14 22:34:12  Net - |D.Forc3|Luis Dimas disconnected 14-04-2020 22:34:12
+20-04-14 22:34:13  Net - |X.Forc3|.Turko disconnected 14-04-2020 22:34:13
+20-04-14 22:34:14  Net - |D.Forc3|Lawshot disconnected 14-04-2020 22:34:14
+20-04-14 22:48:42 TCP/IP File Server started
+20-04-14 23:18:42 TCP/IP File Server started
+20-04-14 23:48:42 TCP/IP File Server started
+20-04-15 00:18:42 TCP/IP File Server started
+20-04-15 00:19:05  Net - Alex Ubago connected 15-04-2020 0:19:05
+20-04-15 00:19:20  Net - [O.S.O] TULON* connected 15-04-2020 0:19:20
+20-04-15 00:19:22  Net - Alex Ubago connected 15-04-2020 0:19:22
+20-04-15 00:36:36  Net - Guidex cL connected 15-04-2020 0:36:36
+20-04-15 00:36:39  Net - Guidex cL connected 15-04-2020 0:36:39
+20-04-15 00:37:57  Net - Guidex cL disconnected 15-04-2020 0:37:57
+20-04-15 00:48:42 TCP/IP File Server started
+20-04-15 00:50:01  Net - S2 ~ Zorro* connected 15-04-2020 0:50:01
+20-04-15 00:50:34  Net - S2 ~ Zorro* connected 15-04-2020 0:50:34
+20-04-15 00:50:54  Net - [UnK] atheria connected 15-04-2020 0:50:54
+20-04-15 00:50:57  Net - S2 ~ Opazo connected 15-04-2020 0:50:57
+20-04-15 00:51:07  Net - [UnK] atheria connected 15-04-2020 0:51:07
+20-04-15 00:51:09  Net - S2 ~ DeFkOndOz* connected 15-04-2020 0:51:09
+20-04-15 00:51:13  Net - S2 ~ DeFkOndOz* disconnected 15-04-2020 0:51:13
+20-04-15 00:51:16  Net - S2 ~ DeFkOndOz* connected 15-04-2020 0:51:16
+20-04-15 00:51:57  Net - S2 ~ David Bisbal connected 15-04-2020 0:51:57
+20-04-15 00:52:23  Net - S2 ~ Zorro* connected 15-04-2020 0:52:23
+20-04-15 00:52:32  Net - Alex Ubago connected 15-04-2020 0:52:32
+20-04-15 00:52:45  Net - Alex Ubago connected 15-04-2020 0:52:45
+20-04-15 00:56:05  Net - Guidex cL connected 15-04-2020 0:56:05
+20-04-15 00:56:11  Net - Guidex cL disconnected 15-04-2020 0:56:11
+20-04-15 01:03:36  Net - S2 ~ Zorro* connected 15-04-2020 1:03:36
+20-04-15 01:03:41  Net - S2 ~ Zorro* connected 15-04-2020 1:03:41
+20-04-15 01:03:44  Net - S2 ~ Zorro* connected 15-04-2020 1:03:44
+20-04-15 01:03:46  Net - S2 ~ Zorro* connected 15-04-2020 1:03:46
+20-04-15 01:14:07  Net - S2 ~ Zorro* disconnected 15-04-2020 1:14:07
+20-04-15 01:14:10  Net - S2 ~ David Bisbal connected 15-04-2020 1:14:10
+20-04-15 01:14:12  Net - S2 ~ Zorro* connected 15-04-2020 1:14:12
+20-04-15 01:16:04  Net - S2 ~ Zorro* disconnected 15-04-2020 1:16:04
+20-04-15 01:18:42 TCP/IP File Server started
+20-04-15 01:26:27  Net - [O.S.O] TULON* disconnected 15-04-2020 1:26:27
+20-04-15 01:27:01  Net - S2 ~ DeFkOndOz* connected 15-04-2020 1:27:01
+20-04-15 01:29:48  Net - S2 ~ Opazo disconnected 15-04-2020 1:29:48
+20-04-15 01:29:52  Net - [UnK] atheria disconnected 15-04-2020 1:29:52
+20-04-15 01:29:56  Net - S2 ~ David Bisbal disconnected 15-04-2020 1:29:56
+20-04-15 01:30:34  Net - Alex Ubago disconnected 15-04-2020 1:30:34
+20-04-15 01:30:48  Net - S2 ~ DeFkOndOz* disconnected 15-04-2020 1:30:48
+20-04-15 01:48:42 TCP/IP File Server started
+20-04-15 02:18:42 TCP/IP File Server started
+20-04-15 02:48:42 TCP/IP File Server started
+20-04-15 03:18:42 TCP/IP File Server started
+20-04-15 03:48:42 TCP/IP File Server started
+20-04-15 04:18:42 TCP/IP File Server started
+20-04-15 04:48:42 TCP/IP File Server started
+20-04-15 05:18:42 TCP/IP File Server started
+20-04-15 05:48:42 TCP/IP File Server started
+20-04-15 06:18:42 TCP/IP File Server started
+20-04-15 06:48:42 TCP/IP File Server started
+20-04-15 07:18:42 TCP/IP File Server started
+20-04-15 07:48:42 TCP/IP File Server started
+20-04-15 08:18:42 TCP/IP File Server started
+20-04-15 08:48:42 TCP/IP File Server started
+20-04-15 09:18:42 TCP/IP File Server started
+20-04-15 09:48:42 TCP/IP File Server started
+20-04-15 10:03:24 Destroying Devices.
+20-04-15 10:03:24    End of Log.

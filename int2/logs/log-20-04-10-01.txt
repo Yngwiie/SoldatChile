@@ -1,0 +1,15 @@
+20-04-10 18:47:50    Log Started
+20-04-10 18:47:50 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-10 18:47:50 Creating network interface.
+20-04-10 18:47:50 Loading Animations.
+20-04-10 18:47:50 Loading Lobby Servers List
+20-04-10 18:47:50 Loading Maps List
+20-04-10 18:47:50 Loading Map.
+20-04-10 18:47:50 Creating Weapons.
+20-04-10 18:47:50 Starting Game Server.
+20-04-10 18:47:50 TCP/IP File Server started
+20-04-10 18:47:53  Net - |B.Forc3| Lead.- connected 10-04-2020 18:47:53
+20-04-10 18:47:56  Net - BeautifolShot connected 10-04-2020 18:47:56
+20-04-10 18:48:03  Net - |D.Forc3|Peter Rock connected 10-04-2020 18:48:03
+20-04-10 18:48:39 Destroying Devices.
+20-04-10 18:48:39    End of Log.

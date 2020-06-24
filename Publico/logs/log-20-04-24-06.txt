@@ -1,0 +1,8 @@
+20-04-24 18:11:32    Log Started
+20-04-24 18:11:32 Opened /home/kader_b/Publico/soldat.ini
+20-04-24 18:11:32 Creating network interface.
+20-04-24 18:11:32 Loading Animations.
+20-04-24 18:11:33 Loading Lobby Servers List
+20-04-24 18:11:33 Loading Maps List
+20-04-24 18:11:33 Destroying Devices.
+20-04-24 18:11:33    End of Log.

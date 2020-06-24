@@ -1,0 +1,211 @@
+20-06-01 01:20:01    Log Started
+20-06-01 01:20:01 Opened /home/kader_b/int3/soldat.ini
+20-06-01 01:20:01 Creating network interface.
+20-06-01 01:20:01 Loading Animations.
+20-06-01 01:20:01 Loading Lobby Servers List
+20-06-01 01:20:01 Loading Maps List
+20-06-01 01:20:01 Loading Map.
+20-06-01 01:20:01 Creating Weapons.
+20-06-01 01:20:01 Starting Game Server.
+20-06-01 01:20:01 TCP/IP File Server started
+20-06-01 01:50:01 TCP/IP File Server started
+20-06-01 02:01:21  Net - Violet connected 1-6-20 02:01:21
+20-06-01 02:01:31  Net - S2 ~ patuzhO* connected 1-6-20 02:01:31
+20-06-01 02:01:49  Net - Chil3+ Mehdi connected 1-6-20 02:01:49
+20-06-01 02:01:55  Net - Chil3+ Mehdi disconnected 1-6-20 02:01:55
+20-06-01 02:02:11  Net - S2 ~  DeFkOndOz* connected 1-6-20 02:02:11
+20-06-01 02:02:30  Net - Violet disconnected 1-6-20 02:02:30
+20-06-01 02:02:42  Net - S2 ~ Ahmadvand connected 1-6-20 02:02:42
+20-06-01 02:02:48  Net - S2 ~Violet* connected 1-6-20 02:02:48
+20-06-01 02:03:05  Net - S2 ~  DeFkOndOz* disconnected 1-6-20 02:03:05
+20-06-01 02:03:08  Net - S2 ~ DeFkOndOz* connected 1-6-20 02:03:08
+20-06-01 02:03:35  Net - Chil3+ Lupon* connected 1-6-20 02:03:35
+20-06-01 02:03:42  Net - Chil3+ ~  PoKemon connected 1-6-20 02:03:42
+20-06-01 02:03:45  Net - Chil3+ Lupon* disconnected 1-6-20 02:03:45
+20-06-01 02:04:25  Net - ElqH* DoreZ! connected 1-6-20 02:04:25
+20-06-01 02:04:32  Net - S2 ~ DeFkOndOz* connected 1-6-20 02:04:32
+20-06-01 02:04:54  Net - S2 ~ Lupon* connected 1-6-20 02:04:54
+20-06-01 02:04:58  Net - S2 ~ Lupon* disconnected 1-6-20 02:04:58
+20-06-01 02:05:25  Net - S2 ~ Lupon* connected 1-6-20 02:05:25
+20-06-01 02:07:04  Net - S2 ~ BioSeaX! connected 1-6-20 02:07:04
+20-06-01 02:07:11  Net - S2 ~ BioSeaX! disconnected 1-6-20 02:07:11
+20-06-01 02:07:16  Net - S2 ~ BioSeaX! connected 1-6-20 02:07:16
+20-06-01 02:07:35  Net - S2 ~ BioSeaX! connected 1-6-20 02:07:35
+20-06-01 02:10:02  Net - S2 ~ Lupon* disconnected 1-6-20 02:10:02
+20-06-01 02:10:58  Net - S2 ~ Lupon* connected 1-6-20 02:10:58
+20-06-01 02:11:39  Net - Chil3+ ~  PoKemon disconnected 1-6-20 02:11:39
+20-06-01 02:11:44  Net - Chil3+ ~  PoKemon connected 1-6-20 02:11:44
+20-06-01 02:11:51  Net - S2 ~ patuzhO* connected 1-6-20 02:11:51
+20-06-01 02:11:52  Net - S2 ~ DeFkOndOz* connected 1-6-20 02:11:52
+20-06-01 02:11:54  Net - S2 ~ Lupon* disconnected 1-6-20 02:11:54
+20-06-01 02:11:56  Net - S2 ~ BioSeaX! connected 1-6-20 02:11:56
+20-06-01 02:11:57  Net - S2 ~ Ahmadvand disconnected 1-6-20 02:11:57
+20-06-01 02:12:00  Net - S2 ~ Ahmadvand connected 1-6-20 02:12:00
+20-06-01 02:12:18  Net - S2 ~ Lupon* connected 1-6-20 02:12:18
+20-06-01 02:12:19  Net - ElqH* DoreZ! connected 1-6-20 02:12:19
+20-06-01 02:13:17  Net - S2 ~ DeFkOndOz* connected 1-6-20 02:13:17
+20-06-01 02:13:20  Net - S2 ~ BioSeaX! connected 1-6-20 02:13:20
+20-06-01 02:13:22  Net - S2 ~ patuzhO* connected 1-6-20 02:13:22
+20-06-01 02:13:28  Net - S2 ~ Lupon* connected 1-6-20 02:13:28
+20-06-01 02:13:31  Net - ElqH* DoreZ! connected 1-6-20 02:13:31
+20-06-01 02:13:36  Net - S2 ~ Ahmadvand connected 1-6-20 02:13:36
+20-06-01 02:17:28  Net - Chil3+ ~  PoKemon disconnected 1-6-20 02:17:28
+20-06-01 02:17:34  Net - Chil3+ ~  PoKemon connected 1-6-20 02:17:34
+20-06-01 02:20:01 TCP/IP File Server started
+20-06-01 02:23:38  Net - WeeD ArroW connected 1-6-20 02:23:38
+20-06-01 02:24:29  Net - WeeD ArroW disconnected 1-6-20 02:24:29
+20-06-01 02:26:05  Net - S2 ~ Ahmadvand connected 1-6-20 02:26:05
+20-06-01 02:26:07  Net - S2 ~ patuzhO* connected 1-6-20 02:26:07
+20-06-01 02:37:30  Net - S2 ~Violet* disconnected 1-6-20 02:37:30
+20-06-01 02:37:52  Net - S2 ~Violet* connected 1-6-20 02:37:52
+20-06-01 02:49:46  Net - NaXo.COB connected 1-6-20 02:49:46
+20-06-01 02:50:01 TCP/IP File Server started
+20-06-01 02:54:32  Net - S2 ~ Lupon* disconnected 1-6-20 02:54:32
+20-06-01 02:54:45  Net - S2 ~ Lupon* connected 1-6-20 02:54:45
+20-06-01 03:12:08  Net - S2 ~ DeFkOndOz* disconnected 1-6-20 03:12:08
+20-06-01 03:12:10  Net - S2 ~ patuzhO* disconnected 1-6-20 03:12:10
+20-06-01 03:12:11  Net - Chil3+ ~  PoKemon disconnected 1-6-20 03:12:11
+20-06-01 03:12:12  Net - S2 ~ BioSeaX! disconnected 1-6-20 03:12:12
+20-06-01 03:12:14  Net - S2 ~ Lupon* disconnected 1-6-20 03:12:14
+20-06-01 03:12:15  Net - ElqH* DoreZ! disconnected 1-6-20 03:12:15
+20-06-01 03:12:16  Net - S2 ~ Ahmadvand disconnected 1-6-20 03:12:16
+20-06-01 03:12:16  Net - S2 ~Violet* disconnected 1-6-20 03:12:16
+20-06-01 03:12:17  Net - NaXo.COB disconnected 1-6-20 03:12:17
+20-06-01 03:20:01 TCP/IP File Server started
+20-06-01 03:50:01 TCP/IP File Server started
+20-06-01 04:20:01 TCP/IP File Server started
+20-06-01 04:50:01 TCP/IP File Server started
+20-06-01 05:20:01 TCP/IP File Server started
+20-06-01 05:50:02 TCP/IP File Server started
+20-06-01 06:20:01 TCP/IP File Server started
+20-06-01 06:50:01 TCP/IP File Server started
+20-06-01 07:20:01 TCP/IP File Server started
+20-06-01 07:50:02 TCP/IP File Server started
+20-06-01 08:20:01 TCP/IP File Server started
+20-06-01 08:50:01 TCP/IP File Server started
+20-06-01 09:20:01 TCP/IP File Server started
+20-06-01 09:50:01 TCP/IP File Server started
+20-06-01 10:20:01 TCP/IP File Server started
+20-06-01 10:50:01 TCP/IP File Server started
+20-06-01 11:20:01 TCP/IP File Server started
+20-06-01 11:50:02 TCP/IP File Server started
+20-06-01 12:20:01 TCP/IP File Server started
+20-06-01 12:50:01 TCP/IP File Server started
+20-06-01 13:20:01 TCP/IP File Server started
+20-06-01 13:50:02 TCP/IP File Server started
+20-06-01 14:20:01 TCP/IP File Server started
+20-06-01 14:50:01 TCP/IP File Server started
+20-06-01 15:20:01 TCP/IP File Server started
+20-06-01 15:50:01 TCP/IP File Server started
+20-06-01 16:20:02 TCP/IP File Server started
+20-06-01 16:50:01 TCP/IP File Server started
+20-06-01 17:20:01 TCP/IP File Server started
+20-06-01 17:50:01 TCP/IP File Server started
+20-06-01 18:20:01 TCP/IP File Server started
+20-06-01 18:50:01 TCP/IP File Server started
+20-06-01 19:20:01 TCP/IP File Server started
+20-06-01 19:50:02 TCP/IP File Server started
+20-06-01 20:20:01 TCP/IP File Server started
+20-06-01 20:50:01 TCP/IP File Server started
+20-06-01 21:20:01 TCP/IP File Server started
+20-06-01 21:50:01 TCP/IP File Server started
+20-06-01 22:20:01 TCP/IP File Server started
+20-06-01 22:50:01 TCP/IP File Server started
+20-06-01 23:20:01 TCP/IP File Server started
+20-06-01 23:50:01 TCP/IP File Server started
+20-06-02 00:20:01 TCP/IP File Server started
+20-06-02 00:50:01 TCP/IP File Server started
+20-06-02 01:20:01 TCP/IP File Server started
+20-06-02 01:45:50  Net - mipHo connected 2-6-20 01:45:50
+20-06-02 01:46:05  Net - im:// WildR4P` connected 2-6-20 01:46:05
+20-06-02 01:46:27  Net - Sk8' #Apruebo.cl connected 2-6-20 01:46:27
+20-06-02 01:46:29  Net - Sk8' #Apruebo.cl connected 2-6-20 01:46:29
+20-06-02 01:47:26  Net - mipHo connected 2-6-20 01:47:26
+20-06-02 01:47:29  Net - im:// WildR4P` connected 2-6-20 01:47:29
+20-06-02 01:47:36  Net - im:// WildR4P` connected 2-6-20 01:47:36
+20-06-02 01:47:40  Net - wp.rattle connected 2-6-20 01:47:40
+20-06-02 01:50:01 TCP/IP File Server started
+20-06-02 01:54:50  Net - mipHo disconnected 2-6-20 01:54:50
+20-06-02 01:55:16  Net - Sk8' #Apruebo.cl disconnected 2-6-20 01:55:16
+20-06-02 01:55:19  Net - Sk8' #Apruebo.cl connected 2-6-20 01:55:19
+20-06-02 01:55:35  Net - wp.rattle connected 2-6-20 01:55:35
+20-06-02 01:57:02  Net - im:// WildR4P` disconnected 2-6-20 01:57:02
+20-06-02 01:57:23  Net - Sk8' #Apruebo.cl disconnected 2-6-20 01:57:23
+20-06-02 01:57:29  Net - wp.rattle disconnected 2-6-20 01:57:29
+20-06-02 02:20:01 TCP/IP File Server started
+20-06-02 02:50:01 TCP/IP File Server started
+20-06-02 03:20:01 TCP/IP File Server started
+20-06-02 03:50:01 TCP/IP File Server started
+20-06-02 04:20:01 TCP/IP File Server started
+20-06-02 04:50:01 TCP/IP File Server started
+20-06-02 04:53:53  Net - S3 -  TTe Pepe connected 2-6-20 04:53:53
+20-06-02 04:54:10  Net - S2 ~ Lupon* connected 2-6-20 04:54:10
+20-06-02 04:54:12  Net - S2 ~ BioSeaX! connected 2-6-20 04:54:12
+20-06-02 04:54:12  Net - ElqH* DoreZ! connected 2-6-20 04:54:12
+20-06-02 04:54:14  Net - S3 ~Violet* connected 2-6-20 04:54:14
+20-06-02 04:54:23  Net - S1 ~ Ahmadvand connected 2-6-20 04:54:23
+20-06-02 04:54:27  Net - S2 ~ BioSeaX! connected 2-6-20 04:54:27
+20-06-02 04:57:42  Net - PWR|URANIO 235 connected 2-6-20 04:57:42
+20-06-02 04:58:03  Net - uoL| Ratzor connected 2-6-20 04:58:03
+20-06-02 04:59:21  Net - uoL| athe connected 2-6-20 04:59:21
+20-06-02 04:59:30  Net - uoL| PoRnOoB connected 2-6-20 04:59:30
+20-06-02 04:59:36  Net - uoL| Guidex connected 2-6-20 04:59:36
+20-06-02 04:59:42  Net - uoL| Guidex connected 2-6-20 04:59:42
+20-06-02 04:59:58  Net - uoL| athe connected 2-6-20 04:59:58
+20-06-02 05:00:22  Net - S2 ~  PoKemon connected 2-6-20 05:00:22
+20-06-02 05:00:31  Net - S2 ~ Lupon* disconnected 2-6-20 05:00:31
+20-06-02 05:00:41  Net - S2 ~ Lupon* connected 2-6-20 05:00:41
+20-06-02 05:01:38  Net - S2 ~ DeFkOndOz* connected 2-6-20 05:01:38
+20-06-02 05:01:40  Net - S2 ~ DeFkOndOz* connected 2-6-20 05:01:40
+20-06-02 05:01:45  Net - PWR|URANIO 235 connected 2-6-20 05:01:45
+20-06-02 05:01:53  Net - S2 ~ Lupon* connected 2-6-20 05:01:53
+20-06-02 05:01:57  Net - S2 ~ BioSeaX! connected 2-6-20 05:01:57
+20-06-02 05:02:33  Net - uoL| PoRnOoB connected 2-6-20 05:02:33
+20-06-02 05:02:50  Net - S3 -  TTe Pepe connected 2-6-20 05:02:50
+20-06-02 05:03:05  Net - S2 ~  PoKemon connected 2-6-20 05:03:05
+20-06-02 05:03:08  Net - uoL| Guidex connected 2-6-20 05:03:08
+20-06-02 05:03:23  Net - S1 ~ Ahmadvand connected 2-6-20 05:03:23
+20-06-02 05:04:16  Net - S2 ~ DeFkOndOz* disconnected 2-6-20 05:04:16
+20-06-02 05:04:16  Net - ElqH* DoreZ! connected 2-6-20 05:04:16
+20-06-02 05:04:25  Net - TTT. DeFkOndOz* connected 2-6-20 05:04:25
+20-06-02 05:04:32  Net - TTT. DeFkOndOz* connected 2-6-20 05:04:32
+20-06-02 05:04:57  Net - PWR|URANIO 235 disconnected 2-6-20 05:04:57
+20-06-02 05:05:04  Net - PWR|URANIO 235 connected 2-6-20 05:05:04
+20-06-02 05:05:14  Net - ElqH* DoreZ! connected 2-6-20 05:05:14
+20-06-02 05:05:31  Net - uoL| Dumpxweed connected 2-6-20 05:05:31
+20-06-02 05:05:54  Net - TTT. DeFkOndOz* disconnected 2-6-20 05:05:54
+20-06-02 05:06:06  Net - PWR|URANIO 235 connected 2-6-20 05:06:06
+20-06-02 05:06:19  Net - uoL| Dumpxweed connected 2-6-20 05:06:19
+20-06-02 05:09:48  Net - uoL| chub0 connected 2-6-20 05:09:48
+20-06-02 05:11:01  Net - PWR|URANIO 235 disconnected 2-6-20 05:11:01
+20-06-02 05:11:29  Net - S2 ~  PoKemon disconnected 2-6-20 05:11:29
+20-06-02 05:11:42  Net - S2 ~  PoKemon connected 2-6-20 05:11:42
+20-06-02 05:18:29  Net - S2 ~  PoKemon connected 2-6-20 05:18:29
+20-06-02 05:18:48  Net - S2 ~  PoKemon connected 2-6-20 05:18:48
+20-06-02 05:20:01 TCP/IP File Server started
+20-06-02 05:30:12  Net - S2 ~  PoKemon connected 2-6-20 05:30:12
+20-06-02 05:30:39  Net - ElqH* DoreZ! connected 2-6-20 05:30:39
+20-06-02 05:31:01  Net - ElqH* DoreZ! disconnected 2-6-20 05:31:01
+20-06-02 05:32:08  Net - S2 ~  PoKemon disconnected 2-6-20 05:32:08
+20-06-02 05:32:50  Net - uoL| athe connected 2-6-20 05:32:50
+20-06-02 05:33:40  Net - ElqH* DoreZ! connected 2-6-20 05:33:40
+20-06-02 05:33:54  Net - uoL| athe connected 2-6-20 05:33:54
+20-06-02 05:43:16  Net - S2 ~  PoKemon connected 2-6-20 05:43:16
+20-06-02 05:44:04  Net - S3 ~Violet* disconnected 2-6-20 05:44:04
+20-06-02 05:44:25  Net - S2 ~ BioSeaX! connected 2-6-20 05:44:25
+20-06-02 05:44:52  Net - uoL| Guidex disconnected 2-6-20 05:44:52
+20-06-02 05:45:37  Net - uoL| chub0 connected 2-6-20 05:45:37
+20-06-02 05:46:42  Net - TTT. DeFkOndOz* connected 2-6-20 05:46:42
+20-06-02 05:46:52  Net - TTT. DeFkOndOz* disconnected 2-6-20 05:46:52
+20-06-02 05:47:02  Net - S2 ~ DeFkOndOz* connected 2-6-20 05:47:02
+20-06-02 05:47:19  Net - uoL| Ratzor disconnected 2-6-20 05:47:19
+20-06-02 05:47:34  Net - uoL| Ratzor connected 2-6-20 05:47:34
+20-06-02 05:50:01 TCP/IP File Server started
+20-06-02 06:17:46  Net - ElqH* DoreZ! connected 2-6-20 06:17:46
+20-06-02 06:17:50  Net - S2 ~ DeFkOndOz* connected 2-6-20 06:17:50
+20-06-02 06:17:50  Net - S2 ~ Lupon* connected 2-6-20 06:17:50
+20-06-02 06:17:53  Net - S2 ~  PoKemon connected 2-6-20 06:17:53
+20-06-02 06:20:01 TCP/IP File Server started
+20-06-02 06:20:52  Net - uoL| Guidex connected 2-6-20 06:20:52
+20-06-02 06:20:58  Net - uoL| athe disconnected 2-6-20 06:20:58
+20-06-02 06:21:02  Net - uoL| Guidex connected 2-6-20 06:21:02

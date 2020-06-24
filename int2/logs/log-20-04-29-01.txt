@@ -1,0 +1,11 @@
+20-04-29 01:20:19    Log Started
+20-04-29 01:20:19 Opened /home/kader_b/int2/soldat.ini
+20-04-29 01:32:44 TCP/IP File Server started
+20-04-29 02:02:44 TCP/IP File Server started
+20-04-29 02:21:54  Net - OxiD:// KillMe! connected 29-4-20 02:21:54
+20-04-29 02:22:04  Net - OxiD:// KillMe! disconnected 29-4-20 02:22:04
+20-04-29 02:22:12  Net - Warfar3.- connected 29-4-20 02:22:12
+20-04-29 02:22:14  Net - Warfar3.- disconnected 29-4-20 02:22:14
+20-04-29 02:32:44 TCP/IP File Server started
+20-04-29 02:38:17 Destroying Devices.
+20-04-29 02:38:18    End of Log.

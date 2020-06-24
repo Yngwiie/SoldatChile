@@ -1,0 +1,44 @@
+20-04-29 02:34:59    Console Log Started
+20-04-29 02:34:59 Welcome to Soldat 1.7.1
+20-04-29 02:34:59  [*] Preparing scripts to be launched
+20-04-29 02:34:59  [*] [BasicCommands] Compilation started
+20-04-29 02:34:59  [*] [BasicCommands] Compilation complete
+20-04-29 02:34:59  [*] [BasicCommands] Loading bytecode
+20-04-29 02:34:59  [*] [BasicCommands] Bytecode loaded
+20-04-29 02:34:59  [*] Compiling match -> match.pas...
+20-04-29 02:34:59  [*] match compiled
+20-04-29 02:34:59  [*] Done
+20-04-29 02:34:59 Lothic - Gothic Lobby Room
+20-04-29 02:34:59 Loaded weapons mod "Default v1.8"
+20-04-29 02:34:59  Connection for file server started. Port: 23110
+20-04-29 02:34:59 Registering server @ 88.99.234.252
+20-04-29 02:36:11 45.232.92.123:48697|64995B15DC0 requesting game...
+20-04-29 02:36:12 45.232.92.123:48697|64995B15DC0 requesting game...
+20-04-29 02:36:14 Sy` YnGwi3 joining game (45.232.92.123:48697) HWID:64995B15DC0
+20-04-29 02:36:14 Sy` YnGwi3 has joined bravo team.
+20-04-29 02:36:38 Sy` YnGwi3 has left bravo team.
+20-04-29 02:39:09 45.232.92.123:48698|64995B15DC0 requesting game...
+20-04-29 02:39:10 Sy` YnGwi3 joining game (45.232.92.123:48698) HWID:64995B15DC0
+20-04-29 02:39:10 Sy` YnGwi3 has joined bravo team.
+20-04-29 02:39:11 186.141.198.99:62677|14189A02D27 requesting game...
+20-04-29 02:39:11 186.141.198.99:62677|14189A02D27 requesting game...
+20-04-29 02:39:11 Divas| Rattle joining game (186.141.198.99:62677) HWID:14189A02D27
+20-04-29 02:39:11 Divas| Rattle has joined alpha team.
+20-04-29 02:39:23 Sy` YnGwi3 has left bravo team.
+20-04-29 02:39:29 Divas| Rattle has left alpha team.
+20-04-29 02:39:59 Time Left: 5 minutes
+20-04-29 02:40:59 Time Left: 4 minutes
+20-04-29 02:41:59 Time Left: 3 minutes
+20-04-29 02:42:59 Time Left: 2 minutes
+20-04-29 02:43:59 Time Left: 1 minutes
+20-04-29 02:44:59 Next map: Lobby
+20-04-29 02:45:05 Lothic - Gothic Lobby Room
+20-04-29 02:48:36 186.141.198.99:33343|14189A02D27 requesting game...
+20-04-29 02:48:36 186.141.198.99:33343|14189A02D27 requesting game...
+20-04-29 02:48:37 Divas| Rattle joining game (186.141.198.99:33343) HWID:14189A02D27
+20-04-29 02:48:37 Divas| Rattle has joined alpha team.
+20-04-29 02:48:38 Divas| Rattle has left alpha team.
+20-04-29 02:49:15 Signal received, shutting down
+20-04-29 02:49:15 Shutting down server...
+20-04-29 02:49:15 Shutting down FileServer...
+20-04-29 02:49:15 Shutting down admin server...

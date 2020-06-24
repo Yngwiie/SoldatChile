@@ -1,0 +1,65 @@
+20-06-22 18:05:01    Log Started
+20-06-22 18:05:01 Opened /home/kader_b/int3/soldat.ini
+20-06-22 18:05:01 Creating network interface.
+20-06-22 18:05:01 Loading Animations.
+20-06-22 18:05:01 Loading Lobby Servers List
+20-06-22 18:05:01 Loading Maps List
+20-06-22 18:05:01 Loading Map.
+20-06-22 18:05:01 Creating Weapons.
+20-06-22 18:05:01 Starting Game Server.
+20-06-22 18:05:01 TCP/IP File Server started
+20-06-22 18:35:02 TCP/IP File Server started
+20-06-22 19:05:02 TCP/IP File Server started
+20-06-22 19:29:13  Net - sT.- YnGwi3 connected 22-6-20 19:29:13
+20-06-22 19:29:19  Net - sT.- YnGwi3 disconnected 22-6-20 19:29:19
+20-06-22 19:29:33  Net - sT.- YnGwi3 connected 22-6-20 19:29:33
+20-06-22 19:29:55  Net - dimvss connected 22-6-20 19:29:55
+20-06-22 19:33:52  Net - sT.- YnGwi3 disconnected 22-6-20 19:33:52
+20-06-22 19:35:01 TCP/IP File Server started
+20-06-22 19:40:16  Net - dimvss disconnected 22-6-20 19:40:16
+20-06-22 19:40:19  Net - dimvss connected 22-6-20 19:40:19
+20-06-22 19:52:00  Net - Re Pollo connected 22-6-20 19:52:00
+20-06-22 19:55:29  Net - sT#' YnGwi3 connected 22-6-20 19:55:29
+20-06-22 19:55:33  Net - sT#' YnGwi3 connected 22-6-20 19:55:33
+20-06-22 20:05:01 TCP/IP File Server started
+20-06-22 20:07:44  Net - sT#' YnGwi3 connected 22-6-20 20:07:44
+20-06-22 20:07:45  Net - sT#' YnGwi3 connected 22-6-20 20:07:45
+20-06-22 20:11:23  Net - sT#' YnGwi3 connected 22-6-20 20:11:23
+20-06-22 20:13:38  Net - W3.- connected 22-6-20 20:13:38
+20-06-22 20:15:11  Net - W3.- connected 22-6-20 20:15:11
+20-06-22 20:15:41  Net - sT#' YnGwi3 connected 22-6-20 20:15:41
+20-06-22 20:20:49  Net - W3.- disconnected 22-6-20 20:20:49
+20-06-22 20:20:52  Net - W3.- connected 22-6-20 20:20:52
+20-06-22 20:31:26  Net - sT#' YnGwi3 disconnected 22-6-20 20:31:26
+20-06-22 20:31:27  Net - W3.- disconnected 22-6-20 20:31:27
+20-06-22 20:31:31  Net - Re Pollo disconnected 22-6-20 20:31:31
+20-06-22 20:32:09  Net - dimvss disconnected 22-6-20 20:32:09
+20-06-22 20:35:01 TCP/IP File Server started
+20-06-22 21:05:01 TCP/IP File Server started
+20-06-22 21:07:16  Net - Re Pollo connected 22-6-20 21:07:16
+20-06-22 21:07:17  Net - Re Pollo disconnected 22-6-20 21:07:17
+20-06-22 21:35:01 TCP/IP File Server started
+20-06-22 22:05:01 TCP/IP File Server started
+20-06-22 22:35:01 TCP/IP File Server started
+20-06-22 23:05:01 TCP/IP File Server started
+20-06-22 23:35:02 TCP/IP File Server started
+20-06-23 00:05:01 TCP/IP File Server started
+20-06-23 00:35:01 TCP/IP File Server started
+20-06-23 01:05:01 TCP/IP File Server started
+20-06-23 01:35:01 TCP/IP File Server started
+20-06-23 02:05:01 TCP/IP File Server started
+20-06-23 02:35:01 TCP/IP File Server started
+20-06-23 03:05:01 TCP/IP File Server started
+20-06-23 03:35:01 TCP/IP File Server started
+20-06-23 04:05:01 TCP/IP File Server started
+20-06-23 04:35:01 TCP/IP File Server started
+20-06-23 05:05:01 TCP/IP File Server started
+20-06-23 05:35:01 TCP/IP File Server started
+20-06-23 06:05:02 TCP/IP File Server started
+20-06-23 06:35:01 TCP/IP File Server started
+20-06-23 07:05:01 TCP/IP File Server started
+20-06-23 07:35:01 TCP/IP File Server started
+20-06-23 08:05:01 TCP/IP File Server started
+20-06-23 08:35:01 TCP/IP File Server started
+20-06-23 09:05:01 TCP/IP File Server started
+20-06-23 09:35:01 TCP/IP File Server started

@@ -1,0 +1,1390 @@
+20-04-20 04:53:57    Console Log Started
+20-04-20 04:53:59 (2) eX.- J4zz killed (1) =E*R= KillMe! with Grenade
+20-04-20 04:53:59 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:53:59 (1) =E*R= KillMe! killed (2) eX.- J4zz with Desert Eagles
+20-04-20 04:54:02 eX.- Necro captured the Red Flag
+20-04-20 04:54:03 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 04:54:07 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 04:54:08 (2) eX.- J4zz killed (1) =E*R= KillMe! with Steyr AUG
+20-04-20 04:54:12 eX.- J4zz captured the Red Flag
+20-04-20 04:54:14 (1) =E*R= Chaky//<3K killed (2) eX.- J4zz with LAW
+20-04-20 04:54:14 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with M79
+20-04-20 04:54:15 Time Left: 1 minutes
+20-04-20 04:54:17 (1) =E*R= KillMe! killed (2) eX.- Necro with Desert Eagles
+20-04-20 04:54:17 =E*R= KillMe! returned the Red Flag
+20-04-20 04:54:21 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 04:54:25 (2) eX.- J4zz killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 04:54:28 (1) =E*R= KillMe! killed (2) eX.- J4zz with Desert Eagles
+20-04-20 04:54:30 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with LAW
+20-04-20 04:54:31 [eX.- Necro] Come'on!
+20-04-20 04:54:31 [eX.- Necro] Son of a bitch!
+20-04-20 04:54:31 [eX.- Necro] Get the flag!
+20-04-20 04:54:35 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 04:54:35 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 04:54:40 (1) =E*R= KillMe! killed (2) eX.- J4zz with Desert Eagles
+20-04-20 04:54:41 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 04:54:43 (1) =E*R= Sadiko killed (2) eX.- Necro with LAW
+20-04-20 04:54:47 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 04:54:48 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 04:54:53 (1) =E*R= KillMe! killed (2) eX.- J4zz with LAW
+20-04-20 04:54:55 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:54:57 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 04:54:57 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 04:55:01 (2) eX.- xi0nx killed (1) =E*R= Sadiko with LAW
+20-04-20 04:55:04 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Desert Eagles
+20-04-20 04:55:07 (2) eX.- J4zz killed (1) =E*R= KillMe! with Steyr AUG
+20-04-20 04:55:08 [eX.- Necro] gg
+20-04-20 04:55:13 (1) =E*R= KillMe! killed (2) eX.- J4zz with Desert Eagles
+20-04-20 04:55:15 Next map: Lobby
+20-04-20 04:55:21 Lothic - Gothic Lobby Room
+20-04-20 04:55:22 [eX.- J4zz] !s
+20-04-20 04:55:22 eX.- J4zz has joined spectators.
+20-04-20 04:55:41 (TEAM)[eX.- Necro] horm
+20-04-20 04:55:46 [eX.- PerfectDark] !b
+20-04-20 04:55:46 eX.- PerfectDark has joined bravo team.
+20-04-20 04:55:54 (TEAM)[eX.- J4zz] pido perdon
+20-04-20 04:56:06 (TEAM)[Exactos. Break] porquee
+20-04-20 04:56:06 (TEAM)[Divas| Sk8'] mojaste la camiseta
+20-04-20 04:56:09 (TEAM)[Divas| Sk8'] qeu es lo importante
+20-04-20 04:56:11 (TEAM)[Exactos. Break] see
+20-04-20 04:56:18 =E*R= KillMe! added to Game Admins
+20-04-20 04:56:27 (TEAM)[eX.- J4zz] estoy muy malo
+20-04-20 04:56:34 [=E*R= KillMe!] No!
+20-04-20 04:56:35 (TEAM)[Divas| Sk8'] quien te dijo eso
+20-04-20 04:56:38 (TEAM)[eX.- J4zz] pero nunca fui bueno, asi que todo bien
+20-04-20 04:56:39 [eX.- PerfectDark] !map Blox
+20-04-20 04:56:39 [=E*R= Sadiko] rdy?
+20-04-20 04:56:41 [eX.- PerfectDark] :D
+20-04-20 04:56:45 Blox by chakapoko maker
+20-04-20 04:56:50 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 04:56:52 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Barrett M82A1
+20-04-20 04:56:53 [=E*R= KillMe!] estamos?
+20-04-20 04:56:53 [eX.- PerfectDark] necro afk
+20-04-20 04:56:54 (TEAM)[Exactos. Break] practiquemos po yo tb toy remalo  asi que cuando querai
+20-04-20 04:56:56 (1) =E*R= KillMe! killed (2) eX.- Necro with LAW
+20-04-20 04:56:57 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 04:56:59 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 04:57:02 [eX.- Necro] si
+20-04-20 04:57:02 [eX.- xi0nx] ?????
+20-04-20 04:57:03 [eX.- Necro] demosle blox
+20-04-20 04:57:07 [eX.- Necro] !map hormone
+20-04-20 04:57:07 [eX.- xi0nx] demosle blox
+20-04-20 04:57:13 Hormone by Metsänaperot
+20-04-20 04:57:15 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:57:15 eX.- Necro captured the Red Flag
+20-04-20 04:57:18 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 04:57:18 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 04:57:20 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 04:57:23 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:57:25 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 04:57:26 eX.- Necro scores for Bravo Team
+20-04-20 04:57:27 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 04:57:29 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 04:57:30 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:57:34 eX.- Necro captured the Red Flag
+20-04-20 04:57:35 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 04:57:36 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:57:38 eX.- xi0nx returned the Blue Flag
+20-04-20 04:57:41 (TEAM)[[UnK] KorN] ya empezo?
+20-04-20 04:57:43 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:57:44 (TEAM)[Divas| Sk8'] asies
+20-04-20 04:57:44 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 04:57:44 =E*R= KillMe! returned the Red Flag
+20-04-20 04:57:44 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:57:44 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 04:57:47 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:57:47 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 04:57:51 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 04:57:52 eX.- Necro captured the Red Flag
+20-04-20 04:57:54 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 04:57:55 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 04:57:55 eX.- xi0nx returned the Blue Flag
+20-04-20 04:57:56 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 04:57:58 (TEAM)[Divas| Sk8'] estai stremeando esta wea?
+20-04-20 04:57:59 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 04:57:59 =E*R= KillMe! returned the Red Flag
+20-04-20 04:58:00 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:58:01 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 04:58:01 eX.- Necro captured the Red Flag
+20-04-20 04:58:01 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:58:02 (TEAM)[[UnK] KorN] no
+20-04-20 04:58:02 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 04:58:04 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 04:58:04 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with LAW
+20-04-20 04:58:09 (TEAM)[eX.- J4zz] para que te traje
+20-04-20 04:58:09 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 04:58:10 eX.- Necro captured the Red Flag
+20-04-20 04:58:11 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:58:11 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 04:58:11 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:58:13 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with LAW
+20-04-20 04:58:13 (1) =E*R= KillMe! killed (2) eX.- Necro with Grenade
+20-04-20 04:58:15 eX.- PerfectDark captured the Red Flag
+20-04-20 04:58:16 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:58:19 (TEAM)[Divas| Sk8'] el comentador estrella esta jugando po weon
+20-04-20 04:58:19 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 04:58:19 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 04:58:21 (TEAM)[Divas| Sk8'] es entendible
+20-04-20 04:58:21 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:58:21 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 04:58:23 eX.- Necro returned the Blue Flag
+20-04-20 04:58:24 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 04:58:25 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:58:26 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 04:58:26 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 04:58:27 (TEAM)[[UnK] KorN] claro
+20-04-20 04:58:29 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:58:30 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:58:31 eX.- Necro captured the Red Flag
+20-04-20 04:58:32 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 04:58:33 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with LAW
+20-04-20 04:58:35 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 04:58:36 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:58:40 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 04:58:40 =E*R= KillMe! captured the Blue Flag
+20-04-20 04:58:40 (TEAM)[eX.- J4zz] como van en la tabla?
+20-04-20 04:58:42 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 04:58:46 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 04:58:48 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 04:58:49 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 04:58:52 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:58:52 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:58:54 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 04:58:54 (2) eX.- Necro killed (1) =E*R= Sadiko with Combat Knife
+20-04-20 04:58:54 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 04:58:56 =E*R= KillMe! captured the Blue Flag
+20-04-20 04:58:56 =E*R= KillMe! returned the Red Flag
+20-04-20 04:59:00 (TEAM)[Exactos. Break] casi la hace 
+20-04-20 04:59:01 eX.- Necro captured the Red Flag
+20-04-20 04:59:03 (1) =E*R= KillMe! killed (2) eX.- Necro with LAW
+20-04-20 04:59:03 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 04:59:04 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:59:06 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 04:59:07 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 04:59:10 eX.- Necro captured the Red Flag
+20-04-20 04:59:10 eX.- Necro returned the Blue Flag
+20-04-20 04:59:10 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:59:11 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with LAW
+20-04-20 04:59:12 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 04:59:13 eX.- Necro scores for Bravo Team
+20-04-20 04:59:15 (1) =E*R= Sadiko killed (2) eX.- Necro with M79
+20-04-20 04:59:17 =E*R= Sadiko captured the Blue Flag
+20-04-20 04:59:18 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 04:59:18 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 04:59:22 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with M79
+20-04-20 04:59:22 eX.- Necro captured the Red Flag
+20-04-20 04:59:25 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 04:59:25 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:59:25 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Spas-12
+20-04-20 04:59:25 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:59:27 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:59:30 =E*R= KillMe! returned the Red Flag
+20-04-20 04:59:30 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 04:59:33 eX.- Necro captured the Red Flag
+20-04-20 04:59:33 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 04:59:33 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:59:37 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Combat Knife
+20-04-20 04:59:40 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 04:59:42 (1) =E*R= Sadiko killed (2) eX.- Necro with M79
+20-04-20 04:59:43 eX.- PerfectDark returned the Blue Flag
+20-04-20 04:59:44 eX.- xi0nx captured the Red Flag
+20-04-20 04:59:46 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 04:59:46 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with M79
+20-04-20 04:59:46 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 04:59:49 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 04:59:52 (2) eX.- xi0nx killed (1) =E*R= Sadiko with LAW
+20-04-20 04:59:52 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 04:59:56 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:59:57 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Combat Knife
+20-04-20 04:59:59 eX.- Necro returned the Blue Flag
+20-04-20 05:00:00 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:00:04 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 05:00:04 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:00:07 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:00:07 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 05:00:11 eX.- xi0nx returned the Blue Flag
+20-04-20 05:00:11 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:00:12 eX.- xi0nx captured the Red Flag
+20-04-20 05:00:13 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:00:16 =E*R= Sadiko returned the Red Flag
+20-04-20 05:00:16 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 05:00:17 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:00:17 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:00:19 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:00:20 eX.- Necro captured the Red Flag
+20-04-20 05:00:21 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with M79
+20-04-20 05:00:21 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Spas-12
+20-04-20 05:00:24 eX.- xi0nx captured the Red Flag
+20-04-20 05:00:26 eX.- xi0nx returned the Blue Flag
+20-04-20 05:00:26 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:00:26 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 05:00:27 =E*R= Sadiko returned the Red Flag
+20-04-20 05:00:29 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 05:00:31 eX.- Necro captured the Red Flag
+20-04-20 05:00:34 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 05:00:37 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 05:00:38 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:00:38 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:00:40 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 05:00:42 =E*R= Sadiko returned the Red Flag
+20-04-20 05:00:42 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:00:42 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:00:42 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:00:44 eX.- xi0nx captured the Red Flag
+20-04-20 05:00:48 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 05:00:48 eX.- Necro captured the Red Flag
+20-04-20 05:00:49 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:00:49 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:00:54 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:00:55 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:00:56 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:00:56 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:00:56 =E*R= KillMe! returned the Red Flag
+20-04-20 05:00:58 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:01:00 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:01:01 eX.- Necro captured the Red Flag
+20-04-20 05:01:02 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 05:01:04 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 05:01:07 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:01:09 (2) eX.- Necro killed (1) =E*R= Sadiko with Combat Knife
+20-04-20 05:01:10 (TEAM)[eX.- PerfectDark] cap cap cap!
+20-04-20 05:01:10 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:01:11 eX.- Necro scores for Bravo Team
+20-04-20 05:01:11 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:01:12 [eX.- Necro] Come'on!
+20-04-20 05:01:12 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:01:13 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:01:15 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:01:17 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:01:17 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:01:19 eX.- Necro captured the Red Flag
+20-04-20 05:01:19 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:01:25 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:01:27 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:01:27 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:01:28 =E*R= KillMe! returned the Red Flag
+20-04-20 05:01:28 eX.- xi0nx captured the Red Flag
+20-04-20 05:01:28 eX.- xi0nx returned the Blue Flag
+20-04-20 05:01:28 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:01:34 eX.- Necro captured the Red Flag
+20-04-20 05:01:35 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 05:01:36 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with M79
+20-04-20 05:01:41 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 05:01:41 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with LAW
+20-04-20 05:01:42 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:01:42 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Grenade
+20-04-20 05:01:43 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:01:45 eX.- xi0nx returned the Blue Flag
+20-04-20 05:01:49 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:01:49 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 05:01:49 eX.- Necro captured the Red Flag
+20-04-20 05:01:53 (1) =E*R= Sadiko killed (2) eX.- xi0nx with M79
+20-04-20 05:01:54 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:01:57 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:01:59 eX.- xi0nx returned the Blue Flag
+20-04-20 05:02:00 eX.- Necro scores for Bravo Team
+20-04-20 05:02:00 eX.- xi0nx captured the Red Flag
+20-04-20 05:02:00 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:02:00 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:02:02 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:02:03 [eX.- Necro] Come'on!
+20-04-20 05:02:07 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:02:08 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:02:10 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:02:10 =E*R= KillMe! returned the Red Flag
+20-04-20 05:02:12 Time Left: 5 minutes
+20-04-20 05:02:12 eX.- Necro captured the Red Flag
+20-04-20 05:02:16 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:02:17 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with M79
+20-04-20 05:02:18 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:02:19 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 05:02:20 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:02:24 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 05:02:24 (1) =E*R= KillMe! killed (2) eX.- xi0nx with LAW
+20-04-20 05:02:24 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:02:26 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:02:26 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 05:02:26 eX.- PerfectDark captured the Red Flag
+20-04-20 05:02:28 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:02:33 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:02:34 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:02:35 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:02:36 =E*R= KillMe! returned the Red Flag
+20-04-20 05:02:36 eX.- Necro returned the Blue Flag
+20-04-20 05:02:37 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:02:38 eX.- Necro captured the Red Flag
+20-04-20 05:02:40 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:02:43 (2) eX.- Necro killed (1) =E*R= Sadiko with M79
+20-04-20 05:02:43 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:02:43 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Spas-12
+20-04-20 05:02:45 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:02:45 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 05:02:48 =E*R= Sadiko returned the Red Flag
+20-04-20 05:02:49 eX.- Necro captured the Red Flag
+20-04-20 05:02:51 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 05:02:51 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:02:54 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:02:56 eX.- xi0nx returned the Blue Flag
+20-04-20 05:02:56 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:03:02 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:03:04 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:03:04 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 05:03:04 =E*R= KillMe! returned the Red Flag
+20-04-20 05:03:05 eX.- Necro captured the Red Flag
+20-04-20 05:03:08 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with LAW
+20-04-20 05:03:10 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:03:11 eX.- xi0nx returned the Blue Flag
+20-04-20 05:03:11 =E*R= KillMe! returned the Red Flag
+20-04-20 05:03:12 eX.- xi0nx captured the Red Flag
+20-04-20 05:03:12 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:03:12 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:03:12 Time Left: 4 minutes
+20-04-20 05:03:16 eX.- Necro captured the Red Flag
+20-04-20 05:03:16 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:03:16 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:03:22 (1) =E*R= KillMe! killed (2) eX.- xi0nx with LAW
+20-04-20 05:03:22 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:03:25 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:03:25 eX.- Necro scores for Bravo Team
+20-04-20 05:03:25 (1) =E*R= Sadiko killed (2) eX.- Necro with HK MP5
+20-04-20 05:03:28 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:03:28 eX.- xi0nx captured the Red Flag
+20-04-20 05:03:31 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 05:03:31 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:03:32 eX.- Necro captured the Red Flag
+20-04-20 05:03:33 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:03:34 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 05:03:36 eX.- xi0nx returned the Blue Flag
+20-04-20 05:03:36 (1) =E*R= Sadiko killed (2) eX.- Necro with HK MP5
+20-04-20 05:03:37 =E*R= Sadiko returned the Red Flag
+20-04-20 05:03:39 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 05:03:41 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:03:41 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:03:43 eX.- Necro captured the Red Flag
+20-04-20 05:03:44 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with LAW
+20-04-20 05:03:45 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:03:48 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:03:51 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Spas-12
+20-04-20 05:03:52 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:03:52 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:03:56 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 05:03:58 eX.- Necro captured the Red Flag
+20-04-20 05:03:59 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:04:00 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:04:01 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:04:01 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:04:01 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with LAW
+20-04-20 05:04:03 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:04:06 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 05:04:07 (2) eX.- Necro killed (1) =E*R= Sadiko with Combat Knife
+20-04-20 05:04:08 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with LAW
+20-04-20 05:04:11 eX.- xi0nx returned the Blue Flag
+20-04-20 05:04:11 eX.- Necro scores for Bravo Team
+20-04-20 05:04:12 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:04:12 (1) =E*R= Sadiko killed (2) eX.- Necro with HK MP5
+20-04-20 05:04:12 Time Left: 3 minutes
+20-04-20 05:04:13 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:04:14 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:04:15 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Spas-12
+20-04-20 05:04:16 (TEAM)[eX.- J4zz] necro qliao
+20-04-20 05:04:16 eX.- xi0nx returned the Blue Flag
+20-04-20 05:04:19 eX.- Necro captured the Red Flag
+20-04-20 05:04:19 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:04:21 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:04:23 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Spas-12
+20-04-20 05:04:23 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:04:25 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:04:26 (TEAM)[eX.- PerfectDark] EFC LOW!*
+20-04-20 05:04:26 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 05:04:31 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:04:31 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with M79
+20-04-20 05:04:32 eX.- xi0nx returned the Blue Flag
+20-04-20 05:04:32 eX.- Necro scores for Bravo Team
+20-04-20 05:04:35 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:04:36 (1) =E*R= Sadiko killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:04:38 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with LAW
+20-04-20 05:04:38 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:04:40 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:04:40 eX.- Necro captured the Red Flag
+20-04-20 05:04:45 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Grenade
+20-04-20 05:04:46 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:04:47 =E*R= Sadiko returned the Red Flag
+20-04-20 05:04:49 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:04:49 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:04:52 eX.- Necro captured the Red Flag
+20-04-20 05:04:52 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:04:52 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:04:56 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:04:56 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Spas-12
+20-04-20 05:04:57 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Spas-12
+20-04-20 05:05:00 eX.- PerfectDark captured the Red Flag
+20-04-20 05:05:00 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 05:05:03 (2) eX.- Necro killed (1) =E*R= KillMe! with M79
+20-04-20 05:05:04 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:05:06 eX.- Necro returned the Blue Flag
+20-04-20 05:05:07 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:05:08 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:05:08 =E*R= Chaky//<3K returned the Red Flag
+20-04-20 05:05:09 eX.- Necro captured the Red Flag
+20-04-20 05:05:10 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:05:12 Time Left: 2 minutes
+20-04-20 05:05:14 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with LAW
+20-04-20 05:05:17 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:05:18 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:05:18 eX.- Necro returned the Blue Flag
+20-04-20 05:05:19 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:05:19 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Spas-12
+20-04-20 05:05:25 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:05:29 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:05:32 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:05:32 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Spas-12
+20-04-20 05:05:32 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:05:33 (1) =E*R= KillMe! killed (2) eX.- Necro with Grenade
+20-04-20 05:05:34 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:05:40 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:05:46 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:05:46 =E*R= Sadiko returned the Red Flag
+20-04-20 05:05:47 eX.- Necro returned the Blue Flag
+20-04-20 05:05:48 eX.- Necro captured the Red Flag
+20-04-20 05:05:50 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:05:52 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:05:53 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:06:00 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:06:02 (2) eX.- Necro killed (1) =E*R= KillMe! with Combat Knife
+20-04-20 05:06:04 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:06:12 Time Left: 1 minutes
+20-04-20 05:06:13 (1) =E*R= Sadiko killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:06:17 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:06:17 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:06:18 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:06:20 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:06:20 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:06:24 eX.- Necro returned the Blue Flag
+20-04-20 05:06:25 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:06:28 (1) =E*R= KillMe! killed (2) eX.- Necro with HK MP5
+20-04-20 05:06:29 =E*R= KillMe! returned the Red Flag
+20-04-20 05:06:29 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:06:32 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:06:32 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:06:33 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with LAW
+20-04-20 05:06:33 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:06:36 (1) =E*R= KillMe! killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:06:36 (2) eX.- xi0nx killed (1) =E*R= KillMe! with LAW
+20-04-20 05:06:40 eX.- Necro captured the Red Flag
+20-04-20 05:06:41 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:06:45 (1) =E*R= Sadiko killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:06:47 (2) eX.- Necro killed (1) =E*R= Sadiko with Combat Knife
+20-04-20 05:06:48 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Spas-12
+20-04-20 05:06:49 (2) eX.- Necro killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:06:50 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 05:06:51 (TEAM)[Divas| Sk8'] el qlo dps dice que no sabe jugar el mapa xddddd
+20-04-20 05:06:52 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:06:52 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with LAW
+20-04-20 05:06:55 =E*R= KillMe! returned the Red Flag
+20-04-20 05:06:58 eX.- Necro captured the Red Flag
+20-04-20 05:06:58 eX.- Necro returned the Blue Flag
+20-04-20 05:06:58 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:07:01 (TEAM)[eX.- J4zz] el weon pasa justo jaja
+20-04-20 05:07:02 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with HK MP5
+20-04-20 05:07:05 (1) =E*R= Sadiko killed (2) eX.- xi0nx with HK MP5
+20-04-20 05:07:06 (1) =E*R= Sadiko killed (2) eX.- Necro with HK MP5
+20-04-20 05:07:07 =E*R= Sadiko returned the Red Flag
+20-04-20 05:07:07 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:07:09 [eX.- Necro] gg
+20-04-20 05:07:10 (TEAM)[Exactos. Break] quien
+20-04-20 05:07:10 (TEAM)[eX.- J4zz] llega justo cuando retornan
+20-04-20 05:07:10 [eX.- xi0nx] gg
+20-04-20 05:07:12 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with LAW
+20-04-20 05:07:12 Next map: Lobby
+20-04-20 05:07:12 184.22.65.163:23073|6EE9FE56E6C requesting game...
+20-04-20 05:07:13 (TEAM)[eX.- J4zz] el necro
+20-04-20 05:07:18 Lothic - Gothic Lobby Room
+20-04-20 05:07:22 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 05:07:28 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-20 05:07:28 S2 ~ bio joining game (201.239.28.137:23073) HWID:3E87BD17409
+20-04-20 05:07:28 S2 ~ bio has joined as spectator.
+20-04-20 05:07:32 [=E*R= Chaky//<3K] !tb
+20-04-20 05:07:33 (TEAM)[Divas| Sk8'] pta al mipho no le gusta jugar m7 en hormone
+20-04-20 05:07:35 (1) =E*R= Sadiko killed (2) eX.- Necro with M79
+20-04-20 05:07:36 [=E*R= KillMe!] !map IceaBeam
+20-04-20 05:07:36 Map not found (iceabeam)
+20-04-20 05:07:38 (TEAM)[Divas| Sk8'] se da color
+20-04-20 05:07:38 [=E*R= Chaky//<3K] x
+20-04-20 05:07:40 [=E*R= Chaky//<3K] xD
+20-04-20 05:07:42 [=E*R= Sadiko] !map icebeam
+20-04-20 05:07:42 S2 ~ bio has left spectators
+20-04-20 05:07:44 [eX.- PerfectDark] IceCream
+20-04-20 05:07:47 IceBeam by Zakath, Suow, Poop
+20-04-20 05:08:01 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:08:03 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:08:11 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:08:12 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:08:13 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:08:14 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:08:15 [eX.- Necro] erraron el ban
+20-04-20 05:08:18 [eX.- Necro] xd
+20-04-20 05:08:19 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:08:19 =E*R= KillMe! scores for Alpha Team
+20-04-20 05:08:20 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:08:23 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:08:24 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:08:25 [eX.- Necro] y  nosotros igual
+20-04-20 05:08:27 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:08:27 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:08:28 [=E*R= KillMe!] jajaja
+20-04-20 05:08:32 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:08:38 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:08:39 181.73.204.62:23073|7317B70DDBE requesting game...
+20-04-20 05:08:41 eX.- Necro captured the Red Flag
+20-04-20 05:08:42 (2) eX.- Necro killed (1) =E*R= KillMe! with FN Minimi
+20-04-20 05:08:42 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:08:42 119.18.7.20:23073|3F0FC90CE9E requesting game...
+20-04-20 05:08:42 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:08:43 =E*R= Sadiko returned the Red Flag
+20-04-20 05:08:44 eX.- Necro captured the Red Flag
+20-04-20 05:08:44 [=E*R= KillMe!] listos?
+20-04-20 05:08:46 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Combat Knife
+20-04-20 05:08:48 [eX.- PerfectDark] !r
+20-04-20 05:08:48 Reiniciando...
+20-04-20 05:08:54 IceBeam by Zakath, Suow, Poop
+20-04-20 05:08:59 [eX.- Necro] eX.- xi0nx
+20-04-20 05:09:01 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:09:01 [eX.- xi0nx] !r
+20-04-20 05:09:01 Reiniciando...
+20-04-20 05:09:03 [eX.- Necro] move your damn ass
+20-04-20 05:09:07 IceBeam by Zakath, Suow, Poop
+20-04-20 05:09:11 [eX.- Necro] ..
+20-04-20 05:09:16 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:09:18 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Grenade
+20-04-20 05:09:20 [UnK] KorN has left spectators
+20-04-20 05:09:20 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:09:22 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Combat Knife
+20-04-20 05:09:23 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:09:35 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:09:35 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:09:38 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-20 05:09:39 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-20 05:09:39 S2 ~ bio joining game (201.239.28.137:23073) HWID:3E87BD17409
+20-04-20 05:09:39 S2 ~ bio has joined as spectator.
+20-04-20 05:09:40 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-20 05:09:40 [UnK] KorN has joined as spectator.
+20-04-20 05:09:41 S2 ~ bio has left spectators
+20-04-20 05:09:46 [eX.- PerfectDark] !R
+20-04-20 05:09:46 Reiniciando...
+20-04-20 05:09:51 IceBeam by Zakath, Suow, Poop
+20-04-20 05:09:58 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:09:59 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:09:59 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:09:59 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:10:04 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:10:04 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:10:04 190.101.190.28:23073|348574D9644 requesting game...
+20-04-20 05:10:05 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:10:05 190.101.190.28:23073|348574D9644 requesting game...
+20-04-20 05:10:06 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:10:07 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:10:10 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:10:14 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:10:14 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:10:15 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:10:20 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:10:21 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:10:21 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:10:25 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:10:27 eX.- Necro captured the Red Flag
+20-04-20 05:10:28 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:10:30 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:10:32 eX.- xi0nx captured the Red Flag
+20-04-20 05:10:34 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:10:43 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:10:45 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:10:48 (2) eX.- Necro killed (1) =E*R= KillMe! with FN Minimi
+20-04-20 05:10:49 eX.- Necro returned the Blue Flag
+20-04-20 05:10:49 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:10:50 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:10:52 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 05:10:52 =E*R= Sadiko returned the Red Flag
+20-04-20 05:10:52 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:10:54 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:10:55 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:10:57 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:10:57 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:10:58 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:10:58 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:10:58 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:11:03 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:11:05 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:11:05 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:11:06 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:11:10 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:11:11 eX.- PerfectDark captured the Red Flag
+20-04-20 05:11:12 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Combat Knife
+20-04-20 05:11:13 =E*R= Sadiko returned the Red Flag
+20-04-20 05:11:14 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:11:17 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:11:19 (1) =E*R= KillMe! killed (2) eX.- xi0nx with LAW
+20-04-20 05:11:19 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:11:22 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:11:24 (1) =E*R= KillMe! killed (2) eX.- Necro with M79
+20-04-20 05:11:24 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:11:24 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:11:26 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:11:26 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:11:28 179.225.182.239:23073|4756E2344F5 requesting game...
+20-04-20 05:11:29 179.225.182.239:23073|4756E2344F5 requesting game...
+20-04-20 05:11:31 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:11:33 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:11:33 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:11:33 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:11:34 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:11:39 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:11:41 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:11:43 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:11:45 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:11:47 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:11:49 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:11:51 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:11:55 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:11:58 (2) eX.- Necro killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:12:01 (1) =E*R= KillMe! killed (2) eX.- xi0nx with LAW
+20-04-20 05:12:03 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:12:04 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:12:06 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:12:07 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:12:10 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:12:14 (2) eX.- xi0nx killed (1) =E*R= KillMe! with LAW
+20-04-20 05:12:15 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Grenade
+20-04-20 05:12:15 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:12:18 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:12:21 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:12:22 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:12:22 (2) eX.- Necro killed (1) =E*R= KillMe! with FN Minimi
+20-04-20 05:12:27 179.192.44.218:23073|26C77BE905E requesting game...
+20-04-20 05:12:29 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:12:29 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:12:30 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:12:35 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:12:35 (2) eX.- Necro killed (1) =E*R= KillMe! with Combat Knife
+20-04-20 05:12:35 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:12:36 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:12:43 45.232.89.78:57853|5A92C1B9A4E requesting game...
+20-04-20 05:12:45 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:12:45 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:12:48 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:12:51 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:12:53 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:13:00 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:00 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:13:01 (2) eX.- xi0nx killed (1) =E*R= KillMe! with LAW
+20-04-20 05:13:01 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:13:01 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 05:13:02 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:03 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:13:08 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:10 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:13:10 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:13:11 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:12 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:13:15 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:13:16 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:13:17 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:18 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:13:18 (1) =E*R= KillMe! killed (2) eX.- Necro with M79
+20-04-20 05:13:19 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:21 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:13:23 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:13:26 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:13:29 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:13:30 (2) eX.- xi0nx killed (1) =E*R= KillMe! with LAW
+20-04-20 05:13:32 (2) eX.- Necro killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:13:34 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with LAW
+20-04-20 05:13:36 eX.- Necro captured the Red Flag
+20-04-20 05:13:36 (1) =E*R= KillMe! killed (2) eX.- Necro with Grenade
+20-04-20 05:13:38 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Ak-74
+20-04-20 05:13:39 eX.- PerfectDark captured the Red Flag
+20-04-20 05:13:40 eX.- PerfectDark scores for Bravo Team
+20-04-20 05:13:45 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:13:45 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:13:49 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:13:50 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:13:53 eX.- xi0nx captured the Red Flag
+20-04-20 05:13:53 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:13:54 Divas| Sk8' has left spectators
+20-04-20 05:13:55 =E*R= Sadiko returned the Red Flag
+20-04-20 05:13:58 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with LAW
+20-04-20 05:14:01 (2) eX.- Necro killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:14:01 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:14:02 (1) =E*R= KillMe! killed (2) eX.- xi0nx with LAW
+20-04-20 05:14:05 eX.- Necro captured the Red Flag
+20-04-20 05:14:06 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:14:07 (1) =E*R= Sadiko killed (2) eX.- Necro with Grenade
+20-04-20 05:14:09 eX.- xi0nx captured the Red Flag
+20-04-20 05:14:09 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:14:11 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:14:12 eX.- Necro captured the Red Flag
+20-04-20 05:14:13 (2) eX.- Necro killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:14:13 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:14:18 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Ak-74
+20-04-20 05:14:19 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:14:24 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:14:25 eX.- Necro returned the Blue Flag
+20-04-20 05:14:26 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:14:26 eX.- xi0nx captured the Red Flag
+20-04-20 05:14:29 eX.- xi0nx scores for Bravo Team
+20-04-20 05:14:34 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:14:34 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:14:35 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:14:35 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:14:40 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 05:14:42 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:14:42 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:14:42 (2) eX.- Necro killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:14:43 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:14:44 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:14:46 =E*R= Chaky//<3K scores for Alpha Team
+20-04-20 05:14:51 Time Left: 5 minutes
+20-04-20 05:14:51 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:14:53 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:14:54 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:14:57 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:14:59 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:14:59 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:15:01 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:15:04 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:15:09 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:15:10 (1) =E*R= KillMe! killed (2) eX.- Necro with LAW
+20-04-20 05:15:14 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:15:15 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:15:16 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:15:16 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:15:18 eX.- xi0nx captured the Red Flag
+20-04-20 05:15:18 (1) =E*R= KillMe! killed (2) eX.- xi0nx with M79
+20-04-20 05:15:19 =E*R= KillMe! returned the Red Flag
+20-04-20 05:15:20 =E*R= KillMe! scores for Alpha Team
+20-04-20 05:15:23 (1) =E*R= KillMe! killed (2) eX.- Necro with M79
+20-04-20 05:15:23 (2) eX.- Necro killed (1) =E*R= KillMe! with Steyr AUG
+20-04-20 05:15:28 (2) eX.- xi0nx killed (1) =E*R= Sadiko with HK MP5
+20-04-20 05:15:29 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:15:30 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:15:32 (1) =E*R= KillMe! killed (2) eX.- Necro with LAW
+20-04-20 05:15:32 (2) eX.- Necro killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:15:35 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:15:38 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:15:40 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Combat Knife
+20-04-20 05:15:42 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:15:43 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 05:15:46 (2) eX.- Necro killed (1) =E*R= KillMe! with Steyr AUG
+20-04-20 05:15:46 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:15:49 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:15:49 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:15:51 Time Left: 4 minutes
+20-04-20 05:15:51 (1) =E*R= KillMe! killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:15:52 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:15:54 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:15:57 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Ruger 77
+20-04-20 05:15:59 eX.- J4zz has left spectators
+20-04-20 05:16:00 (1) =E*R= KillMe! killed (2) eX.- Necro with LAW
+20-04-20 05:16:01 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:16:03 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:16:06 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:16:06 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:16:07 (2) eX.- Necro killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 05:16:13 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:16:13 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:16:16 (1) =E*R= KillMe! killed (2) eX.- Necro with Grenade
+20-04-20 05:16:16 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:16:19 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Combat Knife
+20-04-20 05:16:21 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:16:24 (1) =E*R= Chaky//<3K killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:16:26 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:16:28 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:16:30 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with LAW
+20-04-20 05:16:33 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 05:16:33 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:16:36 (2) eX.- Necro killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:16:38 eX.- PerfectDark captured the Red Flag
+20-04-20 05:16:39 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 05:16:40 =E*R= Sadiko returned the Red Flag
+20-04-20 05:16:40 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:16:40 (2) eX.- PerfectDark killed (1) =E*R= Sadiko with Combat Knife
+20-04-20 05:16:41 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:16:44 (1) =E*R= KillMe! killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:16:45 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:16:47 =E*R= KillMe! scores for Alpha Team
+20-04-20 05:16:47 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 05:16:47 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 05:16:51 Time Left: 3 minutes
+20-04-20 05:16:52 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:16:54 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 05:16:55 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:16:58 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:16:59 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Steyr AUG
+20-04-20 05:17:01 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Grenade
+20-04-20 05:17:06 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with LAW
+20-04-20 05:17:07 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 05:17:07 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:17:11 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:17:15 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:17:20 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:17:20 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:17:20 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:17:24 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:17:24 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Grenade
+20-04-20 05:17:28 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:17:29 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:17:36 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:17:36 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with Ak-74
+20-04-20 05:17:37 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Grenade
+20-04-20 05:17:38 [eX.- Necro] xd
+20-04-20 05:17:39 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:17:39 [=E*R= Chaky//<3K] xDD
+20-04-20 05:17:45 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:17:47 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:17:51 Time Left: 2 minutes
+20-04-20 05:17:52 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Combat Knife
+20-04-20 05:17:52 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:17:54 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Spas-12
+20-04-20 05:17:54 (1) =E*R= Sadiko killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:17:58 [UnK] KorN has left spectators
+20-04-20 05:18:01 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:18:02 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:18:02 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:18:06 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Ak-74
+20-04-20 05:18:07 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:18:08 (2) eX.- PerfectDark killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:18:08 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with LAW
+20-04-20 05:18:13 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:18:15 (2) eX.- PerfectDark killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:18:19 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:18:19 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Ak-74
+20-04-20 05:18:22 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:18:24 (1) =E*R= Sadiko killed (2) eX.- Necro with Combat Knife
+20-04-20 05:18:26 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:18:27 eX.- PerfectDark captured the Red Flag
+20-04-20 05:18:27 (2) eX.- xi0nx killed (1) =E*R= Sadiko with Grenade
+20-04-20 05:18:28 eX.- PerfectDark returned the Blue Flag
+20-04-20 05:18:30 eX.- Necro captured the Red Flag
+20-04-20 05:18:31 eX.- Necro scores for Bravo Team
+20-04-20 05:18:31 eX.- PerfectDark captured the Red Flag
+20-04-20 05:18:32 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:18:32 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with Grenade
+20-04-20 05:18:33 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 05:18:35 eX.- Necro captured the Red Flag
+20-04-20 05:18:35 eX.- Necro scores for Bravo Team
+20-04-20 05:18:35 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:18:40 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:18:40 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:18:43 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:18:49 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:18:50 (2) eX.- xi0nx killed (1) =E*R= KillMe! with HK MP5
+20-04-20 05:18:51 Time Left: 1 minutes
+20-04-20 05:18:52 eX.- PerfectDark captured the Red Flag
+20-04-20 05:18:56 (1) =E*R= Chaky//<3K killed (2) eX.- xi0nx with Ruger 77
+20-04-20 05:18:56 (2) eX.- xi0nx killed (1) =E*R= Chaky//<3K with HK MP5
+20-04-20 05:18:57 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with Steyr AUG
+20-04-20 05:18:57 (1) =E*R= Sadiko killed (2) eX.- Necro with Steyr AUG
+20-04-20 05:19:01 eX.- xi0nx returned the Blue Flag
+20-04-20 05:19:02 eX.- xi0nx captured the Red Flag
+20-04-20 05:19:02 eX.- xi0nx scores for Bravo Team
+20-04-20 05:19:03 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:19:04 (2) eX.- Necro killed (1) =E*R= Sadiko with FN Minimi
+20-04-20 05:19:05 (1) =E*R= KillMe! killed (2) eX.- PerfectDark with LAW
+20-04-20 05:19:06 eX.- Necro returned the Blue Flag
+20-04-20 05:19:07 (2) eX.- xi0nx killed (1) =E*R= KillMe! with Grenade
+20-04-20 05:19:08 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:19:11 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:19:12 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:19:13 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:19:13 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Steyr AUG
+20-04-20 05:19:13 eX.- xi0nx gets a ping warning
+20-04-20 05:19:16 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with Ruger 77
+20-04-20 05:19:18 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:19:20 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:19:21 (1) =E*R= Chaky//<3K killed (2) eX.- Necro with LAW
+20-04-20 05:19:22 eX.- PerfectDark captured the Red Flag
+20-04-20 05:19:22 (1) =E*R= Sadiko killed (2) eX.- PerfectDark with Grenade
+20-04-20 05:19:23 (1) =E*R= KillMe! killed (2) eX.- xi0nx with Grenade
+20-04-20 05:19:23 =E*R= Chaky//<3K captured the Blue Flag
+20-04-20 05:19:23 =E*R= Sadiko returned the Red Flag
+20-04-20 05:19:27 (2) eX.- Necro killed (1) =E*R= Chaky//<3K with FN Minimi
+20-04-20 05:19:28 =E*R= Sadiko captured the Blue Flag
+20-04-20 05:19:28 Next map: Lobby
+20-04-20 05:19:28 =E*R= Sadiko scores for Alpha Team
+20-04-20 05:19:28 =E*R= KillMe! captured the Blue Flag
+20-04-20 05:19:30 [eX.- Necro] buena chaky
+20-04-20 05:19:30 [eX.- PerfectDark] ggs
+20-04-20 05:19:33 [=E*R= KillMe!] gg
+20-04-20 05:19:34 Lothic - Gothic Lobby Room
+20-04-20 05:19:35 [eX.- Necro] gg
+20-04-20 05:19:36 eX.- PerfectDark has left bravo team.
+20-04-20 05:19:37 eX.- Necro has left bravo team.
+20-04-20 05:19:40 eX.- xi0nx has left bravo team.
+20-04-20 05:19:41 =E*R= KillMe! has left alpha team.
+20-04-20 05:19:41 =E*R= Sadiko has left alpha team.
+20-04-20 05:19:42 =E*R= Chaky//<3K has left alpha team.
+20-04-20 05:19:45 Exactos. Break has left spectators
+20-04-20 05:20:26 eX.- Ratzor has left spectators
+20-04-20 05:23:19 190.101.190.28:23073|348574D9644 requesting game...
+20-04-20 05:24:33 Time Left: 5 minutes
+20-04-20 05:25:33 Time Left: 4 minutes
+20-04-20 05:26:33 Time Left: 3 minutes
+20-04-20 05:27:33 Time Left: 2 minutes
+20-04-20 05:28:33 Time Left: 1 minutes
+20-04-20 05:29:33 Next map: Lobby
+20-04-20 05:29:39 Lothic - Gothic Lobby Room
+20-04-20 05:34:39 Time Left: 5 minutes
+20-04-20 05:35:39 Time Left: 4 minutes
+20-04-20 05:36:39 Time Left: 3 minutes
+20-04-20 05:37:39 Time Left: 2 minutes
+20-04-20 05:38:39 Time Left: 1 minutes
+20-04-20 05:39:39 Next map: Lobby
+20-04-20 05:39:44 Lothic - Gothic Lobby Room
+20-04-20 05:44:44 Time Left: 5 minutes
+20-04-20 05:45:44 Time Left: 4 minutes
+20-04-20 05:46:44 Time Left: 3 minutes
+20-04-20 05:47:44 Time Left: 2 minutes
+20-04-20 05:48:44 Time Left: 1 minutes
+20-04-20 05:49:44 Next map: Lobby
+20-04-20 05:49:49 Lothic - Gothic Lobby Room
+20-04-20 05:54:49 Time Left: 5 minutes
+20-04-20 05:55:49 Time Left: 4 minutes
+20-04-20 05:56:49 Time Left: 3 minutes
+20-04-20 05:57:49 Time Left: 2 minutes
+20-04-20 05:58:49 Time Left: 1 minutes
+20-04-20 05:59:49 Next map: Lobby
+20-04-20 05:59:55 Lothic - Gothic Lobby Room
+20-04-20 06:02:17 Admin disconnected (191.126.60.207).
+20-04-20 06:04:55 Time Left: 5 minutes
+20-04-20 06:05:55 Time Left: 4 minutes
+20-04-20 06:06:55 Time Left: 3 minutes
+20-04-20 06:07:55 Time Left: 2 minutes
+20-04-20 06:08:55 Time Left: 1 minutes
+20-04-20 06:09:55 Next map: Lobby
+20-04-20 06:10:00 Lothic - Gothic Lobby Room
+20-04-20 06:15:00 Time Left: 5 minutes
+20-04-20 06:16:00 Time Left: 4 minutes
+20-04-20 06:17:00 Time Left: 3 minutes
+20-04-20 06:18:00 Time Left: 2 minutes
+20-04-20 06:19:00 Time Left: 1 minutes
+20-04-20 06:20:00 Next map: Lobby
+20-04-20 06:20:05 Lothic - Gothic Lobby Room
+20-04-20 06:25:05 Time Left: 5 minutes
+20-04-20 06:26:05 Time Left: 4 minutes
+20-04-20 06:27:05 Time Left: 3 minutes
+20-04-20 06:28:05 Time Left: 2 minutes
+20-04-20 06:29:05 Time Left: 1 minutes
+20-04-20 06:30:05 Next map: Lobby
+20-04-20 06:30:11 Lothic - Gothic Lobby Room
+20-04-20 06:35:11 Time Left: 5 minutes
+20-04-20 06:36:11 Time Left: 4 minutes
+20-04-20 06:37:11 Time Left: 3 minutes
+20-04-20 06:38:11 Time Left: 2 minutes
+20-04-20 06:39:11 Time Left: 1 minutes
+20-04-20 06:40:11 Next map: Lobby
+20-04-20 06:40:16 Lothic - Gothic Lobby Room
+20-04-20 06:45:16 Time Left: 5 minutes
+20-04-20 06:46:16 Time Left: 4 minutes
+20-04-20 06:47:16 Time Left: 3 minutes
+20-04-20 06:48:16 Time Left: 2 minutes
+20-04-20 06:49:16 Time Left: 1 minutes
+20-04-20 06:50:16 Next map: Lobby
+20-04-20 06:50:21 Lothic - Gothic Lobby Room
+20-04-20 06:55:21 Time Left: 5 minutes
+20-04-20 06:56:21 Time Left: 4 minutes
+20-04-20 06:57:21 Time Left: 3 minutes
+20-04-20 06:58:21 Time Left: 2 minutes
+20-04-20 06:59:21 Time Left: 1 minutes
+20-04-20 07:00:21 Next map: Lobby
+20-04-20 07:00:27 Lothic - Gothic Lobby Room
+20-04-20 07:05:27 Time Left: 5 minutes
+20-04-20 07:06:27 Time Left: 4 minutes
+20-04-20 07:07:27 Time Left: 3 minutes
+20-04-20 07:08:27 Time Left: 2 minutes
+20-04-20 07:09:27 Time Left: 1 minutes
+20-04-20 07:10:27 Next map: Lobby
+20-04-20 07:10:32 Lothic - Gothic Lobby Room
+20-04-20 07:15:32 Time Left: 5 minutes
+20-04-20 07:16:32 Time Left: 4 minutes
+20-04-20 07:17:32 Time Left: 3 minutes
+20-04-20 07:18:32 Time Left: 2 minutes
+20-04-20 07:19:32 Time Left: 1 minutes
+20-04-20 07:20:32 Next map: Lobby
+20-04-20 07:20:37 Lothic - Gothic Lobby Room
+20-04-20 07:25:37 Time Left: 5 minutes
+20-04-20 07:26:37 Time Left: 4 minutes
+20-04-20 07:27:37 Time Left: 3 minutes
+20-04-20 07:28:37 Time Left: 2 minutes
+20-04-20 07:29:37 Time Left: 1 minutes
+20-04-20 07:30:37 Next map: Lobby
+20-04-20 07:30:43 Lothic - Gothic Lobby Room
+20-04-20 07:35:43 Time Left: 5 minutes
+20-04-20 07:36:43 Time Left: 4 minutes
+20-04-20 07:37:43 Time Left: 3 minutes
+20-04-20 07:38:43 Time Left: 2 minutes
+20-04-20 07:39:43 Time Left: 1 minutes
+20-04-20 07:40:42 Next map: Lobby
+20-04-20 07:40:48 Lothic - Gothic Lobby Room
+20-04-20 07:45:48 Time Left: 5 minutes
+20-04-20 07:46:48 Time Left: 4 minutes
+20-04-20 07:47:48 Time Left: 3 minutes
+20-04-20 07:48:48 Time Left: 2 minutes
+20-04-20 07:49:48 Time Left: 1 minutes
+20-04-20 07:50:48 Next map: Lobby
+20-04-20 07:50:53 Lothic - Gothic Lobby Room
+20-04-20 07:55:53 Time Left: 5 minutes
+20-04-20 07:56:53 Time Left: 4 minutes
+20-04-20 07:57:53 Time Left: 3 minutes
+20-04-20 07:58:53 Time Left: 2 minutes
+20-04-20 07:59:53 Time Left: 1 minutes
+20-04-20 08:00:53 Next map: Lobby
+20-04-20 08:00:58 Lothic - Gothic Lobby Room
+20-04-20 08:05:58 Time Left: 5 minutes
+20-04-20 08:06:58 Time Left: 4 minutes
+20-04-20 08:07:58 Time Left: 3 minutes
+20-04-20 08:08:58 Time Left: 2 minutes
+20-04-20 08:09:58 Time Left: 1 minutes
+20-04-20 08:10:58 Next map: Lobby
+20-04-20 08:11:04 Lothic - Gothic Lobby Room
+20-04-20 08:16:04 Time Left: 5 minutes
+20-04-20 08:17:04 Time Left: 4 minutes
+20-04-20 08:18:04 Time Left: 3 minutes
+20-04-20 08:19:04 Time Left: 2 minutes
+20-04-20 08:20:04 Time Left: 1 minutes
+20-04-20 08:21:04 Next map: Lobby
+20-04-20 08:21:09 Lothic - Gothic Lobby Room
+20-04-20 08:26:09 Time Left: 5 minutes
+20-04-20 08:27:09 Time Left: 4 minutes
+20-04-20 08:28:09 Time Left: 3 minutes
+20-04-20 08:29:09 Time Left: 2 minutes
+20-04-20 08:30:09 Time Left: 1 minutes
+20-04-20 08:31:09 Next map: Lobby
+20-04-20 08:31:14 Lothic - Gothic Lobby Room
+20-04-20 08:36:14 Time Left: 5 minutes
+20-04-20 08:37:14 Time Left: 4 minutes
+20-04-20 08:38:14 Time Left: 3 minutes
+20-04-20 08:39:14 Time Left: 2 minutes
+20-04-20 08:40:14 Time Left: 1 minutes
+20-04-20 08:41:14 Next map: Lobby
+20-04-20 08:41:20 Lothic - Gothic Lobby Room
+20-04-20 08:46:20 Time Left: 5 minutes
+20-04-20 08:47:20 Time Left: 4 minutes
+20-04-20 08:48:20 Time Left: 3 minutes
+20-04-20 08:49:20 Time Left: 2 minutes
+20-04-20 08:50:20 Time Left: 1 minutes
+20-04-20 08:51:20 Next map: Lobby
+20-04-20 08:51:25 Lothic - Gothic Lobby Room
+20-04-20 08:56:25 Time Left: 5 minutes
+20-04-20 08:57:25 Time Left: 4 minutes
+20-04-20 08:58:25 Time Left: 3 minutes
+20-04-20 08:59:25 Time Left: 2 minutes
+20-04-20 09:00:25 Time Left: 1 minutes
+20-04-20 09:01:25 Next map: Lobby
+20-04-20 09:01:30 Lothic - Gothic Lobby Room
+20-04-20 09:06:30 Time Left: 5 minutes
+20-04-20 09:07:30 Time Left: 4 minutes
+20-04-20 09:08:30 Time Left: 3 minutes
+20-04-20 09:09:30 Time Left: 2 minutes
+20-04-20 09:10:30 Time Left: 1 minutes
+20-04-20 09:11:30 Next map: Lobby
+20-04-20 09:11:36 Lothic - Gothic Lobby Room
+20-04-20 09:16:36 Time Left: 5 minutes
+20-04-20 09:17:36 Time Left: 4 minutes
+20-04-20 09:18:36 Time Left: 3 minutes
+20-04-20 09:19:36 Time Left: 2 minutes
+20-04-20 09:20:36 Time Left: 1 minutes
+20-04-20 09:21:36 Next map: Lobby
+20-04-20 09:21:41 Lothic - Gothic Lobby Room
+20-04-20 09:26:41 Time Left: 5 minutes
+20-04-20 09:27:41 Time Left: 4 minutes
+20-04-20 09:28:41 Time Left: 3 minutes
+20-04-20 09:29:41 Time Left: 2 minutes
+20-04-20 09:30:41 Time Left: 1 minutes
+20-04-20 09:31:41 Next map: Lobby
+20-04-20 09:31:46 Lothic - Gothic Lobby Room
+20-04-20 09:36:46 Time Left: 5 minutes
+20-04-20 09:37:46 Time Left: 4 minutes
+20-04-20 09:38:46 Time Left: 3 minutes
+20-04-20 09:39:46 Time Left: 2 minutes
+20-04-20 09:40:46 Time Left: 1 minutes
+20-04-20 09:41:46 Next map: Lobby
+20-04-20 09:41:52 Lothic - Gothic Lobby Room
+20-04-20 09:46:52 Time Left: 5 minutes
+20-04-20 09:47:52 Time Left: 4 minutes
+20-04-20 09:48:52 Time Left: 3 minutes
+20-04-20 09:49:52 Time Left: 2 minutes
+20-04-20 09:50:52 Time Left: 1 minutes
+20-04-20 09:51:52 Next map: Lobby
+20-04-20 09:51:57 Lothic - Gothic Lobby Room
+20-04-20 09:56:57 Time Left: 5 minutes
+20-04-20 09:57:57 Time Left: 4 minutes
+20-04-20 09:58:57 Time Left: 3 minutes
+20-04-20 09:59:57 Time Left: 2 minutes
+20-04-20 10:00:57 Time Left: 1 minutes
+20-04-20 10:01:57 Next map: Lobby
+20-04-20 10:02:02 Lothic - Gothic Lobby Room
+20-04-20 10:07:02 Time Left: 5 minutes
+20-04-20 10:08:02 Time Left: 4 minutes
+20-04-20 10:09:02 Time Left: 3 minutes
+20-04-20 10:10:02 Time Left: 2 minutes
+20-04-20 10:11:02 Time Left: 1 minutes
+20-04-20 10:12:02 Next map: Lobby
+20-04-20 10:12:08 Lothic - Gothic Lobby Room
+20-04-20 10:17:08 Time Left: 5 minutes
+20-04-20 10:18:08 Time Left: 4 minutes
+20-04-20 10:19:08 Time Left: 3 minutes
+20-04-20 10:20:08 Time Left: 2 minutes
+20-04-20 10:21:08 Time Left: 1 minutes
+20-04-20 10:22:08 Next map: Lobby
+20-04-20 10:22:13 Lothic - Gothic Lobby Room
+20-04-20 10:27:13 Time Left: 5 minutes
+20-04-20 10:28:13 Time Left: 4 minutes
+20-04-20 10:29:13 Time Left: 3 minutes
+20-04-20 10:30:13 Time Left: 2 minutes
+20-04-20 10:31:13 Time Left: 1 minutes
+20-04-20 10:32:13 Next map: Lobby
+20-04-20 10:32:18 Lothic - Gothic Lobby Room
+20-04-20 10:37:18 Time Left: 5 minutes
+20-04-20 10:38:18 Time Left: 4 minutes
+20-04-20 10:39:18 Time Left: 3 minutes
+20-04-20 10:40:18 Time Left: 2 minutes
+20-04-20 10:41:18 Time Left: 1 minutes
+20-04-20 10:42:18 Next map: Lobby
+20-04-20 10:42:24 Lothic - Gothic Lobby Room
+20-04-20 10:47:24 Time Left: 5 minutes
+20-04-20 10:48:24 Time Left: 4 minutes
+20-04-20 10:49:24 Time Left: 3 minutes
+20-04-20 10:50:24 Time Left: 2 minutes
+20-04-20 10:51:24 Time Left: 1 minutes
+20-04-20 10:52:24 Next map: Lobby
+20-04-20 10:52:29 Lothic - Gothic Lobby Room
+20-04-20 10:57:29 Time Left: 5 minutes
+20-04-20 10:58:29 Time Left: 4 minutes
+20-04-20 10:59:29 Time Left: 3 minutes
+20-04-20 11:00:29 Time Left: 2 minutes
+20-04-20 11:01:29 Time Left: 1 minutes
+20-04-20 11:02:29 Next map: Lobby
+20-04-20 11:02:34 Lothic - Gothic Lobby Room
+20-04-20 11:07:34 Time Left: 5 minutes
+20-04-20 11:08:34 Time Left: 4 minutes
+20-04-20 11:09:34 Time Left: 3 minutes
+20-04-20 11:10:34 Time Left: 2 minutes
+20-04-20 11:11:34 Time Left: 1 minutes
+20-04-20 11:12:34 Next map: Lobby
+20-04-20 11:12:39 Lothic - Gothic Lobby Room
+20-04-20 11:17:39 Time Left: 5 minutes
+20-04-20 11:18:39 Time Left: 4 minutes
+20-04-20 11:19:39 Time Left: 3 minutes
+20-04-20 11:20:39 Time Left: 2 minutes
+20-04-20 11:21:39 Time Left: 1 minutes
+20-04-20 11:22:39 Next map: Lobby
+20-04-20 11:22:45 Lothic - Gothic Lobby Room
+20-04-20 11:27:45 Time Left: 5 minutes
+20-04-20 11:28:45 Time Left: 4 minutes
+20-04-20 11:29:45 Time Left: 3 minutes
+20-04-20 11:30:45 Time Left: 2 minutes
+20-04-20 11:31:45 Time Left: 1 minutes
+20-04-20 11:32:45 Next map: Lobby
+20-04-20 11:32:50 Lothic - Gothic Lobby Room
+20-04-20 11:37:50 Time Left: 5 minutes
+20-04-20 11:38:50 Time Left: 4 minutes
+20-04-20 11:39:50 Time Left: 3 minutes
+20-04-20 11:40:50 Time Left: 2 minutes
+20-04-20 11:41:50 Time Left: 1 minutes
+20-04-20 11:42:50 Next map: Lobby
+20-04-20 11:42:55 Lothic - Gothic Lobby Room
+20-04-20 11:47:55 Time Left: 5 minutes
+20-04-20 11:48:55 Time Left: 4 minutes
+20-04-20 11:49:55 Time Left: 3 minutes
+20-04-20 11:50:55 Time Left: 2 minutes
+20-04-20 11:51:55 Time Left: 1 minutes
+20-04-20 11:52:55 Next map: Lobby
+20-04-20 11:53:01 Lothic - Gothic Lobby Room
+20-04-20 11:58:01 Time Left: 5 minutes
+20-04-20 11:59:01 Time Left: 4 minutes
+20-04-20 12:00:01 Time Left: 3 minutes
+20-04-20 12:01:01 Time Left: 2 minutes
+20-04-20 12:02:01 Time Left: 1 minutes
+20-04-20 12:03:01 Next map: Lobby
+20-04-20 12:03:06 Lothic - Gothic Lobby Room
+20-04-20 12:08:06 Time Left: 5 minutes
+20-04-20 12:09:06 Time Left: 4 minutes
+20-04-20 12:10:06 Time Left: 3 minutes
+20-04-20 12:11:06 Time Left: 2 minutes
+20-04-20 12:12:06 Time Left: 1 minutes
+20-04-20 12:13:06 Next map: Lobby
+20-04-20 12:13:11 Lothic - Gothic Lobby Room
+20-04-20 12:18:11 Time Left: 5 minutes
+20-04-20 12:19:11 Time Left: 4 minutes
+20-04-20 12:20:11 Time Left: 3 minutes
+20-04-20 12:21:11 Time Left: 2 minutes
+20-04-20 12:22:11 Time Left: 1 minutes
+20-04-20 12:23:11 Next map: Lobby
+20-04-20 12:23:17 Lothic - Gothic Lobby Room
+20-04-20 12:28:17 Time Left: 5 minutes
+20-04-20 12:29:17 Time Left: 4 minutes
+20-04-20 12:30:17 Time Left: 3 minutes
+20-04-20 12:31:17 Time Left: 2 minutes
+20-04-20 12:32:17 Time Left: 1 minutes
+20-04-20 12:33:17 Next map: Lobby
+20-04-20 12:33:22 Lothic - Gothic Lobby Room
+20-04-20 12:38:22 Time Left: 5 minutes
+20-04-20 12:39:22 Time Left: 4 minutes
+20-04-20 12:40:22 Time Left: 3 minutes
+20-04-20 12:41:22 Time Left: 2 minutes
+20-04-20 12:42:22 Time Left: 1 minutes
+20-04-20 12:43:22 Next map: Lobby
+20-04-20 12:43:27 Lothic - Gothic Lobby Room
+20-04-20 12:48:27 Time Left: 5 minutes
+20-04-20 12:49:27 Time Left: 4 minutes
+20-04-20 12:50:27 Time Left: 3 minutes
+20-04-20 12:51:27 Time Left: 2 minutes
+20-04-20 12:52:27 Time Left: 1 minutes
+20-04-20 12:53:27 Next map: Lobby
+20-04-20 12:53:33 Lothic - Gothic Lobby Room
+20-04-20 12:58:33 Time Left: 5 minutes
+20-04-20 12:59:33 Time Left: 4 minutes
+20-04-20 13:00:33 Time Left: 3 minutes
+20-04-20 13:01:33 Time Left: 2 minutes
+20-04-20 13:02:33 Time Left: 1 minutes
+20-04-20 13:03:33 Next map: Lobby
+20-04-20 13:03:38 Lothic - Gothic Lobby Room
+20-04-20 13:08:38 Time Left: 5 minutes
+20-04-20 13:09:38 Time Left: 4 minutes
+20-04-20 13:10:38 Time Left: 3 minutes
+20-04-20 13:11:38 Time Left: 2 minutes
+20-04-20 13:12:38 Time Left: 1 minutes
+20-04-20 13:13:38 Next map: Lobby
+20-04-20 13:13:43 Lothic - Gothic Lobby Room
+20-04-20 13:18:43 Time Left: 5 minutes
+20-04-20 13:19:43 Time Left: 4 minutes
+20-04-20 13:20:43 Time Left: 3 minutes
+20-04-20 13:21:43 Time Left: 2 minutes
+20-04-20 13:22:43 Time Left: 1 minutes
+20-04-20 13:23:43 Next map: Lobby
+20-04-20 13:23:49 Lothic - Gothic Lobby Room
+20-04-20 13:28:49 Time Left: 5 minutes
+20-04-20 13:29:49 Time Left: 4 minutes
+20-04-20 13:30:49 Time Left: 3 minutes
+20-04-20 13:31:49 Time Left: 2 minutes
+20-04-20 13:32:49 Time Left: 1 minutes
+20-04-20 13:33:49 Next map: Lobby
+20-04-20 13:33:54 Lothic - Gothic Lobby Room
+20-04-20 13:38:54 Time Left: 5 minutes
+20-04-20 13:39:54 Time Left: 4 minutes
+20-04-20 13:40:54 Time Left: 3 minutes
+20-04-20 13:41:54 Time Left: 2 minutes
+20-04-20 13:42:54 Time Left: 1 minutes
+20-04-20 13:43:54 Next map: Lobby
+20-04-20 13:43:59 Lothic - Gothic Lobby Room
+20-04-20 13:48:59 Time Left: 5 minutes
+20-04-20 13:49:59 Time Left: 4 minutes
+20-04-20 13:50:59 Time Left: 3 minutes
+20-04-20 13:51:59 Time Left: 2 minutes
+20-04-20 13:52:59 Time Left: 1 minutes
+20-04-20 13:53:59 Next map: Lobby
+20-04-20 13:54:05 Lothic - Gothic Lobby Room
+20-04-20 13:59:05 Time Left: 5 minutes
+20-04-20 14:00:05 Time Left: 4 minutes
+20-04-20 14:01:05 Time Left: 3 minutes
+20-04-20 14:02:05 Time Left: 2 minutes
+20-04-20 14:03:05 Time Left: 1 minutes
+20-04-20 14:04:05 Next map: Lobby
+20-04-20 14:04:10 Lothic - Gothic Lobby Room
+20-04-20 14:09:10 Time Left: 5 minutes
+20-04-20 14:10:10 Time Left: 4 minutes
+20-04-20 14:11:10 Time Left: 3 minutes
+20-04-20 14:12:10 Time Left: 2 minutes
+20-04-20 14:13:10 Time Left: 1 minutes
+20-04-20 14:14:10 Next map: Lobby
+20-04-20 14:14:15 Lothic - Gothic Lobby Room
+20-04-20 14:19:15 Time Left: 5 minutes
+20-04-20 14:20:15 Time Left: 4 minutes
+20-04-20 14:21:15 Time Left: 3 minutes
+20-04-20 14:22:15 Time Left: 2 minutes
+20-04-20 14:23:15 Time Left: 1 minutes
+20-04-20 14:24:15 Next map: Lobby
+20-04-20 14:24:21 Lothic - Gothic Lobby Room
+20-04-20 14:29:20 Time Left: 5 minutes
+20-04-20 14:30:20 Time Left: 4 minutes
+20-04-20 14:31:20 Time Left: 3 minutes
+20-04-20 14:32:20 Time Left: 2 minutes
+20-04-20 14:33:20 Time Left: 1 minutes
+20-04-20 14:34:20 Next map: Lobby
+20-04-20 14:34:26 Lothic - Gothic Lobby Room
+20-04-20 14:39:26 Time Left: 5 minutes
+20-04-20 14:40:26 Time Left: 4 minutes
+20-04-20 14:41:26 Time Left: 3 minutes
+20-04-20 14:42:26 Time Left: 2 minutes
+20-04-20 14:43:26 Time Left: 1 minutes
+20-04-20 14:44:26 Next map: Lobby
+20-04-20 14:44:31 Lothic - Gothic Lobby Room
+20-04-20 14:49:31 Time Left: 5 minutes
+20-04-20 14:50:31 Time Left: 4 minutes
+20-04-20 14:51:31 Time Left: 3 minutes
+20-04-20 14:52:31 Time Left: 2 minutes
+20-04-20 14:53:31 Time Left: 1 minutes
+20-04-20 14:54:31 Next map: Lobby
+20-04-20 14:54:36 Lothic - Gothic Lobby Room
+20-04-20 14:59:36 Time Left: 5 minutes
+20-04-20 15:00:36 Time Left: 4 minutes
+20-04-20 15:01:36 Time Left: 3 minutes
+20-04-20 15:02:36 Time Left: 2 minutes
+20-04-20 15:03:36 Time Left: 1 minutes
+20-04-20 15:04:36 Next map: Lobby
+20-04-20 15:04:42 Lothic - Gothic Lobby Room
+20-04-20 15:09:42 Time Left: 5 minutes
+20-04-20 15:10:42 Time Left: 4 minutes
+20-04-20 15:11:42 Time Left: 3 minutes
+20-04-20 15:12:42 Time Left: 2 minutes
+20-04-20 15:13:42 Time Left: 1 minutes
+20-04-20 15:14:42 Next map: Lobby
+20-04-20 15:14:47 Lothic - Gothic Lobby Room
+20-04-20 15:19:47 Time Left: 5 minutes
+20-04-20 15:20:47 Time Left: 4 minutes
+20-04-20 15:21:47 Time Left: 3 minutes
+20-04-20 15:22:47 Time Left: 2 minutes
+20-04-20 15:23:47 Time Left: 1 minutes
+20-04-20 15:24:47 Next map: Lobby
+20-04-20 15:24:52 Lothic - Gothic Lobby Room
+20-04-20 15:29:52 Time Left: 5 minutes
+20-04-20 15:30:52 Time Left: 4 minutes
+20-04-20 15:31:52 Time Left: 3 minutes
+20-04-20 15:32:52 Time Left: 2 minutes
+20-04-20 15:33:52 Time Left: 1 minutes
+20-04-20 15:34:52 Next map: Lobby
+20-04-20 15:34:58 Lothic - Gothic Lobby Room
+20-04-20 15:39:58 Time Left: 5 minutes
+20-04-20 15:40:58 Time Left: 4 minutes
+20-04-20 15:41:58 Time Left: 3 minutes
+20-04-20 15:42:58 Time Left: 2 minutes
+20-04-20 15:43:58 Time Left: 1 minutes
+20-04-20 15:44:58 Next map: Lobby
+20-04-20 15:45:03 Lothic - Gothic Lobby Room
+20-04-20 15:50:03 Time Left: 5 minutes
+20-04-20 15:51:03 Time Left: 4 minutes
+20-04-20 15:52:03 Time Left: 3 minutes
+20-04-20 15:53:03 Time Left: 2 minutes
+20-04-20 15:54:03 Time Left: 1 minutes
+20-04-20 15:55:03 Next map: Lobby
+20-04-20 15:55:08 Lothic - Gothic Lobby Room
+20-04-20 16:00:08 Time Left: 5 minutes
+20-04-20 16:01:08 Time Left: 4 minutes
+20-04-20 16:02:08 Time Left: 3 minutes
+20-04-20 16:03:08 Time Left: 2 minutes
+20-04-20 16:04:08 Time Left: 1 minutes
+20-04-20 16:05:08 Next map: Lobby
+20-04-20 16:05:14 Lothic - Gothic Lobby Room
+20-04-20 16:10:14 Time Left: 5 minutes
+20-04-20 16:11:14 Time Left: 4 minutes
+20-04-20 16:12:14 Time Left: 3 minutes
+20-04-20 16:13:14 Time Left: 2 minutes
+20-04-20 16:14:14 Time Left: 1 minutes
+20-04-20 16:15:14 Next map: Lobby
+20-04-20 16:15:19 Lothic - Gothic Lobby Room
+20-04-20 16:20:19 Time Left: 5 minutes
+20-04-20 16:21:19 Time Left: 4 minutes
+20-04-20 16:22:19 Time Left: 3 minutes
+20-04-20 16:23:19 Time Left: 2 minutes
+20-04-20 16:24:19 Time Left: 1 minutes
+20-04-20 16:25:19 Next map: Lobby
+20-04-20 16:25:24 Lothic - Gothic Lobby Room

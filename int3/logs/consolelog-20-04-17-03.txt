@@ -1,0 +1,28 @@
+20-04-17 15:14:28    Console Log Started
+20-04-17 15:14:29 Welcome to Soldat 1.7.1
+20-04-17 15:14:29  [*] Preparing scripts to be launched
+20-04-17 15:14:29  [*] [BasicCommands] Loading bytecode
+20-04-17 15:14:29  [*] [BasicCommands] Bytecode loaded
+20-04-17 15:14:29  [*] Compiling comandomaps -> maps.pas...
+20-04-17 15:14:29  [*] comandomaps compiled
+20-04-17 15:14:29  [*] Compiling restablecerpass -> restablecerpass.pas...
+20-04-17 15:14:29  [*] restablecerpass compiled
+20-04-17 15:14:29  [*] Done
+20-04-17 15:14:29 Lothic - Gothic Lobby Room
+20-04-17 15:14:29 Loaded weapons mod "Default v1.8"
+20-04-17 15:14:29  Connection for file server started. Port: 23110
+20-04-17 15:14:29 Registering server @ 88.99.234.252
+20-04-17 15:19:29 Time Left: 5 minutes
+20-04-17 15:20:29 Time Left: 4 minutes
+20-04-17 15:21:29 Time Left: 3 minutes
+20-04-17 15:22:29 Time Left: 2 minutes
+20-04-17 15:23:29 Time Left: 1 minutes
+20-04-17 15:24:29 Next map: Lobby
+20-04-17 15:24:34 Lothic - Gothic Lobby Room
+20-04-17 15:29:34 Time Left: 5 minutes
+20-04-17 15:30:34 Time Left: 4 minutes
+20-04-17 15:31:34 Time Left: 3 minutes
+20-04-17 15:32:34 Time Left: 2 minutes
+20-04-17 15:33:34 Time Left: 1 minutes
+20-04-17 15:34:34 Next map: Lobby
+20-04-17 15:34:39 Lothic - Gothic Lobby Room

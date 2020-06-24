@@ -1,0 +1,30 @@
+20-04-24 05:10:49    Console Log Started
+20-04-24 05:10:49 Welcome to Soldat 1.7.1
+20-04-24 05:10:49  [*] Preparing scripts to be launched
+20-04-24 05:10:49  [*] [BasicCommands] Loading bytecode
+20-04-24 05:10:49  [*] [BasicCommands] Bytecode loaded
+20-04-24 05:10:49  [*] Compiling match -> match.pas...
+20-04-24 05:10:49  [*] match compiled
+20-04-24 05:10:49  [*] Done
+20-04-24 05:10:49 Lothic - Gothic Lobby Room
+20-04-24 05:10:49 Loaded weapons mod "Default v1.8"
+20-04-24 05:10:49  Connection for file server started. Port: 23210
+20-04-24 05:10:50 Registering server @ 88.99.234.252
+20-04-24 05:10:55 201.219.234.150:18665|64995B15DC0 requesting game...
+20-04-24 05:10:56 sT.- YnGwi3 joining game (201.219.234.150:18665) HWID:64995B15DC0
+20-04-24 05:10:56 sT.- YnGwi3 has joined bravo team.
+20-04-24 05:11:00 [sT.- YnGwi3] !map ctf_Razer
+20-04-24 05:11:00 Map not found (ctf_razer)
+20-04-24 05:11:02 [sT.- YnGwi3] !top20
+20-04-24 05:11:07 [sT.- YnGwi3] !sp
+20-04-24 05:11:07 Clave modificada a:946
+20-04-24 05:11:08 [sT.- YnGwi3] !dp
+20-04-24 05:11:08 Clave reseteada
+20-04-24 05:11:11 [sT.- YnGwi3] !map ctf_Tv
+20-04-24 05:11:11 Map not found (ctf_tv)
+20-04-24 05:11:15 [sT.- YnGwi3] !map ctf_Razer
+20-04-24 05:11:15 Map not found (ctf_razer)
+20-04-24 05:11:53 Signal received, shutting down
+20-04-24 05:11:53 Shutting down server...
+20-04-24 05:11:53 Shutting down FileServer...
+20-04-24 05:11:53 Shutting down admin server...

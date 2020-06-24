@@ -1,0 +1,9 @@
+20-05-04 13:34:30    Log Started
+20-05-04 13:34:30 Opened /home/kader_b/int1/soldat.ini
+20-05-04 13:45:06 TCP/IP File Server started
+20-05-04 14:15:05 TCP/IP File Server started
+20-05-04 14:45:06 TCP/IP File Server started
+20-05-04 15:15:05 TCP/IP File Server started
+20-05-04 15:45:06 TCP/IP File Server started
+20-05-04 16:04:54 Destroying Devices.
+20-05-04 16:04:54    End of Log.

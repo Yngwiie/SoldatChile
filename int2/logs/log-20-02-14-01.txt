@@ -1,0 +1,93 @@
+20-02-14 02:37:32    Log Started
+20-02-14 02:37:32 Opened C:\Users\Administrador\Downloads\Privado1\soldat.ini
+20-02-14 02:44:07 TCP/IP File Server started
+20-02-14 03:14:07 TCP/IP File Server started
+20-02-14 03:44:07 TCP/IP File Server started
+20-02-14 04:14:07 TCP/IP File Server started
+20-02-14 04:44:07 TCP/IP File Server started
+20-02-14 05:14:07 TCP/IP File Server started
+20-02-14 05:44:07 TCP/IP File Server started
+20-02-14 06:14:07 TCP/IP File Server started
+20-02-14 06:44:07 TCP/IP File Server started
+20-02-14 07:14:07 TCP/IP File Server started
+20-02-14 07:44:07 TCP/IP File Server started
+20-02-14 08:14:07 TCP/IP File Server started
+20-02-14 08:44:07 TCP/IP File Server started
+20-02-14 09:14:07 TCP/IP File Server started
+20-02-14 09:44:07 TCP/IP File Server started
+20-02-14 10:14:07 TCP/IP File Server started
+20-02-14 10:44:07 TCP/IP File Server started
+20-02-14 11:14:07 TCP/IP File Server started
+20-02-14 11:30:15  Net - berserker connected 14-02-2020 11:30:15
+20-02-14 11:30:18  Net - berserker disconnected 14-02-2020 11:30:18
+20-02-14 11:44:07 TCP/IP File Server started
+20-02-14 12:14:07 TCP/IP File Server started
+20-02-14 12:44:07 TCP/IP File Server started
+20-02-14 13:14:07 TCP/IP File Server started
+20-02-14 13:44:07 TCP/IP File Server started
+20-02-14 14:14:07 TCP/IP File Server started
+20-02-14 14:44:07 TCP/IP File Server started
+20-02-14 15:14:07 TCP/IP File Server started
+20-02-14 15:44:07 TCP/IP File Server started
+20-02-14 16:14:07 TCP/IP File Server started
+20-02-14 16:44:07 TCP/IP File Server started
+20-02-14 17:14:07 TCP/IP File Server started
+20-02-14 17:44:07 TCP/IP File Server started
+20-02-14 18:14:07 TCP/IP File Server started
+20-02-14 18:44:07 TCP/IP File Server started
+20-02-14 19:14:07 TCP/IP File Server started
+20-02-14 19:20:10  Net - [PuM] Alce 1 connected 14-02-2020 19:20:10
+20-02-14 19:20:18  Net - [PuM] Alce 1 disconnected 14-02-2020 19:20:18
+20-02-14 19:20:37  Net - [PuM] Alce 1 connected 14-02-2020 19:20:37
+20-02-14 19:20:48  Net - [PuM] Alce 1 disconnected 14-02-2020 19:20:48
+20-02-14 19:44:07 TCP/IP File Server started
+20-02-14 20:14:07 TCP/IP File Server started
+20-02-14 20:27:27  Net - |D.Forc3|.LinkirD connected 14-02-2020 20:27:27
+20-02-14 20:27:29  Net - |D.Forc3|.LinkirD disconnected 14-02-2020 20:27:29
+20-02-14 20:44:07 TCP/IP File Server started
+20-02-14 21:14:07 TCP/IP File Server started
+20-02-14 21:44:07 TCP/IP File Server started
+20-02-14 21:44:42  Net - SoyUnBaneablDinosaurioQl connected 14-02-2020 21:44:42
+20-02-14 21:44:43  Net - SoyUnBaneablDinosaurioQl disconnected 14-02-2020 21:44:43
+20-02-14 21:50:35  Net - [O.S.O] TULON* connected 14-02-2020 21:50:35
+20-02-14 21:51:11  Net - [O.S.O] TULON* disconnected 14-02-2020 21:51:11
+20-02-14 22:14:07 TCP/IP File Server started
+20-02-14 22:44:07 TCP/IP File Server started
+20-02-14 22:52:53  Net - extrakt09- <3 connected 14-02-2020 22:52:53
+20-02-14 22:54:18  Net - extrakt09- <3 disconnected 14-02-2020 22:54:18
+20-02-14 23:14:07 TCP/IP File Server started
+20-02-14 23:24:23  Net - Chileno connected 14-02-2020 23:24:23
+20-02-14 23:26:12  Net - Chileno disconnected 14-02-2020 23:26:12
+20-02-14 23:44:07 TCP/IP File Server started
+20-02-15 00:14:07 TCP/IP File Server started
+20-02-15 00:44:07 TCP/IP File Server started
+20-02-15 01:14:07 TCP/IP File Server started
+20-02-15 01:19:53  Net - |BhooD| Harry connected 15-02-2020 1:19:53
+20-02-15 01:20:10  Net - |BhooD| Harry disconnected 15-02-2020 1:20:10
+20-02-15 01:44:07 TCP/IP File Server started
+20-02-15 01:46:46  Net - [UnK] KorN connected 15-02-2020 1:46:46
+20-02-15 01:47:33  Net - [UnK] KorN disconnected 15-02-2020 1:47:33
+20-02-15 01:51:44  Net - [UnK] KorN connected 15-02-2020 1:51:44
+20-02-15 01:51:48  Net - [UnK] KorN disconnected 15-02-2020 1:51:48
+20-02-15 01:56:11  Net - [UnK] KorN connected 15-02-2020 1:56:11
+20-02-15 01:56:45  Net - |D.Forc3|.Turko connected 15-02-2020 1:56:45
+20-02-15 01:56:48  Net - |D.Forc3|.Turko connected 15-02-2020 1:56:48
+20-02-15 01:57:48  Net - Praetorian Raptorius connected 15-02-2020 1:57:48
+20-02-15 01:58:13  Net - Praetorian Raptorius disconnected 15-02-2020 1:58:13
+20-02-15 01:59:39  Net - [UnK] KorN disconnected 15-02-2020 1:59:39
+20-02-15 02:01:27  Net - |D.Forc3|.Turko disconnected 15-02-2020 2:01:27
+20-02-15 02:14:07 TCP/IP File Server started
+20-02-15 02:32:00  Net - |D.Forc3|.Turko connected 15-02-2020 2:32:00
+20-02-15 02:44:07 TCP/IP File Server started
+20-02-15 02:52:32  Net - |D.Forc3|.Turko disconnected 15-02-2020 2:52:32
+20-02-15 03:14:07 TCP/IP File Server started
+20-02-15 03:44:07 TCP/IP File Server started
+20-02-15 04:14:07 TCP/IP File Server started
+20-02-15 04:44:07 TCP/IP File Server started
+20-02-15 05:14:07 TCP/IP File Server started
+20-02-15 05:44:07 TCP/IP File Server started
+20-02-15 06:14:07 TCP/IP File Server started
+20-02-15 06:44:07 TCP/IP File Server started
+20-02-15 07:14:07 TCP/IP File Server started
+20-02-15 07:44:07 TCP/IP File Server started
+20-02-15 08:14:07 TCP/IP File Server started

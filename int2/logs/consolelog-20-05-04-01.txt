@@ -1,0 +1,690 @@
+20-05-04 04:51:55    Console Log Started
+20-05-04 04:51:56 (1) Divas| Enigma killed (2) r3v' Colt with Grenade
+20-05-04 04:51:56 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:51:58 (1) Divas| Sk8' killed (2) r3v' Mand3s with Grenade
+20-05-04 04:51:58 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:52:00 Time Left: 4 minutes
+20-05-04 04:52:04 Divas| mipHo scores for Alpha Team
+20-05-04 04:52:05 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:52:05 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:52:06 [Divas| Enigma] Die!
+20-05-04 04:52:11 (1) Divas| Enigma killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:52:13 (1) Divas| mipHo killed (2) r3v' Mand3s with Spas-12
+20-05-04 04:52:14 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:52:18 Divas| Enigma captured the Blue Flag
+20-05-04 04:52:20 (1) Divas| mipHo killed (2) r3v' Mand3s with LAW
+20-05-04 04:52:20 (2) r3v' Colt killed (1) Divas| mipHo with Grenade
+20-05-04 04:52:20 (2) r3v' Colt killed (1) Divas| Sk8' with Spas-12
+20-05-04 04:52:21 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:52:23 r3v' Coco returned the Blue Flag
+20-05-04 04:52:25 r3v' Colt captured the Red Flag
+20-05-04 04:52:26 (1) Divas| Sk8' killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:52:27 (1) Divas| Sk8' killed (2) r3v' Colt with Grenade
+20-05-04 04:52:29 (1) Divas| mipHo killed (2) r3v' Mand3s with Spas-12
+20-05-04 04:52:30 (2) r3v' Mand3s killed (1) Divas| Sk8' with Grenade
+20-05-04 04:52:30 Divas| mipHo returned the Red Flag
+20-05-04 04:52:32 (1) Divas| mipHo killed (2) r3v' Coco with Spas-12
+20-05-04 04:52:34 (2) r3v' Colt killed (1) Divas| Enigma with Spas-12
+20-05-04 04:52:34 Divas| mipHo captured the Blue Flag
+20-05-04 04:52:34 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:52:38 (1) Divas| Sk8' killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:52:38 (2) r3v' Coco killed (1) Divas| Sk8' with Grenade
+20-05-04 04:52:39 (2) r3v' Mand3s killed (1) Divas| mipHo with Spas-12
+20-05-04 04:52:40 r3v' Mand3s returned the Blue Flag
+20-05-04 04:52:44 (1) Divas| Enigma killed (2) r3v' Mand3s with HK MP5
+20-05-04 04:52:44 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:52:44 (2) r3v' Colt killed (1) Divas| mipHo with Grenade
+20-05-04 04:52:45 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:52:47 (1) Divas| Sk8' killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:52:50 (2) r3v' Mand3s killed (1) Divas| Sk8' with Steyr AUG
+20-05-04 04:52:54 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:52:55 r3v' Colt captured the Red Flag
+20-05-04 04:52:55 (2) r3v' Colt killed (1) Divas| mipHo with Spas-12
+20-05-04 04:52:56 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:52:57 (1) Divas| Sk8' killed (2) r3v' Mand3s with LAW
+20-05-04 04:52:59 (2) r3v' Coco killed (1) Divas| Enigma with Grenade
+20-05-04 04:52:59 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:53:00 Time Left: 3 minutes
+20-05-04 04:53:04 (2) r3v' Mand3s killed (1) Divas| Sk8' with Steyr AUG
+20-05-04 04:53:04 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:53:04 (1) Divas| Sk8' killed (2) r3v' Mand3s with Steyr AUG
+20-05-04 04:53:06 (2) r3v' Coco killed (1) Divas| mipHo with Grenade
+20-05-04 04:53:07 84.176.185.215:23073|2842CDA9348 requesting game...
+20-05-04 04:53:08 (1) Divas| Enigma killed (2) r3v' Coco with HK MP5
+20-05-04 04:53:10 (2) r3v' Mand3s killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:53:12 [Divas| Enigma] Die!
+20-05-04 04:53:13 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:53:15 (1) Divas| mipHo killed (2) r3v' Coco with Spas-12
+20-05-04 04:53:15 (2) r3v' Coco killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:53:17 (1) Divas| Sk8' killed (2) r3v' Mand3s with Steyr AUG
+20-05-04 04:53:19 Divas| Sk8' captured the Blue Flag
+20-05-04 04:53:20 (2) r3v' Coco killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:53:21 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:53:22 (2) r3v' Colt killed (1) Divas| mipHo with M79
+20-05-04 04:53:22 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:53:26 (2) r3v' Mand3s killed (1) Divas| Enigma with LAW
+20-05-04 04:53:29 (2) r3v' Mand3s killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:53:30 (1) Divas| Sk8' killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:53:31 (1) Divas| Sk8' killed (2) r3v' Mand3s with Steyr AUG
+20-05-04 04:53:32 (2) r3v' Colt killed (1) Divas| Sk8' with M79
+20-05-04 04:53:34 r3v' Colt captured the Red Flag
+20-05-04 04:53:34 (1) Divas| Enigma killed (2) r3v' Colt with Grenade
+20-05-04 04:53:37 Divas| mipHo returned the Red Flag
+20-05-04 04:53:37 (2) r3v' Coco killed (1) Divas| Enigma with Grenade
+20-05-04 04:53:37 (1) Divas| Enigma killed (2) r3v' Coco with HK MP5
+20-05-04 04:53:42 (1) Divas| Sk8' killed (2) r3v' Colt with Grenade
+20-05-04 04:53:43 (2) r3v' Mand3s killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:53:45 (1) Divas| mipHo killed (2) r3v' Coco with Grenade
+20-05-04 04:53:46 (2) r3v' Mand3s killed (1) Divas| mipHo with Grenade
+20-05-04 04:53:47 (1) Divas| Enigma killed (2) r3v' Mand3s with HK MP5
+20-05-04 04:53:47 (1) Divas| Enigma killed (2) r3v' Colt with Grenade
+20-05-04 04:53:50 Divas| Enigma captured the Blue Flag
+20-05-04 04:53:52 (2) r3v' Coco killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:53:53 (2) r3v' Coco killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:53:56 r3v' Coco returned the Blue Flag
+20-05-04 04:53:57 r3v' Colt captured the Red Flag
+20-05-04 04:53:58 (2) r3v' Coco killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:53:59 (1) Divas| Enigma killed (2) r3v' Colt with Grenade
+20-05-04 04:54:00 Time Left: 2 minutes
+20-05-04 04:54:00 (2) r3v' Mand3s killed (1) Divas| Enigma with Grenade
+20-05-04 04:54:00 (1) Divas| Enigma killed (2) r3v' Mand3s with Steyr AUG
+20-05-04 04:54:01 (1) Divas| Sk8' killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:54:05 (2) r3v' Coco killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:54:06 Divas| Enigma returned the Red Flag
+20-05-04 04:54:07 (1) Divas| mipHo killed (2) r3v' Coco with Grenade
+20-05-04 04:54:11 r3v' Mand3s captured the Red Flag
+20-05-04 04:54:12 (2) r3v' Colt killed (1) Divas| mipHo with M79
+20-05-04 04:54:13 Divas| Enigma captured the Blue Flag
+20-05-04 04:54:13 Divas| Sk8' returned the Red Flag
+20-05-04 04:54:16 r3v' Mand3s captured the Red Flag
+20-05-04 04:54:16 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:54:17 (2) r3v' Coco killed (1) Divas| Enigma with Grenade
+20-05-04 04:54:18 (2) r3v' Mand3s killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:54:19 (1) Divas| mipHo killed (2) r3v' Mand3s with Spas-12
+20-05-04 04:54:19 r3v' Coco returned the Blue Flag
+20-05-04 04:54:21 Divas| mipHo returned the Red Flag
+20-05-04 04:54:23 (1) Divas| Enigma killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:54:25 (2) r3v' Mand3s killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:54:25 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:54:29 (2) r3v' Coco killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:54:30 (1) Divas| Sk8' killed (2) r3v' Mand3s with Steyr AUG
+20-05-04 04:54:30 (2) r3v' Mand3s killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:54:32 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:54:34 (2) r3v' Colt killed (1) Divas| Enigma with M79
+20-05-04 04:54:35 (2) r3v' Coco killed (1) Divas| mipHo with Grenade
+20-05-04 04:54:35 (RADIO)[Divas| Enigma] INC LOW
+20-05-04 04:54:40 r3v' Colt captured the Red Flag
+20-05-04 04:54:43 (2) r3v' Coco killed (1) Divas| mipHo with Grenade
+20-05-04 04:54:43 (2) r3v' Colt killed (1) Divas| Enigma with M79
+20-05-04 04:54:45 r3v' Colt captured the Red Flag
+20-05-04 04:54:45 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:54:48 r3v' Colt scores for Bravo Team
+20-05-04 04:54:50 (2) r3v' Coco killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:54:52 (1) Divas| Enigma killed (2) r3v' Colt with Grenade
+20-05-04 04:54:56 (1) Divas| mipHo killed (2) r3v' Coco with Spas-12
+20-05-04 04:54:58 (1) Divas| Sk8' killed (2) r3v' Colt with Grenade
+20-05-04 04:54:59 (1) Divas| mipHo killed (2) r3v' Mand3s with Spas-12
+20-05-04 04:55:00 Time Left: 1 minutes
+20-05-04 04:55:01 Divas| mipHo captured the Blue Flag
+20-05-04 04:55:02 (2) r3v' Coco killed (1) Divas| Sk8' with Combat Knife
+20-05-04 04:55:02 (1) Divas| Enigma killed (2) r3v' Coco with Grenade
+20-05-04 04:55:04 (1) Divas| Enigma killed (2) r3v' Mand3s with Combat Knife
+20-05-04 04:55:04 (2) r3v' Colt killed (1) Divas| Enigma with Grenade
+20-05-04 04:55:07 Divas| mipHo scores for Alpha Team
+20-05-04 04:55:08 (2) r3v' Colt killed (1) Divas| Sk8' with M79
+20-05-04 04:55:08 (1) Divas| Sk8' killed (2) r3v' Colt with Grenade
+20-05-04 04:55:12 (1) Divas| Enigma killed (2) r3v' Coco with HK MP5
+20-05-04 04:55:15 (2) r3v' Mand3s killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:55:16 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:55:17 (2) r3v' Colt killed (1) Divas| Sk8' with M79
+20-05-04 04:55:17 (2) r3v' Mand3s killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:55:22 (1) Divas| Enigma killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:55:25 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:55:29 (2) r3v' Colt killed (1) Divas| mipHo with Combat Knife
+20-05-04 04:55:31 (1) Divas| Enigma killed (2) r3v' Coco with Steyr AUG
+20-05-04 04:55:32 Divas| Sk8' captured the Blue Flag
+20-05-04 04:55:33 (2) r3v' Mand3s killed (1) Divas| Sk8' with FN Minimi
+20-05-04 04:55:34 r3v' Colt captured the Red Flag
+20-05-04 04:55:34 (2) r3v' Mand3s killed (1) Divas| Enigma with FN Minimi
+20-05-04 04:55:36 r3v' Mand3s returned the Blue Flag
+20-05-04 04:55:36 (1) Divas| mipHo killed (2) r3v' Colt with Spas-12
+20-05-04 04:55:39 Divas| Sk8' returned the Red Flag
+20-05-04 04:55:39 (1) Divas| Sk8' killed (2) r3v' Mand3s with Grenade
+20-05-04 04:55:39 (2) r3v' Coco killed (1) Divas| Sk8' with Grenade
+20-05-04 04:55:41 (1) Divas| Enigma killed (2) r3v' Coco with HK MP5
+20-05-04 04:55:42 (2) r3v' Colt killed (1) Divas| mipHo with Grenade
+20-05-04 04:55:44 (1) Divas| Sk8' killed (2) r3v' Colt with Grenade
+20-05-04 04:55:44 (2) r3v' Colt killed (1) Divas| Sk8' with M79
+20-05-04 04:55:44 (1) Divas| Enigma killed (2) r3v' Mand3s with Grenade
+20-05-04 04:55:46 Divas| Enigma captured the Blue Flag
+20-05-04 04:55:48 (2) r3v' Coco killed (1) Divas| Enigma with Grenade
+20-05-04 04:55:48 r3v' Coco returned the Blue Flag
+20-05-04 04:55:49 (1) Divas| mipHo killed (2) r3v' Coco with Spas-12
+20-05-04 04:55:51 (2) r3v' Mand3s killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:55:53 (2) r3v' Colt killed (1) Divas| Enigma with M79
+20-05-04 04:55:54 r3v' Colt captured the Red Flag
+20-05-04 04:55:54 (1) Divas| Sk8' killed (2) r3v' Colt with Steyr AUG
+20-05-04 04:55:55 [Divas| Sk8'] Sniper!
+20-05-04 04:55:55 [Divas| Sk8'] Help!
+20-05-04 04:55:57 [r3v' Colt] Son of a bitch!
+20-05-04 04:55:57 (1) Divas| Sk8' killed (2) r3v' Coco with LAW
+20-05-04 04:55:59 (2) r3v' Mand3s killed (1) Divas| mipHo with FN Minimi
+20-05-04 04:56:00 Next map: Lobby
+20-05-04 04:56:00 [r3v' Coco] GGS
+20-05-04 04:56:01 [Divas| mipHo] gg
+20-05-04 04:56:02 [Divas| Enigma] ggs
+20-05-04 04:56:04 r3v' Colt has left bravo team.
+20-05-04 04:56:06 Lothic - Gothic Lobby Room
+20-05-04 04:56:08 r3v' Coco has left bravo team.
+20-05-04 04:56:10 [r3v' Mand3s] fue
+20-05-04 04:56:12 [r3v' Mand3s] la ultima?
+20-05-04 04:56:14 [Divas| mipHo] Yes, Sir!
+20-05-04 04:56:15 [Divas| Sk8'] nose
+20-05-04 04:56:15 [r3v' Mand3s] Yeah
+20-05-04 04:56:17 [Divas| Enigma] si
+20-05-04 04:56:18 [Divas| Enigma] no quedan
+20-05-04 04:56:22 =E*R= Sadiko has left spectators
+20-05-04 04:56:24 [r3v' Mand3s] g-g
+20-05-04 04:56:25 [Divas| Enigma] ya jugamos los 4
+20-05-04 04:56:26 [Divas| Enigma] ggs
+20-05-04 04:56:27 r3v' Mand3s has left bravo team.
+20-05-04 04:56:28 Divas| Enigma has left alpha team.
+20-05-04 04:56:28 Divas| mipHo has left alpha team.
+20-05-04 04:56:31 Divas| Sk8' has left alpha team.
+20-05-04 04:57:34 99.251.110.9:23073|516E9B80E92 requesting game...
+20-05-04 05:01:05 Time Left: 5 minutes
+20-05-04 05:02:05 Time Left: 4 minutes
+20-05-04 05:03:05 Time Left: 3 minutes
+20-05-04 05:04:05 Time Left: 2 minutes
+20-05-04 05:05:05 Time Left: 1 minutes
+20-05-04 05:06:05 Next map: Lobby
+20-05-04 05:06:10 Lothic - Gothic Lobby Room
+20-05-04 05:06:20 181.46.141.227:45367|232B86B4862 requesting game...
+20-05-04 05:11:10 Time Left: 5 minutes
+20-05-04 05:11:18 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-05-04 05:11:21 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-05-04 05:11:21 r3v' Mand3s has joined alpha team.
+20-05-04 05:11:21 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-04 05:11:21 190.163.201.65:23073|36DB9B79633 requesting game...
+20-05-04 05:11:23 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-05-04 05:11:23 Divas| Enigma has joined bravo team.
+20-05-04 05:11:24 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-04 05:11:24 =E*R= Sadiko has joined bravo team.
+20-05-04 05:11:49 201.239.101.160:17829|1F7342C1D76 requesting game...
+20-05-04 05:11:49 201.239.101.160:17829|1F7342C1D76 requesting game...
+20-05-04 05:11:49 mipHo joining game (201.239.101.160:17829) HWID:1F7342C1D76
+20-05-04 05:11:49 mipHo has joined bravo team.
+20-05-04 05:11:58 190.45.32.62:23073|2258920FBD8 requesting game...
+20-05-04 05:12:01 later Maaxis* (New guy) joining game (190.45.32.62:23073) HWID:2258920FBD8
+20-05-04 05:12:01 later Maaxis* (New guy) has joined alpha team.
+20-05-04 05:12:09 (2) =E*R= Sadiko killed (1) r3v' Mand3s with M79
+20-05-04 05:12:10 Time Left: 4 minutes
+20-05-04 05:12:49 (2) =E*R= Sadiko killed (1) later Maaxis* (New guy) with M79
+20-05-04 05:12:54 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-04 05:12:55 dejame tomar once joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-04 05:12:55 dejame tomar once has joined alpha team.
+20-05-04 05:13:00 (1) r3v' Mand3s killed (2) mipHo with M79
+20-05-04 05:13:02 89.139.80.151:23073|16EC6344108 requesting game...
+20-05-04 05:13:04 ~>2Q2C| Kaito joining game (89.139.80.151:23073) HWID:16EC6344108
+20-05-04 05:13:04 ~>2Q2C| Kaito has joined alpha team.
+20-05-04 05:13:05 [~>2Q2C| Kaito] Yeah
+20-05-04 05:13:07 ~>2Q2C| Kaito has joined spectators.
+20-05-04 05:13:10 Time Left: 3 minutes
+20-05-04 05:13:13 [r3v' Mand3s] how
+20-05-04 05:13:28 mipHo has joined spectators.
+20-05-04 05:13:29 [~>2Q2C| Kaito] oh no flags?
+20-05-04 05:13:32 (1) later Maaxis* (New guy) killed (2) Divas| Enigma with M79
+20-05-04 05:13:34 =E*R= Sadiko has joined spectators.
+20-05-04 05:13:35 dejame tomar once has joined spectators.
+20-05-04 05:13:35 (TEAM)[mipHo] sec
+20-05-04 05:13:35 [later Maaxis* (New guy)] !s
+20-05-04 05:13:35 later Maaxis* (New guy) has joined spectators.
+20-05-04 05:13:37 [Divas| Enigma] lobby map
+20-05-04 05:13:39 [~>2Q2C| Kaito] thats not really ctf
+20-05-04 05:13:41 [r3v' Mand3s] !map ash
+20-05-04 05:13:44 [~>2Q2C| Kaito] ah
+20-05-04 05:13:46 ctf_Ash by chakapoko maker
+20-05-04 05:13:52 [Divas| Enigma] !r
+20-05-04 05:13:52 Reiniciando...
+20-05-04 05:13:58  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-05-04 05:13:58 ctf_Ash by chakapoko maker
+20-05-04 05:13:58 ~>2Q2C| Kaito gets a ping warning
+20-05-04 05:14:05 (2) Divas| Enigma killed (1) r3v' Mand3s with Combat Knife
+20-05-04 05:14:05 ~>2Q2C| Kaito has left spectators
+20-05-04 05:14:14 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:14:16 89.139.80.151:23073|16EC6344108 requesting game...
+20-05-04 05:14:17 later Maaxis* (New guy) has joined bravo team.
+20-05-04 05:14:18 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:14:19 ~>2Q2C| Kaito joining game (89.139.80.151:23073) HWID:16EC6344108
+20-05-04 05:14:19 ~>2Q2C| Kaito has joined as spectator.
+20-05-04 05:14:20 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:14:25 mipHo has joined alpha team.
+20-05-04 05:14:25 [dejame tomar once] !b
+20-05-04 05:14:25 dejame tomar once has joined bravo team.
+20-05-04 05:14:26 =E*R= Sadiko has joined alpha team.
+20-05-04 05:14:29 (1) mipHo killed (2) dejame tomar once with Spas-12
+20-05-04 05:14:32 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:14:33 (1) =E*R= Sadiko killed (2) Divas| Enigma with M79
+20-05-04 05:14:35 ~>2Q2C| Kaito has left spectators
+20-05-04 05:14:36 89.139.80.151:23073|16EC6344108 requesting game...
+20-05-04 05:14:37 (1) mipHo killed (2) dejame tomar once with Spas-12
+20-05-04 05:14:38 ~>2Q2C| Kaito joining game (89.139.80.151:23073) HWID:16EC6344108
+20-05-04 05:14:38 ~>2Q2C| Kaito has joined alpha team.
+20-05-04 05:14:41 (1) mipHo killed (2) Divas| Enigma with Spas-12
+20-05-04 05:14:44 (1) =E*R= Sadiko killed (2) later Maaxis* (New guy) with M79
+20-05-04 05:14:47 [dejame tomar once] !a
+20-05-04 05:14:47 dejame tomar once has joined alpha team.
+20-05-04 05:14:47 =E*R= Sadiko has joined bravo team.
+20-05-04 05:14:48 (1) r3v' Mand3s killed (2) Divas| Enigma with Desert Eagles
+20-05-04 05:14:51 ~>2Q2C| Kaito captured the Blue Flag
+20-05-04 05:14:52 (TEAM)[dejame tomar once] mandes
+20-05-04 05:14:54 (1) ~>2Q2C| Kaito killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:14:54 (2) =E*R= Sadiko killed (1) ~>2Q2C| Kaito with Grenade
+20-05-04 05:14:56 (TEAM)[r3v' Mand3s] CALALTE
+20-05-04 05:14:56 (TEAM)[r3v' Mand3s] CTM
+20-05-04 05:14:57 (TEAM)[dejame tomar once] t T MEO ENTERO
+20-05-04 05:14:58 (2) Divas| Enigma killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:14:59 (TEAM)[dejame tomar once] COCHJINO CULIAO
+20-05-04 05:15:01 (TEAM)[dejame tomar once] DEJATE DE HABLAR WEA
+20-05-04 05:15:02 (2) =E*R= Sadiko killed (1) mipHo with M79
+20-05-04 05:15:02 181.46.141.227:45401|232B86B4862 requesting game...
+20-05-04 05:15:03 (TEAM)[dejame tomar once] EN ALGUN MOMENTO
+20-05-04 05:15:04 (2) later Maaxis* (New guy) killed (1) ~>2Q2C| Kaito with Spas-12
+20-05-04 05:15:04 Divas| Enigma captured the Red Flag
+20-05-04 05:15:04 (TEAM)[dejame tomar once] DEL DIA
+20-05-04 05:15:07 (2) =E*R= Sadiko killed (1) dejame tomar once with M79
+20-05-04 05:15:07 (TEAM)[dejame tomar once] TONTO WEON}
+20-05-04 05:15:07 181.46.141.227:45401|232B86B4862 requesting game...
+20-05-04 05:15:09 (1) mipHo killed (2) later Maaxis* (New guy) with Spas-12
+20-05-04 05:15:10 (2) =E*R= Sadiko killed (1) ~>2Q2C| Kaito with Grenade
+20-05-04 05:15:15 Divas| Enigma scores for Bravo Team
+20-05-04 05:15:17 (2) =E*R= Sadiko killed (1) r3v' Mand3s with M79
+20-05-04 05:15:18 (2) Divas| Enigma killed (1) mipHo with Barrett M82A1
+20-05-04 05:15:23 (TEAM)[r3v' Mand3s] hey kaito
+20-05-04 05:15:23 (2) =E*R= Sadiko killed (1) ~>2Q2C| Kaito with M79
+20-05-04 05:15:25 (TEAM)[r3v' Mand3s] can u go spec pls
+20-05-04 05:15:26 Divas| Enigma captured the Red Flag
+20-05-04 05:15:28 (1) mipHo killed (2) later Maaxis* (New guy) with Spas-12
+20-05-04 05:15:29 ~>2Q2C| Kaito has joined spectators.
+20-05-04 05:15:31 [~>2Q2C| Kaito] sure
+20-05-04 05:15:32 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Desert Eagles
+20-05-04 05:15:33 (2) later Maaxis* (New guy) killed (1) mipHo with Grenade
+20-05-04 05:15:33 (1) mipHo killed (2) later Maaxis* (New guy) with Spas-12
+20-05-04 05:15:35 Admin connected (200.83.84.150).
+20-05-04 05:15:35 /friendlyfire (200.83.84.150)
+20-05-04 05:15:35 Friendly Fire is 0
+20-05-04 05:15:35 /bonus (200.83.84.150)
+20-05-04 05:15:35 Current bonus frequency is 0
+20-05-04 05:15:35 /vote% (200.83.84.150)
+20-05-04 05:15:35 Voting percent is 60
+20-05-04 05:15:35 /respawntime (200.83.84.150)
+20-05-04 05:15:35 Respawn time is 3 seconds
+20-05-04 05:15:35 /maxrespawntime (200.83.84.150)
+20-05-04 05:15:35 Maximum Respawn time is 5 seconds
+20-05-04 05:15:41 Divas| Enigma scores for Bravo Team
+20-05-04 05:15:42 (1) mipHo killed (2) later Maaxis* (New guy) with Spas-12
+20-05-04 05:15:42 (2) later Maaxis* (New guy) killed (1) mipHo with Spas-12
+20-05-04 05:15:43 (1) r3v' Mand3s killed (2) Divas| Enigma with Desert Eagles
+20-05-04 05:15:44 r3v' Mand3s captured the Blue Flag
+20-05-04 05:15:47 [r3v' Mand3s] !R
+20-05-04 05:15:47 Reiniciando...
+20-05-04 05:15:47 [dejame tomar once] are we playing hns later kaito?
+20-05-04 05:15:53 ctf_Ash by chakapoko maker
+20-05-04 05:15:57 [~>2Q2C| Kaito] i wish
+20-05-04 05:15:59 (1) dejame tomar once killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:16:04 (2) later Maaxis* (New guy) killed (1) mipHo with Grenade
+20-05-04 05:16:08 r3v' Mand3s captured the Blue Flag
+20-05-04 05:16:08 (1) dejame tomar once killed (2) later Maaxis* (New guy) with Grenade
+20-05-04 05:16:09 (2) =E*R= Sadiko killed (1) mipHo with M79
+20-05-04 05:16:11 179.176.122.187:23073|589929B9E9A requesting game...
+20-05-04 05:16:12 (1) dejame tomar once killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:16:13 179.176.122.187:23073|589929B9E9A requesting game...
+20-05-04 05:16:15 (1) r3v' Mand3s killed (2) Divas| Enigma with Grenade
+20-05-04 05:16:16 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:16:16 (1) dejame tomar once killed (2) later Maaxis* (New guy) with Steyr AUG
+20-05-04 05:16:18 (1) mipHo killed (2) =E*R= Sadiko with M79
+20-05-04 05:16:18 dejame tomar once captured the Blue Flag
+20-05-04 05:16:22 [~>2Q2C| Kaito] no one wants to play it anymore
+20-05-04 05:16:23 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:16:24 dejame tomar once scores for Alpha Team
+20-05-04 05:16:25 (2) Divas| Enigma killed (1) mipHo with Grenade
+20-05-04 05:16:27 (2) =E*R= Sadiko killed (1) dejame tomar once with M79
+20-05-04 05:16:28 =E*R= Sadiko captured the Red Flag
+20-05-04 05:16:31 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:16:32 (2) Divas| Enigma killed (1) mipHo with FN Minimi
+20-05-04 05:16:34 (1) dejame tomar once killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:16:34 later Maaxis* (New guy) captured the Red Flag
+20-05-04 05:16:35 (1) dejame tomar once killed (2) later Maaxis* (New guy) with Combat Knife
+20-05-04 05:16:36 dejame tomar once returned the Red Flag
+20-05-04 05:16:37 (1) dejame tomar once killed (2) =E*R= Sadiko with Hands
+20-05-04 05:16:38 179.176.122.187:23073|589929B9E9A requesting game...
+20-05-04 05:16:39 (1) r3v' Mand3s killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:16:41 179.176.122.187:23073|589929B9E9A requesting game...
+20-05-04 05:16:41 r3v' Mand3s captured the Blue Flag
+20-05-04 05:16:42 (2) later Maaxis* (New guy) killed (1) mipHo with Grenade
+20-05-04 05:16:43 (2) =E*R= Sadiko killed (1) dejame tomar once with M79
+20-05-04 05:16:49 =E*R= Sadiko captured the Red Flag
+20-05-04 05:16:50 (1) mipHo killed (2) later Maaxis* (New guy) with M79
+20-05-04 05:16:51 (2) Divas| Enigma killed (1) dejame tomar once with Steyr AUG
+20-05-04 05:16:53 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:16:55 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:16:56 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:16:56 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:16:57 Divas| Enigma captured the Red Flag
+20-05-04 05:16:57 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:16:58 Divas| Enigma returned the Blue Flag
+20-05-04 05:17:02 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:03 (1) mipHo killed (2) later Maaxis* (New guy) with Combat Knife
+20-05-04 05:17:05 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:07 (1) dejame tomar once killed (2) =E*R= Sadiko with Desert Eagles
+20-05-04 05:17:07 (2) =E*R= Sadiko killed (1) dejame tomar once with LAW
+20-05-04 05:17:07 later Maaxis* (New guy) gets a ping warning
+20-05-04 05:17:08 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:08 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:17:09 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:09 r3v' Mand3s captured the Blue Flag
+20-05-04 05:17:11 (2) later Maaxis* (New guy) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:17:12 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:12 (1) mipHo killed (2) =E*R= Sadiko with Barrett M82A1
+20-05-04 05:17:12 later Maaxis* (New guy) captured the Red Flag
+20-05-04 05:17:12 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:14 later Maaxis* (New guy) returned the Blue Flag
+20-05-04 05:17:15 (2) later Maaxis* (New guy) killed (1) mipHo with Barrett M82A1
+20-05-04 05:17:17 later Maaxis* (New guy) scores for Bravo Team
+20-05-04 05:17:17 dejame tomar once captured the Blue Flag
+20-05-04 05:17:18 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:21 (2) =E*R= Sadiko killed (1) mipHo with M79
+20-05-04 05:17:21 (1) mipHo killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:17:21 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:22 179.232.253.212:23073|68EEBB6C753 requesting game...
+20-05-04 05:17:22 (1) r3v' Mand3s killed (2) later Maaxis* (New guy) with Steyr AUG
+20-05-04 05:17:24 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:17:25 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:17:28 later Maaxis* (New guy) gets a ping warning
+20-05-04 05:17:28 [later Maaxis* (New guy)] !p
+20-05-04 05:17:28 Pausando...
+20-05-04 05:17:28 [later Maaxis* (New guy)] !p
+20-05-04 05:17:28 Pausado!
+20-05-04 05:17:53 [~>2Q2C| Kaito] whats going on
+20-05-04 05:17:57 [mipHo] idk
+20-05-04 05:18:05 [~>2Q2C| Kaito] he went fapping?
+20-05-04 05:18:09 [dejame tomar once] xD
+20-05-04 05:18:19 [~>2Q2C| Kaito] great timing
+20-05-04 05:18:23 [Divas| Enigma] yeah
+20-05-04 05:18:28 [Divas| Enigma] dont worry he cum fast
+20-05-04 05:18:33 [~>2Q2C| Kaito] xD
+20-05-04 05:18:33 [r3v' Mand3s] !sp
+20-05-04 05:18:33 Clave modificada a:778
+20-05-04 05:18:37 181.42.21.57:40335|2258920FBD8 requesting game...
+20-05-04 05:18:39 181.42.21.57:40335|2258920FBD8 requesting game...
+20-05-04 05:18:46 181.42.21.57:40335|2258920FBD8 requesting game...
+20-05-04 05:18:49 later Maaxis* (New gu(1) joining game (181.42.21.57:40335) HWID:2258920FBD8
+20-05-04 05:18:49 later Maaxis* (New gu(1) has joined bravo team.
+20-05-04 05:18:50 [later Maaxis* (New gu(1)] asd
+20-05-04 05:18:54 dejame tomar once started votekick against later Maaxis* (New guy) - Reason: asd
+20-05-04 05:18:57 later Maaxis* (New guy) has been kicked and banned for 60 minutes (Vote Kicked)
+20-05-04 05:18:58 [r3v' Mand3s] !up
+20-05-04 05:18:58 Despausando en: 3
+20-05-04 05:18:58 [mipHo] !ub
+20-05-04 05:18:59 [later Maaxis* (New gu(1)] !up
+20-05-04 05:18:59 Despausando en: 3
+20-05-04 05:19:00 Despausando en: 2
+20-05-04 05:19:01 Despausando en: 1
+20-05-04 05:19:02 Go!
+20-05-04 05:19:04 (1) dejame tomar once killed (2) Divas| Enigma with Desert Eagles
+20-05-04 05:19:06 (2) later Maaxis* (New gu(1) killed (1) dejame tomar once with Grenade
+20-05-04 05:19:07 (1) r3v' Mand3s killed (2) later Maaxis* (New gu(1) with Steyr AUG
+20-05-04 05:19:09 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:19:12 (1) mipHo killed (2) =E*R= Sadiko with M79
+20-05-04 05:19:18 (2) Divas| Enigma killed (1) dejame tomar once with Combat Knife
+20-05-04 05:19:20 (TEAM)[dejame tomar once] INC TOP
+20-05-04 05:19:22 r3v' Mand3s captured the Blue Flag
+20-05-04 05:19:23 [~>2Q2C| Kaito] how was fapping time? maxis
+20-05-04 05:19:24 (1) mipHo killed (2) Divas| Enigma with Grenade
+20-05-04 05:19:24 (2) Divas| Enigma killed (1) mipHo with Ak-74
+20-05-04 05:19:25 (1) r3v' Mand3s killed (2) later Maaxis* (New gu(1) with Steyr AUG
+20-05-04 05:19:30 (1) dejame tomar once killed (2) =E*R= Sadiko with Grenade
+20-05-04 05:19:33 r3v' Mand3s scores for Alpha Team
+20-05-04 05:19:34 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with Desert Eagles
+20-05-04 05:19:38 177.64.230.62:23073|19B4C672C49 requesting game...
+20-05-04 05:19:38 (1) dejame tomar once killed (2) Divas| Enigma with Desert Eagles
+20-05-04 05:19:42 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:19:45 =E*R= Sadiko captured the Red Flag
+20-05-04 05:19:45 (2) =E*R= Sadiko killed (1) dejame tomar once with LAW
+20-05-04 05:19:48 (2) Divas| Enigma killed (1) mipHo with HK MP5
+20-05-04 05:19:50 (1) mipHo killed (2) Divas| Enigma with Grenade
+20-05-04 05:19:50 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:19:52 (TEAM)[r3v' Mand3s] MID
+20-05-04 05:19:52 (TEAM)[r3v' Mand3s] TOP
+20-05-04 05:19:53 (RADIO)[Divas| Enigma] INC MID
+20-05-04 05:19:53 (2) later Maaxis* (New gu(1) killed (1) mipHo with Combat Knife
+20-05-04 05:19:56 (2) Divas| Enigma killed (1) dejame tomar once with Combat Knife
+20-05-04 05:20:00 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:20:00 =E*R= Sadiko scores for Bravo Team
+20-05-04 05:20:02 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:20:02 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:20:06 (1) dejame tomar once killed (2) Divas| Enigma with Grenade
+20-05-04 05:20:07 (1) dejame tomar once killed (2) =E*R= Sadiko with M79
+20-05-04 05:20:12 (1) mipHo killed (2) Divas| Enigma with M79
+20-05-04 05:20:12 (2) Divas| Enigma killed (1) mipHo with Combat Knife
+20-05-04 05:20:15 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:20:18 (2) =E*R= Sadiko killed (1) dejame tomar once with LAW
+20-05-04 05:20:19 (1) mipHo killed (2) Divas| Enigma with M79
+20-05-04 05:20:24 (1) mipHo killed (2) Divas| Enigma with M79
+20-05-04 05:20:27 =E*R= Sadiko captured the Red Flag
+20-05-04 05:20:30 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:20:31 (1) dejame tomar once killed (2) Divas| Enigma with M79
+20-05-04 05:20:33 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:20:33 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:20:34 dejame tomar once captured the Blue Flag
+20-05-04 05:20:39 (2) =E*R= Sadiko killed (1) mipHo with LAW
+20-05-04 05:20:40 (2) later Maaxis* (New gu(1) killed (1) dejame tomar once with Grenade
+20-05-04 05:20:42 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:20:43 (1) r3v' Mand3s killed (2) Divas| Enigma with Grenade
+20-05-04 05:20:44 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:20:44 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:20:47 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:20:48 (1) mipHo killed (2) Divas| Enigma with M79
+20-05-04 05:20:51 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:20:53 (TEAM)[dejame tomar once] EFC LOW
+20-05-04 05:20:53 mipHo captured the Blue Flag
+20-05-04 05:20:56 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:21:01 r3v' Mand3s captured the Blue Flag
+20-05-04 05:21:02 (1) dejame tomar once killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:21:03 (2) Divas| Enigma killed (1) dejame tomar once with Grenade
+20-05-04 05:21:08 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:21:09 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:21:10 mipHo returned the Red Flag
+20-05-04 05:21:10 (2) Divas| Enigma killed (1) mipHo with Grenade
+20-05-04 05:21:14 r3v' Mand3s captured the Blue Flag
+20-05-04 05:21:14 (1) dejame tomar once killed (2) Divas| Enigma with M79
+20-05-04 05:21:15 (1) mipHo killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:21:17 ~>2Q2C| Kaito has left spectators
+20-05-04 05:21:17 dejame tomar once captured the Blue Flag
+20-05-04 05:21:18 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:21:21 (1) mipHo killed (2) later Maaxis* (New gu(1) with Barrett M82A1
+20-05-04 05:21:23 (2) Divas| Enigma killed (1) mipHo with Grenade
+20-05-04 05:21:24 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:21:24 (1) dejame tomar once killed (2) =E*R= Sadiko with Grenade
+20-05-04 05:21:25 (1) r3v' Mand3s killed (2) Divas| Enigma with Grenade
+20-05-04 05:21:28 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:21:31 (2) Divas| Enigma killed (1) r3v' Mand3s with Steyr AUG
+20-05-04 05:21:31 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:21:35 (1) mipHo killed (2) =E*R= Sadiko with M79
+20-05-04 05:21:35 (2) Divas| Enigma killed (1) mipHo with Combat Knife
+20-05-04 05:21:43 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:21:46 (2) Divas| Enigma killed (1) mipHo with Steyr AUG
+20-05-04 05:21:47 (2) later Maaxis* (New gu(1) killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:21:54 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Combat Knife
+20-05-04 05:21:54 (2) =E*R= Sadiko killed (1) dejame tomar once with Grenade
+20-05-04 05:21:54 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:21:56 mipHo captured the Blue Flag
+20-05-04 05:21:57 (TEAM)[dejame tomar once] EFC LOW
+20-05-04 05:22:03 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:22:03 (1) dejame tomar once killed (2) Divas| Enigma with M79
+20-05-04 05:22:09 (1) r3v' Mand3s killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:22:09 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:22:11 dejame tomar once returned the Red Flag
+20-05-04 05:22:13 mipHo scores for Alpha Team
+20-05-04 05:22:14 (2) =E*R= Sadiko killed (1) mipHo with Barrett M82A1
+20-05-04 05:22:14 (1) r3v' Mand3s killed (2) later Maaxis* (New gu(1) with Combat Knife
+20-05-04 05:22:15 (2) Divas| Enigma killed (1) r3v' Mand3s with Combat Knife
+20-05-04 05:22:20 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:22:21 =E*R= Sadiko captured the Red Flag
+20-05-04 05:22:22 [r3v' Mand3s] Die!
+20-05-04 05:22:26 Time Left: 5 minutes
+20-05-04 05:22:26 (1) dejame tomar once killed (2) =E*R= Sadiko with M79
+20-05-04 05:22:26 dejame tomar once returned the Red Flag
+20-05-04 05:22:27 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:22:32 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:22:37 (1) r3v' Mand3s killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:22:37 (1) dejame tomar once killed (2) =E*R= Sadiko with M79
+20-05-04 05:22:37 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:22:42 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:22:49 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with Grenade
+20-05-04 05:22:53 Divas| Enigma captured the Red Flag
+20-05-04 05:22:53 (2) Divas| Enigma killed (1) dejame tomar once with FN Minimi
+20-05-04 05:22:54 r3v' Mand3s captured the Blue Flag
+20-05-04 05:22:55 (TEAM)[dejame tomar once] EFC LOW
+20-05-04 05:22:56 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:22:58 (2) later Maaxis* (New gu(1) killed (1) mipHo with Grenade
+20-05-04 05:22:59 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:23:03 Divas| Enigma scores for Bravo Team
+20-05-04 05:23:04 (2) =E*R= Sadiko killed (1) mipHo with Barrett M82A1
+20-05-04 05:23:05 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:23:10 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:23:12 (TEAM)[r3v' Mand3s] LOW
+20-05-04 05:23:14 (2) Divas| Enigma killed (1) dejame tomar once with FN Minimi
+20-05-04 05:23:14 (1) dejame tomar once killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:23:14 (1) dejame tomar once killed (2) =E*R= Sadiko with Grenade
+20-05-04 05:23:15 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:23:18 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:23:20 mipHo captured the Blue Flag
+20-05-04 05:23:22 (2) Divas| Enigma killed (1) r3v' Mand3s with Ruger 77
+20-05-04 05:23:24 (1) mipHo killed (2) =E*R= Sadiko with M79
+20-05-04 05:23:25 (1) mipHo killed (2) later Maaxis* (New gu(1) with Combat Knife
+20-05-04 05:23:25 mipHo returned the Red Flag
+20-05-04 05:23:25 (1) dejame tomar once killed (2) Divas| Enigma with M79
+20-05-04 05:23:26 Time Left: 4 minutes
+20-05-04 05:23:30 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:23:34 mipHo scores for Alpha Team
+20-05-04 05:23:37 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:23:37 (2) Divas| Enigma killed (1) dejame tomar once with FN Minimi
+20-05-04 05:23:38 (TEAM)[dejame tomar once] INC TOP
+20-05-04 05:23:40 (TEAM)[dejame tomar once] 23
+20-05-04 05:23:41 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:23:45 (2) Divas| Enigma killed (1) r3v' Mand3s with FN Minimi
+20-05-04 05:23:47 Divas| Enigma captured the Red Flag
+20-05-04 05:23:47 mipHo captured the Blue Flag
+20-05-04 05:23:51 (1) dejame tomar once killed (2) Divas| Enigma with Grenade
+20-05-04 05:23:52 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:23:54 (2) =E*R= Sadiko killed (1) mipHo with Barrett M82A1
+20-05-04 05:23:54 (TEAM)[dejame tomar once] EFC LOW
+20-05-04 05:23:58 (1) dejame tomar once killed (2) Divas| Enigma with Grenade
+20-05-04 05:24:01 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:24:01 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:24:03 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:24:04 mipHo captured the Blue Flag
+20-05-04 05:24:05 mipHo returned the Red Flag
+20-05-04 05:24:08 (1) mipHo killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:24:09 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:24:12 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:24:13 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:24:15 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:24:18 r3v' Mand3s returned the Red Flag
+20-05-04 05:24:18 mipHo scores for Alpha Team
+20-05-04 05:24:18 (2) =E*R= Sadiko killed (1) mipHo with Barrett M82A1
+20-05-04 05:24:20 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:24:23 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:24:26 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:24:26 Time Left: 3 minutes
+20-05-04 05:24:32 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:24:32 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:24:34 Divas| Enigma captured the Red Flag
+20-05-04 05:24:34 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:24:35 mipHo captured the Blue Flag
+20-05-04 05:24:42 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:24:44 (2) later Maaxis* (New gu(1) killed (1) mipHo with Combat Knife
+20-05-04 05:24:44 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:24:47 (2) later Maaxis* (New gu(1) killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:24:48 (1) dejame tomar once killed (2) later Maaxis* (New gu(1) with Combat Knife
+20-05-04 05:24:54 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:24:56 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Steyr AUG
+20-05-04 05:24:57 1.156.131.49:23073|583F14C5E5D requesting game...
+20-05-04 05:24:58 mipHo captured the Blue Flag
+20-05-04 05:25:05 73.227.35.166:23073|7C60F5CA901 requesting game...
+20-05-04 05:25:05 (2) later Maaxis* (New gu(1) killed (1) mipHo with Barrett M82A1
+20-05-04 05:25:09 later Maaxis* (New gu(1) returned the Blue Flag
+20-05-04 05:25:09 (2) =E*R= Sadiko killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:25:09 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:25:11 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:25:12 (2) =E*R= Sadiko killed (1) mipHo with LAW
+20-05-04 05:25:14 (1) r3v' Mand3s killed (2) later Maaxis* (New gu(1) with Grenade
+20-05-04 05:25:15 r3v' Mand3s returned the Red Flag
+20-05-04 05:25:17 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:25:17 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:25:17 36.78.203.48:61077|402417438E4 requesting game...
+20-05-04 05:25:18 (1) mipHo killed (2) =E*R= Sadiko with Combat Knife
+20-05-04 05:25:19 dejame tomar once captured the Blue Flag
+20-05-04 05:25:22 36.78.203.48:61077|402417438E4 requesting game...
+20-05-04 05:25:22 (2) Divas| Enigma killed (1) dejame tomar once with Steyr AUG
+20-05-04 05:25:26 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Combat Knife
+20-05-04 05:25:26 (1) r3v' Mand3s killed (2) later Maaxis* (New gu(1) with Grenade
+20-05-04 05:25:26 Time Left: 2 minutes
+20-05-04 05:25:28 =E*R= Sadiko returned the Blue Flag
+20-05-04 05:25:30 (1) mipHo killed (2) later Maaxis* (New gu(1) with M79
+20-05-04 05:25:32 (2) Divas| Enigma killed (1) dejame tomar once with Grenade
+20-05-04 05:25:33 mipHo captured the Blue Flag
+20-05-04 05:25:39 (1) r3v' Mand3s killed (2) Divas| Enigma with Steyr AUG
+20-05-04 05:25:42 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Barrett M82A1
+20-05-04 05:25:44 =E*R= Sadiko captured the Red Flag
+20-05-04 05:25:48 (2) later Maaxis* (New gu(1) killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:25:50 (1) mipHo killed (2) =E*R= Sadiko with M79
+20-05-04 05:25:54 (1) mipHo killed (2) Divas| Enigma with Grenade
+20-05-04 05:25:54 r3v' Mand3s returned the Red Flag
+20-05-04 05:25:56 mipHo scores for Alpha Team
+20-05-04 05:25:58 (1) dejame tomar once killed (2) =E*R= Sadiko with M79
+20-05-04 05:25:59 (2) later Maaxis* (New gu(1) killed (1) r3v' Mand3s with Grenade
+20-05-04 05:26:00 (2) Divas| Enigma killed (1) dejame tomar once with Grenade
+20-05-04 05:26:01 (2) later Maaxis* (New gu(1) killed (1) mipHo with Grenade
+20-05-04 05:26:01 (TEAM)[dejame tomar once] INC MID
+20-05-04 05:26:02 (TEAM)[dejame tomar once] INC TOP
+20-05-04 05:26:06 (2) Divas| Enigma killed (1) mipHo with Barrett M82A1
+20-05-04 05:26:06 later Maaxis* (New gu(1) captured the Red Flag
+20-05-04 05:26:07 (2) Divas| Enigma killed (1) r3v' Mand3s with Grenade
+20-05-04 05:26:11 (2) Divas| Enigma killed (1) dejame tomar once with Barrett M82A1
+20-05-04 05:26:11 (1) dejame tomar once killed (2) Divas| Enigma with Combat Knife
+20-05-04 05:26:12 (2) =E*R= Sadiko killed (1) mipHo with Barrett M82A1
+20-05-04 05:26:13 (2) =E*R= Sadiko killed (1) r3v' Mand3s with LAW
+20-05-04 05:26:14 later Maaxis* (New gu(1) scores for Bravo Team
+20-05-04 05:29:51 (TEAM)[dejame tomar once] TONTO WEON
+20-05-04 05:29:51 (TEAM)[dejame tomar once] QUE ESTAI HACIENDO
+20-05-04 05:29:51 (TEAM)[dejame tomar once] CONCHETUMARE
+20-05-04 05:29:51 (TEAM)[dejame tomar once] CONCHETUMARE
+20-05-04 05:29:51 (TEAM)[dejame tomar once] CONCHETUMARE
+20-05-04 05:29:51 (TEAM)[dejame tomar once] CONCHETUMARE
+20-05-04 05:29:52 dejame tomar once has been kicked and banned for 5 minutes (Chat Flood)
+20-05-04 05:29:52 later Maaxis* (New gu(1) is flooding the server
+20-05-04 05:30:02 Registering server @ 88.99.234.252
+20-05-04 05:30:02 Time Left: 1 minutes
+20-05-04 05:30:21 r3v' Mand3s could not respond
+20-05-04 05:30:21 mipHo could not respond
+20-05-04 05:30:21 Divas| Enigma could not respond
+20-05-04 05:30:21 =E*R= Sadiko could not respond
+20-05-04 05:30:21 later Maaxis* (New gu(1) could not respond
+20-05-04 05:31:02 Next map: Lobby
+20-05-04 05:31:08 Lothic - Gothic Lobby Room
+20-05-04 05:34:11 IP number 152.173.40.88 (Chat Flood) unbanned
+20-05-04 05:34:11 Hardware ID 604C8DA500F (Chat Flood) unbanned
+20-05-04 05:36:07 Time Left: 5 minutes
+20-05-04 05:37:07 Time Left: 4 minutes
+20-05-04 05:38:07 Time Left: 3 minutes
+20-05-04 05:39:07 Time Left: 2 minutes
+20-05-04 05:40:07 Time Left: 1 minutes
+20-05-04 05:41:07 Next map: Lobby
+20-05-04 05:41:13 Lothic - Gothic Lobby Room
+20-05-04 05:42:53 89.139.80.151:23073|16EC6344108 requesting game...
+20-05-04 05:42:58 89.139.80.151:23073|16EC6344108 requesting game...
+20-05-04 05:43:00 ~>2Q2C| Kaito joining game (89.139.80.151:23073) HWID:16EC6344108
+20-05-04 05:43:00 ~>2Q2C| Kaito has joined alpha team.
+20-05-04 05:43:01 ~>2Q2C| Kaito has left alpha team.

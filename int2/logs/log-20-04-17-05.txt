@@ -1,0 +1,143 @@
+20-04-17 15:40:59    Log Started
+20-04-17 15:40:59 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-17 15:40:59 Creating network interface.
+20-04-17 15:40:59 Loading Animations.
+20-04-17 15:40:59 Loading Lobby Servers List
+20-04-17 15:40:59 Loading Maps List
+20-04-17 15:40:59 Loading Map.
+20-04-17 15:40:59 Creating Weapons.
+20-04-17 15:40:59 Starting Game Server.
+20-04-17 15:40:59 TCP/IP File Server started
+20-04-17 15:41:27  Net - D.Forc3 Wagyu connected 17-04-2020 15:41:27
+20-04-17 15:41:55  Net - KillMe! connected 17-04-2020 15:41:55
+20-04-17 15:46:19  Net - KillMe! disconnected 17-04-2020 15:46:19
+20-04-17 15:46:21  Net - D.Forc3 Wagyu disconnected 17-04-2020 15:46:21
+20-04-17 15:46:46  Net - RtP| SontercL MvP connected 17-04-2020 15:46:46
+20-04-17 15:46:47  Net - RtP| SontercL MvP disconnected 17-04-2020 15:46:47
+20-04-17 16:10:59 TCP/IP File Server started
+20-04-17 16:40:59 TCP/IP File Server started
+20-04-17 17:10:59 TCP/IP File Server started
+20-04-17 17:40:59 TCP/IP File Server started
+20-04-17 17:52:41  Net - [UnK] KorN connected 17-04-2020 17:52:41
+20-04-17 17:52:43  Net - [UnK] KorN connected 17-04-2020 17:52:43
+20-04-17 17:53:53  Net - [6] KING KorN connected 17-04-2020 17:53:53
+20-04-17 17:56:27  Net - [UnK] KorN disconnected 17-04-2020 17:56:27
+20-04-17 17:56:41  Net - [6] KING KorN disconnected 17-04-2020 17:56:41
+20-04-17 17:56:46  Net - K!NG| KorN connected 17-04-2020 17:56:46
+20-04-17 17:56:54  Net - [UnK] KorN connected 17-04-2020 17:56:54
+20-04-17 17:56:56  Net - [UnK] KorN connected 17-04-2020 17:56:56
+20-04-17 17:58:33  Net - [UnK] KorN connected 17-04-2020 17:58:33
+20-04-17 18:00:10  Net - S2 ~ bio connected 17-04-2020 18:00:10
+20-04-17 18:00:16  Net - S2 ~ bio disconnected 17-04-2020 18:00:16
+20-04-17 18:03:01  Net - K!NG| KorN disconnected 17-04-2020 18:03:01
+20-04-17 18:03:09  Net - K!NG| KorN connected 17-04-2020 18:03:09
+20-04-17 18:05:44  Net - K!NG| KorN connected 17-04-2020 18:05:44
+20-04-17 18:08:52  Net - [UnK] KorN disconnected 17-04-2020 18:08:52
+20-04-17 18:09:05  Net - K!NG| KorN disconnected 17-04-2020 18:09:05
+20-04-17 18:10:59 TCP/IP File Server started
+20-04-17 18:40:59 TCP/IP File Server started
+20-04-17 18:44:27  Net - KorN.cN connected 17-04-2020 18:44:27
+20-04-17 18:44:29  Net - KorN.cN connected 17-04-2020 18:44:29
+20-04-17 18:44:53  Net - RtP| KorN connected 17-04-2020 18:44:53
+20-04-17 18:46:56  Net - KorN.cN disconnected 17-04-2020 18:46:56
+20-04-17 18:46:59  Net - RtP| KorN disconnected 17-04-2020 18:46:59
+20-04-17 19:10:59 TCP/IP File Server started
+20-04-17 19:40:59 TCP/IP File Server started
+20-04-17 19:46:29  Net - KorN.cN connected 17-04-2020 19:46:29
+20-04-17 19:46:31  Net - KorN.cN connected 17-04-2020 19:46:31
+20-04-17 19:46:36  Net - RtP| KorN connected 17-04-2020 19:46:36
+20-04-17 19:46:40  Net - RtP| KorN connected 17-04-2020 19:46:40
+20-04-17 19:47:11  Net - KorN.cN disconnected 17-04-2020 19:47:11
+20-04-17 19:47:14  Net - RtP| KorN disconnected 17-04-2020 19:47:14
+20-04-17 20:00:11  Net - KorN.cN connected 17-04-2020 20:00:11
+20-04-17 20:00:13  Net - KorN.cN disconnected 17-04-2020 20:00:13
+20-04-17 20:01:25  Net - KorN.cN connected 17-04-2020 20:01:25
+20-04-17 20:01:26  Net - KorN.cN connected 17-04-2020 20:01:26
+20-04-17 20:01:33  Net - RtP| KorN connected 17-04-2020 20:01:33
+20-04-17 20:01:49  Net - RtP| KorN disconnected 17-04-2020 20:01:49
+20-04-17 20:01:51  Net - RtP| KorN connected 17-04-2020 20:01:51
+20-04-17 20:03:11  Net - KorN.cN disconnected 17-04-2020 20:03:11
+20-04-17 20:03:14  Net - RtP| KorN disconnected 17-04-2020 20:03:14
+20-04-17 20:05:44  Net - KorN.cN connected 17-04-2020 20:05:44
+20-04-17 20:05:46  Net - KorN.cN connected 17-04-2020 20:05:46
+20-04-17 20:05:50  Net - RtP| KorN connected 17-04-2020 20:05:50
+20-04-17 20:09:35  Net - KorN.cN disconnected 17-04-2020 20:09:35
+20-04-17 20:09:37  Net - RtP| KorN disconnected 17-04-2020 20:09:37
+20-04-17 20:09:44  Net - KorN.cN connected 17-04-2020 20:09:44
+20-04-17 20:09:46  Net - KorN.cN connected 17-04-2020 20:09:46
+20-04-17 20:09:50  Net - RtP| KorN connected 17-04-2020 20:09:50
+20-04-17 20:10:59 TCP/IP File Server started
+20-04-17 20:12:08  Net - KorN.cN disconnected 17-04-2020 20:12:08
+20-04-17 20:12:10  Net - RtP| KorN disconnected 17-04-2020 20:12:10
+20-04-17 20:13:23  Net - KorN.cN connected 17-04-2020 20:13:23
+20-04-17 20:13:25  Net - KorN.cN connected 17-04-2020 20:13:25
+20-04-17 20:13:28  Net - RtP| KorN connected 17-04-2020 20:13:28
+20-04-17 20:15:10  Net - [KnF] Yakuza connected 17-04-2020 20:15:10
+20-04-17 20:15:56  Net - [KnF] Yakuza disconnected 17-04-2020 20:15:56
+20-04-17 20:17:50  Net - RtP| KorN disconnected 17-04-2020 20:17:50
+20-04-17 20:18:03  Net - KorN.cN disconnected 17-04-2020 20:18:03
+20-04-17 20:40:59 TCP/IP File Server started
+20-04-17 21:10:59 TCP/IP File Server started
+20-04-17 21:40:59 TCP/IP File Server started
+20-04-17 22:10:59 TCP/IP File Server started
+20-04-17 22:40:59 TCP/IP File Server started
+20-04-17 23:10:59 TCP/IP File Server started
+20-04-17 23:20:22  Net - KorN.cN connected 17-04-2020 23:20:22
+20-04-17 23:20:25  Net - KorN.cN connected 17-04-2020 23:20:25
+20-04-17 23:20:55  Net - RtP| KorN connected 17-04-2020 23:20:55
+20-04-17 23:20:57  Net - RtP| KorN connected 17-04-2020 23:20:57
+20-04-17 23:22:21  Net - .:{MIS}:. Leche connected 17-04-2020 23:22:21
+20-04-17 23:22:44  Net - .:{MIS}:. Leche disconnected 17-04-2020 23:22:44
+20-04-17 23:25:41  Net - KorN.cN disconnected 17-04-2020 23:25:41
+20-04-17 23:27:27  Net - RtP| KorN disconnected 17-04-2020 23:27:27
+20-04-17 23:40:59 TCP/IP File Server started
+20-04-18 00:10:59 TCP/IP File Server started
+20-04-18 00:40:59 TCP/IP File Server started
+20-04-18 01:10:59 TCP/IP File Server started
+20-04-18 01:40:59 TCP/IP File Server started
+20-04-18 02:10:59 TCP/IP File Server started
+20-04-18 02:40:59 TCP/IP File Server started
+20-04-18 03:10:59 TCP/IP File Server started
+20-04-18 03:40:59 TCP/IP File Server started
+20-04-18 04:10:59 TCP/IP File Server started
+20-04-18 04:40:59 TCP/IP File Server started
+20-04-18 05:10:59 TCP/IP File Server started
+20-04-18 05:40:59 TCP/IP File Server started
+20-04-18 06:10:59 TCP/IP File Server started
+20-04-18 06:40:59 TCP/IP File Server started
+20-04-18 07:10:59 TCP/IP File Server started
+20-04-18 07:40:59 TCP/IP File Server started
+20-04-18 08:10:59 TCP/IP File Server started
+20-04-18 08:40:59 TCP/IP File Server started
+20-04-18 09:10:59 TCP/IP File Server started
+20-04-18 09:40:59 TCP/IP File Server started
+20-04-18 10:10:59 TCP/IP File Server started
+20-04-18 10:40:59 TCP/IP File Server started
+20-04-18 11:10:59 TCP/IP File Server started
+20-04-18 11:40:59 TCP/IP File Server started
+20-04-18 12:10:59 TCP/IP File Server started
+20-04-18 12:40:59 TCP/IP File Server started
+20-04-18 12:43:16  Net - .:{MIS]:..Turko connected 18-04-2020 12:43:16
+20-04-18 12:43:19  Net - .:{MIS]:..Turko connected 18-04-2020 12:43:19
+20-04-18 12:43:29  Net - =E*R= Skipo connected 18-04-2020 12:43:29
+20-04-18 12:44:54  Net - .:{MIS]:..Turko disconnected 18-04-2020 12:44:54
+20-04-18 12:44:55  Net - .:{MIS]:..Turko connected 18-04-2020 12:44:55
+20-04-18 12:44:57  Net - .:{MIS]:..Turko connected 18-04-2020 12:44:57
+20-04-18 12:47:21  Net - .:{MIS]:..Turko disconnected 18-04-2020 12:47:21
+20-04-18 12:51:26  Net - =E*R= Skipo disconnected 18-04-2020 12:51:26
+20-04-18 13:10:59 TCP/IP File Server started
+20-04-18 13:13:09  Net - .:{MIS}:..Turko connected 18-04-2020 13:13:09
+20-04-18 13:13:10  Net - .:{MIS}:..Turko connected 18-04-2020 13:13:10
+20-04-18 13:13:56  Net - .:{MIS}:..Turko disconnected 18-04-2020 13:13:56
+20-04-18 13:40:59 TCP/IP File Server started
+20-04-18 14:10:59 TCP/IP File Server started
+20-04-18 14:40:59 TCP/IP File Server started
+20-04-18 15:10:59 TCP/IP File Server started
+20-04-18 15:40:59 TCP/IP File Server started
+20-04-18 16:10:50  Net - L der.cN connected 18-04-2020 16:10:50
+20-04-18 16:10:51  Net - L der.cN connected 18-04-2020 16:10:51
+20-04-18 16:10:59 TCP/IP File Server started
+20-04-18 16:11:05  Net - L der.cN disconnected 18-04-2020 16:11:05
+20-04-18 16:40:59 TCP/IP File Server started
+20-04-18 17:10:59 TCP/IP File Server started
+20-04-18 17:40:59 TCP/IP File Server started

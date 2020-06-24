@@ -1,0 +1,102 @@
+20-04-29 01:20:19    Console Log Started
+20-04-29 01:20:24 Lothic - Gothic Lobby Room
+20-04-29 01:25:24 Time Left: 5 minutes
+20-04-29 01:26:24 Time Left: 4 minutes
+20-04-29 01:27:24 Time Left: 3 minutes
+20-04-29 01:28:24 Time Left: 2 minutes
+20-04-29 01:29:24 Time Left: 1 minutes
+20-04-29 01:30:24 Next map: Lobby
+20-04-29 01:30:29 Lothic - Gothic Lobby Room
+20-04-29 01:35:29 Time Left: 5 minutes
+20-04-29 01:36:29 Time Left: 4 minutes
+20-04-29 01:37:29 Time Left: 3 minutes
+20-04-29 01:38:29 Time Left: 2 minutes
+20-04-29 01:39:29 Time Left: 1 minutes
+20-04-29 01:40:29 Next map: Lobby
+20-04-29 01:40:35 Lothic - Gothic Lobby Room
+20-04-29 01:45:34 Time Left: 5 minutes
+20-04-29 01:46:34 Time Left: 4 minutes
+20-04-29 01:47:34 Time Left: 3 minutes
+20-04-29 01:48:34 Time Left: 2 minutes
+20-04-29 01:49:34 Time Left: 1 minutes
+20-04-29 01:49:41 Admin connected (201.189.223.115).
+20-04-29 01:49:41 /friendlyfire (201.189.223.115)
+20-04-29 01:49:41 Friendly Fire is 0
+20-04-29 01:49:41 /bonus (201.189.223.115)
+20-04-29 01:49:41 Current bonus frequency is 0
+20-04-29 01:49:41 /vote% (201.189.223.115)
+20-04-29 01:49:41 Voting percent is 60
+20-04-29 01:49:41 /respawntime (201.189.223.115)
+20-04-29 01:49:41 Respawn time is 3 seconds
+20-04-29 01:49:41 /maxrespawntime (201.189.223.115)
+20-04-29 01:49:41 Maximum Respawn time is 5 seconds
+20-04-29 01:50:09 Admin connected (200.83.84.150).
+20-04-29 01:50:09 /friendlyfire (200.83.84.150)
+20-04-29 01:50:09 Friendly Fire is 0
+20-04-29 01:50:09 /bonus (200.83.84.150)
+20-04-29 01:50:09 Current bonus frequency is 0
+20-04-29 01:50:09 /vote% (200.83.84.150)
+20-04-29 01:50:09 Voting percent is 60
+20-04-29 01:50:09 /respawntime (200.83.84.150)
+20-04-29 01:50:09 Respawn time is 3 seconds
+20-04-29 01:50:09 /maxrespawntime (200.83.84.150)
+20-04-29 01:50:09 Maximum Respawn time is 5 seconds
+20-04-29 01:50:11 Admin disconnected (200.83.84.150).
+20-04-29 01:50:34 Next map: Lobby
+20-04-29 01:50:40 Lothic - Gothic Lobby Room
+20-04-29 01:55:40 Time Left: 5 minutes
+20-04-29 01:56:40 Time Left: 4 minutes
+20-04-29 01:57:40 Time Left: 3 minutes
+20-04-29 01:58:40 Time Left: 2 minutes
+20-04-29 01:59:40 Time Left: 1 minutes
+20-04-29 02:00:40 Next map: Lobby
+20-04-29 02:00:45 Lothic - Gothic Lobby Room
+20-04-29 02:05:45 Time Left: 5 minutes
+20-04-29 02:06:45 Time Left: 4 minutes
+20-04-29 02:07:45 Time Left: 3 minutes
+20-04-29 02:08:45 Time Left: 2 minutes
+20-04-29 02:09:45 Time Left: 1 minutes
+20-04-29 02:10:45 Next map: Lobby
+20-04-29 02:10:50 Lothic - Gothic Lobby Room
+20-04-29 02:15:50 Time Left: 5 minutes
+20-04-29 02:16:50 Time Left: 4 minutes
+20-04-29 02:17:50 Time Left: 3 minutes
+20-04-29 02:18:50 Time Left: 2 minutes
+20-04-29 02:19:50 Time Left: 1 minutes
+20-04-29 02:20:50 Next map: Lobby
+20-04-29 02:20:56 Lothic - Gothic Lobby Room
+20-04-29 02:21:03 Admin connected (186.11.74.70).
+20-04-29 02:21:03 /friendlyfire (186.11.74.70)
+20-04-29 02:21:03 Friendly Fire is 0
+20-04-29 02:21:03 /bonus (186.11.74.70)
+20-04-29 02:21:03 Current bonus frequency is 0
+20-04-29 02:21:03 /vote% (186.11.74.70)
+20-04-29 02:21:03 Voting percent is 60
+20-04-29 02:21:03 /respawntime (186.11.74.70)
+20-04-29 02:21:03 Respawn time is 3 seconds
+20-04-29 02:21:03 /maxrespawntime (186.11.74.70)
+20-04-29 02:21:03 Maximum Respawn time is 5 seconds
+20-04-29 02:21:53 186.11.74.70:43161|32439DD33E8 requesting game...
+20-04-29 02:21:54 OxiD:// KillMe! joining game (186.11.74.70:43161) HWID:32439DD33E8
+20-04-29 02:21:54 OxiD:// KillMe! has joined as spectator.
+20-04-29 02:22:04 OxiD:// KillMe! has left spectators
+20-04-29 02:22:12 200.112.241.48:23073|F022DA6E3A0 requesting game...
+20-04-29 02:22:12 Warfar3.- joining game (200.112.241.48:23073) HWID:F022DA6E3A0
+20-04-29 02:22:12 Warfar3.- has joined as spectator.
+20-04-29 02:22:14 Warfar3.- has left spectators
+20-04-29 02:25:56 Time Left: 5 minutes
+20-04-29 02:26:56 Time Left: 4 minutes
+20-04-29 02:27:56 Time Left: 3 minutes
+20-04-29 02:28:56 Time Left: 2 minutes
+20-04-29 02:29:56 Time Left: 1 minutes
+20-04-29 02:30:56 Next map: Lobby
+20-04-29 02:31:01 Lothic - Gothic Lobby Room
+20-04-29 02:36:01 Time Left: 5 minutes
+20-04-29 02:37:01 Time Left: 4 minutes
+20-04-29 02:38:01 Time Left: 3 minutes
+20-04-29 02:38:17 Signal received, shutting down
+20-04-29 02:38:17 Shutting down server...
+20-04-29 02:38:17 Shutting down FileServer...
+20-04-29 02:38:17 Shutting down admin server...
+20-04-29 02:38:17 Admin disconnected (186.11.74.70).
+20-04-29 02:38:17 Admin disconnected (201.189.223.115).

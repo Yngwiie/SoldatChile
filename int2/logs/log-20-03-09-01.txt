@@ -1,0 +1,489 @@
+20-03-09 22:50:40    Log Started
+20-03-09 22:50:40 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-03-09 22:50:41  Net - |X.Forc3|.Turko connected 09-03-2020 22:50:41
+20-03-09 22:59:25  Net - |X.Forc3|RainbowDash disconnected 09-03-2020 22:59:25
+20-03-09 22:59:27  Net - |X.Forc3|RainbowDash connected 09-03-2020 22:59:27
+20-03-09 23:00:06  Net - Flag carrier disconnected 09-03-2020 23:00:06
+20-03-09 23:00:07  Net - |X.Forc3|Utena disconnected 09-03-2020 23:00:07
+20-03-09 23:00:08  Net - Flag carrier connected 09-03-2020 23:00:08
+20-03-09 23:00:11  Net - Flag carrier connected 09-03-2020 23:00:11
+20-03-09 23:00:12  Net - |X.Forc3|Utena connected 09-03-2020 23:00:12
+20-03-09 23:02:31  Net - S2 ~ patuzhOO* disconnected 09-03-2020 23:02:31
+20-03-09 23:02:44  Net - S2 ~ patuzhOO* connected 09-03-2020 23:02:44
+20-03-09 23:10:40 TCP/IP File Server started
+20-03-09 23:11:01  Net - |X.Forc3|Utena disconnected 09-03-2020 23:11:01
+20-03-09 23:11:04  Net - |D.Forc3|Hector Lavoe disconnected 09-03-2020 23:11:04
+20-03-09 23:11:07  Net - Flag carrier disconnected 09-03-2020 23:11:07
+20-03-09 23:11:11  Net - |X.Forc3|.Turko disconnected 09-03-2020 23:11:11
+20-03-09 23:11:39  Net - S2 ~ patuzhOO* disconnected 09-03-2020 23:11:39
+20-03-09 23:13:42  Net - S2 - Monoxido de Zorro* disconnected 09-03-2020 23:13:42
+20-03-09 23:13:46  Net - S2 ~ iFuck* connected 09-03-2020 23:13:46
+20-03-09 23:14:10  Net - S2 ~ Monoxido de Zorro* connected 09-03-2020 23:14:10
+20-03-09 23:15:36  Net - S2 ~ Monoxido de Zorro* disconnected 09-03-2020 23:15:36
+20-03-09 23:15:47  Net - |X.Forc3|RainbowDash disconnected 09-03-2020 23:15:47
+20-03-09 23:18:21  Net - S2 ~ BioSeaX* disconnected 09-03-2020 23:18:21
+20-03-09 23:18:24  Net - S2 ~ iFuck* disconnected 09-03-2020 23:18:24
+20-03-09 23:30:06  Net - S2 ~ Monoxido de Zorro* connected 09-03-2020 23:30:06
+20-03-09 23:30:10  Net - S2 ~ Monoxido de Zorro* disconnected 09-03-2020 23:30:10
+20-03-09 23:30:21  Net - S2 ~ Monoxido de Zorro* connected 09-03-2020 23:30:21
+20-03-09 23:30:28  Net - S2 ~ Monoxido de Zorro* disconnected 09-03-2020 23:30:28
+20-03-09 23:35:33  Net - Warfar3 the original connected 09-03-2020 23:35:33
+20-03-09 23:35:35  Net - Warfar3 the original connected 09-03-2020 23:35:35
+20-03-09 23:36:09  Net - Warfar3 the original disconnected 09-03-2020 23:36:09
+20-03-09 23:36:12  Net - TK| Maaxis* connected 09-03-2020 23:36:12
+20-03-09 23:36:30  Net - Warfar3 the original connected 09-03-2020 23:36:30
+20-03-09 23:36:38  Net - Warfar3 the original connected 09-03-2020 23:36:38
+20-03-09 23:37:07  Net - TK| Maaxis* disconnected 09-03-2020 23:37:07
+20-03-09 23:37:27  Net - Warfar3 the original disconnected 09-03-2020 23:37:27
+20-03-09 23:40:40 TCP/IP File Server started
+20-03-09 23:41:14  Net - sk!T. SeenzacL* connected 09-03-2020 23:41:14
+20-03-09 23:41:20  Net - sk!T. SeenzacL* disconnected 09-03-2020 23:41:20
+20-03-09 23:41:23  Net - sk!T. SeenzacL* connected 09-03-2020 23:41:23
+20-03-09 23:41:34  Net - TK| Maaxis* connected 09-03-2020 23:41:34
+20-03-09 23:41:36  Net - sk!T. SeenzacL* disconnected 09-03-2020 23:41:36
+20-03-09 23:41:42  Net - TK| Maaxis* disconnected 09-03-2020 23:41:42
+20-03-09 23:41:44  Net - S2 ~ iFuck* connected 09-03-2020 23:41:44
+20-03-09 23:42:09  Net - S2 ~ iFuck* disconnected 09-03-2020 23:42:09
+20-03-09 23:42:20  Net - S2 ~ BioSeaX* connected 09-03-2020 23:42:20
+20-03-09 23:42:25  Net - S2 ~ BioSeaX* disconnected 09-03-2020 23:42:25
+20-03-10 00:10:40 TCP/IP File Server started
+20-03-10 00:40:40 TCP/IP File Server started
+20-03-10 01:10:40 TCP/IP File Server started
+20-03-10 01:40:42 TCP/IP File Server started
+20-03-10 02:10:42 TCP/IP File Server started
+20-03-10 06:40:46 TCP/IP File Server started
+20-03-10 07:10:46 TCP/IP File Server started
+20-03-10 03:40:46 TCP/IP File Server started
+20-03-10 04:10:46 TCP/IP File Server started
+20-03-10 04:40:46 TCP/IP File Server started
+20-03-10 05:10:46 TCP/IP File Server started
+20-03-10 05:40:46 TCP/IP File Server started
+20-03-10 06:10:46 TCP/IP File Server started
+20-03-10 06:40:46 TCP/IP File Server started
+20-03-10 07:10:46 TCP/IP File Server started
+20-03-10 07:40:46 TCP/IP File Server started
+20-03-10 08:10:46 TCP/IP File Server started
+20-03-10 08:40:46 TCP/IP File Server started
+20-03-10 09:10:46 TCP/IP File Server started
+20-03-10 09:40:46 TCP/IP File Server started
+20-03-10 10:10:46 TCP/IP File Server started
+20-03-10 10:40:46 TCP/IP File Server started
+20-03-10 11:10:46 TCP/IP File Server started
+20-03-10 11:40:46 TCP/IP File Server started
+20-03-10 12:10:46 TCP/IP File Server started
+20-03-10 12:40:46 TCP/IP File Server started
+20-03-10 13:10:46 TCP/IP File Server started
+20-03-10 13:40:46 TCP/IP File Server started
+20-03-10 14:10:46 TCP/IP File Server started
+20-03-10 14:40:46 TCP/IP File Server started
+20-03-10 15:10:46 TCP/IP File Server started
+20-03-10 15:40:46 TCP/IP File Server started
+20-03-10 16:10:46 TCP/IP File Server started
+20-03-10 16:40:46 TCP/IP File Server started
+20-03-10 17:10:46 TCP/IP File Server started
+20-03-10 17:40:46 TCP/IP File Server started
+20-03-10 18:10:46 TCP/IP File Server started
+20-03-10 18:40:46 TCP/IP File Server started
+20-03-10 19:10:46 TCP/IP File Server started
+20-03-10 19:40:46 TCP/IP File Server started
+20-03-10 20:10:46 TCP/IP File Server started
+20-03-10 20:40:46 TCP/IP File Server started
+20-03-10 21:10:46 TCP/IP File Server started
+20-03-10 21:40:46 TCP/IP File Server started
+20-03-10 22:10:46 TCP/IP File Server started
+20-03-10 22:40:46 TCP/IP File Server started
+20-03-10 23:10:46 TCP/IP File Server started
+20-03-10 23:40:46 TCP/IP File Server started
+20-03-11 00:10:46 TCP/IP File Server started
+20-03-11 00:40:46 TCP/IP File Server started
+20-03-11 01:10:46 TCP/IP File Server started
+20-03-11 01:40:46 TCP/IP File Server started
+20-03-11 02:10:46 TCP/IP File Server started
+20-03-11 06:40:48 TCP/IP File Server started
+20-03-11 07:10:48 TCP/IP File Server started
+20-03-11 03:40:49 TCP/IP File Server started
+20-03-11 04:10:49 TCP/IP File Server started
+20-03-11 04:40:49 TCP/IP File Server started
+20-03-11 05:10:49 TCP/IP File Server started
+20-03-11 05:40:49 TCP/IP File Server started
+20-03-11 06:10:49 TCP/IP File Server started
+20-03-11 06:40:49 TCP/IP File Server started
+20-03-11 07:10:49 TCP/IP File Server started
+20-03-11 07:40:49 TCP/IP File Server started
+20-03-11 08:10:49 TCP/IP File Server started
+20-03-11 08:40:49 TCP/IP File Server started
+20-03-11 09:10:49 TCP/IP File Server started
+20-03-11 09:40:49 TCP/IP File Server started
+20-03-11 10:10:49 TCP/IP File Server started
+20-03-11 10:40:49 TCP/IP File Server started
+20-03-11 11:10:49 TCP/IP File Server started
+20-03-11 11:40:49 TCP/IP File Server started
+20-03-11 12:10:49 TCP/IP File Server started
+20-03-11 12:40:49 TCP/IP File Server started
+20-03-11 13:10:49 TCP/IP File Server started
+20-03-11 13:40:49 TCP/IP File Server started
+20-03-11 14:10:49 TCP/IP File Server started
+20-03-11 14:40:49 TCP/IP File Server started
+20-03-11 15:10:49 TCP/IP File Server started
+20-03-11 15:40:49 TCP/IP File Server started
+20-03-11 16:10:49 TCP/IP File Server started
+20-03-11 16:40:49 TCP/IP File Server started
+20-03-11 17:10:49 TCP/IP File Server started
+20-03-11 17:40:49 TCP/IP File Server started
+20-03-11 18:10:49 TCP/IP File Server started
+20-03-11 18:40:49 TCP/IP File Server started
+20-03-11 19:10:49 TCP/IP File Server started
+20-03-11 19:40:49 TCP/IP File Server started
+20-03-11 20:10:49 TCP/IP File Server started
+20-03-11 20:40:49 TCP/IP File Server started
+20-03-11 21:10:49 TCP/IP File Server started
+20-03-11 21:40:49 TCP/IP File Server started
+20-03-11 22:10:49 TCP/IP File Server started
+20-03-11 22:40:49 TCP/IP File Server started
+20-03-11 23:10:49 TCP/IP File Server started
+20-03-11 23:40:49 TCP/IP File Server started
+20-03-12 00:11:17 TCP/IP File Server started
+20-03-12 00:41:17 TCP/IP File Server started
+20-03-12 00:59:21  Net - #1 Mand3s connected 12-03-2020 0:59:21
+20-03-12 01:00:04  Net - #1 Mand3s disconnected 12-03-2020 1:00:04
+20-03-12 01:11:17 TCP/IP File Server started
+20-03-12 01:41:17 TCP/IP File Server started
+20-03-12 02:11:17 TCP/IP File Server started
+20-03-12 02:41:17 TCP/IP File Server started
+20-03-12 03:11:17 TCP/IP File Server started
+20-03-12 03:41:17 TCP/IP File Server started
+20-03-12 04:11:17 TCP/IP File Server started
+20-03-12 04:41:17 TCP/IP File Server started
+20-03-12 05:11:17 TCP/IP File Server started
+20-03-12 05:41:17 TCP/IP File Server started
+20-03-12 06:11:17 TCP/IP File Server started
+20-03-12 06:41:17 TCP/IP File Server started
+20-03-12 07:11:17 TCP/IP File Server started
+20-03-12 07:41:17 TCP/IP File Server started
+20-03-12 08:11:17 TCP/IP File Server started
+20-03-12 08:41:17 TCP/IP File Server started
+20-03-12 09:11:51 TCP/IP File Server started
+20-03-12 09:41:51 TCP/IP File Server started
+20-03-12 10:11:51 TCP/IP File Server started
+20-03-12 10:41:51 TCP/IP File Server started
+20-03-12 11:11:51 TCP/IP File Server started
+20-03-12 11:41:53 TCP/IP File Server started
+20-03-12 12:11:53 TCP/IP File Server started
+20-03-12 12:41:53 TCP/IP File Server started
+20-03-12 13:11:53 TCP/IP File Server started
+20-03-12 13:41:53 TCP/IP File Server started
+20-03-12 14:11:53 TCP/IP File Server started
+20-03-12 14:41:53 TCP/IP File Server started
+20-03-12 15:11:53 TCP/IP File Server started
+20-03-12 15:41:53 TCP/IP File Server started
+20-03-12 16:11:53 TCP/IP File Server started
+20-03-12 16:41:53 TCP/IP File Server started
+20-03-12 17:11:53 TCP/IP File Server started
+20-03-12 17:41:53 TCP/IP File Server started
+20-03-12 18:11:53 TCP/IP File Server started
+20-03-12 18:41:53 TCP/IP File Server started
+20-03-12 19:11:53 TCP/IP File Server started
+20-03-12 19:41:53 TCP/IP File Server started
+20-03-12 20:11:53 TCP/IP File Server started
+20-03-12 20:41:53 TCP/IP File Server started
+20-03-12 21:11:53 TCP/IP File Server started
+20-03-12 21:41:53 TCP/IP File Server started
+20-03-12 22:11:53 TCP/IP File Server started
+20-03-12 22:41:53 TCP/IP File Server started
+20-03-12 23:11:53 TCP/IP File Server started
+20-03-12 23:41:53 TCP/IP File Server started
+20-03-13 00:11:53 TCP/IP File Server started
+20-03-13 00:41:53 TCP/IP File Server started
+20-03-13 01:11:53 TCP/IP File Server started
+20-03-13 01:41:53 TCP/IP File Server started
+20-03-13 02:11:53 TCP/IP File Server started
+20-03-13 02:41:53 TCP/IP File Server started
+20-03-13 03:11:53 TCP/IP File Server started
+20-03-13 03:41:53 TCP/IP File Server started
+20-03-13 04:11:53 TCP/IP File Server started
+20-03-13 04:41:53 TCP/IP File Server started
+20-03-13 05:11:53 TCP/IP File Server started
+20-03-13 05:41:53 TCP/IP File Server started
+20-03-13 06:11:53 TCP/IP File Server started
+20-03-13 06:41:53 TCP/IP File Server started
+20-03-13 07:11:53 TCP/IP File Server started
+20-03-13 07:41:53 TCP/IP File Server started
+20-03-13 08:11:53 TCP/IP File Server started
+20-03-13 08:41:53 TCP/IP File Server started
+20-03-13 09:11:53 TCP/IP File Server started
+20-03-13 09:41:53 TCP/IP File Server started
+20-03-13 10:11:53 TCP/IP File Server started
+20-03-13 10:41:53 TCP/IP File Server started
+20-03-13 11:11:53 TCP/IP File Server started
+20-03-13 11:41:53 TCP/IP File Server started
+20-03-13 12:11:53 TCP/IP File Server started
+20-03-13 12:41:53 TCP/IP File Server started
+20-03-13 13:11:53 TCP/IP File Server started
+20-03-13 13:41:53 TCP/IP File Server started
+20-03-13 14:11:53 TCP/IP File Server started
+20-03-13 14:41:53 TCP/IP File Server started
+20-03-13 15:11:53 TCP/IP File Server started
+20-03-13 15:41:53 TCP/IP File Server started
+20-03-13 16:11:53 TCP/IP File Server started
+20-03-13 16:41:53 TCP/IP File Server started
+20-03-13 17:11:53 TCP/IP File Server started
+20-03-13 17:41:53 TCP/IP File Server started
+20-03-13 18:11:53 TCP/IP File Server started
+20-03-13 18:41:53 TCP/IP File Server started
+20-03-13 19:11:53 TCP/IP File Server started
+20-03-13 19:41:53 TCP/IP File Server started
+20-03-13 20:11:53 TCP/IP File Server started
+20-03-13 20:41:53 TCP/IP File Server started
+20-03-13 21:11:53 TCP/IP File Server started
+20-03-13 21:41:53 TCP/IP File Server started
+20-03-13 22:11:53 TCP/IP File Server started
+20-03-13 22:41:53 TCP/IP File Server started
+20-03-13 23:11:53 TCP/IP File Server started
+20-03-13 23:41:53 TCP/IP File Server started
+20-03-14 00:11:53 TCP/IP File Server started
+20-03-14 00:41:53 TCP/IP File Server started
+20-03-14 01:11:53 TCP/IP File Server started
+20-03-14 01:41:53 TCP/IP File Server started
+20-03-14 02:11:53 TCP/IP File Server started
+20-03-14 02:41:53 TCP/IP File Server started
+20-03-14 03:11:53 TCP/IP File Server started
+20-03-14 03:41:53 TCP/IP File Server started
+20-03-14 04:11:53 TCP/IP File Server started
+20-03-14 04:41:53 TCP/IP File Server started
+20-03-14 05:11:53 TCP/IP File Server started
+20-03-14 05:41:53 TCP/IP File Server started
+20-03-14 06:11:53 TCP/IP File Server started
+20-03-14 06:41:53 TCP/IP File Server started
+20-03-14 07:11:53 TCP/IP File Server started
+20-03-14 07:41:53 TCP/IP File Server started
+20-03-14 08:11:53 TCP/IP File Server started
+20-03-14 08:41:53 TCP/IP File Server started
+20-03-14 09:11:53 TCP/IP File Server started
+20-03-14 09:41:57 TCP/IP File Server started
+20-03-14 10:11:57 TCP/IP File Server started
+20-03-14 10:41:57 TCP/IP File Server started
+20-03-14 11:11:57 TCP/IP File Server started
+20-03-14 11:41:57 TCP/IP File Server started
+20-03-14 12:11:57 TCP/IP File Server started
+20-03-14 12:41:57 TCP/IP File Server started
+20-03-14 13:11:57 TCP/IP File Server started
+20-03-14 13:41:57 TCP/IP File Server started
+20-03-14 14:11:57 TCP/IP File Server started
+20-03-14 14:41:57 TCP/IP File Server started
+20-03-14 15:11:57 TCP/IP File Server started
+20-03-14 15:41:57 TCP/IP File Server started
+20-03-14 16:11:57 TCP/IP File Server started
+20-03-14 16:41:57 TCP/IP File Server started
+20-03-14 17:11:57 TCP/IP File Server started
+20-03-14 17:41:57 TCP/IP File Server started
+20-03-14 18:11:57 TCP/IP File Server started
+20-03-14 18:41:57 TCP/IP File Server started
+20-03-14 19:11:57 TCP/IP File Server started
+20-03-14 19:41:57 TCP/IP File Server started
+20-03-14 20:11:57 TCP/IP File Server started
+20-03-14 20:41:57 TCP/IP File Server started
+20-03-14 21:11:57 TCP/IP File Server started
+20-03-14 21:42:04 TCP/IP File Server started
+20-03-14 22:12:04 TCP/IP File Server started
+20-03-14 22:42:04 TCP/IP File Server started
+20-03-14 23:12:04 TCP/IP File Server started
+20-03-14 23:42:04 TCP/IP File Server started
+20-03-15 00:12:04 TCP/IP File Server started
+20-03-15 00:42:04 TCP/IP File Server started
+20-03-15 01:02:04  Net - #1 Mand3s connected 15-03-2020 1:02:04
+20-03-15 01:02:06  Net - #1 Mand3s disconnected 15-03-2020 1:02:06
+20-03-15 01:02:10  Net - #1 Mand3s connected 15-03-2020 1:02:10
+20-03-15 01:02:21  Net - KorN connected 15-03-2020 1:02:21
+20-03-15 01:02:23  Net - KorN connected 15-03-2020 1:02:23
+20-03-15 01:02:27  Net - HartCheat] connected 15-03-2020 1:02:27
+20-03-15 01:06:45  Net - sT# ErreAPe_ connected 15-03-2020 1:06:45
+20-03-15 01:06:49  Net - sT# ErreAPe_ connected 15-03-2020 1:06:49
+20-03-15 01:10:35  Net - sk!T.HughscL connected 15-03-2020 1:10:35
+20-03-15 01:12:00  Net - sT.- YnGwi3 connected 15-03-2020 1:12:00
+20-03-15 01:12:04 TCP/IP File Server started
+20-03-15 01:12:26  Net - HartCheat] connected 15-03-2020 1:12:26
+20-03-15 01:13:07  Net - sT# ErreAPe_ connected 15-03-2020 1:13:07
+20-03-15 01:13:16  Net - KorN disconnected 15-03-2020 1:13:16
+20-03-15 01:13:27  Net - sk!T.HughscL connected 15-03-2020 1:13:27
+20-03-15 01:13:32  Net - KorN connected 15-03-2020 1:13:32
+20-03-15 01:13:46  Net - KorN connected 15-03-2020 1:13:46
+20-03-15 01:14:25  Net - sT.- YnGwi3 connected 15-03-2020 1:14:25
+20-03-15 01:15:23  Net - sT.- YnGwi3 disconnected 15-03-2020 1:15:23
+20-03-15 01:15:31  Net - KorN disconnected 15-03-2020 1:15:31
+20-03-15 01:16:35  Net - sk!T.HughscL disconnected 15-03-2020 1:16:35
+20-03-15 01:17:07  Net - HartCheat] disconnected 15-03-2020 1:17:07
+20-03-15 01:17:10  Net - #1 Mand3s disconnected 15-03-2020 1:17:10
+20-03-15 01:17:17  Net - sT# ErreAPe_ disconnected 15-03-2020 1:17:17
+20-03-15 01:18:11  Net - KorN connected 15-03-2020 1:18:11
+20-03-15 01:18:12  Net - KorN disconnected 15-03-2020 1:18:12
+20-03-15 01:18:23  Net - #1 Mand3s connected 15-03-2020 1:18:23
+20-03-15 01:18:40  Net - KorN connected 15-03-2020 1:18:40
+20-03-15 01:19:22  Net - KorN connected 15-03-2020 1:19:22
+20-03-15 01:19:34  Net - HartCheat] connected 15-03-2020 1:19:34
+20-03-15 01:21:07  Net - HartCheat] disconnected 15-03-2020 1:21:07
+20-03-15 01:22:56  Net - sT.- YnGwi3 connected 15-03-2020 1:22:56
+20-03-15 01:27:15  Net - sT.- YnGwi3 disconnected 15-03-2020 1:27:15
+20-03-15 01:29:29  Net - KorN disconnected 15-03-2020 1:29:29
+20-03-15 01:30:27  Net - #1 Mand3s disconnected 15-03-2020 1:30:27
+20-03-15 01:42:04 TCP/IP File Server started
+20-03-15 01:52:00  Net - sT.- YnGwi3 connected 15-03-2020 1:52:00
+20-03-15 01:52:48  Net - sT.- YnGwi3 disconnected 15-03-2020 1:52:48
+20-03-15 02:12:04 TCP/IP File Server started
+20-03-15 02:42:04 TCP/IP File Server started
+20-03-15 03:12:04 TCP/IP File Server started
+20-03-15 03:42:04 TCP/IP File Server started
+20-03-15 04:12:04 TCP/IP File Server started
+20-03-15 04:42:04 TCP/IP File Server started
+20-03-15 05:12:04 TCP/IP File Server started
+20-03-15 05:42:04 TCP/IP File Server started
+20-03-15 06:12:04 TCP/IP File Server started
+20-03-15 06:42:04 TCP/IP File Server started
+20-03-15 07:12:04 TCP/IP File Server started
+20-03-15 07:42:04 TCP/IP File Server started
+20-03-15 17:15:08  Net - |D.Forc3|.Turko connected 15-03-2020 17:15:08
+20-03-15 17:15:14  Net - |D.Forc3|Aberracion connected 15-03-2020 17:15:14
+20-03-15 17:15:16  Net - |D.Forc3|Aberracion connected 15-03-2020 17:15:16
+20-03-15 17:16:02  Net - |D.Forc3|.Turko disconnected 15-03-2020 17:16:02
+20-03-15 17:16:05  Net - |D.Forc3|.Turko connected 15-03-2020 17:16:05
+20-03-15 17:16:08  Net - General Augusto Pinoche connected 15-03-2020 17:16:08
+20-03-15 17:16:16  Net - General Augusto Pinoche disconnected 15-03-2020 17:16:16
+20-03-15 17:16:36  Net - Pinochet salvo Chile connected 15-03-2020 17:16:36
+20-03-15 17:16:46  Net - Pinochet salvo Chile connected 15-03-2020 17:16:46
+20-03-15 17:17:26  Net - lax cho connected 15-03-2020 17:17:26
+20-03-15 17:17:32  Net - |D.Forc3|.Turko connected 15-03-2020 17:17:32
+20-03-15 17:18:54  Net - lax cho connected 15-03-2020 17:18:54
+20-03-15 17:31:12 TCP/IP File Server started
+20-03-15 17:34:23  Net - extrakt09- <3 connected 15-03-2020 17:34:23
+20-03-15 17:34:26  Net - extrakt09- <3 disconnected 15-03-2020 17:34:26
+20-03-15 17:36:36  Net - extrakt09- <3 connected 15-03-2020 17:36:36
+20-03-15 17:37:10  Net - extrakt09- <3 disconnected 15-03-2020 17:37:10
+20-03-15 17:39:46  Net - lax cho disconnected 15-03-2020 17:39:46
+20-03-15 17:39:52  Net - lax cho connected 15-03-2020 17:39:52
+20-03-15 17:50:03  Net - lax cho disconnected 15-03-2020 17:50:03
+20-03-15 17:50:07  Net - lax cho connected 15-03-2020 17:50:07
+20-03-15 17:50:13  Net - lax cho disconnected 15-03-2020 17:50:13
+20-03-15 17:50:17  Net - lax cho connected 15-03-2020 17:50:17
+20-03-15 17:50:20  Net - lax cho connected 15-03-2020 17:50:20
+20-03-15 18:00:39  Net - lax cho disconnected 15-03-2020 18:00:39
+20-03-15 18:00:43  Net - lax cho connected 15-03-2020 18:00:43
+20-03-15 18:01:12 TCP/IP File Server started
+20-03-15 18:11:08  Net - lax cho disconnected 15-03-2020 18:11:08
+20-03-15 18:11:08  Net - |D.Forc3|Aberracion disconnected 15-03-2020 18:11:08
+20-03-15 18:11:09  Net - Pinochet salvo Chile disconnected 15-03-2020 18:11:09
+20-03-15 18:11:11  Net - |D.Forc3|.Turko disconnected 15-03-2020 18:11:11
+20-03-15 18:11:14  Net - lax cho connected 15-03-2020 18:11:14
+20-03-15 18:11:22  Net - lax cho disconnected 15-03-2020 18:11:22
+20-03-15 18:31:12 TCP/IP File Server started
+20-03-15 19:01:12 TCP/IP File Server started
+20-03-15 19:31:12 TCP/IP File Server started
+20-03-15 20:01:12 TCP/IP File Server started
+20-03-15 20:31:12 TCP/IP File Server started
+20-03-15 21:01:12 TCP/IP File Server started
+20-03-15 21:31:12 TCP/IP File Server started
+20-03-15 21:52:58  Net - #KbN! Shaka! connected 15-03-2020 21:52:58
+20-03-15 21:53:05  Net - #KbN! ChronoCL connected 15-03-2020 21:53:05
+20-03-15 21:53:09  Net - #KbN! Nitho connected 15-03-2020 21:53:09
+20-03-15 21:53:16  Net - #KbN! ChronoCL disconnected 15-03-2020 21:53:16
+20-03-15 21:53:21  Net - #KbN! ChronoCL connected 15-03-2020 21:53:21
+20-03-15 21:53:27  Net - #KbN! Nitho connected 15-03-2020 21:53:27
+20-03-15 21:54:02  Net - TK | LeprosycL connected 15-03-2020 21:54:02
+20-03-15 21:54:15  Net - TK| WildR4P` connected 15-03-2020 21:54:15
+20-03-15 21:54:23  Net - TK | LeprosycL connected 15-03-2020 21:54:23
+20-03-15 21:54:24  Net - TK| Maaxis* connected 15-03-2020 21:54:24
+20-03-15 21:54:28  Net - TK| Maaxis* disconnected 15-03-2020 21:54:28
+20-03-15 21:54:30  Net - TK | LeprosycL disconnected 15-03-2020 21:54:30
+20-03-15 21:54:31  Net - TK| Maaxis* connected 15-03-2020 21:54:31
+20-03-15 21:54:39  Net - TK| LeprosycL connected 15-03-2020 21:54:39
+20-03-15 21:54:45  Net - #KbN! Nitho connected 15-03-2020 21:54:45
+20-03-15 21:54:51  Net - TK| LeprosycL disconnected 15-03-2020 21:54:51
+20-03-15 21:54:56  Net - TK| Maaxis* disconnected 15-03-2020 21:54:56
+20-03-15 21:54:58  Net - TK| LeprosycL connected 15-03-2020 21:54:58
+20-03-15 21:54:59  Net - TK| Maaxis* connected 15-03-2020 21:54:59
+20-03-15 21:56:05  Net - #1 Mand3s connected 15-03-2020 21:56:05
+20-03-15 21:56:14  Net - TK| LeprosycL connected 15-03-2020 21:56:14
+20-03-15 21:56:15  Net - sT.- YnGwi3 connected 15-03-2020 21:56:15
+20-03-15 21:56:17  Net - TK| Maaxis* disconnected 15-03-2020 21:56:17
+20-03-15 21:56:18  Net - TK| WildR4P` disconnected 15-03-2020 21:56:18
+20-03-15 21:56:46  Net - TK| LeprosycL connected 15-03-2020 21:56:46
+20-03-15 21:56:56  Net - sT.- YnGwi3 connected 15-03-2020 21:56:56
+20-03-15 21:58:24  Net - #1 Mand3s disconnected 15-03-2020 21:58:24
+20-03-15 21:58:45  Net - sT.- YnGwi3 disconnected 15-03-2020 21:58:45
+20-03-15 21:59:46  Net - #KbN! Nitho disconnected 15-03-2020 21:59:46
+20-03-15 21:59:47  Net - #KbN! Shaka! disconnected 15-03-2020 21:59:47
+20-03-15 21:59:53  Net - TK| LeprosycL disconnected 15-03-2020 21:59:53
+20-03-15 21:59:53  Net - #KbN! ChronoCL disconnected 15-03-2020 21:59:53
+20-03-15 22:01:12 TCP/IP File Server started
+20-03-15 22:31:12 TCP/IP File Server started
+20-03-15 23:01:12 TCP/IP File Server started
+20-03-15 23:31:12 TCP/IP File Server started
+20-03-15 23:42:26  Net - #1 Mand3s connected 15-03-2020 23:42:26
+20-03-15 23:42:52  Net - Necro connected 15-03-2020 23:42:52
+20-03-15 23:42:53  Net - sT#' SeenzacL connected 15-03-2020 23:42:53
+20-03-15 23:42:55  Net - sT#' SeenzacL connected 15-03-2020 23:42:55
+20-03-15 23:43:17  Net - Necro connected 15-03-2020 23:43:17
+20-03-15 23:43:17  Net - J4zz connected 15-03-2020 23:43:17
+20-03-15 23:43:25  Net - KorN connected 15-03-2020 23:43:25
+20-03-15 23:43:27  Net - KorN connected 15-03-2020 23:43:27
+20-03-15 23:43:42  Net - HartCheat] connected 15-03-2020 23:43:42
+20-03-15 23:44:12  Net - Warfare connected 15-03-2020 23:44:12
+20-03-15 23:44:56  Net - J4zz disconnected 15-03-2020 23:44:56
+20-03-15 23:44:58  Net - J4zz connected 15-03-2020 23:44:58
+20-03-15 23:45:03  Net - J4zz connected 15-03-2020 23:45:03
+20-03-15 23:45:29  Net - Warfare disconnected 15-03-2020 23:45:29
+20-03-15 23:45:33  Net - sT#' SeenzacL disconnected 15-03-2020 23:45:33
+20-03-15 23:45:33  Net - #1 Mand3s disconnected 15-03-2020 23:45:33
+20-03-15 23:45:33  Net - KorN disconnected 15-03-2020 23:45:33
+20-03-15 23:45:34  Net - HartCheat] disconnected 15-03-2020 23:45:34
+20-03-15 23:45:38  Net - J4zz disconnected 15-03-2020 23:45:38
+20-03-15 23:45:42  Net - Necro disconnected 15-03-2020 23:45:42
+20-03-16 00:01:12 TCP/IP File Server started
+20-03-16 00:31:12 TCP/IP File Server started
+20-03-16 01:01:12 TCP/IP File Server started
+20-03-16 01:31:12 TCP/IP File Server started
+20-03-16 01:34:23  Net - |D.Forc3|.Turko connected 16-03-2020 1:34:23
+20-03-16 01:35:48  Net - KorN connected 16-03-2020 1:35:48
+20-03-16 01:36:03  Net - KorN connected 16-03-2020 1:36:03
+20-03-16 01:36:39  Net - KorN disconnected 16-03-2020 1:36:39
+20-03-16 01:37:16  Net - |D.Forc3|.Turko disconnected 16-03-2020 1:37:16
+20-03-16 02:01:12 TCP/IP File Server started
+20-03-16 02:31:12 TCP/IP File Server started
+20-03-16 03:01:12 TCP/IP File Server started
+20-03-16 03:31:12 TCP/IP File Server started
+20-03-16 04:01:12 TCP/IP File Server started
+20-03-16 04:31:12 TCP/IP File Server started
+20-03-16 05:01:12 TCP/IP File Server started
+20-03-16 05:31:12 TCP/IP File Server started
+20-03-16 06:01:12 TCP/IP File Server started
+20-03-16 06:31:12 TCP/IP File Server started
+20-03-16 07:01:12 TCP/IP File Server started
+20-03-16 07:31:12 TCP/IP File Server started
+20-03-16 08:01:12 TCP/IP File Server started
+20-03-16 08:31:12 TCP/IP File Server started
+20-03-16 09:01:12 TCP/IP File Server started
+20-03-16 09:31:12 TCP/IP File Server started
+20-03-16 10:01:12 TCP/IP File Server started
+20-03-16 10:31:12 TCP/IP File Server started
+20-03-16 11:01:12 TCP/IP File Server started
+20-03-16 11:31:12 TCP/IP File Server started
+20-03-16 12:01:12 TCP/IP File Server started
+20-03-16 12:31:12 TCP/IP File Server started
+20-03-16 13:01:12 TCP/IP File Server started
+20-03-16 13:31:12 TCP/IP File Server started
+20-03-16 14:01:12 TCP/IP File Server started
+20-03-16 14:31:12 TCP/IP File Server started
+20-03-16 15:01:12 TCP/IP File Server started
+20-03-16 15:31:12 TCP/IP File Server started
+20-03-16 16:01:12 TCP/IP File Server started
+20-03-16 16:31:12 TCP/IP File Server started
+20-03-16 17:01:12 TCP/IP File Server started
+20-03-16 17:31:12 TCP/IP File Server started
+20-03-16 18:01:12 TCP/IP File Server started
+20-03-16 18:31:12 TCP/IP File Server started
+20-03-16 19:01:12 TCP/IP File Server started
+20-03-16 19:31:12 TCP/IP File Server started
+20-03-16 20:01:12 TCP/IP File Server started
+20-03-16 20:31:12 TCP/IP File Server started
+20-03-16 21:01:12 TCP/IP File Server started
+20-03-16 21:31:12 TCP/IP File Server started
+20-03-16 21:39:48 Destroying Devices.
+20-03-16 21:39:48    End of Log.

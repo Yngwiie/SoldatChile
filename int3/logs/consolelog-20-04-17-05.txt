@@ -1,0 +1,1512 @@
+20-04-17 15:40:59    Console Log Started
+20-04-17 15:40:59 Welcome to Soldat 1.7.1
+20-04-17 15:40:59  [*] Preparing scripts to be launched
+20-04-17 15:40:59  [*] [BasicCommands] Loading bytecode
+20-04-17 15:40:59  [*] [BasicCommands] Bytecode loaded
+20-04-17 15:40:59  [*] Compiling comandomaps -> maps.pas...
+20-04-17 15:40:59  [*] comandomaps compiled
+20-04-17 15:40:59  [*] Compiling match -> match.pas...
+20-04-17 15:40:59  [*] match compiled
+20-04-17 15:40:59  [*] Compiling restablecerpass -> restablecerpass.pas...
+20-04-17 15:40:59  [*] restablecerpass compiled
+20-04-17 15:40:59  [*] Done
+20-04-17 15:40:59 Lothic - Gothic Lobby Room
+20-04-17 15:40:59 Loaded weapons mod "Default v1.8"
+20-04-17 15:40:59  Connection for file server started. Port: 23110
+20-04-17 15:40:59 Registering server @ 88.99.234.252
+20-04-17 15:41:26 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-17 15:41:27 D.Forc3 Wagyu joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-17 15:41:27 D.Forc3 Wagyu has joined alpha team.
+20-04-17 15:41:42 [D.Forc3 Wagyu] !map ash
+20-04-17 15:41:47 ctf_Ash by chakapoko maker
+20-04-17 15:41:54 181.42.46.237:17359|32439DD33E8 requesting game...
+20-04-17 15:41:55 KillMe! joining game (181.42.46.237:17359) HWID:32439DD33E8
+20-04-17 15:41:55 KillMe! has joined bravo team.
+20-04-17 15:41:58 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:42:03 [D.Forc3 Wagyu] !map viet
+20-04-17 15:42:08 Viet
+20-04-17 15:42:14 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:42:17 KillMe! captured the Red Flag
+20-04-17 15:42:20 [D.Forc3 Wagyu] !sp
+20-04-17 15:42:20 Clave modificada a:609
+20-04-17 15:42:25 [D.Forc3 Wagyu] !dp
+20-04-17 15:42:25 Clave reseteada
+20-04-17 15:42:28 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:42:29 [D.Forc3 Wagyu] !setpassword
+20-04-17 15:42:29 Clave modificada a:317
+20-04-17 15:42:32 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:42:33 [D.Forc3 Wagyu] !delpassword
+20-04-17 15:42:33 Clave reseteada
+20-04-17 15:42:34 [KillMe!] !help
+20-04-17 15:42:36 [D.Forc3 Wagyu] !maps
+20-04-17 15:42:37 [KillMe!] !commands
+20-04-17 15:42:38 [D.Forc3 Wagyu] !p
+20-04-17 15:42:38 Pausando...
+20-04-17 15:42:41 [D.Forc3 Wagyu] !up
+20-04-17 15:42:42 Despausando en: 3
+20-04-17 15:42:43 Despausando en: 2
+20-04-17 15:42:44 Despausando en: 1
+20-04-17 15:42:45 Go!
+20-04-17 15:42:50 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:42:55 (1) D.Forc3 Wagyu killed (2) KillMe! with LAW
+20-04-17 15:42:59 D.Forc3 Wagyu returned the Red Flag
+20-04-17 15:43:01 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:43:04 D.Forc3 Wagyu captured the Blue Flag
+20-04-17 15:43:15 D.Forc3 Wagyu scores for Alpha Team
+20-04-17 15:43:22 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:43:32 D.Forc3 Wagyu captured the Blue Flag
+20-04-17 15:43:32 (2) KillMe! killed (1) D.Forc3 Wagyu with LAW
+20-04-17 15:43:36 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:43:37 KillMe! captured the Red Flag
+20-04-17 15:43:44 (2) KillMe! killed (1) D.Forc3 Wagyu with Grenade
+20-04-17 15:43:53 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:43:58 KillMe! scores for Bravo Team
+20-04-17 15:44:02 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:44:08 (2) KillMe! killed (1) D.Forc3 Wagyu with Grenade
+20-04-17 15:44:11 KillMe! captured the Red Flag
+20-04-17 15:44:12 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:44:20 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:44:25 (2) KillMe! killed (1) D.Forc3 Wagyu with Grenade
+20-04-17 15:44:28 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:44:36 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:44:44 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:44:47 D.Forc3 Wagyu captured the Blue Flag
+20-04-17 15:44:48 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:44:57 D.Forc3 Wagyu returned the Red Flag
+20-04-17 15:44:58 D.Forc3 Wagyu scores for Alpha Team
+20-04-17 15:45:03 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:45:07 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:45:07 KillMe! captured the Red Flag
+20-04-17 15:45:11 (2) KillMe! killed (1) D.Forc3 Wagyu with Barrett M82A1
+20-04-17 15:45:23 (1) D.Forc3 Wagyu killed (2) KillMe! with LAW
+20-04-17 15:45:29 D.Forc3 Wagyu captured the Blue Flag
+20-04-17 15:45:31 (1) D.Forc3 Wagyu killed (2) KillMe! with Grenade
+20-04-17 15:45:39 D.Forc3 Wagyu returned the Red Flag
+20-04-17 15:45:45 D.Forc3 Wagyu scores for Alpha Team
+20-04-17 15:45:55 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:46:01 D.Forc3 Wagyu captured the Blue Flag
+20-04-17 15:46:07 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:46:16 (1) D.Forc3 Wagyu killed (2) KillMe! with Barrett M82A1
+20-04-17 15:46:19 KillMe! has left bravo team.
+20-04-17 15:46:21 D.Forc3 Wagyu has left alpha team.
+20-04-17 15:46:21 Server password changed to scl
+20-04-17 15:46:39 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-17 15:46:43 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-17 15:46:46 RtP| SontercL MvP joining game (190.162.248.123:23073) HWID:2635D354B92
+20-04-17 15:46:46 RtP| SontercL MvP has joined alpha team.
+20-04-17 15:46:47 RtP| SontercL MvP has left alpha team.
+20-04-17 15:46:47 Server password changed to scl
+20-04-17 15:46:50 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-17 15:47:15 Time Left: 5 minutes
+20-04-17 15:48:15 Time Left: 4 minutes
+20-04-17 15:49:15 Time Left: 3 minutes
+20-04-17 15:50:15 Time Left: 2 minutes
+20-04-17 15:51:15 Time Left: 1 minutes
+20-04-17 15:52:15 Next map: Lobby
+20-04-17 15:52:20 Lothic - Gothic Lobby Room
+20-04-17 15:57:20 Time Left: 5 minutes
+20-04-17 15:58:20 Time Left: 4 minutes
+20-04-17 15:59:20 Time Left: 3 minutes
+20-04-17 15:59:36 46.238.229.159:23073|3BD86402A31 requesting game...
+20-04-17 16:00:20 Time Left: 2 minutes
+20-04-17 16:01:20 Time Left: 1 minutes
+20-04-17 16:02:20 Next map: Lobby
+20-04-17 16:02:25 Lothic - Gothic Lobby Room
+20-04-17 16:07:25 Time Left: 5 minutes
+20-04-17 16:08:25 Time Left: 4 minutes
+20-04-17 16:09:25 Time Left: 3 minutes
+20-04-17 16:10:25 Time Left: 2 minutes
+20-04-17 16:11:25 Time Left: 1 minutes
+20-04-17 16:12:25 Next map: Lobby
+20-04-17 16:12:31 Lothic - Gothic Lobby Room
+20-04-17 16:17:31 Time Left: 5 minutes
+20-04-17 16:18:31 Time Left: 4 minutes
+20-04-17 16:19:31 Time Left: 3 minutes
+20-04-17 16:20:31 Time Left: 2 minutes
+20-04-17 16:21:31 Time Left: 1 minutes
+20-04-17 16:22:31 Next map: Lobby
+20-04-17 16:22:36 Lothic - Gothic Lobby Room
+20-04-17 16:27:36 Time Left: 5 minutes
+20-04-17 16:28:36 Time Left: 4 minutes
+20-04-17 16:29:36 Time Left: 3 minutes
+20-04-17 16:30:36 Time Left: 2 minutes
+20-04-17 16:31:36 Time Left: 1 minutes
+20-04-17 16:32:36 Next map: Lobby
+20-04-17 16:32:41 Lothic - Gothic Lobby Room
+20-04-17 16:37:41 Time Left: 5 minutes
+20-04-17 16:38:41 Time Left: 4 minutes
+20-04-17 16:39:41 Time Left: 3 minutes
+20-04-17 16:40:41 Time Left: 2 minutes
+20-04-17 16:41:41 Time Left: 1 minutes
+20-04-17 16:42:41 Next map: Lobby
+20-04-17 16:42:47 Lothic - Gothic Lobby Room
+20-04-17 16:47:47 Time Left: 5 minutes
+20-04-17 16:48:47 Time Left: 4 minutes
+20-04-17 16:49:47 Time Left: 3 minutes
+20-04-17 16:50:47 Time Left: 2 minutes
+20-04-17 16:51:47 Time Left: 1 minutes
+20-04-17 16:52:46 Next map: Lobby
+20-04-17 16:52:52 Lothic - Gothic Lobby Room
+20-04-17 16:57:52 Time Left: 5 minutes
+20-04-17 16:58:52 Time Left: 4 minutes
+20-04-17 16:59:52 Time Left: 3 minutes
+20-04-17 17:00:52 Time Left: 2 minutes
+20-04-17 17:01:52 Time Left: 1 minutes
+20-04-17 17:02:52 Next map: Lobby
+20-04-17 17:02:57 Lothic - Gothic Lobby Room
+20-04-17 17:07:57 Time Left: 5 minutes
+20-04-17 17:08:57 Time Left: 4 minutes
+20-04-17 17:09:57 Time Left: 3 minutes
+20-04-17 17:10:57 Time Left: 2 minutes
+20-04-17 17:11:57 Time Left: 1 minutes
+20-04-17 17:12:57 Next map: Lobby
+20-04-17 17:13:02 Lothic - Gothic Lobby Room
+20-04-17 17:18:02 Time Left: 5 minutes
+20-04-17 17:19:02 Time Left: 4 minutes
+20-04-17 17:20:02 Time Left: 3 minutes
+20-04-17 17:21:02 Time Left: 2 minutes
+20-04-17 17:22:02 Time Left: 1 minutes
+20-04-17 17:23:02 Next map: Lobby
+20-04-17 17:23:08 Lothic - Gothic Lobby Room
+20-04-17 17:28:08 Time Left: 5 minutes
+20-04-17 17:29:08 Time Left: 4 minutes
+20-04-17 17:30:08 Time Left: 3 minutes
+20-04-17 17:31:08 Time Left: 2 minutes
+20-04-17 17:32:08 Time Left: 1 minutes
+20-04-17 17:33:08 Next map: Lobby
+20-04-17 17:33:13 Lothic - Gothic Lobby Room
+20-04-17 17:38:13 Time Left: 5 minutes
+20-04-17 17:39:13 Time Left: 4 minutes
+20-04-17 17:40:13 Time Left: 3 minutes
+20-04-17 17:41:13 Time Left: 2 minutes
+20-04-17 17:42:13 Time Left: 1 minutes
+20-04-17 17:43:13 Next map: Lobby
+20-04-17 17:43:18 Lothic - Gothic Lobby Room
+20-04-17 17:48:18 Time Left: 5 minutes
+20-04-17 17:49:18 Time Left: 4 minutes
+20-04-17 17:50:18 Time Left: 3 minutes
+20-04-17 17:51:18 Time Left: 2 minutes
+20-04-17 17:52:18 Time Left: 1 minutes
+20-04-17 17:52:41 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 17:52:41 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 17:52:41 [UnK] KorN has joined as spectator.
+20-04-17 17:52:43 [UnK] KorN has joined bravo team.
+20-04-17 17:53:18 Next map: Lobby
+20-04-17 17:53:24 Lothic - Gothic Lobby Room
+20-04-17 17:53:52 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 17:53:53 [6] KING KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 17:53:53 [6] KING KorN has joined alpha team.
+20-04-17 17:56:27 [UnK] KorN has left bravo team.
+20-04-17 17:56:41 [6] KING KorN has left alpha team.
+20-04-17 17:56:41 Server password changed to scl
+20-04-17 17:56:45 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 17:56:46 K!NG| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 17:56:46 K!NG| KorN has joined alpha team.
+20-04-17 17:56:54 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 17:56:54 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 17:56:54 [UnK] KorN has joined as spectator.
+20-04-17 17:56:56 [UnK] KorN has joined bravo team.
+20-04-17 17:58:24 Time Left: 5 minutes
+20-04-17 17:58:33 [UnK] KorN has joined alpha team.
+20-04-17 17:59:24 Time Left: 4 minutes
+20-04-17 18:00:06 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-17 18:00:09 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-17 18:00:10 S2 ~ bio joining game (201.239.28.137:23073) HWID:3E87BD17409
+20-04-17 18:00:10 S2 ~ bio has joined as spectator.
+20-04-17 18:00:16 S2 ~ bio has left spectators
+20-04-17 18:00:24 Time Left: 3 minutes
+20-04-17 18:01:24 Time Left: 2 minutes
+20-04-17 18:02:24 Time Left: 1 minutes
+20-04-17 18:03:01 K!NG| KorN has left alpha team.
+20-04-17 18:03:08 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 18:03:09 K!NG| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 18:03:09 K!NG| KorN has joined alpha team.
+20-04-17 18:03:16 152.174.13.85:1029|458BAB70B7F requesting game...
+20-04-17 18:03:24 Next map: Lobby
+20-04-17 18:03:29 Lothic - Gothic Lobby Room
+20-04-17 18:05:30 [[UnK] KorN] !Map ctf_Ash
+20-04-17 18:05:36 ctf_Ash by chakapoko maker
+20-04-17 18:05:44 K!NG| KorN has joined bravo team.
+20-04-17 18:05:46 [K!NG| KorN] !R
+20-04-17 18:05:46 Reiniciando...
+20-04-17 18:05:52  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 18:05:52 ctf_Ash by chakapoko maker
+20-04-17 18:06:01 K!NG| KorN captured the Red Flag
+20-04-17 18:06:10 K!NG| KorN scores for Bravo Team
+20-04-17 18:06:18 [K!NG| KorN] !Map ctf_Rotten
+20-04-17 18:06:24 Rotten by Biggles
+20-04-17 18:06:33 K!NG| KorN captured the Red Flag
+20-04-17 18:06:40 K!NG| KorN scores for Bravo Team
+20-04-17 18:06:50 [K!NG| KorN] !map ctf_Lobby
+20-04-17 18:06:50 Map not found (ctf_lobby)
+20-04-17 18:07:00 [K!NG| KorN] !map ctf_icebeam
+20-04-17 18:07:06 IceBeam by Zakath, Suow, Poop
+20-04-17 18:08:52 [UnK] KorN has left alpha team.
+20-04-17 18:09:05 K!NG| KorN has left bravo team.
+20-04-17 18:09:05 Server password changed to scl
+20-04-17 18:12:04 190.101.185.95:23073|1889CFCD036 requesting game...
+20-04-17 18:12:05 Time Left: 5 minutes
+20-04-17 18:13:05 Time Left: 4 minutes
+20-04-17 18:14:05 Time Left: 3 minutes
+20-04-17 18:15:05 Time Left: 2 minutes
+20-04-17 18:16:05 Time Left: 1 minutes
+20-04-17 18:17:05 Next map: Lobby
+20-04-17 18:17:11 Lothic - Gothic Lobby Room
+20-04-17 18:22:11 Time Left: 5 minutes
+20-04-17 18:23:11 Time Left: 4 minutes
+20-04-17 18:24:11 Time Left: 3 minutes
+20-04-17 18:25:11 Time Left: 2 minutes
+20-04-17 18:26:11 Time Left: 1 minutes
+20-04-17 18:27:11 Next map: Lobby
+20-04-17 18:27:16 Lothic - Gothic Lobby Room
+20-04-17 18:27:47 200.74.114.67:23073|1DDD0A680E3 requesting game...
+20-04-17 18:32:16 Time Left: 5 minutes
+20-04-17 18:33:16 Time Left: 4 minutes
+20-04-17 18:34:16 Time Left: 3 minutes
+20-04-17 18:35:16 Time Left: 2 minutes
+20-04-17 18:36:16 Time Left: 1 minutes
+20-04-17 18:37:16 Next map: Lobby
+20-04-17 18:37:21 Lothic - Gothic Lobby Room
+20-04-17 18:42:21 Time Left: 5 minutes
+20-04-17 18:43:21 Time Left: 4 minutes
+20-04-17 18:44:21 Time Left: 3 minutes
+20-04-17 18:44:26 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 18:44:27 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 18:44:27 KorN.cN has joined as spectator.
+20-04-17 18:44:29 KorN.cN has joined alpha team.
+20-04-17 18:44:51 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 18:44:53 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 18:44:53 RtP| KorN has joined bravo team.
+20-04-17 18:45:09 [KorN.cN] !map ash
+20-04-17 18:45:14 ctf_Ash by chakapoko maker
+20-04-17 18:45:24 KorN.cN captured the Blue Flag
+20-04-17 18:45:33 KorN.cN scores for Alpha Team
+20-04-17 18:45:40 [KorN.cN] !map lobby
+20-04-17 18:45:45 Lothic - Gothic Lobby Room
+20-04-17 18:46:11 [KorN.cN] !Map viet
+20-04-17 18:46:17 Viet
+20-04-17 18:46:28 KorN.cN captured the Blue Flag
+20-04-17 18:46:38 KorN.cN scores for Alpha Team
+20-04-17 18:46:45 [KorN.cN] !map lobby
+20-04-17 18:46:50 Lothic - Gothic Lobby Room
+20-04-17 18:46:56 KorN.cN has left alpha team.
+20-04-17 18:46:59 RtP| KorN has left bravo team.
+20-04-17 18:46:59 Server password changed to scl
+20-04-17 18:51:50 Time Left: 5 minutes
+20-04-17 18:52:50 Time Left: 4 minutes
+20-04-17 18:53:50 Time Left: 3 minutes
+20-04-17 18:54:50 Time Left: 2 minutes
+20-04-17 18:55:50 Time Left: 1 minutes
+20-04-17 18:56:50 Next map: Lobby
+20-04-17 18:56:55 Lothic - Gothic Lobby Room
+20-04-17 19:01:55 Time Left: 5 minutes
+20-04-17 19:02:55 Time Left: 4 minutes
+20-04-17 19:03:55 Time Left: 3 minutes
+20-04-17 19:04:55 Time Left: 2 minutes
+20-04-17 19:05:55 Time Left: 1 minutes
+20-04-17 19:06:55 Next map: Lobby
+20-04-17 19:07:01 Lothic - Gothic Lobby Room
+20-04-17 19:12:01 Time Left: 5 minutes
+20-04-17 19:13:01 Time Left: 4 minutes
+20-04-17 19:14:01 Time Left: 3 minutes
+20-04-17 19:15:01 Time Left: 2 minutes
+20-04-17 19:16:01 Time Left: 1 minutes
+20-04-17 19:17:01 Next map: Lobby
+20-04-17 19:17:06 Lothic - Gothic Lobby Room
+20-04-17 19:22:06 Time Left: 5 minutes
+20-04-17 19:23:06 Time Left: 4 minutes
+20-04-17 19:24:06 Time Left: 3 minutes
+20-04-17 19:25:06 Time Left: 2 minutes
+20-04-17 19:26:06 Time Left: 1 minutes
+20-04-17 19:27:06 Next map: Lobby
+20-04-17 19:27:11 Lothic - Gothic Lobby Room
+20-04-17 19:29:55 190.46.64.32:23073|ED4D357C567 requesting game...
+20-04-17 19:29:59 190.46.64.32:23073|ED4D357C567 requesting game...
+20-04-17 19:32:11 Time Left: 5 minutes
+20-04-17 19:33:11 Time Left: 4 minutes
+20-04-17 19:34:11 Time Left: 3 minutes
+20-04-17 19:35:11 Time Left: 2 minutes
+20-04-17 19:36:11 Time Left: 1 minutes
+20-04-17 19:37:11 Next map: Lobby
+20-04-17 19:37:17 Lothic - Gothic Lobby Room
+20-04-17 19:42:17 Time Left: 5 minutes
+20-04-17 19:43:17 Time Left: 4 minutes
+20-04-17 19:44:17 Time Left: 3 minutes
+20-04-17 19:45:17 Time Left: 2 minutes
+20-04-17 19:46:17 Time Left: 1 minutes
+20-04-17 19:46:29 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 19:46:29 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 19:46:29 KorN.cN has joined as spectator.
+20-04-17 19:46:31 KorN.cN has joined bravo team.
+20-04-17 19:46:35 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 19:46:36 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 19:46:36 RtP| KorN has joined bravo team.
+20-04-17 19:46:40 RtP| KorN has joined alpha team.
+20-04-17 19:47:11 KorN.cN has left bravo team.
+20-04-17 19:47:14 RtP| KorN has left alpha team.
+20-04-17 19:47:14 Server password changed to scl
+20-04-17 19:47:17 Next map: Lobby
+20-04-17 19:47:22 Lothic - Gothic Lobby Room
+20-04-17 19:52:22 Time Left: 5 minutes
+20-04-17 19:53:22 Time Left: 4 minutes
+20-04-17 19:54:22 Time Left: 3 minutes
+20-04-17 19:55:22 Time Left: 2 minutes
+20-04-17 19:56:22 Time Left: 1 minutes
+20-04-17 19:57:22 Next map: Lobby
+20-04-17 19:57:27 Lothic - Gothic Lobby Room
+20-04-17 20:00:11 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 20:00:11 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 20:00:11 KorN.cN has joined as spectator.
+20-04-17 20:00:13 KorN.cN has left spectators
+20-04-17 20:00:13 Server password changed to scl
+20-04-17 20:01:25 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 20:01:25 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 20:01:25 KorN.cN has joined as spectator.
+20-04-17 20:01:26 KorN.cN has joined alpha team.
+20-04-17 20:01:32 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 20:01:33 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 20:01:33 RtP| KorN has joined bravo team.
+20-04-17 20:01:39 [RtP| KorN] !map ash
+20-04-17 20:01:44 ctf_Ash by chakapoko maker
+20-04-17 20:01:47 [RtP| KorN] !m
+20-04-17 20:01:49 RtP| KorN has left bravo team.
+20-04-17 20:01:50 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 20:01:51 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 20:01:51 RtP| KorN has joined bravo team.
+20-04-17 20:01:56 [RtP| KorN] !r
+20-04-17 20:01:56 Reiniciando...
+20-04-17 20:02:02  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 20:02:02 ctf_Ash by chakapoko maker
+20-04-17 20:02:10 RtP| KorN captured the Red Flag
+20-04-17 20:02:20 RtP| KorN scores for Bravo Team
+20-04-17 20:02:25 [RtP| KorN] !Map ctf_Rotten
+20-04-17 20:02:31 Rotten by Biggles
+20-04-17 20:02:40 RtP| KorN captured the Red Flag
+20-04-17 20:02:46 RtP| KorN scores for Bravo Team
+20-04-17 20:02:50 [RtP| KorN] !map lobby
+20-04-17 20:02:56 Lothic - Gothic Lobby Room
+20-04-17 20:03:11 KorN.cN has left alpha team.
+20-04-17 20:03:14 RtP| KorN has left bravo team.
+20-04-17 20:03:14 Server password changed to scl
+20-04-17 20:05:44 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 20:05:44 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 20:05:44 KorN.cN has joined as spectator.
+20-04-17 20:05:46 KorN.cN has joined alpha team.
+20-04-17 20:05:50 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 20:05:50 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 20:05:50 RtP| KorN has joined bravo team.
+20-04-17 20:06:11 [RtP| KorN] !map ctf_VIET
+20-04-17 20:06:17 Viet
+20-04-17 20:06:35 KorN.cN captured the Blue Flag
+20-04-17 20:06:43 KorN.cN scores for Alpha Team
+20-04-17 20:06:55 [KorN.cN] !mAP CTF_ROTTEN
+20-04-17 20:07:01 Rotten by Biggles
+20-04-17 20:07:08 KorN.cN captured the Blue Flag
+20-04-17 20:07:14 KorN.cN scores for Alpha Team
+20-04-17 20:07:20 [KorN.cN] !MAP LOBBY
+20-04-17 20:07:26 Lothic - Gothic Lobby Room
+20-04-17 20:09:35 KorN.cN has left alpha team.
+20-04-17 20:09:37 RtP| KorN has left bravo team.
+20-04-17 20:09:37 Server password changed to scl
+20-04-17 20:09:44 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 20:09:44 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 20:09:44 KorN.cN has joined as spectator.
+20-04-17 20:09:46 KorN.cN has joined alpha team.
+20-04-17 20:09:49 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 20:09:50 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 20:09:50 RtP| KorN has joined bravo team.
+20-04-17 20:10:06 [KorN.cN] !map laos
+20-04-17 20:10:11 Laos
+20-04-17 20:10:25 KorN.cN captured the Blue Flag
+20-04-17 20:10:37 KorN.cN scores for Alpha Team
+20-04-17 20:10:46 [KorN.cN] !map icebeam
+20-04-17 20:10:51 IceBeam by Zakath, Suow, Poop
+20-04-17 20:11:05 RtP| KorN captured the Red Flag
+20-04-17 20:11:14 RtP| KorN captured the Red Flag
+20-04-17 20:11:15 RtP| KorN scores for Bravo Team
+20-04-17 20:11:31 [RtP| KorN] !map wretch
+20-04-17 20:11:37 Wretch by AdamD
+20-04-17 20:11:48 KorN.cN captured the Blue Flag
+20-04-17 20:11:55 KorN.cN scores for Alpha Team
+20-04-17 20:11:59 [KorN.cN] !map lobby
+20-04-17 20:12:05 Lothic - Gothic Lobby Room
+20-04-17 20:12:08 KorN.cN has left alpha team.
+20-04-17 20:12:10 RtP| KorN has left bravo team.
+20-04-17 20:12:10 Server password changed to scl
+20-04-17 20:13:23 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 20:13:23 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 20:13:23 KorN.cN has joined as spectator.
+20-04-17 20:13:25 KorN.cN has joined bravo team.
+20-04-17 20:13:27 201.239.214.185:58576|1729B102EBF requesting game...
+20-04-17 20:13:28 RtP| KorN joining game (201.239.214.185:58576) HWID:1729B102EBF
+20-04-17 20:13:28 RtP| KorN has joined alpha team.
+20-04-17 20:13:39 [RtP| KorN] !Map spark
+20-04-17 20:13:45 Spark - By Vauat
+20-04-17 20:13:53 RtP| KorN captured the Blue Flag
+20-04-17 20:13:59 RtP| KorN scores for Alpha Team
+20-04-17 20:14:09 [RtP| KorN] !Map ctf_icebeam
+20-04-17 20:14:15 IceBeam by Zakath, Suow, Poop
+20-04-17 20:14:43 [KorN.cN] !map b2b
+20-04-17 20:14:49 B2B
+20-04-17 20:14:57 [KorN.cN] !map ctf icebeam
+20-04-17 20:14:57 Map not found (ctf icebeam)
+20-04-17 20:14:59 201.239.63.70:63254|BE9BD586D65 requesting game...
+20-04-17 20:15:02 [KorN.cN] !map icebeam
+20-04-17 20:15:03 201.239.63.70:63254|BE9BD586D65 requesting game...
+20-04-17 20:15:08 IceBeam by Zakath, Suow, Poop
+20-04-17 20:15:08 201.239.63.70:63254|BE9BD586D65 requesting game...
+20-04-17 20:15:10 [KnF] Yakuza joining game (201.239.63.70:63254) HWID:BE9BD586D65
+20-04-17 20:15:10 [KnF] Yakuza has joined as spectator.
+20-04-17 20:15:14 [KorN.cN] !lobby
+20-04-17 20:15:22 [KorN.cN] !lobby
+20-04-17 20:15:27 [KorN.cN] !map lobby
+20-04-17 20:15:32 Lothic - Gothic Lobby Room
+20-04-17 20:15:56 [KnF] Yakuza has left spectators
+20-04-17 20:17:20 [KorN.cN] !Map ctf_laos
+20-04-17 20:17:25 Laos
+20-04-17 20:17:31 [KorN.cN] !Map viet
+20-04-17 20:17:36 Viet
+20-04-17 20:17:42 [KorN.cN] !map amnesia
+20-04-17 20:17:48 Amnesia - by LoneWolf
+20-04-17 20:17:50 RtP| KorN has left alpha team.
+20-04-17 20:17:54 [KorN.cN] !lobby
+20-04-17 20:17:57 [KorN.cN] !Map lobby
+20-04-17 20:18:03 Lothic - Gothic Lobby Room
+20-04-17 20:18:03 KorN.cN has left bravo team.
+20-04-17 20:18:03 Server password changed to scl
+20-04-17 20:18:20 45.232.94.13:32337|61AE140FB9C requesting game...
+20-04-17 20:18:24 45.232.94.13:32337|61AE140FB9C requesting game...
+20-04-17 20:19:20 45.232.94.13:32337|61AE140FB9C requesting game...
+20-04-17 20:23:03 Time Left: 5 minutes
+20-04-17 20:24:03 Time Left: 4 minutes
+20-04-17 20:25:03 Time Left: 3 minutes
+20-04-17 20:26:03 Time Left: 2 minutes
+20-04-17 20:27:03 Time Left: 1 minutes
+20-04-17 20:28:03 Next map: Lobby
+20-04-17 20:28:08 Lothic - Gothic Lobby Room
+20-04-17 20:33:08 Time Left: 5 minutes
+20-04-17 20:34:08 Time Left: 4 minutes
+20-04-17 20:35:08 Time Left: 3 minutes
+20-04-17 20:36:08 Time Left: 2 minutes
+20-04-17 20:37:08 Time Left: 1 minutes
+20-04-17 20:38:08 Next map: Lobby
+20-04-17 20:38:13 Lothic - Gothic Lobby Room
+20-04-17 20:42:52 201.239.237.103:23073|366795947DA requesting game...
+20-04-17 20:42:57 201.239.237.103:23073|366795947DA requesting game...
+20-04-17 20:43:13 Time Left: 5 minutes
+20-04-17 20:44:13 Time Left: 4 minutes
+20-04-17 20:45:13 Time Left: 3 minutes
+20-04-17 20:46:13 Time Left: 2 minutes
+20-04-17 20:47:13 Time Left: 1 minutes
+20-04-17 20:48:13 Next map: Lobby
+20-04-17 20:48:18 Lothic - Gothic Lobby Room
+20-04-17 20:53:18 Time Left: 5 minutes
+20-04-17 20:54:18 Time Left: 4 minutes
+20-04-17 20:55:18 Time Left: 3 minutes
+20-04-17 20:56:18 Time Left: 2 minutes
+20-04-17 20:57:18 Time Left: 1 minutes
+20-04-17 20:58:18 Next map: Lobby
+20-04-17 20:58:24 Lothic - Gothic Lobby Room
+20-04-17 21:00:59 190.1.38.8:23073|3875D140424 requesting game...
+20-04-17 21:03:24 Time Left: 5 minutes
+20-04-17 21:04:24 Time Left: 4 minutes
+20-04-17 21:05:24 Time Left: 3 minutes
+20-04-17 21:06:24 Time Left: 2 minutes
+20-04-17 21:07:24 Time Left: 1 minutes
+20-04-17 21:08:24 Next map: Lobby
+20-04-17 21:08:29 Lothic - Gothic Lobby Room
+20-04-17 21:13:29 Time Left: 5 minutes
+20-04-17 21:14:29 Time Left: 4 minutes
+20-04-17 21:15:29 Time Left: 3 minutes
+20-04-17 21:16:29 Time Left: 2 minutes
+20-04-17 21:17:29 Time Left: 1 minutes
+20-04-17 21:18:29 Next map: Lobby
+20-04-17 21:18:34 Lothic - Gothic Lobby Room
+20-04-17 21:23:34 Time Left: 5 minutes
+20-04-17 21:24:34 Time Left: 4 minutes
+20-04-17 21:25:34 Time Left: 3 minutes
+20-04-17 21:26:34 Time Left: 2 minutes
+20-04-17 21:27:34 Time Left: 1 minutes
+20-04-17 21:28:34 Next map: Lobby
+20-04-17 21:28:40 Lothic - Gothic Lobby Room
+20-04-17 21:33:40 Time Left: 5 minutes
+20-04-17 21:34:40 Time Left: 4 minutes
+20-04-17 21:35:40 Time Left: 3 minutes
+20-04-17 21:36:40 Time Left: 2 minutes
+20-04-17 21:37:40 Time Left: 1 minutes
+20-04-17 21:38:40 Next map: Lobby
+20-04-17 21:38:45 Lothic - Gothic Lobby Room
+20-04-17 21:43:45 Time Left: 5 minutes
+20-04-17 21:44:45 Time Left: 4 minutes
+20-04-17 21:45:45 Time Left: 3 minutes
+20-04-17 21:46:45 Time Left: 2 minutes
+20-04-17 21:47:45 Time Left: 1 minutes
+20-04-17 21:48:45 Next map: Lobby
+20-04-17 21:48:50 Lothic - Gothic Lobby Room
+20-04-17 21:53:50 Time Left: 5 minutes
+20-04-17 21:54:50 Time Left: 4 minutes
+20-04-17 21:55:50 Time Left: 3 minutes
+20-04-17 21:56:50 Time Left: 2 minutes
+20-04-17 21:57:50 Time Left: 1 minutes
+20-04-17 21:58:50 Next map: Lobby
+20-04-17 21:58:56 Lothic - Gothic Lobby Room
+20-04-17 22:03:56 Time Left: 5 minutes
+20-04-17 22:04:56 Time Left: 4 minutes
+20-04-17 22:05:56 Time Left: 3 minutes
+20-04-17 22:06:56 Time Left: 2 minutes
+20-04-17 22:07:56 Time Left: 1 minutes
+20-04-17 22:08:56 Next map: Lobby
+20-04-17 22:09:01 Lothic - Gothic Lobby Room
+20-04-17 22:14:01 Time Left: 5 minutes
+20-04-17 22:15:01 Time Left: 4 minutes
+20-04-17 22:16:01 Time Left: 3 minutes
+20-04-17 22:17:01 Time Left: 2 minutes
+20-04-17 22:18:01 Time Left: 1 minutes
+20-04-17 22:19:01 Next map: Lobby
+20-04-17 22:19:06 Lothic - Gothic Lobby Room
+20-04-17 22:24:06 Time Left: 5 minutes
+20-04-17 22:25:06 Time Left: 4 minutes
+20-04-17 22:26:06 Time Left: 3 minutes
+20-04-17 22:27:06 Time Left: 2 minutes
+20-04-17 22:28:06 Time Left: 1 minutes
+20-04-17 22:29:06 Next map: Lobby
+20-04-17 22:29:12 Lothic - Gothic Lobby Room
+20-04-17 22:34:12 Time Left: 5 minutes
+20-04-17 22:35:12 Time Left: 4 minutes
+20-04-17 22:36:12 Time Left: 3 minutes
+20-04-17 22:37:12 Time Left: 2 minutes
+20-04-17 22:38:12 Time Left: 1 minutes
+20-04-17 22:39:12 Next map: Lobby
+20-04-17 22:39:17 Lothic - Gothic Lobby Room
+20-04-17 22:44:17 Time Left: 5 minutes
+20-04-17 22:45:17 Time Left: 4 minutes
+20-04-17 22:46:17 Time Left: 3 minutes
+20-04-17 22:47:17 Time Left: 2 minutes
+20-04-17 22:48:17 Time Left: 1 minutes
+20-04-17 22:49:17 Next map: Lobby
+20-04-17 22:49:22 Lothic - Gothic Lobby Room
+20-04-17 22:54:22 Time Left: 5 minutes
+20-04-17 22:55:22 Time Left: 4 minutes
+20-04-17 22:56:22 Time Left: 3 minutes
+20-04-17 22:57:22 Time Left: 2 minutes
+20-04-17 22:58:22 Time Left: 1 minutes
+20-04-17 22:59:22 Next map: Lobby
+20-04-17 22:59:28 Lothic - Gothic Lobby Room
+20-04-17 23:04:28 Time Left: 5 minutes
+20-04-17 23:05:28 Time Left: 4 minutes
+20-04-17 23:06:28 Time Left: 3 minutes
+20-04-17 23:07:28 Time Left: 2 minutes
+20-04-17 23:08:28 Time Left: 1 minutes
+20-04-17 23:09:28 Next map: Lobby
+20-04-17 23:09:33 Lothic - Gothic Lobby Room
+20-04-17 23:14:33 Time Left: 5 minutes
+20-04-17 23:15:33 Time Left: 4 minutes
+20-04-17 23:16:33 Time Left: 3 minutes
+20-04-17 23:17:33 Time Left: 2 minutes
+20-04-17 23:18:33 Time Left: 1 minutes
+20-04-17 23:19:33 Next map: Lobby
+20-04-17 23:19:38 Lothic - Gothic Lobby Room
+20-04-17 23:20:22 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 23:20:22 KorN.cN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 23:20:22 KorN.cN has joined as spectator.
+20-04-17 23:20:25 KorN.cN has joined bravo team.
+20-04-17 23:20:55 201.239.214.185:54218|1729B102EBF requesting game...
+20-04-17 23:20:55 RtP| KorN joining game (201.239.214.185:54218) HWID:1729B102EBF
+20-04-17 23:20:55 RtP| KorN has joined as spectator.
+20-04-17 23:20:57 RtP| KorN has joined alpha team.
+20-04-17 23:21:07 [RtP| KorN] !Map viet
+20-04-17 23:21:12 Viet
+20-04-17 23:21:19 [RtP| KorN] !r
+20-04-17 23:21:19 Reiniciando...
+20-04-17 23:21:24 Viet
+20-04-17 23:21:43 KorN.cN captured the Red Flag
+20-04-17 23:21:52 KorN.cN scores for Bravo Team
+20-04-17 23:22:20 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-17 23:22:21 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-17 23:22:21 .:{MIS}:. Leche has joined as spectator.
+20-04-17 23:22:28 [KorN.cN] toy probando
+20-04-17 23:22:29 [.:{MIS}:. Leche] interrumpo?
+20-04-17 23:22:29 [KorN.cN] no entres
+20-04-17 23:22:33 [KorN.cN] spec
+20-04-17 23:22:34 [.:{MIS}:. Leche] ok
+20-04-17 23:22:34 [KorN.cN] ta ok
+20-04-17 23:22:39 [KorN.cN] q osino qua la caga
+20-04-17 23:22:40 [KorN.cN] xd
+20-04-17 23:22:44 .:{MIS}:. Leche has left spectators
+20-04-17 23:22:57 [KorN.cN] !Map spark
+20-04-17 23:23:02 Spark - By Vauat
+20-04-17 23:24:09 KorN.cN captured the Red Flag
+20-04-17 23:24:32 190.148.52.149:63995|467A682CDE7 requesting game...
+20-04-17 23:24:50 190.148.52.149:63995|467A682CDE7 requesting game...
+20-04-17 23:25:02 [KorN.cN] !r
+20-04-17 23:25:02 Reiniciando...
+20-04-17 23:25:08 Spark - By Vauat
+20-04-17 23:25:16 KorN.cN captured the Red Flag
+20-04-17 23:25:23 KorN.cN scores for Bravo Team
+20-04-17 23:25:30 [KorN.cN] !lobby
+20-04-17 23:25:34 [KorN.cN] !map lobby
+20-04-17 23:25:40 Lothic - Gothic Lobby Room
+20-04-17 23:25:41 KorN.cN has left bravo team.
+20-04-17 23:27:27 RtP| KorN has left alpha team.
+20-04-17 23:27:27 Server password changed to scl
+20-04-17 23:30:39 Time Left: 5 minutes
+20-04-17 23:31:39 Time Left: 4 minutes
+20-04-17 23:32:39 Time Left: 3 minutes
+20-04-17 23:33:39 Time Left: 2 minutes
+20-04-17 23:34:39 Time Left: 1 minutes
+20-04-17 23:35:39 Next map: Lobby
+20-04-17 23:35:44 Lothic - Gothic Lobby Room
+20-04-17 23:40:44 Time Left: 5 minutes
+20-04-17 23:41:44 Time Left: 4 minutes
+20-04-17 23:42:44 Time Left: 3 minutes
+20-04-17 23:43:44 Time Left: 2 minutes
+20-04-17 23:44:44 Time Left: 1 minutes
+20-04-17 23:45:44 Next map: Lobby
+20-04-17 23:45:50 Lothic - Gothic Lobby Room
+20-04-17 23:50:50 Time Left: 5 minutes
+20-04-17 23:51:50 Time Left: 4 minutes
+20-04-17 23:52:50 Time Left: 3 minutes
+20-04-17 23:53:50 Time Left: 2 minutes
+20-04-17 23:54:50 Time Left: 1 minutes
+20-04-17 23:55:42 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-17 23:55:50 Next map: Lobby
+20-04-17 23:55:55 Lothic - Gothic Lobby Room
+20-04-18 00:00:55 Time Left: 5 minutes
+20-04-18 00:01:55 Time Left: 4 minutes
+20-04-18 00:02:55 Time Left: 3 minutes
+20-04-18 00:03:55 Time Left: 2 minutes
+20-04-18 00:04:55 Time Left: 1 minutes
+20-04-18 00:05:55 Next map: Lobby
+20-04-18 00:06:00 Lothic - Gothic Lobby Room
+20-04-18 00:08:26 181.72.133.133:23073|5681AB3542C requesting game...
+20-04-18 00:08:29 186.20.244.231:23073|3DE021FE025 requesting game...
+20-04-18 00:08:31 181.72.133.133:23073|5681AB3542C requesting game...
+20-04-18 00:08:31 186.20.244.231:23073|3DE021FE025 requesting game...
+20-04-18 00:08:37 186.20.244.231:23073|3DE021FE025 requesting game...
+20-04-18 00:08:38 186.20.244.231:23073|3DE021FE025 requesting game...
+20-04-18 00:08:40 186.20.244.231:23073|3DE021FE025 requesting game...
+20-04-18 00:11:00 Time Left: 5 minutes
+20-04-18 00:12:00 Time Left: 4 minutes
+20-04-18 00:13:00 Time Left: 3 minutes
+20-04-18 00:14:00 Time Left: 2 minutes
+20-04-18 00:15:00 Time Left: 1 minutes
+20-04-18 00:16:00 Next map: Lobby
+20-04-18 00:16:06 Lothic - Gothic Lobby Room
+20-04-18 00:21:06 Time Left: 5 minutes
+20-04-18 00:22:06 Time Left: 4 minutes
+20-04-18 00:23:06 Time Left: 3 minutes
+20-04-18 00:24:06 Time Left: 2 minutes
+20-04-18 00:25:06 Time Left: 1 minutes
+20-04-18 00:26:06 Next map: Lobby
+20-04-18 00:26:11 Lothic - Gothic Lobby Room
+20-04-18 00:31:11 Time Left: 5 minutes
+20-04-18 00:32:11 Time Left: 4 minutes
+20-04-18 00:32:18 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-18 00:32:21 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-18 00:32:35 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-18 00:33:11 Time Left: 3 minutes
+20-04-18 00:34:11 Time Left: 2 minutes
+20-04-18 00:35:11 Time Left: 1 minutes
+20-04-18 00:36:11 Next map: Lobby
+20-04-18 00:36:16 Lothic - Gothic Lobby Room
+20-04-18 00:41:16 Time Left: 5 minutes
+20-04-18 00:42:16 Time Left: 4 minutes
+20-04-18 00:43:16 Time Left: 3 minutes
+20-04-18 00:44:16 Time Left: 2 minutes
+20-04-18 00:45:16 Time Left: 1 minutes
+20-04-18 00:46:16 168.196.201.72:40340|7F8482CEBA0 requesting game...
+20-04-18 00:46:16 Next map: Lobby
+20-04-18 00:46:22 Lothic - Gothic Lobby Room
+20-04-18 00:47:30 168.196.201.72:40340|7F8482CEBA0 requesting game...
+20-04-18 00:47:59 181.72.133.133:61719|2B9687ACFB0 requesting game...
+20-04-18 00:48:03 181.72.133.133:61719|2B9687ACFB0 requesting game...
+20-04-18 00:51:22 Time Left: 5 minutes
+20-04-18 00:52:22 Time Left: 4 minutes
+20-04-18 00:53:12 190.161.15.209:23073|250EB2AE436 requesting game...
+20-04-18 00:53:16 190.161.15.209:23073|250EB2AE436 requesting game...
+20-04-18 00:53:22 Time Left: 3 minutes
+20-04-18 00:54:22 Time Left: 2 minutes
+20-04-18 00:55:22 Time Left: 1 minutes
+20-04-18 00:56:22 Next map: Lobby
+20-04-18 00:56:27 Lothic - Gothic Lobby Room
+20-04-18 01:01:27 Time Left: 5 minutes
+20-04-18 01:02:27 Time Left: 4 minutes
+20-04-18 01:03:27 Time Left: 3 minutes
+20-04-18 01:04:27 Time Left: 2 minutes
+20-04-18 01:05:27 Time Left: 1 minutes
+20-04-18 01:06:04 200.83.201.38:23073|3BFA8474317 requesting game...
+20-04-18 01:06:27 Next map: Lobby
+20-04-18 01:06:32 Lothic - Gothic Lobby Room
+20-04-18 01:11:32 Time Left: 5 minutes
+20-04-18 01:12:32 Time Left: 4 minutes
+20-04-18 01:13:32 Time Left: 3 minutes
+20-04-18 01:14:32 Time Left: 2 minutes
+20-04-18 01:15:32 Time Left: 1 minutes
+20-04-18 01:16:32 Next map: Lobby
+20-04-18 01:16:38 Lothic - Gothic Lobby Room
+20-04-18 01:21:38 Time Left: 5 minutes
+20-04-18 01:22:38 Time Left: 4 minutes
+20-04-18 01:23:38 Time Left: 3 minutes
+20-04-18 01:24:38 Time Left: 2 minutes
+20-04-18 01:25:38 Time Left: 1 minutes
+20-04-18 01:26:38 Next map: Lobby
+20-04-18 01:26:43 Lothic - Gothic Lobby Room
+20-04-18 01:31:43 Time Left: 5 minutes
+20-04-18 01:32:43 Time Left: 4 minutes
+20-04-18 01:33:43 Time Left: 3 minutes
+20-04-18 01:34:43 Time Left: 2 minutes
+20-04-18 01:35:43 Time Left: 1 minutes
+20-04-18 01:36:43 Next map: Lobby
+20-04-18 01:36:48 Lothic - Gothic Lobby Room
+20-04-18 01:41:48 Time Left: 5 minutes
+20-04-18 01:42:48 Time Left: 4 minutes
+20-04-18 01:43:48 Time Left: 3 minutes
+20-04-18 01:44:48 Time Left: 2 minutes
+20-04-18 01:45:48 Time Left: 1 minutes
+20-04-18 01:46:48 Next map: Lobby
+20-04-18 01:46:54 Lothic - Gothic Lobby Room
+20-04-18 01:51:54 Time Left: 5 minutes
+20-04-18 01:52:54 Time Left: 4 minutes
+20-04-18 01:53:54 Time Left: 3 minutes
+20-04-18 01:54:54 Time Left: 2 minutes
+20-04-18 01:55:54 Time Left: 1 minutes
+20-04-18 01:56:54 Next map: Lobby
+20-04-18 01:56:59 Lothic - Gothic Lobby Room
+20-04-18 01:59:10 200.104.201.52:23073|21B196C6A32 requesting game...
+20-04-18 01:59:12 200.28.188.145:23073|2A14BFF1FCB requesting game...
+20-04-18 02:01:59 Time Left: 5 minutes
+20-04-18 02:02:59 Time Left: 4 minutes
+20-04-18 02:03:59 Time Left: 3 minutes
+20-04-18 02:04:59 Time Left: 2 minutes
+20-04-18 02:05:59 Time Left: 1 minutes
+20-04-18 02:06:59 Next map: Lobby
+20-04-18 02:07:04 Lothic - Gothic Lobby Room
+20-04-18 02:12:04 Time Left: 5 minutes
+20-04-18 02:13:04 Time Left: 4 minutes
+20-04-18 02:14:04 Time Left: 3 minutes
+20-04-18 02:15:04 Time Left: 2 minutes
+20-04-18 02:16:04 Time Left: 1 minutes
+20-04-18 02:17:04 Next map: Lobby
+20-04-18 02:17:10 Lothic - Gothic Lobby Room
+20-04-18 02:22:10 Time Left: 5 minutes
+20-04-18 02:23:10 Time Left: 4 minutes
+20-04-18 02:24:10 Time Left: 3 minutes
+20-04-18 02:25:10 Time Left: 2 minutes
+20-04-18 02:26:10 Time Left: 1 minutes
+20-04-18 02:27:10 Next map: Lobby
+20-04-18 02:27:15 Lothic - Gothic Lobby Room
+20-04-18 02:32:15 Time Left: 5 minutes
+20-04-18 02:33:15 Time Left: 4 minutes
+20-04-18 02:34:15 Time Left: 3 minutes
+20-04-18 02:35:15 Time Left: 2 minutes
+20-04-18 02:36:15 Time Left: 1 minutes
+20-04-18 02:37:15 Next map: Lobby
+20-04-18 02:37:20 Lothic - Gothic Lobby Room
+20-04-18 02:42:20 Time Left: 5 minutes
+20-04-18 02:43:20 Time Left: 4 minutes
+20-04-18 02:44:20 Time Left: 3 minutes
+20-04-18 02:45:20 Time Left: 2 minutes
+20-04-18 02:46:20 Time Left: 1 minutes
+20-04-18 02:47:20 Next map: Lobby
+20-04-18 02:47:26 Lothic - Gothic Lobby Room
+20-04-18 02:52:25 Time Left: 5 minutes
+20-04-18 02:53:25 Time Left: 4 minutes
+20-04-18 02:54:25 Time Left: 3 minutes
+20-04-18 02:55:25 Time Left: 2 minutes
+20-04-18 02:56:25 Time Left: 1 minutes
+20-04-18 02:57:25 Next map: Lobby
+20-04-18 02:57:31 Lothic - Gothic Lobby Room
+20-04-18 03:02:31 Time Left: 5 minutes
+20-04-18 03:03:31 Time Left: 4 minutes
+20-04-18 03:04:31 Time Left: 3 minutes
+20-04-18 03:05:31 Time Left: 2 minutes
+20-04-18 03:06:31 Time Left: 1 minutes
+20-04-18 03:07:31 Next map: Lobby
+20-04-18 03:07:36 Lothic - Gothic Lobby Room
+20-04-18 03:12:36 Time Left: 5 minutes
+20-04-18 03:13:36 Time Left: 4 minutes
+20-04-18 03:14:36 Time Left: 3 minutes
+20-04-18 03:15:36 Time Left: 2 minutes
+20-04-18 03:16:36 Time Left: 1 minutes
+20-04-18 03:17:36 Next map: Lobby
+20-04-18 03:17:41 Lothic - Gothic Lobby Room
+20-04-18 03:22:41 Time Left: 5 minutes
+20-04-18 03:23:41 Time Left: 4 minutes
+20-04-18 03:24:41 Time Left: 3 minutes
+20-04-18 03:25:41 Time Left: 2 minutes
+20-04-18 03:26:41 Time Left: 1 minutes
+20-04-18 03:27:41 Next map: Lobby
+20-04-18 03:27:47 Lothic - Gothic Lobby Room
+20-04-18 03:32:47 Time Left: 5 minutes
+20-04-18 03:33:47 Time Left: 4 minutes
+20-04-18 03:34:47 Time Left: 3 minutes
+20-04-18 03:35:47 Time Left: 2 minutes
+20-04-18 03:36:47 Time Left: 1 minutes
+20-04-18 03:37:47 Next map: Lobby
+20-04-18 03:37:52 Lothic - Gothic Lobby Room
+20-04-18 03:42:52 Time Left: 5 minutes
+20-04-18 03:43:52 Time Left: 4 minutes
+20-04-18 03:44:52 Time Left: 3 minutes
+20-04-18 03:45:52 Time Left: 2 minutes
+20-04-18 03:46:52 Time Left: 1 minutes
+20-04-18 03:47:52 Next map: Lobby
+20-04-18 03:47:57 Lothic - Gothic Lobby Room
+20-04-18 03:52:57 Time Left: 5 minutes
+20-04-18 03:53:57 Time Left: 4 minutes
+20-04-18 03:54:57 Time Left: 3 minutes
+20-04-18 03:55:57 Time Left: 2 minutes
+20-04-18 03:56:57 Time Left: 1 minutes
+20-04-18 03:57:57 Next map: Lobby
+20-04-18 03:58:03 Lothic - Gothic Lobby Room
+20-04-18 04:03:03 Time Left: 5 minutes
+20-04-18 04:04:03 Time Left: 4 minutes
+20-04-18 04:05:03 Time Left: 3 minutes
+20-04-18 04:06:03 Time Left: 2 minutes
+20-04-18 04:07:03 Time Left: 1 minutes
+20-04-18 04:08:03 Next map: Lobby
+20-04-18 04:08:08 Lothic - Gothic Lobby Room
+20-04-18 04:13:08 Time Left: 5 minutes
+20-04-18 04:14:08 Time Left: 4 minutes
+20-04-18 04:15:08 Time Left: 3 minutes
+20-04-18 04:16:08 Time Left: 2 minutes
+20-04-18 04:17:08 Time Left: 1 minutes
+20-04-18 04:18:08 Next map: Lobby
+20-04-18 04:18:13 Lothic - Gothic Lobby Room
+20-04-18 04:23:13 Time Left: 5 minutes
+20-04-18 04:24:13 Time Left: 4 minutes
+20-04-18 04:25:13 Time Left: 3 minutes
+20-04-18 04:26:13 Time Left: 2 minutes
+20-04-18 04:27:13 Time Left: 1 minutes
+20-04-18 04:28:13 Next map: Lobby
+20-04-18 04:28:19 Lothic - Gothic Lobby Room
+20-04-18 04:33:19 Time Left: 5 minutes
+20-04-18 04:34:19 Time Left: 4 minutes
+20-04-18 04:35:19 Time Left: 3 minutes
+20-04-18 04:36:19 Time Left: 2 minutes
+20-04-18 04:37:19 Time Left: 1 minutes
+20-04-18 04:38:19 Next map: Lobby
+20-04-18 04:38:24 Lothic - Gothic Lobby Room
+20-04-18 04:43:24 Time Left: 5 minutes
+20-04-18 04:44:24 Time Left: 4 minutes
+20-04-18 04:45:24 Time Left: 3 minutes
+20-04-18 04:46:24 Time Left: 2 minutes
+20-04-18 04:47:24 Time Left: 1 minutes
+20-04-18 04:48:24 Next map: Lobby
+20-04-18 04:48:29 Lothic - Gothic Lobby Room
+20-04-18 04:53:29 Time Left: 5 minutes
+20-04-18 04:54:29 Time Left: 4 minutes
+20-04-18 04:55:29 Time Left: 3 minutes
+20-04-18 04:56:29 Time Left: 2 minutes
+20-04-18 04:57:29 Time Left: 1 minutes
+20-04-18 04:58:29 Next map: Lobby
+20-04-18 04:58:35 Lothic - Gothic Lobby Room
+20-04-18 05:03:35 Time Left: 5 minutes
+20-04-18 05:04:35 Time Left: 4 minutes
+20-04-18 05:05:35 Time Left: 3 minutes
+20-04-18 05:06:35 Time Left: 2 minutes
+20-04-18 05:07:35 Time Left: 1 minutes
+20-04-18 05:08:35 Next map: Lobby
+20-04-18 05:08:40 Lothic - Gothic Lobby Room
+20-04-18 05:13:40 Time Left: 5 minutes
+20-04-18 05:14:40 Time Left: 4 minutes
+20-04-18 05:15:40 Time Left: 3 minutes
+20-04-18 05:16:40 Time Left: 2 minutes
+20-04-18 05:17:40 Time Left: 1 minutes
+20-04-18 05:18:40 Next map: Lobby
+20-04-18 05:18:45 Lothic - Gothic Lobby Room
+20-04-18 05:23:45 Time Left: 5 minutes
+20-04-18 05:24:45 Time Left: 4 minutes
+20-04-18 05:25:45 Time Left: 3 minutes
+20-04-18 05:26:45 Time Left: 2 minutes
+20-04-18 05:27:45 Time Left: 1 minutes
+20-04-18 05:28:45 Next map: Lobby
+20-04-18 05:28:51 Lothic - Gothic Lobby Room
+20-04-18 05:33:51 Time Left: 5 minutes
+20-04-18 05:34:51 Time Left: 4 minutes
+20-04-18 05:35:51 Time Left: 3 minutes
+20-04-18 05:36:51 Time Left: 2 minutes
+20-04-18 05:37:51 Time Left: 1 minutes
+20-04-18 05:38:51 Next map: Lobby
+20-04-18 05:38:56 Lothic - Gothic Lobby Room
+20-04-18 05:43:56 Time Left: 5 minutes
+20-04-18 05:44:56 Time Left: 4 minutes
+20-04-18 05:45:56 Time Left: 3 minutes
+20-04-18 05:46:56 Time Left: 2 minutes
+20-04-18 05:47:56 Time Left: 1 minutes
+20-04-18 05:48:56 Next map: Lobby
+20-04-18 05:49:01 Lothic - Gothic Lobby Room
+20-04-18 05:54:01 Time Left: 5 minutes
+20-04-18 05:55:01 Time Left: 4 minutes
+20-04-18 05:56:01 Time Left: 3 minutes
+20-04-18 05:57:01 Time Left: 2 minutes
+20-04-18 05:58:01 Time Left: 1 minutes
+20-04-18 05:59:01 Next map: Lobby
+20-04-18 05:59:07 Lothic - Gothic Lobby Room
+20-04-18 06:04:07 Time Left: 5 minutes
+20-04-18 06:05:07 Time Left: 4 minutes
+20-04-18 06:06:07 Time Left: 3 minutes
+20-04-18 06:07:07 Time Left: 2 minutes
+20-04-18 06:08:07 Time Left: 1 minutes
+20-04-18 06:09:06 Next map: Lobby
+20-04-18 06:09:12 Lothic - Gothic Lobby Room
+20-04-18 06:14:12 Time Left: 5 minutes
+20-04-18 06:15:12 Time Left: 4 minutes
+20-04-18 06:16:12 Time Left: 3 minutes
+20-04-18 06:17:12 Time Left: 2 minutes
+20-04-18 06:18:12 Time Left: 1 minutes
+20-04-18 06:19:12 Next map: Lobby
+20-04-18 06:19:17 Lothic - Gothic Lobby Room
+20-04-18 06:24:17 Time Left: 5 minutes
+20-04-18 06:25:17 Time Left: 4 minutes
+20-04-18 06:26:17 Time Left: 3 minutes
+20-04-18 06:27:17 Time Left: 2 minutes
+20-04-18 06:28:17 Time Left: 1 minutes
+20-04-18 06:29:17 Next map: Lobby
+20-04-18 06:29:22 Lothic - Gothic Lobby Room
+20-04-18 06:34:22 Time Left: 5 minutes
+20-04-18 06:35:22 Time Left: 4 minutes
+20-04-18 06:36:22 Time Left: 3 minutes
+20-04-18 06:37:22 Time Left: 2 minutes
+20-04-18 06:38:22 Time Left: 1 minutes
+20-04-18 06:39:22 Next map: Lobby
+20-04-18 06:39:28 Lothic - Gothic Lobby Room
+20-04-18 06:44:28 Time Left: 5 minutes
+20-04-18 06:45:28 Time Left: 4 minutes
+20-04-18 06:46:28 Time Left: 3 minutes
+20-04-18 06:47:28 Time Left: 2 minutes
+20-04-18 06:48:28 Time Left: 1 minutes
+20-04-18 06:49:28 Next map: Lobby
+20-04-18 06:49:33 Lothic - Gothic Lobby Room
+20-04-18 06:54:33 Time Left: 5 minutes
+20-04-18 06:55:33 Time Left: 4 minutes
+20-04-18 06:56:33 Time Left: 3 minutes
+20-04-18 06:57:33 Time Left: 2 minutes
+20-04-18 06:58:33 Time Left: 1 minutes
+20-04-18 06:59:33 Next map: Lobby
+20-04-18 06:59:38 Lothic - Gothic Lobby Room
+20-04-18 07:04:38 Time Left: 5 minutes
+20-04-18 07:05:38 Time Left: 4 minutes
+20-04-18 07:06:38 Time Left: 3 minutes
+20-04-18 07:07:38 Time Left: 2 minutes
+20-04-18 07:08:38 Time Left: 1 minutes
+20-04-18 07:09:38 Next map: Lobby
+20-04-18 07:09:44 Lothic - Gothic Lobby Room
+20-04-18 07:14:44 Time Left: 5 minutes
+20-04-18 07:15:44 Time Left: 4 minutes
+20-04-18 07:16:44 Time Left: 3 minutes
+20-04-18 07:17:44 Time Left: 2 minutes
+20-04-18 07:18:44 Time Left: 1 minutes
+20-04-18 07:19:44 Next map: Lobby
+20-04-18 07:19:49 Lothic - Gothic Lobby Room
+20-04-18 07:24:49 Time Left: 5 minutes
+20-04-18 07:25:49 Time Left: 4 minutes
+20-04-18 07:26:49 Time Left: 3 minutes
+20-04-18 07:27:49 Time Left: 2 minutes
+20-04-18 07:28:49 Time Left: 1 minutes
+20-04-18 07:29:49 Next map: Lobby
+20-04-18 07:29:54 Lothic - Gothic Lobby Room
+20-04-18 07:34:54 Time Left: 5 minutes
+20-04-18 07:35:54 Time Left: 4 minutes
+20-04-18 07:36:54 Time Left: 3 minutes
+20-04-18 07:37:54 Time Left: 2 minutes
+20-04-18 07:38:54 Time Left: 1 minutes
+20-04-18 07:39:54 Next map: Lobby
+20-04-18 07:40:00 Lothic - Gothic Lobby Room
+20-04-18 07:45:00 Time Left: 5 minutes
+20-04-18 07:46:00 Time Left: 4 minutes
+20-04-18 07:47:00 Time Left: 3 minutes
+20-04-18 07:48:00 Time Left: 2 minutes
+20-04-18 07:49:00 Time Left: 1 minutes
+20-04-18 07:50:00 Next map: Lobby
+20-04-18 07:50:05 Lothic - Gothic Lobby Room
+20-04-18 07:55:05 Time Left: 5 minutes
+20-04-18 07:56:05 Time Left: 4 minutes
+20-04-18 07:57:05 Time Left: 3 minutes
+20-04-18 07:58:05 Time Left: 2 minutes
+20-04-18 07:59:05 Time Left: 1 minutes
+20-04-18 08:00:05 Next map: Lobby
+20-04-18 08:00:10 Lothic - Gothic Lobby Room
+20-04-18 08:05:10 Time Left: 5 minutes
+20-04-18 08:06:10 Time Left: 4 minutes
+20-04-18 08:07:10 Time Left: 3 minutes
+20-04-18 08:08:10 Time Left: 2 minutes
+20-04-18 08:09:10 Time Left: 1 minutes
+20-04-18 08:10:10 Next map: Lobby
+20-04-18 08:10:16 Lothic - Gothic Lobby Room
+20-04-18 08:15:16 Time Left: 5 minutes
+20-04-18 08:16:16 Time Left: 4 minutes
+20-04-18 08:17:16 Time Left: 3 minutes
+20-04-18 08:18:16 Time Left: 2 minutes
+20-04-18 08:19:16 Time Left: 1 minutes
+20-04-18 08:20:16 Next map: Lobby
+20-04-18 08:20:21 Lothic - Gothic Lobby Room
+20-04-18 08:25:21 Time Left: 5 minutes
+20-04-18 08:26:21 Time Left: 4 minutes
+20-04-18 08:27:21 Time Left: 3 minutes
+20-04-18 08:28:21 Time Left: 2 minutes
+20-04-18 08:29:21 Time Left: 1 minutes
+20-04-18 08:30:21 Next map: Lobby
+20-04-18 08:30:26 Lothic - Gothic Lobby Room
+20-04-18 08:35:26 Time Left: 5 minutes
+20-04-18 08:36:26 Time Left: 4 minutes
+20-04-18 08:37:26 Time Left: 3 minutes
+20-04-18 08:38:26 Time Left: 2 minutes
+20-04-18 08:39:26 Time Left: 1 minutes
+20-04-18 08:40:26 Next map: Lobby
+20-04-18 08:40:32 Lothic - Gothic Lobby Room
+20-04-18 08:45:32 Time Left: 5 minutes
+20-04-18 08:46:32 Time Left: 4 minutes
+20-04-18 08:47:32 Time Left: 3 minutes
+20-04-18 08:48:32 Time Left: 2 minutes
+20-04-18 08:49:32 Time Left: 1 minutes
+20-04-18 08:50:32 Next map: Lobby
+20-04-18 08:50:37 Lothic - Gothic Lobby Room
+20-04-18 08:55:37 Time Left: 5 minutes
+20-04-18 08:56:37 Time Left: 4 minutes
+20-04-18 08:57:37 Time Left: 3 minutes
+20-04-18 08:58:37 Time Left: 2 minutes
+20-04-18 08:59:37 Time Left: 1 minutes
+20-04-18 09:00:37 Next map: Lobby
+20-04-18 09:00:42 Lothic - Gothic Lobby Room
+20-04-18 09:05:42 Time Left: 5 minutes
+20-04-18 09:06:42 Time Left: 4 minutes
+20-04-18 09:07:42 Time Left: 3 minutes
+20-04-18 09:08:42 Time Left: 2 minutes
+20-04-18 09:09:42 Time Left: 1 minutes
+20-04-18 09:10:42 Next map: Lobby
+20-04-18 09:10:48 Lothic - Gothic Lobby Room
+20-04-18 09:15:48 Time Left: 5 minutes
+20-04-18 09:16:48 Time Left: 4 minutes
+20-04-18 09:17:48 Time Left: 3 minutes
+20-04-18 09:18:48 Time Left: 2 minutes
+20-04-18 09:19:48 Time Left: 1 minutes
+20-04-18 09:20:48 Next map: Lobby
+20-04-18 09:20:53 Lothic - Gothic Lobby Room
+20-04-18 09:25:53 Time Left: 5 minutes
+20-04-18 09:26:53 Time Left: 4 minutes
+20-04-18 09:27:53 Time Left: 3 minutes
+20-04-18 09:28:53 Time Left: 2 minutes
+20-04-18 09:29:53 Time Left: 1 minutes
+20-04-18 09:30:53 Next map: Lobby
+20-04-18 09:30:58 Lothic - Gothic Lobby Room
+20-04-18 09:35:58 Time Left: 5 minutes
+20-04-18 09:36:58 Time Left: 4 minutes
+20-04-18 09:37:58 Time Left: 3 minutes
+20-04-18 09:38:58 Time Left: 2 minutes
+20-04-18 09:39:58 Time Left: 1 minutes
+20-04-18 09:40:58 Next map: Lobby
+20-04-18 09:41:03 Lothic - Gothic Lobby Room
+20-04-18 09:46:03 Time Left: 5 minutes
+20-04-18 09:47:03 Time Left: 4 minutes
+20-04-18 09:48:03 Time Left: 3 minutes
+20-04-18 09:49:03 Time Left: 2 minutes
+20-04-18 09:50:03 Time Left: 1 minutes
+20-04-18 09:51:03 Next map: Lobby
+20-04-18 09:51:09 Lothic - Gothic Lobby Room
+20-04-18 09:56:09 Time Left: 5 minutes
+20-04-18 09:57:09 Time Left: 4 minutes
+20-04-18 09:58:09 Time Left: 3 minutes
+20-04-18 09:59:09 Time Left: 2 minutes
+20-04-18 10:00:09 Time Left: 1 minutes
+20-04-18 10:01:09 Next map: Lobby
+20-04-18 10:01:14 Lothic - Gothic Lobby Room
+20-04-18 10:06:14 Time Left: 5 minutes
+20-04-18 10:07:14 Time Left: 4 minutes
+20-04-18 10:08:14 Time Left: 3 minutes
+20-04-18 10:09:14 Time Left: 2 minutes
+20-04-18 10:10:14 Time Left: 1 minutes
+20-04-18 10:11:14 Next map: Lobby
+20-04-18 10:11:19 Lothic - Gothic Lobby Room
+20-04-18 10:16:19 Time Left: 5 minutes
+20-04-18 10:17:19 Time Left: 4 minutes
+20-04-18 10:18:19 Time Left: 3 minutes
+20-04-18 10:19:19 Time Left: 2 minutes
+20-04-18 10:20:19 Time Left: 1 minutes
+20-04-18 10:21:19 Next map: Lobby
+20-04-18 10:21:25 Lothic - Gothic Lobby Room
+20-04-18 10:26:25 Time Left: 5 minutes
+20-04-18 10:27:25 Time Left: 4 minutes
+20-04-18 10:28:25 Time Left: 3 minutes
+20-04-18 10:29:25 Time Left: 2 minutes
+20-04-18 10:30:25 Time Left: 1 minutes
+20-04-18 10:31:25 Next map: Lobby
+20-04-18 10:31:30 Lothic - Gothic Lobby Room
+20-04-18 10:36:30 Time Left: 5 minutes
+20-04-18 10:37:30 Time Left: 4 minutes
+20-04-18 10:38:30 Time Left: 3 minutes
+20-04-18 10:39:30 Time Left: 2 minutes
+20-04-18 10:40:30 Time Left: 1 minutes
+20-04-18 10:41:30 Next map: Lobby
+20-04-18 10:41:35 Lothic - Gothic Lobby Room
+20-04-18 10:46:35 Time Left: 5 minutes
+20-04-18 10:47:35 Time Left: 4 minutes
+20-04-18 10:48:35 Time Left: 3 minutes
+20-04-18 10:49:35 Time Left: 2 minutes
+20-04-18 10:50:35 Time Left: 1 minutes
+20-04-18 10:51:35 Next map: Lobby
+20-04-18 10:51:41 Lothic - Gothic Lobby Room
+20-04-18 10:56:41 Time Left: 5 minutes
+20-04-18 10:57:41 Time Left: 4 minutes
+20-04-18 10:58:41 Time Left: 3 minutes
+20-04-18 10:59:41 Time Left: 2 minutes
+20-04-18 11:00:41 Time Left: 1 minutes
+20-04-18 11:01:41 Next map: Lobby
+20-04-18 11:01:46 Lothic - Gothic Lobby Room
+20-04-18 11:06:46 Time Left: 5 minutes
+20-04-18 11:07:46 Time Left: 4 minutes
+20-04-18 11:08:46 Time Left: 3 minutes
+20-04-18 11:09:46 Time Left: 2 minutes
+20-04-18 11:10:46 Time Left: 1 minutes
+20-04-18 11:11:46 Next map: Lobby
+20-04-18 11:11:51 Lothic - Gothic Lobby Room
+20-04-18 11:16:51 Time Left: 5 minutes
+20-04-18 11:17:51 Time Left: 4 minutes
+20-04-18 11:18:51 Time Left: 3 minutes
+20-04-18 11:19:51 Time Left: 2 minutes
+20-04-18 11:20:51 Time Left: 1 minutes
+20-04-18 11:21:51 Next map: Lobby
+20-04-18 11:21:57 Lothic - Gothic Lobby Room
+20-04-18 11:26:57 Time Left: 5 minutes
+20-04-18 11:27:57 Time Left: 4 minutes
+20-04-18 11:28:57 Time Left: 3 minutes
+20-04-18 11:29:57 Time Left: 2 minutes
+20-04-18 11:30:57 Time Left: 1 minutes
+20-04-18 11:31:57 Next map: Lobby
+20-04-18 11:32:02 Lothic - Gothic Lobby Room
+20-04-18 11:37:02 Time Left: 5 minutes
+20-04-18 11:38:02 Time Left: 4 minutes
+20-04-18 11:39:02 Time Left: 3 minutes
+20-04-18 11:40:02 Time Left: 2 minutes
+20-04-18 11:41:02 Time Left: 1 minutes
+20-04-18 11:42:02 Next map: Lobby
+20-04-18 11:42:07 Lothic - Gothic Lobby Room
+20-04-18 11:47:07 Time Left: 5 minutes
+20-04-18 11:48:07 Time Left: 4 minutes
+20-04-18 11:49:07 Time Left: 3 minutes
+20-04-18 11:50:07 Time Left: 2 minutes
+20-04-18 11:51:07 Time Left: 1 minutes
+20-04-18 11:52:07 Next map: Lobby
+20-04-18 11:52:13 Lothic - Gothic Lobby Room
+20-04-18 11:57:13 Time Left: 5 minutes
+20-04-18 11:58:13 Time Left: 4 minutes
+20-04-18 11:59:13 Time Left: 3 minutes
+20-04-18 12:00:13 Time Left: 2 minutes
+20-04-18 12:01:13 Time Left: 1 minutes
+20-04-18 12:02:13 Next map: Lobby
+20-04-18 12:02:18 Lothic - Gothic Lobby Room
+20-04-18 12:07:18 Time Left: 5 minutes
+20-04-18 12:08:18 Time Left: 4 minutes
+20-04-18 12:09:18 Time Left: 3 minutes
+20-04-18 12:10:18 Time Left: 2 minutes
+20-04-18 12:11:18 Time Left: 1 minutes
+20-04-18 12:12:18 Next map: Lobby
+20-04-18 12:12:23 Lothic - Gothic Lobby Room
+20-04-18 12:17:23 Time Left: 5 minutes
+20-04-18 12:18:23 Time Left: 4 minutes
+20-04-18 12:19:23 Time Left: 3 minutes
+20-04-18 12:20:23 Time Left: 2 minutes
+20-04-18 12:21:23 Time Left: 1 minutes
+20-04-18 12:22:23 Next map: Lobby
+20-04-18 12:22:29 Lothic - Gothic Lobby Room
+20-04-18 12:27:29 Time Left: 5 minutes
+20-04-18 12:28:29 Time Left: 4 minutes
+20-04-18 12:29:29 Time Left: 3 minutes
+20-04-18 12:30:29 Time Left: 2 minutes
+20-04-18 12:31:29 Time Left: 1 minutes
+20-04-18 12:32:29 Next map: Lobby
+20-04-18 12:32:34 Lothic - Gothic Lobby Room
+20-04-18 12:37:34 Time Left: 5 minutes
+20-04-18 12:38:34 Time Left: 4 minutes
+20-04-18 12:39:34 Time Left: 3 minutes
+20-04-18 12:40:34 Time Left: 2 minutes
+20-04-18 12:41:34 Time Left: 1 minutes
+20-04-18 12:42:34 Next map: Lobby
+20-04-18 12:42:39 Lothic - Gothic Lobby Room
+20-04-18 12:43:11 45.232.32.208:9003|696908AC8E7 requesting game...
+20-04-18 12:43:16 45.232.32.208:9003|696908AC8E7 requesting game...
+20-04-18 12:43:16 .:{MIS]:..Turko joining game (45.232.32.208:9003) HWID:696908AC8E7
+20-04-18 12:43:16 .:{MIS]:..Turko has joined as spectator.
+20-04-18 12:43:19 .:{MIS]:..Turko has joined alpha team.
+20-04-18 12:43:28 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-18 12:43:29 =E*R= Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-18 12:43:29 =E*R= Skipo has joined bravo team.
+20-04-18 12:43:46 [.:{MIS]:..Turko] !map spark
+20-04-18 12:43:51 Spark - By Vauat
+20-04-18 12:43:57 (1) .:{MIS]:..Turko killed (2) =E*R= Skipo with HK MP5
+20-04-18 12:43:59 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:44:04 .:{MIS]:..Turko scores for Alpha Team
+20-04-18 12:44:12 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:44:19 .:{MIS]:..Turko scores for Alpha Team
+20-04-18 12:44:26 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:44:31 (1) .:{MIS]:..Turko killed (2) =E*R= Skipo with HK MP5
+20-04-18 12:44:34 .:{MIS]:..Turko scores for Alpha Team
+20-04-18 12:44:36 .:{MIS]:..Turko gets a ping warning
+20-04-18 12:44:43 =E*R= Skipo captured the Red Flag
+20-04-18 12:44:48 [=E*R= Skipo] !map Aftermath
+20-04-18 12:44:53 ctf_aftermath by Viral
+20-04-18 12:44:54 .:{MIS]:..Turko has left alpha team.
+20-04-18 12:44:54 45.232.32.208:9003|696908AC8E7 requesting game...
+20-04-18 12:44:55 .:{MIS]:..Turko joining game (45.232.32.208:9003) HWID:696908AC8E7
+20-04-18 12:44:55 .:{MIS]:..Turko has joined as spectator.
+20-04-18 12:44:57 .:{MIS]:..Turko has joined alpha team.
+20-04-18 12:45:04 =E*R= Skipo captured the Red Flag
+20-04-18 12:45:07 (2) =E*R= Skipo killed (1) .:{MIS]:..Turko with Grenade
+20-04-18 12:45:11 =E*R= Skipo scores for Bravo Team
+20-04-18 12:45:35 =E*R= Skipo captured the Red Flag
+20-04-18 12:45:37 (2) =E*R= Skipo killed (1) .:{MIS]:..Turko with Steyr AUG
+20-04-18 12:45:41 =E*R= Skipo scores for Bravo Team
+20-04-18 12:45:46 =E*R= Skipo captured the Red Flag
+20-04-18 12:45:51 =E*R= Skipo scores for Bravo Team
+20-04-18 12:45:59 (2) =E*R= Skipo killed (1) .:{MIS]:..Turko with Steyr AUG
+20-04-18 12:46:00 =E*R= Skipo captured the Red Flag
+20-04-18 12:46:09 [=E*R= Skipo] !map Wretch
+20-04-18 12:46:14 Wretch by AdamD
+20-04-18 12:46:21 (2) =E*R= Skipo killed (1) .:{MIS]:..Turko with Steyr AUG
+20-04-18 12:46:28 (1) .:{MIS]:..Turko killed (2) =E*R= Skipo with Ruger 77
+20-04-18 12:46:31 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:46:38 =E*R= Skipo captured the Red Flag
+20-04-18 12:46:40 (2) =E*R= Skipo killed (1) .:{MIS]:..Turko with Grenade
+20-04-18 12:46:41 =E*R= Skipo returned the Blue Flag
+20-04-18 12:46:46 =E*R= Skipo scores for Bravo Team
+20-04-18 12:46:49 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:46:52 (1) .:{MIS]:..Turko killed (2) =E*R= Skipo with Ruger 77
+20-04-18 12:46:57 .:{MIS]:..Turko scores for Alpha Team
+20-04-18 12:47:04 .:{MIS]:..Turko captured the Blue Flag
+20-04-18 12:47:08 (1) .:{MIS]:..Turko killed (2) =E*R= Skipo with Ruger 77
+20-04-18 12:47:11 .:{MIS]:..Turko scores for Alpha Team
+20-04-18 12:47:14 [.:{MIS]:..Turko] !map lobby
+20-04-18 12:47:20 Lothic - Gothic Lobby Room
+20-04-18 12:47:21 .:{MIS]:..Turko has left alpha team.
+20-04-18 12:51:26 =E*R= Skipo has left bravo team.
+20-04-18 12:51:26 Server password changed to scl
+20-04-18 12:52:20 Time Left: 5 minutes
+20-04-18 12:53:20 Time Left: 4 minutes
+20-04-18 12:54:20 Time Left: 3 minutes
+20-04-18 12:55:20 Time Left: 2 minutes
+20-04-18 12:56:20 Time Left: 1 minutes
+20-04-18 12:57:20 Next map: Lobby
+20-04-18 12:57:25 Lothic - Gothic Lobby Room
+20-04-18 12:57:39 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-18 12:57:42 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-18 13:02:25 Time Left: 5 minutes
+20-04-18 13:03:25 Time Left: 4 minutes
+20-04-18 13:04:25 Time Left: 3 minutes
+20-04-18 13:05:25 Time Left: 2 minutes
+20-04-18 13:06:25 Time Left: 1 minutes
+20-04-18 13:07:25 Next map: Lobby
+20-04-18 13:07:30 Lothic - Gothic Lobby Room
+20-04-18 13:12:30 Time Left: 5 minutes
+20-04-18 13:13:08 45.232.32.208:9011|696908AC8E7 requesting game...
+20-04-18 13:13:09 .:{MIS}:..Turko joining game (45.232.32.208:9011) HWID:696908AC8E7
+20-04-18 13:13:09 .:{MIS}:..Turko has joined as spectator.
+20-04-18 13:13:10 .:{MIS}:..Turko has joined alpha team.
+20-04-18 13:13:30 Time Left: 4 minutes
+20-04-18 13:13:56 .:{MIS}:..Turko has left alpha team.
+20-04-18 13:13:56 Server password changed to scl
+20-04-18 13:14:30 Time Left: 3 minutes
+20-04-18 13:15:30 Time Left: 2 minutes
+20-04-18 13:16:30 Time Left: 1 minutes
+20-04-18 13:17:30 Next map: Lobby
+20-04-18 13:17:36 Lothic - Gothic Lobby Room
+20-04-18 13:22:35 Time Left: 5 minutes
+20-04-18 13:23:35 Time Left: 4 minutes
+20-04-18 13:24:35 Time Left: 3 minutes
+20-04-18 13:25:35 Time Left: 2 minutes
+20-04-18 13:26:35 Time Left: 1 minutes
+20-04-18 13:27:35 Next map: Lobby
+20-04-18 13:27:41 Lothic - Gothic Lobby Room
+20-04-18 13:32:41 Time Left: 5 minutes
+20-04-18 13:33:41 Time Left: 4 minutes
+20-04-18 13:34:41 Time Left: 3 minutes
+20-04-18 13:35:41 Time Left: 2 minutes
+20-04-18 13:36:41 Time Left: 1 minutes
+20-04-18 13:37:41 Next map: Lobby
+20-04-18 13:37:46 Lothic - Gothic Lobby Room
+20-04-18 13:42:46 Time Left: 5 minutes
+20-04-18 13:43:46 Time Left: 4 minutes
+20-04-18 13:44:46 Time Left: 3 minutes
+20-04-18 13:45:46 Time Left: 2 minutes
+20-04-18 13:46:46 Time Left: 1 minutes
+20-04-18 13:47:46 Next map: Lobby
+20-04-18 13:47:51 Lothic - Gothic Lobby Room
+20-04-18 13:52:51 Time Left: 5 minutes
+20-04-18 13:53:51 Time Left: 4 minutes
+20-04-18 13:54:51 Time Left: 3 minutes
+20-04-18 13:55:51 Time Left: 2 minutes
+20-04-18 13:56:51 Time Left: 1 minutes
+20-04-18 13:57:51 Next map: Lobby
+20-04-18 13:57:57 Lothic - Gothic Lobby Room
+20-04-18 14:02:57 Time Left: 5 minutes
+20-04-18 14:03:57 Time Left: 4 minutes
+20-04-18 14:04:57 Time Left: 3 minutes
+20-04-18 14:05:57 Time Left: 2 minutes
+20-04-18 14:06:57 Time Left: 1 minutes
+20-04-18 14:07:57 Next map: Lobby
+20-04-18 14:08:02 Lothic - Gothic Lobby Room
+20-04-18 14:13:02 Time Left: 5 minutes
+20-04-18 14:14:02 Time Left: 4 minutes
+20-04-18 14:15:02 Time Left: 3 minutes
+20-04-18 14:16:02 Time Left: 2 minutes
+20-04-18 14:17:02 Time Left: 1 minutes
+20-04-18 14:18:02 Next map: Lobby
+20-04-18 14:18:07 Lothic - Gothic Lobby Room
+20-04-18 14:23:07 Time Left: 5 minutes
+20-04-18 14:24:07 Time Left: 4 minutes
+20-04-18 14:25:07 Time Left: 3 minutes
+20-04-18 14:26:07 Time Left: 2 minutes
+20-04-18 14:27:07 Time Left: 1 minutes
+20-04-18 14:28:07 Next map: Lobby
+20-04-18 14:28:13 Lothic - Gothic Lobby Room
+20-04-18 14:33:13 Time Left: 5 minutes
+20-04-18 14:34:13 Time Left: 4 minutes
+20-04-18 14:35:13 Time Left: 3 minutes
+20-04-18 14:36:13 Time Left: 2 minutes
+20-04-18 14:37:13 Time Left: 1 minutes
+20-04-18 14:38:13 Next map: Lobby
+20-04-18 14:38:18 Lothic - Gothic Lobby Room
+20-04-18 14:43:18 Time Left: 5 minutes
+20-04-18 14:44:18 Time Left: 4 minutes
+20-04-18 14:45:18 Time Left: 3 minutes
+20-04-18 14:46:18 Time Left: 2 minutes
+20-04-18 14:47:18 Time Left: 1 minutes
+20-04-18 14:48:18 Next map: Lobby
+20-04-18 14:48:23 Lothic - Gothic Lobby Room
+20-04-18 14:53:23 Time Left: 5 minutes
+20-04-18 14:54:23 Time Left: 4 minutes
+20-04-18 14:55:23 Time Left: 3 minutes
+20-04-18 14:56:23 Time Left: 2 minutes
+20-04-18 14:57:23 Time Left: 1 minutes
+20-04-18 14:58:23 Next map: Lobby
+20-04-18 14:58:29 Lothic - Gothic Lobby Room
+20-04-18 15:03:29 Time Left: 5 minutes
+20-04-18 15:04:29 Time Left: 4 minutes
+20-04-18 15:05:29 Time Left: 3 minutes
+20-04-18 15:06:29 Time Left: 2 minutes
+20-04-18 15:07:29 Time Left: 1 minutes
+20-04-18 15:08:29 Next map: Lobby
+20-04-18 15:08:34 Lothic - Gothic Lobby Room
+20-04-18 15:13:34 Time Left: 5 minutes
+20-04-18 15:14:34 Time Left: 4 minutes
+20-04-18 15:15:34 Time Left: 3 minutes
+20-04-18 15:16:34 Time Left: 2 minutes
+20-04-18 15:17:34 Time Left: 1 minutes
+20-04-18 15:18:34 Next map: Lobby
+20-04-18 15:18:39 Lothic - Gothic Lobby Room
+20-04-18 15:23:39 Time Left: 5 minutes
+20-04-18 15:24:39 Time Left: 4 minutes
+20-04-18 15:25:39 Time Left: 3 minutes
+20-04-18 15:26:39 Time Left: 2 minutes
+20-04-18 15:27:39 Time Left: 1 minutes
+20-04-18 15:28:39 Next map: Lobby
+20-04-18 15:28:45 Lothic - Gothic Lobby Room
+20-04-18 15:33:45 Time Left: 5 minutes
+20-04-18 15:34:45 Time Left: 4 minutes
+20-04-18 15:35:45 Time Left: 3 minutes
+20-04-18 15:36:45 Time Left: 2 minutes
+20-04-18 15:37:45 Time Left: 1 minutes
+20-04-18 15:38:45 Next map: Lobby
+20-04-18 15:38:50 Lothic - Gothic Lobby Room
+20-04-18 15:43:50 Time Left: 5 minutes
+20-04-18 15:44:50 Time Left: 4 minutes
+20-04-18 15:45:50 Time Left: 3 minutes
+20-04-18 15:46:50 Time Left: 2 minutes
+20-04-18 15:47:50 Time Left: 1 minutes
+20-04-18 15:48:50 Next map: Lobby
+20-04-18 15:48:55 Lothic - Gothic Lobby Room
+20-04-18 15:53:55 Time Left: 5 minutes
+20-04-18 15:54:55 Time Left: 4 minutes
+20-04-18 15:55:55 Time Left: 3 minutes
+20-04-18 15:56:55 Time Left: 2 minutes
+20-04-18 15:57:55 Time Left: 1 minutes
+20-04-18 15:58:55 Next map: Lobby
+20-04-18 15:59:01 Lothic - Gothic Lobby Room
+20-04-18 16:04:01 Time Left: 5 minutes
+20-04-18 16:05:01 Time Left: 4 minutes
+20-04-18 16:06:01 Time Left: 3 minutes
+20-04-18 16:07:01 Time Left: 2 minutes
+20-04-18 16:08:01 Time Left: 1 minutes
+20-04-18 16:09:01 Next map: Lobby
+20-04-18 16:09:06 Lothic - Gothic Lobby Room
+20-04-18 16:10:29 186.11.89.42:14915|B91123F9945 requesting game...
+20-04-18 16:10:50 45.232.32.208:9023|696908AC8E7 requesting game...
+20-04-18 16:10:50 L der.cN joining game (45.232.32.208:9023) HWID:696908AC8E7
+20-04-18 16:10:50 L der.cN has joined as spectator.
+20-04-18 16:10:51 L der.cN has joined alpha team.
+20-04-18 16:10:55 [L der.cN] !map laos
+20-04-18 16:11:00 Laos
+20-04-18 16:11:05 L der.cN has left alpha team.
+20-04-18 16:11:05 Server password changed to scl
+20-04-18 16:16:00 Time Left: 5 minutes
+20-04-18 16:17:00 Time Left: 4 minutes
+20-04-18 16:18:00 Time Left: 3 minutes
+20-04-18 16:19:00 Time Left: 2 minutes
+20-04-18 16:20:00 Time Left: 1 minutes
+20-04-18 16:21:00 Next map: Lobby
+20-04-18 16:21:06 Lothic - Gothic Lobby Room
+20-04-18 16:26:06 Time Left: 5 minutes
+20-04-18 16:27:06 Time Left: 4 minutes
+20-04-18 16:28:06 Time Left: 3 minutes
+20-04-18 16:29:06 Time Left: 2 minutes
+20-04-18 16:30:06 Time Left: 1 minutes
+20-04-18 16:31:05 Next map: Lobby
+20-04-18 16:31:11 Lothic - Gothic Lobby Room
+20-04-18 16:36:11 Time Left: 5 minutes
+20-04-18 16:37:11 Time Left: 4 minutes
+20-04-18 16:38:11 Time Left: 3 minutes
+20-04-18 16:39:11 Time Left: 2 minutes
+20-04-18 16:40:11 Time Left: 1 minutes
+20-04-18 16:41:11 Next map: Lobby
+20-04-18 16:41:16 Lothic - Gothic Lobby Room
+20-04-18 16:46:16 Time Left: 5 minutes
+20-04-18 16:47:16 Time Left: 4 minutes
+20-04-18 16:47:58 37.238.192.34:19229|3CF21B9C886 requesting game...
+20-04-18 16:48:16 Time Left: 3 minutes
+20-04-18 16:49:16 Time Left: 2 minutes
+20-04-18 16:50:16 Time Left: 1 minutes
+20-04-18 16:51:16 Next map: Lobby
+20-04-18 16:51:21 Lothic - Gothic Lobby Room
+20-04-18 16:56:21 Time Left: 5 minutes
+20-04-18 16:57:21 Time Left: 4 minutes
+20-04-18 16:58:21 Time Left: 3 minutes
+20-04-18 16:59:21 Time Left: 2 minutes
+20-04-18 17:00:21 Time Left: 1 minutes
+20-04-18 17:01:21 Next map: Lobby
+20-04-18 17:01:27 Lothic - Gothic Lobby Room
+20-04-18 17:06:27 Time Left: 5 minutes
+20-04-18 17:07:27 Time Left: 4 minutes
+20-04-18 17:08:27 Time Left: 3 minutes
+20-04-18 17:09:27 Time Left: 2 minutes
+20-04-18 17:10:27 Time Left: 1 minutes
+20-04-18 17:11:27 Next map: Lobby
+20-04-18 17:11:32 Lothic - Gothic Lobby Room
+20-04-18 17:16:32 Time Left: 5 minutes
+20-04-18 17:17:32 Time Left: 4 minutes
+20-04-18 17:18:32 Time Left: 3 minutes
+20-04-18 17:19:32 Time Left: 2 minutes
+20-04-18 17:20:32 Time Left: 1 minutes
+20-04-18 17:21:32 Next map: Lobby
+20-04-18 17:21:37 Lothic - Gothic Lobby Room
+20-04-18 17:26:37 Time Left: 5 minutes
+20-04-18 17:27:37 Time Left: 4 minutes
+20-04-18 17:28:37 Time Left: 3 minutes
+20-04-18 17:29:37 Time Left: 2 minutes
+20-04-18 17:30:37 Time Left: 1 minutes
+20-04-18 17:31:37 Next map: Lobby
+20-04-18 17:31:43 Lothic - Gothic Lobby Room
+20-04-18 17:36:43 Time Left: 5 minutes
+20-04-18 17:37:43 Time Left: 4 minutes
+20-04-18 17:38:43 Time Left: 3 minutes
+20-04-18 17:39:43 Time Left: 2 minutes
+20-04-18 17:40:43 Time Left: 1 minutes
+20-04-18 17:41:43 Next map: Lobby
+20-04-18 17:41:48 Lothic - Gothic Lobby Room
+20-04-18 17:46:48 Time Left: 5 minutes
+20-04-18 17:47:48 Time Left: 4 minutes
+20-04-18 17:48:48 Time Left: 3 minutes
+20-04-18 17:49:48 Time Left: 2 minutes
+20-04-18 17:50:48 Time Left: 1 minutes
+20-04-18 17:51:48 Next map: Lobby
+20-04-18 17:51:53 Lothic - Gothic Lobby Room
+20-04-18 17:56:53 Time Left: 5 minutes
+20-04-18 17:57:53 Time Left: 4 minutes
+20-04-18 17:58:53 Time Left: 3 minutes

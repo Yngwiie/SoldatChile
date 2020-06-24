@@ -1,0 +1,20 @@
+20-03-31 21:13:48    Log Started
+20-03-31 21:13:48 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-03-31 21:13:48 Creating network interface.
+20-03-31 21:13:48 Loading Animations.
+20-03-31 21:13:48 Loading Lobby Servers List
+20-03-31 21:13:48 Loading Maps List
+20-03-31 21:13:48 Loading Map.
+20-03-31 21:13:48 Creating Weapons.
+20-03-31 21:13:48 Starting Game Server.
+20-03-31 21:13:48 TCP/IP File Server started
+20-03-31 21:43:48 TCP/IP File Server started
+20-03-31 22:13:48 TCP/IP File Server started
+20-03-31 22:43:48 TCP/IP File Server started
+20-03-31 23:13:48 TCP/IP File Server started
+20-03-31 23:43:48 TCP/IP File Server started
+20-04-01 00:13:48 TCP/IP File Server started
+20-04-01 00:32:19  Net - LB ~ Skipo connected 01-04-2020 0:32:19
+20-04-01 00:32:41  Net - LB ~ Skipo disconnected 01-04-2020 0:32:41
+20-03-31 19:43:50 TCP/IP File Server started
+20-03-31 20:13:50 TCP/IP File Server started

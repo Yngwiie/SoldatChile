@@ -1,0 +1,17 @@
+20-04-04 01:08:24    Log Started
+20-04-04 01:08:24 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-04 01:08:24 Creating network interface.
+20-04-04 01:08:24 Loading Animations.
+20-04-04 01:08:25 Loading Lobby Servers List
+20-04-04 01:08:25 Loading Maps List
+20-04-04 01:08:25 Loading Map.
+20-04-04 01:08:25 Creating Weapons.
+20-04-04 01:08:25 Starting Game Server.
+20-04-04 01:08:25 TCP/IP File Server started
+20-04-04 01:08:35  Net - sT#' KorN connected 04-04-2020 1:08:35
+20-04-04 01:08:43  Net - |D.Forc3|.Turko connected 04-04-2020 1:08:43
+20-04-04 01:08:46  Net - |D.Forc3|.Turko connected 04-04-2020 1:08:46
+20-04-04 01:09:08  Net - |D.Forc3|.Turko disconnected 04-04-2020 1:09:08
+20-04-04 01:09:09  Net - sT#' KorN disconnected 04-04-2020 1:09:09
+20-04-04 01:15:02 Destroying Devices.
+20-04-04 01:15:02    End of Log.

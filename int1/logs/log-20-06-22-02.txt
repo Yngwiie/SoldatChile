@@ -1,0 +1,153 @@
+20-06-22 12:05:01    Log Started
+20-06-22 12:05:01 Opened /home/kader_b/int1/soldat.ini
+20-06-22 12:05:01 Creating network interface.
+20-06-22 12:05:01 Loading Animations.
+20-06-22 12:05:01 Loading Lobby Servers List
+20-06-22 12:05:01 Loading Maps List
+20-06-22 12:05:01 Loading Map.
+20-06-22 12:05:01 Creating Weapons.
+20-06-22 12:05:01 Starting Game Server.
+20-06-22 12:05:01 TCP/IP File Server started
+20-06-22 12:35:02 TCP/IP File Server started
+20-06-22 13:05:02 TCP/IP File Server started
+20-06-22 13:35:02 TCP/IP File Server started
+20-06-22 14:05:02 TCP/IP File Server started
+20-06-22 14:35:02 TCP/IP File Server started
+20-06-22 15:05:02 TCP/IP File Server started
+20-06-22 15:35:02 TCP/IP File Server started
+20-06-22 16:05:02 TCP/IP File Server started
+20-06-22 16:35:02 TCP/IP File Server started
+20-06-22 17:05:02 TCP/IP File Server started
+20-06-22 17:35:02 TCP/IP File Server started
+20-06-22 18:05:02 TCP/IP File Server started
+20-06-22 18:35:02 TCP/IP File Server started
+20-06-22 19:05:02 TCP/IP File Server started
+20-06-22 19:35:02 TCP/IP File Server started
+20-06-22 20:05:02 TCP/IP File Server started
+20-06-22 20:35:02 TCP/IP File Server started
+20-06-22 21:05:02 TCP/IP File Server started
+20-06-22 21:35:02 TCP/IP File Server started
+20-06-22 22:05:02 TCP/IP File Server started
+20-06-22 22:09:56  Net - sT.- YnGwi3 connected 22-6-20 22:09:56
+20-06-22 22:09:59  Net - XRe1ch|KillMe! connected 22-6-20 22:09:59
+20-06-22 22:10:06  Net - sT.- YnGwi3 disconnected 22-6-20 22:10:06
+20-06-22 22:10:15  Net - sT#' YnGwi3 connected 22-6-20 22:10:15
+20-06-22 22:11:16  Net - XRe1ch|Mota connected 22-6-20 22:11:16
+20-06-22 22:11:57  Net - dimvss connected 22-6-20 22:11:57
+20-06-22 22:12:33  Net - XRe1ch|Mota connected 22-6-20 22:12:33
+20-06-22 22:12:41  Net - XRe1ch|KillMe! disconnected 22-6-20 22:12:41
+20-06-22 22:13:12  Net - W3.- connected 22-6-20 22:13:12
+20-06-22 22:13:19  Net - W3.- disconnected 22-6-20 22:13:19
+20-06-22 22:13:25  Net - W3.- connected 22-6-20 22:13:25
+20-06-22 22:13:57  Net - W3.- disconnected 22-6-20 22:13:57
+20-06-22 22:14:02  Net - W3.- connected 22-6-20 22:14:02
+20-06-22 22:14:05  Net - W3.- connected 22-6-20 22:14:05
+20-06-22 22:14:11  Net - W3.- disconnected 22-6-20 22:14:11
+20-06-22 22:14:15  Net - W3.- connected 22-6-20 22:14:15
+20-06-22 22:20:22  Net - W3.- disconnected 22-6-20 22:20:22
+20-06-22 22:20:24  Net - W3.- connected 22-6-20 22:20:24
+20-06-22 22:22:43  Net - XRe1ch|KillMe! connected 22-6-20 22:22:43
+20-06-22 22:22:51  Net - XRe1ch|KillMe! connected 22-6-20 22:22:51
+20-06-22 22:24:26  Net - XRe1ch|KillMe! connected 22-6-20 22:24:26
+20-06-22 22:29:04  Net - later Maaxis* (New Guy) connected 22-6-20 22:29:04
+20-06-22 22:30:34  Net - XRe1ch|Mota disconnected 22-6-20 22:30:34
+20-06-22 22:30:53  Net - W3.- connected 22-6-20 22:30:53
+20-06-22 22:30:55  Net - W3.- connected 22-6-20 22:30:55
+20-06-22 22:31:27  Net - sT#' YnGwi3 connected 22-6-20 22:31:27
+20-06-22 22:31:36  Net - XRe1ch|KillMe! disconnected 22-6-20 22:31:36
+20-06-22 22:32:09  Net - sT#' YnGwi3 disconnected 22-6-20 22:32:09
+20-06-22 22:32:12  Net - later Maaxis* (New Guy) disconnected 22-6-20 22:32:12
+20-06-22 22:32:19  Net - W3.- disconnected 22-6-20 22:32:19
+20-06-22 22:33:56  Net - dimvss disconnected 22-6-20 22:33:56
+20-06-22 22:35:08 TCP/IP File Server started
+20-06-22 23:05:08 TCP/IP File Server started
+20-06-22 23:35:08 TCP/IP File Server started
+20-06-23 00:05:08 TCP/IP File Server started
+20-06-23 00:20:59  Net - dimas la promesa chilena connected 23-6-20 00:20:59
+20-06-23 00:21:02  Net - dimas la promesa chilena disconnected 23-6-20 00:21:02
+20-06-23 00:21:09  Net - #1 Mand3s connected 23-6-20 00:21:09
+20-06-23 00:21:37  Net - d1m4s fanboi connected 23-6-20 00:21:37
+20-06-23 00:21:38  Net - ntt' .::BENJA_THE_GOD::. connected 23-6-20 00:21:38
+20-06-23 00:21:44  Net - ntt' rattle connected 23-6-20 00:21:44
+20-06-23 00:23:09  Net - ntt' .::BENJA_THE_GOD::. connected 23-6-20 00:23:09
+20-06-23 00:23:50  Net - ntt' .::BENJA_THE_GOD::. connected 23-6-20 00:23:50
+20-06-23 00:24:09  Net - ntt' .::BENJA_THE_GOD::. connected 23-6-20 00:24:09
+20-06-23 00:30:00  Net - ntt' rattle connected 23-6-20 00:30:00
+20-06-23 00:35:15 TCP/IP File Server started
+20-06-23 00:40:37  Net - ntt' .::BENJA_THE_GOD::. connected 23-6-20 00:40:37
+20-06-23 00:40:37  Net - #1 Mand3s connected 23-6-20 00:40:37
+20-06-23 00:40:42  Net - #1 Mand3s connected 23-6-20 00:40:42
+20-06-23 00:40:48  Net - d1m4s fanboi connected 23-6-20 00:40:48
+20-06-23 00:48:54  Net - Re Pollo connected 23-6-20 00:48:54
+20-06-23 00:48:54  Net - Re Pollo connected 23-6-20 00:48:54
+20-06-23 00:54:34  Net - d1m4s fanboi disconnected 23-6-20 00:54:34
+20-06-23 00:54:36  Net - #1 Mand3s disconnected 23-6-20 00:54:36
+20-06-23 00:55:11  Net - Re Pollo connected 23-6-20 00:55:11
+20-06-23 00:55:33  Net - ntt' rattle disconnected 23-6-20 00:55:33
+20-06-23 00:56:59  Net - ntt' .::BENJA_THE_GOD::. disconnected 23-6-20 00:56:59
+20-06-23 00:57:07  Net - Re Pollo disconnected 23-6-20 00:57:07
+20-06-23 01:05:15 TCP/IP File Server started
+20-06-23 01:23:28  Net - uoL| ryetS connected 23-6-20 01:23:28
+20-06-23 01:23:35  Net - uoL| ryetS disconnected 23-6-20 01:23:35
+20-06-23 01:26:38  Net - uoL| ryetS connected 23-6-20 01:26:38
+20-06-23 01:26:44  Net - uoL| ryetS disconnected 23-6-20 01:26:44
+20-06-23 01:28:18  Net - uoL| ryetS connected 23-6-20 01:28:18
+20-06-23 01:28:31  Net - uoL| ryetS disconnected 23-6-20 01:28:31
+20-06-23 01:28:42  Net - uoL| ryetS connected 23-6-20 01:28:42
+20-06-23 01:28:47  Net - uoL| ryetS disconnected 23-6-20 01:28:47
+20-06-23 01:28:59  Net - uoL| ryetS connected 23-6-20 01:28:59
+20-06-23 01:29:27  Net - uoL| ryetS disconnected 23-6-20 01:29:27
+20-06-23 01:35:15 TCP/IP File Server started
+20-06-23 02:05:15 TCP/IP File Server started
+20-06-23 02:35:15 TCP/IP File Server started
+20-06-23 02:42:37  Net - uoL| athe connected 23-6-20 02:42:37
+20-06-23 02:42:55  Net - uoL| athe disconnected 23-6-20 02:42:55
+20-06-23 02:43:01  Net - uoL| athe connected 23-6-20 02:43:01
+20-06-23 02:43:13  Net - uoL| athe disconnected 23-6-20 02:43:13
+20-06-23 02:43:24  Net - uoL| athe connected 23-6-20 02:43:24
+20-06-23 02:43:31  Net - uoL| athe disconnected 23-6-20 02:43:31
+20-06-23 02:43:39  Net - uoL| athe connected 23-6-20 02:43:39
+20-06-23 02:43:44  Net - uoL| athe disconnected 23-6-20 02:43:44
+20-06-23 02:43:51  Net - uoL| athe connected 23-6-20 02:43:51
+20-06-23 02:44:00  Net - uoL| athe disconnected 23-6-20 02:44:00
+20-06-23 02:44:06  Net - uoL| athe connected 23-6-20 02:44:06
+20-06-23 02:44:20  Net - uoL| athe disconnected 23-6-20 02:44:20
+20-06-23 02:45:28  Net - uoL| athe connected 23-6-20 02:45:28
+20-06-23 02:46:01  Net - uoL| athe disconnected 23-6-20 02:46:01
+20-06-23 02:46:49  Net - uoL| athe connected 23-6-20 02:46:49
+20-06-23 02:47:11  Net - uoL| athe disconnected 23-6-20 02:47:11
+20-06-23 02:47:19  Net - uoL| athe connected 23-6-20 02:47:19
+20-06-23 02:47:22  Net - uoL| athe disconnected 23-6-20 02:47:22
+20-06-23 02:48:43  Net - uoL| athe connected 23-6-20 02:48:43
+20-06-23 02:49:11  Net - uoL| athe disconnected 23-6-20 02:49:11
+20-06-23 02:51:57  Net - uoL| athe connected 23-6-20 02:51:57
+20-06-23 02:52:02  Net - uoL| athe disconnected 23-6-20 02:52:02
+20-06-23 02:52:20  Net - uoL| athe connected 23-6-20 02:52:20
+20-06-23 02:53:29  Net - uoL| athe disconnected 23-6-20 02:53:29
+20-06-23 02:57:05  Net - XRe1ch|Pirlinho connected 23-6-20 02:57:05
+20-06-23 02:57:40  Net - XReich|CWe1C connected 23-6-20 02:57:40
+20-06-23 02:57:43  Net - XReich|CWe1C connected 23-6-20 02:57:43
+20-06-23 02:58:08  Net - XRe1ch|Pirlinho disconnected 23-6-20 02:58:08
+20-06-23 02:58:16  Net - XRe1ch|Pirlinho connected 23-6-20 02:58:16
+20-06-23 03:04:24  Net - XReich|CWe1C disconnected 23-6-20 03:04:24
+20-06-23 03:04:39  Net - XRe1ch|Pirlinho disconnected 23-6-20 03:04:39
+20-06-23 03:04:52  Net - XRe1ch|Pirlinho connected 23-6-20 03:04:52
+20-06-23 03:04:58  Net - XRe1ch|Pirlinho disconnected 23-6-20 03:04:58
+20-06-23 03:05:08  Net - XRe1ch|Pirlinho connected 23-6-20 03:05:08
+20-06-23 03:05:23 TCP/IP File Server started
+20-06-23 03:05:34  Net - XReich|CWe1C connected 23-6-20 03:05:34
+20-06-23 03:05:39  Net - XReich|CWe1C connected 23-6-20 03:05:39
+20-06-23 03:06:33  Net - ntt' Maaxis* (NEW GUY) connected 23-6-20 03:06:33
+20-06-23 03:06:37  Net - ntt' Maaxis* (NEW GUY) disconnected 23-6-20 03:06:37
+20-06-23 03:07:05  Net - XReich|CWe1C disconnected 23-6-20 03:07:05
+20-06-23 03:07:19  Net - XRe1ch|Pirlinho disconnected 23-6-20 03:07:19
+20-06-23 03:35:23 TCP/IP File Server started
+20-06-23 04:03:39  Net - XRe1ch|Pirlinho connected 23-6-20 04:03:39
+20-06-23 04:05:23 TCP/IP File Server started
+20-06-23 04:09:15  Net - XRe1ch|Pirlinho connected 23-6-20 04:09:15
+20-06-23 04:10:11  Net - XRe1ch|Pirlinho disconnected 23-6-20 04:10:11
+20-06-23 04:35:31 TCP/IP File Server started
+20-06-23 05:05:30 TCP/IP File Server started
+20-06-23 05:35:30 TCP/IP File Server started
+20-06-23 06:05:31 TCP/IP File Server started
+20-06-23 06:35:31 TCP/IP File Server started

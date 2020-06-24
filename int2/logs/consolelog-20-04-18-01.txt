@@ -1,0 +1,91 @@
+20-04-18 22:42:25    Console Log Started
+20-04-18 22:42:25 Welcome to Soldat 1.7.1
+20-04-18 22:42:25  [*] Preparing scripts to be launched
+20-04-18 22:42:25  [*] [BasicCommands] Compilation started
+20-04-18 22:42:25  [*] [BasicCommands] Compilation complete
+20-04-18 22:42:25  [*] [BasicCommands] Loading bytecode
+20-04-18 22:42:25  [*] [BasicCommands] Bytecode loaded
+20-04-18 22:42:25  [*] Compiling match -> match.pas...
+20-04-18 22:42:25  [*] match compiled
+20-04-18 22:42:25  [*] Done
+20-04-18 22:42:25 Lothic - Gothic Lobby Room
+20-04-18 22:42:25 Loaded weapons mod "Default v1.8"
+20-04-18 22:42:25  Connection for file server started. Port: 23210
+20-04-18 22:42:25 Registering server @ 88.99.234.252
+20-04-18 22:47:25 Time Left: 5 minutes
+20-04-18 22:48:25 Time Left: 4 minutes
+20-04-18 22:49:25 Time Left: 3 minutes
+20-04-18 22:50:25 Time Left: 2 minutes
+20-04-18 22:51:25 Time Left: 1 minutes
+20-04-18 22:52:25 Next map: Lobby
+20-04-18 22:52:31 Lothic - Gothic Lobby Room
+20-04-18 22:57:31 Time Left: 5 minutes
+20-04-18 22:58:31 Time Left: 4 minutes
+20-04-18 22:59:31 Time Left: 3 minutes
+20-04-18 23:00:31 Time Left: 2 minutes
+20-04-18 23:01:31 Time Left: 1 minutes
+20-04-18 23:02:31 Next map: Lobby
+20-04-18 23:02:36 Lothic - Gothic Lobby Room
+20-04-18 23:07:36 Time Left: 5 minutes
+20-04-18 23:08:36 Time Left: 4 minutes
+20-04-18 23:09:36 Time Left: 3 minutes
+20-04-18 23:10:36 Time Left: 2 minutes
+20-04-18 23:11:36 Time Left: 1 minutes
+20-04-18 23:12:36 Next map: Lobby
+20-04-18 23:12:41 Lothic - Gothic Lobby Room
+20-04-18 23:17:41 Time Left: 5 minutes
+20-04-18 23:18:41 Time Left: 4 minutes
+20-04-18 23:19:26 190.92.109.46:23073|117ECA2C55A requesting game...
+20-04-18 23:19:41 Time Left: 3 minutes
+20-04-18 23:20:41 Time Left: 2 minutes
+20-04-18 23:21:41 Time Left: 1 minutes
+20-04-18 23:22:41 Next map: Lobby
+20-04-18 23:22:47 Lothic - Gothic Lobby Room
+20-04-18 23:27:46 Time Left: 5 minutes
+20-04-18 23:28:46 Time Left: 4 minutes
+20-04-18 23:29:46 Time Left: 3 minutes
+20-04-18 23:30:46 Time Left: 2 minutes
+20-04-18 23:31:46 Time Left: 1 minutes
+20-04-18 23:32:46 Next map: Lobby
+20-04-18 23:32:52 Lothic - Gothic Lobby Room
+20-04-18 23:37:52 Time Left: 5 minutes
+20-04-18 23:38:52 Time Left: 4 minutes
+20-04-18 23:39:52 Time Left: 3 minutes
+20-04-18 23:40:52 Time Left: 2 minutes
+20-04-18 23:41:52 Time Left: 1 minutes
+20-04-18 23:42:52 Next map: Lobby
+20-04-18 23:42:57 Lothic - Gothic Lobby Room
+20-04-18 23:47:57 Time Left: 5 minutes
+20-04-18 23:48:57 Time Left: 4 minutes
+20-04-18 23:49:57 Time Left: 3 minutes
+20-04-18 23:50:57 Time Left: 2 minutes
+20-04-18 23:51:57 Time Left: 1 minutes
+20-04-18 23:52:57 Next map: Lobby
+20-04-18 23:53:02 Lothic - Gothic Lobby Room
+20-04-18 23:58:02 Time Left: 5 minutes
+20-04-18 23:59:02 Time Left: 4 minutes
+20-04-19 00:00:02 Time Left: 3 minutes
+20-04-19 00:01:02 Time Left: 2 minutes
+20-04-19 00:02:02 Time Left: 1 minutes
+20-04-19 00:02:32 190.16.109.52:23073|111F9C66D5A requesting game...
+20-04-19 00:03:02 Next map: Lobby
+20-04-19 00:03:08 Lothic - Gothic Lobby Room
+20-04-19 00:08:08 Time Left: 5 minutes
+20-04-19 00:09:08 Time Left: 4 minutes
+20-04-19 00:10:08 Time Left: 3 minutes
+20-04-19 00:11:08 Time Left: 2 minutes
+20-04-19 00:12:08 Time Left: 1 minutes
+20-04-19 00:13:08 Next map: Lobby
+20-04-19 00:13:13 Lothic - Gothic Lobby Room
+20-04-19 00:18:13 Time Left: 5 minutes
+20-04-19 00:19:13 Time Left: 4 minutes
+20-04-19 00:20:13 Time Left: 3 minutes
+20-04-19 00:20:41 Admin connected (45.232.32.208).
+20-04-19 00:20:41 Admin disconnected (45.232.32.208).
+20-04-19 00:20:44 Admin connected (45.232.32.208).
+20-04-19 00:20:44 Server Encountered an error:
+20-04-19 00:20:44 Connection Closed Gracefully.
+20-04-19 00:20:44 Shutting down server...
+20-04-19 00:20:44 Admin disconnected (45.232.32.208).
+20-04-19 00:20:44 Shutting down FileServer...
+20-04-19 00:20:44 Shutting down admin server...

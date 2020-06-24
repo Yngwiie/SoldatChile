@@ -1,0 +1,224 @@
+20-04-23 23:27:53    Log Started
+20-04-23 23:27:53 Opened /home/kader_b/int1/soldat.ini
+20-04-23 23:29:34  Net - r3v' Winter connected 23-4-20 23:29:34
+20-04-23 23:32:01  Net - Divas| Rattle disconnected 23-4-20 23:32:01
+20-04-23 23:32:06  Net - Divas| Rattle connected 23-4-20 23:32:06
+20-04-23 23:32:59  Net - Mercy connected 23-4-20 23:32:59
+20-04-23 23:33:29  Net - eX.- J4zz connected 23-4-20 23:33:29
+20-04-23 23:36:23  Net - Mercy disconnected 23-4-20 23:36:23
+20-04-23 23:43:17  Net - r3v' Coco connected 23-4-20 23:43:17
+20-04-23 23:43:17  Net - r3v' Winter connected 23-4-20 23:43:17
+20-04-23 23:43:28  Net - r3v' DrK connected 23-4-20 23:43:28
+20-04-23 23:43:30  Net - r3v' Colt connected 23-4-20 23:43:30
+20-04-23 23:45:23 TCP/IP File Server started
+20-04-23 23:46:57  Net - eX.- J4zz disconnected 23-4-20 23:46:57
+20-04-23 23:48:02  Net - sT.- YnGwi3 connected 23-4-20 23:48:02
+20-04-23 23:48:43  Net - sT.- YnGwi3 disconnected 23-4-20 23:48:43
+20-04-23 23:48:46  Net - Divas| Rattle disconnected 23-4-20 23:48:46
+20-04-23 23:48:47  Net - r3v' Winter disconnected 23-4-20 23:48:47
+20-04-23 23:48:48  Net - r3v' Mand3s disconnected 23-4-20 23:48:48
+20-04-23 23:48:49  Net - r3v' DrK disconnected 23-4-20 23:48:49
+20-04-23 23:48:50  Net - r3v' Coco disconnected 23-4-20 23:48:50
+20-04-23 23:48:51  Net - r3v' Colt disconnected 23-4-20 23:48:51
+20-04-23 23:48:54  Net - Divas| Sk8' disconnected 23-4-20 23:48:54
+20-04-23 23:48:58  Net - Divas| mipHo disconnected 23-4-20 23:48:58
+20-04-23 23:49:48  Net - sT.- YnGwi3 connected 23-4-20 23:49:48
+20-04-23 23:49:50  Net - sT.- YnGwi3 disconnected 23-4-20 23:49:50
+20-04-23 23:57:53  Net - [UnK] Atheria connected 23-4-20 23:57:53
+20-04-23 23:58:04  Net - [UnK] Atheria disconnected 23-4-20 23:58:04
+20-04-24 00:13:17  Net - r3v' Winter connected 24-4-20 00:13:17
+20-04-24 00:13:31  Net - r3v' Coco connected 24-4-20 00:13:31
+20-04-24 00:13:56  Net - RtP| LeprosycL connected 24-4-20 00:13:56
+20-04-24 00:13:56  Net - RtP| LoKitoHcL connected 24-4-20 00:13:56
+20-04-24 00:13:58  Net - RtP| LeprosycL disconnected 24-4-20 00:13:58
+20-04-24 00:14:04  Net - RtP| LeprosycL connected 24-4-20 00:14:04
+20-04-24 00:14:25  Net - boxb connected 24-4-20 00:14:25
+20-04-24 00:14:33  Net - *Colt connected 24-4-20 00:14:33
+20-04-24 00:14:36  Net - *Colt disconnected 24-4-20 00:14:36
+20-04-24 00:14:37  Net - RtP| LeprosycL disconnected 24-4-20 00:14:37
+20-04-24 00:14:47  Net - r3v' Colt connected 24-4-20 00:14:47
+20-04-24 00:14:57  Net - r3v' Coco disconnected 24-4-20 00:14:57
+20-04-24 00:15:11  Net - r3v' Coco connected 24-4-20 00:15:11
+20-04-24 00:15:19  Net - RtP| Welcome To Paradise connected 24-4-20 00:15:19
+20-04-24 00:15:23 TCP/IP File Server started
+20-04-24 00:17:42  Net - =E*R= Skipo connected 24-4-20 00:17:42
+20-04-24 00:17:51  Net - RtP| Breeze connected 24-4-20 00:17:51
+20-04-24 00:21:43  Net - r3v' Colt disconnected 24-4-20 00:21:43
+20-04-24 00:22:05  Net - r3v' Colt connected 24-4-20 00:22:05
+20-04-24 00:37:19  Net - RtP| Breeze disconnected 24-4-20 00:37:19
+20-04-24 00:37:28  Net - RtP| Breeze connected 24-4-20 00:37:28
+20-04-24 00:45:23 TCP/IP File Server started
+20-04-24 00:45:47  Net - sT.- YnGwi3 connected 24-4-20 00:45:47
+20-04-24 00:48:04  Net - RtP| Welcome To Paradise disconnected 24-4-20 00:48:04
+20-04-24 00:48:13  Net - RtP| Breeze disconnected 24-4-20 00:48:13
+20-04-24 00:48:15  Net - RtP| LoKitoHcL disconnected 24-4-20 00:48:15
+20-04-24 00:48:16  Net - boxb disconnected 24-4-20 00:48:16
+20-04-24 00:48:18  Net - r3v' Winter disconnected 24-4-20 00:48:18
+20-04-24 00:48:18  Net - r3v' Colt disconnected 24-4-20 00:48:18
+20-04-24 00:48:19  Net - =E*R= Skipo disconnected 24-4-20 00:48:19
+20-04-24 00:48:19  Net - sT.- YnGwi3 disconnected 24-4-20 00:48:19
+20-04-24 00:48:21  Net - r3v' Coco disconnected 24-4-20 00:48:21
+20-04-24 01:15:23 TCP/IP File Server started
+20-04-24 01:27:43  Net - sT.- YnGwi3 connected 24-4-20 01:27:43
+20-04-24 01:28:52  Net - sT.- YnGwi3 disconnected 24-4-20 01:28:52
+20-04-24 01:41:12  Net - sT.- YnGwi3 connected 24-4-20 01:41:12
+20-04-24 01:41:22  Net - sT.- YnGwi3 connected 24-4-20 01:41:22
+20-04-24 01:41:25  Net - r3v' Coco connected 24-4-20 01:41:25
+20-04-24 01:41:28  Net - r3v' Mand3s connected 24-4-20 01:41:28
+20-04-24 01:41:35  Net - K!NG| Rakkety connected 24-4-20 01:41:35
+20-04-24 01:41:38  Net - sT.- YnGwi3 disconnected 24-4-20 01:41:38
+20-04-24 01:41:40  Net - K!NG| MaaX* connected 24-4-20 01:41:40
+20-04-24 01:41:46  Net - K!NG| MaaX* connected 24-4-20 01:41:46
+20-04-24 01:41:50  Net - K!NG| YnGwi3 connected 24-4-20 01:41:50
+20-04-24 01:42:02  Net - K!NG| Rakkety connected 24-4-20 01:42:02
+20-04-24 01:42:05  Net - boxb connected 24-4-20 01:42:05
+20-04-24 01:42:16  Net - r3v' Colt connected 24-4-20 01:42:16
+20-04-24 01:42:29  Net - r3v' DrK connected 24-4-20 01:42:29
+20-04-24 01:42:33  Net - r3v' Coco connected 24-4-20 01:42:33
+20-04-24 01:43:00  Net - Warfar3.- connected 24-4-20 01:43:00
+20-04-24 01:43:19  Net - r3v' DrK connected 24-4-20 01:43:19
+20-04-24 01:44:30  Net - r3v' Winter connected 24-4-20 01:44:30
+20-04-24 01:45:23 TCP/IP File Server started
+20-04-24 01:45:48  Net - r3v' Colt connected 24-4-20 01:45:48
+20-04-24 01:46:44  Net - r3v' Winter connected 24-4-20 01:46:44
+20-04-24 01:48:24  Net - IncuboyD ~ connected 24-4-20 01:48:24
+20-04-24 01:48:39  Net - boxb disconnected 24-4-20 01:48:39
+20-04-24 01:48:51  Net - IncuboyD ~ disconnected 24-4-20 01:48:51
+20-04-24 01:59:21  Net - r3v' Winter connected 24-4-20 01:59:21
+20-04-24 01:59:41  Net - r3v' Colt connected 24-4-20 01:59:41
+20-04-24 02:10:32  Net - r3v' Colt connected 24-4-20 02:10:32
+20-04-24 02:10:44  Net - r3v' Winter connected 24-4-20 02:10:44
+20-04-24 02:15:23 TCP/IP File Server started
+20-04-24 02:15:46  Net - Warfar3.- disconnected 24-4-20 02:15:46
+20-04-24 02:18:46  Net - K!NG| MaaX* disconnected 24-4-20 02:18:46
+20-04-24 02:18:48  Net - K!NG| Rakkety disconnected 24-4-20 02:18:48
+20-04-24 02:18:49  Net - r3v' Mand3s disconnected 24-4-20 02:18:49
+20-04-24 02:18:50  Net - r3v' Winter disconnected 24-4-20 02:18:50
+20-04-24 02:18:50  Net - r3v' Coco disconnected 24-4-20 02:18:50
+20-04-24 02:18:52  Net - K!NG| YnGwi3 disconnected 24-4-20 02:18:52
+20-04-24 02:18:53  Net - r3v' Colt disconnected 24-4-20 02:18:53
+20-04-24 02:18:55  Net - r3v' DrK disconnected 24-4-20 02:18:55
+20-04-24 02:24:03  Net - r3v' Mand3s connected 24-4-20 02:24:03
+20-04-24 02:24:29  Net - Ox*Skipo connected 24-4-20 02:24:29
+20-04-24 02:24:31  Net - Divas| Rattle connected 24-4-20 02:24:31
+20-04-24 02:24:31  Net - Divas| Rattle disconnected 24-4-20 02:24:31
+20-04-24 02:24:32  Net - Ox*Skipo disconnected 24-4-20 02:24:32
+20-04-24 02:24:43  Net - r3v' Mand3s disconnected 24-4-20 02:24:43
+20-04-24 02:44:13  Net - sT.- YnGwi3 connected 24-4-20 02:44:13
+20-04-24 02:44:14  Net - sT.- YnGwi3 disconnected 24-4-20 02:44:14
+20-04-24 02:45:23 TCP/IP File Server started
+20-04-24 02:54:43  Net - #KbN! VanscL connected 24-4-20 02:54:43
+20-04-24 02:54:45  Net - #KbN! VanscL disconnected 24-4-20 02:54:45
+20-04-24 02:55:27  Net - S2 ~ patuzhO* connected 24-4-20 02:55:27
+20-04-24 02:55:31  Net - S2 ~ patuzhO* connected 24-4-20 02:55:31
+20-04-24 02:55:52  Net - r3v' Coco connected 24-4-20 02:55:52
+20-04-24 02:56:01  Net - r3v' Colt connected 24-4-20 02:56:01
+20-04-24 02:56:17  Net - r3v' Mand3s connected 24-4-20 02:56:17
+20-04-24 02:56:23  Net - r3v' Colt connected 24-4-20 02:56:23
+20-04-24 02:56:33  Net - S2 ~ bio connected 24-4-20 02:56:33
+20-04-24 02:56:39  Net - r3v' Mand3s connected 24-4-20 02:56:39
+20-04-24 02:56:39  Net - S2 ~ bio connected 24-4-20 02:56:39
+20-04-24 02:57:28  Net - r3v' DrK connected 24-4-20 02:57:28
+20-04-24 02:58:10  Net - S2 ~ DeFkOndOz* connected 24-4-20 02:58:10
+20-04-24 02:58:56  Net - r3v' Mand3s disconnected 24-4-20 02:58:56
+20-04-24 02:58:58  Net - r3v' Mand3s connected 24-4-20 02:58:58
+20-04-24 03:03:14  Net - Mercy connected 24-4-20 03:03:14
+20-04-24 03:04:59  Net - Divas| Rattle connected 24-4-20 03:04:59
+20-04-24 03:05:44  Net - Divas| mipHo connected 24-4-20 03:05:44
+20-04-24 03:05:44  Net - Divas| Sk8' connected 24-4-20 03:05:44
+20-04-24 03:05:56  Net - Divas| Enigma connected 24-4-20 03:05:56
+20-04-24 03:07:09  Net - Mercy disconnected 24-4-20 03:07:09
+20-04-24 03:09:52  Net - r3v' DrK connected 24-4-20 03:09:52
+20-04-24 03:09:53  Net - r3v' Mand3s connected 24-4-20 03:09:53
+20-04-24 03:15:23 TCP/IP File Server started
+20-04-24 03:15:59  Net - Divas| Rattle disconnected 24-4-20 03:15:59
+20-04-24 03:18:27  Net - Divas| Rattle connected 24-4-20 03:18:27
+20-04-24 03:20:21  Net - r3v' Coco connected 24-4-20 03:20:21
+20-04-24 03:20:24  Net - r3v' Mand3s connected 24-4-20 03:20:24
+20-04-24 03:22:28  Net - Guidex cL connected 24-4-20 03:22:28
+20-04-24 03:22:38  Net - Guidex cL disconnected 24-4-20 03:22:38
+20-04-24 03:31:45  Net - Divas| Rattle disconnected 24-4-20 03:31:45
+20-04-24 03:31:47  Net - S2 ~ DeFkOndOz* disconnected 24-4-20 03:31:47
+20-04-24 03:31:53  Net - S2 ~ patuzhO* disconnected 24-4-20 03:31:53
+20-04-24 03:31:55  Net - S2 ~ bio disconnected 24-4-20 03:31:55
+20-04-24 03:31:59  Net - r3v' Coco disconnected 24-4-20 03:31:59
+20-04-24 03:32:01  Net - r3v' Mand3s disconnected 24-4-20 03:32:01
+20-04-24 03:32:02  Net - Divas| Enigma disconnected 24-4-20 03:32:02
+20-04-24 03:32:02  Net - r3v' DrK disconnected 24-4-20 03:32:02
+20-04-24 03:32:03  Net - r3v' Colt disconnected 24-4-20 03:32:03
+20-04-24 03:32:04  Net - Divas| mipHo disconnected 24-4-20 03:32:04
+20-04-24 03:32:17  Net - Divas| Sk8' disconnected 24-4-20 03:32:17
+20-04-24 03:40:58  Net - sT.- YnGwi3 connected 24-4-20 03:40:58
+20-04-24 03:41:02  Net - sT.- YnGwi3 disconnected 24-4-20 03:41:02
+20-04-24 03:45:23 TCP/IP File Server started
+20-04-24 03:49:42  Net - #KbN! chub0Lag connected 24-4-20 03:49:42
+20-04-24 03:50:38  Net - #KbN! Nitho connected 24-4-20 03:50:38
+20-04-24 03:51:05  Net - #KbN! chub0Lag connected 24-4-20 03:51:05
+20-04-24 03:52:44  Net - #KbN! AsteK connected 24-4-20 03:52:44
+20-04-24 03:53:18  Net - #KbN! chub0Lag disconnected 24-4-20 03:53:18
+20-04-24 03:53:18  Net - #KbN! AsteK disconnected 24-4-20 03:53:18
+20-04-24 03:53:20  Net - #KbN! AsteK connected 24-4-20 03:53:20
+20-04-24 03:53:26  Net - #KbN! chub0Lag connected 24-4-20 03:53:26
+20-04-24 03:53:28  Net - #KbN! Nitho connected 24-4-20 03:53:28
+20-04-24 03:55:42  Net - #KbN! chub0Lag disconnected 24-4-20 03:55:42
+20-04-24 03:55:55  Net - #CbN! PoRnOoB connected 24-4-20 03:55:55
+20-04-24 03:56:13  Net - #KbN! chub0Lag connected 24-4-20 03:56:13
+20-04-24 03:56:38  Net - #CbN! Dumpweed connected 24-4-20 03:56:38
+20-04-24 03:56:41  Net - #CbN! Dumpweed connected 24-4-20 03:56:41
+20-04-24 03:56:45  Net - #CbN! PoRnOoB connected 24-4-20 03:56:45
+20-04-24 03:56:47  Net - #CbN! Dumpweed connected 24-4-20 03:56:47
+20-04-24 03:56:51  Net - #CbN! Dumpweed connected 24-4-20 03:56:51
+20-04-24 03:56:56  Net - #KbN! AsteK connected 24-4-20 03:56:56
+20-04-24 03:58:38  Net - #KbN! chub0Lag disconnected 24-4-20 03:58:38
+20-04-24 03:58:58  Net - #KbN! Chrono connected 24-4-20 03:58:58
+20-04-24 04:12:02  Net - #KbN! Nitho connected 24-4-20 04:12:02
+20-04-24 04:12:06  Net - #KbN! Chrono connected 24-4-20 04:12:06
+20-04-24 04:13:54  Net - sT.- YnGwi3 connected 24-4-20 04:13:54
+20-04-24 04:13:56  Net - sT.- YnGwi3 disconnected 24-4-20 04:13:56
+20-04-24 04:15:05  Net - sT.- YnGwi3 connected 24-4-20 04:15:05
+20-04-24 04:15:23 TCP/IP File Server started
+20-04-24 04:15:25  Net - sT.- YnGwi3 disconnected 24-4-20 04:15:25
+20-04-24 04:17:30  Net - eX.- Necro connected 24-4-20 04:17:30
+20-04-24 04:19:40  Net - eX.- Necro disconnected 24-4-20 04:19:40
+20-04-24 04:23:50  Net - sT.- YnGwi3 connected 24-4-20 04:23:50
+20-04-24 04:24:16  Net - sT.- YnGwi3 disconnected 24-4-20 04:24:16
+20-04-24 04:29:17  Net - #KbN! Nitho connected 24-4-20 04:29:17
+20-04-24 04:29:21  Net - #CbN! Dumpweed connected 24-4-20 04:29:21
+20-04-24 04:29:23  Net - #KbN! Chrono connected 24-4-20 04:29:23
+20-04-24 04:29:26  Net - #CbN! PoRnOoB connected 24-4-20 04:29:26
+20-04-24 04:29:29  Net - #KbN! AsteK connected 24-4-20 04:29:29
+20-04-24 04:29:37  Net - #KbN! AsteK connected 24-4-20 04:29:37
+20-04-24 04:29:53  Net - #KbN! AsteK disconnected 24-4-20 04:29:53
+20-04-24 04:30:33  Net - #CbN! PoRnOoB connected 24-4-20 04:30:33
+20-04-24 04:30:59  Net - #KbN! Chrono disconnected 24-4-20 04:30:59
+20-04-24 04:31:20  Net - #CbN! Dumpweed disconnected 24-4-20 04:31:20
+20-04-24 04:33:09  Net - eX.- Ratzor connected 24-4-20 04:33:09
+20-04-24 04:33:32  Net - eX.- Ratzor disconnected 24-4-20 04:33:32
+20-04-24 04:34:37  Net - eX.- Ratzor connected 24-4-20 04:34:37
+20-04-24 04:35:38  Net - #KbN! AsteK connected 24-4-20 04:35:38
+20-04-24 04:37:59  Net - #KbN! AsteK connected 24-4-20 04:37:59
+20-04-24 04:39:15  Net - eX.- Ratzor disconnected 24-4-20 04:39:15
+20-04-24 04:45:23 TCP/IP File Server started
+20-04-24 04:45:28  Net - #KbN! Chrono connected 24-4-20 04:45:28
+20-04-24 04:46:07  Net - #KbN! AsteK disconnected 24-4-20 04:46:07
+20-04-24 04:46:07  Net - #CbN! PoRnOoB disconnected 24-4-20 04:46:07
+20-04-24 04:46:10  Net - #CbN! PoRnOoB connected 24-4-20 04:46:10
+20-04-24 04:46:10  Net - #KbN! AsteK connected 24-4-20 04:46:10
+20-04-24 04:47:38  Net - sT.- YnGwi3 connected 24-4-20 04:47:38
+20-04-24 04:47:40  Net - sT.- YnGwi3 disconnected 24-4-20 04:47:40
+20-04-24 04:47:42  Net - sT.- YnGwi3 connected 24-4-20 04:47:42
+20-04-24 04:48:03  Net - sT.- YnGwi3 disconnected 24-4-20 04:48:03
+20-04-24 04:57:07  Net - #KbN! Chrono disconnected 24-4-20 04:57:07
+20-04-24 04:57:22  Net - #CbN! PoRnOoB disconnected 24-4-20 04:57:22
+20-04-24 04:57:43  Net - #KbN! AsteK disconnected 24-4-20 04:57:43
+20-04-24 04:58:21  Net - #KbN! Nitho disconnected 24-4-20 04:58:21
+20-04-24 04:58:26  Net - #KbN! Nitho connected 24-4-20 04:58:26
+20-04-24 04:58:32  Net - #KbN! Chrono connected 24-4-20 04:58:32
+20-04-24 04:58:58  Net - #KbN! Chrono disconnected 24-4-20 04:58:58
+20-04-24 05:00:03  Net - #KbN! Nitho disconnected 24-4-20 05:00:03
+20-04-24 05:00:16  Net - #KbN! Nitho connected 24-4-20 05:00:16
+20-04-24 05:02:05  Net - #KbN! Nitho disconnected 24-4-20 05:02:05
+20-04-24 05:08:25  Net - sT.- YnGwi3 connected 24-4-20 05:08:25
+20-04-24 05:08:45  Net - sT.- YnGwi3 disconnected 24-4-20 05:08:45
+20-04-24 05:10:20 Destroying Devices.
+20-04-24 05:10:20    End of Log.

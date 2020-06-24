@@ -1,0 +1,135 @@
+20-04-24 17:47:09    Console Log Started
+20-04-24 17:47:10 Welcome to Soldat 1.7.1
+20-04-24 17:47:10  [*] Preparing scripts to be launched
+20-04-24 17:47:10  [*] [BasicCommands] Loading bytecode
+20-04-24 17:47:10  [*] [BasicCommands] Bytecode loaded
+20-04-24 17:47:10  [*] Compiling match -> match.pas...
+20-04-24 17:47:10  [*] match compiled
+20-04-24 17:47:10  [*] Done
+20-04-24 17:47:10 Lothic - Gothic Lobby Room
+20-04-24 17:47:10 Loaded weapons mod "Default v1.8"
+20-04-24 17:47:10  Connection for file server started. Port: 23110
+20-04-24 17:47:10 Registering server @ 88.99.234.252
+20-04-24 17:48:50 191.84.68.158:23073|14189A02D27 requesting game...
+20-04-24 17:48:50 191.84.68.158:23073|14189A02D27 requesting game...
+20-04-24 17:48:51 Divas| Rattle joining game (191.84.68.158:23073) HWID:14189A02D27
+20-04-24 17:48:51 Divas| Rattle has joined alpha team.
+20-04-24 17:48:54 [Divas| Rattle] !map razer
+20-04-24 17:48:54 Map not found (razer)
+20-04-24 17:48:58 [Divas| Rattle] !map tv
+20-04-24 17:48:58 Map not found (tv)
+20-04-24 17:49:02 [Divas| Rattle] !map ctf_Tb
+20-04-24 17:49:02 Map not found (ctf_tb)
+20-04-24 17:49:06 [Divas| Rattle] !map ash
+20-04-24 17:49:11 ctf_Ash by chakapoko maker
+20-04-24 17:50:35 Divas| Rattle has left alpha team.
+20-04-24 17:54:11 Time Left: 5 minutes
+20-04-24 17:55:11 Time Left: 4 minutes
+20-04-24 17:56:11 Time Left: 3 minutes
+20-04-24 17:57:11 Time Left: 2 minutes
+20-04-24 17:58:11 Time Left: 1 minutes
+20-04-24 17:59:11 Next map: Lobby
+20-04-24 17:59:22 Lothic - Gothic Lobby Room
+20-04-24 18:00:01 168.196.203.136:37533|64995B15DC0 requesting game...
+20-04-24 18:00:02 sT.- YnGwi3 joining game (168.196.203.136:37533) HWID:64995B15DC0
+20-04-24 18:00:02 sT.- YnGwi3 has joined bravo team.
+20-04-24 18:00:04 [sT.- YnGwi3] !map Razer
+20-04-24 18:00:04 Map not found (razer)
+20-04-24 18:00:07 [sT.- YnGwi3] !map ctf_Tv
+20-04-24 18:00:07 Map not found (ctf_tv)
+20-04-24 18:00:08 sT.- YnGwi3 has left bravo team.
+20-04-24 18:04:22 Time Left: 5 minutes
+20-04-24 18:05:22 Time Left: 4 minutes
+20-04-24 18:06:22 Time Left: 3 minutes
+20-04-24 18:07:22 Time Left: 2 minutes
+20-04-24 18:08:22 Time Left: 1 minutes
+20-04-24 18:09:22 Next map: Lobby
+20-04-24 18:09:28 Lothic - Gothic Lobby Room
+20-04-24 18:11:36 168.196.203.136:37534|64995B15DC0 requesting game...
+20-04-24 18:11:37 sT.- YnGwi3 joining game (168.196.203.136:37534) HWID:64995B15DC0
+20-04-24 18:11:37 sT.- YnGwi3 has joined bravo team.
+20-04-24 18:11:39 sT.- YnGwi3 has left bravo team.
+20-04-24 18:11:41 168.196.203.136:37534|64995B15DC0 requesting game...
+20-04-24 18:11:42 sT.- YnGwi3 joining game (168.196.203.136:37534) HWID:64995B15DC0
+20-04-24 18:11:42 sT.- YnGwi3 has joined bravo team.
+20-04-24 18:11:43 sT.- YnGwi3 has left bravo team.
+20-04-24 18:11:53 168.196.203.136:37534|64995B15DC0 requesting game...
+20-04-24 18:11:56 168.196.203.136:37534|64995B15DC0 requesting game...
+20-04-24 18:11:57 sT.- YnGwi3 joining game (168.196.203.136:37534) HWID:64995B15DC0
+20-04-24 18:11:57 sT.- YnGwi3 has joined bravo team.
+20-04-24 18:11:59 [sT.- YnGwi3] !map Razer
+20-04-24 18:11:59 Map not found (razer)
+20-04-24 18:12:00 [sT.- YnGwi3] ls
+20-04-24 18:12:03 [sT.- YnGwi3] !map ctf_Tv
+20-04-24 18:12:03 Map not found (ctf_tv)
+20-04-24 18:12:07 [sT.- YnGwi3] !sp
+20-04-24 18:12:07 Clave modificada a:505
+20-04-24 18:12:08 [sT.- YnGwi3] !dp
+20-04-24 18:12:08 Clave reseteada
+20-04-24 18:12:11 sT.- YnGwi3 has left bravo team.
+20-04-24 18:14:28 Time Left: 5 minutes
+20-04-24 18:15:28 Time Left: 4 minutes
+20-04-24 18:16:28 Time Left: 3 minutes
+20-04-24 18:17:28 Time Left: 2 minutes
+20-04-24 18:18:28 Time Left: 1 minutes
+20-04-24 18:19:28 Next map: Lobby
+20-04-24 18:19:33 Lothic - Gothic Lobby Room
+20-04-24 18:24:33 Time Left: 5 minutes
+20-04-24 18:25:33 Time Left: 4 minutes
+20-04-24 18:26:33 Time Left: 3 minutes
+20-04-24 18:27:33 Time Left: 2 minutes
+20-04-24 18:28:33 Time Left: 1 minutes
+20-04-24 18:29:33 Next map: Lobby
+20-04-24 18:29:38 Lothic - Gothic Lobby Room
+20-04-24 18:34:38 Time Left: 5 minutes
+20-04-24 18:35:38 Time Left: 4 minutes
+20-04-24 18:36:38 Time Left: 3 minutes
+20-04-24 18:37:38 Time Left: 2 minutes
+20-04-24 18:38:38 Time Left: 1 minutes
+20-04-24 18:39:38 Next map: Lobby
+20-04-24 18:39:44 Lothic - Gothic Lobby Room
+20-04-24 18:41:48 168.196.203.136:37539|64995B15DC0 requesting game...
+20-04-24 18:41:49 sT.- YnGwi3 joining game (168.196.203.136:37539) HWID:64995B15DC0
+20-04-24 18:41:49 sT.- YnGwi3 has joined bravo team.
+20-04-24 18:44:44 Time Left: 5 minutes
+20-04-24 18:44:49 sT.- YnGwi3 has left bravo team.
+20-04-24 18:45:44 Time Left: 4 minutes
+20-04-24 18:46:44 Time Left: 3 minutes
+20-04-24 18:47:44 Time Left: 2 minutes
+20-04-24 18:48:44 Time Left: 1 minutes
+20-04-24 18:49:44 Next map: Lobby
+20-04-24 18:49:49 Lothic - Gothic Lobby Room
+20-04-24 18:54:49 Time Left: 5 minutes
+20-04-24 18:55:49 Time Left: 4 minutes
+20-04-24 18:56:49 Time Left: 3 minutes
+20-04-24 18:57:49 Time Left: 2 minutes
+20-04-24 18:58:49 Time Left: 1 minutes
+20-04-24 18:59:49 Next map: Lobby
+20-04-24 18:59:54 Lothic - Gothic Lobby Room
+20-04-24 19:04:54 Time Left: 5 minutes
+20-04-24 19:05:54 Time Left: 4 minutes
+20-04-24 19:06:54 Time Left: 3 minutes
+20-04-24 19:07:54 Time Left: 2 minutes
+20-04-24 19:08:54 Time Left: 1 minutes
+20-04-24 19:09:54 Next map: Lobby
+20-04-24 19:09:59 Lothic - Gothic Lobby Room
+20-04-24 19:14:59 Time Left: 5 minutes
+20-04-24 19:15:59 Time Left: 4 minutes
+20-04-24 19:16:59 Time Left: 3 minutes
+20-04-24 19:17:04 186.143.197.13:56216|14189A02D27 requesting game...
+20-04-24 19:17:04 186.143.197.13:56216|14189A02D27 requesting game...
+20-04-24 19:17:06 Divas| Rattle joining game (186.143.197.13:56216) HWID:14189A02D27
+20-04-24 19:17:06 Divas| Rattle has joined alpha team.
+20-04-24 19:17:09 [Divas| Rattle] !map Tv
+20-04-24 19:17:09 Map not found (tv)
+20-04-24 19:17:14 [Divas| Rattle] !map razer
+20-04-24 19:17:14 Map not found (razer)
+20-04-24 19:17:15 Divas| Rattle has left alpha team.
+20-04-24 19:17:59 Time Left: 2 minutes
+20-04-24 19:18:59 Time Left: 1 minutes
+20-04-24 19:19:59 Next map: Lobby
+20-04-24 19:20:05 Lothic - Gothic Lobby Room
+20-04-24 19:20:06 Signal received, shutting down
+20-04-24 19:20:06 Shutting down server...
+20-04-24 19:20:06 Shutting down FileServer...
+20-04-24 19:20:07 Shutting down admin server...

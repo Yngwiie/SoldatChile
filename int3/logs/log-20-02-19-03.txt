@@ -1,0 +1,10 @@
+20-02-19 07:01:37    Log Started
+20-02-19 07:01:37 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-02-19 07:01:37 Creating network interface.
+20-02-19 07:01:37 Loading Animations.
+20-02-19 07:01:37 Loading Lobby Servers List
+20-02-19 07:01:37 Loading Maps List
+20-02-19 07:01:37 Loading Map.
+20-02-19 07:01:37 Creating Weapons.
+20-02-19 07:01:37 Starting Game Server.
+20-02-19 07:01:37 TCP/IP File Server started

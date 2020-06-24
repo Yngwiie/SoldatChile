@@ -1,0 +1,236 @@
+20-03-31 21:22:47    Log Started
+20-03-31 21:22:47 Opened C:\Users\Administrador\Desktop\Publico\soldat.ini
+20-03-31 21:22:47 Creating network interface.
+20-03-31 21:22:47 Loading Animations.
+20-03-31 21:22:48 Loading Lobby Servers List
+20-03-31 21:22:48 Loading Maps List
+20-03-31 21:22:48 Loading Map.
+20-03-31 21:22:48 Creating Weapons.
+20-03-31 21:22:48 Starting Game Server.
+20-03-31 21:22:48 TCP/IP File Server started
+20-03-31 21:52:48 TCP/IP File Server started
+20-03-31 22:17:56  Net - KuRt connected 31-03-2020 22:17:56
+20-03-31 22:18:02  Net - Pollv1Ch0 connected 31-03-2020 22:18:02
+20-03-31 22:18:51  Net - KuRt disconnected 31-03-2020 22:18:51
+20-03-31 22:19:22  Net - KuRt connected 31-03-2020 22:19:22
+20-03-31 22:22:48 TCP/IP File Server started
+20-03-31 22:40:52  Net - Pollv1Ch0 disconnected 31-03-2020 22:40:52
+20-03-31 22:40:52  Net - KuRt disconnected 31-03-2020 22:40:52
+20-03-31 22:40:56  Net - Pollv1Ch0 connected 31-03-2020 22:40:56
+20-03-31 22:40:56  Net - KuRt connected 31-03-2020 22:40:56
+20-03-31 22:41:09  Net - KuRt connected 31-03-2020 22:41:09
+20-03-31 22:41:32  Net - felipe.avendanoc connected 31-03-2020 22:41:32
+20-03-31 22:41:35  Net - felipe.avendanoc disconnected 31-03-2020 22:41:35
+20-03-31 22:47:31  Net - havko :x connected 31-03-2020 22:47:31
+20-03-31 22:50:12  Net - P3ps1 .- En Cuarentena connected 31-03-2020 22:50:12
+20-03-31 22:50:29  Net - Pollv1Ch0 disconnected 31-03-2020 22:50:29
+20-03-31 22:51:02  Net - KuRt disconnected 31-03-2020 22:51:02
+20-03-31 22:51:04  Net - P3ps1 .- En Cuarentena connected 31-03-2020 22:51:04
+20-03-31 22:52:46  Net - P3ps1 .- En Cuarentena connected 31-03-2020 22:52:46
+20-03-31 22:52:48 TCP/IP File Server started
+20-03-31 22:57:45  Net - havko :x disconnected 31-03-2020 22:57:45
+20-03-31 22:57:50  Net - P3ps1 .- En Cuarentena disconnected 31-03-2020 22:57:50
+20-03-31 22:58:36  Net - Fefuna connected 31-03-2020 22:58:36
+20-03-31 22:58:44  Net - HarryCalahan12 connected 31-03-2020 22:58:44
+20-03-31 22:58:50  Net - monogamer connected 31-03-2020 22:58:50
+20-03-31 23:04:59  Net - HarryCalahan12 disconnected 31-03-2020 23:04:59
+20-03-31 23:07:36  Net - Fefuna disconnected 31-03-2020 23:07:36
+20-03-31 23:07:50  Net - monogamer disconnected 31-03-2020 23:07:50
+20-03-31 23:14:19  Net - havko :x connected 31-03-2020 23:14:19
+20-03-31 23:14:23  Net - havko :x disconnected 31-03-2020 23:14:23
+20-03-31 23:22:48 TCP/IP File Server started
+20-03-31 23:25:29  Net - aLeXa :heart: connected 31-03-2020 23:25:29
+20-03-31 23:25:31  Net - p3y3g0d connected 31-03-2020 23:25:31
+20-03-31 23:29:38  Net - Dr.hogar connected 31-03-2020 23:29:38
+20-03-31 23:31:17  Net - p3y3g0d disconnected 31-03-2020 23:31:17
+20-03-31 23:31:25  Net - aLeXa :heart: disconnected 31-03-2020 23:31:25
+20-03-31 23:32:03  Net - Dr.hogar disconnected 31-03-2020 23:32:03
+20-03-31 23:37:36  Net - PoRnOoB connected 31-03-2020 23:37:36
+20-03-31 23:38:01  Net - PoRnOoB disconnected 31-03-2020 23:38:01
+20-03-31 23:43:12  Net - matix620 connected 31-03-2020 23:43:12
+20-03-31 23:45:44  Net - sT#' YnGwi3 connected 31-03-2020 23:45:44
+20-03-31 23:45:54  Net - matix620 disconnected 31-03-2020 23:45:54
+20-03-31 23:46:00  Net - Lq$.- Warfar3.cL connected 31-03-2020 23:46:00
+20-03-31 23:46:13  Net - matix620 connected 31-03-2020 23:46:13
+20-03-31 23:46:49  Net - Killtro's Back! connected 31-03-2020 23:46:49
+20-03-31 23:47:01  Net - P3ps1 .- En Cuarentena connected 31-03-2020 23:47:01
+20-03-31 23:47:05  Net - Langrisser connected 31-03-2020 23:47:05
+20-03-31 23:47:11  Net - havko :x connected 31-03-2020 23:47:11
+20-03-31 23:47:15  Net - matix620 disconnected 31-03-2020 23:47:15
+20-03-31 23:47:33  Net - matix620 connected 31-03-2020 23:47:33
+20-03-31 23:47:49  Net - Lq$.- MotA connected 31-03-2020 23:47:49
+20-03-31 23:48:31  Net - ONOZ connected 31-03-2020 23:48:31
+20-03-31 23:49:02  Net - Major connected 31-03-2020 23:49:02
+20-03-31 23:52:48 TCP/IP File Server started
+20-03-31 23:52:48  Net - sT#' YnGwi3 disconnected 31-03-2020 23:52:48
+20-03-31 23:53:11  Net - felipe.avendanoc connected 31-03-2020 23:53:11
+20-03-31 23:53:42  Net - felipe.avendanoc disconnected 31-03-2020 23:53:42
+20-03-31 23:54:31  Net - Filip connected 31-03-2020 23:54:31
+20-03-31 23:54:37  Net - Daggy connected 31-03-2020 23:54:37
+20-03-31 23:54:39  Net - matix620 disconnected 31-03-2020 23:54:39
+20-03-31 23:55:02  Net - sT#' YnGwi3 connected 31-03-2020 23:55:02
+20-03-31 23:55:46  Net - Palermon connected 31-03-2020 23:55:46
+20-03-31 23:55:50  Net - sT#' YnGwi3 disconnected 31-03-2020 23:55:50
+20-03-31 23:55:52  Net - Lq$.- MotA disconnected 31-03-2020 23:55:52
+20-03-31 23:56:16  Net - Palermon disconnected 31-03-2020 23:56:16
+20-03-31 23:57:05  Net - phobos connected 31-03-2020 23:57:05
+20-03-31 23:57:23  Net - Lq$.- Warfar3.cL disconnected 31-03-2020 23:57:23
+20-03-31 23:57:27  Net - Lq$.- Warfar3.cL connected 31-03-2020 23:57:27
+20-03-31 23:58:48  Net - ElMalone connected 31-03-2020 23:58:48
+20-03-31 23:58:50  Net - matix620 connected 31-03-2020 23:58:50
+20-03-31 23:59:57  Net - i|[ArKaNgE > connected 31-03-2020 23:59:57
+20-04-01 00:00:09  Net - i|[ArKaNgE > disconnected 01-04-2020 0:00:09
+20-04-01 00:00:15  Net - i|[ArKaNgE > connected 01-04-2020 0:00:15
+20-04-01 00:01:20  Net - matix620 disconnected 01-04-2020 0:01:20
+20-04-01 00:02:02  Net - Langrisser disconnected 01-04-2020 0:02:02
+20-04-01 00:02:05  Net - P3ps1 .- En Cuarentena disconnected 01-04-2020 0:02:05
+20-04-01 00:02:37  Net - i|[ArKaNgE > disconnected 01-04-2020 0:02:37
+20-04-01 00:02:49  Net - Sepelentus connected 01-04-2020 0:02:49
+20-04-01 00:02:56  Net - havko :x disconnected 01-04-2020 0:02:56
+20-04-01 00:04:05  Net - Daggy disconnected 01-04-2020 0:04:05
+20-04-01 00:04:18  Net - Lq$.- Warfar3.cL disconnected 01-04-2020 0:04:18
+20-04-01 00:04:33  Net - Daggy connected 01-04-2020 0:04:33
+20-04-01 00:04:36  Net - paablomatus connected 01-04-2020 0:04:36
+20-04-01 00:04:49  Net - Daggy disconnected 01-04-2020 0:04:49
+20-04-01 00:04:51  Net - Major disconnected 01-04-2020 0:04:51
+20-04-01 00:04:53  Net - paablomatus disconnected 01-04-2020 0:04:53
+20-04-01 00:05:10  Net - Major connected 01-04-2020 0:05:10
+20-04-01 00:05:12  Net - Major disconnected 01-04-2020 0:05:12
+20-04-01 00:05:17  Net - ElMalone connected 01-04-2020 0:05:17
+20-04-01 00:05:21  Net - TataBarahona connected 01-04-2020 0:05:21
+20-04-01 00:05:23  Net - Fefuna connected 01-04-2020 0:05:23
+20-04-01 00:07:04  Net - monogamer connected 01-04-2020 0:07:04
+20-04-01 00:07:07  Net - Varelo connected 01-04-2020 0:07:07
+20-04-01 00:07:31  Net - paint connected 01-04-2020 0:07:31
+20-04-01 00:07:58  Net - Kokos connected 01-04-2020 0:07:58
+20-04-01 00:08:04  Net - paint disconnected 01-04-2020 0:08:04
+20-04-01 00:09:10  Net - Kokos disconnected 01-04-2020 0:09:10
+20-04-01 00:09:48  Net - monogamer connected 01-04-2020 0:09:48
+20-04-01 00:11:43  Net - Fefuna disconnected 01-04-2020 0:11:43
+20-04-01 00:12:14  Net - TataBarahona disconnected 01-04-2020 0:12:14
+20-04-01 00:12:43  Net - monogamer disconnected 01-04-2020 0:12:43
+20-04-01 00:13:57  Net - sProlexX connected 01-04-2020 0:13:57
+20-04-01 00:13:59  Net - matix620 connected 01-04-2020 0:13:59
+20-04-01 00:14:05  Net - matix620 disconnected 01-04-2020 0:14:05
+20-04-01 00:14:21  Net - matix620 connected 01-04-2020 0:14:21
+20-04-01 00:14:53  Net - Donwea connected 01-04-2020 0:14:53
+20-04-01 00:16:04  Net - matix620 disconnected 01-04-2020 0:16:04
+20-04-01 00:16:35  Net - sProlexX disconnected 01-04-2020 0:16:35
+20-04-01 00:17:00  Net - MIDU connected 01-04-2020 0:17:00
+20-04-01 00:18:23  Net - MIDU disconnected 01-04-2020 0:18:23
+20-04-01 00:22:48 TCP/IP File Server started
+20-04-01 00:23:24  Net - Donwea disconnected 01-04-2020 0:23:24
+20-04-01 00:32:29  Net - matix620 connected 01-04-2020 0:32:29
+20-04-01 00:32:36  Net - sProlexX connected 01-04-2020 0:32:36
+20-04-01 00:34:43  Net - phobos disconnected 01-04-2020 0:34:43
+20-04-01 00:35:24  Net - Pagan connected 01-04-2020 0:35:24
+20-04-01 00:36:51  Net - |D.Forc3|.LinkirD connected 01-04-2020 0:36:51
+20-04-01 00:36:53  Net - omerdamar connected 01-04-2020 0:36:53
+20-04-01 00:37:11  Net - omerdamar disconnected 01-04-2020 0:37:11
+20-04-01 00:37:19  Net - |D.Forc3| Utena connected 01-04-2020 0:37:19
+20-04-01 00:37:20  Net - MrADHD connected 01-04-2020 0:37:20
+20-04-01 00:37:20  Net - |D.Forc3|.LinkirD disconnected 01-04-2020 0:37:20
+20-04-01 00:37:25  Net - MrADHD disconnected 01-04-2020 0:37:25
+20-04-01 00:37:26  Net - |D.Forc3|.LinkirD connected 01-04-2020 0:37:26
+20-04-01 00:37:58  Net - |D.Forc3|Luis Dimas connected 01-04-2020 0:37:58
+20-04-01 00:38:03  Net - Sheep1 connected 01-04-2020 0:38:03
+20-04-01 00:38:04  Net - Major connected 01-04-2020 0:38:04
+20-04-01 00:38:34  Net - i|misf!t connected 01-04-2020 0:38:34
+20-04-01 00:38:54  Net - Bassofia connected 01-04-2020 0:38:54
+20-04-01 00:39:04  Net - i|misf!t disconnected 01-04-2020 0:39:04
+20-04-01 00:39:06  Net - phobos connected 01-04-2020 0:39:06
+20-04-01 00:39:10  Net - Major disconnected 01-04-2020 0:39:10
+20-04-01 00:39:19  Net - phobos connected 01-04-2020 0:39:19
+20-04-01 00:39:22  Net - phobos connected 01-04-2020 0:39:22
+20-04-01 00:39:59  Net - Fefuna connected 01-04-2020 0:39:59
+20-04-01 00:40:01  Net - monogamer connected 01-04-2020 0:40:01
+20-04-01 00:40:20  Net - Saibot connected 01-04-2020 0:40:20
+20-04-01 00:42:25  Net - phobos disconnected 01-04-2020 0:42:25
+20-04-01 00:42:41  Net - phobos connected 01-04-2020 0:42:41
+20-04-01 00:42:46  Net - monogamer disconnected 01-04-2020 0:42:46
+20-04-01 00:42:47  Net - Pabloko connected 01-04-2020 0:42:47
+20-04-01 00:43:10  Net - TataBarahona connected 01-04-2020 0:43:10
+20-04-01 00:43:14  Net - Fefuna disconnected 01-04-2020 0:43:14
+20-03-31 19:43:27  Net - PerfectDark connected 31-03-2020 19:43:27
+20-03-31 19:43:33  Net - El patea Fachos connected 31-03-2020 19:43:33
+20-03-31 19:43:38  Net - Mula connected 31-03-2020 19:43:38
+20-03-31 19:43:38  Net - El patea Fachos connected 31-03-2020 19:43:38
+20-03-31 19:43:39  Net - TataBarahona disconnected 31-03-2020 19:43:39
+20-03-31 19:43:41  Net - phobos disconnected 31-03-2020 19:43:41
+20-03-31 19:43:53  Net - PerfectDark disconnected 31-03-2020 19:43:53
+20-03-31 19:44:23  Net - Killtro's Back! disconnected 31-03-2020 19:44:23
+20-03-31 19:44:30  Net - Mula disconnected 31-03-2020 19:44:30
+20-03-31 19:44:32  Net - Pabloko disconnected 31-03-2020 19:44:32
+20-03-31 19:44:57  Net - Sepelentus disconnected 31-03-2020 19:44:57
+20-03-31 19:46:17  Net - Pagan disconnected 31-03-2020 19:46:17
+20-03-31 19:46:48  Net - meselfs connected 31-03-2020 19:46:48
+20-03-31 19:48:09  Net - meselfs disconnected 31-03-2020 19:48:09
+20-03-31 19:48:15  Net - sProlexX disconnected 31-03-2020 19:48:15
+20-03-31 19:48:54  Net - |D.Forc3| Utena disconnected 31-03-2020 19:48:54
+20-03-31 19:49:21  Net - Slem33 connected 31-03-2020 19:49:21
+20-03-31 19:49:26  Net - matix620 disconnected 31-03-2020 19:49:26
+20-03-31 19:50:12  Net - Slem33 disconnected 31-03-2020 19:50:12
+20-03-31 19:50:31  Net - The Grand Inquisitor connected 31-03-2020 19:50:31
+20-03-31 19:51:20  Net - DecodeCL connected 31-03-2020 19:51:20
+20-03-31 19:51:53  Net - DecodeCL disconnected 31-03-2020 19:51:53
+20-03-31 19:51:53  Net - The Grand Inquisitor disconnected 31-03-2020 19:51:53
+20-03-31 19:51:54  Net - AE/kamui connected 31-03-2020 19:51:54
+20-03-31 19:52:03  Net - Filip disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - Saibot disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - ONOZ disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - Sheep1 disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - Bassofia disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - Varelo disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - ElMalone disconnected 31-03-2020 19:52:03
+20-03-31 19:52:03  Net - AE/kamui disconnected 31-03-2020 19:52:03
+20-03-31 19:52:06  Net - ONOZ connected 31-03-2020 19:52:06
+20-03-31 19:52:06  Net - Bassofia connected 31-03-2020 19:52:06
+20-03-31 19:52:07  Net - AE/kamui connected 31-03-2020 19:52:07
+20-03-31 19:52:09  Net - S2 ~ bio* connected 31-03-2020 19:52:09
+20-03-31 19:52:10  Net - Filip connected 31-03-2020 19:52:10
+20-03-31 19:52:12  Net - AE/kamui connected 31-03-2020 19:52:12
+20-03-31 19:52:17  Net - Bigo Dicko connected 31-03-2020 19:52:17
+20-03-31 19:52:32  Net - |D.Forc3|Rainbowdash connected 31-03-2020 19:52:32
+20-03-31 19:52:49 TCP/IP File Server started
+20-03-31 19:53:08  Net - ONOZ disconnected 31-03-2020 19:53:08
+20-03-31 19:53:08  Net - DecodeCL connected 31-03-2020 19:53:08
+20-03-31 19:53:13  Net - yankoaguilera1 connected 31-03-2020 19:53:13
+20-03-31 19:53:24  Net - AE/kamui disconnected 31-03-2020 19:53:24
+20-03-31 19:53:26  Net - yankoaguilera1 disconnected 31-03-2020 19:53:26
+20-03-31 19:53:40  Net - F4ll.cL connected 31-03-2020 19:53:40
+20-03-31 19:54:26  Net - Darklex connected 31-03-2020 19:54:26
+20-03-31 19:54:26  Net - Darklex connected 31-03-2020 19:54:26
+20-03-31 19:54:36  Net - ShakaMoN connected 31-03-2020 19:54:36
+20-03-31 19:54:45  Net - TommyRabbit connected 31-03-2020 19:54:45
+20-03-31 19:55:43  Net - DecodeCL disconnected 31-03-2020 19:55:43
+20-03-31 19:55:51  Net - Darklex disconnected 31-03-2020 19:55:51
+20-03-31 19:55:52  Net - Filip disconnected 31-03-2020 19:55:52
+20-03-31 19:56:05  Net - Bigo Dicko disconnected 31-03-2020 19:56:05
+20-03-31 19:56:10  Net - Decode connected 31-03-2020 19:56:10
+20-03-31 19:56:12  Net - El patea Fachos connected 31-03-2020 19:56:12
+20-03-31 19:57:03  Net - |D.Forc3|Rainbowdash disconnected 31-03-2020 19:57:03
+20-03-31 19:57:34  Net - .:{MIS}:. Leche connected 31-03-2020 19:57:34
+20-03-31 19:57:45  Net - .:{MIS}:. Leche connected 31-03-2020 19:57:45
+20-03-31 19:58:02  Net - F4ll.cL disconnected 31-03-2020 19:58:02
+20-03-31 19:59:39  Net - |D.Forc3|Luis Dimas disconnected 31-03-2020 19:59:39
+20-03-31 20:00:43  Net - Dildios connected 31-03-2020 20:00:43
+20-03-31 20:00:56  Net - El patea Fachos disconnected 31-03-2020 20:00:56
+20-03-31 20:00:58  Net - |D.Forc3|Rainbowdash connected 31-03-2020 20:00:58
+20-03-31 20:02:16  Net - TommyRabbit disconnected 31-03-2020 20:02:16
+20-03-31 20:02:23  Net - ShakaMoN connected 31-03-2020 20:02:23
+20-03-31 20:04:23  Net - |D.Forc3|.LinkirD disconnected 31-03-2020 20:04:23
+20-03-31 20:04:28  Net - |D.Forc3|Rainbowdash disconnected 31-03-2020 20:04:28
+20-03-31 20:05:45  Net - |D.Forc3|Rainbowdash connected 31-03-2020 20:05:45
+20-03-31 20:07:18  Net - Concentrated Orange Jews connected 31-03-2020 20:07:18
+20-03-31 20:07:21  Net - S2 ~ bio* disconnected 31-03-2020 20:07:21
+20-03-31 20:07:51  Net - |D.Forc3|Rainbowdash disconnected 31-03-2020 20:07:51
+20-03-31 20:07:55  Net - Concentrated Orange Jews disconnected 31-03-2020 20:07:55
+20-03-31 20:09:08  Net - ShakaMoN disconnected 31-03-2020 20:09:08
+20-03-31 20:09:23  Net - .:{MIS}:. Leche disconnected 31-03-2020 20:09:23
+20-03-31 20:09:29  Net - Dildios disconnected 31-03-2020 20:09:29
+20-03-31 20:09:41  Net - Decode disconnected 31-03-2020 20:09:41
+20-03-31 20:09:56  Net - Bassofia disconnected 31-03-2020 20:09:56
+20-03-31 20:13:58  Net - TommyRabbit connected 31-03-2020 20:13:58
+20-03-31 20:14:38  Net - TommyRabbit disconnected 31-03-2020 20:14:38
+20-03-31 20:15:35  Net - |D.Forc3|.LinkirD connected 31-03-2020 20:15:35
+20-03-31 20:16:18  Net - |D.Forc3|.LinkirD disconnected 31-03-2020 20:16:18

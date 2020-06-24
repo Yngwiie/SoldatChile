@@ -1,0 +1,26 @@
+20-04-24 04:53:31    Console Log Started
+20-04-24 04:54:27 Next map: Lobby
+20-04-24 04:54:32 Lothic - Gothic Lobby Room
+20-04-24 04:59:32 Time Left: 5 minutes
+20-04-24 05:00:07 181.73.185.56:23073|624F84FC71F requesting game...
+20-04-24 05:00:32 Time Left: 4 minutes
+20-04-24 05:01:32 Time Left: 3 minutes
+20-04-24 05:02:07 181.73.185.56:23073|624F84FC71F requesting game...
+20-04-24 05:02:32 Time Left: 2 minutes
+20-04-24 05:03:32 Time Left: 1 minutes
+20-04-24 05:04:32 Next map: Lobby
+20-04-24 05:04:37 Lothic - Gothic Lobby Room
+20-04-24 05:07:20 201.219.234.150:18665|64995B15DC0 requesting game...
+20-04-24 05:09:08 201.219.234.150:18665|64995B15DC0 requesting game...
+20-04-24 05:09:09 sT.- YnGwi3 joining game (201.219.234.150:18665) HWID:64995B15DC0
+20-04-24 05:09:09 sT.- YnGwi3 has joined bravo team.
+20-04-24 05:09:13 [sT.- YnGwi3] !map ctf_Tv
+20-04-24 05:09:13 Map not found (ctf_tv)
+20-04-24 05:09:17 [sT.- YnGwi3] !map ctf_Razer
+20-04-24 05:09:17 Map not found (ctf_razer)
+20-04-24 05:09:18 sT.- YnGwi3 has left bravo team.
+20-04-24 05:09:37 Time Left: 5 minutes
+20-04-24 05:10:36 Signal received, shutting down
+20-04-24 05:10:36 Shutting down server...
+20-04-24 05:10:37 Shutting down FileServer...
+20-04-24 05:10:37 Shutting down admin server...

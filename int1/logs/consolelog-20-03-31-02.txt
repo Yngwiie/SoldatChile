@@ -1,0 +1,198 @@
+20-03-31 21:13:48    Console Log Started
+20-03-31 21:13:48 Welcome to Soldat 1.7.1
+20-03-31 21:13:48  [*] Preparing scripts to be launched
+20-03-31 21:13:48  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-03-31 21:13:48  [*] commands_by_keen compiled
+20-03-31 21:13:48  [*] Compiling match -> match.pas...
+20-03-31 21:13:48  [*] match compiled
+20-03-31 21:13:48  [*] Done
+20-03-31 21:13:48 ctf_Ash by chakapoko maker
+20-03-31 21:13:48 Loaded weapons mod "Default v1.8"
+20-03-31 21:13:48  Connection for file server started. Port: 23110
+20-03-31 21:13:48 Registering server @ 88.99.234.252
+20-03-31 21:18:48 Time Left: 5 minutes
+20-03-31 21:19:48 Time Left: 4 minutes
+20-03-31 21:20:48 Time Left: 3 minutes
+20-03-31 21:21:48 Time Left: 2 minutes
+20-03-31 21:22:48 Time Left: 1 minutes
+20-03-31 21:23:48 Next map: ctf_B2b
+20-03-31 21:23:54 B2B
+20-03-31 21:28:54 Time Left: 5 minutes
+20-03-31 21:29:54 Time Left: 4 minutes
+20-03-31 21:30:54 Time Left: 3 minutes
+20-03-31 21:31:54 Time Left: 2 minutes
+20-03-31 21:32:54 Time Left: 1 minutes
+20-03-31 21:33:54 Next map: ctf_Blade
+20-03-31 21:33:59 Blade by Zakath
+20-03-31 21:38:59 Time Left: 5 minutes
+20-03-31 21:39:59 Time Left: 4 minutes
+20-03-31 21:40:59 Time Left: 3 minutes
+20-03-31 21:41:59 Time Left: 2 minutes
+20-03-31 21:42:59 Time Left: 1 minutes
+20-03-31 21:43:59 Next map: ctf_Viet
+20-03-31 21:44:04 Viet
+20-03-31 21:49:04 Time Left: 5 minutes
+20-03-31 21:50:04 Time Left: 4 minutes
+20-03-31 21:51:04 Time Left: 3 minutes
+20-03-31 21:52:04 Time Left: 2 minutes
+20-03-31 21:53:04 Time Left: 1 minutes
+20-03-31 21:54:04 Next map: ctf_Division
+20-03-31 21:54:10 Division by Boxo, KC, viral
+20-03-31 21:59:10 Time Left: 5 minutes
+20-03-31 22:00:10 Time Left: 4 minutes
+20-03-31 22:01:10 Time Left: 3 minutes
+20-03-31 22:02:10 Time Left: 2 minutes
+20-03-31 22:03:10 Time Left: 1 minutes
+20-03-31 22:04:10 Next map: ctf_Death
+20-03-31 22:04:15 Death by MM, g_d. Boxo, mtk`
+20-03-31 22:09:15 Time Left: 5 minutes
+20-03-31 22:10:15 Time Left: 4 minutes
+20-03-31 22:11:15 Time Left: 3 minutes
+20-03-31 22:12:15 Time Left: 2 minutes
+20-03-31 22:13:15 Time Left: 1 minutes
+20-03-31 22:14:15 Next map: ctf_Hormone
+20-03-31 22:14:20 Hormone by Metsänaperot
+20-03-31 22:19:20 Time Left: 5 minutes
+20-03-31 22:20:20 Time Left: 4 minutes
+20-03-31 22:21:20 Time Left: 3 minutes
+20-03-31 22:22:20 Time Left: 2 minutes
+20-03-31 22:23:20 Time Left: 1 minutes
+20-03-31 22:24:20 Next map: ctf_Laos
+20-03-31 22:24:26 Laos
+20-03-31 22:29:26 Time Left: 5 minutes
+20-03-31 22:30:26 Time Left: 4 minutes
+20-03-31 22:31:26 Time Left: 3 minutes
+20-03-31 22:32:26 Time Left: 2 minutes
+20-03-31 22:33:26 Time Left: 1 minutes
+20-03-31 22:34:26 Next map: ctf_Laos2
+20-03-31 22:34:31 Laos
+20-03-31 22:37:45 190.22.119.253:23073|ADB8E09C871 requesting game...
+20-03-31 22:39:31 Time Left: 5 minutes
+20-03-31 22:40:31 Time Left: 4 minutes
+20-03-31 22:41:31 Time Left: 3 minutes
+20-03-31 22:42:31 Time Left: 2 minutes
+20-03-31 22:43:31 Time Left: 1 minutes
+20-03-31 22:44:31 Next map: ctf_Maya
+20-03-31 22:44:36 Maya
+20-03-31 22:49:36 Time Left: 5 minutes
+20-03-31 22:50:36 Time Left: 4 minutes
+20-03-31 22:51:36 Time Left: 3 minutes
+20-03-31 22:52:36 Time Left: 2 minutes
+20-03-31 22:53:36 Time Left: 1 minutes
+20-03-31 22:54:36 Next map: ctf_MFM
+20-03-31 22:54:42 MFM 2 by mar77a
+20-03-31 22:59:42 Time Left: 5 minutes
+20-03-31 23:00:42 Time Left: 4 minutes
+20-03-31 23:01:42 Time Left: 3 minutes
+20-03-31 23:02:42 Time Left: 2 minutes
+20-03-31 23:03:42 Time Left: 1 minutes
+20-03-31 23:04:42 Next map: ctf_Run
+20-03-31 23:04:47 Run
+20-03-31 23:09:47 Time Left: 5 minutes
+20-03-31 23:10:47 Time Left: 4 minutes
+20-03-31 23:11:47 Time Left: 3 minutes
+20-03-31 23:12:47 Time Left: 2 minutes
+20-03-31 23:13:47 Time Left: 1 minutes
+20-03-31 23:14:47 Next map: ctf_OldRun
+20-03-31 23:14:52 Run (get to the flag!)
+20-03-31 23:19:52 Time Left: 5 minutes
+20-03-31 23:20:52 Time Left: 4 minutes
+20-03-31 23:21:52 Time Left: 3 minutes
+20-03-31 23:22:52 Time Left: 2 minutes
+20-03-31 23:23:52 Time Left: 1 minutes
+20-03-31 23:24:52 Next map: ctf_Ash
+20-03-31 23:24:58 ctf_Ash by chakapoko maker
+20-03-31 23:29:58 Time Left: 5 minutes
+20-03-31 23:30:58 Time Left: 4 minutes
+20-03-31 23:31:58 Time Left: 3 minutes
+20-03-31 23:32:58 Time Left: 2 minutes
+20-03-31 23:33:58 Time Left: 1 minutes
+20-03-31 23:34:58 Next map: ctf_B2b
+20-03-31 23:35:03 B2B
+20-03-31 23:40:03 Time Left: 5 minutes
+20-03-31 23:41:03 Time Left: 4 minutes
+20-03-31 23:42:03 Time Left: 3 minutes
+20-03-31 23:43:03 Time Left: 2 minutes
+20-03-31 23:44:03 Time Left: 1 minutes
+20-03-31 23:45:03 Next map: ctf_Blade
+20-03-31 23:45:08 Blade by Zakath
+20-03-31 23:47:14 168.196.201.225:37475|7F8482CEBA0 requesting game...
+20-03-31 23:50:08 Time Left: 5 minutes
+20-03-31 23:51:08 Time Left: 4 minutes
+20-03-31 23:52:08 Time Left: 3 minutes
+20-03-31 23:53:08 Time Left: 2 minutes
+20-03-31 23:54:08 Time Left: 1 minutes
+20-03-31 23:55:08 Next map: ctf_Viet
+20-03-31 23:55:14 Viet
+20-04-01 00:00:07 188.230.137.67:23073|6491F73B78C requesting game...
+20-04-01 00:00:14 Time Left: 5 minutes
+20-04-01 00:01:14 Time Left: 4 minutes
+20-04-01 00:02:14 Time Left: 3 minutes
+20-04-01 00:02:27 200.86.29.210:23073|3506857699F requesting game...
+20-04-01 00:02:32 200.86.29.210:23073|3506857699F requesting game...
+20-04-01 00:02:34 200.86.29.210:23073|3506857699F requesting game...
+20-04-01 00:02:39 200.86.29.210:23073|3506857699F requesting game...
+20-04-01 00:03:14 Time Left: 2 minutes
+20-04-01 00:04:14 Time Left: 1 minutes
+20-04-01 00:05:14 Next map: ctf_Division
+20-04-01 00:05:19 Division by Boxo, KC, viral
+20-04-01 00:10:19 Time Left: 5 minutes
+20-04-01 00:11:19 Time Left: 4 minutes
+20-04-01 00:12:19 Time Left: 3 minutes
+20-04-01 00:13:04 201.241.109.135:50676|6255D5647C6 requesting game...
+20-04-01 00:13:05 201.241.109.135:50676|6255D5647C6 requesting game...
+20-04-01 00:13:19 Time Left: 2 minutes
+20-04-01 00:14:19 Time Left: 1 minutes
+20-04-01 00:15:19 Next map: ctf_Death
+20-04-01 00:15:24 Death by MM, g_d. Boxo, mtk`
+20-04-01 00:20:24 Time Left: 5 minutes
+20-04-01 00:21:24 Time Left: 4 minutes
+20-04-01 00:22:24 Time Left: 3 minutes
+20-04-01 00:23:24 Time Left: 2 minutes
+20-04-01 00:24:24 Time Left: 1 minutes
+20-04-01 00:25:24 Next map: ctf_Hormone
+20-04-01 00:25:30 Hormone by Metsänaperot
+20-04-01 00:30:30 Time Left: 5 minutes
+20-04-01 00:31:30 Time Left: 4 minutes
+20-04-01 00:32:16 201.189.253.156:23073|4EDFAA80B1B requesting game...
+20-04-01 00:32:18 201.189.253.156:23073|4EDFAA80B1B requesting game...
+20-04-01 00:32:19 LB ~ Skipo joining game (201.189.253.156:23073) HWID:4EDFAA80B1B
+20-04-01 00:32:19 LB ~ Skipo has joined alpha team.
+20-04-01 00:32:30 Time Left: 3 minutes
+20-04-01 00:32:33 [LB ~ Skipo] !pass
+20-04-01 00:32:33 Currently there is no server password
+20-04-01 00:32:41 LB ~ Skipo has left alpha team.
+20-04-01 00:32:41 Server password changed to scl
+20-04-01 00:33:30 Time Left: 2 minutes
+20-04-01 00:34:30 Time Left: 1 minutes
+20-04-01 00:35:29 Next map: ctf_Laos
+20-04-01 00:35:35 Laos
+20-04-01 00:36:43 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-01 00:40:35 Time Left: 5 minutes
+20-04-01 00:41:35 Time Left: 4 minutes
+20-04-01 00:42:35 Time Left: 3 minutes
+20-03-31 19:43:36 Time Left: 2 minutes
+20-03-31 19:44:36 Time Left: 1 minutes
+20-03-31 19:45:36 Next map: ctf_Laos2
+20-03-31 19:45:42 Laos
+20-03-31 19:50:42 Time Left: 5 minutes
+20-03-31 19:51:42 Time Left: 4 minutes
+20-03-31 19:52:42 Time Left: 3 minutes
+20-03-31 19:53:42 Time Left: 2 minutes
+20-03-31 19:54:42 Time Left: 1 minutes
+20-03-31 19:55:42 Next map: ctf_Maya
+20-03-31 19:55:47 Maya
+20-03-31 20:00:47 Time Left: 5 minutes
+20-03-31 20:01:47 Time Left: 4 minutes
+20-03-31 20:02:47 Time Left: 3 minutes
+20-03-31 20:03:47 Time Left: 2 minutes
+20-03-31 20:04:47 Time Left: 1 minutes
+20-03-31 20:05:47 Next map: ctf_MFM
+20-03-31 20:05:52 MFM 2 by mar77a
+20-03-31 20:10:52 Time Left: 5 minutes
+20-03-31 20:11:52 Time Left: 4 minutes
+20-03-31 20:12:52 Time Left: 3 minutes
+20-03-31 20:13:52 Time Left: 2 minutes
+20-03-31 20:14:52 Time Left: 1 minutes
+20-03-31 20:15:52 Next map: ctf_Run
+20-03-31 20:15:58 Run

@@ -1,0 +1,1840 @@
+20-04-05 11:21:56    Console Log Started
+20-04-05 11:21:56 Welcome to Soldat 1.7.1
+20-04-05 11:21:56  [*] Preparing scripts to be launched
+20-04-05 11:21:56  [*] [BasicCommands] Loading bytecode
+20-04-05 11:21:56  [*] [BasicCommands] Bytecode loaded
+20-04-05 11:21:56  [*] Compiling match -> match.pas...
+20-04-05 11:21:56  [*] match compiled
+20-04-05 11:21:56  [*] Done
+20-04-05 11:21:56 ctf_Ash by chakapoko maker
+20-04-05 11:21:56 Loaded weapons mod "Default v1.8"
+20-04-05 11:21:56  Connection for file server started. Port: 23110
+20-04-05 11:21:57 Registering server @ 88.99.234.252
+20-04-05 11:22:46 181.203.100.164:20359|696908AC8E7 requesting game...
+20-04-05 11:23:07 181.203.100.164:20359|696908AC8E7 requesting game...
+20-04-05 11:23:07 |D.Forc3|.Turko joining game (181.203.100.164:20359) HWID:696908AC8E7
+20-04-05 11:23:07 |D.Forc3|.Turko has joined as spectator.
+20-04-05 11:23:10 |D.Forc3|.Turko has joined alpha team.
+20-04-05 11:23:21 [|D.Forc3|.Turko] !nextmap
+20-04-05 11:23:25 [|D.Forc3|.Turko] !map spark
+20-04-05 11:23:31 Spark - By Vauat
+20-04-05 11:23:46 |D.Forc3|.Turko captured the Blue Flag
+20-04-05 11:23:48 |D.Forc3|.Turko captured the Blue Flag
+20-04-05 11:23:54 |D.Forc3|.Turko captured the Blue Flag
+20-04-05 11:24:01 |D.Forc3|.Turko scores for Alpha Team
+20-04-05 11:24:06 [|D.Forc3|.Turko] !map ctf_Ash
+20-04-05 11:24:12 ctf_Ash by chakapoko maker
+20-04-05 11:24:44 |D.Forc3|.Turko has left alpha team.
+20-04-05 11:25:08 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-05 11:25:13 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-05 11:25:15 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-05 11:25:15 |D.Forc3|.LinkirD has joined alpha team.
+20-04-05 11:27:34 181.203.100.164:20165|696908AC8E7 requesting game...
+20-04-05 11:27:34 |D.Forc3|.Turko joining game (181.203.100.164:20165) HWID:696908AC8E7
+20-04-05 11:27:34 |D.Forc3|.Turko has joined as spectator.
+20-04-05 11:27:37 |D.Forc3|.Turko has joined alpha team.
+20-04-05 11:28:03 [|D.Forc3|.Turko] !map spark
+20-04-05 11:28:09 Spark - By Vauat
+20-04-05 11:30:14 201.188.217.237:23073|45F81EA97EC requesting game...
+20-04-05 11:30:26 190.162.34.158:23073|1FFBF2D6E12 requesting game...
+20-04-05 11:30:29 190.162.34.158:23073|1FFBF2D6E12 requesting game...
+20-04-05 11:30:49 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:31:03 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:31:09 |D.Forc3|.Turko has left alpha team.
+20-04-05 11:31:16 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:31:24 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:32:17 181.203.100.164:20165|696908AC8E7 requesting game...
+20-04-05 11:32:17 |D.Forc3|.Turko joining game (181.203.100.164:20165) HWID:696908AC8E7
+20-04-05 11:32:17 |D.Forc3|.Turko has joined as spectator.
+20-04-05 11:32:20 |D.Forc3|.Turko has joined bravo team.
+20-04-05 11:32:28 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:32:29 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:32:32 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:32:37 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:32:51 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:32:57 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:33:09 Time Left: 5 minutes
+20-04-05 11:33:11 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:33:17 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:33:21 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:33:27 [|D.Forc3|.Turko] !reportar 1 1222 1222 2111 
+20-04-05 11:33:34 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:33:37 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:33:47 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:33:51 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:33:54 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:33:55 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:33:59 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:34:04 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:34:09 Time Left: 4 minutes
+20-04-05 11:34:11 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 11:34:12 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:34:20 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:34:23 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:34:30 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:34:32 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:34:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 11:34:46 [|D.Forc3|.LinkirD] !cw
+20-04-05 11:34:52 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:34:53 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:35:05 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:35:07 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:35:09 Time Left: 3 minutes
+20-04-05 11:35:11 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 11:35:14 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:35:19 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:35:29 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 11:35:40 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:35:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Hands
+20-04-05 11:35:45 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:35:52 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:36:00 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:36:05 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:36:09 Time Left: 2 minutes
+20-04-05 11:36:13 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:36:15 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:36:23 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:36:26 [|D.Forc3|.Turko] !map ctf_LAos
+20-04-05 11:36:31 Laos
+20-04-05 11:36:42 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:36:52 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 11:37:01 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 11:37:05 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 11:37:34 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:37:34 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 11:38:14 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:38:23 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:38:39 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:38:53 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:38:56 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:39:15 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:39:20 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:39:35 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:39:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:39:58 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 11:40:00 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:40:07 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:40:16 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:40:16 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:40:30 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:40:40 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:40:45 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:40:58 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:41:01 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:41:22 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Flamer
+20-04-05 11:41:22 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:41:31 Time Left: 5 minutes
+20-04-05 11:41:33 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:41:37 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:41:40 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:41:47 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:41:52 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:42:02 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:42:10 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:42:12 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:42:24 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:42:31 Time Left: 4 minutes
+20-04-05 11:42:31 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:42:37 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:42:41 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:42:41 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Flamer
+20-04-05 11:42:49 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:42:54 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:42:57 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:43:00 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:43:08 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:43:15 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:43:24 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:43:31 Time Left: 3 minutes
+20-04-05 11:43:33 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:43:41 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:43:52 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:43:56 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:44:06 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:44:10 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:44:12 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:44:21 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:44:25 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:44:31 Time Left: 2 minutes
+20-04-05 11:44:35 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:44:37 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:45:06 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:45:06 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:45:12 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:45:14 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:45:15 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:45:21 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:45:31 Time Left: 1 minutes
+20-04-05 11:45:34 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:45:39 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:45:46 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:45:49 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:45:54 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:46:00 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:46:10 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:46:16 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 11:46:30 |D.Forc3|.Turko has left bravo team.
+20-04-05 11:46:31 Next map: ctf_B2b
+20-04-05 11:46:34 181.203.100.164:20165|696908AC8E7 requesting game...
+20-04-05 11:46:35 |D.Forc3|.Turko joining game (181.203.100.164:20165) HWID:696908AC8E7
+20-04-05 11:46:35 |D.Forc3|.Turko has joined as spectator.
+20-04-05 11:46:37 B2B
+20-04-05 11:47:00 |D.Forc3|.Turko has joined bravo team.
+20-04-05 11:47:50 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:48:23 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:48:24 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:48:24 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:48:38 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:48:45 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:49:05 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:16 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:26 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:32 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:36 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:41 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:46 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:51 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:49:57 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:50:02 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:50:07 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Cluster Grenades
+20-04-05 11:50:12 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:50:18 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:50:23 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:50:27 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:50:32 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:50:41 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:50:47 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:50:52 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:51:02 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:51:13 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:51:18 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:51:28 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:51:36 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:51:36 Time Left: 5 minutes
+20-04-05 11:51:45 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:51:51 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:51:56 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:52:05 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Flamer
+20-04-05 11:52:12 [|D.Forc3|.LinkirD] !stats Dsf
+20-04-05 11:52:16 |D.Forc3|.Turko has left bravo team.
+20-04-05 11:52:36 Time Left: 4 minutes
+20-04-05 11:53:21 |D.Forc3|.LinkirD has left alpha team.
+20-04-05 11:53:22 181.203.100.164:20165|696908AC8E7 requesting game...
+20-04-05 11:53:22 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-05 11:53:22 |D.Forc3|.Turko joining game (181.203.100.164:20165) HWID:696908AC8E7
+20-04-05 11:53:22 |D.Forc3|.Turko has joined as spectator.
+20-04-05 11:53:24 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-05 11:53:24 |D.Forc3|.LinkirD has joined alpha team.
+20-04-05 11:53:26 |D.Forc3|.Turko has joined bravo team.
+20-04-05 11:53:30 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:53:36 [|D.Forc3|.Turko] !map ctf_Spark
+20-04-05 11:53:36 Time Left: 3 minutes
+20-04-05 11:53:42 Spark - By Vauat
+20-04-05 11:53:50 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:53:50 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:53:56 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:53:59 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:54:02 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:54:13 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:54:18 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:54:19 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:54:20 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:54:24 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:54:29 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:54:31 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:54:35 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:54:36 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:54:40 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:54:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:54:48 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:54:55 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:55:03 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:55:04 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:55:10 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:55:12 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:55:18 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:55:22 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:55:29 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:55:33 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:55:37 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:55:42 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:55:44 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:55:48 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:55:53 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:55:58 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:55:59 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:56:00 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:56:01 [|D.Forc3|.Turko] yahoO!!!
+20-04-05 11:56:05 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:56:06 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:56:06 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 11:56:09 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:56:11 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:56:14 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:56:24 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:56:28 [|D.Forc3|.Turko] yahoO!!!
+20-04-05 11:56:36 83.11.8.146:23073|10B609F3D76 requesting game...
+20-04-05 11:56:42 [|D.Forc3|.Turko] yahoO!!!
+20-04-05 11:56:51 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:56:53 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:56:56 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:56:58 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:57:02 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:57:02 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:11 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:57:12 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:57:16 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:19 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:57:23 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:57:24 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:57:26 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:57:28 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:35 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:38 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:57:40 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:44 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:57:46 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:57:52 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:57:54 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:57:57 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:58:01 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:58:05 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:58:05 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:58:11 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:58:12 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:58:12 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:58:18 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:58:20 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:58:24 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:58:26 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:58:30 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:58:32 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:58:42 Time Left: 5 minutes
+20-04-05 11:58:44 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 11:58:47 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:58:50 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:58:55 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:59:02 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:59:02 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:59:05 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 11:59:09 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 11:59:11 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 11:59:12 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:59:13 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:59:16 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:59:23 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 11:59:31 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 11:59:34 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 11:59:34 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:59:39 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 11:59:40 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:59:40 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 11:59:42 Time Left: 4 minutes
+20-04-05 11:59:48 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 11:59:51 |D.Forc3|.Turko captured the Red Flag
+20-04-05 11:59:55 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 11:59:55 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:00:01 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:00:03 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:00:07 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:00:13 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:00:16 [|D.Forc3|.Turko] yahoO!!!
+20-04-05 12:00:30 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:00:34 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:00:36 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:00:38 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:00:39 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:00:42 Time Left: 3 minutes
+20-04-05 12:00:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:00:45 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:00:52 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:00:55 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:00:58 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:01:03 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:01:04 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:01:10 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:01:10 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:01:13 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:01:18 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:01:20 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:01:20 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:01:22 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:01:30 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:01:34 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:01:34 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:01:39 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:01:40 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:01:42 Time Left: 2 minutes
+20-04-05 12:01:45 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:01:50 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:01:59 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:02:08 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:02:08 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:02:15 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:02:16 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:02:20 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:02:24 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:02:42 Time Left: 1 minutes
+20-04-05 12:02:46 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:02:46 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 12:02:50 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:02:55 190.97.13.132:23073|A4E99AB55DF requesting game...
+20-04-05 12:02:58 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:03:01 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:03:04 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:03:05 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:03:06 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:03:09 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:03:12 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:03:19 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:03:27 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with HK MP5
+20-04-05 12:03:27 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:03:34 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:03:35 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:03:37 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:03:42 Next map: ctf_Blade
+20-04-05 12:03:47 Blade by Zakath
+20-04-05 12:04:01 [|D.Forc3|.LinkirD] !5V5
+20-04-05 12:04:04 [|D.Forc3|.LinkirD] !3V3
+20-04-05 12:04:08 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:04:19 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:04:29 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:04:38 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:04:41 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 12:04:44 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:04:56 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:04:56 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:04:57 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:05:07 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:05:07 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:05:12 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:05:16 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:05:16 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Steyr AUG
+20-04-05 12:05:25 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:05:27 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:05:31 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:05:38 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:05:41 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:05:43 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 12:05:50 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:05:58 [|D.Forc3|.Turko] !map rotten
+20-04-05 12:06:04 Rotten by Biggles
+20-04-05 12:06:14 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:06:16 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:06:21 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:06:24 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:06:28 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 12:06:30 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:06:36 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:06:42 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:06:42 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with FN Minimi
+20-04-05 12:06:51 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:06:54 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:07:00 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:07:06 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:07:09 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:07:12 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:07:16 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:07:17 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 12:07:27 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:07:38 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:07:38 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:07:45 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:07:50 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:07:55 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:08:00 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:08:04 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:08:05 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:08:10 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 12:08:17 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:08:22 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:08:24 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:08:28 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:08:33 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:08:35 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:08:38 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:08:42 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:08:45 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:09:16 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:09:19 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:09:25 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:09:27 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:09:28 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:09:36 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:09:39 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:09:39 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:09:39 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:09:47 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:09:50 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:09:52 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:10:00 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:10:04 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:10:13 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:10:25 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:10:25 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:10:36 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:10:43 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:10:45 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:10:51 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:11:00 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:11:02 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:11:04 Time Left: 5 minutes
+20-04-05 12:11:06 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 12:11:08 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:11:13 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:11:16 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:11:17 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:11:25 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with LAW
+20-04-05 12:11:28 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:11:28 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:11:30 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 12:11:32 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:11:35 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:11:40 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:11:40 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:11:48 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:11:51 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:11:53 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:11:56 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:12:00 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:12:04 Time Left: 4 minutes
+20-04-05 12:12:08 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:12:09 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:12:12 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:12:20 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:12:23 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:12:26 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:12:27 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:12:29 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:12:35 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:12:37 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:12:40 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:12:46 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 12:12:57 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:13:03 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:13:04 Time Left: 3 minutes
+20-04-05 12:13:08 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:13:12 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:13:14 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:13:16 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:13:25 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:13:29 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:13:35 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 12:13:37 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:13:44 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:13:48 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:13:51 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:13:53 |D.Forc3|.LinkirD returned the Red Flag
+20-04-05 12:13:59 |D.Forc3|.LinkirD scores for Alpha Team
+20-04-05 12:14:01 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:14:01 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 12:14:04 Time Left: 2 minutes
+20-04-05 12:14:10 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:14:11 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:14:14 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Combat Knife
+20-04-05 12:14:16 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:14:18 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:14:25 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:14:30 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:14:33 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:14:42 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:14:51 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:14:53 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:14:58 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:15:04 Time Left: 1 minutes
+20-04-05 12:15:04 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:15:05 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-04-05 12:15:08 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:15:11 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:15:17 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Grenade
+20-04-05 12:15:22 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:15:28 (1) |D.Forc3|.LinkirD killed (2) |D.Forc3|.Turko with Desert Eagles
+20-04-05 12:15:37 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:15:40 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:15:43 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Ak-74
+20-04-05 12:15:44 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:15:47 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:15:53 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:15:55 |D.Forc3|.Turko captured the Red Flag
+20-04-05 12:15:58 (2) |D.Forc3|.Turko killed (1) |D.Forc3|.LinkirD with Grenade
+20-04-05 12:15:59 |D.Forc3|.Turko returned the Blue Flag
+20-04-05 12:16:04 |D.Forc3|.Turko scores for Bravo Team
+20-04-05 12:16:04 Next map: ctf_Viet
+20-04-05 12:16:04 [|D.Forc3|.Turko] yahoO!!!
+20-04-05 12:16:09 Viet
+20-04-05 12:19:14 |D.Forc3|.Turko has left bravo team.
+20-04-05 12:19:35 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-05 12:19:39 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-05 12:19:44 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-05 12:19:45 |D.Forc3|.LinkirD captured the Blue Flag
+20-04-05 12:19:53 190.161.192.13:23073|74386C4BC6E requesting game...
+20-04-05 12:20:00 soldier joining game (190.161.192.13:23073) HWID:74386C4BC6E
+20-04-05 12:20:00 soldier has joined bravo team.
+20-04-05 12:20:16 soldier has left bravo team.
+20-04-05 12:21:09 Time Left: 5 minutes
+20-04-05 12:22:09 Time Left: 4 minutes
+20-04-05 12:22:55 |D.Forc3|.LinkirD has left alpha team.
+20-04-05 12:23:09 Time Left: 3 minutes
+20-04-05 12:24:09 Time Left: 2 minutes
+20-04-05 12:25:09 Time Left: 1 minutes
+20-04-05 12:26:09 Next map: ctf_Division
+20-04-05 12:26:14 Division by Boxo, KC, viral
+20-04-05 12:29:21 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 12:29:21 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 12:29:21 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-05 12:29:21 mipHo has joined alpha team.
+20-04-05 12:29:24 [mipHo] !pass mipHo
+20-04-05 12:29:28 [mipHo] !s
+20-04-05 12:29:28 mipHo has joined spectators.
+20-04-05 12:29:30 mipHo has joined alpha team.
+20-04-05 12:29:33 [mipHo] !sp
+20-04-05 12:30:29 mipHo captured the Blue Flag
+20-04-05 12:30:40 mipHo scores for Alpha Team
+20-04-05 12:30:48 mipHo captured the Blue Flag
+20-04-05 12:30:56 mipHo scores for Alpha Team
+20-04-05 12:31:04 mipHo captured the Blue Flag
+20-04-05 12:31:14 Time Left: 5 minutes
+20-04-05 12:32:14 Time Left: 4 minutes
+20-04-05 12:33:14 Time Left: 3 minutes
+20-04-05 12:34:14 Time Left: 2 minutes
+20-04-05 12:35:14 Time Left: 1 minutes
+20-04-05 12:35:35 mipHo returned the Red Flag
+20-04-05 12:36:14 Next map: ctf_Death
+20-04-05 12:36:20 Death by MM, g_d. Boxo, mtk`
+20-04-05 12:36:23 mipHo has left alpha team.
+20-04-05 12:41:20 Time Left: 5 minutes
+20-04-05 12:42:20 Time Left: 4 minutes
+20-04-05 12:43:20 Time Left: 3 minutes
+20-04-05 12:44:20 Time Left: 2 minutes
+20-04-05 12:45:20 Time Left: 1 minutes
+20-04-05 12:46:20 Next map: ctf_Hormone
+20-04-05 12:46:25 Hormone by Metsänaperot
+20-04-05 12:51:25 Time Left: 5 minutes
+20-04-05 12:52:25 Time Left: 4 minutes
+20-04-05 12:53:25 Time Left: 3 minutes
+20-04-05 12:54:25 Time Left: 2 minutes
+20-04-05 12:55:25 Time Left: 1 minutes
+20-04-05 12:56:25 Next map: ctf_Laos
+20-04-05 12:56:30 Laos
+20-04-05 13:00:37 201.241.214.42:23073|37070231FA5 requesting game...
+20-04-05 13:01:30 Time Left: 5 minutes
+20-04-05 13:02:30 Time Left: 4 minutes
+20-04-05 13:03:30 Time Left: 3 minutes
+20-04-05 13:04:30 Time Left: 2 minutes
+20-04-05 13:05:30 Time Left: 1 minutes
+20-04-05 13:06:30 Next map: ctf_Laos2
+20-04-05 13:06:36 Error: Could not load map (ctf_Laos2)
+20-04-05 13:06:36 Next map: ctf_Maya
+20-04-05 13:06:41 Maya
+20-04-05 13:11:41 Time Left: 5 minutes
+20-04-05 13:12:41 Time Left: 4 minutes
+20-04-05 13:13:41 Time Left: 3 minutes
+20-04-05 13:14:41 Time Left: 2 minutes
+20-04-05 13:15:41 Time Left: 1 minutes
+20-04-05 13:16:41 Next map: ctf_MFM
+20-04-05 13:16:46 MFM 2 by mar77a
+20-04-05 13:21:46 Time Left: 5 minutes
+20-04-05 13:22:46 Time Left: 4 minutes
+20-04-05 13:23:46 Time Left: 3 minutes
+20-04-05 13:24:46 Time Left: 2 minutes
+20-04-05 13:25:46 Time Left: 1 minutes
+20-04-05 13:26:46 Next map: ctf_Run
+20-04-05 13:26:52 Run
+20-04-05 13:31:52 Time Left: 5 minutes
+20-04-05 13:32:52 Time Left: 4 minutes
+20-04-05 13:33:52 Time Left: 3 minutes
+20-04-05 13:34:52 Time Left: 2 minutes
+20-04-05 13:35:52 Time Left: 1 minutes
+20-04-05 13:36:51 Next map: ctf_OldRun
+20-04-05 13:36:57 Error: Could not load map (ctf_OldRun)
+20-04-05 13:36:57 Next map: ctf_Ash
+20-04-05 13:37:02 ctf_Ash by chakapoko maker
+20-04-05 13:42:02 Time Left: 5 minutes
+20-04-05 13:43:02 Time Left: 4 minutes
+20-04-05 13:44:02 Time Left: 3 minutes
+20-04-05 13:45:02 Time Left: 2 minutes
+20-04-05 13:46:02 Time Left: 1 minutes
+20-04-05 13:47:02 Next map: ctf_B2b
+20-04-05 13:47:08 B2B
+20-04-05 13:52:08 Time Left: 5 minutes
+20-04-05 13:53:08 Time Left: 4 minutes
+20-04-05 13:54:08 Time Left: 3 minutes
+20-04-05 13:55:08 Time Left: 2 minutes
+20-04-05 13:56:08 Time Left: 1 minutes
+20-04-05 13:57:07 Next map: ctf_Blade
+20-04-05 13:57:13 Blade by Zakath
+20-04-05 13:59:56 179.214.219.253:23073|6D22C9E1DC9 requesting game...
+20-04-05 14:00:58 179.214.219.253:23073|6D22C9E1DC9 requesting game...
+20-04-05 14:01:00 -Es[K]~ ChiC joining game (179.214.219.253:23073) HWID:6D22C9E1DC9
+20-04-05 14:01:00 -Es[K]~ ChiC has joined alpha team.
+20-04-05 14:01:05 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:12 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:19 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:21 [-Es[K]~ ChiC] !spec
+20-04-05 14:01:21 -Es[K]~ ChiC has joined spectators.
+20-04-05 14:01:26 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:33 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:40 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:47 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:01:54 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:01 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:08 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:13 Time Left: 5 minutes
+20-04-05 14:02:15 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:22 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:29 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:36 -Es[K]~ ChiC gets a ping warning
+20-04-05 14:02:36 -Es[K]~ ChiC has been kicked and banned for 15 minutes (Ping Kick)
+20-04-05 14:03:13 Time Left: 4 minutes
+20-04-05 14:03:45 179.214.219.253:23073|6D22C9E1DC9 requesting game (Ping Kick)...
+20-04-05 14:03:48 179.214.219.253:23073|6D22C9E1DC9 requesting game (Ping Kick)...
+20-04-05 14:04:13 Time Left: 3 minutes
+20-04-05 14:04:31 88.196.203.73:23073|2D687A709F2 requesting game...
+20-04-05 14:05:13 Time Left: 2 minutes
+20-04-05 14:06:13 Time Left: 1 minutes
+20-04-05 14:07:13 Next map: ctf_Viet
+20-04-05 14:07:18 Viet
+20-04-05 14:12:18 Time Left: 5 minutes
+20-04-05 14:13:18 Time Left: 4 minutes
+20-04-05 14:14:18 Time Left: 3 minutes
+20-04-05 14:15:18 Time Left: 2 minutes
+20-04-05 14:16:18 Time Left: 1 minutes
+20-04-05 14:16:57 IP number 179.214.219.253 (Ping Kick) unbanned
+20-04-05 14:16:57 Hardware ID 6D22C9E1DC9 (Ping Kick) unbanned
+20-04-05 14:17:18 Next map: ctf_Division
+20-04-05 14:17:23 Division by Boxo, KC, viral
+20-04-05 14:22:23 Time Left: 5 minutes
+20-04-05 14:23:23 Time Left: 4 minutes
+20-04-05 14:24:23 Time Left: 3 minutes
+20-04-05 14:25:23 Time Left: 2 minutes
+20-04-05 14:26:23 Time Left: 1 minutes
+20-04-05 14:27:23 Next map: ctf_Death
+20-04-05 14:27:29 Death by MM, g_d. Boxo, mtk`
+20-04-05 14:31:58 152.173.33.187:23073|604C8DA500F requesting game...
+20-04-05 14:32:29 Time Left: 5 minutes
+20-04-05 14:33:29 Time Left: 4 minutes
+20-04-05 14:34:29 Time Left: 3 minutes
+20-04-05 14:35:29 Time Left: 2 minutes
+20-04-05 14:36:29 Time Left: 1 minutes
+20-04-05 14:37:29 Next map: ctf_Hormone
+20-04-05 14:37:34 Hormone by Metsänaperot
+20-04-05 14:42:34 Time Left: 5 minutes
+20-04-05 14:43:34 Time Left: 4 minutes
+20-04-05 14:44:34 Time Left: 3 minutes
+20-04-05 14:45:34 Time Left: 2 minutes
+20-04-05 14:46:34 Time Left: 1 minutes
+20-04-05 14:47:34 Next map: ctf_Laos
+20-04-05 14:47:39 Laos
+20-04-05 14:49:05 Admin connected (201.189.251.234).
+20-04-05 14:49:05 /friendlyfire (201.189.251.234)
+20-04-05 14:49:05 Friendly Fire is 0
+20-04-05 14:49:05 /bonus (201.189.251.234)
+20-04-05 14:49:05 Current bonus frequency is 1
+20-04-05 14:49:05 /vote% (201.189.251.234)
+20-04-05 14:49:05 Voting percent is 60
+20-04-05 14:49:05 /respawntime (201.189.251.234)
+20-04-05 14:49:05 Respawn time is 3 seconds
+20-04-05 14:49:06 /maxrespawntime (201.189.251.234)
+20-04-05 14:49:06 Maximum Respawn time is 5 seconds
+20-04-05 14:52:39 Time Left: 5 minutes
+20-04-05 14:53:39 Time Left: 4 minutes
+20-04-05 14:54:39 Time Left: 3 minutes
+20-04-05 14:55:39 Time Left: 2 minutes
+20-04-05 14:56:39 Time Left: 1 minutes
+20-04-05 14:57:39 Next map: ctf_Laos2
+20-04-05 14:57:45 Error: Could not load map (ctf_Laos2)
+20-04-05 14:57:45 Next map: ctf_Maya
+20-04-05 14:57:50 Maya
+20-04-05 15:02:50 Time Left: 5 minutes
+20-04-05 15:03:50 Time Left: 4 minutes
+20-04-05 15:04:50 Time Left: 3 minutes
+20-04-05 15:05:50 Time Left: 2 minutes
+20-04-05 15:06:50 Time Left: 1 minutes
+20-04-05 15:07:50 Next map: ctf_MFM
+20-04-05 15:07:55 MFM 2 by mar77a
+20-04-05 15:12:44 186.105.27.208:23073|E7E99638500 requesting game...
+20-04-05 15:12:55 Time Left: 5 minutes
+20-04-05 15:13:55 Time Left: 4 minutes
+20-04-05 15:14:55 Time Left: 3 minutes
+20-04-05 15:15:55 Time Left: 2 minutes
+20-04-05 15:16:55 Time Left: 1 minutes
+20-04-05 15:17:55 Next map: ctf_Run
+20-04-05 15:18:01 Run
+20-04-05 15:18:27 200.83.201.38:23073|3BFA8474317 requesting game...
+20-04-05 15:18:33 200.83.201.38:23073|3BFA8474317 requesting game...
+20-04-05 15:18:35 #KbN! ChronoCL joining game (200.83.201.38:23073) HWID:3BFA8474317
+20-04-05 15:18:35 #KbN! ChronoCL has joined alpha team.
+20-04-05 15:20:47 #KbN! ChronoCL captured the Blue Flag
+20-04-05 15:21:08 #KbN! ChronoCL scores for Alpha Team
+20-04-05 15:21:23 #KbN! ChronoCL captured the Blue Flag
+20-04-05 15:22:50 #KbN! ChronoCL scores for Alpha Team
+20-04-05 15:23:01 Time Left: 5 minutes
+20-04-05 15:23:13 74.134.74.187:23073|19D5F89DA80 requesting game...
+20-04-05 15:23:14 74.134.74.187:23073|19D5F89DA80 requesting game...
+20-04-05 15:23:16 74.134.74.187:23073|19D5F89DA80 requesting game...
+20-04-05 15:23:20 #KbN! ChronoCL captured the Blue Flag
+20-04-05 15:24:01 Time Left: 4 minutes
+20-04-05 15:24:18 #KbN! ChronoCL has left alpha team.
+20-04-05 15:25:01 Time Left: 3 minutes
+20-04-05 15:26:01 Time Left: 2 minutes
+20-04-05 15:27:01 Time Left: 1 minutes
+20-04-05 15:28:01 Next map: ctf_OldRun
+20-04-05 15:28:06 Error: Could not load map (ctf_OldRun)
+20-04-05 15:28:06 Next map: ctf_Ash
+20-04-05 15:28:11 ctf_Ash by chakapoko maker
+20-04-05 15:33:11 Time Left: 5 minutes
+20-04-05 15:34:11 Time Left: 4 minutes
+20-04-05 15:35:11 Time Left: 3 minutes
+20-04-05 15:36:11 Time Left: 2 minutes
+20-04-05 15:37:11 Time Left: 1 minutes
+20-04-05 15:38:11 Next map: ctf_B2b
+20-04-05 15:38:17 B2B
+20-04-05 15:43:17 Time Left: 5 minutes
+20-04-05 15:44:17 Time Left: 4 minutes
+20-04-05 15:45:17 Time Left: 3 minutes
+20-04-05 15:46:17 Time Left: 2 minutes
+20-04-05 15:47:17 Time Left: 1 minutes
+20-04-05 15:48:17 Next map: ctf_Blade
+20-04-05 15:48:22 Blade by Zakath
+20-04-05 15:53:22 Time Left: 5 minutes
+20-04-05 15:54:22 Time Left: 4 minutes
+20-04-05 15:55:22 Time Left: 3 minutes
+20-04-05 15:56:22 Time Left: 2 minutes
+20-04-05 15:57:22 Time Left: 1 minutes
+20-04-05 15:58:22 Next map: ctf_Viet
+20-04-05 15:58:27 Viet
+20-04-05 16:03:27 Time Left: 5 minutes
+20-04-05 16:04:27 Time Left: 4 minutes
+20-04-05 16:05:27 Time Left: 3 minutes
+20-04-05 16:06:27 Time Left: 2 minutes
+20-04-05 16:07:27 Time Left: 1 minutes
+20-04-05 16:08:27 Next map: ctf_Division
+20-04-05 16:08:33 Division by Boxo, KC, viral
+20-04-05 16:13:33 Time Left: 5 minutes
+20-04-05 16:14:33 Time Left: 4 minutes
+20-04-05 16:15:33 Time Left: 3 minutes
+20-04-05 16:16:33 Time Left: 2 minutes
+20-04-05 16:17:33 Time Left: 1 minutes
+20-04-05 16:18:33 Next map: ctf_Death
+20-04-05 16:18:38 Death by MM, g_d. Boxo, mtk`
+20-04-05 16:23:38 Time Left: 5 minutes
+20-04-05 16:24:38 Time Left: 4 minutes
+20-04-05 16:25:38 Time Left: 3 minutes
+20-04-05 16:26:38 Time Left: 2 minutes
+20-04-05 16:27:38 Time Left: 1 minutes
+20-04-05 16:28:38 Next map: ctf_Hormone
+20-04-05 16:28:43 Hormone by Metsänaperot
+20-04-05 16:33:43 Time Left: 5 minutes
+20-04-05 16:34:43 Time Left: 4 minutes
+20-04-05 16:35:43 Time Left: 3 minutes
+20-04-05 16:36:43 Time Left: 2 minutes
+20-04-05 16:37:43 Time Left: 1 minutes
+20-04-05 16:38:43 Next map: ctf_Laos
+20-04-05 16:38:49 Laos
+20-04-05 16:43:49 Time Left: 5 minutes
+20-04-05 16:44:49 Time Left: 4 minutes
+20-04-05 16:45:49 Time Left: 3 minutes
+20-04-05 16:46:49 Time Left: 2 minutes
+20-04-05 16:47:49 Time Left: 1 minutes
+20-04-05 16:48:49 Next map: ctf_Laos2
+20-04-05 16:48:54 Error: Could not load map (ctf_Laos2)
+20-04-05 16:48:54 Next map: ctf_Maya
+20-04-05 16:48:59 Maya
+20-04-05 16:53:59 Time Left: 5 minutes
+20-04-05 16:54:59 Time Left: 4 minutes
+20-04-05 16:55:59 Time Left: 3 minutes
+20-04-05 16:56:59 Time Left: 2 minutes
+20-04-05 16:57:59 Time Left: 1 minutes
+20-04-05 16:58:59 Next map: ctf_MFM
+20-04-05 16:59:05 MFM 2 by mar77a
+20-04-05 17:04:05 Time Left: 5 minutes
+20-04-05 17:05:05 Time Left: 4 minutes
+20-04-05 17:06:05 Time Left: 3 minutes
+20-04-05 17:07:05 Time Left: 2 minutes
+20-04-05 17:08:05 Time Left: 1 minutes
+20-04-05 17:09:05 Next map: ctf_Run
+20-04-05 17:09:10 Run
+20-04-05 17:14:10 Time Left: 5 minutes
+20-04-05 17:15:10 Time Left: 4 minutes
+20-04-05 17:16:10 Time Left: 3 minutes
+20-04-05 17:17:10 Time Left: 2 minutes
+20-04-05 17:18:10 Time Left: 1 minutes
+20-04-05 17:19:10 Next map: ctf_OldRun
+20-04-05 17:19:15 Error: Could not load map (ctf_OldRun)
+20-04-05 17:19:15 Next map: ctf_Ash
+20-04-05 17:19:21 ctf_Ash by chakapoko maker
+20-04-05 17:24:21 Time Left: 5 minutes
+20-04-05 17:25:21 Time Left: 4 minutes
+20-04-05 17:26:21 Time Left: 3 minutes
+20-04-05 17:27:21 Time Left: 2 minutes
+20-04-05 17:28:21 Time Left: 1 minutes
+20-04-05 17:29:21 Next map: ctf_B2b
+20-04-05 17:29:26 B2B
+20-04-05 17:34:26 Time Left: 5 minutes
+20-04-05 17:35:26 Time Left: 4 minutes
+20-04-05 17:36:26 Time Left: 3 minutes
+20-04-05 17:37:26 Time Left: 2 minutes
+20-04-05 17:38:26 Time Left: 1 minutes
+20-04-05 17:39:26 Next map: ctf_Blade
+20-04-05 17:39:31 Blade by Zakath
+20-04-05 17:44:31 Time Left: 5 minutes
+20-04-05 17:45:31 Time Left: 4 minutes
+20-04-05 17:46:31 Time Left: 3 minutes
+20-04-05 17:47:31 Time Left: 2 minutes
+20-04-05 17:48:31 Time Left: 1 minutes
+20-04-05 17:49:31 Next map: ctf_Viet
+20-04-05 17:49:37 Viet
+20-04-05 17:54:37 Time Left: 5 minutes
+20-04-05 17:55:37 Time Left: 4 minutes
+20-04-05 17:56:37 Time Left: 3 minutes
+20-04-05 17:57:37 Time Left: 2 minutes
+20-04-05 17:58:37 Time Left: 1 minutes
+20-04-05 17:59:36 Next map: ctf_Division
+20-04-05 17:59:42 Division by Boxo, KC, viral
+20-04-05 18:04:42 Time Left: 5 minutes
+20-04-05 18:05:42 Time Left: 4 minutes
+20-04-05 18:06:42 Time Left: 3 minutes
+20-04-05 18:07:42 Time Left: 2 minutes
+20-04-05 18:08:42 Time Left: 1 minutes
+20-04-05 18:09:42 Next map: ctf_Death
+20-04-05 18:09:47 Death by MM, g_d. Boxo, mtk`
+20-04-05 18:14:47 Time Left: 5 minutes
+20-04-05 18:15:47 Time Left: 4 minutes
+20-04-05 18:16:47 Time Left: 3 minutes
+20-04-05 18:17:47 Time Left: 2 minutes
+20-04-05 18:18:47 Time Left: 1 minutes
+20-04-05 18:19:47 Next map: ctf_Hormone
+20-04-05 18:19:53 Hormone by Metsänaperot
+20-04-05 18:24:52 Time Left: 5 minutes
+20-04-05 18:25:52 Time Left: 4 minutes
+20-04-05 18:26:52 Time Left: 3 minutes
+20-04-05 18:27:52 Time Left: 2 minutes
+20-04-05 18:28:52 Time Left: 1 minutes
+20-04-05 18:29:52 Next map: ctf_Laos
+20-04-05 18:29:58 Laos
+20-04-05 18:34:58 Time Left: 5 minutes
+20-04-05 18:35:58 Time Left: 4 minutes
+20-04-05 18:36:58 Time Left: 3 minutes
+20-04-05 18:37:58 Time Left: 2 minutes
+20-04-05 18:38:58 Time Left: 1 minutes
+20-04-05 18:39:58 Next map: ctf_Laos2
+20-04-05 18:40:03 Error: Could not load map (ctf_Laos2)
+20-04-05 18:40:03 Next map: ctf_Maya
+20-04-05 18:40:08 Maya
+20-04-05 18:45:08 Time Left: 5 minutes
+20-04-05 18:46:08 Time Left: 4 minutes
+20-04-05 18:47:08 Time Left: 3 minutes
+20-04-05 18:48:08 Time Left: 2 minutes
+20-04-05 18:49:08 Time Left: 1 minutes
+20-04-05 18:50:08 Next map: ctf_MFM
+20-04-05 18:50:14 MFM 2 by mar77a
+20-04-05 18:55:14 Time Left: 5 minutes
+20-04-05 18:56:14 Time Left: 4 minutes
+20-04-05 18:56:16 190.46.211.216:23073|201EE677552 requesting game...
+20-04-05 18:57:14 Time Left: 3 minutes
+20-04-05 18:58:14 Time Left: 2 minutes
+20-04-05 18:59:14 Time Left: 1 minutes
+20-04-05 19:00:14 Next map: ctf_Run
+20-04-05 19:00:19 Run
+20-04-05 19:05:19 Time Left: 5 minutes
+20-04-05 19:06:19 Time Left: 4 minutes
+20-04-05 19:07:19 Time Left: 3 minutes
+20-04-05 19:08:19 Time Left: 2 minutes
+20-04-05 19:09:19 Time Left: 1 minutes
+20-04-05 19:10:19 Next map: ctf_OldRun
+20-04-05 19:10:24 Error: Could not load map (ctf_OldRun)
+20-04-05 19:10:24 Next map: ctf_Ash
+20-04-05 19:10:30 ctf_Ash by chakapoko maker
+20-04-05 19:15:30 Time Left: 5 minutes
+20-04-05 19:16:30 Time Left: 4 minutes
+20-04-05 19:16:34 179.9.71.92:23073|1E145B4A08F requesting game...
+20-04-05 19:16:53 181.73.145.58:23073|2C282960D83 requesting game...
+20-04-05 19:17:02 179.9.71.92:23073|1E145B4A08F requesting game...
+20-04-05 19:17:05 181.73.145.58:23073|2C282960D83 requesting game...
+20-04-05 19:17:30 Time Left: 3 minutes
+20-04-05 19:18:30 Time Left: 2 minutes
+20-04-05 19:19:06 190.45.72.23:23073|68E18997B64 requesting game...
+20-04-05 19:19:10 190.45.72.23:23073|68E18997B64 requesting game...
+20-04-05 19:19:23 190.45.72.23:23073|68E18997B64 requesting game...
+20-04-05 19:19:30 Time Left: 1 minutes
+20-04-05 19:20:30 Next map: ctf_B2b
+20-04-05 19:20:35 B2B
+20-04-05 19:25:35 Time Left: 5 minutes
+20-04-05 19:26:35 Time Left: 4 minutes
+20-04-05 19:27:35 Time Left: 3 minutes
+20-04-05 19:28:35 Time Left: 2 minutes
+20-04-05 19:29:35 Time Left: 1 minutes
+20-04-05 19:30:35 Next map: ctf_Blade
+20-04-05 19:30:40 Blade by Zakath
+20-04-05 19:35:40 Time Left: 5 minutes
+20-04-05 19:36:40 Time Left: 4 minutes
+20-04-05 19:37:40 Time Left: 3 minutes
+20-04-05 19:38:40 Time Left: 2 minutes
+20-04-05 19:39:40 Time Left: 1 minutes
+20-04-05 19:40:40 Next map: ctf_Viet
+20-04-05 19:40:46 Viet
+20-04-05 19:45:46 Time Left: 5 minutes
+20-04-05 19:46:46 Time Left: 4 minutes
+20-04-05 19:47:46 Time Left: 3 minutes
+20-04-05 19:48:46 Time Left: 2 minutes
+20-04-05 19:49:46 Time Left: 1 minutes
+20-04-05 19:50:46 Next map: ctf_Division
+20-04-05 19:50:51 Division by Boxo, KC, viral
+20-04-05 19:55:51 Time Left: 5 minutes
+20-04-05 19:56:51 Time Left: 4 minutes
+20-04-05 19:57:51 Time Left: 3 minutes
+20-04-05 19:58:51 Time Left: 2 minutes
+20-04-05 19:59:35 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-05 19:59:37 #1 Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-05 19:59:37 #1 Mand3s has joined bravo team.
+20-04-05 19:59:48 #1 Mand3s captured the Red Flag
+20-04-05 19:59:51 Time Left: 1 minutes
+20-04-05 19:59:59 #1 Mand3s scores for Bravo Team
+20-04-05 20:00:08 #1 Mand3s captured the Red Flag
+20-04-05 20:00:16 #1 Mand3s scores for Bravo Team
+20-04-05 20:00:17 #1 Mand3s returned the Blue Flag
+20-04-05 20:00:23 #1 Mand3s captured the Red Flag
+20-04-05 20:00:32 #1 Mand3s scores for Bravo Team
+20-04-05 20:00:42 #1 Mand3s captured the Red Flag
+20-04-05 20:00:51 #1 Mand3s scores for Bravo Team
+20-04-05 20:00:51 Next map: ctf_Death
+20-04-05 20:00:53 #1 Mand3s has left bravo team.
+20-04-05 20:00:56 Death by MM, g_d. Boxo, mtk`
+20-04-05 20:05:56 Time Left: 5 minutes
+20-04-05 20:06:56 Time Left: 4 minutes
+20-04-05 20:07:56 Time Left: 3 minutes
+20-04-05 20:08:56 Time Left: 2 minutes
+20-04-05 20:09:53 45.232.92.170:16521|64995B15DC0 requesting game...
+20-04-05 20:09:56 Time Left: 1 minutes
+20-04-05 20:10:56 Next map: ctf_Hormone
+20-04-05 20:11:02 Hormone by Metsänaperot
+20-04-05 20:16:02 Time Left: 5 minutes
+20-04-05 20:17:02 Time Left: 4 minutes
+20-04-05 20:18:02 Time Left: 3 minutes
+20-04-05 20:19:02 Time Left: 2 minutes
+20-04-05 20:20:02 Time Left: 1 minutes
+20-04-05 20:21:02 Next map: ctf_Laos
+20-04-05 20:21:07 Laos
+20-04-05 20:26:07 Time Left: 5 minutes
+20-04-05 20:27:07 Time Left: 4 minutes
+20-04-05 20:28:07 Time Left: 3 minutes
+20-04-05 20:28:50 181.43.219.9:59785|176530BD328 requesting game...
+20-04-05 20:28:51 181.43.219.9:59785|176530BD328 requesting game...
+20-04-05 20:29:00 181.43.219.9:59785|176530BD328 requesting game...
+20-04-05 20:29:07 Time Left: 2 minutes
+20-04-05 20:30:07 Time Left: 1 minutes
+20-04-05 20:31:07 Next map: ctf_Laos2
+20-04-05 20:31:12 Error: Could not load map (ctf_Laos2)
+20-04-05 20:31:12 Next map: ctf_Maya
+20-04-05 20:31:18 Maya
+20-04-05 20:36:18 Time Left: 5 minutes
+20-04-05 20:37:18 Time Left: 4 minutes
+20-04-05 20:38:18 Time Left: 3 minutes
+20-04-05 20:39:18 Time Left: 2 minutes
+20-04-05 20:40:18 Time Left: 1 minutes
+20-04-05 20:41:18 Next map: ctf_MFM
+20-04-05 20:41:23 MFM 2 by mar77a
+20-04-05 20:46:23 Time Left: 5 minutes
+20-04-05 20:47:23 Time Left: 4 minutes
+20-04-05 20:48:23 Time Left: 3 minutes
+20-04-05 20:49:23 Time Left: 2 minutes
+20-04-05 20:50:23 Time Left: 1 minutes
+20-04-05 20:51:23 Next map: ctf_Run
+20-04-05 20:51:28 Run
+20-04-05 20:56:28 Time Left: 5 minutes
+20-04-05 20:57:28 Time Left: 4 minutes
+20-04-05 20:58:28 Time Left: 3 minutes
+20-04-05 20:59:28 Time Left: 2 minutes
+20-04-05 21:00:28 Time Left: 1 minutes
+20-04-05 21:01:28 Next map: ctf_OldRun
+20-04-05 21:01:34 Error: Could not load map (ctf_OldRun)
+20-04-05 21:01:34 Next map: ctf_Ash
+20-04-05 21:01:39 ctf_Ash by chakapoko maker
+20-04-05 21:06:39 Time Left: 5 minutes
+20-04-05 21:07:39 Time Left: 4 minutes
+20-04-05 21:08:39 Time Left: 3 minutes
+20-04-05 21:09:39 Time Left: 2 minutes
+20-04-05 21:10:39 Time Left: 1 minutes
+20-04-05 21:11:39 Next map: ctf_B2b
+20-04-05 21:11:44 B2B
+20-04-05 21:16:44 Time Left: 5 minutes
+20-04-05 21:17:00 190.215.65.209:23073|2E4DCBE5F32 requesting game...
+20-04-05 21:17:06 190.215.65.209:23073|2E4DCBE5F32 requesting game...
+20-04-05 21:17:44 Time Left: 4 minutes
+20-04-05 21:18:44 Time Left: 3 minutes
+20-04-05 21:19:44 Time Left: 2 minutes
+20-04-05 21:20:44 Time Left: 1 minutes
+20-04-05 21:21:44 Next map: ctf_Blade
+20-04-05 21:21:50 Blade by Zakath
+20-04-05 21:25:51 190.215.65.209:23073|2E4DCBE5F32 requesting game...
+20-04-05 21:25:53 Mehdi joining game (190.215.65.209:23073) HWID:2E4DCBE5F32
+20-04-05 21:25:53 Mehdi has joined alpha team.
+20-04-05 21:26:07 Mehdi has left alpha team.
+20-04-05 21:26:50 Time Left: 5 minutes
+20-04-05 21:27:50 Time Left: 4 minutes
+20-04-05 21:28:50 Time Left: 3 minutes
+20-04-05 21:29:50 Time Left: 2 minutes
+20-04-05 21:30:50 Time Left: 1 minutes
+20-04-05 21:31:50 Next map: ctf_Viet
+20-04-05 21:31:55 Viet
+20-04-05 21:36:55 Time Left: 5 minutes
+20-04-05 21:37:55 Time Left: 4 minutes
+20-04-05 21:38:55 Time Left: 3 minutes
+20-04-05 21:39:55 Time Left: 2 minutes
+20-04-05 21:40:55 Time Left: 1 minutes
+20-04-05 21:41:55 Next map: ctf_Division
+20-04-05 21:42:00 Division by Boxo, KC, viral
+20-04-05 21:47:00 Time Left: 5 minutes
+20-04-05 21:48:00 Time Left: 4 minutes
+20-04-05 21:49:00 Time Left: 3 minutes
+20-04-05 21:50:00 Time Left: 2 minutes
+20-04-05 21:51:00 Time Left: 1 minutes
+20-04-05 21:52:00 Next map: ctf_Death
+20-04-05 21:52:06 Death by MM, g_d. Boxo, mtk`
+20-04-05 21:57:06 Time Left: 5 minutes
+20-04-05 21:58:06 Time Left: 4 minutes
+20-04-05 21:59:06 Time Left: 3 minutes
+20-04-05 22:00:05 Time Left: 2 minutes
+20-04-05 22:01:05 Time Left: 1 minutes
+20-04-05 22:02:05 Next map: ctf_Hormone
+20-04-05 22:02:11 Hormone by Metsänaperot
+20-04-05 22:03:00 190.22.56.171:23073|34DD6B08E85 requesting game...
+20-04-05 22:07:11 Time Left: 5 minutes
+20-04-05 22:08:11 Time Left: 4 minutes
+20-04-05 22:09:11 Time Left: 3 minutes
+20-04-05 22:10:11 Time Left: 2 minutes
+20-04-05 22:11:11 Time Left: 1 minutes
+20-04-05 22:12:11 Next map: ctf_Laos
+20-04-05 22:12:16 Laos
+20-04-05 22:13:29 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-05 22:13:31 #1 Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-05 22:13:31 #1 Mand3s has joined alpha team.
+20-04-05 22:13:41 #1 Mand3s captured the Blue Flag
+20-04-05 22:13:48 #1 Mand3s has left alpha team.
+20-04-05 22:14:23 181.43.217.170:26883|14358F50F63 requesting game...
+20-04-05 22:17:12 190.96.62.79:23073|4554038D627 requesting game...
+20-04-05 22:17:16 Time Left: 5 minutes
+20-04-05 22:18:16 Time Left: 4 minutes
+20-04-05 22:19:16 Time Left: 3 minutes
+20-04-05 22:20:16 Time Left: 2 minutes
+20-04-05 22:21:16 Time Left: 1 minutes
+20-04-05 22:22:16 Next map: ctf_Laos2
+20-04-05 22:22:22 Error: Could not load map (ctf_Laos2)
+20-04-05 22:22:22 Next map: ctf_Maya
+20-04-05 22:22:27 Maya
+20-04-05 22:27:27 Time Left: 5 minutes
+20-04-05 22:28:27 Time Left: 4 minutes
+20-04-05 22:29:27 Time Left: 3 minutes
+20-04-05 22:30:27 Time Left: 2 minutes
+20-04-05 22:31:27 Time Left: 1 minutes
+20-04-05 22:32:27 Next map: ctf_MFM
+20-04-05 22:32:32 MFM 2 by mar77a
+20-04-05 22:37:32 Time Left: 5 minutes
+20-04-05 22:38:32 Time Left: 4 minutes
+20-04-05 22:39:32 Time Left: 3 minutes
+20-04-05 22:40:32 Time Left: 2 minutes
+20-04-05 22:41:32 Time Left: 1 minutes
+20-04-05 22:42:32 Next map: ctf_Run
+20-04-05 22:42:37 Run
+20-04-05 22:47:37 Time Left: 5 minutes
+20-04-05 22:47:54 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-05 22:48:37 Time Left: 4 minutes
+20-04-05 22:49:37 Time Left: 3 minutes
+20-04-05 22:50:13 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-05 22:50:37 Time Left: 2 minutes
+20-04-05 22:51:04 200.113.138.23:23073|29D5CDB97C2 requesting game...
+20-04-05 22:51:05 190.160.69.92:23073|19822FB4362 requesting game...
+20-04-05 22:51:05 190.44.33.103:23073|297E06A7CC4 requesting game...
+20-04-05 22:51:06 201.188.72.158:23073|6B7439671B6 requesting game...
+20-04-05 22:51:08 201.188.72.158:23073|6B7439671B6 requesting game...
+20-04-05 22:51:09 190.160.69.92:23073|19822FB4362 requesting game...
+20-04-05 22:51:09 200.113.138.23:23073|29D5CDB97C2 requesting game...
+20-04-05 22:51:12 190.44.33.103:23073|297E06A7CC4 requesting game...
+20-04-05 22:51:37 Time Left: 1 minutes
+20-04-05 22:52:37 Next map: ctf_OldRun
+20-04-05 22:52:43 Error: Could not load map (ctf_OldRun)
+20-04-05 22:52:43 Next map: ctf_Ash
+20-04-05 22:52:48 ctf_Ash by chakapoko maker
+20-04-05 22:57:48 Time Left: 5 minutes
+20-04-05 22:58:48 Time Left: 4 minutes
+20-04-05 22:59:48 Time Left: 3 minutes
+20-04-05 23:00:48 Time Left: 2 minutes
+20-04-05 23:01:10 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 23:01:11 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 23:01:12 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-05 23:01:12 mipHo has joined bravo team.
+20-04-05 23:01:48 Time Left: 1 minutes
+20-04-05 23:02:15 mipHo captured the Red Flag
+20-04-05 23:02:48 Next map: ctf_B2b
+20-04-05 23:02:49 [mipHo] !r
+20-04-05 23:02:49 Reiniciando...
+20-04-05 23:02:55 ctf_Ash by chakapoko maker
+20-04-05 23:03:11 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:03:12 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:03:15 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:03:26 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:03:28 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:03:34 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:04:13 mipHo has left bravo team.
+20-04-05 23:04:24 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 23:04:24 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-05 23:04:25 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-05 23:04:25 mipHo has joined bravo team.
+20-04-05 23:04:26 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:04:42 YoQueSe joining game (181.74.246.50:23073) HWID:7CA81D40499
+20-04-05 23:04:42 YoQueSe has joined alpha team.
+20-04-05 23:05:14 (1) YoQueSe killed (2) mipHo with Ak-74
+20-04-05 23:05:35 YoQueSe has left alpha team.
+20-04-05 23:05:55 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:05:57 YoQueSe joining game (181.74.246.50:23073) HWID:7CA81D40499
+20-04-05 23:05:57 YoQueSe has joined alpha team.
+20-04-05 23:06:27 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-05 23:06:43 (1) YoQueSe killed (2) mipHo with HK MP5
+20-04-05 23:08:00 Time Left: 5 minutes
+20-04-05 23:08:04 (2) mipHo killed (1) YoQueSe with HK MP5
+20-04-05 23:08:17 (1) YoQueSe killed (2) mipHo with HK MP5
+20-04-05 23:08:25 (2) mipHo killed (1) YoQueSe with HK MP5
+20-04-05 23:08:38 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:08:43 Admin connected (191.125.182.78).
+20-04-05 23:08:44 /friendlyfire (191.125.182.78)
+20-04-05 23:08:44 Friendly Fire is 0
+20-04-05 23:08:44 /bonus (191.125.182.78)
+20-04-05 23:08:44 Current bonus frequency is 1
+20-04-05 23:08:44 /vote% (191.125.182.78)
+20-04-05 23:08:44 Voting percent is 60
+20-04-05 23:08:44 /respawntime (191.125.182.78)
+20-04-05 23:08:44 Respawn time is 3 seconds
+20-04-05 23:08:44 /maxrespawntime (191.125.182.78)
+20-04-05 23:08:44 Maximum Respawn time is 5 seconds
+20-04-05 23:08:45 Admin disconnected (191.125.182.78).
+20-04-05 23:08:57 YoQueSe has left alpha team.
+20-04-05 23:09:00 Time Left: 4 minutes
+20-04-05 23:10:00 Time Left: 3 minutes
+20-04-05 23:10:37 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:10:39 YoQueSe joining game (181.74.246.50:23073) HWID:7CA81D40499
+20-04-05 23:10:39 YoQueSe has joined alpha team.
+20-04-05 23:10:53 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:10:59 (2) mipHo killed (1) YoQueSe with HK MP5
+20-04-05 23:11:00 Time Left: 2 minutes
+20-04-05 23:11:02 [mipHo] !r
+20-04-05 23:11:02 Reiniciando...
+20-04-05 23:11:07 ctf_Ash by chakapoko maker
+20-04-05 23:11:24 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:11:31 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:11:41 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:11:53 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:12:18 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:12:33 mipHo captured the Red Flag
+20-04-05 23:12:42 mipHo captured the Red Flag
+20-04-05 23:12:49 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:12:55 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:13:02 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:13:15 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:13:24 (1) YoQueSe killed (2) mipHo with Grenade
+20-04-05 23:13:31 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:14:17 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:14:27 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:14:32 YoQueSe has left alpha team.
+20-04-05 23:15:40 181.74.246.50:23073|7CA81D40499 requesting game...
+20-04-05 23:15:41 YoQueSe joining game (181.74.246.50:23073) HWID:7CA81D40499
+20-04-05 23:15:41 YoQueSe has joined alpha team.
+20-04-05 23:15:55 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:16:07 Time Left: 5 minutes
+20-04-05 23:16:09 (1) YoQueSe killed (2) mipHo with LAW
+20-04-05 23:16:17 (1) YoQueSe killed (2) mipHo with LAW
+20-04-05 23:16:45 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:16:56 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:17:05 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:17:07 Time Left: 4 minutes
+20-04-05 23:17:32 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:17:44 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:17:57 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:18:06 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:18:07 Time Left: 3 minutes
+20-04-05 23:18:13 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:18:22 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:18:27 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-05 23:19:07 Time Left: 2 minutes
+20-04-05 23:19:30 (1) YoQueSe killed (2) mipHo with Desert Eagles
+20-04-05 23:19:40 (1) YoQueSe killed (2) mipHo with Desert Eagles
+20-04-05 23:19:46 (2) mipHo killed (1) YoQueSe with Ruger 77
+20-04-05 23:20:07 Time Left: 1 minutes
+20-04-05 23:20:19 [mipHo] !r
+20-04-05 23:20:19 Reiniciando...
+20-04-05 23:20:25 ctf_Ash by chakapoko maker
+20-04-05 23:20:41 (1) YoQueSe killed (2) mipHo with Ak-74
+20-04-05 23:21:30 (2) mipHo killed (1) YoQueSe with Steyr AUG
+20-04-05 23:23:19 190.161.152.160:23073|1F387DCE705 requesting game...
+20-04-05 23:23:23 190.161.152.160:23073|1F387DCE705 requesting game...
+20-04-05 23:23:24 S2 ~ patuzhOO* joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-04-05 23:23:24 S2 ~ patuzhOO* has joined as spectator.
+20-04-05 23:23:44 [S2 ~ patuzhOO*] mipho 3v3?
+20-04-05 23:23:49 [mipHo] no
+20-04-05 23:23:54 [S2 ~ patuzhOO*] oka
+20-04-05 23:23:55 S2 ~ patuzhOO* has left spectators
+20-04-05 23:25:25 Time Left: 5 minutes
+20-04-05 23:25:33 mipHo captured the Red Flag
+20-04-05 23:25:59 (1) YoQueSe killed (2) mipHo with Ak-74
+20-04-05 23:26:07 (2) mipHo killed (1) YoQueSe with Chainsaw
+20-04-05 23:26:15 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:26:20 mipHo captured the Red Flag
+20-04-05 23:26:25 Time Left: 4 minutes
+20-04-05 23:26:25 (1) YoQueSe killed (2) mipHo with Grenade
+20-04-05 23:26:25 YoQueSe returned the Red Flag
+20-04-05 23:26:38 (1) YoQueSe killed (2) mipHo with Grenade
+20-04-05 23:26:47 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:27:25 Time Left: 3 minutes
+20-04-05 23:27:25 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:27:34 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:27:43 (1) YoQueSe killed (2) mipHo with Chainsaw
+20-04-05 23:27:51 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:27:57 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:28:14 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:28:25 Time Left: 2 minutes
+20-04-05 23:28:28 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:28:34 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:28:56 (1) YoQueSe killed (2) mipHo with Ruger 77
+20-04-05 23:29:23 (1) YoQueSe killed (2) mipHo with M79
+20-04-05 23:29:25 Time Left: 1 minutes
+20-04-05 23:29:44 (1) YoQueSe killed (2) mipHo with M79
+20-04-05 23:30:20 [mipHo] !map ctf_Rotten
+20-04-05 23:30:25 Next map: ctf_Blade
+20-04-05 23:30:30 Blade by Zakath
+20-04-05 23:30:30 [mipHo] !map ctf_Rotten
+20-04-05 23:30:36 Rotten by Biggles
+20-04-05 23:30:45 mipHo captured the Red Flag
+20-04-05 23:31:22 (1) YoQueSe killed (2) mipHo with Combat Knife
+20-04-05 23:32:07 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:32:14 (1) YoQueSe killed (2) mipHo with Steyr AUG
+20-04-05 23:32:26 (1) YoQueSe killed (2) mipHo with Combat Knife
+20-04-05 23:32:31 (1) YoQueSe killed (2) mipHo with Combat Knife
+20-04-05 23:32:31 (2) mipHo killed (1) YoQueSe with Combat Knife
+20-04-05 23:32:43 (2) mipHo killed (1) YoQueSe with Hands
+20-04-05 23:33:15 (1) YoQueSe killed (2) mipHo with Grenade
+20-04-05 23:33:22 (2) mipHo killed (1) YoQueSe with M79
+20-04-05 23:33:31 (2) mipHo killed (1) YoQueSe with Barrett M82A1
+20-04-05 23:33:47 (2) mipHo killed (1) YoQueSe with Barrett M82A1
+20-04-05 23:33:52 mipHo captured the Red Flag
+20-04-05 23:33:58 YoQueSe returned the Red Flag
+20-04-05 23:34:00 mipHo captured the Red Flag
+20-04-05 23:34:04 (2) mipHo killed (1) YoQueSe with Barrett M82A1
+20-04-05 23:34:07 mipHo captured the Red Flag
+20-04-05 23:34:19 mipHo scores for Bravo Team
+20-04-05 23:34:22 201.215.99.86:23073|2BD54322F20 requesting game...
+20-04-05 23:34:25 (2) mipHo killed (1) YoQueSe with Barrett M82A1
+20-04-05 23:34:39 (1) YoQueSe killed (2) mipHo with FN Minimi
+20-04-05 23:34:52 (2) mipHo killed (1) YoQueSe with Barrett M82A1
+20-04-05 23:34:56 mipHo captured the Red Flag
+20-04-05 23:34:58 (1) YoQueSe killed (2) mipHo with XM214 Minigun
+20-04-05 23:34:59 YoQueSe returned the Red Flag
+20-04-05 23:35:04 (2) mipHo killed (1) YoQueSe with Grenade
+20-04-05 23:35:08 mipHo captured the Red Flag
+20-04-05 23:35:09 (2) mipHo killed (1) YoQueSe with M79
+20-04-05 23:35:20 (2) mipHo killed (1) YoQueSe with M79
+20-04-05 23:35:29 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:35:36 Time Left: 5 minutes
+20-04-05 23:35:44 (1) YoQueSe killed (2) mipHo with Spas-12
+20-04-05 23:35:46 201.215.99.86:23073|2BD54322F20 requesting game...
+20-04-05 23:35:47 201.215.99.86:23073|2BD54322F20 requesting game...
+20-04-05 23:35:52 201.215.99.86:23073|2BD54322F20 requesting game...
+20-04-05 23:35:55 (2) mipHo killed (1) YoQueSe with M79
+20-04-05 23:35:56 201.215.99.86:23073|2BD54322F20 requesting game...
+20-04-05 23:36:00 (1) YoQueSe killed (2) mipHo with Grenade
+20-04-05 23:36:00 [OZ]Knucklers joining game (201.215.99.86:23073) HWID:2BD54322F20
+20-04-05 23:36:00 [OZ]Knucklers has joined alpha team.
+20-04-05 23:36:10 YoQueSe captured the Blue Flag
+20-04-05 23:36:13 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:36:19 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:36:24 YoQueSe scores for Alpha Team
+20-04-05 23:36:31 YoQueSe has joined bravo team.
+20-04-05 23:36:36 Time Left: 4 minutes
+20-04-05 23:36:56 YoQueSe captured the Red Flag
+20-04-05 23:36:56 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:37:02 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:37:29 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:37:32 [OZ]Knucklers returned the Red Flag
+20-04-05 23:37:32 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:37:36 Time Left: 3 minutes
+20-04-05 23:37:39 mipHo returned the Blue Flag
+20-04-05 23:37:49 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:37:58 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:38:24 mipHo captured the Red Flag
+20-04-05 23:38:36 Time Left: 2 minutes
+20-04-05 23:38:38 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:38:45 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:39:06 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:39:09 [OZ]Knucklers returned the Red Flag
+20-04-05 23:39:15 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:39:17 (2) mipHo killed (1) [OZ]Knucklers with Grenade
+20-04-05 23:39:20 mipHo captured the Red Flag
+20-04-05 23:39:22 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:39:28 mipHo scores for Bravo Team
+20-04-05 23:39:31 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:39:36 Time Left: 1 minutes
+20-04-05 23:39:37 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:39:39 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:39:43 mipHo returned the Blue Flag
+20-04-05 23:39:48 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:39:49 mipHo captured the Red Flag
+20-04-05 23:39:58 mipHo scores for Bravo Team
+20-04-05 23:40:06 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:40:07 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:40:16 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:40:36 Next map: ctf_Viet
+20-04-05 23:40:41 Viet
+20-04-05 23:41:00 (2) YoQueSe killed (1) [OZ]Knucklers with Spas-12
+20-04-05 23:41:13 (2) YoQueSe killed (1) [OZ]Knucklers with Spas-12
+20-04-05 23:41:14 YoQueSe captured the Red Flag
+20-04-05 23:41:22 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:41:22 (2) mipHo killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:41:30 YoQueSe scores for Bravo Team
+20-04-05 23:41:37 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:41:45 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:41:52 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:42:03 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:42:07 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:42:09 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:42:13 mipHo returned the Blue Flag
+20-04-05 23:42:25 YoQueSe captured the Red Flag
+20-04-05 23:42:35 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:42:38 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:42:40 (1) [OZ]Knucklers killed (2) mipHo with Grenade
+20-04-05 23:42:48 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:42:53 YoQueSe scores for Bravo Team
+20-04-05 23:43:02 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:43:06 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:43:09 (2) mipHo killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:43:18 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:43:19 (2) mipHo killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:43:24 mipHo captured the Red Flag
+20-04-05 23:43:26 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:43:31 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:43:40 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:43:42 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:43:47 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:43:55 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:43:59 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:44:05 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:44:05 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:44:19 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:44:36 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:44:42 mipHo captured the Red Flag
+20-04-05 23:44:55 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:44:57 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:45:05 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:45:09 (1) [OZ]Knucklers killed (2) YoQueSe with Grenade
+20-04-05 23:45:10 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:45:20 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:45:24 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:45:41 Time Left: 5 minutes
+20-04-05 23:45:45 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:45:46 mipHo captured the Red Flag
+20-04-05 23:45:53 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:45:55 [OZ]Knucklers returned the Red Flag
+20-04-05 23:46:02 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:46:16 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:46:18 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:46:30 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:46:41 Time Left: 4 minutes
+20-04-05 23:46:47 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:46:49 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:47:00 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:47:00 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:47:02 mipHo returned the Blue Flag
+20-04-05 23:47:14 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:47:15 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:47:26 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:47:32 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:47:35 mipHo captured the Red Flag
+20-04-05 23:47:38 201.241.245.222:23073|2D6052AB6EA requesting game...
+20-04-05 23:47:41 Time Left: 3 minutes
+20-04-05 23:47:41 201.241.245.222:23073|2D6052AB6EA requesting game...
+20-04-05 23:47:42 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:47:42 S2 ~ DeFkOndOz* joining game (201.241.245.222:23073) HWID:2D6052AB6EA
+20-04-05 23:47:42 S2 ~ DeFkOndOz* has joined as spectator.
+20-04-05 23:47:42 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:47:44 S2 ~ DeFkOndOz* has left spectators
+20-04-05 23:47:44 [OZ]Knucklers returned the Red Flag
+20-04-05 23:47:48 (1) [OZ]Knucklers killed (2) YoQueSe with USSOCOM
+20-04-05 23:47:54 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:47:59 mipHo captured the Red Flag
+20-04-05 23:48:14 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:48:14 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:48:26 mipHo captured the Red Flag
+20-04-05 23:48:26 (1) [OZ]Knucklers killed (2) YoQueSe with M79
+20-04-05 23:48:27 mipHo scores for Bravo Team
+20-04-05 23:48:31 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:48:36 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:48:40 (1) [OZ]Knucklers killed (2) YoQueSe with Grenade
+20-04-05 23:48:41 Time Left: 2 minutes
+20-04-05 23:48:43 (2) mipHo killed (1) [OZ]Knucklers with Hands
+20-04-05 23:48:43 mipHo returned the Blue Flag
+20-04-05 23:48:53 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:49:03 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:49:07 mipHo captured the Red Flag
+20-04-05 23:49:09 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:49:19 (2) YoQueSe killed (1) [OZ]Knucklers with Steyr AUG
+20-04-05 23:49:28 mipHo captured the Red Flag
+20-04-05 23:49:29 mipHo scores for Bravo Team
+20-04-05 23:49:35 (2) mipHo killed (1) [OZ]Knucklers with USSOCOM
+20-04-05 23:49:41 Time Left: 1 minutes
+20-04-05 23:49:46 mipHo captured the Red Flag
+20-04-05 23:49:59 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:50:18 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:50:19 [OZ]Knucklers returned the Red Flag
+20-04-05 23:50:24 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:50:27 (1) [OZ]Knucklers killed (2) YoQueSe with Grenade
+20-04-05 23:50:31 (2) mipHo killed (1) [OZ]Knucklers with Ruger 77
+20-04-05 23:50:31 mipHo captured the Red Flag
+20-04-05 23:50:39 mipHo scores for Bravo Team
+20-04-05 23:50:41 Next map: ctf_Division
+20-04-05 23:50:46 Division by Boxo, KC, viral
+20-04-05 23:51:01 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:51:03 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:51:06 (1) [OZ]Knucklers killed (2) mipHo with Flamer
+20-04-05 23:51:08 (1) [OZ]Knucklers killed (2) YoQueSe with Flamer
+20-04-05 23:51:11 (1) [OZ]Knucklers killed (2) mipHo with Flamer
+20-04-05 23:51:15 (1) [OZ]Knucklers killed (2) YoQueSe with Flamer
+20-04-05 23:51:16 (2) mipHo killed (1) [OZ]Knucklers with HK MP5
+20-04-05 23:51:16 (1) [OZ]Knucklers killed (2) mipHo with Flamer
+20-04-05 23:51:20 mipHo returned the Blue Flag
+20-04-05 23:51:37 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:51:47 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:51:48 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:51:51 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:52:02 YoQueSe has left bravo team.
+20-04-05 23:52:03 mipHo captured the Red Flag
+20-04-05 23:52:12 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:52:13 [OZ]Knucklers returned the Red Flag
+20-04-05 23:52:17 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:52:23 mipHo captured the Red Flag
+20-04-05 23:52:31 mipHo scores for Bravo Team
+20-04-05 23:52:35 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:52:46 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:52:50 mipHo captured the Red Flag
+20-04-05 23:53:00 mipHo scores for Bravo Team
+20-04-05 23:53:02 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:53:06 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:53:08 mipHo captured the Red Flag
+20-04-05 23:53:13 mipHo returned the Blue Flag
+20-04-05 23:53:17 mipHo scores for Bravo Team
+20-04-05 23:53:22 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:53:28 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:53:35 mipHo captured the Red Flag
+20-04-05 23:53:44 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:53:45 [OZ]Knucklers returned the Red Flag
+20-04-05 23:53:48 [OZ]Knucklers scores for Alpha Team
+20-04-05 23:53:54 mipHo captured the Red Flag
+20-04-05 23:54:01 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:54:07 mipHo scores for Bravo Team
+20-04-05 23:54:12 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:54:18 mipHo captured the Red Flag
+20-04-05 23:54:20 201.215.12.27:23073|2F7194A8FD9 requesting game...
+20-04-05 23:54:24 (1) [OZ]Knucklers killed (2) mipHo with USSOCOM
+20-04-05 23:54:27 [OZ]Knucklers returned the Red Flag
+20-04-05 23:54:32 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:54:38 (1) [OZ]Knucklers killed (2) mipHo with M79
+20-04-05 23:54:51 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:54:52 mipHo captured the Red Flag
+20-04-05 23:54:57 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:54:57 mipHo returned the Blue Flag
+20-04-05 23:55:02 mipHo scores for Bravo Team
+20-04-05 23:55:13 mipHo captured the Red Flag
+20-04-05 23:55:17 (2) mipHo killed (1) [OZ]Knucklers with M79
+20-04-05 23:55:23 mipHo scores for Bravo Team
+20-04-05 23:55:31 [OZ]Knucklers captured the Blue Flag
+20-04-05 23:55:32 mipHo captured the Red Flag
+20-04-05 23:55:40 (2) mipHo killed (1) [OZ]Knucklers with Flamer
+20-04-05 23:55:42 [OZ]Knucklers has left alpha team.
+20-04-05 23:55:43 mipHo returned the Blue Flag
+20-04-05 23:55:46 Time Left: 5 minutes
+20-04-05 23:55:49 mipHo scores for Bravo Team
+20-04-05 23:56:04 mipHo captured the Red Flag
+20-04-05 23:56:11 mipHo scores for Bravo Team
+20-04-05 23:56:13 mipHo has left bravo team.
+20-04-05 23:56:46 Time Left: 4 minutes
+20-04-05 23:57:46 Time Left: 3 minutes
+20-04-05 23:58:46 Time Left: 2 minutes
+20-04-05 23:59:46 Time Left: 1 minutes
+20-04-06 00:00:46 Next map: ctf_Death
+20-04-06 00:00:52 Death by MM, g_d. Boxo, mtk`
+20-04-06 00:05:51 Time Left: 5 minutes
+20-04-06 00:06:51 Time Left: 4 minutes
+20-04-06 00:07:51 Time Left: 3 minutes
+20-04-06 00:08:51 Time Left: 2 minutes
+20-04-06 00:09:51 Time Left: 1 minutes
+20-04-06 00:10:51 Next map: ctf_Hormone
+20-04-06 00:10:57 Hormone by Metsänaperot
+20-04-06 00:15:57 Time Left: 5 minutes
+20-04-06 00:16:57 Time Left: 4 minutes
+20-04-06 00:17:57 Time Left: 3 minutes
+20-04-06 00:18:57 Time Left: 2 minutes
+20-04-06 00:19:57 Time Left: 1 minutes
+20-04-06 00:20:57 Next map: ctf_Laos
+20-04-06 00:21:02 Laos
+20-04-06 00:26:02 Time Left: 5 minutes
+20-04-06 00:27:02 Time Left: 4 minutes
+20-04-06 00:28:02 Time Left: 3 minutes
+20-04-06 00:29:02 Time Left: 2 minutes
+20-04-06 00:30:02 Time Left: 1 minutes
+20-04-06 00:31:02 Next map: ctf_Laos2
+20-04-06 00:31:07 Error: Could not load map (ctf_Laos2)
+20-04-06 00:31:07 Next map: ctf_Maya
+20-04-06 00:31:13 Maya
+20-04-06 00:36:13 Time Left: 5 minutes
+20-04-06 00:37:13 Time Left: 4 minutes
+20-04-06 00:38:13 Time Left: 3 minutes
+20-04-06 00:39:13 Time Left: 2 minutes
+20-04-06 00:40:13 Time Left: 1 minutes
+20-04-06 00:40:29 186.20.7.110:23073|57A11423DD0 requesting game...
+20-04-06 00:41:13 Next map: ctf_MFM
+20-04-06 00:41:18 MFM 2 by mar77a
+20-04-06 00:42:32 190.164.31.212:23073|45A19133452 requesting game...
+20-04-06 00:46:18 Time Left: 5 minutes
+20-04-06 00:47:18 Time Left: 4 minutes
+20-04-06 00:48:18 Time Left: 3 minutes
+20-04-06 00:49:18 Time Left: 2 minutes
+20-04-06 00:50:18 Time Left: 1 minutes
+20-04-06 00:51:18 Next map: ctf_Run
+20-04-06 00:51:23 Run
+20-04-06 00:56:23 Time Left: 5 minutes
+20-04-06 00:57:23 Time Left: 4 minutes
+20-04-06 00:58:23 Time Left: 3 minutes
+20-04-06 00:59:23 Time Left: 2 minutes
+20-04-06 01:00:23 Time Left: 1 minutes
+20-04-06 01:01:23 Next map: ctf_OldRun
+20-04-06 01:01:29 Error: Could not load map (ctf_OldRun)
+20-04-06 01:01:29 Next map: ctf_Ash
+20-04-06 01:01:34 ctf_Ash by chakapoko maker
+20-04-06 01:06:34 Time Left: 5 minutes
+20-04-06 01:07:34 Time Left: 4 minutes
+20-04-06 01:08:34 Time Left: 3 minutes
+20-04-06 01:09:34 Time Left: 2 minutes
+20-04-06 01:10:34 Time Left: 1 minutes
+20-04-06 01:11:34 Next map: ctf_B2b
+20-04-06 01:11:39 B2B
+20-04-06 01:16:39 Time Left: 5 minutes
+20-04-06 01:17:39 Time Left: 4 minutes
+20-04-06 01:18:39 Time Left: 3 minutes
+20-04-06 01:19:39 Time Left: 2 minutes
+20-04-06 01:20:39 Time Left: 1 minutes
+20-04-06 01:21:39 Next map: ctf_Blade
+20-04-06 01:21:45 Blade by Zakath
+20-04-06 01:26:45 Time Left: 5 minutes
+20-04-06 01:27:45 Time Left: 4 minutes
+20-04-06 01:28:45 Time Left: 3 minutes
+20-04-06 01:29:45 Time Left: 2 minutes
+20-04-06 01:30:45 Time Left: 1 minutes
+20-04-06 01:31:45 Next map: ctf_Viet
+20-04-06 01:31:50 Viet
+20-04-06 01:36:50 Time Left: 5 minutes
+20-04-06 01:37:50 Time Left: 4 minutes
+20-04-06 01:38:50 Time Left: 3 minutes
+20-04-06 01:39:50 Time Left: 2 minutes
+20-04-06 01:40:50 Time Left: 1 minutes
+20-04-06 01:41:50 Next map: ctf_Division
+20-04-06 01:41:55 Division by Boxo, KC, viral
+20-04-06 01:46:55 Time Left: 5 minutes
+20-04-06 01:47:55 Time Left: 4 minutes
+20-04-06 01:48:55 Time Left: 3 minutes
+20-04-06 01:49:55 Time Left: 2 minutes
+20-04-06 01:50:55 Time Left: 1 minutes
+20-04-06 01:51:55 Next map: ctf_Death
+20-04-06 01:52:01 Death by MM, g_d. Boxo, mtk`
+20-04-06 01:57:01 Time Left: 5 minutes
+20-04-06 01:58:01 Time Left: 4 minutes
+20-04-06 01:59:01 Time Left: 3 minutes
+20-04-06 02:00:01 Time Left: 2 minutes
+20-04-06 02:01:01 Time Left: 1 minutes
+20-04-06 02:02:01 Next map: ctf_Hormone
+20-04-06 02:02:06 Hormone by Metsänaperot
+20-04-06 02:07:06 Time Left: 5 minutes
+20-04-06 02:08:06 Time Left: 4 minutes
+20-04-06 02:09:06 Time Left: 3 minutes
+20-04-06 02:10:06 Time Left: 2 minutes
+20-04-06 02:11:06 Time Left: 1 minutes
+20-04-06 02:12:06 Next map: ctf_Laos
+20-04-06 02:12:11 Laos
+20-04-06 02:15:16 Admin disconnected (201.189.251.234).
+20-04-06 02:17:11 Time Left: 5 minutes
+20-04-06 02:18:11 Time Left: 4 minutes
+20-04-06 02:19:11 Time Left: 3 minutes
+20-04-06 02:20:11 Time Left: 2 minutes
+20-04-06 02:21:11 Time Left: 1 minutes
+20-04-06 02:22:11 Next map: ctf_Laos2
+20-04-06 02:22:17 Error: Could not load map (ctf_Laos2)
+20-04-06 02:22:17 Next map: ctf_Maya
+20-04-06 02:22:22 Maya
+20-04-06 02:27:22 Time Left: 5 minutes
+20-04-06 02:28:22 Time Left: 4 minutes
+20-04-06 02:29:22 Time Left: 3 minutes
+20-04-06 02:30:22 Time Left: 2 minutes
+20-04-06 02:31:22 Time Left: 1 minutes
+20-04-06 02:32:22 Next map: ctf_MFM
+20-04-06 02:32:27 MFM 2 by mar77a
+20-04-06 02:37:27 Time Left: 5 minutes
+20-04-06 02:38:27 Time Left: 4 minutes
+20-04-06 02:39:27 Time Left: 3 minutes
+20-04-06 02:40:27 Time Left: 2 minutes
+20-04-06 02:41:27 Time Left: 1 minutes
+20-04-06 02:42:27 Next map: ctf_Run
+20-04-06 02:42:33 Run
+20-04-06 02:47:33 Time Left: 5 minutes
+20-04-06 02:48:33 Time Left: 4 minutes
+20-04-06 02:49:33 Time Left: 3 minutes
+20-04-06 02:50:33 Time Left: 2 minutes
+20-04-06 02:51:33 Time Left: 1 minutes
+20-04-06 02:52:33 Next map: ctf_OldRun
+20-04-06 02:52:38 Error: Could not load map (ctf_OldRun)
+20-04-06 02:52:38 Next map: ctf_Ash
+20-04-06 02:52:43 ctf_Ash by chakapoko maker
+20-04-06 02:57:43 Time Left: 5 minutes
+20-04-06 02:58:43 Time Left: 4 minutes
+20-04-06 02:59:43 Time Left: 3 minutes
+20-04-06 03:00:43 Time Left: 2 minutes
+20-04-06 03:01:43 Time Left: 1 minutes
+20-04-06 03:02:43 Next map: ctf_B2b
+20-04-06 03:02:49 B2B
+20-04-06 03:07:49 Time Left: 5 minutes
+20-04-06 03:08:49 Time Left: 4 minutes
+20-04-06 03:09:49 Time Left: 3 minutes
+20-04-06 03:10:49 Time Left: 2 minutes
+20-04-06 03:11:49 Time Left: 1 minutes
+20-04-06 03:12:49 Next map: ctf_Blade
+20-04-06 03:12:54 Blade by Zakath
+20-04-06 03:17:54 Time Left: 5 minutes
+20-04-06 03:18:54 Time Left: 4 minutes
+20-04-06 03:19:54 Time Left: 3 minutes
+20-04-06 03:20:54 Time Left: 2 minutes
+20-04-06 03:21:54 Time Left: 1 minutes
+20-04-06 03:22:54 Next map: ctf_Viet
+20-04-06 03:22:59 Viet
+20-04-06 03:27:59 Time Left: 5 minutes
+20-04-06 03:28:59 Time Left: 4 minutes
+20-04-06 03:29:59 Time Left: 3 minutes
+20-04-06 03:30:59 Time Left: 2 minutes
+20-04-06 03:31:59 Time Left: 1 minutes
+20-04-06 03:32:59 Next map: ctf_Division
+20-04-06 03:33:05 Division by Boxo, KC, viral
+20-04-06 03:38:05 Time Left: 5 minutes
+20-04-06 03:39:05 Time Left: 4 minutes
+20-04-06 03:40:05 Time Left: 3 minutes
+20-04-06 03:41:05 Time Left: 2 minutes
+20-04-06 03:42:05 Time Left: 1 minutes
+20-04-06 03:43:04 Next map: ctf_Death
+20-04-06 03:43:10 Death by MM, g_d. Boxo, mtk`
+20-04-06 03:48:10 Time Left: 5 minutes
+20-04-06 03:49:10 Time Left: 4 minutes
+20-04-06 03:50:10 Time Left: 3 minutes
+20-04-06 03:51:10 Time Left: 2 minutes
+20-04-06 03:52:10 Time Left: 1 minutes
+20-04-06 03:53:10 Next map: ctf_Hormone
+20-04-06 03:53:15 Hormone by Metsänaperot
+20-04-06 03:58:15 Time Left: 5 minutes
+20-04-06 03:59:15 Time Left: 4 minutes
+20-04-06 04:00:15 Time Left: 3 minutes
+20-04-06 04:01:15 Time Left: 2 minutes
+20-04-06 04:02:15 Time Left: 1 minutes
+20-04-06 04:03:15 Next map: ctf_Laos
+20-04-06 04:03:21 Laos
+20-04-06 04:08:20 Time Left: 5 minutes
+20-04-06 04:09:20 Time Left: 4 minutes
+20-04-06 04:10:20 Time Left: 3 minutes
+20-04-06 04:11:20 Time Left: 2 minutes
+20-04-06 04:12:20 Time Left: 1 minutes
+20-04-06 04:13:20 Next map: ctf_Laos2
+20-04-06 04:13:26 Error: Could not load map (ctf_Laos2)
+20-04-06 04:13:26 Next map: ctf_Maya
+20-04-06 04:13:31 Maya
+20-04-06 04:18:31 Time Left: 5 minutes
+20-04-06 04:19:31 Time Left: 4 minutes
+20-04-06 04:20:31 Time Left: 3 minutes
+20-04-06 04:21:31 Time Left: 2 minutes
+20-04-06 04:22:31 Time Left: 1 minutes
+20-04-06 04:23:31 Next map: ctf_MFM
+20-04-06 04:23:36 MFM 2 by mar77a
+20-04-06 04:28:36 Time Left: 5 minutes
+20-04-06 04:29:36 Time Left: 4 minutes
+20-04-06 04:30:36 Time Left: 3 minutes
+20-04-06 04:31:36 Time Left: 2 minutes
+20-04-06 04:32:36 Time Left: 1 minutes
+20-04-06 04:33:36 Next map: ctf_Run
+20-04-06 04:33:42 Run
+20-04-06 04:38:42 Time Left: 5 minutes
+20-04-06 04:39:42 Time Left: 4 minutes
+20-04-06 04:40:42 Time Left: 3 minutes
+20-04-06 04:41:42 Time Left: 2 minutes
+20-04-06 04:42:42 Time Left: 1 minutes
+20-04-06 04:43:42 Next map: ctf_OldRun
+20-04-06 04:43:47 Error: Could not load map (ctf_OldRun)
+20-04-06 04:43:47 Next map: ctf_Ash
+20-04-06 04:43:52 ctf_Ash by chakapoko maker
+20-04-06 04:48:52 Time Left: 5 minutes
+20-04-06 04:49:52 Time Left: 4 minutes
+20-04-06 04:50:52 Time Left: 3 minutes
+20-04-06 04:51:52 Time Left: 2 minutes
+20-04-06 04:52:52 Time Left: 1 minutes
+20-04-06 04:53:52 Next map: ctf_B2b
+20-04-06 04:53:58 B2B
+20-04-06 04:58:58 Time Left: 5 minutes
+20-04-06 04:59:58 Time Left: 4 minutes
+20-04-06 05:00:58 Time Left: 3 minutes
+20-04-06 05:01:58 Time Left: 2 minutes
+20-04-06 05:02:58 Time Left: 1 minutes
+20-04-06 05:03:58 Next map: ctf_Blade
+20-04-06 05:04:03 Blade by Zakath
+20-04-06 05:09:03 Time Left: 5 minutes
+20-04-06 05:10:03 Time Left: 4 minutes
+20-04-06 05:11:03 Time Left: 3 minutes
+20-04-06 05:12:03 Time Left: 2 minutes
+20-04-06 05:13:03 Time Left: 1 minutes
+20-04-06 05:14:03 Next map: ctf_Viet
+20-04-06 05:14:08 Viet
+20-04-06 05:19:08 Time Left: 5 minutes
+20-04-06 05:20:08 Time Left: 4 minutes
+20-04-06 05:21:08 Time Left: 3 minutes
+20-04-06 05:22:08 Time Left: 2 minutes
+20-04-06 05:23:08 Time Left: 1 minutes
+20-04-06 05:24:08 Next map: ctf_Division
+20-04-06 05:24:14 Division by Boxo, KC, viral
+20-04-06 05:29:14 Time Left: 5 minutes
+20-04-06 05:30:14 Time Left: 4 minutes
+20-04-06 05:31:14 Time Left: 3 minutes
+20-04-06 05:32:14 Time Left: 2 minutes
+20-04-06 05:33:14 Time Left: 1 minutes
+20-04-06 05:34:14 Next map: ctf_Death
+20-04-06 05:34:19 Death by MM, g_d. Boxo, mtk`
+20-04-06 05:39:19 Time Left: 5 minutes
+20-04-06 05:40:19 Time Left: 4 minutes
+20-04-06 05:41:19 Time Left: 3 minutes
+20-04-06 05:42:19 Time Left: 2 minutes
+20-04-06 05:43:19 Time Left: 1 minutes
+20-04-06 05:44:19 Next map: ctf_Hormone
+20-04-06 05:44:24 Hormone by Metsänaperot
+20-04-06 05:49:24 Time Left: 5 minutes
+20-04-06 05:50:24 Time Left: 4 minutes
+20-04-06 05:51:24 Time Left: 3 minutes
+20-04-06 05:52:24 Time Left: 2 minutes
+20-04-06 05:53:24 Time Left: 1 minutes
+20-04-06 05:54:24 Next map: ctf_Laos
+20-04-06 05:54:30 Laos
+20-04-06 05:59:30 Time Left: 5 minutes
+20-04-06 06:00:30 Time Left: 4 minutes
+20-04-06 06:01:30 Time Left: 3 minutes
+20-04-06 06:02:30 Time Left: 2 minutes
+20-04-06 06:03:30 Time Left: 1 minutes
+20-04-06 06:04:30 Next map: ctf_Laos2
+20-04-06 06:04:35 Error: Could not load map (ctf_Laos2)
+20-04-06 06:04:35 Next map: ctf_Maya
+20-04-06 06:04:40 Maya
+20-04-06 06:09:40 Time Left: 5 minutes
+20-04-06 06:10:40 Time Left: 4 minutes
+20-04-06 06:11:40 Time Left: 3 minutes
+20-04-06 06:12:40 Time Left: 2 minutes
+20-04-06 06:13:40 Time Left: 1 minutes
+20-04-06 06:14:40 Next map: ctf_MFM
+20-04-06 06:14:46 MFM 2 by mar77a
+20-04-06 06:19:46 Time Left: 5 minutes
+20-04-06 06:20:09 Shutting down server...
+20-04-06 06:20:09 Shutting down FileServer...
+20-04-06 06:20:09 Shutting down admin server...

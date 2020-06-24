@@ -1,0 +1,87 @@
+20-04-27 17:22:39    Log Started
+20-04-27 17:22:39 Opened /home/kader_b/Publico/soldat.ini
+20-04-27 17:23:39 TCP/IP File Server started
+20-04-27 17:53:39 TCP/IP File Server started
+20-04-27 18:23:39 TCP/IP File Server started
+20-04-27 18:49:14  Net - SATISFAYA connected 27-4-20 18:49:14
+20-04-27 18:50:15  Net - SATISFAYA disconnected 27-4-20 18:50:15
+20-04-27 18:53:39 TCP/IP File Server started
+20-04-27 19:23:39 TCP/IP File Server started
+20-04-27 19:53:39 TCP/IP File Server started
+20-04-27 20:23:39 TCP/IP File Server started
+20-04-27 20:53:39 TCP/IP File Server started
+20-04-27 21:23:39 TCP/IP File Server started
+20-04-27 21:53:39 TCP/IP File Server started
+20-04-27 22:23:39 TCP/IP File Server started
+20-04-27 22:53:39 TCP/IP File Server started
+20-04-27 23:23:39 TCP/IP File Server started
+20-04-27 23:43:02  Net - SrPolloRex connected 27-4-20 23:43:02
+20-04-27 23:43:38  Net - SrPolloRex disconnected 27-4-20 23:43:38
+20-04-27 23:53:39 TCP/IP File Server started
+20-04-28 00:23:39 TCP/IP File Server started
+20-04-28 00:53:39 TCP/IP File Server started
+20-04-28 01:23:39 TCP/IP File Server started
+20-04-28 01:53:39 TCP/IP File Server started
+20-04-28 02:23:39 TCP/IP File Server started
+20-04-28 02:53:39 TCP/IP File Server started
+20-04-28 02:59:00  Net - CWeiC connected 28-4-20 02:59:00
+20-04-28 02:59:29  Net - CWeiC disconnected 28-4-20 02:59:29
+20-04-28 03:23:39 TCP/IP File Server started
+20-04-28 03:53:39 TCP/IP File Server started
+20-04-28 04:23:39 TCP/IP File Server started
+20-04-28 04:53:39 TCP/IP File Server started
+20-04-28 05:23:39 TCP/IP File Server started
+20-04-28 05:53:39 TCP/IP File Server started
+20-04-28 06:23:39 TCP/IP File Server started
+20-04-28 06:53:39 TCP/IP File Server started
+20-04-28 07:23:39 TCP/IP File Server started
+20-04-28 07:53:39 TCP/IP File Server started
+20-04-28 08:23:39 TCP/IP File Server started
+20-04-28 08:53:39 TCP/IP File Server started
+20-04-28 09:23:39 TCP/IP File Server started
+20-04-28 09:53:39 TCP/IP File Server started
+20-04-28 10:23:39 TCP/IP File Server started
+20-04-28 10:53:39 TCP/IP File Server started
+20-04-28 11:23:39 TCP/IP File Server started
+20-04-28 11:53:39 TCP/IP File Server started
+20-04-28 12:23:39 TCP/IP File Server started
+20-04-28 12:53:39 TCP/IP File Server started
+20-04-28 13:23:39 TCP/IP File Server started
+20-04-28 13:53:39 TCP/IP File Server started
+20-04-28 14:23:39 TCP/IP File Server started
+20-04-28 14:53:39 TCP/IP File Server started
+20-04-28 15:23:39 TCP/IP File Server started
+20-04-28 15:37:17  Net - MaNdRaKeNTC.. connected 28-4-20 15:37:17
+20-04-28 15:37:23  Net - MaNdRaKeNTC.. disconnected 28-4-20 15:37:23
+20-04-28 15:53:39 TCP/IP File Server started
+20-04-28 16:23:39 TCP/IP File Server started
+20-04-28 16:53:39 TCP/IP File Server started
+20-04-28 17:19:53  Net - Dheie connected 28-4-20 17:19:53
+20-04-28 17:20:25  Net - Dheie disconnected 28-4-20 17:20:25
+20-04-28 17:23:39 TCP/IP File Server started
+20-04-28 17:35:38  Net - Toki Andreus connected 28-4-20 17:35:38
+20-04-28 17:36:00  Net - pichulothar connected 28-4-20 17:36:00
+20-04-28 17:36:58  Net - Toki Andreus disconnected 28-4-20 17:36:58
+20-04-28 17:37:01  Net - pichulothar disconnected 28-4-20 17:37:01
+20-04-28 17:53:39 TCP/IP File Server started
+20-04-28 17:53:59  Net - santoslucas connected 28-4-20 17:53:59
+20-04-28 17:55:41  Net - santoslucas disconnected 28-4-20 17:55:41
+20-04-28 18:23:39 TCP/IP File Server started
+20-04-28 18:53:39 TCP/IP File Server started
+20-04-28 19:23:39 TCP/IP File Server started
+20-04-28 19:53:39 TCP/IP File Server started
+20-04-28 20:23:39 TCP/IP File Server started
+20-04-28 20:53:39 TCP/IP File Server started
+20-04-28 21:23:39 TCP/IP File Server started
+20-04-28 21:53:39 TCP/IP File Server started
+20-04-28 22:23:39 TCP/IP File Server started
+20-04-28 22:53:39 TCP/IP File Server started
+20-04-28 23:23:39 TCP/IP File Server started
+20-04-28 23:53:39 TCP/IP File Server started
+20-04-29 00:23:39 TCP/IP File Server started
+20-04-29 00:53:39 TCP/IP File Server started
+20-04-29 01:23:39 TCP/IP File Server started
+20-04-29 01:53:39 TCP/IP File Server started
+20-04-29 02:23:39 TCP/IP File Server started
+20-04-29 02:38:17 Destroying Devices.
+20-04-29 02:38:17    End of Log.

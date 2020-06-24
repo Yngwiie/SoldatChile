@@ -1,0 +1,8 @@
+20-04-20 20:55:56    Log Started
+20-04-20 20:55:56 Opened /home/kader_b/Internacional 1/soldat.ini
+20-04-20 20:55:56 Creating network interface.
+20-04-20 20:55:56 Loading Animations.
+20-04-20 20:55:56 Loading Lobby Servers List
+20-04-20 20:55:56 Loading Maps List
+20-04-20 20:55:56 Destroying Devices.
+20-04-20 20:55:57    End of Log.

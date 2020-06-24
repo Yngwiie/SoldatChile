@@ -1,0 +1,6 @@
+20-04-24 04:53:31    Log Started
+20-04-24 04:53:31 Opened /home/kader_b/int2/soldat.ini
+20-04-24 05:09:09  Net - sT.- YnGwi3 connected 24-4-20 05:09:09
+20-04-24 05:09:18  Net - sT.- YnGwi3 disconnected 24-4-20 05:09:18
+20-04-24 05:10:36 Destroying Devices.
+20-04-24 05:10:37    End of Log.

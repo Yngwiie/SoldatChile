@@ -1,0 +1,40 @@
+20-06-19 05:07:13    Log Started
+20-06-19 05:07:13 Opened /home/kader_b/int3/soldat.ini
+20-06-19 05:21:13 TCP/IP File Server started
+20-06-19 05:51:13 TCP/IP File Server started
+20-06-19 06:21:13 TCP/IP File Server started
+20-06-19 06:51:13 TCP/IP File Server started
+20-06-19 07:21:13 TCP/IP File Server started
+20-06-19 07:51:13 TCP/IP File Server started
+20-06-19 08:21:13 TCP/IP File Server started
+20-06-19 08:51:13 TCP/IP File Server started
+20-06-19 09:21:13 TCP/IP File Server started
+20-06-19 09:51:13 TCP/IP File Server started
+20-06-19 10:21:13 TCP/IP File Server started
+20-06-19 10:51:13 TCP/IP File Server started
+20-06-19 11:21:13 TCP/IP File Server started
+20-06-19 11:51:13 TCP/IP File Server started
+20-06-19 12:21:13 TCP/IP File Server started
+20-06-19 12:51:13 TCP/IP File Server started
+20-06-19 13:21:13 TCP/IP File Server started
+20-06-19 13:51:13 TCP/IP File Server started
+20-06-19 14:21:13 TCP/IP File Server started
+20-06-19 14:51:13 TCP/IP File Server started
+20-06-19 15:21:13 TCP/IP File Server started
+20-06-19 15:51:13 TCP/IP File Server started
+20-06-19 16:21:13 TCP/IP File Server started
+20-06-19 16:51:13 TCP/IP File Server started
+20-06-19 17:21:13 TCP/IP File Server started
+20-06-19 17:51:13 TCP/IP File Server started
+20-06-19 18:21:13 TCP/IP File Server started
+20-06-19 18:51:20 TCP/IP File Server started
+20-06-19 19:21:20 TCP/IP File Server started
+20-06-19 19:51:20 TCP/IP File Server started
+20-06-19 20:21:20 TCP/IP File Server started
+20-06-19 20:51:20 TCP/IP File Server started
+20-06-19 21:21:20 TCP/IP File Server started
+20-06-19 21:51:20 TCP/IP File Server started
+20-06-19 21:57:58  Net - sT#' YnGwi3 connected 19-6-20 21:57:58
+20-06-19 21:57:59  Net - sT#' YnGwi3 disconnected 19-6-20 21:57:59
+20-06-19 21:58:54 Destroying Devices.
+20-06-19 21:58:55    End of Log.

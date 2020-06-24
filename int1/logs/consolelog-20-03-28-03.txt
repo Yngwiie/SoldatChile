@@ -1,0 +1,459 @@
+20-03-28 01:08:12    Console Log Started
+20-03-28 01:08:13 Welcome to Soldat 1.7.1
+20-03-28 01:08:13  [*] Preparing scripts to be launched
+20-03-28 01:08:13  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-03-28 01:08:13  [*] commands_by_keen compiled
+20-03-28 01:08:13  [*] Compiling match -> match.pas...
+20-03-28 01:08:13  [*] match compiled
+20-03-28 01:08:13  [*] Done
+20-03-28 01:08:13 ctf_Ash by chakapoko maker
+20-03-28 01:08:13 Loaded weapons mod "Default v1.8"
+20-03-28 01:08:13  Connection for file server started. Port: 23110
+20-03-28 01:08:13 Registering server @ 88.99.234.252
+20-03-28 01:08:17 Admin connected (191.126.170.197).
+20-03-28 01:08:17 /friendlyfire (191.126.170.197)
+20-03-28 01:08:17 Friendly Fire is 0
+20-03-28 01:08:17 /bonus (191.126.170.197)
+20-03-28 01:08:17 Current bonus frequency is 3
+20-03-28 01:08:17 /vote% (191.126.170.197)
+20-03-28 01:08:17 Voting percent is 60
+20-03-28 01:08:17 /respawntime (191.126.170.197)
+20-03-28 01:08:17 Respawn time is 3 seconds
+20-03-28 01:08:17 /maxrespawntime (191.126.170.197)
+20-03-28 01:08:17 Maximum Respawn time is 5 seconds
+20-03-28 01:08:17 190.46.136.226:23073|19676FD8943 requesting game...
+20-03-28 01:08:19 |D.Forc3|RainbowDash joining game (190.46.136.226:23073) HWID:19676FD8943
+20-03-28 01:08:19 |D.Forc3|RainbowDash has joined bravo team.
+20-03-28 01:08:20 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 01:08:20 186.11.63.88:5853|365FDCC8515 requesting game...
+20-03-28 01:08:21 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 01:08:21 |BhooD| Analdo has joined alpha team.
+20-03-28 01:08:22 /maxrespawntime 8 (191.126.170.197)
+20-03-28 01:08:22 Maximum Respawn time changed to 8 seconds
+20-03-28 01:08:22 [|BhooD| Analdo] AWDPWDWAPDKWAPDKAWDPAWKD
+20-03-28 01:08:22 190.101.190.28:23073|348574D9644 requesting game...
+20-03-28 01:08:23 |BhooD| Ultra_Cod3 joining game (186.11.63.88:5853) HWID:365FDCC8515
+20-03-28 01:08:23 |BhooD| Ultra_Cod3 has joined alpha team.
+20-03-28 01:08:23 DsF - F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-03-28 01:08:23 DsF - F4ll.cL has joined alpha team.
+20-03-28 01:08:24 [|BhooD| Ultra_Cod3] hahahahahahaha
+20-03-28 01:08:24 /respawntime 5 (191.126.170.197)
+20-03-28 01:08:24 Respawn time changed to 5 seconds
+20-03-28 01:08:24 [|BhooD| Analdo] OWDWADJAWDJAW
+20-03-28 01:08:25 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:08:26 DsF - F4ll.cL has joined bravo team.
+20-03-28 01:08:27 [|BhooD| Ultra_Cod3] 1hahahaha
+20-03-28 01:08:27 201.214.145.27:23073|535AA511D5F requesting game...
+20-03-28 01:08:27 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:08:27 d4zy has joined as spectator.
+20-03-28 01:08:27 |X.Forc3|Lead.- joining game (201.214.145.27:23073) HWID:535AA511D5F
+20-03-28 01:08:27 |X.Forc3|Lead.- has joined as spectator.
+20-03-28 01:08:28 /bonus 5 (191.126.170.197)
+20-03-28 01:08:28 Bonus frequency changed to 5
+20-03-28 01:08:30 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 01:08:30 [|BhooD| Ultra_Cod3] que culiaos mas ordinarios
+20-03-28 01:08:32 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 01:08:32 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 01:08:32 |X.Forc3|.Turko joining game (191.126.170.197:22785) HWID:696908AC8E7
+20-03-28 01:08:32 |X.Forc3|.Turko has joined as spectator.
+20-03-28 01:08:33 201.239.214.185:23073|1729B102EBF requesting game...
+20-03-28 01:08:33 KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-03-28 01:08:33 KorN has joined as spectator.
+20-03-28 01:08:34 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 01:08:34 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:08:35 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 01:08:35 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 01:08:36 [|X.Forc3|.Turko] =)
+20-03-28 01:08:36 KorN has joined bravo team.
+20-03-28 01:08:37 190.160.49.117:23073|1CDCFBD4CBD requesting game...
+20-03-28 01:08:38 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:08:38 [|X.Forc3|.Turko] =)
+20-03-28 01:08:38 |BhooD| Zorro* joining game (190.160.49.117:23073) HWID:1CDCFBD4CBD
+20-03-28 01:08:38 |BhooD| Zorro* has joined alpha team.
+20-03-28 01:08:38 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 01:08:39 d4zy has left spectators
+20-03-28 01:08:39 |BhooD| Ultra_Cod3 captured the Blue Flag
+20-03-28 01:08:41 [|BhooD| Zorro*] reportados se fueron
+20-03-28 01:08:42 [|BhooD| Analdo] TURKO QL
+20-03-28 01:08:44 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:08:44 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Spas-12
+20-03-28 01:08:45 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Desert Eagles
+20-03-28 01:08:45 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Spas-12
+20-03-28 01:08:46 [|D.Forc3|RainbowDash] la culpa es del turko
+20-03-28 01:08:46 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:08:46 d4zy has joined as spectator.
+20-03-28 01:08:49 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Desert Eagles
+20-03-28 01:08:50 [DsF - F4ll.cL] el culpable
+20-03-28 01:08:51 [DsF - F4ll.cL] es turko
+20-03-28 01:08:51 [|BhooD| Zorro*] na pero 
+20-03-28 01:08:51 [|BhooD| Analdo] y los bonus
+20-03-28 01:08:52 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Spas-12
+20-03-28 01:08:53 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Spas-12
+20-03-28 01:08:55 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:08:55 |X.Forc3|Lead.- returned the Blue Flag
+20-03-28 01:08:56 [|BhooD| Zorro*] podrian haberlo hecho el segundo mapa wn
+20-03-28 01:08:57 [|BhooD| Zorro*] jajaja
+20-03-28 01:08:58 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:09:03 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:09:03 [DsF - F4ll.cL] !map ctf_OldRun
+20-03-28 01:09:04 [|BhooD| Zorro*] oigan y las banderas eran 5
+20-03-28 01:09:05 [DsF - F4ll.cL] gogogogog
+20-03-28 01:09:06 [|BhooD| Zorro*] en esos tiempos
+20-03-28 01:09:08 [|BhooD| Zorro*] o:
+20-03-28 01:09:08 Run (get to the flag!)
+20-03-28 01:09:16 /limit 5 (191.126.170.197)
+20-03-28 01:09:16 kill/point/capture limit changed to 5
+20-03-28 01:09:21 201.214.190.176:23073|3E87BD17409 requesting game...
+20-03-28 01:09:22 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:09:22 d4zy has left spectators
+20-03-28 01:09:22 |BhooD| bio* joining game (201.214.190.176:23073) HWID:3E87BD17409
+20-03-28 01:09:22 |BhooD| bio* has joined alpha team.
+20-03-28 01:09:24 190.161.152.160:23073|1F387DCE705 requesting game...
+20-03-28 01:09:25 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:09:26 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:09:26 |BhooD| patuzhOO* joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-03-28 01:09:26 |BhooD| patuzhOO* has joined alpha team.
+20-03-28 01:09:28 (2) |X.Forc3|Lead.- killed (1) |BhooD| bio* with Ak-74
+20-03-28 01:09:28 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:09:28 d4zy has joined as spectator.
+20-03-28 01:09:28 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Barrett M82A1
+20-03-28 01:09:28 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Combat Knife
+20-03-28 01:09:30 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:09:30 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:09:31 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:09:33 d4zy has left spectators
+20-03-28 01:09:34 [DsF - F4ll.cL] ya 
+20-03-28 01:09:34 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:09:36 [DsF - F4ll.cL] al mejor de 
+20-03-28 01:09:36 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:09:37 [|BhooD| Zorro*] go nomas
+20-03-28 01:09:37 [DsF - F4ll.cL] 5
+20-03-28 01:09:37 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:09:39 [DsF - F4ll.cL] PREPARADOS
+20-03-28 01:09:39 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:09:40 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:09:40 d4zy has joined as spectator.
+20-03-28 01:09:40 [DsF - F4ll.cL] LISTOSD
+20-03-28 01:09:41 [DsF - F4ll.cL] GO
+20-03-28 01:09:41 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Ruger 77
+20-03-28 01:09:42 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:09:42 [DsF - F4ll.cL] !R
+20-03-28 01:09:45 d4zy has left spectators
+20-03-28 01:09:47 Run (get to the flag!)
+20-03-28 01:09:58 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:09:59 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:10:01 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:10:01 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:10:03 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:10:05 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with LAW
+20-03-28 01:10:09 (RADIO)[|X.Forc3|Lead.-] Enemy spotted middle!
+20-03-28 01:10:10 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:10:12 (1) |BhooD| patuzhOO* killed (2) KorN with Steyr AUG
+20-03-28 01:10:12 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:10:15 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:10:19 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:10:20 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Flamer
+20-03-28 01:10:20 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Flamer
+20-03-28 01:10:22 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:10:25 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:10:25 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Flamer
+20-03-28 01:10:27 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:10:28 |BhooD| bio* returned the Red Flag
+20-03-28 01:10:35 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:10:38 (2) KorN killed (1) |BhooD| Zorro* with Flamer
+20-03-28 01:10:39 |X.Forc3|Lead.- is flooding the server
+20-03-28 01:10:40 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:10:41 (RADIO)[|BhooD| Analdo] Incoming down!
+20-03-28 01:10:45 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 01:10:47 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:10:50 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:10:50 /bonus 3 (191.126.170.197)
+20-03-28 01:10:50 Bonus frequency changed to 3
+20-03-28 01:10:54 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:10:55 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:10:58 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:10:58 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:11:01 (2) KorN killed (1) |BhooD| Zorro* with Desert Eagles
+20-03-28 01:11:04 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:11:10 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:11:10 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Barrett M82A1
+20-03-28 01:11:14 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with LAW
+20-03-28 01:11:19 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with Steyr AUG
+20-03-28 01:11:19 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:11:22 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Cluster Grenades
+20-03-28 01:11:24 (2) KorN killed (1) |BhooD| Zorro* with Desert Eagles
+20-03-28 01:11:27 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:11:31 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:11:31 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with LAW
+20-03-28 01:11:32 (1) |BhooD| patuzhOO* killed (2) KorN with LAW
+20-03-28 01:11:35 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Steyr AUG
+20-03-28 01:11:36 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:11:39 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with LAW
+20-03-28 01:11:50 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:11:51 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:11:53 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:11:53 (2) KorN killed (1) |BhooD| Analdo with LAW
+20-03-28 01:11:55 (2) KorN killed (1) |BhooD| Zorro* with Desert Eagles
+20-03-28 01:11:58 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 01:12:01 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:12:02 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Flamer
+20-03-28 01:12:03 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:12:03 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:12:03 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Flamer
+20-03-28 01:12:09 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:12:09 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:12:16 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:12:17 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Flamer
+20-03-28 01:12:17 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:12:19 [|BhooD| Zorro*] ????
+20-03-28 01:12:21 /bonus 1 (191.126.170.197)
+20-03-28 01:12:21 Bonus frequency changed to 1
+20-03-28 01:12:21 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:12:21 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:12:22 (1) |BhooD| patuzhOO* killed (2) KorN with Steyr AUG
+20-03-28 01:12:24 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Flamer
+20-03-28 01:12:26 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:12:26 [|BhooD| Zorro*] tque wea?
+20-03-28 01:12:28 (2) |D.Forc3|RainbowDash killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:12:29 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Ruger 77
+20-03-28 01:12:32 |D.Forc3|RainbowDash captured the Red Flag
+20-03-28 01:12:32 [|BhooD| bio*] MUCHA FREC
+20-03-28 01:12:34 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:12:35 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:12:36 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Barrett M82A1
+20-03-28 01:12:36 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:12:37 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:12:38 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:12:39 [|BhooD| Zorro*] y salen alla nomas :v?
+20-03-28 01:12:41 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:12:43 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:12:46 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with LAW
+20-03-28 01:12:46 /bonus 1 (191.126.170.197)
+20-03-28 01:12:46 Bonus frequency changed to 1
+20-03-28 01:12:46 (2) KorN killed (1) |BhooD| Zorro* with LAW
+20-03-28 01:12:46 (1) |BhooD| bio* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:12:48 |BhooD| bio* returned the Red Flag
+20-03-28 01:12:50 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:12:53 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Flamer
+20-03-28 01:12:54 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:12:54 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Flamer
+20-03-28 01:12:56 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Flamer
+20-03-28 01:12:59 [|BhooD| Zorro*] t?????????????????????????
+20-03-28 01:12:59 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with USSOCOM
+20-03-28 01:13:00 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Flamer
+20-03-28 01:13:03 |D.Forc3|RainbowDash captured the Red Flag
+20-03-28 01:13:05 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:13:05 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Ruger 77
+20-03-28 01:13:06 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:13:07 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:13:08 |BhooD| Zorro* returned the Red Flag
+20-03-28 01:13:10 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:13:14 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:13:15 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with USSOCOM
+20-03-28 01:13:19 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:13:23 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:13:24 [|BhooD| Analdo] AJJAJA E FALL NACE CON DROGO
+20-03-28 01:13:24 |BhooD| bio* returned the Red Flag
+20-03-28 01:13:25 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:13:27 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:13:27 [DsF - F4ll.cL] aKAJAUIAUIAUIAUIAUI
+20-03-28 01:13:28 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:13:29 |BhooD| Analdo returned the Red Flag
+20-03-28 01:13:30 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:13:32 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:13:32 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with Flamer
+20-03-28 01:13:35 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:13:35 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:13:39 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:13:41 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:13:43 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:13:44 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Steyr AUG
+20-03-28 01:13:44 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:13:50 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:13:55 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:13:58 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Barrett M82A1
+20-03-28 01:14:01 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:14:06 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:14:08 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Spas-12
+20-03-28 01:14:10 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:14:10 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:14:12 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:14:12 (1) |BhooD| patuzhOO* killed (2) KorN with Steyr AUG
+20-03-28 01:14:23 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:14:25 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:14:26 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:14:28 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:14:31 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:14:33 |BhooD| Analdo scores for Alpha Team
+20-03-28 01:14:34 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with Steyr AUG
+20-03-28 01:14:35 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:14:36 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:14:38 |BhooD| bio* captured the Blue Flag
+20-03-28 01:14:39 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Barrett M82A1
+20-03-28 01:14:40 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:14:40 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:14:40 KorN returned the Blue Flag
+20-03-28 01:14:42 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:14:47 Time Left: 5 minutes
+20-03-28 01:14:52 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:14:52 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:14:54 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Stationary gun
+20-03-28 01:14:55 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with LAW
+20-03-28 01:14:56 (2) KorN killed (1) |BhooD| Zorro* with Desert Eagles
+20-03-28 01:15:00 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:15:06 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:15:06 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:15:07 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:15:08 (2) KorN killed (1) |BhooD| Zorro* with Desert Eagles
+20-03-28 01:15:10 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:15:17 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:15:17 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:15:18 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:15:19 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:15:23 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:15:23 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:15:25 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|Aberracion with Steyr AUG
+20-03-28 01:15:26 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Ruger 77
+20-03-28 01:15:33 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 01:15:34 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:15:35 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:15:39 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Barrett M82A1
+20-03-28 01:15:44 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:15:45 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:15:47 Time Left: 4 minutes
+20-03-28 01:15:47 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Ruger 77
+20-03-28 01:15:50 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 01:15:53 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:15:55 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:15:56 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:15:58 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:16:01 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:16:02 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:16:04 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Steyr AUG
+20-03-28 01:16:08 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:16:09 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:16:10 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:16:10 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with HK MP5
+20-03-28 01:16:12 (2) KorN killed (1) |BhooD| Zorro* with LAW
+20-03-28 01:16:14 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:16:22 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:16:24 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:16:24 (1) |BhooD| Zorro* killed (2) KorN with HK MP5
+20-03-28 01:16:27 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Steyr AUG
+20-03-28 01:16:27 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with Steyr AUG
+20-03-28 01:16:29 /bonus 2 (191.126.170.197)
+20-03-28 01:16:29 Bonus frequency changed to 2
+20-03-28 01:16:29 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:16:34 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Ruger 77
+20-03-28 01:16:36 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:16:37 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with USSOCOM
+20-03-28 01:16:39 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|Aberracion with Steyr AUG
+20-03-28 01:16:42 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:16:43 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with LAW
+20-03-28 01:16:46 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:16:47 Time Left: 3 minutes
+20-03-28 01:16:48 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:16:49 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:16:52 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Ruger 77
+20-03-28 01:16:57 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Barrett M82A1
+20-03-28 01:16:57 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with Ak-74
+20-03-28 01:16:59 (1) |BhooD| Zorro* killed (2) KorN with HK MP5
+20-03-28 01:17:01 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:17:05 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Ruger 77
+20-03-28 01:17:05 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:17:11 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:17:15 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:17:16 (2) KorN killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:17:16 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with LAW
+20-03-28 01:17:18 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:17:19 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Flamer
+20-03-28 01:17:23 KorN captured the Red Flag
+20-03-28 01:17:26 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:17:26 (1) |BhooD| patuzhOO* killed (2) KorN with Steyr AUG
+20-03-28 01:17:27 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:17:27 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:17:32 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:17:34 (2) KorN killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:17:40 DsF - F4ll.cL scores for Bravo Team
+20-03-28 01:17:42 /bonus 1 (191.126.170.197)
+20-03-28 01:17:42 Bonus frequency changed to 1
+20-03-28 01:17:42 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:17:46 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Ruger 77
+20-03-28 01:17:47 (1) |BhooD| patuzhOO* killed (2) KorN with Steyr AUG
+20-03-28 01:17:47 Time Left: 2 minutes
+20-03-28 01:17:47 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:17:49 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Flamer
+20-03-28 01:17:54 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Ruger 77
+20-03-28 01:17:58 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:18:00 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with Flamer
+20-03-28 01:18:00 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:18:01 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:18:01 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:18:03 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:18:05 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Ruger 77
+20-03-28 01:18:07 |BhooD| Ultra_Cod3 returned the Red Flag
+20-03-28 01:18:07 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:18:09 (1) |BhooD| Analdo killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:18:09 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:18:10 (2) |X.Forc3|Lead.- killed (1) |BhooD| bio* with Grenade
+20-03-28 01:18:10 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:18:20 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:18:21 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:18:23 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Barrett M82A1
+20-03-28 01:18:25 (1) |BhooD| Zorro* killed (2) DsF - F4ll.cL with Stationary gun
+20-03-28 01:18:27 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:18:27 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:18:27 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:18:33 KorN captured the Red Flag
+20-03-28 01:18:34 (1) |BhooD| bio* killed (2) KorN with USSOCOM
+20-03-28 01:18:35 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Stationary gun
+20-03-28 01:18:44 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:18:44 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Ruger 77
+20-03-28 01:18:45 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:18:45 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with LAW
+20-03-28 01:18:47 Time Left: 1 minutes
+20-03-28 01:18:50 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:18:50 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:18:52 (1) |BhooD| Zorro* killed (2) KorN with Barrett M82A1
+20-03-28 01:18:59 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:19:01 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:19:05 (1) |BhooD| Zorro* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:19:05 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:19:06 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:19:10 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 01:19:11 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:19:14 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:19:16 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:19:21 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:19:21 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:19:22 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|RainbowDash with Steyr AUG
+20-03-28 01:19:27 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:19:27 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Flamer
+20-03-28 01:19:29 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:19:30 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:19:31 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with USSOCOM
+20-03-28 01:19:31 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Flamer
+20-03-28 01:19:32 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 01:19:33 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with USSOCOM
+20-03-28 01:19:34 |BhooD| bio* returned the Red Flag
+20-03-28 01:19:38 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:19:39 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:19:40 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Ruger 77
+20-03-28 01:19:40 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:19:47 Next map: ctf_B2b
+20-03-28 01:19:52 [|BhooD| Ultra_Cod3] como ganabamos esta wea?
+20-03-28 01:19:53 B2B
+20-03-28 01:19:54 [|BhooD| Ultra_Cod3] ahhahaaha
+20-03-28 01:19:55 [DsF - F4ll.cL] AJAJAJJAJAJA
+20-03-28 01:19:58 [DsF - F4ll.cL] nadie se acuerda
+20-03-28 01:19:58 [DsF - F4ll.cL] xD
+20-03-28 01:20:07 [|BhooD| bio*] !MAP LAOS
+20-03-28 01:20:07 Map not found (LAOS)
+20-03-28 01:20:07 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:20:08 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:20:11 [|BhooD| bio*] !map ctf_Laos
+20-03-28 01:20:16 Laos
+20-03-28 01:20:22 Shutting down server...
+20-03-28 01:20:22 Shutting down FileServer...
+20-03-28 01:20:22 Shutting down admin server...
+20-03-28 01:20:22 Admin disconnected (191.126.170.197).

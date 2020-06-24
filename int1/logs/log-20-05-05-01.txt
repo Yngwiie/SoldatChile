@@ -1,0 +1,541 @@
+20-05-05 11:50:01    Log Started
+20-05-05 11:50:01 Opened /home/kader_b/int1/soldat.ini
+20-05-05 11:50:01 Creating network interface.
+20-05-05 11:50:01 Loading Animations.
+20-05-05 11:50:01 Loading Lobby Servers List
+20-05-05 11:50:01 Loading Maps List
+20-05-05 11:50:02 Loading Map.
+20-05-05 11:50:02 Creating Weapons.
+20-05-05 11:50:02 Starting Game Server.
+20-05-05 11:50:02 TCP/IP File Server started
+20-05-05 12:20:02 TCP/IP File Server started
+20-05-05 12:50:02 TCP/IP File Server started
+20-05-05 13:20:02 TCP/IP File Server started
+20-05-05 13:50:02 TCP/IP File Server started
+20-05-05 14:20:02 TCP/IP File Server started
+20-05-05 14:50:02 TCP/IP File Server started
+20-05-05 15:20:02 TCP/IP File Server started
+20-05-05 15:50:02 TCP/IP File Server started
+20-05-05 16:20:02 TCP/IP File Server started
+20-05-05 16:50:02 TCP/IP File Server started
+20-05-05 17:20:02 TCP/IP File Server started
+20-05-05 17:50:02 TCP/IP File Server started
+20-05-05 18:20:02 TCP/IP File Server started
+20-05-05 18:50:02 TCP/IP File Server started
+20-05-05 19:20:02 TCP/IP File Server started
+20-05-05 19:50:02 TCP/IP File Server started
+20-05-05 20:20:02 TCP/IP File Server started
+20-05-05 20:50:02 TCP/IP File Server started
+20-05-05 21:20:02 TCP/IP File Server started
+20-05-05 21:50:02 TCP/IP File Server started
+20-05-05 22:20:02 TCP/IP File Server started
+20-05-05 22:50:02 TCP/IP File Server started
+20-05-05 23:20:02 TCP/IP File Server started
+20-05-05 23:50:02 TCP/IP File Server started
+20-05-06 00:20:02 TCP/IP File Server started
+20-05-06 00:50:02 TCP/IP File Server started
+20-05-06 01:20:02 TCP/IP File Server started
+20-05-06 01:23:04  Net - wp.mipHo connected 6-5-20 01:23:04
+20-05-06 01:23:48  Net - wp.mipHo disconnected 6-5-20 01:23:48
+20-05-06 01:24:32  Net - #1 Mand3s connected 6-5-20 01:24:32
+20-05-06 01:24:34  Net - wp.mipHo connected 6-5-20 01:24:34
+20-05-06 01:25:04  Net - #1 Mand3s disconnected 6-5-20 01:25:04
+20-05-06 01:25:04  Net - wp.mipHo disconnected 6-5-20 01:25:04
+20-05-06 01:50:27 TCP/IP File Server started
+20-05-06 02:20:27 TCP/IP File Server started
+20-05-06 02:50:27 TCP/IP File Server started
+20-05-06 03:20:27 TCP/IP File Server started
+20-05-06 03:50:27 TCP/IP File Server started
+20-05-06 04:20:27 TCP/IP File Server started
+20-05-06 04:50:27 TCP/IP File Server started
+20-05-06 05:20:27 TCP/IP File Server started
+20-05-06 05:50:27 TCP/IP File Server started
+20-05-06 06:20:27 TCP/IP File Server started
+20-05-06 06:50:27 TCP/IP File Server started
+20-05-06 07:20:27 TCP/IP File Server started
+20-05-06 07:50:27 TCP/IP File Server started
+20-05-06 08:20:27 TCP/IP File Server started
+20-05-06 08:50:27 TCP/IP File Server started
+20-05-06 09:20:27 TCP/IP File Server started
+20-05-06 09:50:27 TCP/IP File Server started
+20-05-06 10:20:27 TCP/IP File Server started
+20-05-06 10:50:27 TCP/IP File Server started
+20-05-06 11:20:27 TCP/IP File Server started
+20-05-06 11:50:27 TCP/IP File Server started
+20-05-06 12:20:27 TCP/IP File Server started
+20-05-06 12:50:27 TCP/IP File Server started
+20-05-06 13:20:27 TCP/IP File Server started
+20-05-06 13:50:27 TCP/IP File Server started
+20-05-06 14:20:27 TCP/IP File Server started
+20-05-06 14:50:27 TCP/IP File Server started
+20-05-06 15:20:27 TCP/IP File Server started
+20-05-06 15:50:27 TCP/IP File Server started
+20-05-06 16:20:27 TCP/IP File Server started
+20-05-06 16:50:27 TCP/IP File Server started
+20-05-06 17:20:27 TCP/IP File Server started
+20-05-06 17:50:27 TCP/IP File Server started
+20-05-06 18:20:27 TCP/IP File Server started
+20-05-06 18:50:27 TCP/IP File Server started
+20-05-06 19:20:27 TCP/IP File Server started
+20-05-06 19:47:36  Net - CWeiC connected 6-5-20 19:47:36
+20-05-06 19:48:47  Net - !F. KillMe! connected 6-5-20 19:48:47
+20-05-06 19:50:27 TCP/IP File Server started
+20-05-06 19:55:45  Net - Kosko connected 6-5-20 19:55:45
+20-05-06 19:58:19  Net - CWeiC disconnected 6-5-20 19:58:19
+20-05-06 19:59:01  Net - !F. KillMe! connected 6-5-20 19:59:01
+20-05-06 19:59:37  Net - !F. KillMe! disconnected 6-5-20 19:59:37
+20-05-06 19:59:40  Net - Kosko disconnected 6-5-20 19:59:40
+20-05-06 20:20:49 TCP/IP File Server started
+20-05-06 20:50:49 TCP/IP File Server started
+20-05-06 21:20:49 TCP/IP File Server started
+20-05-06 21:50:49 TCP/IP File Server started
+20-05-06 22:20:49 TCP/IP File Server started
+20-05-06 22:50:49 TCP/IP File Server started
+20-05-06 23:20:49 TCP/IP File Server started
+20-05-06 23:50:49 TCP/IP File Server started
+20-05-06 23:57:51  Net - =E*R= IL Capitano connected 6-5-20 23:57:51
+20-05-06 23:57:53  Net - =E*R= IL Capitano connected 6-5-20 23:57:53
+20-05-06 23:58:28  Net - =E*R= IL Capitano disconnected 6-5-20 23:58:28
+20-05-07 00:21:10 TCP/IP File Server started
+20-05-07 00:51:10 TCP/IP File Server started
+20-05-07 01:21:10 TCP/IP File Server started
+20-05-07 01:51:10 TCP/IP File Server started
+20-05-07 02:21:10 TCP/IP File Server started
+20-05-07 02:51:10 TCP/IP File Server started
+20-05-07 03:21:10 TCP/IP File Server started
+20-05-07 03:51:10 TCP/IP File Server started
+20-05-07 04:21:10 TCP/IP File Server started
+20-05-07 04:51:10 TCP/IP File Server started
+20-05-07 05:21:10 TCP/IP File Server started
+20-05-07 05:51:10 TCP/IP File Server started
+20-05-07 06:21:10 TCP/IP File Server started
+20-05-07 06:51:10 TCP/IP File Server started
+20-05-07 07:21:10 TCP/IP File Server started
+20-05-07 07:51:10 TCP/IP File Server started
+20-05-07 08:21:10 TCP/IP File Server started
+20-05-07 08:51:10 TCP/IP File Server started
+20-05-07 09:21:10 TCP/IP File Server started
+20-05-07 09:51:10 TCP/IP File Server started
+20-05-07 10:21:10 TCP/IP File Server started
+20-05-07 10:51:10 TCP/IP File Server started
+20-05-07 11:21:10 TCP/IP File Server started
+20-05-07 11:51:10 TCP/IP File Server started
+20-05-07 12:21:10 TCP/IP File Server started
+20-05-07 12:51:10 TCP/IP File Server started
+20-05-07 13:21:10 TCP/IP File Server started
+20-05-07 13:51:10 TCP/IP File Server started
+20-05-07 14:21:10 TCP/IP File Server started
+20-05-07 14:51:10 TCP/IP File Server started
+20-05-07 15:21:10 TCP/IP File Server started
+20-05-07 15:51:10 TCP/IP File Server started
+20-05-07 16:21:10 TCP/IP File Server started
+20-05-07 16:51:10 TCP/IP File Server started
+20-05-07 17:21:10 TCP/IP File Server started
+20-05-07 17:51:10 TCP/IP File Server started
+20-05-07 18:21:10 TCP/IP File Server started
+20-05-07 18:51:10 TCP/IP File Server started
+20-05-07 19:21:10 TCP/IP File Server started
+20-05-07 19:51:10 TCP/IP File Server started
+20-05-07 20:21:10 TCP/IP File Server started
+20-05-07 20:51:10 TCP/IP File Server started
+20-05-07 21:21:13 TCP/IP File Server started
+20-05-07 21:51:12 TCP/IP File Server started
+20-05-07 22:21:12 TCP/IP File Server started
+20-05-07 22:51:12 TCP/IP File Server started
+20-05-07 23:21:12 TCP/IP File Server started
+20-05-07 23:51:12 TCP/IP File Server started
+20-05-08 00:21:12 TCP/IP File Server started
+20-05-08 00:51:12 TCP/IP File Server started
+20-05-08 01:21:12 TCP/IP File Server started
+20-05-08 01:51:12 TCP/IP File Server started
+20-05-08 02:21:12 TCP/IP File Server started
+20-05-08 02:25:38  Net - =E*R= IL Capitano connected 8-5-20 02:25:38
+20-05-08 02:25:47  Net - CWeiC connected 8-5-20 02:25:47
+20-05-08 02:29:47  Net - CWeiC disconnected 8-5-20 02:29:47
+20-05-08 02:29:59  Net - =E*R= IL Capitano disconnected 8-5-20 02:29:59
+20-05-08 02:44:39  Net - [O.S.O] TULON* connected 8-5-20 02:44:39
+20-05-08 02:44:44  Net - [O.S.O] TULON* disconnected 8-5-20 02:44:44
+20-05-08 02:45:13  Net - [O.S.O] Hysteria* connected 8-5-20 02:45:13
+20-05-08 02:45:13  Net - [O.S.O] TULON* connected 8-5-20 02:45:13
+20-05-08 02:45:18  Net - [O.S.O] TULON* connected 8-5-20 02:45:18
+20-05-08 02:45:31  Net - .:{MIS}:. H[2]O connected 8-5-20 02:45:31
+20-05-08 02:50:18  Net - [O.S.O] Hysteria* disconnected 8-5-20 02:50:18
+20-05-08 02:51:30  Net - [O.S.O] Hysteria* connected 8-5-20 02:51:30
+20-05-08 02:51:37 TCP/IP File Server started
+20-05-08 02:57:15  Net - [O.S.O] Hysteria* connected 8-5-20 02:57:15
+20-05-08 03:00:34  Net - [O.S.O] Hysteria* disconnected 8-5-20 03:00:34
+20-05-08 03:00:39  Net - [O.S.O] Hysteria* connected 8-5-20 03:00:39
+20-05-08 03:00:48  Net - [O.S.O] Hysteria* disconnected 8-5-20 03:00:48
+20-05-08 03:00:52  Net - [O.S.O] Hysteria* connected 8-5-20 03:00:52
+20-05-08 03:00:56  Net - [O.S.O] Hysteria* disconnected 8-5-20 03:00:56
+20-05-08 03:01:15  Net - [O.S.O] Hysteria* connected 8-5-20 03:01:15
+20-05-08 03:08:55  Net - athe connected 8-5-20 03:08:55
+20-05-08 03:09:15  Net - VanscL connected 8-5-20 03:09:15
+20-05-08 03:09:23  Net - [O.S.O] Hysteria* disconnected 8-5-20 03:09:23
+20-05-08 03:09:48  Net - [O.S.O] Hysteria* connected 8-5-20 03:09:48
+20-05-08 03:10:21  Net - VanscL disconnected 8-5-20 03:10:21
+20-05-08 03:16:14  Net - [O.S.O] Hysteria* disconnected 8-5-20 03:16:14
+20-05-08 03:20:42  Net - [O.S.O] TULON* disconnected 8-5-20 03:20:42
+20-05-08 03:20:48  Net - .:{MIS}:. H[2]O disconnected 8-5-20 03:20:48
+20-05-08 03:20:51  Net - athe disconnected 8-5-20 03:20:51
+20-05-08 03:21:43 TCP/IP File Server started
+20-05-08 03:51:43 TCP/IP File Server started
+20-05-08 04:21:43 TCP/IP File Server started
+20-05-08 04:32:06  Net - athe connected 8-5-20 04:32:06
+20-05-08 04:32:06  Net - =E*R= IL Capitano connected 8-5-20 04:32:06
+20-05-08 04:32:14  Net - [O.S.O] TULON* connected 8-5-20 04:32:14
+20-05-08 04:32:22  Net - KorN connected 8-5-20 04:32:22
+20-05-08 04:32:23  Net - HughscL connected 8-5-20 04:32:23
+20-05-08 04:32:40  Net - athe disconnected 8-5-20 04:32:40
+20-05-08 04:32:50  Net - george michael connected 8-5-20 04:32:50
+20-05-08 04:33:05  Net - KorN connected 8-5-20 04:33:05
+20-05-08 04:33:09  Net - =E*R= IL Capitano connected 8-5-20 04:33:09
+20-05-08 04:33:19  Net - Waives|F4ll.cL connected 8-5-20 04:33:19
+20-05-08 04:33:55  Net - .:{MIS}:. H[2]O connected 8-5-20 04:33:55
+20-05-08 04:35:19  Net - doble con minigun connected 8-5-20 04:35:19
+20-05-08 04:35:36  Net - .:{MIS}:. H[2]O connected 8-5-20 04:35:36
+20-05-08 04:35:43  Net - doble con minigun connected 8-5-20 04:35:43
+20-05-08 04:36:19  Net - =E*R= IL Capitano disconnected 8-5-20 04:36:19
+20-05-08 04:36:19  Net - HughscL disconnected 8-5-20 04:36:19
+20-05-08 04:36:19  Net - [O.S.O] TULON* disconnected 8-5-20 04:36:19
+20-05-08 04:36:19  Net - doble con minigun disconnected 8-5-20 04:36:19
+20-05-08 04:36:20  Net - doble con minigun connected 8-5-20 04:36:20
+20-05-08 04:36:21  Net - .:{MIS}:. H[2]O disconnected 8-5-20 04:36:21
+20-05-08 04:36:21  Net - [O.S.O] TULON* connected 8-5-20 04:36:21
+20-05-08 04:36:25  Net - [O.S.O] TULON* disconnected 8-5-20 04:36:25
+20-05-08 04:36:26  Net - .:{MIS}:. H[2]O connected 8-5-20 04:36:26
+20-05-08 04:36:27  Net - el walala connected 8-5-20 04:36:27
+20-05-08 04:36:28  Net - [O.S.O] TULON* connected 8-5-20 04:36:28
+20-05-08 04:36:29  Net - el walala connected 8-5-20 04:36:29
+20-05-08 04:36:32  Net - HughscL connected 8-5-20 04:36:32
+20-05-08 04:36:37  Net - HughscL connected 8-5-20 04:36:37
+20-05-08 04:36:39  Net - doble con minigun disconnected 8-5-20 04:36:39
+20-05-08 04:36:40  Net - EL WATON DE AMANGO connected 8-5-20 04:36:40
+20-05-08 04:36:43  Net - [O.S.O] TULON* disconnected 8-5-20 04:36:43
+20-05-08 04:36:47  Net - george michael disconnected 8-5-20 04:36:47
+20-05-08 04:36:49  Net - Waives|F4ll.cL disconnected 8-5-20 04:36:49
+20-05-08 04:36:50  Net - HughscL disconnected 8-5-20 04:36:50
+20-05-08 04:36:51  Net - KorN disconnected 8-5-20 04:36:51
+20-05-08 04:36:54  Net - .:{MIS}:. H[2]O disconnected 8-5-20 04:36:54
+20-05-08 04:36:57  Net - EL WATON DE AMANGO connected 8-5-20 04:36:57
+20-05-08 04:37:27  Net - el walala disconnected 8-5-20 04:37:27
+20-05-08 04:37:32  Net - EL WATON DE AMANGO disconnected 8-5-20 04:37:32
+20-05-08 04:52:05 TCP/IP File Server started
+20-05-08 05:22:05 TCP/IP File Server started
+20-05-08 05:52:05 TCP/IP File Server started
+20-05-08 06:22:05 TCP/IP File Server started
+20-05-08 06:52:05 TCP/IP File Server started
+20-05-08 07:22:05 TCP/IP File Server started
+20-05-08 07:52:05 TCP/IP File Server started
+20-05-08 08:22:05 TCP/IP File Server started
+20-05-08 08:52:05 TCP/IP File Server started
+20-05-08 09:22:05 TCP/IP File Server started
+20-05-08 09:52:05 TCP/IP File Server started
+20-05-08 10:22:05 TCP/IP File Server started
+20-05-08 10:52:05 TCP/IP File Server started
+20-05-08 11:22:05 TCP/IP File Server started
+20-05-08 11:52:05 TCP/IP File Server started
+20-05-08 12:22:05 TCP/IP File Server started
+20-05-08 12:52:05 TCP/IP File Server started
+20-05-08 13:22:05 TCP/IP File Server started
+20-05-08 13:52:05 TCP/IP File Server started
+20-05-08 14:22:05 TCP/IP File Server started
+20-05-08 14:52:05 TCP/IP File Server started
+20-05-08 15:22:05 TCP/IP File Server started
+20-05-08 15:52:05 TCP/IP File Server started
+20-05-08 16:22:05 TCP/IP File Server started
+20-05-08 16:52:05 TCP/IP File Server started
+20-05-08 17:22:05 TCP/IP File Server started
+20-05-08 17:52:05 TCP/IP File Server started
+20-05-08 18:22:05 TCP/IP File Server started
+20-05-08 18:52:05 TCP/IP File Server started
+20-05-08 19:02:58  Net - !F. YnGwi3 connected 8-5-20 19:02:58
+20-05-08 19:03:00  Net - !F. YnGwi3 connected 8-5-20 19:03:00
+20-05-08 19:03:57  Net - !F. YnGwi3 disconnected 8-5-20 19:03:57
+20-05-08 19:22:05 TCP/IP File Server started
+20-05-08 19:52:05 TCP/IP File Server started
+20-05-08 20:22:05 TCP/IP File Server started
+20-05-08 20:52:05 TCP/IP File Server started
+20-05-08 21:22:05 TCP/IP File Server started
+20-05-08 21:52:05 TCP/IP File Server started
+20-05-08 22:22:05 TCP/IP File Server started
+20-05-08 22:52:05 TCP/IP File Server started
+20-05-08 23:22:05 TCP/IP File Server started
+20-05-08 23:52:05 TCP/IP File Server started
+20-05-09 00:22:05 TCP/IP File Server started
+20-05-09 00:52:05 TCP/IP File Server started
+20-05-09 01:22:05 TCP/IP File Server started
+20-05-09 01:52:05 TCP/IP File Server started
+20-05-09 02:22:05 TCP/IP File Server started
+20-05-09 02:52:05 TCP/IP File Server started
+20-05-09 03:22:05 TCP/IP File Server started
+20-05-09 03:52:05 TCP/IP File Server started
+20-05-09 04:22:05 TCP/IP File Server started
+20-05-09 04:52:05 TCP/IP File Server started
+20-05-09 05:22:05 TCP/IP File Server started
+20-05-09 05:52:05 TCP/IP File Server started
+20-05-09 06:22:05 TCP/IP File Server started
+20-05-09 06:52:05 TCP/IP File Server started
+20-05-09 07:22:05 TCP/IP File Server started
+20-05-09 07:52:05 TCP/IP File Server started
+20-05-09 08:22:05 TCP/IP File Server started
+20-05-09 08:52:05 TCP/IP File Server started
+20-05-09 09:22:05 TCP/IP File Server started
+20-05-09 09:52:05 TCP/IP File Server started
+20-05-09 10:22:05 TCP/IP File Server started
+20-05-09 10:52:05 TCP/IP File Server started
+20-05-09 11:22:05 TCP/IP File Server started
+20-05-09 11:52:05 TCP/IP File Server started
+20-05-09 12:22:05 TCP/IP File Server started
+20-05-09 12:52:05 TCP/IP File Server started
+20-05-09 13:22:05 TCP/IP File Server started
+20-05-09 13:52:05 TCP/IP File Server started
+20-05-09 14:22:05 TCP/IP File Server started
+20-05-09 14:52:05 TCP/IP File Server started
+20-05-09 15:22:05 TCP/IP File Server started
+20-05-09 15:52:05 TCP/IP File Server started
+20-05-09 16:22:05 TCP/IP File Server started
+20-05-09 16:52:05 TCP/IP File Server started
+20-05-09 17:22:05 TCP/IP File Server started
+20-05-09 17:52:05 TCP/IP File Server started
+20-05-09 18:22:05 TCP/IP File Server started
+20-05-09 18:52:05 TCP/IP File Server started
+20-05-09 19:22:05 TCP/IP File Server started
+20-05-09 19:52:05 TCP/IP File Server started
+20-05-09 20:22:05 TCP/IP File Server started
+20-05-09 20:52:05 TCP/IP File Server started
+20-05-09 21:22:05 TCP/IP File Server started
+20-05-09 21:52:05 TCP/IP File Server started
+20-05-09 22:22:05 TCP/IP File Server started
+20-05-09 22:52:05 TCP/IP File Server started
+20-05-09 23:22:05 TCP/IP File Server started
+20-05-09 23:52:05 TCP/IP File Server started
+20-05-10 00:22:05 TCP/IP File Server started
+20-05-10 00:52:05 TCP/IP File Server started
+20-05-10 01:22:05 TCP/IP File Server started
+20-05-10 01:52:05 TCP/IP File Server started
+20-05-10 02:22:05 TCP/IP File Server started
+20-05-10 02:52:05 TCP/IP File Server started
+20-05-10 03:22:05 TCP/IP File Server started
+20-05-10 03:52:05 TCP/IP File Server started
+20-05-10 04:22:05 TCP/IP File Server started
+20-05-10 04:52:05 TCP/IP File Server started
+20-05-10 05:22:05 TCP/IP File Server started
+20-05-10 05:52:05 TCP/IP File Server started
+20-05-10 06:22:05 TCP/IP File Server started
+20-05-10 06:52:05 TCP/IP File Server started
+20-05-10 07:22:05 TCP/IP File Server started
+20-05-10 07:52:05 TCP/IP File Server started
+20-05-10 08:22:05 TCP/IP File Server started
+20-05-10 08:52:05 TCP/IP File Server started
+20-05-10 09:22:05 TCP/IP File Server started
+20-05-10 09:52:05 TCP/IP File Server started
+20-05-10 10:22:05 TCP/IP File Server started
+20-05-10 10:52:05 TCP/IP File Server started
+20-05-10 11:22:05 TCP/IP File Server started
+20-05-10 11:52:05 TCP/IP File Server started
+20-05-10 12:22:05 TCP/IP File Server started
+20-05-10 12:52:05 TCP/IP File Server started
+20-05-10 13:22:05 TCP/IP File Server started
+20-05-10 13:52:05 TCP/IP File Server started
+20-05-10 14:22:05 TCP/IP File Server started
+20-05-10 14:52:05 TCP/IP File Server started
+20-05-10 15:22:05 TCP/IP File Server started
+20-05-10 15:52:05 TCP/IP File Server started
+20-05-10 16:22:05 TCP/IP File Server started
+20-05-10 16:52:05 TCP/IP File Server started
+20-05-10 17:22:05 TCP/IP File Server started
+20-05-10 17:52:05 TCP/IP File Server started
+20-05-10 18:22:05 TCP/IP File Server started
+20-05-10 18:52:05 TCP/IP File Server started
+20-05-10 19:22:05 TCP/IP File Server started
+20-05-10 19:52:05 TCP/IP File Server started
+20-05-10 20:22:05 TCP/IP File Server started
+20-05-10 20:52:05 TCP/IP File Server started
+20-05-10 21:22:05 TCP/IP File Server started
+20-05-10 21:52:05 TCP/IP File Server started
+20-05-10 22:22:05 TCP/IP File Server started
+20-05-10 22:52:05 TCP/IP File Server started
+20-05-10 23:22:05 TCP/IP File Server started
+20-05-10 23:52:05 TCP/IP File Server started
+20-05-11 00:22:05 TCP/IP File Server started
+20-05-11 00:38:01  Net - *Pirlinho* connected 11-5-20 00:38:01
+20-05-11 00:43:24  Net - *Pirlinho* disconnected 11-5-20 00:43:24
+20-05-11 00:43:41  Net - *Pirlinho* connected 11-5-20 00:43:41
+20-05-11 00:47:02  Net - *Pirlinho* disconnected 11-5-20 00:47:02
+20-05-11 00:52:10 TCP/IP File Server started
+20-05-11 01:22:10 TCP/IP File Server started
+20-05-11 01:52:10 TCP/IP File Server started
+20-05-11 02:22:10 TCP/IP File Server started
+20-05-11 02:52:10 TCP/IP File Server started
+20-05-11 03:22:10 TCP/IP File Server started
+20-05-11 03:52:10 TCP/IP File Server started
+20-05-11 04:22:10 TCP/IP File Server started
+20-05-11 04:52:10 TCP/IP File Server started
+20-05-11 05:22:10 TCP/IP File Server started
+20-05-11 05:52:10 TCP/IP File Server started
+20-05-11 06:22:10 TCP/IP File Server started
+20-05-11 06:52:10 TCP/IP File Server started
+20-05-11 07:22:10 TCP/IP File Server started
+20-05-11 07:52:10 TCP/IP File Server started
+20-05-11 08:22:10 TCP/IP File Server started
+20-05-11 08:52:10 TCP/IP File Server started
+20-05-11 09:22:10 TCP/IP File Server started
+20-05-11 09:52:10 TCP/IP File Server started
+20-05-11 10:22:10 TCP/IP File Server started
+20-05-11 10:52:10 TCP/IP File Server started
+20-05-11 11:22:10 TCP/IP File Server started
+20-05-11 11:52:10 TCP/IP File Server started
+20-05-11 12:22:10 TCP/IP File Server started
+20-05-11 12:52:10 TCP/IP File Server started
+20-05-11 13:22:10 TCP/IP File Server started
+20-05-11 13:52:10 TCP/IP File Server started
+20-05-11 14:22:10 TCP/IP File Server started
+20-05-11 14:52:10 TCP/IP File Server started
+20-05-11 15:22:10 TCP/IP File Server started
+20-05-11 15:52:10 TCP/IP File Server started
+20-05-11 16:22:10 TCP/IP File Server started
+20-05-11 16:52:10 TCP/IP File Server started
+20-05-11 17:22:10 TCP/IP File Server started
+20-05-11 17:52:10 TCP/IP File Server started
+20-05-11 18:22:10 TCP/IP File Server started
+20-05-11 18:52:10 TCP/IP File Server started
+20-05-11 19:22:10 TCP/IP File Server started
+20-05-11 19:52:10 TCP/IP File Server started
+20-05-11 20:22:10 TCP/IP File Server started
+20-05-11 20:52:10 TCP/IP File Server started
+20-05-11 21:22:10 TCP/IP File Server started
+20-05-11 21:52:10 TCP/IP File Server started
+20-05-11 22:22:10 TCP/IP File Server started
+20-05-11 22:52:10 TCP/IP File Server started
+20-05-11 23:22:10 TCP/IP File Server started
+20-05-11 23:52:10 TCP/IP File Server started
+20-05-12 00:22:10 TCP/IP File Server started
+20-05-12 00:52:10 TCP/IP File Server started
+20-05-12 01:22:10 TCP/IP File Server started
+20-05-12 01:30:23  Net - K!NG| YnGwi3 connected 12-5-20 01:30:23
+20-05-12 01:30:29  Net - K!NG| WildR4P` connected 12-5-20 01:30:29
+20-05-12 01:30:31  Net - r3v' Colt connected 12-5-20 01:30:31
+20-05-12 01:30:32  Net - K!NG| Maaxis* (New guy) connected 12-5-20 01:30:32
+20-05-12 01:30:53  Net - K!NG| WildR4P` connected 12-5-20 01:30:53
+20-05-12 01:30:59  Net - K!NG| PK connected 12-5-20 01:30:59
+20-05-12 01:31:36  Net - r3v' DrK connected 12-5-20 01:31:36
+20-05-12 01:31:53  Net - r3v' Mand3s connected 12-5-20 01:31:53
+20-05-12 01:32:59  Net - *Pirlinho* connected 12-5-20 01:32:59
+20-05-12 01:33:00  Net - RtP| LeprosycL connected 12-5-20 01:33:00
+20-05-12 01:33:04  Net - K!NG| YnGwi3 connected 12-5-20 01:33:04
+20-05-12 01:33:06  Net - RtP| SontercL connected 12-5-20 01:33:06
+20-05-12 01:33:10  Net - RtP| LeprosycL disconnected 12-5-20 01:33:10
+20-05-12 01:33:20  Net - Enigma connected 12-5-20 01:33:20
+20-05-12 01:33:26  Net - RtP| LeprosycL connected 12-5-20 01:33:26
+20-05-12 01:33:26  Net - K!NG| YnGwi3 connected 12-5-20 01:33:26
+20-05-12 01:33:30  Net - K!NG| YnGwi3 connected 12-5-20 01:33:30
+20-05-12 01:34:33  Net - K!NG| PK disconnected 12-5-20 01:34:33
+20-05-12 01:34:45  Net - K!NG| YnGwi3 connected 12-5-20 01:34:45
+20-05-12 01:34:49  Net - K!NG| YnGwi3 connected 12-5-20 01:34:49
+20-05-12 01:34:58  Net - K!NG| PK connected 12-5-20 01:34:58
+20-05-12 01:35:20  Net - RtP| LoKitoHcL connected 12-5-20 01:35:20
+20-05-12 01:35:39  Net - Pedro Carcuro connected 12-5-20 01:35:39
+20-05-12 01:35:45  Net - Se or Korn connected 12-5-20 01:35:45
+20-05-12 01:37:14  Net - K!NG| WildR4P` connected 12-5-20 01:37:14
+20-05-12 01:37:41  Net - r3v' Winter connected 12-5-20 01:37:41
+20-05-12 01:37:44  Net - r3v' Winter connected 12-5-20 01:37:44
+20-05-12 01:38:26  Net - later ricr (FRYERSCHOOL) connected 12-5-20 01:38:26
+20-05-12 01:38:28  Net - later ricr (FRYERSCHOOL) connected 12-5-20 01:38:28
+20-05-12 01:38:42  Net - Se or Korn disconnected 12-5-20 01:38:42
+20-05-12 01:39:41  Net - K!NG| WildR4P` connected 12-5-20 01:39:41
+20-05-12 01:41:00  Net - Se or Korn connected 12-5-20 01:41:00
+20-05-12 01:41:11  Net - Se or Korn connected 12-5-20 01:41:11
+20-05-12 01:41:27  Net - *Pirlinho* disconnected 12-5-20 01:41:27
+20-05-12 01:42:55  Net - RtP| LoKitoHcL disconnected 12-5-20 01:42:55
+20-05-12 01:42:57  Net - RtP| LeprosycL disconnected 12-5-20 01:42:57
+20-05-12 01:43:00  Net - RtP| SontercL disconnected 12-5-20 01:43:00
+20-05-12 01:43:02  Net - later ricr (FRYERSCHOOL) disconnected 12-5-20 01:43:02
+20-05-12 01:43:04  Net - Enigma disconnected 12-5-20 01:43:04
+20-05-12 01:43:11  Net - r3v' Mand3s connected 12-5-20 01:43:11
+20-05-12 01:43:13  Net - r3v' Mand3s connected 12-5-20 01:43:13
+20-05-12 01:43:23  Net - r3v' Winter connected 12-5-20 01:43:23
+20-05-12 01:44:31  Net - Pedro Carcuro disconnected 12-5-20 01:44:31
+20-05-12 01:45:15  Net - later rakk (shion class) connected 12-5-20 01:45:15
+20-05-12 01:45:20  Net - later rakk (shion class) disconnected 12-5-20 01:45:20
+20-05-12 01:46:15  Net - K!NG| rakk connected 12-5-20 01:46:15
+20-05-12 01:46:57  Net - K!NG| WildR4P` connected 12-5-20 01:46:57
+20-05-12 01:47:01  Net - K!NG| Maaxis* (New guy) connected 12-5-20 01:47:01
+20-05-12 01:47:38  Net - r3v' Mand3s connected 12-5-20 01:47:38
+20-05-12 01:47:42  Net - K!NG| WildR4P` connected 12-5-20 01:47:42
+20-05-12 01:48:29  Net - K!NG| YnGwi3 connected 12-5-20 01:48:29
+20-05-12 01:50:02  Net - r3v' Winter connected 12-5-20 01:50:02
+20-05-12 01:50:04  Net - K!NG| WildR4P` connected 12-5-20 01:50:04
+20-05-12 01:50:11  Net - K!NG| YnGwi3 connected 12-5-20 01:50:11
+20-05-12 01:51:59  Net - n7>>Chaky connected 12-5-20 01:51:59
+20-05-12 01:52:19 TCP/IP File Server started
+20-05-12 01:53:10  Net - r3v' Winter connected 12-5-20 01:53:10
+20-05-12 01:54:09  Net - RtP| Breeze connected 12-5-20 01:54:09
+20-05-12 01:54:22  Net - r3v' Winter connected 12-5-20 01:54:22
+20-05-12 02:05:27  Net - r3v' Mand3s disconnected 12-5-20 02:05:27
+20-05-12 02:05:37  Net - r3v' Winter connected 12-5-20 02:05:37
+20-05-12 02:05:37  Net - n7>>Chaky disconnected 12-5-20 02:05:37
+20-05-12 02:05:50  Net - r3v' Mand3s connected 12-5-20 02:05:50
+20-05-12 02:05:55  Net - K!NG| WildR4P` connected 12-5-20 02:05:55
+20-05-12 02:05:58  Net - K!NG| PK connected 12-5-20 02:05:58
+20-05-12 02:06:12  Net - !F. KillMe! connected 12-5-20 02:06:12
+20-05-12 02:09:15  Net - n7>>Chaky connected 12-5-20 02:09:15
+20-05-12 02:14:02  Net - !F. KillMe! disconnected 12-5-20 02:14:02
+20-05-12 02:18:43  Net - K!NG| WildR4P` connected 12-5-20 02:18:43
+20-05-12 02:18:43  Net - r3v' Colt connected 12-5-20 02:18:43
+20-05-12 02:18:45  Net - r3v' Mand3s connected 12-5-20 02:18:45
+20-05-12 02:18:57  Net - K!NG| YnGwi3 connected 12-5-20 02:18:57
+20-05-12 02:22:19 TCP/IP File Server started
+20-05-12 02:29:42  Net - K!NG| YnGwi3 disconnected 12-5-20 02:29:42
+20-05-12 02:29:43  Net - K!NG| rakk disconnected 12-5-20 02:29:43
+20-05-12 02:29:43  Net - K!NG| PK disconnected 12-5-20 02:29:43
+20-05-12 02:29:44  Net - K!NG| Maaxis* (New guy) disconnected 12-5-20 02:29:44
+20-05-12 02:29:44  Net - r3v' Mand3s disconnected 12-5-20 02:29:44
+20-05-12 02:29:44  Net - r3v' Colt disconnected 12-5-20 02:29:44
+20-05-12 02:29:46  Net - K!NG| WildR4P` disconnected 12-5-20 02:29:46
+20-05-12 02:29:48  Net - Se or Korn disconnected 12-5-20 02:29:48
+20-05-12 02:29:49  Net - r3v' DrK disconnected 12-5-20 02:29:49
+20-05-12 02:29:49  Net - r3v' Winter disconnected 12-5-20 02:29:49
+20-05-12 02:29:55  Net - RtP| Breeze connected 12-5-20 02:29:55
+20-05-12 02:30:26  Net - RtP| LeprosycL connected 12-5-20 02:30:26
+20-05-12 02:30:28  Net - RtP| LoKitoHcL connected 12-5-20 02:30:28
+20-05-12 02:30:31  Net - RtP| LoKitoHcL connected 12-5-20 02:30:31
+20-05-12 02:31:28  Net - eX.- Necro connected 12-5-20 02:31:28
+20-05-12 02:31:56  Net - gB| Zeratul connected 12-5-20 02:31:56
+20-05-12 02:32:07  Net - !F. KillMe! connected 12-5-20 02:32:07
+20-05-12 02:32:09  Net - *Pirlinho* connected 12-5-20 02:32:09
+20-05-12 02:32:25  Net - Pedro Carcuro connected 12-5-20 02:32:25
+20-05-12 02:32:31  Net - eX.-  j4zz connected 12-5-20 02:32:31
+20-05-12 02:32:34  Net - *Pirlinho* disconnected 12-5-20 02:32:34
+20-05-12 02:32:38  Net - *Pirlinho* connected 12-5-20 02:32:38
+20-05-12 02:33:12  Net - eX.- Necro connected 12-5-20 02:33:12
+20-05-12 02:33:24  Net - gB| Zeratul disconnected 12-5-20 02:33:24
+20-05-12 02:33:36  Net - eX.- Zeratul connected 12-5-20 02:33:36
+20-05-12 02:33:48  Net - eX.- Ratzor connected 12-5-20 02:33:48
+20-05-12 02:34:06  Net - eX.- Ratzor connected 12-5-20 02:34:06
+20-05-12 02:34:27  Net - battousai connected 12-5-20 02:34:27
+20-05-12 02:34:29  Net - r3v' Mand3s connected 12-5-20 02:34:29
+20-05-12 02:34:43  Net - RtP| SontercL connected 12-5-20 02:34:43
+20-05-12 02:35:26  Net - RtP| SontercL connected 12-5-20 02:35:26
+20-05-12 02:35:58  Net - eX.- Ratzor disconnected 12-5-20 02:35:58
+20-05-12 02:37:37  Net - Sk8' connected 12-5-20 02:37:37
+20-05-12 02:38:43  Net - eX.- Ratzor connected 12-5-20 02:38:43
+20-05-12 02:38:48  Net - eX.- Ratzor connected 12-5-20 02:38:48
+20-05-12 02:39:34  Net - RtP| LeprosycL connected 12-5-20 02:39:34
+20-05-12 02:44:07  Net - RtP| LoKitoHcL connected 12-5-20 02:44:07
+20-05-12 02:44:20  Net - RtP| Shuter connected 12-5-20 02:44:20
+20-05-12 02:45:19  Net - RtP| Shuter connected 12-5-20 02:45:19
+20-05-12 02:45:19  Net - RtP| LoKitoHcL connected 12-5-20 02:45:19
+20-05-12 02:45:29  Net - RtP| SontercL connected 12-5-20 02:45:29
+20-05-12 02:45:33  Net - eX.- Ratzor connected 12-5-20 02:45:33
+20-05-12 02:45:34  Net - RtP| LeprosycL connected 12-5-20 02:45:34
+20-05-12 02:52:19 TCP/IP File Server started
+20-05-12 02:56:09  Net - RtP| SontercL connected 12-5-20 02:56:09
+20-05-12 02:56:12  Net - RtP| LoKitoHcL connected 12-5-20 02:56:12
+20-05-12 02:56:14  Net - eX.- Ratzor connected 12-5-20 02:56:14
+20-05-12 02:56:17  Net - RtP| LeprosycL connected 12-5-20 02:56:17
+20-05-12 02:56:18  Net - eX.-  j4zz connected 12-5-20 02:56:18
+20-05-12 02:56:18  Net - RtP| Shuter connected 12-5-20 02:56:18
+20-05-12 02:56:20  Net - RtP| LeprosycL connected 12-5-20 02:56:20
+20-05-12 02:58:58  Net - RtP| Shuter disconnected 12-5-20 02:58:58
+20-05-12 02:59:21  Net - RtP| LoKitoHcL connected 12-5-20 02:59:21

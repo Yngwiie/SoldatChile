@@ -1,0 +1,12 @@
+20-02-12 09:51:23    Console Log Started
+20-02-12 09:51:23 Welcome to Soldat 1.7.1
+20-02-12 09:51:23  [*] Preparing scripts to be launched
+20-02-12 09:51:23  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 09:51:23  [*] commands_by_keen compiled
+20-02-12 09:51:23  [*] Compiling matchreporter -> match.pas...
+20-02-12 09:51:23  [*] matchreporter -> [Error] (5:11): Unknown identifier 'ReadFromFile'
+20-02-12 09:51:23  [*] Disabling matchreporter
+20-02-12 09:51:23  [*] Done
+20-02-12 09:51:23 ctf_Ash by chakapoko maker
+20-02-12 09:51:23  Connection for file server started. Port: 23110
+20-02-12 09:51:23 Registering server @ 88.99.234.252

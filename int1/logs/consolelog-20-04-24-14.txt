@@ -1,0 +1,84 @@
+20-04-24 19:23:39    Console Log Started
+20-04-24 19:23:39 Welcome to Soldat 1.7.1
+20-04-24 19:23:39  [*] Preparing scripts to be launched
+20-04-24 19:23:39  [*] [BasicCommands] Loading bytecode
+20-04-24 19:23:39  [*] [BasicCommands] Bytecode loaded
+20-04-24 19:23:39  [*] Compiling match -> match.pas...
+20-04-24 19:23:39  [*] match compiled
+20-04-24 19:23:39  [*] Done
+20-04-24 19:23:39 Lothic - Gothic Lobby Room
+20-04-24 19:23:39 Loaded weapons mod "Default v1.8"
+20-04-24 19:23:39  Connection for file server started. Port: 23110
+20-04-24 19:23:39 Registering server @ 88.99.234.252
+20-04-24 19:25:25 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:25:25 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:25:29 Divas| Rattle joining game (186.143.197.13:56220) HWID:14189A02D27
+20-04-24 19:25:29 Divas| Rattle has joined alpha team.
+20-04-24 19:25:33 [Divas| Rattle] !ctf Tv
+20-04-24 19:25:37 [Divas| Rattle] !map Tv
+20-04-24 19:25:42 Terminal Velocity by Zakath
+20-04-24 19:25:42 Divas| Rattle has left alpha team.
+20-04-24 19:25:47 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:25:47 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:25:49 Divas| Rattle joining game (186.143.197.13:56220) HWID:14189A02D27
+20-04-24 19:25:49 Divas| Rattle has joined alpha team.
+20-04-24 19:26:02 Divas| Rattle captured the Blue Flag
+20-04-24 19:26:10 Divas| Rattle captured the Blue Flag
+20-04-24 19:26:14 Divas| Rattle captured the Blue Flag
+20-04-24 19:26:36 Divas| Rattle returned the Red Flag
+20-04-24 19:26:36 Divas| Rattle captured the Blue Flag
+20-04-24 19:26:41 Divas| Rattle returned the Red Flag
+20-04-24 19:26:43 Divas| Rattle returned the Red Flag
+20-04-24 19:26:45 Divas| Rattle returned the Red Flag
+20-04-24 19:26:48 Divas| Rattle returned the Red Flag
+20-04-24 19:26:59 [Divas| Rattle] !map ctf_Razer
+20-04-24 19:27:13 Error: Could not load map (ctf_Razer)
+20-04-24 19:27:13 Next map: Lobby
+20-04-24 19:27:13 Divas| Rattle has left alpha team.
+20-04-24 19:27:13 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:27:13 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:27:19 Lothic - Gothic Lobby Room
+20-04-24 19:27:19 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:27:19 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:27:19 Divas| Rattle joining game (186.143.197.13:56220) HWID:14189A02D27
+20-04-24 19:27:19 Divas| Rattle has joined alpha team.
+20-04-24 19:27:22 [Divas| Rattle] !map ctf_Razer
+20-04-24 19:27:27 Error: Could not load map (ctf_Razer)
+20-04-24 19:27:27 Next map: Lobby
+20-04-24 19:27:33 Lothic - Gothic Lobby Room
+20-04-24 19:27:37 [Divas| Rattle] !map Razer
+20-04-24 19:27:42 Error: Could not load map (ctf_Razer)
+20-04-24 19:27:42 Next map: Lobby
+20-04-24 19:27:48 Lothic - Gothic Lobby Room
+20-04-24 19:27:49 Divas| Rattle has left alpha team.
+20-04-24 19:28:14 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:28:14 186.143.197.13:56220|14189A02D27 requesting game...
+20-04-24 19:28:14 Divas| Rattle joining game (186.143.197.13:56220) HWID:14189A02D27
+20-04-24 19:28:14 Divas| Rattle has joined alpha team.
+20-04-24 19:28:17 [Divas| Rattle] !map Razer
+20-04-24 19:28:23 Error: Could not load map (ctf_Razer)
+20-04-24 19:28:23 Next map: Lobby
+20-04-24 19:28:24 Divas| Rattle has left alpha team.
+20-04-24 19:28:28 Lothic - Gothic Lobby Room
+20-04-24 19:30:28 168.196.203.136:37545|64995B15DC0 requesting game...
+20-04-24 19:30:29 168.196.203.136:37545|64995B15DC0 requesting game...
+20-04-24 19:30:30 sT.- YnGwi3 joining game (168.196.203.136:37545) HWID:64995B15DC0
+20-04-24 19:30:30 sT.- YnGwi3 has joined bravo team.
+20-04-24 19:30:36 [sT.- YnGwi3] !map ctf_Razer
+20-04-24 19:30:41 Error: Could not load map (ctf_Razer)
+20-04-24 19:30:41 Next map: Lobby
+20-04-24 19:30:47 Lothic - Gothic Lobby Room
+20-04-24 19:30:50 [sT.- YnGwi3] !map ctf_Tv
+20-04-24 19:30:55 Terminal Velocity by Zakath
+20-04-24 19:30:58 sT.- YnGwi3 returned the Blue Flag
+20-04-24 19:31:05 sT.- YnGwi3 captured the Red Flag
+20-04-24 19:31:09 [sT.- YnGwi3] !map Tv
+20-04-24 19:31:12 [sT.- YnGwi3] !map Razer
+20-04-24 19:31:17 Error: Could not load map (ctf_Razer)
+20-04-24 19:31:17 Next map: Lobby
+20-04-24 19:31:22 sT.- YnGwi3 has left bravo team.
+20-04-24 19:31:23 Lothic - Gothic Lobby Room
+20-04-24 19:32:38 Signal received, shutting down
+20-04-24 19:32:38 Shutting down server...
+20-04-24 19:32:38 Shutting down FileServer...
+20-04-24 19:32:38 Shutting down admin server...

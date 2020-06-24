@@ -1,0 +1,1324 @@
+20-04-20 22:01:52    Console Log Started
+20-04-20 22:01:52 Welcome to Soldat 1.7.1
+20-04-20 22:01:52  [*] Preparing scripts to be launched
+20-04-20 22:01:52  [*] [BasicCommands] Compilation started
+20-04-20 22:01:52  [*] [BasicCommands] Compilation complete
+20-04-20 22:01:52  [*] [BasicCommands] Loading bytecode
+20-04-20 22:01:52  [*] [BasicCommands] Bytecode loaded
+20-04-20 22:01:52  [*] Compiling match -> match.pas...
+20-04-20 22:01:52  [*] match compiled
+20-04-20 22:01:52  [*] Done
+20-04-20 22:01:52 Lothic - Gothic Lobby Room
+20-04-20 22:01:52 Loaded weapons mod "Default v1.8"
+20-04-20 22:01:52  Connection for file server started. Port: 23310
+20-04-20 22:01:52 Registering server @ 88.99.234.252
+20-04-20 22:06:52 Time Left: 5 minutes
+20-04-20 22:07:03 Admin connected (201.189.251.234).
+20-04-20 22:07:03 /friendlyfire (201.189.251.234)
+20-04-20 22:07:03 Friendly Fire is 0
+20-04-20 22:07:03 /bonus (201.189.251.234)
+20-04-20 22:07:03 Current bonus frequency is 0
+20-04-20 22:07:03 /vote% (201.189.251.234)
+20-04-20 22:07:03 Voting percent is 60
+20-04-20 22:07:03 /respawntime (201.189.251.234)
+20-04-20 22:07:03 Respawn time is 3 seconds
+20-04-20 22:07:03 /maxrespawntime (201.189.251.234)
+20-04-20 22:07:03 Maximum Respawn time is 5 seconds
+20-04-20 22:07:52 Time Left: 4 minutes
+20-04-20 22:08:52 Time Left: 3 minutes
+20-04-20 22:09:52 Time Left: 2 minutes
+20-04-20 22:10:52 Time Left: 1 minutes
+20-04-20 22:11:52 Next map: Lobby
+20-04-20 22:11:57 Lothic - Gothic Lobby Room
+20-04-20 22:16:57 Time Left: 5 minutes
+20-04-20 22:17:57 Time Left: 4 minutes
+20-04-20 22:18:57 Time Left: 3 minutes
+20-04-20 22:19:57 Time Left: 2 minutes
+20-04-20 22:20:57 Time Left: 1 minutes
+20-04-20 22:21:57 Next map: Lobby
+20-04-20 22:22:03 Lothic - Gothic Lobby Room
+20-04-20 22:27:03 Time Left: 5 minutes
+20-04-20 22:28:03 Time Left: 4 minutes
+20-04-20 22:29:03 Time Left: 3 minutes
+20-04-20 22:30:03 Time Left: 2 minutes
+20-04-20 22:31:03 Time Left: 1 minutes
+20-04-20 22:32:03 Next map: Lobby
+20-04-20 22:32:08 Lothic - Gothic Lobby Room
+20-04-20 22:37:08 Time Left: 5 minutes
+20-04-20 22:38:08 Time Left: 4 minutes
+20-04-20 22:39:08 Time Left: 3 minutes
+20-04-20 22:40:08 Time Left: 2 minutes
+20-04-20 22:41:08 Time Left: 1 minutes
+20-04-20 22:42:08 Next map: Lobby
+20-04-20 22:42:13 Lothic - Gothic Lobby Room
+20-04-20 22:47:13 Time Left: 5 minutes
+20-04-20 22:48:13 Time Left: 4 minutes
+20-04-20 22:49:13 Time Left: 3 minutes
+20-04-20 22:50:13 Time Left: 2 minutes
+20-04-20 22:51:13 Time Left: 1 minutes
+20-04-20 22:52:13 Next map: Lobby
+20-04-20 22:52:19 Lothic - Gothic Lobby Room
+20-04-20 22:57:19 Time Left: 5 minutes
+20-04-20 22:58:19 Time Left: 4 minutes
+20-04-20 22:59:19 Time Left: 3 minutes
+20-04-20 23:00:19 Time Left: 2 minutes
+20-04-20 23:01:19 Time Left: 1 minutes
+20-04-20 23:02:19 Next map: Lobby
+20-04-20 23:02:24 Lothic - Gothic Lobby Room
+20-04-20 23:07:24 Time Left: 5 minutes
+20-04-20 23:08:24 Time Left: 4 minutes
+20-04-20 23:09:24 Time Left: 3 minutes
+20-04-20 23:10:24 Time Left: 2 minutes
+20-04-20 23:11:24 Time Left: 1 minutes
+20-04-20 23:12:24 Next map: Lobby
+20-04-20 23:12:29 Lothic - Gothic Lobby Room
+20-04-20 23:17:29 Time Left: 5 minutes
+20-04-20 23:18:29 Time Left: 4 minutes
+20-04-20 23:19:29 Time Left: 3 minutes
+20-04-20 23:20:29 Time Left: 2 minutes
+20-04-20 23:21:29 Time Left: 1 minutes
+20-04-20 23:22:29 Next map: Lobby
+20-04-20 23:22:35 Lothic - Gothic Lobby Room
+20-04-20 23:23:25 186.78.11.166:23073|662A63AC534 requesting game...
+20-04-20 23:27:35 Time Left: 5 minutes
+20-04-20 23:28:35 Time Left: 4 minutes
+20-04-20 23:29:35 Time Left: 3 minutes
+20-04-20 23:30:35 Time Left: 2 minutes
+20-04-20 23:30:55 75.70.90.92:23073|6D2DA53C1B1 requesting game...
+20-04-20 23:31:35 Time Left: 1 minutes
+20-04-20 23:32:35 Next map: Lobby
+20-04-20 23:32:40 Lothic - Gothic Lobby Room
+20-04-20 23:34:14 189.44.126.22:23073|4A523D29ABA requesting game...
+20-04-20 23:37:40 Time Left: 5 minutes
+20-04-20 23:38:40 Time Left: 4 minutes
+20-04-20 23:39:40 Time Left: 3 minutes
+20-04-20 23:40:40 Time Left: 2 minutes
+20-04-20 23:41:40 Time Left: 1 minutes
+20-04-20 23:42:40 Next map: Lobby
+20-04-20 23:42:45 Lothic - Gothic Lobby Room
+20-04-20 23:47:45 Time Left: 5 minutes
+20-04-20 23:48:45 Time Left: 4 minutes
+20-04-20 23:49:45 Time Left: 3 minutes
+20-04-20 23:50:45 Time Left: 2 minutes
+20-04-20 23:51:45 Time Left: 1 minutes
+20-04-20 23:52:45 Next map: Lobby
+20-04-20 23:52:51 Lothic - Gothic Lobby Room
+20-04-20 23:57:50 Time Left: 5 minutes
+20-04-20 23:58:50 Time Left: 4 minutes
+20-04-20 23:59:50 Time Left: 3 minutes
+20-04-21 00:00:50 Time Left: 2 minutes
+20-04-21 00:01:50 Time Left: 1 minutes
+20-04-21 00:02:50 Next map: Lobby
+20-04-21 00:02:56 Lothic - Gothic Lobby Room
+20-04-21 00:07:56 Time Left: 5 minutes
+20-04-21 00:08:56 Time Left: 4 minutes
+20-04-21 00:09:56 Time Left: 3 minutes
+20-04-21 00:10:56 Time Left: 2 minutes
+20-04-21 00:11:56 Time Left: 1 minutes
+20-04-21 00:12:56 Next map: Lobby
+20-04-21 00:13:01 Lothic - Gothic Lobby Room
+20-04-21 00:14:45 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-21 00:14:46 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-21 00:14:46 .:{MIS}:. Leche has joined as spectator.
+20-04-21 00:14:47 .:{MIS}:. Leche has left spectators
+20-04-21 00:18:01 Time Left: 5 minutes
+20-04-21 00:19:01 Time Left: 4 minutes
+20-04-21 00:20:01 Time Left: 3 minutes
+20-04-21 00:21:01 Time Left: 2 minutes
+20-04-21 00:22:01 Time Left: 1 minutes
+20-04-21 00:23:01 Next map: Lobby
+20-04-21 00:23:06 Lothic - Gothic Lobby Room
+20-04-21 00:28:06 Time Left: 5 minutes
+20-04-21 00:29:06 Time Left: 4 minutes
+20-04-21 00:30:06 Time Left: 3 minutes
+20-04-21 00:31:06 Time Left: 2 minutes
+20-04-21 00:32:06 Time Left: 1 minutes
+20-04-21 00:33:06 Next map: Lobby
+20-04-21 00:33:12 Lothic - Gothic Lobby Room
+20-04-21 00:38:12 Time Left: 5 minutes
+20-04-21 00:39:12 Time Left: 4 minutes
+20-04-21 00:40:12 Time Left: 3 minutes
+20-04-21 00:41:12 Time Left: 2 minutes
+20-04-21 00:42:12 Time Left: 1 minutes
+20-04-21 00:43:12 Next map: Lobby
+20-04-21 00:43:17 Lothic - Gothic Lobby Room
+20-04-21 00:48:17 Time Left: 5 minutes
+20-04-21 00:49:17 Time Left: 4 minutes
+20-04-21 00:50:17 Time Left: 3 minutes
+20-04-21 00:51:17 Time Left: 2 minutes
+20-04-21 00:52:17 Time Left: 1 minutes
+20-04-21 00:53:17 Next map: Lobby
+20-04-21 00:53:22 Lothic - Gothic Lobby Room
+20-04-21 00:58:22 Time Left: 5 minutes
+20-04-21 00:59:22 Time Left: 4 minutes
+20-04-21 01:00:22 Time Left: 3 minutes
+20-04-21 01:01:22 Time Left: 2 minutes
+20-04-21 01:02:22 Time Left: 1 minutes
+20-04-21 01:03:22 Next map: Lobby
+20-04-21 01:03:28 Lothic - Gothic Lobby Room
+20-04-21 01:08:28 Time Left: 5 minutes
+20-04-21 01:09:28 Time Left: 4 minutes
+20-04-21 01:10:28 Time Left: 3 minutes
+20-04-21 01:11:28 Time Left: 2 minutes
+20-04-21 01:12:28 Time Left: 1 minutes
+20-04-21 01:13:28 Next map: Lobby
+20-04-21 01:13:33 Lothic - Gothic Lobby Room
+20-04-21 01:18:33 Time Left: 5 minutes
+20-04-21 01:19:33 Time Left: 4 minutes
+20-04-21 01:20:33 Time Left: 3 minutes
+20-04-21 01:21:33 Time Left: 2 minutes
+20-04-21 01:22:33 Time Left: 1 minutes
+20-04-21 01:23:33 Next map: Lobby
+20-04-21 01:23:38 Lothic - Gothic Lobby Room
+20-04-21 01:28:38 Time Left: 5 minutes
+20-04-21 01:29:38 Time Left: 4 minutes
+20-04-21 01:30:38 Time Left: 3 minutes
+20-04-21 01:31:38 Time Left: 2 minutes
+20-04-21 01:31:54 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 01:31:55 eX.- Necro joining game (201.214.236.103:23073) HWID:8007F30041B
+20-04-21 01:31:55 eX.- Necro has joined as spectator.
+20-04-21 01:32:09 186.143.138.47:45695|14189A02D27 requesting game...
+20-04-21 01:32:09 186.143.138.47:45695|14189A02D27 requesting game...
+20-04-21 01:32:10 Divas| Rattle joining game (186.143.138.47:45695) HWID:14189A02D27
+20-04-21 01:32:10 Divas| Rattle has joined alpha team.
+20-04-21 01:32:16 eX.- Necro has joined bravo team.
+20-04-21 01:32:25 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 01:32:27 Sobalaprieta joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 01:32:27 Sobalaprieta has joined alpha team.
+20-04-21 01:32:30 181.73.83.189:23073|78D171A7803 requesting game...
+20-04-21 01:32:31 Sobalaprieta has joined bravo team.
+20-04-21 01:32:32 eX.- J4zz joining game (181.73.83.189:23073) HWID:78D171A7803
+20-04-21 01:32:32 eX.- J4zz has joined bravo team.
+20-04-21 01:32:35 Sobalaprieta has left bravo team.
+20-04-21 01:32:38 Time Left: 1 minutes
+20-04-21 01:32:49 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 01:32:50 eX.- PerfectHack joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 01:32:50 eX.- PerfectHack has joined bravo team.
+20-04-21 01:33:00 [eX.- J4zz] !map spark
+20-04-21 01:33:05 Spark - By Vauat
+20-04-21 01:33:16 eX.- J4zz captured the Red Flag
+20-04-21 01:33:18 (1) Divas| Rattle killed (2) eX.- J4zz with Combat Knife
+20-04-21 01:33:18 (2) eX.- J4zz killed (1) Divas| Rattle with Steyr AUG
+20-04-21 01:33:22 eX.- PerfectHack captured the Red Flag
+20-04-21 01:33:29 (2) eX.- J4zz killed (1) Divas| Rattle with Steyr AUG
+20-04-21 01:33:29 eX.- PerfectHack scores for Bravo Team
+20-04-21 01:33:30 eX.- J4zz captured the Red Flag
+20-04-21 01:33:36 eX.- J4zz scores for Bravo Team
+20-04-21 01:33:38 (2) eX.- PerfectHack killed (1) Divas| Rattle with Grenade
+20-04-21 01:33:38 eX.- PerfectHack captured the Red Flag
+20-04-21 01:33:47 (2) eX.- J4zz killed (1) Divas| Rattle with Steyr AUG
+20-04-21 01:33:51 [Divas| Rattle] !b
+20-04-21 01:33:51 Divas| Rattle has joined bravo team.
+20-04-21 01:33:55 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 01:33:55 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 01:33:55 Divas| mipHo joining game (201.239.101.160:17208) HWID:1F7342C1D76
+20-04-21 01:33:55 Divas| mipHo has joined bravo team.
+20-04-21 01:34:03 [Divas| Rattle] ban?
+20-04-21 01:34:08 [eX.- J4zz] espera
+20-04-21 01:34:11 [eX.- J4zz] estamos decidiendo
+20-04-21 01:34:12 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:34:14 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 01:34:15 =E*R= Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-21 01:34:15 =E*R= Skipo has joined as spectator.
+20-04-21 01:34:15 [Divas| Rattle] son alpa
+20-04-21 01:34:17 [eX.- J4zz] !a
+20-04-21 01:34:17 eX.- J4zz has joined alpha team.
+20-04-21 01:34:19 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 01:34:21 Ox* Chaky//<3K joining game (179.9.75.127:23073) HWID:13D999B5D31
+20-04-21 01:34:21 Ox* Chaky//<3K has joined as spectator.
+20-04-21 01:34:22 190.160.17.164:23073|1BA771C4D6D requesting game...
+20-04-21 01:34:23 (1) eX.- J4zz killed (2) eX.- Necro with LAW
+20-04-21 01:34:24 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:34:31 (2) eX.- PerfectHack killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:34:33 [eX.- PerfectHack] !a
+20-04-21 01:34:33 eX.- PerfectHack has joined alpha team.
+20-04-21 01:34:35 eX.- PerfectHack returned the Red Flag
+20-04-21 01:34:37 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:34:39 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:34:43 (1) eX.- PerfectHack killed (2) eX.- Necro with Steyr AUG
+20-04-21 01:34:44 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:34:45 (2) Divas| Rattle killed (1) eX.- PerfectHack with Ak-74
+20-04-21 01:34:48 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:34:50 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:34:52 (1) eX.- PerfectHack killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:34:53 190.246.188.161:23073|56BCC7F38AE requesting game...
+20-04-21 01:34:54 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:34:58 (1) eX.- PerfectHack killed (2) Divas| Rattle with Grenade
+20-04-21 01:35:00 eX.- PerfectHack captured the Blue Flag
+20-04-21 01:35:01 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:35:04 (1) eX.- PerfectHack killed (2) eX.- Necro with Steyr AUG
+20-04-21 01:35:08 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:35:16 Divas| mipHo captured the Red Flag
+20-04-21 01:35:16 (1) eX.- PerfectHack killed (2) eX.- Necro with Steyr AUG
+20-04-21 01:35:17 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:35:17 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-21 01:35:17 (1) eX.- PerfectHack killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:35:21 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:35:21 (1) eX.- PerfectHack killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:35:21 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-21 01:35:22 eX.- PerfectHack returned the Red Flag
+20-04-21 01:35:24 #KbN! Shaka Ohma joining game (190.160.115.174:23073) HWID:5FD3AE3E9B6
+20-04-21 01:35:24 #KbN! Shaka Ohma has joined as spectator.
+20-04-21 01:35:26 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:35:30 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:30 (2) Divas| Rattle killed (1) eX.- PerfectHack with Ak-74
+20-04-21 01:35:30 (1) eX.- PerfectHack killed (2) Divas| Rattle with Grenade
+20-04-21 01:35:31 (1) eX.- J4zz killed (2) eX.- Necro with Steyr AUG
+20-04-21 01:35:32 Divas| mipHo captured the Red Flag
+20-04-21 01:35:33 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:36 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:38 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:39 (2) Divas| Rattle killed (1) eX.- PerfectHack with Ak-74
+20-04-21 01:35:40 (2) Divas| mipHo killed (1) eX.- J4zz with LAW
+20-04-21 01:35:40 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:35:42 Divas| Rattle captured the Red Flag
+20-04-21 01:35:44 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:35:46 (1) eX.- PerfectHack killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:35:48 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:35:49 (1) eX.- PerfectHack killed (2) eX.- Necro with Grenade
+20-04-21 01:35:49 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:35:50 eX.- PerfectHack returned the Red Flag
+20-04-21 01:35:50 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:51 Divas| Rattle returned the Blue Flag
+20-04-21 01:35:53 (2) Divas| Rattle killed (1) eX.- J4zz with Grenade
+20-04-21 01:35:54 eX.- PerfectHack captured the Blue Flag
+20-04-21 01:35:58 190.163.74.183:23073|2DB4942E415 requesting game...
+20-04-21 01:35:59 Divas| mipHo captured the Red Flag
+20-04-21 01:36:02 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 01:36:02 (1) eX.- PerfectHack killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:36:06 [eX.- Necro] !a
+20-04-21 01:36:06 eX.- Necro has joined alpha team.
+20-04-21 01:36:07 [eX.- J4zz] baneamos icebeam
+20-04-21 01:36:09 [=E*R= Skipo] podrian decir bans
+20-04-21 01:36:10 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:36:11 (2) Divas| Rattle killed (1) eX.- J4zz with M79
+20-04-21 01:36:15 (2) Divas| Rattle killed (1) eX.- PerfectHack with M79
+20-04-21 01:36:18 (1) eX.- J4zz killed (2) Divas| Rattle with LAW
+20-04-21 01:36:20 eX.- J4zz captured the Blue Flag
+20-04-21 01:36:21 Divas| mipHo captured the Red Flag
+20-04-21 01:36:22 eX.- J4zz captured the Blue Flag
+20-04-21 01:36:22 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:36:26 [eX.- PerfectHack] ellos banearon hormone creo
+20-04-21 01:36:26 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:36:27 Divas| mipHo returned the Blue Flag
+20-04-21 01:36:29 (2) Divas| Rattle killed (1) eX.- PerfectHack with Barrett M82A1
+20-04-21 01:36:29 Divas| mipHo captured the Red Flag
+20-04-21 01:36:30 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:36:31 [eX.- PerfectHack] si me pudieran confirmar
+20-04-21 01:36:31 [Divas| Rattle] baneamos cobra
+20-04-21 01:36:33 [eX.- PerfectHack] seria pulento
+20-04-21 01:36:33 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:36:33 Divas| mipHo scores for Bravo Team
+20-04-21 01:36:34 (2) Divas| Rattle killed (1) eX.- PerfectHack with Barrett M82A1
+20-04-21 01:36:34 [eX.- PerfectHack] esos
+20-04-21 01:36:38 Divas| mipHo returned the Blue Flag
+20-04-21 01:36:39 [eX.- PerfectHack] viste
+20-04-21 01:36:41 [eX.- PerfectHack] hormone
+20-04-21 01:36:41 [eX.- PerfectHack] :D
+20-04-21 01:36:42 (2) Divas| Rattle killed (1) eX.- PerfectHack with Barrett M82A1
+20-04-21 01:36:44 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:36:46 [=E*R= Skipo] PICKS
+20-04-21 01:36:46 Divas| mipHo captured the Red Flag
+20-04-21 01:36:48 (2) Divas| Rattle killed (1) eX.- J4zz with Barrett M82A1
+20-04-21 01:36:48 (1) eX.- PerfectHack killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:36:54 (2) Divas| mipHo killed (1) eX.- PerfectHack with Spas-12
+20-04-21 01:36:54 Divas| mipHo scores for Bravo Team
+20-04-21 01:36:54 [Divas| Rattle] que mapa van a pikear
+20-04-21 01:36:57 (2) Divas| Rattle killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:37:02 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:07 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:08 (1) eX.- PerfectHack killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:37:11 (2) Divas| Rattle killed (1) eX.- PerfectHack with Grenade
+20-04-21 01:37:14 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:37:20 Divas| mipHo captured the Red Flag
+20-04-21 01:37:20 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:37:22 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:23 eX.- PerfectHack captured the Blue Flag
+20-04-21 01:37:24 (1) eX.- PerfectHack killed (2) Divas| Rattle with Grenade
+20-04-21 01:37:24 (2) Divas| Rattle killed (1) eX.- PerfectHack with Combat Knife
+20-04-21 01:37:24 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:25 Divas| mipHo returned the Blue Flag
+20-04-21 01:37:26 Divas| mipHo scores for Bravo Team
+20-04-21 01:37:27 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:31 [eX.- PerfectHack] nosotros pickeamos scorpion
+20-04-21 01:37:35 (2) Divas| mipHo killed (1) eX.- PerfectHack with Spas-12
+20-04-21 01:37:35 Divas| Rattle captured the Red Flag
+20-04-21 01:37:37 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:37:37 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:37:37 (2) Divas| mipHo killed (1) eX.- J4zz with Grenade
+20-04-21 01:37:38 [eX.- PerfectHack] voce?
+20-04-21 01:37:39 Divas| mipHo captured the Red Flag
+20-04-21 01:37:40 (1) eX.- PerfectHack killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:37:44 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:44 (2) Divas| Rattle killed (1) eX.- PerfectHack with Spas-12
+20-04-21 01:37:44 (1) eX.- PerfectHack killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:37:47 Divas| mipHo captured the Red Flag
+20-04-21 01:37:47 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:37:49 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:54 Divas| mipHo captured the Red Flag
+20-04-21 01:37:55 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:37:57 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:37:58 (1) eX.- PerfectHack killed (2) Divas| Rattle with Combat Knife
+20-04-21 01:38:01 [eX.- J4zz] !map scorpion
+20-04-21 01:38:03 [eX.- PerfectHack] yustedes?
+20-04-21 01:38:05 Time Left: 5 minutes
+20-04-21 01:38:06 [=E*R= Skipo] MAPA DE DIVAS?
+20-04-21 01:38:07 Temple of Scorpion by Zakath
+20-04-21 01:38:09 [eX.- PerfectHack] ustedeSque mapa?!
+20-04-21 01:38:18 [eX.- PerfectHack] skipo  no hay problema con mi nombre?
+20-04-21 01:38:19 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:38:21 [=E*R= Skipo] si
+20-04-21 01:38:23 [=E*R= Skipo] cambiatelo
+20-04-21 01:38:25 (2) Divas| Rattle killed (1) eX.- Necro with HK MP5
+20-04-21 01:38:25 [eX.- PerfectHack] :(
+20-04-21 01:38:25 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:38:34 eX.- PerfectHack has left alpha team.
+20-04-21 01:38:35 (2) Divas| mipHo killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:38:40 Divas| Rattle captured the Red Flag
+20-04-21 01:38:42 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 01:38:43 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:38:43 (2) Divas| mipHo killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:38:43 eX.- PerfectDark joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 01:38:43 eX.- PerfectDark has joined alpha team.
+20-04-21 01:38:46 (2) Divas| mipHo killed (1) eX.- PerfectDark with LAW
+20-04-21 01:38:50 (1) eX.- J4zz killed (2) Divas| mipHo with Ak-74
+20-04-21 01:38:53 Divas| Rattle captured the Red Flag
+20-04-21 01:38:53 (2) Divas| Rattle killed (1) eX.- J4zz with Combat Knife
+20-04-21 01:38:59 Divas| mipHo returned the Blue Flag
+20-04-21 01:39:00 Divas| mipHo returned the Blue Flag
+20-04-21 01:39:01 Divas| mipHo returned the Blue Flag
+20-04-21 01:39:03 Divas| mipHo returned the Blue Flag
+20-04-21 01:39:03 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:39:03 [eX.- PerfectDark] igual yo soy el gordo mas rico de soldat ;)
+20-04-21 01:39:03 Divas| Rattle scores for Bravo Team
+20-04-21 01:39:06 eX.- PerfectDark returned the Red Flag
+20-04-21 01:39:06 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:39:08 (2) Divas| Rattle killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:39:09 [eX.- Necro] y el negro
+20-04-21 01:39:11 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ruger 77
+20-04-21 01:39:14 (1) eX.- J4zz killed (2) Divas| mipHo with Ak-74
+20-04-21 01:39:14 [eX.- Necro] y el mapa divas?
+20-04-21 01:39:18 (2) Divas| Rattle killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:39:18 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ruger 77
+20-04-21 01:39:23 (2) Divas| mipHo killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:39:24 [=E*R= Skipo] donde esta el mapa de la mente maestra de rattle
+20-04-21 01:39:25 (1) eX.- PerfectDark killed (2) Divas| mipHo with Ruger 77
+20-04-21 01:39:28 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ruger 77
+20-04-21 01:39:29 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:39:29 [eX.- Necro] tirense dd
+20-04-21 01:39:30 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:39:38 [eX.- Necro] o triumph
+20-04-21 01:39:42 [eX.- Necro] horror
+20-04-21 01:39:44 eX.- PerfectDark scores for Alpha Team
+20-04-21 01:39:44 [eX.- Necro] buenos picks
+20-04-21 01:39:49 [eX.- PerfectDark] amnesia xxd
+20-04-21 01:39:50 (2) Divas| mipHo killed (1) eX.- Necro with Ruger 77
+20-04-21 01:39:52 (2) Divas| mipHo killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:39:53 Divas| mipHo captured the Red Flag
+20-04-21 01:39:56 (1) eX.- J4zz killed (2) Divas| mipHo with Ak-74
+20-04-21 01:39:56 eX.- J4zz returned the Red Flag
+20-04-21 01:39:59 eX.- PerfectDark returned the Red Flag
+20-04-21 01:40:03 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ruger 77
+20-04-21 01:40:13 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:40:13 (2) Divas| Rattle killed (1) eX.- Necro with Combat Knife
+20-04-21 01:40:15 184.56.178.128:23073|1C026A71B5C requesting game...
+20-04-21 01:40:16 (2) Divas| Rattle killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:40:22 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:40:25 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:40:28 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:40:28 (2) Divas| Rattle killed (1) eX.- Necro with Combat Knife
+20-04-21 01:40:30 (1) eX.- PerfectDark killed (2) Divas| mipHo with Ruger 77
+20-04-21 01:40:30 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:40:33 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:40:34 eX.- PerfectDark returned the Red Flag
+20-04-21 01:40:36 (1) eX.- Necro killed (2) Divas| Rattle with Spas-12
+20-04-21 01:40:36 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:40:40 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:40:40 eX.- PerfectDark scores for Alpha Team
+20-04-21 01:40:42 (2) Divas| Rattle killed (1) eX.- Necro with Combat Knife
+20-04-21 01:40:45 (2) Divas| mipHo killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:40:47 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 01:40:49 Divas| Sk8' joining game (152.173.46.208:23073) HWID:604C8DA500F
+20-04-21 01:40:49 Divas| Sk8' has joined bravo team.
+20-04-21 01:40:52 [eX.- PerfectDark] yapo wn
+20-04-21 01:40:53 [Divas| Rattle] dropdown
+20-04-21 01:40:55 [eX.- PerfectDark] si no tenemos todo el dia
+20-04-21 01:40:56 Divas| Rattle captured the Red Flag
+20-04-21 01:40:59 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:41:01 (1) eX.- Necro killed (2) Divas| mipHo with Spas-12
+20-04-21 01:41:01 [Divas| Sk8'] andate po culiao
+20-04-21 01:41:02 [Divas| Sk8'] t meo
+20-04-21 01:41:04 [Divas| mipHo] perdon sr ocupado
+20-04-21 01:41:07 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:41:11 [eX.- PerfectDark] 1Z1 L4RB4! 
+20-04-21 01:41:12 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:41:12 [Divas| Sk8'] me estaba comiendo a tu mama
+20-04-21 01:41:13 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:41:13 (2) Divas| mipHo killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:41:15 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:41:15 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:41:17 [eX.- Necro] UUUUHHH
+20-04-21 01:41:22 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:41:25 [eX.- PerfectDark] lavate el hocico entonce
+20-04-21 01:41:27 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:41:27 [eX.- J4zz] con mi mamita no conchetumare
+20-04-21 01:41:29 [eX.- PerfectDark] la vieja qla tiene alitosis
+20-04-21 01:41:29 [Divas| Sk8'] ya
+20-04-21 01:41:31 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:41:34 [Divas| Sk8'] k asco
+20-04-21 01:41:34 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ruger 77
+20-04-21 01:41:34 (2) Divas| Rattle killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:41:36 [eX.- Necro] JAJAJJA
+20-04-21 01:41:37 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:41:39 (1) eX.- Necro killed (2) Divas| mipHo with Spas-12
+20-04-21 01:41:39 (2) Divas| mipHo killed (1) eX.- Necro with Ruger 77
+20-04-21 01:41:39 [eX.- J4zz] !r
+20-04-21 01:41:39 Reiniciando...
+20-04-21 01:41:41 [eX.- Necro] gogog
+20-04-21 01:41:41 [eX.- J4zz] gogogogo
+20-04-21 01:41:45 Temple of Scorpion by Zakath
+20-04-21 01:41:48 [eX.- PerfectDark] !R
+20-04-21 01:41:48 Reiniciando...
+20-04-21 01:41:48 [eX.- Necro] !r
+20-04-21 01:41:48 Reiniciando...
+20-04-21 01:41:49 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:41:49 [eX.- PerfectDark] sorry t:D
+20-04-21 01:41:54 Temple of Scorpion by Zakath
+20-04-21 01:41:56 [Divas| Rattle] !r
+20-04-21 01:41:56 Reiniciando...
+20-04-21 01:42:00 [eX.- PerfectDark] OYE OYE OYE
+20-04-21 01:42:00 [eX.- Necro] clásico
+20-04-21 01:42:02 Temple of Scorpion by Zakath
+20-04-21 01:42:08 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:42:10 187.39.122.67:61853|123FF6BA930 requesting game...
+20-04-21 01:42:10 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:42:14 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:42:18 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:42:19 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:42:20 (1) eX.- Necro killed (2) Divas| mipHo with LAW
+20-04-21 01:42:23 (1) eX.- Necro killed (2) Divas| Sk8' with FN Minimi
+20-04-21 01:42:24 eX.- Necro returned the Red Flag
+20-04-21 01:42:24 eX.- PerfectDark scores for Alpha Team
+20-04-21 01:42:24 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:42:32 (2) Divas| Sk8' killed (1) eX.- PerfectDark with FN Minimi
+20-04-21 01:42:34 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:42:35 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:42:36 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:42:38 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:42:38 Divas| Rattle captured the Red Flag
+20-04-21 01:42:40 (2) Divas| Rattle killed (1) eX.- J4zz with Combat Knife
+20-04-21 01:42:41 (1) eX.- Necro killed (2) Divas| Rattle with Grenade
+20-04-21 01:42:44 eX.- PerfectDark returned the Red Flag
+20-04-21 01:42:45 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:42:46 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:42:47 (1) eX.- J4zz killed (2) Divas| Sk8' with LAW
+20-04-21 01:42:50 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 01:42:55 (2) Divas| Sk8' killed (1) eX.- J4zz with LAW
+20-04-21 01:42:57 (2) Divas| Sk8' killed (1) eX.- PerfectDark with FN Minimi
+20-04-21 01:42:58 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:42:58 (1) eX.- Necro killed (2) Divas| mipHo with Grenade
+20-04-21 01:43:03 (2) Divas| Sk8' killed (1) eX.- J4zz with FN Minimi
+20-04-21 01:43:03 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:43:05 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:43:06 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 01:43:07 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-04-21 01:43:07 Divas| Enigma has joined as spectator.
+20-04-21 01:43:10 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:43:12 [eX.- Necro] ufff
+20-04-21 01:43:12 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:43:13 (2) Divas| Sk8' killed (1) eX.- PerfectDark with FN Minimi
+20-04-21 01:43:17 (2) Divas| Rattle killed (1) eX.- Necro with Combat Knife
+20-04-21 01:43:18 (2) Divas| Sk8' killed (1) eX.- J4zz with FN Minimi
+20-04-21 01:43:18 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:43:20 [eX.- Necro] Come'on!
+20-04-21 01:43:22 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:43:24 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:43:26 (2) Divas| Sk8' killed (1) eX.- PerfectDark with LAW
+20-04-21 01:43:26 71.197.34.111:23073|19D0615A406 requesting game...
+20-04-21 01:43:29 (1) eX.- Necro killed (2) Divas| Rattle with Barrett M82A1
+20-04-21 01:43:30 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:43:31 eX.- Necro captured the Blue Flag
+20-04-21 01:43:32 eX.- PerfectDark returned the Red Flag
+20-04-21 01:43:32 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:43:36 Divas| mipHo returned the Blue Flag
+20-04-21 01:43:37 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:43:37 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:43:43 (2) Divas| Sk8' killed (1) eX.- J4zz with FN Minimi
+20-04-21 01:43:43 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:43:45 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:43:48 (1) eX.- PerfectDark killed (2) Divas| mipHo with LAW
+20-04-21 01:43:48 (2) Divas| Rattle killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:43:49 (2) Divas| Rattle killed (1) eX.- J4zz with Combat Knife
+20-04-21 01:43:56 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:43:57 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:43:59 (2) Divas| Sk8' killed (1) eX.- J4zz with LAW
+20-04-21 01:43:59 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:44:02 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:44:07 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:44:09 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:44:10 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:44:11 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:44:13 Divas| mipHo captured the Red Flag
+20-04-21 01:44:14 #KbN! Shaka Ohma gets a ping warning
+20-04-21 01:44:17 Divas| Rattle returned the Blue Flag
+20-04-21 01:44:18 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:44:21 (2) Divas| Sk8' killed (1) eX.- PerfectDark with LAW
+20-04-21 01:44:23 Divas| mipHo scores for Bravo Team
+20-04-21 01:44:27 eX.- Necro captured the Blue Flag
+20-04-21 01:44:31 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:44:31 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:44:32 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:44:34 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:44:39 eX.- J4zz returned the Red Flag
+20-04-21 01:44:39 eX.- Necro scores for Alpha Team
+20-04-21 01:44:40 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Grenade
+20-04-21 01:44:45 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:44:46 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:44:50 73.82.59.221:23073|61C44E03D31 requesting game...
+20-04-21 01:44:51 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:44:52 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:44:54 Divas| Rattle returned the Blue Flag
+20-04-21 01:44:55 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:44:56 #KbN! Shaka Ohma gets a ping warning
+20-04-21 01:44:56 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:44:58 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:45:00 (2) Divas| Sk8' killed (1) eX.- J4zz with LAW
+20-04-21 01:45:03 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:45:05 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:45:05 (2) Divas| Rattle killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:45:08 (2) Divas| Rattle killed (1) eX.- J4zz with Grenade
+20-04-21 01:45:08 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:45:10 eX.- Necro captured the Blue Flag
+20-04-21 01:45:10 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:45:13 (2) Divas| Sk8' killed (1) eX.- PerfectDark with LAW
+20-04-21 01:45:14 eX.- J4zz returned the Red Flag
+20-04-21 01:45:18 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:45:19 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:45:20 eX.- Necro scores for Alpha Team
+20-04-21 01:45:21 211.27.81.174:51791|50312FF1F1F requesting game...
+20-04-21 01:45:23 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:45:23 Divas| mipHo captured the Red Flag
+20-04-21 01:45:24 (1) eX.- PerfectDark killed (2) Divas| mipHo with LAW
+20-04-21 01:45:27 191.177.183.225:27817|4A33DE333C9 requesting game...
+20-04-21 01:45:27 eX.- Necro returned the Red Flag
+20-04-21 01:45:28 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:45:29 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:45:38 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:45:39 (1) eX.- Necro killed (2) Divas| mipHo with Grenade
+20-04-21 01:45:44 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:45:45 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:45:50 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:45:52 (1) eX.- J4zz killed (2) Divas| Sk8' with LAW
+20-04-21 01:45:55 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:45:56 (2) Divas| Rattle killed (1) eX.- PerfectDark with Combat Knife
+20-04-21 01:45:59 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:46:02 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:46:04 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:46:07 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:46:07 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:46:09 Divas| mipHo captured the Red Flag
+20-04-21 01:46:09 (1) eX.- J4zz killed (2) Divas| mipHo with Ak-74
+20-04-21 01:46:12 (1) eX.- J4zz killed (2) Divas| Rattle with LAW
+20-04-21 01:46:14 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:46:16 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:46:19 Divas| Rattle returned the Blue Flag
+20-04-21 01:46:20 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:46:21 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:46:22 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:46:25 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:46:26 eX.- J4zz returned the Red Flag
+20-04-21 01:46:29 eX.- PerfectDark returned the Red Flag
+20-04-21 01:46:33 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:46:33 190.211.167.106:23073|1496BAEC585 requesting game...
+20-04-21 01:46:34 Divas| Rattle returned the Blue Flag
+20-04-21 01:46:35 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:46:38 (1) eX.- J4zz killed (2) Divas| mipHo with LAW
+20-04-21 01:46:41 #KbN! Shaka Ohma gets a ping warning
+20-04-21 01:46:41 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:46:45 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:46:46 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:46:46 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:46:50 190.211.167.106:23073|1496BAEC585 requesting game...
+20-04-21 01:46:51 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:46:52 eX.- J4zz returned the Red Flag
+20-04-21 01:46:53 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+20-04-21 01:46:53 VanscL has joined as spectator.
+20-04-21 01:46:55 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:47:00 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:47:01 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:47:02 Time Left: 5 minutes
+20-04-21 01:47:03 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:47:05 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:47:08 Divas| Rattle returned the Blue Flag
+20-04-21 01:47:10 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:47:11 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:47:12 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:47:14 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:47:15 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:47:20 eX.- PerfectDark returned the Red Flag
+20-04-21 01:47:23 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:47:23 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:47:24 212.154.0.156:1063|44C06DB51DA requesting game...
+20-04-21 01:47:27 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:47:28 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:47:30 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:47:33 (1) eX.- Necro killed (2) Divas| mipHo with Grenade
+20-04-21 01:47:35 eX.- J4zz returned the Red Flag
+20-04-21 01:47:37 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:47:40 24.129.19.27:23073|E1F335B1071 requesting game...
+20-04-21 01:47:41 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:47:43 24.129.19.27:23073|E1F335B1071 requesting game...
+20-04-21 01:47:44 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:47:45 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:47:48 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:47:51 Divas| mipHo captured the Red Flag
+20-04-21 01:47:53 (2) Divas| mipHo killed (1) eX.- PerfectDark with LAW
+20-04-21 01:47:57 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:48:00 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:48:02 Time Left: 4 minutes
+20-04-21 01:48:02 eX.- Necro captured the Blue Flag
+20-04-21 01:48:04 171.115.111.136:20737|1635FD21609 requesting game...
+20-04-21 01:48:04 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:48:06 171.115.111.136:20737|1635FD21609 requesting game...
+20-04-21 01:48:08 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:48:09 171.115.111.136:20737|1635FD21609 requesting game...
+20-04-21 01:48:14 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:48:14 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:48:17 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:48:22 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:48:23 Divas| mipHo scores for Bravo Team
+20-04-21 01:48:23 (TEAM)[Divas| Rattle] Enemy Incoming MID
+20-04-21 01:48:23 (TEAM)[Divas| Rattle] Enemy Incoming MID
+20-04-21 01:48:24 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:48:25 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:48:28 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:48:32 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:48:35 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:48:37 (2) Divas| mipHo killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:48:38 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:48:39 Divas| mipHo captured the Red Flag
+20-04-21 01:48:45 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:48:45 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:48:52 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 01:48:57 (2) Divas| mipHo killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:48:59 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:49:02 Time Left: 3 minutes
+20-04-21 01:49:03 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:49:05 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:49:09 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:49:12 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 01:49:15 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:49:20 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:49:22 eX.- Necro returned the Red Flag
+20-04-21 01:49:23 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:49:25 Divas| Rattle captured the Red Flag
+20-04-21 01:49:26 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:49:29 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:49:30 (1) eX.- PerfectDark killed (2) Divas| Rattle with Ak-74
+20-04-21 01:49:30 (2) Divas| Sk8' killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:49:34 eX.- J4zz captured the Blue Flag
+20-04-21 01:49:37 eX.- Necro returned the Red Flag
+20-04-21 01:49:38 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:49:39 eX.- Necro returned the Red Flag
+20-04-21 01:49:40 (2) Divas| mipHo killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:49:40 eX.- Necro returned the Red Flag
+20-04-21 01:49:41 (2) Divas| Rattle killed (1) eX.- Necro with Grenade
+20-04-21 01:49:41 [eX.- PerfectDark] Yes, Sir!
+20-04-21 01:49:43 Divas| Rattle captured the Red Flag
+20-04-21 01:49:46 (2) Divas| Sk8' killed (1) eX.- J4zz with LAW
+20-04-21 01:49:49 (1) eX.- Necro killed (2) Divas| mipHo with USSOCOM
+20-04-21 01:49:50 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:49:54 171.115.111.136:20737|1635FD21609 requesting game...
+20-04-21 01:49:57 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:50:01 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:50:02 Time Left: 2 minutes
+20-04-21 01:50:06 (2) Divas| Sk8' killed (1) eX.- J4zz with LAW
+20-04-21 01:50:13 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:50:13 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:50:20 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:50:24 (1) eX.- J4zz killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:50:29 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:50:33 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:50:37 (1) eX.- Necro killed (2) Divas| mipHo with USSOCOM
+20-04-21 01:50:41 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Ak-74
+20-04-21 01:50:48 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:50:50 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:50:54 (1) eX.- Necro killed (2) Divas| mipHo with USSOCOM
+20-04-21 01:50:55 24.7.69.99:23073|754E3BB6E66 requesting game...
+20-04-21 01:50:56 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:50:57 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:50:57 Divas| Sk8' returned the Blue Flag
+20-04-21 01:50:59 (1) eX.- Necro killed (2) Divas| Sk8' with USSOCOM
+20-04-21 01:51:00 Divas| Rattle captured the Red Flag
+20-04-21 01:51:02 Time Left: 1 minutes
+20-04-21 01:51:04 Divas| Rattle scores for Bravo Team
+20-04-21 01:51:06 (1) eX.- Necro killed (2) Divas| Sk8' with Barrett M82A1
+20-04-21 01:51:06 (2) Divas| Sk8' killed (1) eX.- Necro with LAW
+20-04-21 01:51:09 (1) eX.- PerfectDark killed (2) Divas| Rattle with LAW
+20-04-21 01:51:12 (2) Divas| mipHo killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:51:14 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:51:15 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:51:15 [VanscL] gg
+20-04-21 01:51:16 (TEAM)[eX.- PerfectDark] INC MID!*
+20-04-21 01:51:20 eX.- Necro captured the Blue Flag
+20-04-21 01:51:20 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:51:22 (1) eX.- J4zz killed (2) Divas| Sk8' with LAW
+20-04-21 01:51:22 Divas| mipHo returned the Blue Flag
+20-04-21 01:51:25 eX.- PerfectDark returned the Red Flag
+20-04-21 01:51:26 (1) eX.- J4zz killed (2) Divas| Rattle with Ak-74
+20-04-21 01:51:28 (TEAM)[Divas| Rattle] Enemy Incoming MID
+20-04-21 01:51:29 (2) Divas| Sk8' killed (1) eX.- PerfectDark with LAW
+20-04-21 01:51:31 Divas| Sk8' returned the Blue Flag
+20-04-21 01:51:33 (1) eX.- J4zz killed (2) Divas| Sk8' with Grenade
+20-04-21 01:51:39 190.246.188.161:23073|56BCC7F38AE requesting game...
+20-04-21 01:51:39 Divas| Rattle returned the Blue Flag
+20-04-21 01:51:42 (1) eX.- Necro killed (2) Divas| Rattle with USSOCOM
+20-04-21 01:51:42 Divas| Sk8' returned the Blue Flag
+20-04-21 01:51:43 (2) Divas| Sk8' killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:51:45 (2) Divas| Sk8' killed (1) eX.- PerfectDark with LAW
+20-04-21 01:51:47 eX.- J4zz returned the Red Flag
+20-04-21 01:51:50 eX.- J4zz returned the Red Flag
+20-04-21 01:51:51 (1) eX.- Necro killed (2) Divas| mipHo with Barrett M82A1
+20-04-21 01:51:52 eX.- J4zz returned the Red Flag
+20-04-21 01:51:52 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:51:52 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:51:54 eX.- PerfectDark returned the Red Flag
+20-04-21 01:51:57 Divas| Rattle returned the Blue Flag
+20-04-21 01:51:58 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:51:59 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:52:01 [eX.- Necro] gg
+20-04-21 01:52:02 Next map: Lobby
+20-04-21 01:52:05 [eX.- Necro] izi sk8
+20-04-21 01:52:07 Lothic - Gothic Lobby Room
+20-04-21 01:52:08 [eX.- PerfectDark] 1Z1 L4RB4! 
+20-04-21 01:52:09 [Divas| Sk8'] rica law
+20-04-21 01:52:10 181.44.62.203:45137|655D481E10E requesting game...
+20-04-21 01:52:11 [Divas| Sk8'] a la flag
+20-04-21 01:52:13 181.44.62.203:45137|655D481E10E requesting game...
+20-04-21 01:52:17 [Divas| Rattle] !map dropdown
+20-04-21 01:52:17 181.44.62.203:45137|655D481E10E requesting game...
+20-04-21 01:52:22 ctf_Dropdown2 by Boxo (WPs by KC)
+20-04-21 01:52:29 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:52:29 [Divas| mipHo] !r
+20-04-21 01:52:29 Reiniciando...
+20-04-21 01:52:30 181.44.62.203:45137|655D481E10E requesting game...
+20-04-21 01:52:31 [VanscL] ywena los tatitas jaja
+20-04-21 01:52:34 [eX.- Necro] oye
+20-04-21 01:52:35 ctf_Dropdown2 by Boxo (WPs by KC)
+20-04-21 01:52:37 [eX.- Necro] los specs callaos si
+20-04-21 01:52:40 (1) eX.- PerfectDark killed (2) Divas| Sk8' with LAW
+20-04-21 01:52:42 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:52:43 181.44.62.203:45137|655D481E10E requesting game...
+20-04-21 01:52:43 [eX.- Necro] ya?
+20-04-21 01:52:44 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:52:45 (2) Divas| Rattle killed (1) eX.- Necro with Grenade
+20-04-21 01:52:48 Divas| Rattle captured the Red Flag
+20-04-21 01:52:49 [eX.- Necro] !r
+20-04-21 01:52:49 Reiniciando...
+20-04-21 01:52:50 [Divas| Rattle] ya
+20-04-21 01:52:52 [Divas| Rattle] gl hf
+20-04-21 01:52:53 (TEAM)[=E*R= Skipo] Vans una mas o te saco
+20-04-21 01:52:54 ctf_Dropdown2 by Boxo (WPs by KC)
+20-04-21 01:53:01 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:53:03 (1) eX.- Necro killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:53:04 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:53:05 Divas| Rattle captured the Red Flag
+20-04-21 01:53:05 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:53:07 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:53:07 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:53:08 [VanscL] ok
+20-04-21 01:53:10 eX.- J4zz returned the Red Flag
+20-04-21 01:53:11 eX.- J4zz captured the Blue Flag
+20-04-21 01:53:12 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:53:14 eX.- J4zz scores for Alpha Team
+20-04-21 01:53:19 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:53:20 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:53:21 (1) eX.- Necro killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:53:28 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:53:31 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:53:38 (1) eX.- PerfectDark killed (2) Divas| Sk8' with LAW
+20-04-21 01:53:41 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:53:42 (1) eX.- Necro killed (2) Divas| mipHo with Grenade
+20-04-21 01:53:43 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:53:45 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:53:45 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:53:52 eX.- PerfectDark scores for Alpha Team
+20-04-21 01:53:52 180.152.16.4:23073|7DD909D6FF9 requesting game...
+20-04-21 01:53:56 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:53:57 (2) Divas| Rattle killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:53:58 180.152.16.4:23073|7DD909D6FF9 requesting game...
+20-04-21 01:54:02 180.152.16.4:23073|7DD909D6FF9 requesting game...
+20-04-21 01:54:02 (2) Divas| Sk8' killed (1) eX.- Necro with LAW
+20-04-21 01:54:03 Divas| mipHo captured the Red Flag
+20-04-21 01:54:04 (2) Divas| mipHo killed (1) eX.- PerfectDark with LAW
+20-04-21 01:54:05 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:54:08 180.152.16.4:23073|7DD909D6FF9 requesting game...
+20-04-21 01:54:09 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:54:11 Divas| mipHo scores for Bravo Team
+20-04-21 01:54:12 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:54:19 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:54:23 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:54:23 (2) Divas| Rattle killed (1) eX.- Necro with Grenade
+20-04-21 01:54:28 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:54:31 (1) eX.- Necro killed (2) Divas| mipHo with Grenade
+20-04-21 01:54:32 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:54:38 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:54:39 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:54:41 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:54:46 (1) eX.- Necro killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:54:46 24.129.19.27:23073|E1F335B1071 requesting game...
+20-04-21 01:54:48 (1) eX.- Necro killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:54:48 (2) Divas| Sk8' killed (1) eX.- J4zz with Grenade
+20-04-21 01:54:49 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:54:51 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:54:52 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 01:54:54 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:55:02 (2) Divas| Sk8' killed (1) eX.- Necro with Grenade
+20-04-21 01:55:02 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:55:03 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:55:03 Divas| Sk8' captured the Red Flag
+20-04-21 01:55:07 (2) Divas| mipHo killed (1) eX.- Necro with LAW
+20-04-21 01:55:11 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:55:11 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:55:12 Divas| Sk8' scores for Bravo Team
+20-04-21 01:55:16 (1) eX.- PerfectDark killed (2) Divas| Sk8' with LAW
+20-04-21 01:55:21 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:55:22 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:55:25 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:55:25 (2) Divas| Rattle killed (1) eX.- J4zz with Grenade
+20-04-21 01:55:26 eX.- PerfectDark captured the Blue Flag
+20-04-21 01:55:28 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:55:30 Divas| mipHo returned the Blue Flag
+20-04-21 01:55:32 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:55:36 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:55:38 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:55:40 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:55:41 (2) Divas| Rattle killed (1) eX.- J4zz with Combat Knife
+20-04-21 01:55:43 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 01:55:47 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:55:47 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:55:47 70.93.52.160:23073|21574D1DB31 requesting game...
+20-04-21 01:55:50 70.93.52.160:23073|21574D1DB31 requesting game...
+20-04-21 01:55:51 (1) eX.- Necro killed (2) Divas| Sk8' with Spas-12
+20-04-21 01:55:53 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:56:00 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 01:56:02 24.148.42.15:23073|E717E974761 requesting game...
+20-04-21 01:56:02 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:56:07 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 01:56:08 104.139.42.132:23073|663011B9BD2 requesting game...
+20-04-21 01:56:12 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 01:56:13 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:56:15 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 01:56:15 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-21 01:56:15 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:56:20 190.215.65.209:23073|4D3C1232A07 requesting game...
+20-04-21 01:56:20 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:56:23 (2) Divas| Sk8' killed (1) eX.- Necro with Grenade
+20-04-21 01:56:23 #KbN! AsteK joining game (190.215.65.209:23073) HWID:4D3C1232A07
+20-04-21 01:56:23 #KbN! AsteK has joined as spectator.
+20-04-21 01:56:24 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:56:28 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 01:56:31 (1) eX.- Necro killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:56:34 #KbN! AsteK has left spectators
+20-04-21 01:56:34 178.233.245.95:23073|66E08CA3CB7 requesting game...
+20-04-21 01:56:35 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:56:37 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 01:56:37 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 01:56:37 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 01:56:39 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:56:39 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:56:43 (1) eX.- Necro killed (2) Divas| Rattle with Grenade
+20-04-21 01:56:46 (1) eX.- Necro killed (2) Divas| Sk8' with Grenade
+20-04-21 01:56:49 (1) eX.- PerfectDark killed (2) Divas| Rattle with LAW
+20-04-21 01:56:49 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:56:51 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:56:52 eX.- J4zz captured the Blue Flag
+20-04-21 01:56:54 (2) Divas| Sk8' killed (1) eX.- J4zz with HK MP5
+20-04-21 01:56:56 eX.- Necro captured the Blue Flag
+20-04-21 01:56:57 Divas| Rattle returned the Blue Flag
+20-04-21 01:56:58 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 01:56:59 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:57:00 (2) Divas| Rattle killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:57:07 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:57:08 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:57:11 eX.- Necro captured the Blue Flag
+20-04-21 01:57:13 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:57:14 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:57:14 eX.- J4zz captured the Blue Flag
+20-04-21 01:57:15 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:57:16 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 01:57:17 Divas| Sk8' returned the Blue Flag
+20-04-21 01:57:19 (1) eX.- Necro killed (2) Divas| Sk8' with Grenade
+20-04-21 01:57:20 49.49.241.237:23073| requesting game...
+20-04-21 01:57:21 (1) eX.- PerfectDark killed (2) Divas| mipHo with LAW
+20-04-21 01:57:21 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:57:25 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:57:28 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:57:31 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:57:32 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:57:36 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:57:37 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:57:39 eX.- PerfectDark gets a ping warning
+20-04-21 01:57:39 Divas| mipHo captured the Red Flag
+20-04-21 01:57:40 (1) eX.- Necro killed (2) Divas| Rattle with Combat Knife
+20-04-21 01:57:43 (2) Divas| Sk8' killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:57:44 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:57:46 Divas| mipHo scores for Bravo Team
+20-04-21 01:57:47 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:57:51 (2) Divas| Sk8' killed (1) eX.- PerfectDark with Steyr AUG
+20-04-21 01:57:53 (2) Divas| Sk8' killed (1) eX.- Necro with Steyr AUG
+20-04-21 01:57:54 Time Left: 5 minutes
+20-04-21 01:57:55 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:57:56 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:57:57 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:58:03 (1) eX.- Necro killed (2) Divas| Sk8' with M79
+20-04-21 01:58:03 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:58:07 (1) eX.- PerfectDark killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:58:10 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:58:13 (2) Divas| Sk8' killed (1) eX.- J4zz with Steyr AUG
+20-04-21 01:58:14 178.233.245.95:23073|66E08CA3CB7 requesting game...
+20-04-21 01:58:16 (2) Divas| mipHo killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:58:16 (1) eX.- Necro killed (2) Divas| Sk8' with Combat Knife
+20-04-21 01:58:16 eX.- Necro captured the Blue Flag
+20-04-21 01:58:17 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:58:19 Divas| mipHo returned the Blue Flag
+20-04-21 01:58:24 (1) eX.- Necro killed (2) Divas| Rattle with M79
+20-04-21 01:58:25 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:58:25 (1) eX.- Necro killed (2) Divas| mipHo with Combat Knife
+20-04-21 01:58:31 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 01:58:35 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:58:35 (1) eX.- Necro killed (2) Divas| mipHo with Combat Knife
+20-04-21 01:58:37 176.42.38.78:23073|39AEE7651A4 requesting game...
+20-04-21 01:58:37 (1) eX.- PerfectDark killed (2) Divas| Rattle with Steyr AUG
+20-04-21 01:58:37 (2) Divas| Rattle killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:58:39 176.42.38.78:23073|39AEE7651A4 requesting game...
+20-04-21 01:58:41 (2) Divas| Sk8' killed (1) eX.- J4zz with HK MP5
+20-04-21 01:58:43 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 01:58:47 (2) Divas| Sk8' killed (1) eX.- J4zz with HK MP5
+20-04-21 01:58:48 Divas| Sk8' captured the Red Flag
+20-04-21 01:58:48 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:58:51 (2) Divas| Rattle killed (1) eX.- Necro with Spas-12
+20-04-21 01:58:54 Time Left: 4 minutes
+20-04-21 01:58:56 (2) Divas| mipHo killed (1) eX.- PerfectDark with LAW
+20-04-21 01:58:56 (1) eX.- PerfectDark killed (2) Divas| mipHo with Grenade
+20-04-21 01:58:56 Divas| Sk8' scores for Bravo Team
+20-04-21 01:58:59 (1) eX.- Necro killed (2) Divas| Rattle with FN Minimi
+20-04-21 01:59:04 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:59:05 (1) eX.- PerfectDark killed (2) Divas| mipHo with Spas-12
+20-04-21 01:59:05 173.20.61.152:23073|3847ED5937E requesting game...
+20-04-21 01:59:05 (2) Divas| mipHo killed (1) eX.- PerfectDark with Grenade
+20-04-21 01:59:07 173.20.61.152:23073|3847ED5937E requesting game...
+20-04-21 01:59:08 (2) Divas| Sk8' killed (1) eX.- J4zz with HK MP5
+20-04-21 01:59:15 (1) eX.- J4zz killed (2) Divas| mipHo with Steyr AUG
+20-04-21 01:59:15 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:59:16 (2) Divas| Rattle killed (1) eX.- Necro with Spas-12
+20-04-21 01:59:23 (1) eX.- PerfectDark killed (2) Divas| mipHo with Grenade
+20-04-21 01:59:32 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 01:59:35 (1) eX.- Necro killed (2) Divas| Rattle with M79
+20-04-21 01:59:39 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 01:59:42 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 01:59:43 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 01:59:44 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 01:59:52 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 01:59:54 Time Left: 3 minutes
+20-04-21 01:59:54 (2) Divas| Rattle killed (1) eX.- J4zz with Ak-74
+20-04-21 01:59:55 (1) eX.- PerfectDark killed (2) Divas| mipHo with Spas-12
+20-04-21 01:59:57 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:00:00 Divas| Sk8' returned the Blue Flag
+20-04-21 02:00:03 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 02:00:05 (1) eX.- PerfectDark killed (2) Divas| Rattle with Spas-12
+20-04-21 02:00:08 (1) eX.- PerfectDark killed (2) Divas| mipHo with LAW
+20-04-21 02:00:09 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Grenade
+20-04-21 02:00:15 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 02:00:19 (1) eX.- Necro killed (2) Divas| Sk8' with M79
+20-04-21 02:00:19 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 02:00:19 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 02:00:22 (1) eX.- PerfectDark killed (2) Divas| mipHo with Spas-12
+20-04-21 02:00:25 (1) eX.- PerfectDark killed (2) Divas| Rattle with Grenade
+20-04-21 02:00:29 (1) eX.- Necro killed (2) Divas| Sk8' with M79
+20-04-21 02:00:31 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 02:00:32 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 02:00:33 (2) Divas| Rattle killed (1) eX.- J4zz with Steyr AUG
+20-04-21 02:00:34 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:00:38 (1) eX.- Necro killed (2) Divas| Rattle with M79
+20-04-21 02:00:40 [Divas| Rattle] Touch3!
+20-04-21 02:00:40 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 02:00:42 (1) eX.- PerfectDark killed (2) Divas| Sk8' with Spas-12
+20-04-21 02:00:45 (2) Divas| Rattle killed (1) eX.- Necro with Spas-12
+20-04-21 02:00:45 (1) eX.- Necro killed (2) Divas| Rattle with Grenade
+20-04-21 02:00:49 eX.- J4zz captured the Blue Flag
+20-04-21 02:00:49 (1) eX.- PerfectDark killed (2) Divas| mipHo with Spas-12
+20-04-21 02:00:53 (1) eX.- J4zz killed (2) Divas| Sk8' with Steyr AUG
+20-04-21 02:00:53 186.107.9.207:23073|6BD0AA070CA requesting game...
+20-04-21 02:00:54 (2) Divas| Rattle killed (1) eX.- J4zz with Ak-74
+20-04-21 02:00:54 Time Left: 2 minutes
+20-04-21 02:00:54 eX.- Necro captured the Blue Flag
+20-04-21 02:00:57 (1) eX.- PerfectDark killed (2) Divas| mipHo with LAW
+20-04-21 02:00:58 eX.- Necro scores for Alpha Team
+20-04-21 02:00:59 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:01:00 (2) Divas| Rattle killed (1) eX.- Necro with Ak-74
+20-04-21 02:01:01 Divas| Rattle captured the Red Flag
+20-04-21 02:01:03 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 02:01:05 eX.- J4zz returned the Red Flag
+20-04-21 02:01:06 (TEAM)[Divas| Rattle] Enemy Incoming LOW
+20-04-21 02:01:11 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:01:15 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 02:01:16 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 02:01:19 (1) eX.- J4zz killed (2) Divas| Sk8' with Grenade
+20-04-21 02:01:21 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 02:01:22 (1) eX.- PerfectDark killed (2) Divas| Rattle with Spas-12
+20-04-21 02:01:24 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 02:01:26 (1) eX.- Necro killed (2) Divas| mipHo with M79
+20-04-21 02:01:27 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 02:01:31 [Divas| mipHo] !p
+20-04-21 02:01:31 Pausando...
+20-04-21 02:01:33 [Divas| mipHo] !p
+20-04-21 02:01:33 Pausado!
+20-04-21 02:01:35 [Divas| mipHo] !p
+20-04-21 02:01:35 Pausado!
+20-04-21 02:01:37 [Divas| mipHo] !p
+20-04-21 02:01:37 Pausado!
+20-04-21 02:01:41 192.141.121.6:40211|74AC67EAD3B requesting game...
+20-04-21 02:01:44 [Divas| mipHo] !up
+20-04-21 02:01:44 Despausando en: 3
+20-04-21 02:01:45 Despausando en: 2
+20-04-21 02:01:46 [Divas| mipHo] !up
+20-04-21 02:01:46 Despausando en: 3
+20-04-21 02:01:47 Despausando en: 2
+20-04-21 02:01:48 [Divas| mipHo] !p
+20-04-21 02:01:48 Despause fue cancelado...
+20-04-21 02:01:49 [Divas| Rattle] !p
+20-04-21 02:01:49 Pausado!
+20-04-21 02:01:49 [Divas| Sk8'] !p
+20-04-21 02:01:49 Pausado!
+20-04-21 02:01:51 [Divas| Sk8'] !p
+20-04-21 02:01:51 Pausado!
+20-04-21 02:01:52 [eX.- PerfectDark] pero ke wea
+20-04-21 02:01:52 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:01:53 [Divas| Sk8'] !p
+20-04-21 02:01:53 Pausado!
+20-04-21 02:01:54 [Divas| Sk8'] !p
+20-04-21 02:01:54 Pausado!
+20-04-21 02:01:56 [Divas| Sk8'] !p
+20-04-21 02:01:56 Pausado!
+20-04-21 02:01:57 [Divas| mipHo] estoy muy bug
+20-04-21 02:01:58 [Divas| Sk8'] !p
+20-04-21 02:01:58 Pausado!
+20-04-21 02:02:00 [Divas| Sk8'] !p
+20-04-21 02:02:00 Pausado!
+20-04-21 02:02:01 [Divas| Rattle] alo?
+20-04-21 02:02:02 [Divas| Rattle] estan?
+20-04-21 02:02:02 [Divas| Sk8'] !p
+20-04-21 02:02:02 Pausado!
+20-04-21 02:02:04 [eX.- PerfectDark] Yes, Sir!
+20-04-21 02:02:04 [Divas| Sk8'] !p
+20-04-21 02:02:04 Pausado!
+20-04-21 02:02:05 [eX.- Necro] alo tia
+20-04-21 02:02:06 [Divas| Sk8'] !p
+20-04-21 02:02:06 Pausado!
+20-04-21 02:02:07 Divas| mipHo has left bravo team.
+20-04-21 02:02:07 [Divas| Sk8'] alo
+20-04-21 02:02:09 [Divas| Sk8'] alo
+20-04-21 02:02:09 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:02:09 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:02:10 Divas| mipHo joining game (201.239.101.160:17208) HWID:1F7342C1D76
+20-04-21 02:02:10 Divas| mipHo has joined alpha team.
+20-04-21 02:02:11 [Divas| Sk8'] alo
+20-04-21 02:02:13 [Divas| Sk8'] alo
+20-04-21 02:02:13 [eX.- PerfectDark] sedesconecto skei
+20-04-21 02:02:14 Divas| mipHo has left alpha team.
+20-04-21 02:02:15 [Divas| Sk8'] alo
+20-04-21 02:02:15 [eX.- PerfectDark] ganamos por wo
+20-04-21 02:02:16 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:02:16 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:02:16 Divas| Sk8' has left bravo team.
+20-04-21 02:02:16 [eX.- PerfectDark] gg
+20-04-21 02:02:17 [eX.- PerfectDark] wp
+20-04-21 02:02:17 Divas| mipHo joining game (201.239.101.160:17208) HWID:1F7342C1D76
+20-04-21 02:02:17 Divas| mipHo has joined bravo team.
+20-04-21 02:02:17 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:18 [eX.- PerfectDark] no re?
+20-04-21 02:02:19 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:22 [eX.- Necro] jajaaj
+20-04-21 02:02:24 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:24 [=E*R= Skipo] kill
+20-04-21 02:02:26 [eX.- Necro] que entre enigmacion
+20-04-21 02:02:28 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:30 [#KbN! Shaka Ohma]  /kill
+20-04-21 02:02:33 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:36 [eX.- PerfectDark] /kill los 2? :O
+20-04-21 02:02:36 [Divas| Rattle] ub
+20-04-21 02:02:37 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:38 [Divas| Rattle] se puede?=
+20-04-21 02:02:40 [=E*R= Skipo] !ub
+20-04-21 02:02:40 [Divas| Rattle] sk no puede entrar
+20-04-21 02:02:42 [Divas| Rattle] !ub
+20-04-21 02:02:48 [=E*R= Skipo] pork no?
+20-04-21 02:02:51 [Divas| mipHo] no se
+20-04-21 02:02:51 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:53 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:02:55 Divas| Sk8' joining game (152.173.46.208:23073) HWID:604C8DA500F
+20-04-21 02:02:55 Divas| Sk8' has joined bravo team.
+20-04-21 02:02:58 [Divas| Rattle] nos estan atacando
+20-04-21 02:03:03 [Divas| Rattle] dtres
+20-04-21 02:03:03 [Divas| Sk8'] ddos
+20-04-21 02:03:04 [=E*R= Skipo] el usuario siempre es el problema
+20-04-21 02:03:06 [Divas| Rattle] dcuatro
+20-04-21 02:03:10 [Divas| Enigma] los ddseo el necro
+20-04-21 02:03:10 [Divas| Sk8'] cha
+20-04-21 02:03:11 [eX.- J4zz] jugando dd2 ddos
+20-04-21 02:03:12 [eX.- Necro] jajajaja
+20-04-21 02:03:13 [eX.- PerfectDark] ddosis
+20-04-21 02:03:19 [#KbN! Shaka Ohma] muchachoa el kill
+20-04-21 02:03:19 [Divas| Rattle] go
+20-04-21 02:03:20 [=E*R= Skipo] kill sk8
+20-04-21 02:03:24 [eX.- Necro] las barret que se comieron en el match anterior
+20-04-21 02:03:25 [=E*R= Skipo] go
+20-04-21 02:03:27 [eX.- Necro] no morian nunca
+20-04-21 02:03:33 [eX.- J4zz] go?
+20-04-21 02:03:33 [Divas| mipHo] !up
+20-04-21 02:03:34 [Divas| Rattle] go
+20-04-21 02:03:34 Despausando en: 3
+20-04-21 02:03:35 Despausando en: 2
+20-04-21 02:03:35 [Divas| Sk8'] 4 seg
+20-04-21 02:03:36 Despausando en: 1
+20-04-21 02:03:37 Go!
+20-04-21 02:03:41 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 02:03:43 (2) Divas| Sk8' killed (1) eX.- J4zz with HK MP5
+20-04-21 02:03:44 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 02:03:45 (1) eX.- Necro killed (2) Divas| Sk8' with M79
+20-04-21 02:03:46 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 02:03:46 Divas| mipHo returned the Blue Flag
+20-04-21 02:03:52 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 02:03:54 (2) Divas| Rattle killed (1) eX.- Necro with Ruger 77
+20-04-21 02:03:55 Divas| mipHo captured the Red Flag
+20-04-21 02:03:59 (1) eX.- J4zz killed (2) Divas| Rattle with Grenade
+20-04-21 02:04:00 Ox* Chaky//<3K has left spectators
+20-04-21 02:04:00 Time Left: 1 minutes
+20-04-21 02:04:01 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:04:02 Divas| mipHo scores for Bravo Team
+20-04-21 02:04:02 (1) eX.- Necro killed (2) Divas| Sk8' with M79
+20-04-21 02:04:02 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 02:04:02 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:04:05 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:04:07 =E*R= Skipo has left spectators
+20-04-21 02:04:08 (2) Divas| Sk8' killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:04:09 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:09 [#KbN! Shaka Ohma] !sp
+20-04-21 02:04:10 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:11 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 02:04:12 (1) eX.- J4zz killed (2) Divas| mipHo with Grenade
+20-04-21 02:04:12 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:04:18 eX.- Necro captured the Blue Flag
+20-04-21 02:04:18 (1) eX.- J4zz killed (2) Divas| Sk8' with Grenade
+20-04-21 02:04:20 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:21 (2) Divas| mipHo killed (1) eX.- Necro with Spas-12
+20-04-21 02:04:21 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:22 Divas| mipHo returned the Blue Flag
+20-04-21 02:04:24 (2) Divas| Rattle killed (1) eX.- J4zz with Ruger 77
+20-04-21 02:04:25 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:26 (2) Divas| Rattle killed (1) eX.- PerfectDark with Ruger 77
+20-04-21 02:04:29 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:31 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:33 (1) eX.- J4zz killed (2) Divas| Rattle with Steyr AUG
+20-04-21 02:04:33 (1) eX.- Necro killed (2) Divas| mipHo with Combat Knife
+20-04-21 02:04:33 eX.- Necro captured the Blue Flag
+20-04-21 02:04:35 (2) Divas| Sk8' killed (1) eX.- Necro with HK MP5
+20-04-21 02:04:36 Divas| Sk8' returned the Blue Flag
+20-04-21 02:04:37 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:40 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:40 (2) Divas| mipHo killed (1) eX.- PerfectDark with Spas-12
+20-04-21 02:04:42 (2) Divas| mipHo killed (1) eX.- J4zz with Spas-12
+20-04-21 02:04:46 (1) eX.- Necro killed (2) Divas| Sk8' with Combat Knife
+20-04-21 02:04:46 eX.- Necro captured the Blue Flag
+20-04-21 02:04:47 (2) Divas| mipHo killed (1) eX.- Necro with Grenade
+20-04-21 02:04:49 Admin connected (186.11.121.121).
+20-04-21 02:04:49 /friendlyfire (186.11.121.121)
+20-04-21 02:04:49 Friendly Fire is 0
+20-04-21 02:04:49 /bonus (186.11.121.121)
+20-04-21 02:04:49 Current bonus frequency is 0
+20-04-21 02:04:49 /vote% (186.11.121.121)
+20-04-21 02:04:49 Voting percent is 60
+20-04-21 02:04:49 /respawntime (186.11.121.121)
+20-04-21 02:04:49 Respawn time is 3 seconds
+20-04-21 02:04:49 /maxrespawntime (186.11.121.121)
+20-04-21 02:04:49 Maximum Respawn time is 5 seconds
+20-04-21 02:04:53 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-21 02:04:54 =E*R= Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-21 02:04:54 =E*R= Skipo has joined as spectator.
+20-04-21 02:04:54 76.94.136.97:23073|354232C3876 requesting game...
+20-04-21 02:04:56 (2) Divas| mipHo killed (1) eX.- J4zz with LAW
+20-04-21 02:05:00 Next map: Lobby
+20-04-21 02:05:05 [Divas| Sk8'] no es wea mia sipo
+20-04-21 02:05:06  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-21 02:05:06 Lothic - Gothic Lobby Room
+20-04-21 02:05:06 Admin disconnected (201.189.251.234).
+20-04-21 02:05:07 [Divas| Sk8'] server qlo
+20-04-21 02:05:09 [Divas| Sk8'] server qlo
+20-04-21 02:05:11 [Divas| Sk8'] server qlo
+20-04-21 02:05:12 [=E*R= Skipo] relogeen
+20-04-21 02:05:13 [Divas| Sk8'] server qlo
+20-04-21 02:05:15 [Divas| Sk8'] server qlo
+20-04-21 02:05:16 eX.- Necro has left alpha team.
+20-04-21 02:05:17 [Divas| Sk8'] server qlo
+20-04-21 02:05:19 [Divas| Sk8'] server qlo
+20-04-21 02:05:19 (2) Divas| mipHo killed (1) eX.- PerfectDark with HK MP5
+20-04-21 02:05:21 [Divas| Sk8'] server qlo
+20-04-21 02:05:23 [Divas| Sk8'] server qlo
+20-04-21 02:05:23 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:05:23 [=E*R= Skipo] relogeen soldat todos
+20-04-21 02:05:25 [Divas| Sk8'] server qlo
+20-04-21 02:05:25 [eX.- J4zz] que onda
+20-04-21 02:05:25 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:05:26 Divas| Rattle has left bravo team.
+20-04-21 02:05:27 [Divas| Sk8'] server qlo
+20-04-21 02:05:27 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:05:27 [eX.- J4zz] que mala su internet
+20-04-21 02:05:28 Divas| Sk8' has left bravo team.
+20-04-21 02:05:29 Divas| mipHo has left bravo team.
+20-04-21 02:05:29 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:30 eX.- PerfectDark has left alpha team.
+20-04-21 02:05:30 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:31 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:05:31 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:05:32 Divas| mipHo joining game (201.239.101.160:17208) HWID:1F7342C1D76
+20-04-21 02:05:32 Divas| mipHo has joined alpha team.
+20-04-21 02:05:34 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:35 Divas| mipHo has joined bravo team.
+20-04-21 02:05:35 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:37 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 02:05:39 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 02:05:43 VanscL has left spectators
+20-04-21 02:05:43 eX.- PerfectDark joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 02:05:43 eX.- PerfectDark has joined alpha team.
+20-04-21 02:05:45 eX.- PerfectDark is flooding the server
+20-04-21 02:05:45 190.211.167.106:23073|1496BAEC585 requesting game...
+20-04-21 02:05:45 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:05:46 eX.- PerfectDark joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 02:05:46 eX.- PerfectDark has joined alpha team.
+20-04-21 02:05:46 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:47 VanscL joining game (190.211.167.106:23073) HWID:1496BAEC585
+20-04-21 02:05:47 VanscL has joined as spectator.
+20-04-21 02:05:47 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:05:49 eX.- PerfectDark joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 02:05:49 eX.- PerfectDark has joined alpha team.
+20-04-21 02:05:49 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-21 02:05:53 [eX.- J4zz] mi ataque ddos afectó a mi team
+20-04-21 02:05:55 [eX.- J4zz] demonios
+20-04-21 02:05:55 [=E*R= Skipo] jhajajaj
+20-04-21 02:05:56 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:05:56 [eX.- PerfectDark] ke wea paso
+20-04-21 02:05:58 eX.- PerfectDark has left alpha team.
+20-04-21 02:05:59 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 02:06:00 179.57.114.103:23073|5FD605C936F requesting game...
+20-04-21 02:06:01 eX.- PerfectDark joining game (179.57.114.103:23073) HWID:5FD605C936F
+20-04-21 02:06:01 eX.- PerfectDark has joined alpha team.
+20-04-21 02:06:01 eX.- Necro joining game (201.214.236.103:23073) HWID:8007F30041B
+20-04-21 02:06:01 eX.- Necro has joined as spectator.
+20-04-21 02:06:02 [eX.- PerfectDark] ke wea paso
+20-04-21 02:06:02 186.11.121.121:32211|32439DD33E8 requesting game...
+20-04-21 02:06:05 Signal received, shutting down
+20-04-21 02:06:05 Shutting down server...
+20-04-21 02:06:05 Shutting down FileServer...
+20-04-21 02:06:05 Shutting down admin server...
+20-04-21 02:06:05 Admin disconnected (186.11.121.121).

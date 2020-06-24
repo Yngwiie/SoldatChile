@@ -1,0 +1,54 @@
+20-05-24 05:13:22    Log Started
+20-05-24 05:13:22 Opened /home/kader_b/int1/soldat.ini
+20-05-24 05:16:02  Net - kju connected 24-5-20 05:16:02
+20-05-24 05:17:13  Net - kju disconnected 24-5-20 05:17:13
+20-05-24 05:24:22 TCP/IP File Server started
+20-05-24 05:33:41  Net - t5. Emily Ratajkowski disconnected 24-5-20 05:33:41
+20-05-24 05:33:44  Net - t5. Emily Ratajkowski connected 24-5-20 05:33:44
+20-05-24 05:36:00  Net - #1 MotallicA connected 24-5-20 05:36:00
+20-05-24 05:44:44  Net - t5. Emily Ratajkowski disconnected 24-5-20 05:44:44
+20-05-24 05:44:45  Net - t5. Maaxis* (New guy) disconnected 24-5-20 05:44:45
+20-05-24 05:44:47  Net - t5. radl disconnected 24-5-20 05:44:47
+20-05-24 05:44:48  Net - $HILE2 - SenzacL* disconnected 24-5-20 05:44:48
+20-05-24 05:44:48  Net - mipHo disconnected 24-5-20 05:44:48
+20-05-24 05:44:49  Net - #1 MotallicA disconnected 24-5-20 05:44:49
+20-05-24 05:44:50  Net - $HILE2 - KillMe! disconnected 24-5-20 05:44:50
+20-05-24 05:44:53  Net - $HILE2 - Skipo disconnected 24-5-20 05:44:53
+20-05-24 05:53:48  Net - #1. Breaki connected 24-5-20 05:53:48
+20-05-24 05:54:22 TCP/IP File Server started
+20-05-24 05:54:35  Net - #1. Breaki disconnected 24-5-20 05:54:35
+20-05-24 06:15:18  Net - #5 Breeze connected 24-5-20 06:15:18
+20-05-24 06:15:26  Net - #5 Breeze disconnected 24-5-20 06:15:26
+20-05-24 06:15:29  Net - #5 Breeze connected 24-5-20 06:15:29
+20-05-24 06:15:33  Net - #5 Breeze disconnected 24-5-20 06:15:33
+20-05-24 06:15:45  Net - #5 Breeze connected 24-5-20 06:15:45
+20-05-24 06:16:01  Net - #5 Breeze disconnected 24-5-20 06:16:01
+20-05-24 06:24:22 TCP/IP File Server started
+20-05-24 06:54:22 TCP/IP File Server started
+20-05-24 07:24:22 TCP/IP File Server started
+20-05-24 07:54:22 TCP/IP File Server started
+20-05-24 08:24:22 TCP/IP File Server started
+20-05-24 08:54:22 TCP/IP File Server started
+20-05-24 09:24:22 TCP/IP File Server started
+20-05-24 09:54:22 TCP/IP File Server started
+20-05-24 10:24:22 TCP/IP File Server started
+20-05-24 10:54:22 TCP/IP File Server started
+20-05-24 11:24:22 TCP/IP File Server started
+20-05-24 11:54:22 TCP/IP File Server started
+20-05-24 12:24:22 TCP/IP File Server started
+20-05-24 12:54:22 TCP/IP File Server started
+20-05-24 13:24:22 TCP/IP File Server started
+20-05-24 13:54:22 TCP/IP File Server started
+20-05-24 14:24:22 TCP/IP File Server started
+20-05-24 14:54:22 TCP/IP File Server started
+20-05-24 15:24:22 TCP/IP File Server started
+20-05-24 15:54:22 TCP/IP File Server started
+20-05-24 16:24:22 TCP/IP File Server started
+20-05-24 16:54:22 TCP/IP File Server started
+20-05-24 17:24:22 TCP/IP File Server started
+20-05-24 17:54:22 TCP/IP File Server started
+20-05-24 18:24:22 TCP/IP File Server started
+20-05-24 18:54:22 TCP/IP File Server started
+20-05-24 19:24:22 TCP/IP File Server started
+20-05-24 19:49:20 Destroying Devices.
+20-05-24 19:49:21    End of Log.

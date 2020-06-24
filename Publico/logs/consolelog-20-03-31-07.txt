@@ -1,0 +1,7 @@
+20-03-31 21:22:01    Console Log Started
+20-03-31 21:22:01 Welcome to Soldat 1.7.1
+20-03-31 21:22:01  [*] Preparing scripts to be launched
+20-03-31 21:22:01  [*] Done
+20-03-31 21:22:01 ctf_Ash by chakapoko maker
+20-03-31 21:22:01  Connection for file server started. Port: 23083
+20-03-31 21:22:01 Registering server @ 88.99.234.252

@@ -1,0 +1,24 @@
+20-04-20 20:50:49    Console Log Started
+20-04-20 20:50:49 Welcome to Soldat 1.7.1
+20-04-20 20:50:49  [*] Preparing scripts to be launched
+20-04-20 20:50:49  [*] [BasicCommands] Compilation started
+20-04-20 20:50:49  [*] [BasicCommands] [Error] (214:28): Type mismatch
+20-04-20 20:50:49  [*] [BasicCommands] Compilation failed
+20-04-20 20:50:49  [*] Disabling BasicCommands
+20-04-20 20:50:49  [*] Compiling match -> match.pas...
+20-04-20 20:50:49  [*] match compiled
+20-04-20 20:50:49  [*] Done
+20-04-20 20:50:49 Lothic - Gothic Lobby Room
+20-04-20 20:50:49 Loaded weapons mod "Default v1.8"
+20-04-20 20:50:49  Connection for file server started. Port: 23110
+20-04-20 20:50:49 Registering server @ 88.99.234.252
+20-04-20 20:51:07 45.232.32.136:49698|64995B15DC0 requesting game...
+20-04-20 20:51:08 sT.- YnGwi3 joining game (45.232.32.136:49698) HWID:64995B15DC0
+20-04-20 20:51:08 sT.- YnGwi3 has joined bravo team.
+20-04-20 20:51:09 [sT.- YnGwi3] !sp
+20-04-20 20:51:10 [sT.- YnGwi3] !sp
+20-04-20 20:51:14 sT.- YnGwi3 has left bravo team.
+20-04-20 20:52:56 Signal received, shutting down
+20-04-20 20:52:56 Shutting down server...
+20-04-20 20:52:56 Shutting down FileServer...
+20-04-20 20:52:56 Shutting down admin server...

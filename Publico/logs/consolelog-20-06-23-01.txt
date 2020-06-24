@@ -1,0 +1,270 @@
+20-06-23 23:10:01    Console Log Started
+20-06-23 23:10:01 Welcome to Soldat 1.7.1
+20-06-23 23:10:01  [*] Preparing scripts to be launched
+20-06-23 23:10:01  [*] Done
+20-06-23 23:10:01 ctf_Ash by chakapoko maker
+20-06-23 23:10:01 Loaded weapons mod "Gather WM v1.7.1bv1"
+20-06-23 23:10:01  Connection for file server started. Port: 23083
+20-06-23 23:10:02 Registering server @ 88.99.234.252
+20-06-23 23:15:02 Time Left: 5 minutes
+20-06-23 23:16:02 Time Left: 4 minutes
+20-06-23 23:17:02 Time Left: 3 minutes
+20-06-23 23:18:02 Time Left: 2 minutes
+20-06-23 23:19:02 Time Left: 1 minutes
+20-06-23 23:20:02 Next map: ctf_B2b
+20-06-23 23:20:07 B2B
+20-06-23 23:25:07 Time Left: 5 minutes
+20-06-23 23:26:07 Time Left: 4 minutes
+20-06-23 23:27:07 Time Left: 3 minutes
+20-06-23 23:28:07 Time Left: 2 minutes
+20-06-23 23:29:07 Time Left: 1 minutes
+20-06-23 23:30:07 Next map: ctf_Blade
+20-06-23 23:30:12 Blade by Zakath
+20-06-23 23:35:12 Time Left: 5 minutes
+20-06-23 23:36:12 Time Left: 4 minutes
+20-06-23 23:37:12 Time Left: 3 minutes
+20-06-23 23:38:12 Time Left: 2 minutes
+20-06-23 23:39:12 Time Left: 1 minutes
+20-06-23 23:40:12 Next map: ctf_Viet
+20-06-23 23:40:18 Viet
+20-06-23 23:45:18 Time Left: 5 minutes
+20-06-23 23:46:18 Time Left: 4 minutes
+20-06-23 23:47:18 Time Left: 3 minutes
+20-06-23 23:48:18 Time Left: 2 minutes
+20-06-23 23:49:18 Time Left: 1 minutes
+20-06-23 23:50:18 Next map: ctf_Division
+20-06-23 23:50:23 Division by Boxo, KC, viral
+20-06-23 23:55:23 Time Left: 5 minutes
+20-06-23 23:56:23 Time Left: 4 minutes
+20-06-23 23:57:23 Time Left: 3 minutes
+20-06-23 23:58:23 Time Left: 2 minutes
+20-06-23 23:59:23 Time Left: 1 minutes
+20-06-24 00:00:23 Next map: ctf_Death
+20-06-24 00:00:28 Death by MM, g_d. Boxo, mtk`
+20-06-24 00:05:28 Time Left: 5 minutes
+20-06-24 00:06:28 Time Left: 4 minutes
+20-06-24 00:07:28 Time Left: 3 minutes
+20-06-24 00:08:28 Time Left: 2 minutes
+20-06-24 00:09:28 Time Left: 1 minutes
+20-06-24 00:10:28 Next map: ctf_Hormone
+20-06-24 00:10:33 Hormone by Metsänaperot
+20-06-24 00:15:33 Time Left: 5 minutes
+20-06-24 00:16:33 Time Left: 4 minutes
+20-06-24 00:17:33 Time Left: 3 minutes
+20-06-24 00:18:33 Time Left: 2 minutes
+20-06-24 00:19:33 Time Left: 1 minutes
+20-06-24 00:20:33 Next map: ctf_Laos
+20-06-24 00:20:39 Laos
+20-06-24 00:25:39 Time Left: 5 minutes
+20-06-24 00:26:39 Time Left: 4 minutes
+20-06-24 00:27:39 Time Left: 3 minutes
+20-06-24 00:28:39 Time Left: 2 minutes
+20-06-24 00:29:39 Time Left: 1 minutes
+20-06-24 00:30:39 Next map: ctf_Laos2
+20-06-24 00:30:44 Error: Could not load map (ctf_Laos2)
+20-06-24 00:30:44 Next map: ctf_Maya
+20-06-24 00:30:49 Maya
+20-06-24 00:35:49 Time Left: 5 minutes
+20-06-24 00:36:49 Time Left: 4 minutes
+20-06-24 00:37:49 Time Left: 3 minutes
+20-06-24 00:38:49 Time Left: 2 minutes
+20-06-24 00:39:49 Time Left: 1 minutes
+20-06-24 00:40:49 Next map: ctf_MFM
+20-06-24 00:40:55 MFM 2 by mar77a
+20-06-24 00:45:55 Time Left: 5 minutes
+20-06-24 00:46:55 Time Left: 4 minutes
+20-06-24 00:47:55 Time Left: 3 minutes
+20-06-24 00:48:55 Time Left: 2 minutes
+20-06-24 00:49:55 Time Left: 1 minutes
+20-06-24 00:50:55 Next map: ctf_Run
+20-06-24 00:51:00 Run
+20-06-24 00:56:00 Time Left: 5 minutes
+20-06-24 00:57:00 Time Left: 4 minutes
+20-06-24 00:58:00 Time Left: 3 minutes
+20-06-24 00:59:00 Time Left: 2 minutes
+20-06-24 01:00:00 Time Left: 1 minutes
+20-06-24 01:01:00 Next map: ctf_OldRun
+20-06-24 01:01:05 Run (get to the flag!)
+20-06-24 01:06:05 Time Left: 5 minutes
+20-06-24 01:07:05 Time Left: 4 minutes
+20-06-24 01:08:05 Time Left: 3 minutes
+20-06-24 01:09:05 Time Left: 2 minutes
+20-06-24 01:10:05 Time Left: 1 minutes
+20-06-24 01:11:05 Next map: ctf_Ash
+20-06-24 01:11:11 ctf_Ash by chakapoko maker
+20-06-24 01:16:11 Time Left: 5 minutes
+20-06-24 01:17:11 Time Left: 4 minutes
+20-06-24 01:18:11 Time Left: 3 minutes
+20-06-24 01:19:11 Time Left: 2 minutes
+20-06-24 01:20:11 Time Left: 1 minutes
+20-06-24 01:21:11 Next map: ctf_B2b
+20-06-24 01:21:16 B2B
+20-06-24 01:26:16 Time Left: 5 minutes
+20-06-24 01:27:16 Time Left: 4 minutes
+20-06-24 01:28:16 Time Left: 3 minutes
+20-06-24 01:29:16 Time Left: 2 minutes
+20-06-24 01:30:16 Time Left: 1 minutes
+20-06-24 01:31:16 Next map: ctf_Viet
+20-06-24 01:31:21 Viet
+20-06-24 01:36:21 Time Left: 5 minutes
+20-06-24 01:37:21 Time Left: 4 minutes
+20-06-24 01:38:21 Time Left: 3 minutes
+20-06-24 01:39:21 Time Left: 2 minutes
+20-06-24 01:40:21 Time Left: 1 minutes
+20-06-24 01:41:21 Next map: ctf_Campeche
+20-06-24 01:41:27 Campeche by Zakath
+20-06-24 01:46:27 Time Left: 5 minutes
+20-06-24 01:47:27 Time Left: 4 minutes
+20-06-24 01:48:27 Time Left: 3 minutes
+20-06-24 01:49:27 Time Left: 2 minutes
+20-06-24 01:50:27 Time Left: 1 minutes
+20-06-24 01:51:27 Next map: ctf_Snakebite
+20-06-24 01:51:32 Snakebite orig. by chakapoko maker
+20-06-24 01:56:32 Time Left: 5 minutes
+20-06-24 01:57:32 Time Left: 4 minutes
+20-06-24 01:58:32 Time Left: 3 minutes
+20-06-24 01:59:32 Time Left: 2 minutes
+20-06-24 02:00:32 Time Left: 1 minutes
+20-06-24 02:01:32 Next map: ctf_Run
+20-06-24 02:01:37 Run
+20-06-24 02:06:37 Time Left: 5 minutes
+20-06-24 02:07:37 Time Left: 4 minutes
+20-06-24 02:08:37 Time Left: 3 minutes
+20-06-24 02:09:37 Time Left: 2 minutes
+20-06-24 02:10:37 Time Left: 1 minutes
+20-06-24 02:11:37 Next map: ctf_Nuubia
+20-06-24 02:11:43 by Troskal and friends
+20-06-24 02:16:43 Time Left: 5 minutes
+20-06-24 02:17:43 Time Left: 4 minutes
+20-06-24 02:18:43 Time Left: 3 minutes
+20-06-24 02:19:43 Time Left: 2 minutes
+20-06-24 02:20:43 Time Left: 1 minutes
+20-06-24 02:21:43 Next map: ctf_Guardian
+20-06-24 02:21:48 ctf_Guardian by SuoW
+20-06-24 02:26:48 Time Left: 5 minutes
+20-06-24 02:27:48 Time Left: 4 minutes
+20-06-24 02:28:48 Time Left: 3 minutes
+20-06-24 02:29:48 Time Left: 2 minutes
+20-06-24 02:30:48 Time Left: 1 minutes
+20-06-24 02:31:48 Next map: ctf_Ash
+20-06-24 02:31:53 ctf_Ash by chakapoko maker
+20-06-24 02:36:53 Time Left: 5 minutes
+20-06-24 02:37:53 Time Left: 4 minutes
+20-06-24 02:38:53 Time Left: 3 minutes
+20-06-24 02:39:53 Time Left: 2 minutes
+20-06-24 02:40:53 Time Left: 1 minutes
+20-06-24 02:41:53 Next map: ctf_B2b
+20-06-24 02:41:59 B2B
+20-06-24 02:46:59 Time Left: 5 minutes
+20-06-24 02:47:59 Time Left: 4 minutes
+20-06-24 02:48:59 Time Left: 3 minutes
+20-06-24 02:49:59 Time Left: 2 minutes
+20-06-24 02:50:59 Time Left: 1 minutes
+20-06-24 02:51:59 Next map: ctf_Blade
+20-06-24 02:52:04 Blade by Zakath
+20-06-24 02:57:04 Time Left: 5 minutes
+20-06-24 02:58:04 Time Left: 4 minutes
+20-06-24 02:59:04 Time Left: 3 minutes
+20-06-24 03:00:04 Time Left: 2 minutes
+20-06-24 03:01:04 Time Left: 1 minutes
+20-06-24 03:02:04 Next map: ctf_Viet
+20-06-24 03:02:09 Viet
+20-06-24 03:07:09 Time Left: 5 minutes
+20-06-24 03:08:09 Time Left: 4 minutes
+20-06-24 03:09:09 Time Left: 3 minutes
+20-06-24 03:10:09 Time Left: 2 minutes
+20-06-24 03:11:09 Time Left: 1 minutes
+20-06-24 03:12:09 Next map: ctf_Division
+20-06-24 03:12:15 Division by Boxo, KC, viral
+20-06-24 03:17:15 Time Left: 5 minutes
+20-06-24 03:18:15 Time Left: 4 minutes
+20-06-24 03:19:15 Time Left: 3 minutes
+20-06-24 03:20:15 Time Left: 2 minutes
+20-06-24 03:21:15 Time Left: 1 minutes
+20-06-24 03:22:15 Next map: ctf_Death
+20-06-24 03:22:20 Death by MM, g_d. Boxo, mtk`
+20-06-24 03:27:20 Time Left: 5 minutes
+20-06-24 03:28:20 Time Left: 4 minutes
+20-06-24 03:29:20 Time Left: 3 minutes
+20-06-24 03:30:20 Time Left: 2 minutes
+20-06-24 03:31:20 Time Left: 1 minutes
+20-06-24 03:32:20 Next map: ctf_Hormone
+20-06-24 03:32:25 Hormone by Metsänaperot
+20-06-24 03:37:25 Time Left: 5 minutes
+20-06-24 03:38:25 Time Left: 4 minutes
+20-06-24 03:39:25 Time Left: 3 minutes
+20-06-24 03:40:25 Time Left: 2 minutes
+20-06-24 03:41:25 Time Left: 1 minutes
+20-06-24 03:42:25 Next map: ctf_Laos
+20-06-24 03:42:30 Laos
+20-06-24 03:47:30 Time Left: 5 minutes
+20-06-24 03:48:30 Time Left: 4 minutes
+20-06-24 03:49:30 Time Left: 3 minutes
+20-06-24 03:50:30 Time Left: 2 minutes
+20-06-24 03:51:30 Time Left: 1 minutes
+20-06-24 03:52:30 Next map: ctf_Laos2
+20-06-24 03:52:36 Error: Could not load map (ctf_Laos2)
+20-06-24 03:52:36 Next map: ctf_Maya
+20-06-24 03:52:41 Maya
+20-06-24 03:57:41 Time Left: 5 minutes
+20-06-24 03:58:41 Time Left: 4 minutes
+20-06-24 03:59:41 Time Left: 3 minutes
+20-06-24 04:00:41 Time Left: 2 minutes
+20-06-24 04:01:41 Time Left: 1 minutes
+20-06-24 04:02:41 Next map: ctf_MFM
+20-06-24 04:02:46 MFM 2 by mar77a
+20-06-24 04:07:46 Time Left: 5 minutes
+20-06-24 04:08:46 Time Left: 4 minutes
+20-06-24 04:09:46 Time Left: 3 minutes
+20-06-24 04:10:46 Time Left: 2 minutes
+20-06-24 04:11:46 Time Left: 1 minutes
+20-06-24 04:12:46 Next map: ctf_Run
+20-06-24 04:12:52 Run
+20-06-24 04:17:52 Time Left: 5 minutes
+20-06-24 04:18:52 Time Left: 4 minutes
+20-06-24 04:19:52 Time Left: 3 minutes
+20-06-24 04:20:52 Time Left: 2 minutes
+20-06-24 04:21:52 Time Left: 1 minutes
+20-06-24 04:22:52 Next map: ctf_OldRun
+20-06-24 04:22:57 Run (get to the flag!)
+20-06-24 04:27:57 Time Left: 5 minutes
+20-06-24 04:28:57 Time Left: 4 minutes
+20-06-24 04:29:57 Time Left: 3 minutes
+20-06-24 04:30:57 Time Left: 2 minutes
+20-06-24 04:31:57 Time Left: 1 minutes
+20-06-24 04:32:57 Next map: ctf_Ash
+20-06-24 04:33:02 ctf_Ash by chakapoko maker
+20-06-24 04:38:02 Time Left: 5 minutes
+20-06-24 04:39:02 Time Left: 4 minutes
+20-06-24 04:40:02 Time Left: 3 minutes
+20-06-24 04:41:02 Time Left: 2 minutes
+20-06-24 04:42:02 Time Left: 1 minutes
+20-06-24 04:43:02 Next map: ctf_B2b
+20-06-24 04:43:08 B2B
+20-06-24 04:48:08 Time Left: 5 minutes
+20-06-24 04:49:08 Time Left: 4 minutes
+20-06-24 04:50:08 Time Left: 3 minutes
+20-06-24 04:51:08 Time Left: 2 minutes
+20-06-24 04:52:08 Time Left: 1 minutes
+20-06-24 04:53:08 Next map: ctf_Viet
+20-06-24 04:53:13 Viet
+20-06-24 04:58:13 Time Left: 5 minutes
+20-06-24 04:59:13 Time Left: 4 minutes
+20-06-24 05:00:13 Time Left: 3 minutes
+20-06-24 05:01:13 Time Left: 2 minutes
+20-06-24 05:02:13 Time Left: 1 minutes
+20-06-24 05:03:13 Next map: ctf_Campeche
+20-06-24 05:03:18 Campeche by Zakath
+20-06-24 05:08:18 Time Left: 5 minutes
+20-06-24 05:08:37 200.120.145.184:23073|5123E1A141F requesting game...
+20-06-24 05:09:18 Time Left: 4 minutes
+20-06-24 05:10:18 Time Left: 3 minutes
+20-06-24 05:11:18 Time Left: 2 minutes
+20-06-24 05:12:18 Time Left: 1 minutes
+20-06-24 05:13:18 Next map: ctf_Snakebite
+20-06-24 05:13:24 Snakebite orig. by chakapoko maker
+20-06-24 05:18:24 Time Left: 5 minutes
+20-06-24 05:19:24 Time Left: 4 minutes
+20-06-24 05:20:24 Time Left: 3 minutes
+20-06-24 05:21:24 Time Left: 2 minutes
+20-06-24 05:22:24 Time Left: 1 minutes

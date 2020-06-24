@@ -1,0 +1,28 @@
+20-06-19 22:00:01    Log Started
+20-06-19 22:00:01 Opened /home/kader_b/Publico/soldat.ini
+20-06-19 22:00:01 Creating network interface.
+20-06-19 22:00:01 Loading Animations.
+20-06-19 22:00:02 Loading Lobby Servers List
+20-06-19 22:00:02 Loading Maps List
+20-06-19 22:00:02 Loading Map.
+20-06-19 22:00:02 Creating Weapons.
+20-06-19 22:00:02 Starting Game Server.
+20-06-19 22:00:02 TCP/IP File Server started
+20-06-19 22:30:02 TCP/IP File Server started
+20-06-19 23:00:02 TCP/IP File Server started
+20-06-19 23:30:02 TCP/IP File Server started
+20-06-20 00:00:02 TCP/IP File Server started
+20-06-20 00:30:02 TCP/IP File Server started
+20-06-20 01:00:02 TCP/IP File Server started
+20-06-20 01:30:02 TCP/IP File Server started
+20-06-20 02:00:02 TCP/IP File Server started
+20-06-20 02:30:02 TCP/IP File Server started
+20-06-20 03:00:02 TCP/IP File Server started
+20-06-20 03:30:02 TCP/IP File Server started
+20-06-20 04:00:02 TCP/IP File Server started
+20-06-20 04:30:02 TCP/IP File Server started
+20-06-20 05:00:02 TCP/IP File Server started
+20-06-20 05:30:02 TCP/IP File Server started
+20-06-20 06:00:02 TCP/IP File Server started
+20-06-20 06:30:02 TCP/IP File Server started
+20-06-20 07:00:02 TCP/IP File Server started

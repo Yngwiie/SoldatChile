@@ -1,0 +1,628 @@
+20-03-28 00:57:51    Console Log Started
+20-03-28 00:57:51 Welcome to Soldat 1.7.1
+20-03-28 00:57:51  [*] Preparing scripts to be launched
+20-03-28 00:57:51  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-03-28 00:57:51  [*] commands_by_keen compiled
+20-03-28 00:57:51  [*] Compiling match -> match.pas...
+20-03-28 00:57:51  [*] match compiled
+20-03-28 00:57:51  [*] Done
+20-03-28 00:57:51 ctf_Ash by chakapoko maker
+20-03-28 00:57:51 Loaded weapons mod "Default v1.8"
+20-03-28 00:57:51  Connection for file server started. Port: 23110
+20-03-28 00:57:51 Registering server @ 88.99.234.252
+20-03-28 00:57:53 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:57:55 201.239.214.185:23073|1729B102EBF requesting game...
+20-03-28 00:57:55 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:57:55 KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-03-28 00:57:55 KorN has joined as spectator.
+20-03-28 00:57:56 LB ~ Skipo joining game (201.189.214.203:23073) HWID:4EDFAA80B1B
+20-03-28 00:57:56 LB ~ Skipo has joined as spectator.
+20-03-28 00:57:56 190.46.136.226:23073|19676FD8943 requesting game...
+20-03-28 00:57:56 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 00:57:56 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 00:57:57 KorN has joined bravo team.
+20-03-28 00:57:57 190.101.190.28:23073|348574D9644 requesting game...
+20-03-28 00:57:58 [|D.Forc3|Aberracion] no wei
+20-03-28 00:57:58 |D.Forc3|RainbowDash joining game (190.46.136.226:23073) HWID:19676FD8943
+20-03-28 00:57:58 |D.Forc3|RainbowDash has joined bravo team.
+20-03-28 00:57:59 DsF - F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-03-28 00:57:59 DsF - F4ll.cL has joined alpha team.
+20-03-28 00:58:01 |D.Forc3|Aberracion has left bravo team.
+20-03-28 00:58:02 (2) KorN killed (1) DsF - F4ll.cL with Grenade
+20-03-28 00:58:02 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:58:02 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:58:02 Admin connected (191.126.170.197).
+20-03-28 00:58:02 /friendlyfire (191.126.170.197)
+20-03-28 00:58:02 Friendly Fire is 0
+20-03-28 00:58:02 /bonus (191.126.170.197)
+20-03-28 00:58:02 Current bonus frequency is 0
+20-03-28 00:58:02 /vote% (191.126.170.197)
+20-03-28 00:58:02 Voting percent is 60
+20-03-28 00:58:02 /respawntime (191.126.170.197)
+20-03-28 00:58:02 Respawn time is 3 seconds
+20-03-28 00:58:02 /maxrespawntime (191.126.170.197)
+20-03-28 00:58:02 Maximum Respawn time is 5 seconds
+20-03-28 00:58:03 186.11.63.88:5853|365FDCC8515 requesting game...
+20-03-28 00:58:03 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 00:58:03 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 00:58:04 201.214.145.27:23073|535AA511D5F requesting game...
+20-03-28 00:58:04 |X.Forc3|Lead.- joining game (201.214.145.27:23073) HWID:535AA511D5F
+20-03-28 00:58:04 |X.Forc3|Lead.- has joined as spectator.
+20-03-28 00:58:05 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 00:58:05 |BhooD| Analdo has joined alpha team.
+20-03-28 00:58:05 |BhooD| Ultra_Cod3 joining game (186.11.63.88:5853) HWID:365FDCC8515
+20-03-28 00:58:05 |BhooD| Ultra_Cod3 has joined alpha team.
+20-03-28 00:58:06 /maxrespawntime 8 (191.126.170.197)
+20-03-28 00:58:06 Maximum Respawn time changed to 8 seconds
+20-03-28 00:58:07 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 00:58:07 190.183.193.145:63841|3097693FBBF requesting game...
+20-03-28 00:58:08 |BhooD| Analdo has left alpha team.
+20-03-28 00:58:08 DsF - F4ll.cL has joined bravo team.
+20-03-28 00:58:09 HartCheat] joining game (190.183.193.145:63841) HWID:3097693FBBF
+20-03-28 00:58:09 HartCheat] has joined alpha team.
+20-03-28 00:58:09 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:58:09 /respawntime 5 (191.126.170.197)
+20-03-28 00:58:09 Respawn time changed to 5 seconds
+20-03-28 00:58:10 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 00:58:10 |BhooD| Analdo has joined alpha team.
+20-03-28 00:58:10 HartCheat] is flooding the server
+20-03-28 00:58:12 (2) KorN killed (1) HartCheat] with Desert Eagles
+20-03-28 00:58:12 HartCheat] gets a ping warning
+20-03-28 00:58:13 /limit 5 (191.126.170.197)
+20-03-28 00:58:13 kill/point/capture limit changed to 5
+20-03-28 00:58:13 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 00:58:15 (1) |BhooD| Ultra_Cod3 killed (2) KorN with M79
+20-03-28 00:58:16 190.183.193.145:63841|3097693FBBF requesting game...
+20-03-28 00:58:16 HartCheat] is flooding the server
+20-03-28 00:58:17 HartCheat] joining game (190.183.193.145:63841) HWID:3097693FBBF
+20-03-28 00:58:17 HartCheat] has joined alpha team.
+20-03-28 00:58:19 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with M79
+20-03-28 00:58:19 HartCheat] gets a ping warning
+20-03-28 00:58:20 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:58:20 |X.Forc3|.Turko joining game (191.126.170.197:22785) HWID:696908AC8E7
+20-03-28 00:58:20 |X.Forc3|.Turko has joined as spectator.
+20-03-28 00:58:20 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 00:58:22 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 00:58:23 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with M79
+20-03-28 00:58:24 (1) HartCheat] killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 00:58:26 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 00:58:26 HartCheat] gets a ping warning
+20-03-28 00:58:28 HartCheat] captured the Blue Flag
+20-03-28 00:58:30 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 00:58:32 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 00:58:33 HartCheat] gets a ping warning
+20-03-28 00:58:33 (2) |D.Forc3|RainbowDash killed (1) HartCheat] with M79
+20-03-28 00:58:34 /bonus 5 (191.126.170.197)
+20-03-28 00:58:34 Bonus frequency changed to 5
+20-03-28 00:58:34 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with M79
+20-03-28 00:58:37 |D.Forc3|RainbowDash returned the Blue Flag
+20-03-28 00:58:38 |D.Forc3|Aberracion has left bravo team.
+20-03-28 00:58:40 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:58:40 HartCheat] gets a ping warning
+20-03-28 00:58:42 (2) |X.Forc3|Lead.- killed (1) HartCheat] with M79
+20-03-28 00:58:43 (1) HartCheat] killed (2) |X.Forc3|Lead.- with M79
+20-03-28 00:58:43 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Spas-12
+20-03-28 00:58:47 HartCheat] gets a ping warning
+20-03-28 00:58:48 LB ~ Skipo has left spectators
+20-03-28 00:58:49 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:58:49 (2) KorN killed (1) HartCheat] with Grenade
+20-03-28 00:58:50 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:58:52 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with M79
+20-03-28 00:58:52 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:58:53 |X.Forc3|.Turko has left spectators
+20-03-28 00:58:54 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:58:54 HartCheat] gets a ping warning
+20-03-28 00:58:55 DsF - F4ll.cL captured the Red Flag
+20-03-28 00:58:55 Admin disconnected (191.126.170.197).
+20-03-28 00:58:56 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:58:57 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:58:59 201.214.190.176:23073|3E87BD17409 requesting game...
+20-03-28 00:58:59 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 00:58:59 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:58:59 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 00:59:00 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:59:01 |BhooD| Analdo has left alpha team.
+20-03-28 00:59:01 |BhooD| bio* joining game (201.214.190.176:23073) HWID:3E87BD17409
+20-03-28 00:59:01 |BhooD| bio* has joined alpha team.
+20-03-28 00:59:01 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:59:01 [|BhooD| Ultra_Cod3] skipo
+20-03-28 00:59:01 HartCheat] gets a ping warning
+20-03-28 00:59:01 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 00:59:02 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:03 [|BhooD| Ultra_Cod3] queri jugar?
+20-03-28 00:59:04 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:05 (2) |X.Forc3|Lead.- killed (1) |BhooD| bio* with Grenade
+20-03-28 00:59:06 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 00:59:06 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:08 HartCheat] gets a ping warning
+20-03-28 00:59:09 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:12 (2) KorN killed (1) |BhooD| bio* with Desert Eagles
+20-03-28 00:59:14 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:14 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Combat Knife
+20-03-28 00:59:14 (2) DsF - F4ll.cL killed (1) HartCheat] with Grenade
+20-03-28 00:59:15 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 00:59:15 HartCheat] gets a ping warning
+20-03-28 00:59:18 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:18 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:19 KorN captured the Red Flag
+20-03-28 00:59:19 (2) |X.Forc3|Lead.- killed (1) |BhooD| bio* with Grenade
+20-03-28 00:59:20 (2) KorN killed (1) HartCheat] with Grenade
+20-03-28 00:59:20 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:20 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 00:59:22 HartCheat] gets a ping warning
+20-03-28 00:59:23 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 00:59:25 (2) |X.Forc3|Lead.- killed (1) HartCheat] with M79
+20-03-28 00:59:26 (1) HartCheat] killed (2) |X.Forc3|Lead.- with M79
+20-03-28 00:59:26 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 00:59:27 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:29 |BhooD| bio* returned the Red Flag
+20-03-28 00:59:29 HartCheat] gets a ping warning
+20-03-28 00:59:29 HartCheat] has been kicked and banned for 15 minutes (Ping Kick)
+20-03-28 00:59:30 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 00:59:30 |BhooD| Analdo has joined bravo team.
+20-03-28 00:59:31 |BhooD| Analdo is flooding the server
+20-03-28 00:59:32 |BhooD| Analdo is flooding the server
+20-03-28 00:59:33 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 00:59:33 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 00:59:33 [|BhooD| bio*] no lo de sbaneen
+20-03-28 00:59:34 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 00:59:34 |BhooD| Analdo has joined alpha team.
+20-03-28 00:59:34 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 00:59:35 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:36 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:59:38 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 00:59:38 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 00:59:38 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 00:59:38 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:59:39 |D.Forc3|Aberracion is flooding the server
+20-03-28 00:59:40 |D.Forc3|Aberracion is flooding the server
+20-03-28 00:59:40 Admin connected (191.126.170.197).
+20-03-28 00:59:41 /friendlyfire (191.126.170.197)
+20-03-28 00:59:41 Friendly Fire is 0
+20-03-28 00:59:41 /bonus (191.126.170.197)
+20-03-28 00:59:41 Current bonus frequency is 5
+20-03-28 00:59:41 /vote% (191.126.170.197)
+20-03-28 00:59:41 Voting percent is 60
+20-03-28 00:59:41 /respawntime (191.126.170.197)
+20-03-28 00:59:41 Respawn time is 5 seconds
+20-03-28 00:59:41 /maxrespawntime (191.126.170.197)
+20-03-28 00:59:41 Maximum Respawn time is 8 seconds
+20-03-28 00:59:41 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 00:59:42 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 00:59:42 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 00:59:43 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 00:59:43 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 00:59:43 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 00:59:46 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Spas-12
+20-03-28 00:59:47 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 00:59:48 LB ~ Skipo joining game (201.189.214.203:23073) HWID:4EDFAA80B1B
+20-03-28 00:59:48 LB ~ Skipo has joined as spectator.
+20-03-28 00:59:49 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 00:59:49 LB ~ Skipo is flooding the server
+20-03-28 00:59:50 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 00:59:50 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 00:59:50 LB ~ Skipo joining game (201.189.214.203:23073) HWID:4EDFAA80B1B
+20-03-28 00:59:50 LB ~ Skipo has joined as spectator.
+20-03-28 00:59:53 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 00:59:55 190.161.152.160:23073|1F387DCE705 requesting game...
+20-03-28 00:59:56 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Grenade
+20-03-28 00:59:57 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 00:59:57 |BhooD| patuzhOO* joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-03-28 00:59:57 |BhooD| patuzhOO* has joined alpha team.
+20-03-28 00:59:57 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Grenade
+20-03-28 01:00:01 191.126.170.197:22785|696908AC8E7 requesting game...
+20-03-28 01:00:02 |X.Forc3|.Turko joining game (191.126.170.197:22785) HWID:696908AC8E7
+20-03-28 01:00:02 |X.Forc3|.Turko has joined as spectator.
+20-03-28 01:00:02 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Combat Knife
+20-03-28 01:00:03 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with M79
+20-03-28 01:00:03 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:00:04 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:00:08 (2) KorN killed (1) |BhooD| bio* with Desert Eagles
+20-03-28 01:00:09 |BhooD| Analdo has left alpha team.
+20-03-28 01:00:10 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 01:00:12 152.173.254.7:23073|4AB90FFB448 requesting game...
+20-03-28 01:00:13 |BhooD| Analdo joining game (152.173.254.7:23073) HWID:4AB90FFB448
+20-03-28 01:00:13 |BhooD| Analdo has joined alpha team.
+20-03-28 01:00:13 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:00:16 |D.Forc3|Aberracion has left bravo team.
+20-03-28 01:00:16 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:00:17 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:00:18 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:00:18 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with M79
+20-03-28 01:00:23 190.183.193.145:63841|3097693FBBF requesting game (Ping Kick)...
+20-03-28 01:00:23 (2) KorN killed (1) |BhooD| patuzhOO* with Hands
+20-03-28 01:00:25 (1) |BhooD| bio* killed (2) KorN with Barrett M82A1
+20-03-28 01:00:25 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:00:25 |BhooD| Analdo gets a ping warning
+20-03-28 01:00:28 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Spas-12
+20-03-28 01:00:31 (1) |BhooD| Analdo killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:00:33 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Grenade
+20-03-28 01:00:33 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:00:36 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:00:37 201.189.171.79:23073|B91123F9945 requesting game...
+20-03-28 01:00:37 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Spas-12
+20-03-28 01:00:38 |D.Forc3|Aberracion joining game (201.189.171.79:23073) HWID:B91123F9945
+20-03-28 01:00:38 |D.Forc3|Aberracion has joined bravo team.
+20-03-28 01:00:39 DsF - F4ll.cL returned the Blue Flag
+20-03-28 01:00:40 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:00:43 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with M79
+20-03-28 01:00:43 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:00:44 |BhooD| Ultra_Cod3 captured the Blue Flag
+20-03-28 01:00:44 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Combat Knife
+20-03-28 01:00:45 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:00:46 [|X.Forc3|Lead.-] !bonus on
+20-03-28 01:00:48 (1) |BhooD| Analdo killed (2) KorN with Grenade
+20-03-28 01:00:51 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with M79
+20-03-28 01:00:53 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:00:54 |BhooD| Ultra_Cod3 returned the Red Flag
+20-03-28 01:00:54 |BhooD| Ultra_Cod3 scores for Alpha Team
+20-03-28 01:00:55 [|BhooD| patuzhOO*] berserker
+20-03-28 01:00:57 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:01:00 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:01:01 [|X.Forc3|Lead.-] !vest
+20-03-28 01:01:01 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 01:01:02 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:01:04 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with M79
+20-03-28 01:01:07 [|BhooD| bio*] !cluster
+20-03-28 01:01:08 [DsF - F4ll.cL] puta
+20-03-28 01:01:08 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:01:09 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Grenade
+20-03-28 01:01:09 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:01:14 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:01:14 (2) |X.Forc3|Lead.- killed (1) |BhooD| bio* with M79
+20-03-28 01:01:19 [LB ~ Skipo] turko no sabe poner bonus 1
+20-03-28 01:01:20 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:01:20 [LB ~ Skipo] :c
+20-03-28 01:01:21 (1) |BhooD| patuzhOO* killed (2) |X.Forc3|Lead.- with M79
+20-03-28 01:01:22 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Spas-12
+20-03-28 01:01:24 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:01:24 [|D.Forc3|Aberracion] dile
+20-03-28 01:01:25 [KorN] LMAOOOOOOOOOOOOOOOOO
+20-03-28 01:01:25 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with M79
+20-03-28 01:01:27 [|X.Forc3|Lead.-] !invible
+20-03-28 01:01:28 |BhooD| Analdo gets a ping warning
+20-03-28 01:01:31 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Spas-12
+20-03-28 01:01:32 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Spas-12
+20-03-28 01:01:34 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:01:34 [DsF - F4ll.cL] pongan los bonus porfavor
+20-03-28 01:01:35 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:01:37 [|X.Forc3|Lead.-] !invisible
+20-03-28 01:01:37 (1) |BhooD| Analdo killed (2) KorN with Grenade
+20-03-28 01:01:39 [LB ~ Skipo] aer
+20-03-28 01:01:43 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Combat Knife
+20-03-28 01:01:44 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 01:01:46 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:01:47 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:01:47 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Barrett M82A1
+20-03-28 01:01:49 LB ~ Skipo added to Game Admins
+20-03-28 01:01:52 /bonus 1(201.189.214.203[LB ~ Skipo])
+20-03-28 01:01:52 Bonus frequency changed to 1
+20-03-28 01:01:53 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:01:55 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:01:55 190.160.49.117:23073|1CDCFBD4CBD requesting game...
+20-03-28 01:01:56 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:01:56 [LB ~ Skipo] aer ahora
+20-03-28 01:01:56 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with LAW
+20-03-28 01:01:56 S2 ~ Zorro* joining game (190.160.49.117:23073) HWID:1CDCFBD4CBD
+20-03-28 01:01:56 S2 ~ Zorro* has joined alpha team.
+20-03-28 01:01:57 DsF - F4ll.cL returned the Blue Flag
+20-03-28 01:02:00 (1) |BhooD| bio* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:02:02 (2) KorN killed (1) |BhooD| bio* with Desert Eagles
+20-03-28 01:02:02 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:02:04 S2 ~ Zorro* has left alpha team.
+20-03-28 01:02:04 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|RainbowDash with FN Minimi
+20-03-28 01:02:06 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Spas-12
+20-03-28 01:02:07 (1) |BhooD| patuzhOO* killed (2) KorN with FN Minimi
+20-03-28 01:02:07 (2) KorN killed (1) |BhooD| patuzhOO* with LAW
+20-03-28 01:02:08 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:02:10 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Spas-12
+20-03-28 01:02:11 /BONUS 5 (191.126.170.197)
+20-03-28 01:02:11 Bonus frequency changed to 5
+20-03-28 01:02:12 |BhooD| Analdo returned the Red Flag
+20-03-28 01:02:12 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 01:02:14 190.160.49.117:23073|1CDCFBD4CBD requesting game...
+20-03-28 01:02:14 |BhooD| Ultra_Cod3 captured the Blue Flag
+20-03-28 01:02:15 |BhooD| Zorro* joining game (190.160.49.117:23073) HWID:1CDCFBD4CBD
+20-03-28 01:02:15 |BhooD| Zorro* has joined alpha team.
+20-03-28 01:02:17 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:02:17 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:02:18 (2) KorN killed (1) |BhooD| bio* with Desert Eagles
+20-03-28 01:02:18 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 01:02:19 (2) KorN killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:02:19 /bonus 5(201.189.214.203[LB ~ Skipo])
+20-03-28 01:02:19 Bonus frequency changed to 5
+20-03-28 01:02:20 [|BhooD| Zorro*] que lindo esto
+20-03-28 01:02:20 (1) |BhooD| bio* killed (2) KorN with Grenade
+20-03-28 01:02:21 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:02:22 |X.Forc3|Lead.- returned the Blue Flag
+20-03-28 01:02:24 |X.Forc3|Lead.- scores for Bravo Team
+20-03-28 01:02:29 [|BhooD| bio*] !ub
+20-03-28 01:02:29 IP number 190.183.193.145 unbanned
+20-03-28 01:02:29 HWID 3097693FBBF unbanned
+20-03-28 01:02:30 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:02:32 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:02:33 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:02:35 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with Spas-12
+20-03-28 01:02:36 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:02:37 DsF - F4ll.cL returned the Blue Flag
+20-03-28 01:02:38 [|BhooD| patuzhOO*] viene warp knife
+20-03-28 01:02:39 [LB ~ Skipo] deberian estar saliendo en unos 30seg de ahora aer
+20-03-28 01:02:40 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:02:40 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:02:44 (2) DsF - F4ll.cL killed (1) |BhooD| Ultra_Cod3 with Spas-12
+20-03-28 01:02:47 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:02:51 Time Left: 5 minutes
+20-03-28 01:02:51 (1) |BhooD| Zorro* killed (2) KorN with Spas-12
+20-03-28 01:02:53 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:02:55 [|D.Forc3|Aberracion] falta la nerax
+20-03-28 01:02:56 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:02:56 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:02:59 (2) |X.Forc3|Lead.- killed (1) |BhooD| Ultra_Cod3 with M79
+20-03-28 01:03:00 [LB ~ Skipo] jajaja
+20-03-28 01:03:04 (1) |BhooD| bio* killed (2) KorN with USSOCOM
+20-03-28 01:03:05 |BhooD| Analdo scores for Alpha Team
+20-03-28 01:03:05 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:03:10 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:03:11 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Analdo with Ruger 77
+20-03-28 01:03:12 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:03:13 (1) |BhooD| bio* killed (2) KorN with Grenade
+20-03-28 01:03:16 [DsF - F4ll.cL] el veeest
+20-03-28 01:03:24 (1) |BhooD| bio* killed (2) KorN with USSOCOM
+20-03-28 01:03:26 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Grenade
+20-03-28 01:03:26 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with M79
+20-03-28 01:03:26 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:03:29 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:03:32 (1) |BhooD| Zorro* killed (2) KorN with Grenade
+20-03-28 01:03:33 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:03:33 (2) |D.Forc3|RainbowDash killed (1) |BhooD| patuzhOO* with Ruger 77
+20-03-28 01:03:34 |D.Forc3|Aberracion returned the Blue Flag
+20-03-28 01:03:36 (1) |BhooD| bio* killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:03:38 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:03:39 |BhooD| Ultra_Cod3 captured the Blue Flag
+20-03-28 01:03:40 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Hands
+20-03-28 01:03:41 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:03:42 |D.Forc3|RainbowDash captured the Red Flag
+20-03-28 01:03:43 [|BhooD| Analdo] EL RESPAW ESTA IGUAL
+20-03-28 01:03:43 (1) |BhooD| Zorro* killed (2) KorN with M79
+20-03-28 01:03:45 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|RainbowDash with M79
+20-03-28 01:03:47 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Grenade
+20-03-28 01:03:49 [|D.Forc3|Aberracion] deberia estar en 7
+20-03-28 01:03:50 |BhooD| bio* returned the Red Flag
+20-03-28 01:03:50 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Combat Knife
+20-03-28 01:03:50 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with M79
+20-03-28 01:03:50 [|BhooD| Zorro*] no
+20-03-28 01:03:51 190.183.193.145:63857|3097693FBBF requesting game...
+20-03-28 01:03:51 Time Left: 4 minutes
+20-03-28 01:03:52 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Spas-12
+20-03-28 01:03:53 HartCheat] joining game (190.183.193.145:63857) HWID:3097693FBBF
+20-03-28 01:03:53 HartCheat] has joined as spectator.
+20-03-28 01:03:53 /respawntime 5 (191.126.170.197)
+20-03-28 01:03:53 Respawn time changed to 5 seconds
+20-03-28 01:03:53 [|BhooD| Zorro*] hay mas
+20-03-28 01:03:54 [|BhooD| Analdo] 3 SG
+20-03-28 01:03:55 [LB ~ Skipo] xd
+20-03-28 01:03:55 [KorN] Eesta ok
+20-03-28 01:03:55 [|BhooD| Zorro*] ahi me dio 6
+20-03-28 01:03:55 HartCheat] gets a ping warning
+20-03-28 01:03:56 [LB ~ Skipo] jajajajaj
+20-03-28 01:03:57 /maxrespawntime 8 (191.126.170.197)
+20-03-28 01:03:57 Maximum Respawn time changed to 8 seconds
+20-03-28 01:03:57 (1) |BhooD| Analdo killed (2) KorN with Combat Knife
+20-03-28 01:03:58 [DsF - F4ll.cL] resetea la wea
+20-03-28 01:03:59 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:04:01 [DsF - F4ll.cL] pa q salgan bonus
+20-03-28 01:04:01 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:04:01 (2) |D.Forc3|Aberracion killed (1) |BhooD| bio* with Barrett M82A1
+20-03-28 01:04:01 [LB ~ Skipo] turko vay a tener q modificarlo del ini
+20-03-28 01:04:02 HartCheat] gets a ping warning
+20-03-28 01:04:04 [LB ~ Skipo] xd
+20-03-28 01:04:04 [DsF - F4ll.cL] sino no es vieja escuel
+20-03-28 01:04:06 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Zorro* with Ruger 77
+20-03-28 01:04:08 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Spas-12
+20-03-28 01:04:09 [|BhooD| Zorro*] jajajajaa
+20-03-28 01:04:09 HartCheat] gets a ping warning
+20-03-28 01:04:10 [|BhooD| Zorro*] apaño
+20-03-28 01:04:11 |X.Forc3|Lead.- has left bravo team.
+20-03-28 01:04:12 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:04:13 (1) |BhooD| bio* killed (2) KorN with Barrett M82A1
+20-03-28 01:04:14 /say [Turko] ta modificado wum (191.126.170.197)
+20-03-28 01:04:16 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:04:16 |BhooD| Ultra_Cod3 gets a ping warning
+20-03-28 01:04:16 HartCheat] gets a ping warning
+20-03-28 01:04:17 [LB ~ Skipo] q raro
+20-03-28 01:04:18 201.214.145.27:23073|535AA511D5F requesting game...
+20-03-28 01:04:18 |X.Forc3|Lead.- joining game (201.214.145.27:23073) HWID:535AA511D5F
+20-03-28 01:04:18 |X.Forc3|Lead.- has joined as spectator.
+20-03-28 01:04:20 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-03-28 01:04:20 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:04:20 d4zy has joined as spectator.
+20-03-28 01:04:23 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Zorro* with Ruger 77
+20-03-28 01:04:23 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:04:23 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 01:04:23 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-03-28 01:04:23 HartCheat] gets a ping warning
+20-03-28 01:04:24 d4zy has left spectators
+20-03-28 01:04:24 #1 Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-03-28 01:04:24 #1 Mand3s has joined as spectator.
+20-03-28 01:04:28 181.25.247.63:23073|FA809FDDA68 requesting game...
+20-03-28 01:04:29 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:04:29 [KorN] go
+20-03-28 01:04:30 d4zy joining game (181.25.247.63:23073) HWID:FA809FDDA68
+20-03-28 01:04:30 d4zy has joined as spectator.
+20-03-28 01:04:30 HartCheat] gets a ping warning
+20-03-28 01:04:31 [|D.Forc3|Aberracion] ya jugemos
+20-03-28 01:04:31 |X.Forc3|Lead.- captured the Red Flag
+20-03-28 01:04:31 [DsF - F4ll.cL] buuuuuu
+20-03-28 01:04:32 [|BhooD| patuzhOO*] llamate a mccra
+20-03-28 01:04:32 (2) KorN killed (1) |BhooD| Zorro* with LAW
+20-03-28 01:04:32 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Spas-12
+20-03-28 01:04:34 [|BhooD| Zorro*] go
+20-03-28 01:04:37 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:04:37 HartCheat] gets a ping warning
+20-03-28 01:04:37 (2) KorN killed (1) |BhooD| bio* with Grenade
+20-03-28 01:04:38 |X.Forc3|Lead.- has left bravo team.
+20-03-28 01:04:39 [|D.Forc3|Aberracion] empezamos en ash?
+20-03-28 01:04:40 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Zorro* with Ruger 77
+20-03-28 01:04:41 [|BhooD| Zorro*] !map Laos
+20-03-28 01:04:41 Map not found (Laos)
+20-03-28 01:04:41 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:04:41 (1) |BhooD| Analdo killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:04:44 |D.Forc3|Aberracion captured the Red Flag
+20-03-28 01:04:44 201.214.145.27:23073|535AA511D5F requesting game...
+20-03-28 01:04:44 HartCheat] gets a ping warning
+20-03-28 01:04:45 |X.Forc3|Lead.- joining game (201.214.145.27:23073) HWID:535AA511D5F
+20-03-28 01:04:45 |X.Forc3|Lead.- has joined as spectator.
+20-03-28 01:04:45 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Barrett M82A1
+20-03-28 01:04:46 |X.Forc3|Lead.- has joined bravo team.
+20-03-28 01:04:47 |BhooD| Zorro* captured the Blue Flag
+20-03-28 01:04:49 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Barrett M82A1
+20-03-28 01:04:49 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Spas-12
+20-03-28 01:04:51 Time Left: 3 minutes
+20-03-28 01:04:51 HartCheat] gets a ping warning
+20-03-28 01:04:53 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:04:53 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:04:56 KorN captured the Red Flag
+20-03-28 01:04:58 [|D.Forc3|RainbowDash] snakebite es igual para ambos lados 
+20-03-28 01:04:58 (2) KorN killed (1) |BhooD| bio* with Desert Eagles
+20-03-28 01:04:58 HartCheat] gets a ping warning
+20-03-28 01:05:00 (1) |BhooD| Ultra_Cod3 killed (2) KorN with Spas-12
+20-03-28 01:05:01 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Grenade
+20-03-28 01:05:04 [DsF - F4ll.cL] era bkn el invi
+20-03-28 01:05:04 |BhooD| Ultra_Cod3 returned the Red Flag
+20-03-28 01:05:05 [|BhooD| patuzhOO*] empezemos ash nomas
+20-03-28 01:05:05 HartCheat] gets a ping warning
+20-03-28 01:05:05 HartCheat] has been kicked and banned for 15 minutes (Ping Kick)
+20-03-28 01:05:07 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|RainbowDash with LAW
+20-03-28 01:05:09 (1) |BhooD| Ultra_Cod3 killed (2) DsF - F4ll.cL with Spas-12
+20-03-28 01:05:10 [|D.Forc3|Aberracion] mc cra esta demandao por pension haciendo nocturna
+20-03-28 01:05:11 [|BhooD| Zorro*] !ub
+20-03-28 01:05:11 IP number 190.183.193.145 unbanned
+20-03-28 01:05:11 HWID 3097693FBBF unbanned
+20-03-28 01:05:11 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:05:15 (1) |BhooD| bio* killed (2) KorN with USSOCOM
+20-03-28 01:05:17 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with M79
+20-03-28 01:05:17 [DsF - F4ll.cL] !map ctf_B2b
+20-03-28 01:05:19 [LB ~ Skipo] puta sino debe ser el script q tenga alguna wea q bloquee eso, q se yo xd
+20-03-28 01:05:21 [|BhooD| Analdo] YLOS BONUS
+20-03-28 01:05:22 B2B
+20-03-28 01:05:23 LB ~ Skipo has left spectators
+20-03-28 01:05:24 201.189.214.203:23073|4EDFAA80B1B requesting game...
+20-03-28 01:05:25 LB ~ Skipo joining game (201.189.214.203:23073) HWID:4EDFAA80B1B
+20-03-28 01:05:25 LB ~ Skipo has joined as spectator.
+20-03-28 01:05:29 [|BhooD| patuzhOO*] go?
+20-03-28 01:05:30 [|D.Forc3|Aberracion] no salio los bonus
+20-03-28 01:05:32 [DsF - F4ll.cL] el turko
+20-03-28 01:05:33 [DsF - F4ll.cL] no sabe
+20-03-28 01:05:33 d4zy gets a ping warning
+20-03-28 01:05:35 [KorN] no lo logro
+20-03-28 01:05:35 [DsF - F4ll.cL] como ponerlos
+20-03-28 01:05:35 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:05:35 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:05:37 [DsF - F4ll.cL] q pena :(
+20-03-28 01:05:38 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:05:41 (1) |BhooD| Zorro* killed (2) |X.Forc3|Lead.- with Spas-12
+20-03-28 01:05:41 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Barrett M82A1
+20-03-28 01:05:41 [DsF - F4ll.cL] !r
+20-03-28 01:05:42 [|BhooD| Analdo] KIEN LO DEJO DE ADM
+20-03-28 01:05:43 [|BhooD| Analdo] JAJAJAJAJ
+20-03-28 01:05:43 [KorN] go
+20-03-28 01:05:44 190.183.193.145:63857|3097693FBBF requesting game...
+20-03-28 01:05:45 190.183.193.145:63857|3097693FBBF requesting game...
+20-03-28 01:05:47 [|BhooD| patuzhOO*] pongfanse bien el tag
+20-03-28 01:05:47 HartCheat] joining game (190.183.193.145:63857) HWID:3097693FBBF
+20-03-28 01:05:47 HartCheat] has joined as spectator.
+20-03-28 01:05:47 B2B
+20-03-28 01:05:47 HartCheat] gets a ping warning
+20-03-28 01:05:54 HartCheat] gets a ping warning
+20-03-28 01:05:56 /bonus 5(201.189.214.203[LB ~ Skipo])
+20-03-28 01:05:56 Bonus frequency changed to 5
+20-03-28 01:05:58 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:05:59 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:06:00 (1) |BhooD| Zorro* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:06:01 HartCheat] gets a ping warning
+20-03-28 01:06:02 (2) KorN killed (1) |BhooD| patuzhOO* with Desert Eagles
+20-03-28 01:06:03 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Grenade
+20-03-28 01:06:05 (2) KorN killed (1) |BhooD| Ultra_Cod3 with Desert Eagles
+20-03-28 01:06:08 (1) |BhooD| Zorro* killed (2) KorN with Barrett M82A1
+20-03-28 01:06:08 HartCheat] gets a ping warning
+20-03-28 01:06:12 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Ak-74
+20-03-28 01:06:13 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:06:15 HartCheat] gets a ping warning
+20-03-28 01:06:18 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:06:21 (TEAM)[HartCheat]] pq no teiene el radar el sv -.-
+20-03-28 01:06:22 (RADIO)[|BhooD| Analdo] Incoming up!
+20-03-28 01:06:22 HartCheat] gets a ping warning
+20-03-28 01:06:24 (1) |BhooD| patuzhOO* killed (2) DsF - F4ll.cL with Grenade
+20-03-28 01:06:24 (2) KorN killed (1) |BhooD| Analdo with Desert Eagles
+20-03-28 01:06:26 (RADIO)[|BhooD| Analdo] Incoming up!
+20-03-28 01:06:29 HartCheat] gets a ping warning
+20-03-28 01:06:33 LB ~ Skipo has left spectators
+20-03-28 01:06:33 (1) |BhooD| Zorro* killed (2) KorN with Desert Eagles
+20-03-28 01:06:34 (2) |D.Forc3|Aberracion killed (1) |BhooD| patuzhOO* with Ak-74
+20-03-28 01:06:34 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:06:35 (2) |D.Forc3|Aberracion killed (1) |BhooD| Zorro* with Ak-74
+20-03-28 01:06:36 HartCheat] gets a ping warning
+20-03-28 01:06:37 (TEAM)[d4zy] indio porque tenes tanto ping
+20-03-28 01:06:38 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Ak-74
+20-03-28 01:06:38 (1) |BhooD| Analdo killed (2) |D.Forc3|Aberracion with Grenade
+20-03-28 01:06:42 (2) |D.Forc3|RainbowDash killed (1) |BhooD| Ultra_Cod3 with Steyr AUG
+20-03-28 01:06:43 HartCheat] gets a ping warning
+20-03-28 01:06:46 (2) DsF - F4ll.cL killed (1) |BhooD| Analdo with M79
+20-03-28 01:06:47 DsF - F4ll.cL captured the Red Flag
+20-03-28 01:06:47 (1) |BhooD| Zorro* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:06:49 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Barrett M82A1
+20-03-28 01:06:50 HartCheat] gets a ping warning
+20-03-28 01:06:52 (1) |BhooD| patuzhOO* killed (2) KorN with Grenade
+20-03-28 01:06:53 (TEAM)[HartCheat]] pq toy al otro lado del mundo del sv
+20-03-28 01:06:54 (2) |X.Forc3|Lead.- killed (1) |BhooD| Zorro* with Steyr AUG
+20-03-28 01:06:56 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:06:56 (TEAM)[#1 Mand3s] porque vive en el campo
+20-03-28 01:06:57 |BhooD| bio* captured the Blue Flag
+20-03-28 01:06:57 HartCheat] gets a ping warning
+20-03-28 01:07:00 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with Grenade
+20-03-28 01:07:01 |BhooD| patuzhOO* returned the Red Flag
+20-03-28 01:07:03 |D.Forc3|RainbowDash returned the Blue Flag
+20-03-28 01:07:04 HartCheat] gets a ping warning
+20-03-28 01:07:04 HartCheat] has been kicked and banned for 15 minutes (Ping Kick)
+20-03-28 01:07:08 [d4zy] !ub
+20-03-28 01:07:08 IP number 190.183.193.145 unbanned
+20-03-28 01:07:08 HWID 3097693FBBF unbanned
+20-03-28 01:07:09 |BhooD| Analdo captured the Blue Flag
+20-03-28 01:07:09 (2) |X.Forc3|Lead.- killed (1) |BhooD| Analdo with Steyr AUG
+20-03-28 01:07:10 (2) DsF - F4ll.cL killed (1) |BhooD| Zorro* with M79
+20-03-28 01:07:11 (1) |BhooD| Zorro* killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:07:11 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Ak-74
+20-03-28 01:07:14 |D.Forc3|RainbowDash returned the Blue Flag
+20-03-28 01:07:14 (1) |BhooD| bio* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:07:15 (1) |BhooD| patuzhOO* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:07:18 |BhooD| patuzhOO* captured the Blue Flag
+20-03-28 01:07:19 (2) KorN killed (1) |BhooD| bio* with LAW
+20-03-28 01:07:20 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:07:24 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:07:27 (1) |BhooD| Zorro* killed (2) |D.Forc3|Aberracion with Barrett M82A1
+20-03-28 01:07:28 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with Barrett M82A1
+20-03-28 01:07:30 |BhooD| patuzhOO* scores for Alpha Team
+20-03-28 01:07:33 (1) |BhooD| Analdo killed (2) KorN with Barrett M82A1
+20-03-28 01:07:34 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:07:36 (1) |BhooD| Analdo killed (2) DsF - F4ll.cL with LAW
+20-03-28 01:07:40 (2) |X.Forc3|Lead.- killed (1) |BhooD| patuzhOO* with Grenade
+20-03-28 01:07:42 (1) |BhooD| Ultra_Cod3 killed (2) |X.Forc3|Lead.- with Ak-74
+20-03-28 01:07:44 (2) |D.Forc3|Aberracion killed (1) |BhooD| Analdo with Grenade
+20-03-28 01:07:44 (2) |D.Forc3|RainbowDash killed (1) |BhooD| bio* with Steyr AUG
+20-03-28 01:07:45 (2) |D.Forc3|Aberracion killed (1) |BhooD| Ultra_Cod3 with Ak-74
+20-03-28 01:07:53 d4zy gets a ping warning
+20-03-28 01:07:54 (2) DsF - F4ll.cL killed (1) |BhooD| patuzhOO* with M79
+20-03-28 01:07:56 [|D.Forc3|Aberracion] cabros
+20-03-28 01:07:58 (1) |BhooD| bio* killed (2) |D.Forc3|RainbowDash with Grenade
+20-03-28 01:07:59 [|D.Forc3|Aberracion] salio el bonus
+20-03-28 01:08:00 d4zy gets a ping warning
+20-03-28 01:08:01 (1) |BhooD| Analdo killed (2) |X.Forc3|Lead.- with Barrett M82A1
+20-03-28 01:08:01 [DsF - F4ll.cL] van a poner los bonus
+20-03-28 01:08:02 [DsF - F4ll.cL] porfin
+20-03-28 01:08:02 [|D.Forc3|Aberracion] ahora si q si
+20-03-28 01:08:08 (1) |BhooD| Ultra_Cod3 killed (2) |D.Forc3|Aberracion with Ak-74
+20-03-28 01:08:10 (2) DsF - F4ll.cL killed (1) |BhooD| bio* with M79
+20-03-28 01:08:10 Shutting down server...
+20-03-28 01:08:10 Shutting down FileServer...
+20-03-28 01:08:10 Shutting down admin server...
+20-03-28 01:08:10 Admin disconnected (191.126.170.197).

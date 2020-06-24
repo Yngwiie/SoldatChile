@@ -1,0 +1,30 @@
+20-04-15 13:02:57    Log Started
+20-04-15 13:02:57 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-15 13:02:57 Creating network interface.
+20-04-15 13:02:57 Loading Animations.
+20-04-15 13:02:57 Loading Lobby Servers List
+20-04-15 13:02:57 Loading Maps List
+20-04-15 13:02:57 Loading Map.
+20-04-15 13:02:57 Creating Weapons.
+20-04-15 13:02:57 Starting Game Server.
+20-04-15 13:02:57 TCP/IP File Server started
+20-04-15 13:32:58 TCP/IP File Server started
+20-04-15 14:03:10 TCP/IP File Server started
+20-04-15 14:33:10 TCP/IP File Server started
+20-04-15 15:03:10 TCP/IP File Server started
+20-04-15 15:33:10 TCP/IP File Server started
+20-04-15 16:03:10 TCP/IP File Server started
+20-04-15 16:33:10 TCP/IP File Server started
+20-04-15 17:03:10 TCP/IP File Server started
+20-04-15 17:33:10 TCP/IP File Server started
+20-04-15 17:44:08  Net - sT#' Mand3s connected 15-04-2020 17:44:08
+20-04-15 17:44:23  Net - sT#' Mand3s connected 15-04-2020 17:44:23
+20-04-15 17:44:48  Net - .:{MIS}:. H[2]O connected 15-04-2020 17:44:48
+20-04-15 17:44:52  Net - sT#' SenzacL* connected 15-04-2020 17:44:52
+20-04-15 17:44:59  Net - sT#' Mand3s disconnected 15-04-2020 17:44:59
+20-04-15 17:45:02  Net - sT#' SenzacL* disconnected 15-04-2020 17:45:02
+20-04-15 17:45:07  Net - .:{MIS}:. H[2]O disconnected 15-04-2020 17:45:07
+20-04-15 18:03:10 TCP/IP File Server started
+20-04-15 18:33:10 TCP/IP File Server started
+20-04-15 18:36:50 Destroying Devices.
+20-04-15 18:36:50    End of Log.

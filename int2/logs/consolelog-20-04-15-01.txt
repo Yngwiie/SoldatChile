@@ -1,0 +1,115 @@
+20-04-15 10:05:10    Console Log Started
+20-04-15 10:05:10 Welcome to Soldat 1.7.1
+20-04-15 10:05:10  [*] Preparing scripts to be launched
+20-04-15 10:05:10  [*] [BasicCommands] Loading bytecode
+20-04-15 10:05:10  [*] [BasicCommands] Bytecode loaded
+20-04-15 10:05:10  [*] Compiling match -> match.pas...
+20-04-15 10:05:10  [*] match compiled
+20-04-15 10:05:10  [*] Done
+20-04-15 10:05:10 Lothic - Gothic Lobby Room
+20-04-15 10:05:10 Loaded weapons mod "Default v1.8"
+20-04-15 10:05:10  Connection for file server started. Port: 23110
+20-04-15 10:05:11 Registering server @ 88.99.234.252
+20-04-15 10:07:25 45.232.32.208:3449|696908AC8E7 requesting game...
+20-04-15 10:07:26 |X.Forc3|.Turko joining game (45.232.32.208:3449) HWID:696908AC8E7
+20-04-15 10:07:26 |X.Forc3|.Turko has joined as spectator.
+20-04-15 10:07:30 |X.Forc3|.Turko has joined alpha team.
+20-04-15 10:07:39 |X.Forc3|.Turko has left alpha team.
+20-04-15 10:08:02 45.232.32.208:3449|696908AC8E7 requesting game...
+20-04-15 10:08:03 |X.Forc3|.Turko joining game (45.232.32.208:3449) HWID:696908AC8E7
+20-04-15 10:08:03 |X.Forc3|.Turko has joined as spectator.
+20-04-15 10:08:04 |X.Forc3|.Turko has joined alpha team.
+20-04-15 16:10:27 Time Left: 5 minutes
+20-04-15 16:10:28 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:11:27 Time Left: 4 minutes
+20-04-15 16:12:27 Time Left: 3 minutes
+20-04-15 16:13:27 Time Left: 2 minutes
+20-04-15 16:14:27 Time Left: 1 minutes
+20-04-15 16:15:27 Next map: Lobby
+20-04-15 16:15:33 Lothic - Gothic Lobby Room
+20-04-15 16:17:14 95.10.24.14:50775|5887FBBBB84 requesting game...
+20-04-15 16:18:38 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:20:21 |X.Forc3|.Turko has left alpha team.
+20-04-15 16:20:33 Time Left: 5 minutes
+20-04-15 16:21:33 Time Left: 4 minutes
+20-04-15 16:22:33 Time Left: 3 minutes
+20-04-15 16:23:33 Time Left: 2 minutes
+20-04-15 16:24:33 Time Left: 1 minutes
+20-04-15 16:25:16 45.232.32.208:3455|696908AC8E7 requesting game...
+20-04-15 16:25:20 45.232.32.208:3455|696908AC8E7 requesting game...
+20-04-15 16:25:20 |X.Forc3|.Turko joining game (45.232.32.208:3455) HWID:696908AC8E7
+20-04-15 16:25:20 |X.Forc3|.Turko has joined as spectator.
+20-04-15 16:25:23 |X.Forc3|.Turko has left spectators
+20-04-15 16:25:33 Next map: Lobby
+20-04-15 16:25:38 Lothic - Gothic Lobby Room
+20-04-15 16:25:41 45.232.32.208:3455|696908AC8E7 requesting game...
+20-04-15 16:25:41 |X.Forc3|.Turko joining game (45.232.32.208:3455) HWID:696908AC8E7
+20-04-15 16:25:41 |X.Forc3|.Turko has joined as spectator.
+20-04-15 16:25:44 |X.Forc3|.Turko has joined alpha team.
+20-04-15 16:26:20 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:26:27 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:26:34 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:26:36 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 16:26:39 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 16:26:39 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-15 16:26:39 |D.Forc3|.LinkirD has joined as spectator.
+20-04-15 16:26:42 |D.Forc3|.LinkirD has joined bravo team.
+20-04-15 16:26:48 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:26:55 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:02 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:09 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:16 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:23 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:30 |X.Forc3|.Turko gets a ping warning
+20-04-15 16:27:42 |X.Forc3|.Turko has left alpha team.
+20-04-15 16:27:56 45.232.32.208:3455|696908AC8E7 requesting game...
+20-04-15 16:27:57 |X.Forc3|.Turko joining game (45.232.32.208:3455) HWID:696908AC8E7
+20-04-15 16:27:57 |X.Forc3|.Turko has joined as spectator.
+20-04-15 16:27:59 |X.Forc3|.Turko has joined alpha team.
+20-04-15 16:28:19 [|X.Forc3|.Turko] !map ctf_Laos
+20-04-15 16:28:25 Laos
+20-04-15 16:28:53 |X.Forc3|.Turko captured the Blue Flag
+20-04-15 16:29:03 |X.Forc3|.Turko scores for Alpha Team
+20-04-15 16:29:08 [|X.Forc3|.Turko] !map lobby
+20-04-15 16:29:15 Lothic - Gothic Lobby Room
+20-04-15 16:29:24 [|X.Forc3|.Turko] funciona
+20-04-15 16:29:28 |X.Forc3|.Turko has left alpha team.
+20-04-15 16:31:25 |D.Forc3|.LinkirD has left bravo team.
+20-04-15 16:32:35 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-15 16:32:38 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-15 16:32:41 190.22.47.23:23073|4C4052F23D1 requesting game...
+20-04-15 16:34:13 Time Left: 5 minutes
+20-04-15 16:35:13 Time Left: 4 minutes
+20-04-15 16:36:13 Time Left: 3 minutes
+20-04-15 16:37:13 Time Left: 2 minutes
+20-04-15 16:38:13 Time Left: 1 minutes
+20-04-15 16:39:13 Next map: Lobby
+20-04-15 16:39:18 Lothic - Gothic Lobby Room
+20-04-15 10:44:19 Time Left: 5 minutes
+20-04-15 10:45:19 Time Left: 4 minutes
+20-04-15 10:46:19 Time Left: 3 minutes
+20-04-15 10:46:45 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-15 10:46:45 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-15 10:46:45 |D.Forc3|.LinkirD has joined as spectator.
+20-04-15 10:46:47 |D.Forc3|.LinkirD has left spectators
+20-04-15 10:47:19 Time Left: 2 minutes
+20-04-15 10:48:19 Time Left: 1 minutes
+20-04-15 10:49:19 Next map: Lobby
+20-04-15 10:49:24 Lothic - Gothic Lobby Room
+20-04-15 10:54:24 Time Left: 5 minutes
+20-04-15 10:55:24 Time Left: 4 minutes
+20-04-15 10:56:24 Time Left: 3 minutes
+20-04-15 10:57:24 Time Left: 2 minutes
+20-04-15 10:58:24 Time Left: 1 minutes
+20-04-15 10:59:24 Next map: Lobby
+20-04-15 10:59:29 Lothic - Gothic Lobby Room
+20-04-15 11:04:29 Time Left: 5 minutes
+20-04-15 11:05:29 Time Left: 4 minutes
+20-04-15 11:06:29 Time Left: 3 minutes
+20-04-15 11:07:29 Time Left: 2 minutes
+20-04-15 11:08:29 Time Left: 1 minutes
+20-04-15 11:09:29 Next map: Lobby
+20-04-15 11:09:35 Lothic - Gothic Lobby Room
+20-04-15 11:12:27 Shutting down server...
+20-04-15 11:12:27 Shutting down FileServer...
+20-04-15 11:12:27 Shutting down admin server...

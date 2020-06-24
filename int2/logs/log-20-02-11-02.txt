@@ -1,0 +1,13 @@
+20-02-11 20:33:16    Log Started
+20-02-11 20:33:16 Opened C:\Users\Kader\Desktop\soldat\Privado 1\soldat.ini
+20-02-11 20:33:16 Creating network interface.
+20-02-11 20:33:16 Loading Animations.
+20-02-11 20:33:16 Loading Lobby Servers List
+20-02-11 20:33:16 Loading Maps List
+20-02-11 20:33:16 Loading Map.
+20-02-11 20:33:16 Creating Weapons.
+20-02-11 20:33:16 Starting Game Server.
+20-02-11 20:33:16 TCP/IP File Server started
+20-02-11 20:33:33  Net - |D.Forc3|.Turko connected 11-02-2020 20:33:33
+20-02-11 20:33:37  Net - |D.Forc3|.Turko connected 11-02-2020 20:33:37
+20-02-11 20:33:55  Net - |D.Forc3|.Turko disconnected 11-02-2020 20:33:55

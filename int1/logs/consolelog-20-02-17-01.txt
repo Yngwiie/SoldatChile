@@ -1,0 +1,2538 @@
+20-02-17 23:27:02    Console Log Started
+20-02-17 23:27:02 Welcome to Soldat 1.7.1
+20-02-17 23:27:02  [*] Preparing scripts to be launched
+20-02-17 23:27:02  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-17 23:27:02  [*] commands_by_keen compiled
+20-02-17 23:27:02  [*] Done
+20-02-17 23:27:02 ctf_Ash by chakapoko maker
+20-02-17 23:27:02  Connection for file server started. Port: 23110
+20-02-17 23:27:02 Registering server @ 88.99.234.252
+20-02-17 23:27:43 190.107.226.37:17826|696908AC8E7 requesting game...
+20-02-17 23:27:43 |D.Forc3|.Turko joining game (190.107.226.37:17826) HWID:696908AC8E7
+20-02-17 23:27:43 |D.Forc3|.Turko has joined as spectator.
+20-02-17 23:27:46 |D.Forc3|.Turko has joined alpha team.
+20-02-17 23:27:52 |D.Forc3|.Turko has left alpha team.
+20-02-17 23:27:52 Server password changed to scl
+20-02-17 23:29:04 190.107.226.37:17826|696908AC8E7 requesting game...
+20-02-17 23:29:04 |D.Forc3|.Turko joining game (190.107.226.37:17826) HWID:696908AC8E7
+20-02-17 23:29:04 |D.Forc3|.Turko has joined as spectator.
+20-02-17 23:29:09 |D.Forc3|.Turko has joined alpha team.
+20-02-17 23:29:13 [|D.Forc3|.Turko] !r
+20-02-17 23:29:16 |D.Forc3|.Turko has left alpha team.
+20-02-17 23:29:16 Server password changed to scl
+20-02-17 23:29:18 ctf_Ash by chakapoko maker
+20-02-17 23:33:05 190.107.226.37:17827|696908AC8E7 requesting game...
+20-02-17 23:33:05 |D.Forc3|.Turko joining game (190.107.226.37:17827) HWID:696908AC8E7
+20-02-17 23:33:05 |D.Forc3|.Turko has joined as spectator.
+20-02-17 23:33:08 |D.Forc3|.Turko has joined alpha team.
+20-02-17 23:33:14 |D.Forc3|.Turko has left alpha team.
+20-02-17 23:33:14 Server password changed to scl
+20-02-17 23:34:18 Time Left: 5 minutes
+20-02-17 23:34:36 190.107.226.37:17827|696908AC8E7 requesting game...
+20-02-17 23:34:36 |D.Forc3|.Turko joining game (190.107.226.37:17827) HWID:696908AC8E7
+20-02-17 23:34:36 |D.Forc3|.Turko has joined as spectator.
+20-02-17 23:34:48 |D.Forc3|.Turko has joined alpha team.
+20-02-17 23:34:48 190.47.139.217:23073|348574D9644 requesting game...
+20-02-17 23:34:49 [UnK] F4ll.cL joining game (190.47.139.217:23073) HWID:348574D9644
+20-02-17 23:34:49 [UnK] F4ll.cL has joined alpha team.
+20-02-17 23:34:50 190.47.227.13:23073|40AA5BC0D7D requesting game...
+20-02-17 23:34:53 TK| WILDR4P (SN) joining game (190.47.227.13:23073) HWID:40AA5BC0D7D
+20-02-17 23:34:53 TK| WILDR4P (SN) has joined as spectator.
+20-02-17 23:34:57 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-17 23:34:57 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-17 23:34:57 [UnK] KorN has joined as spectator.
+20-02-17 23:35:00 [UnK] KorN has joined bravo team.
+20-02-17 23:35:04 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:35:16 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Combat Knife
+20-02-17 23:35:18 Time Left: 4 minutes
+20-02-17 23:35:19 [UnK] F4ll.cL captured the Blue Flag
+20-02-17 23:35:32 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:35:46 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:35:53 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:35:54 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:35:58 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Desert Eagles
+20-02-17 23:35:59 [UnK] KorN returned the Blue Flag
+20-02-17 23:36:01 (2) [UnK] KorN killed (1) |D.Forc3|.Turko with Desert Eagles
+20-02-17 23:36:02 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-02-17 23:36:04 XRe1ch|Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-02-17 23:36:04 XRe1ch|Sadiko has joined bravo team.
+20-02-17 23:36:05 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Desert Eagles
+20-02-17 23:36:07 200.104.170.206:23073|19FE2AA93EC requesting game...
+20-02-17 23:36:07 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:19FE2AA93EC
+20-02-17 23:36:07 .:{MIS}:. Leche has joined as spectator.
+20-02-17 23:36:12 .:{MIS}:. Leche has joined alpha team.
+20-02-17 23:36:14 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with XM214 Minigun
+20-02-17 23:36:17 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:36:18 Time Left: 3 minutes
+20-02-17 23:36:31 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:36:32 XRe1ch|Sadiko captured the Red Flag
+20-02-17 23:36:33 [UnK] F4ll.cL captured the Blue Flag
+20-02-17 23:36:41 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with XM214 Minigun
+20-02-17 23:36:41 [UnK] F4ll.cL returned the Red Flag
+20-02-17 23:36:42 [TK| WILDR4P (SN)] se puede?
+20-02-17 23:36:42 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with XM214 Minigun
+20-02-17 23:36:43 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:36:45 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Grenade
+20-02-17 23:36:46 .:{MIS}:. Leche captured the Blue Flag
+20-02-17 23:36:50 (1) .:{MIS}:. Leche killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:36:50 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:36:52 .:{MIS}:. Leche scores for Alpha Team
+20-02-17 23:36:53 .:{MIS}:. Leche returned the Red Flag
+20-02-17 23:36:54 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:36:54 [UnK] KorN captured the Red Flag
+20-02-17 23:36:57 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:37:00 [UnK] F4ll.cL captured the Blue Flag
+20-02-17 23:37:02 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:37:03 181.203.123.140:25811|696908AC8E7 requesting game...
+20-02-17 23:37:04 |D.Forc3|.Turko(1) joining game (181.203.123.140:25811) HWID:696908AC8E7
+20-02-17 23:37:04 |D.Forc3|.Turko(1) has joined as spectator.
+20-02-17 23:37:04 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:37:05 .:{MIS}:. Leche returned the Red Flag
+20-02-17 23:37:08 |D.Forc3|.Turko(1) has joined alpha team.
+20-02-17 23:37:11 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Combat Knife
+20-02-17 23:37:11 |D.Forc3|.Turko gets a ping warning
+20-02-17 23:37:12 |D.Forc3|.Turko could not respond
+20-02-17 23:37:14 [UnK] F4ll.cL scores for Alpha Team
+20-02-17 23:37:18 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Desert Eagles
+20-02-17 23:37:18 Time Left: 2 minutes
+20-02-17 23:37:19 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:37:24 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with LAW
+20-02-17 23:37:26 XRe1ch|Sadiko captured the Red Flag
+20-02-17 23:37:26 .:{MIS}:. Leche captured the Blue Flag
+20-02-17 23:37:29 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:37:32 |D.Forc3|.Turko(1) gets a ping warning
+20-02-17 23:37:36 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:37:36 (1) |D.Forc3|.Turko(1) killed (2) [UnK] KorN with FN Minimi
+20-02-17 23:37:44 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Desert Eagles
+20-02-17 23:37:52 [TK| WILDR4P (SN)] !b
+20-02-17 23:37:52 TK| WILDR4P (SN) has joined bravo team.
+20-02-17 23:37:54 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:37:58 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:38:01 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:38:03 (2) XRe1ch|Sadiko killed (1) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:38:06 (1) |D.Forc3|.Turko(1) killed (2) [UnK] KorN with Ruger 77
+20-02-17 23:38:06 .:{MIS}:. Leche captured the Blue Flag
+20-02-17 23:38:11 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:38:16 (1) |D.Forc3|.Turko(1) killed (2) XRe1ch|Sadiko with Ruger 77
+20-02-17 23:38:17 (2) TK| WILDR4P (SN) killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:38:18 Time Left: 1 minutes
+20-02-17 23:38:19 TK| WILDR4P (SN) captured the Red Flag
+20-02-17 23:38:19 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:38:19 [UnK] KorN returned the Blue Flag
+20-02-17 23:38:23 TK| WILDR4P (SN) captured the Red Flag
+20-02-17 23:38:26 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with LAW
+20-02-17 23:38:27 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:38:32 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Desert Eagles
+20-02-17 23:38:34 TK| WILDR4P (SN) scores for Bravo Team
+20-02-17 23:38:38 (1) .:{MIS}:. Leche killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:38:39 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:38:43 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:38:51 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:38:53 (1) .:{MIS}:. Leche killed (2) TK| WILDR4P (SN) with Barrett M82A1
+20-02-17 23:38:59 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Desert Eagles
+20-02-17 23:39:00 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Desert Eagles
+20-02-17 23:39:00 (2) TK| WILDR4P (SN) killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:39:01 (1) .:{MIS}:. Leche killed (2) TK| WILDR4P (SN) with Barrett M82A1
+20-02-17 23:39:06 (1) .:{MIS}:. Leche killed (2) TK| WILDR4P (SN) with Barrett M82A1
+20-02-17 23:39:08 (2) [UnK] KorN killed (1) [UnK] F4ll.cL with Desert Eagles
+20-02-17 23:39:09 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with LAW
+20-02-17 23:39:13 (2) XRe1ch|Sadiko killed (1) [UnK] F4ll.cL with Grenade
+20-02-17 23:39:15 .:{MIS}:. Leche captured the Blue Flag
+20-02-17 23:39:16 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:39:16 XRe1ch|Sadiko captured the Red Flag
+20-02-17 23:39:18 Next map: ctf_B2b
+20-02-17 23:39:23 B2B
+20-02-17 23:39:36 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with LAW
+20-02-17 23:39:39 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Combat Knife
+20-02-17 23:39:40 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:39:45 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Barrett M82A1
+20-02-17 23:39:47 [UnK] F4ll.cL captured the Blue Flag
+20-02-17 23:39:50 (1) .:{MIS}:. Leche killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:39:52 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:39:52 (1) |D.Forc3|.Turko(1) killed (2) TK| WILDR4P (SN) with Combat Knife
+20-02-17 23:39:54 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Desert Eagles
+20-02-17 23:40:08 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:40:10 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:40:12 .:{MIS}:. Leche has left alpha team.
+20-02-17 23:40:13 200.104.170.206:23073|19FE2AA93EC requesting game...
+20-02-17 23:40:14 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:19FE2AA93EC
+20-02-17 23:40:14 .:{MIS}:. Leche has joined as spectator.
+20-02-17 23:40:15 [UnK] KorN captured the Red Flag
+20-02-17 23:40:15 (2) XRe1ch|Sadiko killed (1) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:40:16 XRe1ch|Sadiko returned the Blue Flag
+20-02-17 23:40:17 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:40:18 .:{MIS}:. Leche has joined alpha team.
+20-02-17 23:40:23 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:40:26 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:40:26 (1) |D.Forc3|.Turko(1) killed (2) TK| WILDR4P (SN) with Ruger 77
+20-02-17 23:40:28 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:40:30 .:{MIS}:. Leche returned the Red Flag
+20-02-17 23:40:44 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Barrett M82A1
+20-02-17 23:40:49 [UnK] F4ll.cL captured the Blue Flag
+20-02-17 23:40:50 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with LAW
+20-02-17 23:40:53 XRe1ch|Sadiko captured the Red Flag
+20-02-17 23:40:54 (2) TK| WILDR4P (SN) killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:40:58 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:41:01 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:41:03 (1) |D.Forc3|.Turko(1) killed (2) TK| WILDR4P (SN) with Ruger 77
+20-02-17 23:41:14 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:41:14 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:41:28 (1) |D.Forc3|.Turko(1) killed (2) TK| WILDR4P (SN) with Ruger 77
+20-02-17 23:41:29 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:41:31 [UnK] F4ll.cL returned the Red Flag
+20-02-17 23:41:32 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:41:35 (1) .:{MIS}:. Leche killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:41:37 [UnK] KorN captured the Red Flag
+20-02-17 23:41:40 (1) .:{MIS}:. Leche killed (2) TK| WILDR4P (SN) with Barrett M82A1
+20-02-17 23:41:41 [UnK] F4ll.cL returned the Red Flag
+20-02-17 23:41:42 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:41:43 [UnK] F4ll.cL scores for Alpha Team
+20-02-17 23:41:44 (1) [UnK] F4ll.cL killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:41:53 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Barrett M82A1
+20-02-17 23:41:55 (2) XRe1ch|Sadiko killed (1) [UnK] F4ll.cL with LAW
+20-02-17 23:41:55 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Combat Knife
+20-02-17 23:41:59 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Grenade
+20-02-17 23:42:04 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:42:06 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:42:10 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:42:11 (2) TK| WILDR4P (SN) killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:42:13 TK| WILDR4P (SN) captured the Red Flag
+20-02-17 23:42:17 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:42:18 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with Grenade
+20-02-17 23:42:24 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:42:28 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:42:31 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:42:38 TK| WILDR4P (SN) scores for Bravo Team
+20-02-17 23:42:41 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:42:43 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:42:48 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:42:51 (1) |D.Forc3|.Turko(1) killed (2) [UnK] KorN with Ruger 77
+20-02-17 23:42:54 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:42:58 (1) |D.Forc3|.Turko(1) killed (2) XRe1ch|Sadiko with Ruger 77
+20-02-17 23:43:06 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:43:08 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:43:09 (1) |D.Forc3|.Turko(1) killed (2) [UnK] KorN with Ruger 77
+20-02-17 23:43:10 TK| WILDR4P (SN) captured the Red Flag
+20-02-17 23:43:16 (2) XRe1ch|Sadiko killed (1) |D.Forc3|.Turko(1) with Barrett M82A1
+20-02-17 23:43:22 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:43:23 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with LAW
+20-02-17 23:43:33 (2) [UnK] KorN killed (1) .:{MIS}:. Leche with Desert Eagles
+20-02-17 23:43:36 TK| WILDR4P (SN) scores for Bravo Team
+20-02-17 23:43:38 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:43:39 XRe1ch|Sadiko captured the Red Flag
+20-02-17 23:43:42 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:43:45 201.215.223.74:23073|6FC5B679310 requesting game...
+20-02-17 23:43:47 |BhooD| Opazo joining game (201.215.223.74:23073) HWID:6FC5B679310
+20-02-17 23:43:47 |BhooD| Opazo has joined alpha team.
+20-02-17 23:43:53 [[UnK] KorN] bhoo
+20-02-17 23:43:54 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-17 23:43:57 [[UnK] KorN] jueves?
+20-02-17 23:43:58 #KbN! ChronoCL joining game (190.164.34.218:23073) HWID:3BFA8474317
+20-02-17 23:43:58 #KbN! ChronoCL has joined bravo team.
+20-02-17 23:43:58 (2) TK| WILDR4P (SN) killed (1) |BhooD| Opazo with Ruger 77
+20-02-17 23:44:00 [|BhooD| Opazo] domingo
+20-02-17 23:44:03 XRe1ch|Sadiko scores for Bravo Team
+20-02-17 23:44:03 TK| WILDR4P (SN) captured the Red Flag
+20-02-17 23:44:07 [[UnK] KorN] deja consultar
+20-02-17 23:44:08 (2) TK| WILDR4P (SN) killed (1) |BhooD| Opazo with Ruger 77
+20-02-17 23:44:10 .:{MIS}:. Leche captured the Blue Flag
+20-02-17 23:44:14 191.115.58.60:23073|B91123F9945 requesting game...
+20-02-17 23:44:16 (2) XRe1ch|Sadiko killed (1) |BhooD| Opazo with Barrett M82A1
+20-02-17 23:44:16 (1) |BhooD| Opazo killed (2) XRe1ch|Sadiko with M79
+20-02-17 23:44:16 |D.Forc3|El OG joining game (191.115.58.60:23073) HWID:B91123F9945
+20-02-17 23:44:16 |D.Forc3|El OG has joined as spectator.
+20-02-17 23:44:20 (1) [UnK] F4ll.cL killed (2) TK| WILDR4P (SN) with Barrett M82A1
+20-02-17 23:44:21 190.161.152.160:23073|1F387DCE705 requesting game...
+20-02-17 23:44:21 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:44:22 (2) [UnK] KorN killed (1) |BhooD| Opazo with Desert Eagles
+20-02-17 23:44:23 [UnK] F4ll.cL returned the Red Flag
+20-02-17 23:44:23 [WOC] patuzhOO joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-02-17 23:44:23 [WOC] patuzhOO has joined alpha team.
+20-02-17 23:44:23 Time Left: 5 minutes
+20-02-17 23:44:25 |D.Forc3|El OG has joined bravo team.
+20-02-17 23:44:27 |BhooD| Opazo has left alpha team.
+20-02-17 23:44:27 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:44:29 #KbN! ChronoCL captured the Red Flag
+20-02-17 23:44:33 (1) |D.Forc3|.Turko(1) killed (2) #KbN! ChronoCL with Ruger 77
+20-02-17 23:44:36 .:{MIS}:. Leche scores for Alpha Team
+20-02-17 23:44:36 (2) [UnK] KorN killed (1) |D.Forc3|.Turko(1) with Desert Eagles
+20-02-17 23:44:39 (1) [UnK] F4ll.cL killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:44:40 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:44:40 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Combat Knife
+20-02-17 23:44:42 [#KbN! ChronoCL] opazo
+20-02-17 23:44:43 [#KbN! ChronoCL] :3
+20-02-17 23:44:46 (2) TK| WILDR4P (SN) killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:44:46 |D.Forc3|El OG captured the Red Flag
+20-02-17 23:44:47 (2) TK| WILDR4P (SN) killed (1) [UnK] F4ll.cL with Ruger 77
+20-02-17 23:44:49 (2) |D.Forc3|El OG killed (1) |D.Forc3|.Turko(1) with Barrett M82A1
+20-02-17 23:44:52 (2) TK| WILDR4P (SN) killed (1) .:{MIS}:. Leche with Ruger 77
+20-02-17 23:44:53 201.215.223.74:23073|6FC5B679310 requesting game...
+20-02-17 23:44:55 [Woc] Opazo joining game (201.215.223.74:23073) HWID:6FC5B679310
+20-02-17 23:44:55 [Woc] Opazo has joined alpha team.
+20-02-17 23:44:57 [UnK] F4ll.cL has joined bravo team.
+20-02-17 23:44:58 190.215.236.246:23073|68595FC4762 requesting game...
+20-02-17 23:45:00 (2) TK| WILDR4P (SN) killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:45:01 [WoC] Pokemon Johto joining game (190.215.236.246:23073) HWID:68595FC4762
+20-02-17 23:45:01 [WoC] Pokemon Johto has joined alpha team.
+20-02-17 23:45:02 (2) TK| WILDR4P (SN) killed (1) |D.Forc3|.Turko(1) with Grenade
+20-02-17 23:45:02 (1) |D.Forc3|.Turko(1) killed (2) TK| WILDR4P (SN) with Ruger 77
+20-02-17 23:45:03 |D.Forc3|El OG scores for Bravo Team
+20-02-17 23:45:05 (2) XRe1ch|Sadiko killed (1) .:{MIS}:. Leche with LAW
+20-02-17 23:45:07 |D.Forc3|.Turko(1) has joined bravo team.
+20-02-17 23:45:08 (2) [UnK] KorN killed (1) [Woc] Opazo with LAW
+20-02-17 23:45:09 (1) [WOC] patuzhOO killed (2) XRe1ch|Sadiko with Grenade
+20-02-17 23:45:10 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:45:11 [#KbN! ChronoCL] oliwi
+20-02-17 23:45:13 |D.Forc3|.Turko(1) has left bravo team.
+20-02-17 23:45:14 181.203.123.140:25811|696908AC8E7 requesting game...
+20-02-17 23:45:14 [UnK] KorN captured the Red Flag
+20-02-17 23:45:14 [[UnK] F4ll.cL] olaaaaa
+20-02-17 23:45:15 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:45:16 (1) .:{MIS}:. Leche killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:45:16 181.203.123.140:25811|696908AC8E7 requesting game...
+20-02-17 23:45:16 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:45:17 |D.Forc3|.Turko joining game (181.203.123.140:25811) HWID:696908AC8E7
+20-02-17 23:45:17 |D.Forc3|.Turko has joined as spectator.
+20-02-17 23:45:19 |D.Forc3|.Turko has joined bravo team.
+20-02-17 23:45:20 [[WOC] patuzhOO] holanda
+20-02-17 23:45:21 (1) [Woc] Opazo killed (2) #KbN! ChronoCL with Barrett M82A1
+20-02-17 23:45:23 (2) |D.Forc3|El OG killed (1) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:45:23 Time Left: 4 minutes
+20-02-17 23:45:26 (1) [Woc] Opazo killed (2) XRe1ch|Sadiko with Barrett M82A1
+20-02-17 23:45:28 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG with M79
+20-02-17 23:45:29 #KbN! ChronoCL has joined alpha team.
+20-02-17 23:45:30 .:{MIS}:. Leche has joined bravo team.
+20-02-17 23:45:33 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:45:33 (1) [WOC] patuzhOO killed (2) TK| WILDR4P (SN) with Steyr AUG
+20-02-17 23:45:34 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:45:35 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:45:36 [#KbN! ChronoCL] le damos?
+20-02-17 23:45:37 [UnK] F4ll.cL scores for Bravo Team
+20-02-17 23:45:37 (TEAM)[#KbN! ChronoCL] y?
+20-02-17 23:45:40 (TEAM)[#KbN! ChronoCL] ?
+20-02-17 23:45:45 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-17 23:45:47 [WoC] PacoGrillo joining game (190.164.1.231:23073) HWID:648DE434E72
+20-02-17 23:45:47 [WoC] PacoGrillo has joined alpha team.
+20-02-17 23:45:47 [[WoC] Pokemon Johto] aca es el after?
+20-02-17 23:45:48 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:45:53 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:45:54 (2) XRe1ch|Sadiko killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-17 23:45:55 (1) [Woc] Opazo killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:45:55 |D.Forc3|.Turko added to Game Admins
+20-02-17 23:45:58 (2) XRe1ch|Sadiko killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-17 23:46:01 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-17 23:46:01 /kick 3(181.203.123.140[|D.Forc3|.Turko])
+20-02-17 23:46:01 TK| WILDR4P (SN) has been kicked.(190.47.227.13)
+20-02-17 23:46:05 [[WoC] PacoGrillo] pero si no son los mas old de este juego
+20-02-17 23:46:11 (1) [WOC] patuzhOO killed (2) XRe1ch|Sadiko with Steyr AUG
+20-02-17 23:46:11 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-17 23:46:16 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:46:17 (2) [UnK] KorN killed (1) #KbN! ChronoCL with Grenade
+20-02-17 23:46:18 [UnK] F4ll.cL scores for Bravo Team
+20-02-17 23:46:19 XRe1ch|Sadiko has joined spectators.
+20-02-17 23:46:23 [[UnK] F4ll.cL] estoy viejisimo
+20-02-17 23:46:23 Time Left: 3 minutes
+20-02-17 23:46:26 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-17 23:46:28 [#KbN! ChronoCL] !map ctf_Ash
+20-02-17 23:46:29 [[WoC] PacoGrillo] lo se manito
+20-02-17 23:46:33 ctf_Ash by chakapoko maker
+20-02-17 23:46:34 [[Woc] Opazo] nos falta uno
+20-02-17 23:46:40 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-17 23:46:40 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:46:43 [[UnK] F4ll.cL] go
+20-02-17 23:46:45 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-17 23:46:45 [[UnK] F4ll.cL] ?
+20-02-17 23:46:46 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-17 23:46:47 [#KbN! ChronoCL] ?
+20-02-17 23:46:47 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:46:50 186.11.43.57:4567|2D6052AB6EA requesting game...
+20-02-17 23:46:52 [[WOC] patuzhOO] falta defkondos
+20-02-17 23:46:52 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Steyr AUG
+20-02-17 23:46:52 [[UnK] KorN] puras viejas glorias
+20-02-17 23:46:52 |BhooD| DeFkOndOz* joining game (186.11.43.57:4567) HWID:2D6052AB6EA
+20-02-17 23:46:52 |BhooD| DeFkOndOz* has joined alpha team.
+20-02-17 23:46:53 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:46:53 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-17 23:46:53 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:46:54 (2) |D.Forc3|.Turko killed (1) #KbN! ChronoCL with Ruger 77
+20-02-17 23:46:55 |BhooD| DeFkOndOz* has left alpha team.
+20-02-17 23:46:58 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:46:59 (2) |D.Forc3|.Turko killed (1) #KbN! ChronoCL with Ruger 77
+20-02-17 23:47:01 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:47:01 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:47:05 (2) |D.Forc3|El OG killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-17 23:47:06 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:47:07 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-17 23:47:11 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:47:12 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-17 23:47:12 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Grenade
+20-02-17 23:47:12 [[WoC] PacoGrillo] tu eres como un soldado que volvio de vietnam y tienes pesadillas aun
+20-02-17 23:47:12 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:47:13 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:47:14 186.11.43.57:4567|2D6052AB6EA requesting game...
+20-02-17 23:47:14 (1) #KbN! ChronoCL killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:47:15 [WoC] DeFkOndOz* joining game (186.11.43.57:4567) HWID:2D6052AB6EA
+20-02-17 23:47:15 [WoC] DeFkOndOz* has joined alpha team.
+20-02-17 23:47:18 [UnK] F4ll.cL scores for Bravo Team
+20-02-17 23:47:20 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-17 23:47:25 (TEAM)[[WoC] DeFkOndOz*] quiero hablar por la ctmm
+20-02-17 23:47:26 (TEAM)[[WoC] DeFkOndOz*] heeeee
+20-02-17 23:47:26 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:47:28 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-17 23:47:30 #KbN! ChronoCL captured the Blue Flag
+20-02-17 23:47:31 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-17 23:47:31 (2) |D.Forc3|El OG killed (1) #KbN! ChronoCL with Grenade
+20-02-17 23:47:33 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-17 23:47:36 (2) [UnK] F4ll.cL killed (1) #KbN! ChronoCL with Combat Knife
+20-02-17 23:47:38 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:47:38 (TEAM)[[WoC] DeFkOndOz*] no pesca el mic
+20-02-17 23:47:40 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-17 23:47:42 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:47:42 #KbN! ChronoCL has joined spectators.
+20-02-17 23:47:44 (TEAM)[[WoC] DeFkOndOz*] pero no lo pesca wn
+20-02-17 23:47:45 [[UnK] F4ll.cL] !r
+20-02-17 23:47:46 [[WOC] patuzhOO] go
+20-02-17 23:47:48 [[WoC] Pokemon Johto] gg
+20-02-17 23:47:51 ctf_Ash by chakapoko maker
+20-02-17 23:47:56 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:47:57 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:47:58 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-17 23:47:58 86.1.215.54:23073| requesting game...
+20-02-17 23:47:58 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:48:01 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Steyr AUG
+20-02-17 23:48:01 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-17 23:48:02 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:48:05 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Grenade
+20-02-17 23:48:05 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-17 23:48:06 [[Woc] Opazo] !r
+20-02-17 23:48:08 [[WOC] patuzhOO] gogo
+20-02-17 23:48:09 [[Woc] Opazo] gogogo
+20-02-17 23:48:11 [[WoC] PacoGrillo] dedos de anciano
+20-02-17 23:48:11 ctf_Ash by chakapoko maker
+20-02-17 23:48:19 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:48:20 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:48:20 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-17 23:48:26 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-17 23:48:29 [[WoC] PacoGrillo] No!
+20-02-17 23:48:29 [XRe1ch|Sadiko] el OG
+20-02-17 23:48:30 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-17 23:48:30 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:48:34 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Combat Knife
+20-02-17 23:48:37 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with M79
+20-02-17 23:48:38 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:48:38 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:48:39 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:48:39 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with M79
+20-02-17 23:48:39 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:48:39 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:48:40 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:48:40 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-17 23:48:45 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-17 23:48:46 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:48:49 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-17 23:48:51 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-17 23:48:52 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:48:52 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:48:53 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:48:55 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:48:55 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:48:56 |D.Forc3|El OG returned the Blue Flag
+20-02-17 23:48:57 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-17 23:48:58 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-17 23:49:00 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:49:01 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:49:01 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:49:03 (1) [Woc] Opazo killed (2) [UnK] KorN with M79
+20-02-17 23:49:05 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:49:07 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-17 23:49:09 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-17 23:49:10 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:49:10 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:49:12 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:49:13 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:49:15 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Steyr AUG
+20-02-17 23:49:16 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:49:16 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:49:16 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:49:17 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:49:18 (1) [Woc] Opazo killed (2) [UnK] KorN with M79
+20-02-17 23:49:19 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG with Ak-74
+20-02-17 23:49:20 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-17 23:49:22 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:49:22 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Combat Knife
+20-02-17 23:49:26 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Hands
+20-02-17 23:49:28 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:49:28 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-17 23:49:29 [UnK] KorN returned the Blue Flag
+20-02-17 23:49:29 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-17 23:49:29 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:49:31 [[WoC] PacoGrillo] No!
+20-02-17 23:49:32 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:49:36 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-17 23:49:36 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Grenade
+20-02-17 23:49:36 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:49:40 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:49:41 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:49:42 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-17 23:49:44 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-17 23:49:44 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:49:45 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Grenade
+20-02-17 23:49:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:49:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:49:48 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:49:48 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:49:49 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:49:50 [Woc] Opazo returned the Red Flag
+20-02-17 23:49:51 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:49:52 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-17 23:49:53 [[Woc] Opazo] Die!
+20-02-17 23:49:53 [[WoC] PacoGrillo] I'll be back!
+20-02-17 23:49:54 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:49:55 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:49:58 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-17 23:50:01 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:50:01 #KbN! ChronoCL has left spectators
+20-02-17 23:50:01 [UnK] KorN captured the Red Flag
+20-02-17 23:50:02 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:50:02 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:50:03 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Grenade
+20-02-17 23:50:03 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-17 23:50:04 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:50:06 (1) [Woc] Opazo killed (2) [UnK] KorN with USSOCOM
+20-02-17 23:50:06 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:50:06 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:50:07 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:50:08 [Woc] Opazo returned the Red Flag
+20-02-17 23:50:10 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Ak-74
+20-02-17 23:50:10 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:50:12 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:50:12 [Woc] Opazo captured the Blue Flag
+20-02-17 23:50:13 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-17 23:50:14 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:50:15 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:50:16 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-17 23:50:17 [WoC] DeFkOndOz* scores for Alpha Team
+20-02-17 23:50:19 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:50:21 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:50:21 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-17 23:50:21 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Combat Knife
+20-02-17 23:50:22 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:50:23 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:50:25 [UnK] KorN captured the Red Flag
+20-02-17 23:50:27 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:50:29 (1) [Woc] Opazo killed (2) [UnK] KorN with M79
+20-02-17 23:50:31 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:50:32 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-17 23:50:34 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-17 23:50:35 |D.Forc3|El OG returned the Blue Flag
+20-02-17 23:50:37 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Grenade
+20-02-17 23:50:38 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:50:39 [WoC] Pokemon Johto captured the Blue Flag
+20-02-17 23:50:41 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:50:41 [Woc] Opazo returned the Red Flag
+20-02-17 23:50:42 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Grenade
+20-02-17 23:50:43 [UnK] KorN returned the Blue Flag
+20-02-17 23:50:45 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:50:46 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:50:46 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:50:46 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:50:55 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:50:56 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:51:00 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:51:00 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with M79
+20-02-17 23:51:04 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:05 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:51:06 168.0.110.234:25195|4B3F6033BEB requesting game...
+20-02-17 23:51:07 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-17 23:51:07 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:51:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:51:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:51:09 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:51:09 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:51:09 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:10 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-17 23:51:11 [UnK] KorN returned the Blue Flag
+20-02-17 23:51:12 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:51:12 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-17 23:51:13 [[WoC] PacoGrillo] Come'on!
+20-02-17 23:51:13 [[WoC] PacoGrillo] No!
+20-02-17 23:51:13 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-17 23:51:14 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-17 23:51:15 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:51:15 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:51:15 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:15 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:51:21 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:51:21 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-17 23:51:23 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:51:24 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:51:25 [WOC] patuzhOO returned the Red Flag
+20-02-17 23:51:26 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Steyr AUG
+20-02-17 23:51:27 [[WoC] PacoGrillo] Return the flag!
+20-02-17 23:51:27 [[WoC] PacoGrillo] I'll be back!
+20-02-17 23:51:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:51:27 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:51:28 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:51:29 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-17 23:51:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:51:31 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:51:31 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-17 23:51:32 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-17 23:51:34 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Combat Knife
+20-02-17 23:51:35 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with LAW
+20-02-17 23:51:36 [Woc] Opazo returned the Red Flag
+20-02-17 23:51:38 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with M79
+20-02-17 23:51:39 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:40 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-17 23:51:40 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:51:40 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:51:41 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:51:43 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:51:46 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:51:48 |D.Forc3|El OG captured the Red Flag
+20-02-17 23:51:50 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:51:51 [WoC] Pokemon Johto captured the Blue Flag
+20-02-17 23:51:53 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:51:53 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:51:55 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:51:55 [UnK] F4ll.cL returned the Blue Flag
+20-02-17 23:51:56 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-17 23:51:57 [Woc] Opazo returned the Red Flag
+20-02-17 23:51:58 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Combat Knife
+20-02-17 23:51:58 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:51:59 [[Woc] Opazo] Yeah
+20-02-17 23:52:01 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with M79
+20-02-17 23:52:01 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:52:01 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with HK MP5
+20-02-17 23:52:02 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-17 23:52:03 [[UnK] F4ll.cL] !o
+20-02-17 23:52:04 [|D.Forc3|.Turko] !ñp
+20-02-17 23:52:04 [[UnK] F4ll.cL] !p
+20-02-17 23:52:05 191.115.22.146:23073|B91123F9945 requesting game...
+20-02-17 23:52:06 |D.Forc3|El OG(1) joining game (191.115.22.146:23073) HWID:B91123F9945
+20-02-17 23:52:06 |D.Forc3|El OG(1) has joined as spectator.
+20-02-17 23:52:14 [[UnK] F4ll.cL] !up
+20-02-17 23:52:14 Go!!...
+20-02-17 23:52:14 3...
+20-02-17 23:52:15 2...
+20-02-17 23:52:16 /kick 9(181.203.123.140[|D.Forc3|.Turko])
+20-02-17 23:52:16 |D.Forc3|El OG has been kicked.(191.115.58.60)
+20-02-17 23:52:16 1...
+20-02-17 23:52:17 GO!
+20-02-17 23:52:18 |D.Forc3|El OG(1) has joined bravo team.
+20-02-17 23:52:18 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:52:20 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:52:21 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:52:23 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Ak-74
+20-02-17 23:52:25 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-17 23:52:26 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:52:26 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-17 23:52:28 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:52:30 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-17 23:52:30 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-17 23:52:30 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:52:31 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:52:32 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:52:32 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:52:32 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:52:32 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Ak-74
+20-02-17 23:52:33 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:52:34 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:52:35 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:52:37 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-17 23:52:39 |D.Forc3|El OG(1) captured the Red Flag
+20-02-17 23:52:39 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-17 23:52:42 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:52:46 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:52:49 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:52:51 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Grenade
+20-02-17 23:52:52 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:52:55 (2) [UnK] KorN killed (1) [Woc] Opazo with LAW
+20-02-17 23:52:56 190.211.167.106:23073|592719A9FC4 requesting game...
+20-02-17 23:52:59 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:53:02 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:02 Chileno has joined alpha team.
+20-02-17 23:53:02 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:53:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-17 23:53:03 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:53:05 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:05 Chileno has joined alpha team.
+20-02-17 23:53:06 [|D.Forc3|.Turko] yahoO!!!
+20-02-17 23:53:07 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with M79
+20-02-17 23:53:08 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:08 Chileno has joined alpha team.
+20-02-17 23:53:09 201.214.153.213:23073|3D5EA836E78 requesting game...
+20-02-17 23:53:09 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:53:10 [|D.Forc3|.Turko] !p
+20-02-17 23:53:11 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:11 Chileno has joined alpha team.
+20-02-17 23:53:11 ninetail fox unleashed joining game (201.214.153.213:23073) HWID:3D5EA836E78
+20-02-17 23:53:11 ninetail fox unleashed has joined as spectator.
+20-02-17 23:53:13 Chileno is flooding the server
+20-02-17 23:53:14 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:14 Chileno has joined alpha team.
+20-02-17 23:53:17 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:17 Chileno has joined alpha team.
+20-02-17 23:53:17 (TEAM)[[WoC] DeFkOndOz*] sale
+20-02-17 23:53:18 [[UnK] F4ll.cL] !sp
+20-02-17 23:53:19 [[UnK] F4ll.cL] !sp
+20-02-17 23:53:20 Chileno joining game (190.211.167.106:23073) HWID:592719A9FC4
+20-02-17 23:53:20 Chileno has joined alpha team.
+20-02-17 23:53:20 Chileno has left alpha team.
+20-02-17 23:53:20 [[WoC] PacoGrillo] wtf
+20-02-17 23:53:28 /pass dsf(181.203.123.140[|D.Forc3|.Turko])
+20-02-17 23:53:29 [[UnK] F4ll.cL] !sp
+20-02-17 23:53:31 [[WoC] PacoGrillo] la clave
+20-02-17 23:53:33 [|D.Forc3|.Turko] !pass dsf
+20-02-17 23:53:33 Server password changed to dsf
+20-02-17 23:53:37 [[WoC] PacoGrillo] haga la clave
+20-02-17 23:53:37 [[WoC] Pokemon Johto] Soy seco soy WOC
+20-02-17 23:53:43 [|D.Forc3|.Turko] !up
+20-02-17 23:53:43 Go!!...
+20-02-17 23:53:43 3...
+20-02-17 23:53:44 2...
+20-02-17 23:53:45 1...
+20-02-17 23:53:46 GO!
+20-02-17 23:53:47 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:53:48 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:53:53 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:53:54 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:53:55 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Grenade
+20-02-17 23:53:56 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:53:57 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:53:57 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:53:59 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:54:01 Time Left: 5 minutes
+20-02-17 23:54:02 [UnK] KorN captured the Red Flag
+20-02-17 23:54:02 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:54:02 (1) [Woc] Opazo killed (2) [UnK] KorN with Grenade
+20-02-17 23:54:03 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Combat Knife
+20-02-17 23:54:04 [UnK] F4ll.cL returned the Blue Flag
+20-02-17 23:54:04 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:54:05 [[WoC] PacoGrillo] No!
+20-02-17 23:54:06 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-17 23:54:08 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:54:08 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:54:10 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:54:10 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:54:10 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:54:13 .:{MIS}:. Leche scores for Bravo Team
+20-02-17 23:54:13 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:54:14 |D.Forc3|El OG(1) captured the Red Flag
+20-02-17 23:54:15 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-17 23:54:16 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-17 23:54:16 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:54:17 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:54:18 [WoC] DeFkOndOz* returned the Red Flag
+20-02-17 23:54:19 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:54:19 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:54:21 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:54:21 [UnK] KorN returned the Blue Flag
+20-02-17 23:54:23 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:54:27 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:54:28 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:54:30 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:54:33 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:54:34 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:54:39 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:54:40 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Ak-74
+20-02-17 23:54:42 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:54:44 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:54:45 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:54:46 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:54:50 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Combat Knife
+20-02-17 23:54:52 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:54:53 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:54:54 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:54:54 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:54:57 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Ruger 77
+20-02-17 23:54:59 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:55:01 Time Left: 4 minutes
+20-02-17 23:55:03 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:55:03 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:55:04 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with USSOCOM
+20-02-17 23:55:08 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:55:10 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:55:12 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:55:14 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-17 23:55:15 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:55:16 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:55:17 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:55:18 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:55:18 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:55:19 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-17 23:55:20 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-17 23:55:21 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:55:22 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:55:23 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:55:25 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-17 23:55:26 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:55:28 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:55:29 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:55:32 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:55:36 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:55:37 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:55:38 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:55:39 [[WoC] PacoGrillo] Yeah
+20-02-17 23:55:39 [|D.Forc3|.Turko] yahoO!!!
+20-02-17 23:55:40 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:55:41 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:55:42 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:55:47 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-17 23:55:47 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:55:47 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-17 23:55:48 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-17 23:55:49 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-17 23:55:52 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:55:54 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-17 23:55:55 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:55:55 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:55:57 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-17 23:56:01 Time Left: 3 minutes
+20-02-17 23:56:02 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Spas-12
+20-02-17 23:56:04 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:56:05 186.11.43.227:23643|F022DA6E3A0 requesting game...
+20-02-17 23:56:06 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Spas-12
+20-02-17 23:56:08 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:56:09 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:56:11 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:56:13 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Grenade
+20-02-17 23:56:13 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-17 23:56:14 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:56:17 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-17 23:56:18 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:56:18 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:56:19 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:56:19 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:56:19 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:56:19 .:{MIS}:. Leche captured the Red Flag
+20-02-17 23:56:19 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-17 23:56:20 (1) [Woc] Opazo killed (2) [UnK] KorN with Grenade
+20-02-17 23:56:21 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with Ak-74
+20-02-17 23:56:21 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:56:24 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:56:27 (1) [Woc] Opazo killed (2) [UnK] KorN with Steyr AUG
+20-02-17 23:56:27 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:56:30 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:56:31 [WoC] DeFkOndOz* returned the Red Flag
+20-02-17 23:56:31 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-17 23:56:31 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-17 23:56:32 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Spas-12
+20-02-17 23:56:33 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-17 23:56:37 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Grenade
+20-02-17 23:56:37 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-17 23:56:38 [Woc] Opazo captured the Blue Flag
+20-02-17 23:56:39 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-17 23:56:42 [Woc] Opazo scores for Alpha Team
+20-02-17 23:56:42 [[WoC] PacoGrillo] Yeah
+20-02-17 23:56:42 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:56:45 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:56:45 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-17 23:56:46 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:56:46 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:56:46 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:56:49 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:56:50 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-17 23:56:50 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:56:50 [Woc] Opazo captured the Blue Flag
+20-02-17 23:56:51 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:56:53 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Combat Knife
+20-02-17 23:56:53 [UnK] F4ll.cL returned the Blue Flag
+20-02-17 23:56:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-17 23:56:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:56:57 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:56:57 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:56:58 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:57:00 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-17 23:57:01 Time Left: 2 minutes
+20-02-17 23:57:01 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-17 23:57:02 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-17 23:57:03 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:57:05 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:57:06 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-17 23:57:08 |D.Forc3|.Turko scores for Bravo Team
+20-02-17 23:57:08 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:57:09 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:57:11 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:57:13 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-17 23:57:13 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:57:13 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:57:14 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-17 23:57:16 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:57:18 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Grenade
+20-02-17 23:57:18 .:{MIS}:. Leche returned the Blue Flag
+20-02-17 23:57:19 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:57:25 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:57:26 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with USSOCOM
+20-02-17 23:57:26 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:57:27 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-17 23:57:28 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-17 23:57:29 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-17 23:57:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:57:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:57:31 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-17 23:57:33 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Grenade
+20-02-17 23:57:33 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:57:33 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-17 23:57:35 [WOC] patuzhOO captured the Blue Flag
+20-02-17 23:57:36 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Grenade
+20-02-17 23:57:38 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-17 23:57:38 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-17 23:57:39 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:57:39 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-17 23:57:39 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:57:40 .:{MIS}:. Leche returned the Blue Flag
+20-02-17 23:57:42 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:57:45 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-17 23:57:46 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:57:47 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:57:47 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Spas-12
+20-02-17 23:57:48 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-17 23:57:50 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:57:52 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-17 23:57:53 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:57:55 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:57:55 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:57:56 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:57:56 [WOC] patuzhOO returned the Red Flag
+20-02-17 23:58:01 Time Left: 1 minutes
+20-02-17 23:58:01 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-17 23:58:01 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-17 23:58:04 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-17 23:58:05 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:58:06 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:58:09 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-17 23:58:11 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-17 23:58:11 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:58:12 [[WoC] PacoGrillo] Yeah
+20-02-17 23:58:12 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-17 23:58:13 [UnK] KorN captured the Red Flag
+20-02-17 23:58:14 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-17 23:58:15 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Combat Knife
+20-02-17 23:58:16 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:58:18 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-17 23:58:18 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:58:21 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-17 23:58:21 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:58:21 [WoC] DeFkOndOz* returned the Red Flag
+20-02-17 23:58:22 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:58:23 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-17 23:58:23 [[WoC] PacoGrillo] No!
+20-02-17 23:58:25 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:58:27 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-17 23:58:27 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Spas-12
+20-02-17 23:58:28 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-17 23:58:29 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:58:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:58:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:58:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:58:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-17 23:58:31 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:58:32 [|D.Forc3|.Turko] yahoO!!!
+20-02-17 23:58:33 [UnK] KorN returned the Blue Flag
+20-02-17 23:58:34 [WoC] Pokemon Johto captured the Blue Flag
+20-02-17 23:58:34 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:58:34 [WoC] PacoGrillo captured the Blue Flag
+20-02-17 23:58:34 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with USSOCOM
+20-02-17 23:58:35 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:58:37 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-17 23:58:39 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:58:40 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-17 23:58:40 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-17 23:58:41 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-17 23:58:41 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-17 23:58:42 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-17 23:58:43 [Woc] Opazo returned the Red Flag
+20-02-17 23:58:43 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-17 23:58:45 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-17 23:58:45 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:58:45 [WoC] PacoGrillo scores for Alpha Team
+20-02-17 23:58:49 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-17 23:58:49 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:58:49 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-17 23:58:50 [[WoC] PacoGrillo] No!
+20-02-17 23:58:51 [UnK] F4ll.cL captured the Red Flag
+20-02-17 23:58:51 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-17 23:58:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-17 23:58:53 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-17 23:58:54 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:58:55 |D.Forc3|.Turko captured the Red Flag
+20-02-17 23:58:55 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-17 23:58:56 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-17 23:58:59 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with USSOCOM
+20-02-17 23:59:00 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Grenade
+20-02-17 23:59:01 Next map: ctf_Blade
+20-02-17 23:59:02 [[WoC] PacoGrillo] Yeah
+20-02-17 23:59:02 [[Woc] Opazo] Soy seco soy WOC
+20-02-17 23:59:06 Blade by Zakath
+20-02-17 23:59:07 [Woc] Opazo gets a ping warning
+20-02-17 23:59:14 [[WoC] Pokemon Johto] nuke
+20-02-17 23:59:14 [[UnK] F4ll.cL] BUEN taunt
+20-02-17 23:59:15 [[UnK] F4ll.cL] xD
+20-02-17 23:59:16 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:59:16 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Grenade
+20-02-17 23:59:17 (1) [WOC] patuzhOO killed (2) [UnK] KorN with M79
+20-02-17 23:59:18 [|D.Forc3|.Turko] voten voten
+20-02-17 23:59:18 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-17 23:59:20 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-17 23:59:21 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:59:21 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:59:27 (1) [Woc] Opazo killed (2) [UnK] KorN with Barrett M82A1
+20-02-17 23:59:28 [Woc] Opazo captured the Blue Flag
+20-02-17 23:59:32 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:59:34 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Spas-12
+20-02-17 23:59:35 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Spas-12
+20-02-17 23:59:35 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-17 23:59:37 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with Combat Knife
+20-02-17 23:59:38 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-17 23:59:42 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with M79
+20-02-17 23:59:44 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-17 23:59:46 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Grenade
+20-02-17 23:59:47 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:59:48 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with M79
+20-02-17 23:59:49 [[UnK] F4ll.cL] votar usted
+20-02-17 23:59:49 [[Woc] Opazo] queremos veer si este es el mapa
+20-02-17 23:59:51 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with M79
+20-02-17 23:59:51 |D.Forc3|El OG(1) captured the Red Flag
+20-02-17 23:59:53 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Grenade
+20-02-17 23:59:53 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-17 23:59:55 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-17 23:59:56 [[Woc] Opazo] ah no
+20-02-17 23:59:58 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-17 23:59:58 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-17 23:59:58 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:00:00 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-18 00:00:02 [[Woc] Opazo] !map ctf_Voland
+20-02-18 00:00:03 [[WoC] PacoGrillo] Yeah
+20-02-18 00:00:05 [[Woc] Opazo] gogogogo
+20-02-18 00:00:08 Voland
+20-02-18 00:00:10 |D.Forc3|El OG(1) gets a ping warning
+20-02-18 00:00:14 [[UnK] F4ll.cL] !r
+20-02-18 00:00:19 Voland
+20-02-18 00:00:28 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:00:29 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:00:32 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:00:33 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:00:37 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:00:38 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:00:38 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:00:40 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-18 00:00:43 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:00:43 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:00:43 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:00:44 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:00:44 (TEAM)[|D.Forc3|.Turko] >INC< LOW!!  / Vienen por abajo!
+20-02-18 00:00:47 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:00:50 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-18 00:00:50 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:00:53 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:00:56 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:00:58 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:00:58 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:01:00 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Combat Knife
+20-02-18 00:01:02 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:01:03 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:01:07 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:01:08 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:01:13 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:01:13 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:01:15 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:01:17 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:01:17 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:18 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:01:19 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:01:20 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:21 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:01:23 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:01:23 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:25 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:28 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:01:29 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:29 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:01:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:01:30 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-18 00:01:31 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:01:32 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:01:32 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-18 00:01:32 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:01:33 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:34 |D.Forc3|.Turko gets a ping warning
+20-02-18 00:01:34 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:01:35 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:01:35 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:01:36 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:01:37 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:01:38 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:01:38 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with HK MP5
+20-02-18 00:01:39 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:01:41 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:01:42 |D.Forc3|Lawshot joining game (190.162.198.74:23073) HWID:5099E84E73E
+20-02-18 00:01:42 |D.Forc3|Lawshot has joined as spectator.
+20-02-18 00:01:43 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:01:44 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:01:45 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-18 00:01:47 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:01:54 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:01:54 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:01:55 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with HK MP5
+20-02-18 00:01:56 [[WoC] Pokemon Johto] ns
+20-02-18 00:01:56 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:01:57 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:01:57 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:01:57 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:01:58 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:02:00 [|D.Forc3|Lawshot] voy a woc
+20-02-18 00:02:01 [[UnK] F4ll.cL] ty
+20-02-18 00:02:02 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:02:03 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:02:03 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:02:04 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:02:06 |D.Forc3|El OG(1) scores for Bravo Team
+20-02-18 00:02:06 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:02:10 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:02:10 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with HK MP5
+20-02-18 00:02:10 (1) [WOC] patuzhOO killed (2) [UnK] KorN with M79
+20-02-18 00:02:14 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:02:18 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:02:20 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-18 00:02:21 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:02:21 [Woc] Opazo captured the Blue Flag
+20-02-18 00:02:29 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with LAW
+20-02-18 00:02:31 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:02:31 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:02:32 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:02:33 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:02:34 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:02:34 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:02:35 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:02:35 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:02:36 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-18 00:02:36 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:02:38 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:02:39 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:02:41 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Combat Knife
+20-02-18 00:02:43 [WOC] patuzhOO returned the Red Flag
+20-02-18 00:02:43 [Woc] Opazo scores for Alpha Team
+20-02-18 00:02:44 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:02:45 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:02:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:02:47 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:02:48 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Combat Knife
+20-02-18 00:02:51 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:02:52 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:02:53 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:02:54 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:02:55 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:02:56 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:02:58 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:03:00 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:03:00 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-18 00:03:00 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:03:00 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:03:01 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:03:03 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:03:05 (1) [Woc] Opazo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:03:06 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:03:07 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:03:07 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:03:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:03:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:03:09 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:03:09 (TEAM)[[WoC] DeFkOndOz*] yo mid
+20-02-18 00:03:14 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:03:17 |D.Forc3|Lawshot has left spectators
+20-02-18 00:03:18 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:03:19 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:03:20 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:20 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:03:20 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:20 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:03:22 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:03:23 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:03:24 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Grenade
+20-02-18 00:03:24 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:03:25 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with USSOCOM
+20-02-18 00:03:25 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:03:25 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:03:26 [UnK] KorN returned the Blue Flag
+20-02-18 00:03:27 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:03:27 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:03:30 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Ak-74
+20-02-18 00:03:36 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:03:36 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:03:37 190.162.198.74:23073|5099E84E73E requesting game...
+20-02-18 00:03:37 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:37 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:38 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:38 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:39 |D.Forc3|Lawshot joining game (190.162.198.74:23073) HWID:5099E84E73E
+20-02-18 00:03:39 |D.Forc3|Lawshot has joined as spectator.
+20-02-18 00:03:39 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:03:40 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:03:40 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:03:41 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with USSOCOM
+20-02-18 00:03:41 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:03:42 [[WoC] PacoGrillo] Die!
+20-02-18 00:03:45 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:03:45 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:03:47 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:03:51 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:03:51 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:03:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:03:57 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:03:57 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:03:57 (1) [Woc] Opazo killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:03:58 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:03:59 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:04:00 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:04:02 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:04:03 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:04:03 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-18 00:04:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:04:03 [UnK] KorN captured the Red Flag
+20-02-18 00:04:06 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Hands
+20-02-18 00:04:06 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with HK MP5
+20-02-18 00:04:08 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-18 00:04:10 |D.Forc3|El OG(1) returned the Blue Flag
+20-02-18 00:04:10 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:04:10 [UnK] KorN scores for Bravo Team
+20-02-18 00:04:11 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-18 00:04:13 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:04:13 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-18 00:04:15 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:04:20 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:04:22 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:04:25 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-18 00:04:25 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:04:29 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:04:29 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:04:30 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:04:35 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:04:36 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with HK MP5
+20-02-18 00:04:36 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:04:37 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:04:38 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:04:38 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with M79
+20-02-18 00:04:41 [Woc] Opazo captured the Blue Flag
+20-02-18 00:04:43 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:04:46 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:04:47 [Woc] Opazo scores for Alpha Team
+20-02-18 00:04:50 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:04:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:04:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:04:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:04:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:04:54 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:04:59 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:05:02 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:05:03 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:05:03 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:05:04 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:05:04 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:05:05 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-18 00:05:05 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:05:06 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:05:07 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:05:08 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:05:08 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:05:15 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:05:16 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:05:18 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:05:19 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:05:19 Time Left: 5 minutes
+20-02-18 00:05:22 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:05:22 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:05:23 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:05:25 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:05:27 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:05:27 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:05:29 [[WOC] patuzhOO] I am the law!
+20-02-18 00:05:31 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:05:31 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:05:35 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:05:37 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:05:40 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:05:41 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-18 00:05:46 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:05:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:05:51 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:05:51 [Woc] Opazo captured the Blue Flag
+20-02-18 00:05:52 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:05:53 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:05:53 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with HK MP5
+20-02-18 00:05:53 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:05:56 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:05:57 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:05:59 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:06:02 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:06:03 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:06:05 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:06:06 [[WoC] PacoGrillo] No!
+20-02-18 00:06:08 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:06:12 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:06:15 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:06:15 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:06:17 .:{MIS}:. Leche scores for Bravo Team
+20-02-18 00:06:19 Time Left: 4 minutes
+20-02-18 00:06:20 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with M79
+20-02-18 00:06:21 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with HK MP5
+20-02-18 00:06:25 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:06:26 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with M79
+20-02-18 00:06:27 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:06:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:06:29 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:06:30 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:06:32 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:06:33 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:06:33 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:06:34 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:06:34 [Woc] Opazo captured the Blue Flag
+20-02-18 00:06:34 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:06:35 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:06:44 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with HK MP5
+20-02-18 00:06:45 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:06:45 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:06:45 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:06:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:06:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:06:49 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:06:49 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:06:53 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:06:53 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:06:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:06:54 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:06:55 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with USSOCOM
+20-02-18 00:07:01 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:07:02 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:07:05 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:07:05 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-18 00:07:07 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with HK MP5
+20-02-18 00:07:08 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:07:14 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:07:15 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:07:16 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger middle!
+20-02-18 00:07:18 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:07:19 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:07:19 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-18 00:07:19 Time Left: 3 minutes
+20-02-18 00:07:22 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:07:25 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Combat Knife
+20-02-18 00:07:26 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:07:28 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:07:34 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:07:35 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:07:38 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:07:39 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:07:39 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:07:41 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:07:46 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Combat Knife
+20-02-18 00:07:46 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:07:48 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:07:49 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-18 00:07:51 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:07:52 |D.Forc3|.Turko returned the Blue Flag
+20-02-18 00:07:52 [|D.Forc3|.Turko] yahoO!!!
+20-02-18 00:07:53 [|D.Forc3|.Turko] Y Turko anotaaaa!!
+20-02-18 00:07:53 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:07:53 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:07:54 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:07:55 [|D.Forc3|.Turko] Y Turko anotaaaa!!
+20-02-18 00:07:56 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:07:56 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:07:59 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:08:00 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:08:01 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:08:05 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:08:05 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:08:06 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:06 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:07 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:08 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:08:10 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:08:12 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:08:13 [Woc] Opazo captured the Blue Flag
+20-02-18 00:08:13 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:08:14 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:08:15 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:08:16 |D.Forc3|El OG(1) returned the Blue Flag
+20-02-18 00:08:17 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:08:17 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:08:19 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-18 00:08:19 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:08:19 Time Left: 2 minutes
+20-02-18 00:08:23 |D.Forc3|El OG(1) returned the Blue Flag
+20-02-18 00:08:25 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:08:25 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:08:25 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:08:26 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:08:29 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:08:29 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:08:31 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:33 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:08:34 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:08:35 [Woc] Opazo captured the Blue Flag
+20-02-18 00:08:36 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:08:37 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:08:38 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-18 00:08:39 [UnK] F4ll.cL returned the Blue Flag
+20-02-18 00:08:40 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with USSOCOM
+20-02-18 00:08:40 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:08:40 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:08:44 [UnK] KorN returned the Blue Flag
+20-02-18 00:08:47 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:08:47 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:08:47 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-18 00:08:48 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:08:48 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:08:49 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:08:51 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:08:52 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:08:53 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with M79
+20-02-18 00:08:53 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:08:54 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-18 00:08:54 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:08:55 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:08:56 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:08:57 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:08:57 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:08:59 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:09:00 |D.Forc3|.Turko returned the Blue Flag
+20-02-18 00:09:02 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:09:03 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:09:04 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:09:07 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:09:07 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:09:09 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Grenade
+20-02-18 00:09:10 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:09:12 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:09:14 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:09:14 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Barrett M82A1
+20-02-18 00:09:16 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:09:17 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:09:17 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:09:18 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:09:18 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:09:19 Time Left: 1 minutes
+20-02-18 00:09:20 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:09:21 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:09:22 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:09:22 |D.Forc3|El OG(1) returned the Blue Flag
+20-02-18 00:09:24 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:09:26 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-18 00:09:26 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with M79
+20-02-18 00:09:27 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-18 00:09:31 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:09:33 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:09:33 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:09:35 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:09:36 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:09:36 (TEAM)[|D.Forc3|.Turko] >INC< LOW!!  / Vienen por abajo!
+20-02-18 00:09:40 (2) |D.Forc3|El OG(1) killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:09:41 [[WoC] PacoGrillo] No!
+20-02-18 00:09:41 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Grenade
+20-02-18 00:09:42 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:09:42 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:09:43 (2) |D.Forc3|El OG(1) killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-18 00:09:45 (1) [Woc] Opazo killed (2) [UnK] KorN with M79
+20-02-18 00:09:48 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:09:48 [Woc] Opazo captured the Blue Flag
+20-02-18 00:09:48 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:09:48 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:09:50 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-18 00:09:51 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-18 00:09:53 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:09:55 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-18 00:09:56 [Woc] Opazo returned the Red Flag
+20-02-18 00:09:56 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:09:56 [WOC] patuzhOO returned the Red Flag
+20-02-18 00:09:57 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG(1) with Steyr AUG
+20-02-18 00:10:03 (2) |D.Forc3|El OG(1) killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:10:03 [WoC] DeFkOndOz* scores for Alpha Team
+20-02-18 00:10:04 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:10:05 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:10:07 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:10:09 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:10:09 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:10:10 [[WoC] PacoGrillo] No!
+20-02-18 00:10:10 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:10:11 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Grenade
+20-02-18 00:10:14 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG(1) with Grenade
+20-02-18 00:10:14 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:10:16 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:10:17 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:10:18 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:10:18 [Woc] Opazo captured the Blue Flag
+20-02-18 00:10:19 Next map: ctf_Viet
+20-02-18 00:10:20 [[WoC] PacoGrillo] No!
+20-02-18 00:10:21 [[WOC] patuzhOO] OK
+20-02-18 00:10:23 (TEAM)[[WoC] DeFkOndOz*] jajajajajja
+20-02-18 00:10:25 Viet
+20-02-18 00:10:26 [Woc] Opazo gets a ping warning
+20-02-18 00:10:30 (TEAM)[[WoC] PacoGrillo] jajajajajcsad
+20-02-18 00:10:32 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-18 00:10:35 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:10:36 [[UnK] F4ll.cL] 1-1
+20-02-18 00:10:36 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:10:36 (2) |D.Forc3|El OG(1) killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:10:37 [UnK] KorN captured the Red Flag
+20-02-18 00:10:38 (1) [Woc] Opazo killed (2) [UnK] KorN with M79
+20-02-18 00:10:41 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:10:41 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with M79
+20-02-18 00:10:43 |D.Forc3|El OG(1) captured the Red Flag
+20-02-18 00:10:44 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Hands
+20-02-18 00:10:46 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Hands
+20-02-18 00:10:47 [[WoC] DeFkOndOz*] lawshot tu tambien fuiste woc <3?
+20-02-18 00:10:48 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG(1) with M79
+20-02-18 00:10:49 [Woc] Opazo returned the Red Flag
+20-02-18 00:10:51 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:10:51 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:10:52 [|D.Forc3|Lawshot] obvio
+20-02-18 00:10:52 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:10:54 [|D.Forc3|El OG(1)] fue skit
+20-02-18 00:10:54 (TEAM)[[WoC] DeFkOndOz*] mi amor
+20-02-18 00:10:57 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:10:57 [[WoC] DeFkOndOz*] te amo
+20-02-18 00:10:57 (2) |D.Forc3|El OG(1) killed (1) [WoC] DeFkOndOz* with Steyr AUG
+20-02-18 00:10:59 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:10:59 [[UnK] F4ll.cL] !map ctf_OldRun
+20-02-18 00:11:02 [|D.Forc3|Lawshot] mis incios
+20-02-18 00:11:04 Run (get to the flag!)
+20-02-18 00:11:04 |D.Forc3|El OG(1) has left bravo team.
+20-02-18 00:11:04 [WOC] patuzhOO has left alpha team.
+20-02-18 00:11:04 [WoC] Pokemon Johto has left alpha team.
+20-02-18 00:11:04 [WoC] PacoGrillo has left alpha team.
+20-02-18 00:11:04 [Woc] Opazo has left alpha team.
+20-02-18 00:11:05 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:05 191.115.22.146:23073|B91123F9945 requesting game...
+20-02-18 00:11:05 190.161.152.160:23073|1F387DCE705 requesting game...
+20-02-18 00:11:05 190.215.236.246:23073|68595FC4762 requesting game...
+20-02-18 00:11:06 191.115.22.146:23073|B91123F9945 requesting game...
+20-02-18 00:11:07 190.161.152.160:23073|1F387DCE705 requesting game...
+20-02-18 00:11:07 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:07 201.215.223.74:23073|6FC5B679310 requesting game...
+20-02-18 00:11:09 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:10 191.115.22.146:23073|B91123F9945 requesting game...
+20-02-18 00:11:10 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:11 |D.Forc3|El OG joining game (191.115.22.146:23073) HWID:B91123F9945
+20-02-18 00:11:11 |D.Forc3|El OG has joined as spectator.
+20-02-18 00:11:12 [|D.Forc3|Lawshot] wo
+20-02-18 00:11:12 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:13 190.161.152.160:23073|1F387DCE705 requesting game...
+20-02-18 00:11:13 |D.Forc3|El OG has joined bravo team.
+20-02-18 00:11:14 201.215.223.74:23073|6FC5B679310 requesting game...
+20-02-18 00:11:14 [|D.Forc3|Lawshot] 2-1
+20-02-18 00:11:15 [WOC] patuzhOO joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-02-18 00:11:15 [WOC] patuzhOO has joined alpha team.
+20-02-18 00:11:16 [Woc] Opazo joining game (201.215.223.74:23073) HWID:6FC5B679310
+20-02-18 00:11:16 [Woc] Opazo has joined alpha team.
+20-02-18 00:11:16 190.164.1.231:23073|648DE434E72 requesting game...
+20-02-18 00:11:18 [WoC] PacoGrillo joining game (190.164.1.231:23073) HWID:648DE434E72
+20-02-18 00:11:18 [WoC] PacoGrillo has joined alpha team.
+20-02-18 00:11:20 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:11:21 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:11:21 190.215.236.246:23073|68595FC4762 requesting game...
+20-02-18 00:11:25 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:11:28 [WoC] Pokemon Johto joining game (190.215.236.246:23073) HWID:68595FC4762
+20-02-18 00:11:28 [WoC] Pokemon Johto has joined alpha team.
+20-02-18 00:11:29 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:11:31 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:11:32 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:11:34 [Woc] Opazo captured the Blue Flag
+20-02-18 00:11:36 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:11:36 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:11:37 [|D.Forc3|.Turko] !r
+20-02-18 00:11:39 [|D.Forc3|.Turko] !r
+20-02-18 00:11:41 [|D.Forc3|.Turko] !r
+20-02-18 00:11:46 Run (get to the flag!)
+20-02-18 00:11:49 [WOC] patuzhOO has left alpha team.
+20-02-18 00:11:51 190.161.152.160:23073|1F387DCE705 requesting game...
+20-02-18 00:11:53 [WOC] patuzhOO joining game (190.161.152.160:23073) HWID:1F387DCE705
+20-02-18 00:11:53 [WOC] patuzhOO has joined alpha team.
+20-02-18 00:11:54 [[WoC] PacoGrillo] wait
+20-02-18 00:11:54 [[Woc] Opazo] !r
+20-02-18 00:11:58 [[Woc] Opazo] gogogogo
+20-02-18 00:12:00 Run (get to the flag!)
+20-02-18 00:12:04 [[WoC] PacoGrillo] Die!
+20-02-18 00:12:13 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:12:14 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:12:15 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Combat Knife
+20-02-18 00:12:17 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:12:21 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:12:23 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:12:23 [UnK] KorN captured the Red Flag
+20-02-18 00:12:24 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:12:24 [[WoC] PacoGrillo] No!
+20-02-18 00:12:25 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-18 00:12:28 [Woc] Opazo returned the Red Flag
+20-02-18 00:12:28 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:12:28 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:12:30 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Ak-74
+20-02-18 00:12:32 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:12:32 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:12:33 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:12:39 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:12:43 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:12:44 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:12:45 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with M79
+20-02-18 00:12:46 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:12:50 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:12:51 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:12:55 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:12:57 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:13:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:13:03 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with USSOCOM
+20-02-18 00:13:03 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:13:03 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:13:05 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-18 00:13:08 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with USSOCOM
+20-02-18 00:13:09 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:13:09 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:13:17 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:13:19 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:13:19 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:13:20 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:13:20 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:13:24 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:13:26 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:13:26 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:13:27 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:13:28 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:13:28 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:13:30 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:13:30 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with M79
+20-02-18 00:13:31 75.152.32.55:23073|35D72B3706E requesting game...
+20-02-18 00:13:34 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:13:36 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:13:37 75.152.32.55:23073|35D72B3706E requesting game...
+20-02-18 00:13:40 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:13:47 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:13:48 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:13:49 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:13:49 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:13:49 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:13:49 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:13:52 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:13:52 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-18 00:13:52 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:13:52 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-18 00:13:52 [[WoC] PacoGrillo] No!
+20-02-18 00:13:54 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:13:54 |D.Forc3|El OG returned the Blue Flag
+20-02-18 00:13:54 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:13:56 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:13:57 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Grenade
+20-02-18 00:14:00 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:14:06 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:14:07 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:14:09 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:14:11 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:14:13 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:14:13 175.209.41.7:23073|19AC533D02F requesting game...
+20-02-18 00:14:14 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:14:15 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:14:16 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:14:16 175.209.41.7:23073|19AC533D02F requesting game...
+20-02-18 00:14:16 [|D.Forc3|.Turko] Chachu!
+20-02-18 00:14:16 [|D.Forc3|.Turko] Companiero no se hage!!!
+20-02-18 00:14:17 [|D.Forc3|.Turko] Get the flag!
+20-02-18 00:14:17 [|D.Forc3|.Turko] Masterpiece!(8)
+20-02-18 00:14:18 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:14:18 [|D.Forc3|.Turko] T-U-R-K-I-T-O!
+20-02-18 00:14:18 175.209.41.7:23073|19AC533D02F requesting game...
+20-02-18 00:14:18 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:14:18 [|D.Forc3|.Turko] Hurraaaa!!!
+20-02-18 00:14:19 [|D.Forc3|.Turko] OK
+20-02-18 00:14:20 [UnK] KorN captured the Red Flag
+20-02-18 00:14:20 [|D.Forc3|.Turko] Get the flag!
+20-02-18 00:14:20 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:14:21 [UnK] KorN scores for Bravo Team
+20-02-18 00:14:25 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:14:27 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:14:32 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:14:32 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:14:32 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:14:33 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-18 00:14:37 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Ak-74
+20-02-18 00:14:39 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Ak-74
+20-02-18 00:14:42 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Grenade
+20-02-18 00:14:47 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:14:50 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:14:51 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:14:54 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:14:56 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:14:58 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:15:00 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:15:00 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:15:00 |D.Forc3|.Turko returned the Blue Flag
+20-02-18 00:15:08 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:15:14 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:15:16 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:15:20 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:15:21 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:15:24 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:15:26 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:15:30 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:15:31 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:15:31 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:15:34 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:15:35 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:15:36 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:15:36 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:15:39 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:15:45 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:15:47 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:15:52 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:15:53 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:15:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:15:56 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-18 00:15:59 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:16:01 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:16:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:16:06 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:16:09 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:16:10 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:16:10 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Ak-74
+20-02-18 00:16:12 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:16:15 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:16:18 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:16:18 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:16:19 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:16:19 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Ak-74
+20-02-18 00:16:22 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:16:23 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-18 00:16:26 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:16:31 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:16:32 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:16:34 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:16:34 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:16:37 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Combat Knife
+20-02-18 00:16:41 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:16:45 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:16:46 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:16:48 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:16:50 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:16:52 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:16:55 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:17:00 Time Left: 5 minutes
+20-02-18 00:17:01 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:17:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:17:04 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:17:05 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:17:05 [WOC] patuzhOO gets a ping warning
+20-02-18 00:17:07 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:17:09 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:17:10 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:13 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Ak-74
+20-02-18 00:17:15 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Ak-74
+20-02-18 00:17:18 1.246.173.88:23073|64A8B60515D requesting game...
+20-02-18 00:17:20 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:17:21 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:17:25 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:17:26 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:27 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:17:28 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:30 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:17:33 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:17:33 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:34 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:17:35 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:17:38 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:17:42 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:17:44 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:45 .:{MIS}:. Leche returned the Blue Flag
+20-02-18 00:17:45 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:17:48 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:17:48 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:17:48 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:17:48 |D.Forc3|El OG captured the Red Flag
+20-02-18 00:17:49 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:17:50 [Woc] Opazo returned the Red Flag
+20-02-18 00:17:51 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:17:53 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:17:58 (1) [Woc] Opazo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:17:59 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:18:00 Time Left: 4 minutes
+20-02-18 00:18:01 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:18:01 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Grenade
+20-02-18 00:18:03 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:18:06 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:18:07 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:18:11 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Ak-74
+20-02-18 00:18:12 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:18:17 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:18:18 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:18:23 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:18:23 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:18:26 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:18:28 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:18:29 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:18:30 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:30 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:18:32 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Ak-74
+20-02-18 00:18:32 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Ak-74
+20-02-18 00:18:34 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:35 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:37 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:43 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:18:45 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:18:47 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:48 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:18:49 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:18:49 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:18:49 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:18:50 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:18:51 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:18:56 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:18:57 [|D.Forc3|.Turko] yahoO!!!
+20-02-18 00:18:58 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:19:00 Time Left: 3 minutes
+20-02-18 00:19:01 |D.Forc3|Lawshot has left spectators
+20-02-18 00:19:02 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:19:02 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:19:06 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:19:06 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:19:07 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:19:08 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:19:10 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:19:13 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:19:14 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:19:15 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:19:16 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:19:17 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:19:26 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:19:26 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:19:27 [[WoC] PacoGrillo] No!
+20-02-18 00:19:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:19:29 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:19:29 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:19:30 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:19:30 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with USSOCOM
+20-02-18 00:19:33 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:19:35 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:19:38 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:19:39 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-18 00:19:39 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:19:40 [UnK] F4ll.cL returned the Blue Flag
+20-02-18 00:19:41 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:19:42 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:19:43 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-18 00:19:43 190.45.193.146:23073|4F31AD7E16F requesting game...
+20-02-18 00:19:44 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-18 00:19:46 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:19:47 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:19:47 [WoC] DeFkOndOz* returned the Red Flag
+20-02-18 00:19:48 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:19:54 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:19:55 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:20:00 Time Left: 2 minutes
+20-02-18 00:20:03 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Ak-74
+20-02-18 00:20:04 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:20:07 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:20:09 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:20:09 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:20:09 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:20:12 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:20:14 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:20:17 [Woc] Opazo returned the Red Flag
+20-02-18 00:20:17 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:20:18 (1) [Woc] Opazo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:20:18 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:20:19 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:20:20 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:20:25 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:20:26 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:20:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:20:29 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:20:30 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:20:30 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:20:32 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:20:32 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with LAW
+20-02-18 00:20:32 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:20:39 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:20:41 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-18 00:20:44 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:20:48 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:20:48 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:20:49 [[WoC] PacoGrillo] No!
+20-02-18 00:20:50 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:20:51 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with USSOCOM
+20-02-18 00:20:53 ninetail fox unleashed has left spectators
+20-02-18 00:20:53 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with USSOCOM
+20-02-18 00:20:54 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-18 00:20:54 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:20:58 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:20:59 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:21:00 Time Left: 1 minutes
+20-02-18 00:21:01 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:21:01 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:21:07 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:21:07 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:21:12 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with USSOCOM
+20-02-18 00:21:14 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:21:15 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:21:17 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:21:20 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:21:20 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:21:26 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:21:28 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:21:29 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:21:32 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:21:33 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:21:33 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:21:34 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:21:36 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:21:37 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Barrett M82A1
+20-02-18 00:21:40 [UnK] KorN returned the Blue Flag
+20-02-18 00:21:43 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:21:44 |D.Forc3|El OG captured the Red Flag
+20-02-18 00:21:44 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:21:45 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:21:45 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Barrett M82A1
+20-02-18 00:21:49 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:21:53 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with USSOCOM
+20-02-18 00:21:54 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-18 00:21:54 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:21:55 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Barrett M82A1
+20-02-18 00:21:55 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:21:56 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:21:58 [[WoC] Pokemon Johto] gg
+20-02-18 00:22:00 Next map: ctf_Division
+20-02-18 00:22:02 [[Woc] Opazo] gg
+20-02-18 00:22:05 Division by Boxo, KC, viral
+20-02-18 00:22:15 [|D.Forc3|.Turko] voten
+20-02-18 00:22:16 (1) [WOC] patuzhOO killed (2) [UnK] KorN with M79
+20-02-18 00:22:18 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:22:19 [[Woc] Opazo] no termino?
+20-02-18 00:22:21 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Grenade
+20-02-18 00:22:24 [|D.Forc3|.Turko] cuanto vamos?
+20-02-18 00:22:25 [[WoC] PacoGrillo] no ganaron?
+20-02-18 00:22:26 [|D.Forc3|.Turko] 2-1
+20-02-18 00:22:27 [[WoC] PacoGrillo] hahjahahja
+20-02-18 00:22:29 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:22:30 [|D.Forc3|.Turko] mejor de 5
+20-02-18 00:22:31 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:22:32 (1) [WoC] DeFkOndOz* killed (2) [UnK] KorN with Grenade
+20-02-18 00:22:33 [[UnK] F4ll.cL] mejor de 56
+20-02-18 00:22:34 [[WoC] Pokemon Johto] yapo
+20-02-18 00:22:35 [[WoC] PacoGrillo] csm
+20-02-18 00:22:35 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:22:37 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:22:38 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:22:40 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:22:40 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:22:40 [[WoC] Pokemon Johto] mi mama no me deja
+20-02-18 00:22:47 (TEAM)[[WoC] DeFkOndOz*] steel
+20-02-18 00:22:50 (1) [WOC] patuzhOO killed (2) [UnK] KorN with M79
+20-02-18 00:22:53 [[Woc] Opazo] !map cff_Steel
+20-02-18 00:22:53 Map not found (cff_Steel)
+20-02-18 00:22:53 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Barrett M82A1
+20-02-18 00:22:54 [[WoC] PacoGrillo] Josefina cancela todas mis citas
+20-02-18 00:22:58 [[UnK] F4ll.cL] !map ctf_Steel
+20-02-18 00:23:03 Steel by Boxo, KC, Vigg
+20-02-18 00:23:08 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-18 00:23:09 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with LAW
+20-02-18 00:23:10 [|D.Forc3|El OG] nerax anda buscando pololo
+20-02-18 00:23:12 [[UnK] KorN] afk
+20-02-18 00:23:12 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:23:14 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:23:15 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:23:16 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:23:17 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:23:19 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:23:20 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:23:22 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:23:23 [[Woc] Opazo] ok
+20-02-18 00:23:29 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:23:29 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:23:30 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:23:34 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:23:34 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:23:37 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:23:39 [|D.Forc3|.Turko] yahoO!!!
+20-02-18 00:23:39 [|D.Forc3|.Turko] wujuU!!
+20-02-18 00:23:39 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:23:39 [|D.Forc3|.Turko] yahoO!!!
+20-02-18 00:23:39 [[WoC] Pokemon Johto] xd
+20-02-18 00:23:40 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:23:40 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:23:41 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:23:45 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:23:49 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:23:49 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:23:51 (TEAM)[[WoC] DeFkOndOz*] se sabe4
+20-02-18 00:23:52 (TEAM)[[WoC] DeFkOndOz*] jejeje
+20-02-18 00:23:53 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:23:54 [[UnK] F4ll.cL] !r
+20-02-18 00:23:59 Steel by Boxo, KC, Vigg
+20-02-18 00:24:06 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:24:06 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-02-18 00:24:07 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Spas-12
+20-02-18 00:24:11 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:24:11 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:24:13 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:24:14 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:24:17 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:24:18 [|D.Forc3|.Turko] yahoO!!!
+20-02-18 00:24:18 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:24:19 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:24:19 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:24:20 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:24:21 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:24:23 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with USSOCOM
+20-02-18 00:24:25 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:24:26 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Grenade
+20-02-18 00:24:26 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:24:26 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with LAW
+20-02-18 00:24:27 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with LAW
+20-02-18 00:24:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:24:27 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:24:29 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:24:32 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:24:33 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:24:34 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with M79
+20-02-18 00:24:34 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:24:35 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:24:36 (TEAM)[|D.Forc3|.Turko] >INC< LOW!!  / Vienen por abajo!
+20-02-18 00:24:37 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:24:40 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:24:40 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-18 00:24:44 (1) [Woc] Opazo killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:24:45 [[WoC] PacoGrillo] No!
+20-02-18 00:24:46 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Spas-12
+20-02-18 00:24:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:24:47 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:24:49 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:24:50 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:24:50 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:24:54 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:24:54 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:24:54 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:24:58 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:24:58 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:24:58 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with LAW
+20-02-18 00:24:59 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:24:59 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:01 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:02 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:03 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:25:05 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:25:05 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:25:08 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:25:09 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:25:09 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:25:10 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:25:10 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Combat Knife
+20-02-18 00:25:10 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:25:11 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with FN Minimi
+20-02-18 00:25:11 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:25:19 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:25:20 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:25:21 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:23 186.104.120.245:23073|20BE6CD67EA requesting game...
+20-02-18 00:25:24 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:25:25 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:25:25 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:25:26 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:25:27 186.104.120.245:23073|20BE6CD67EA requesting game...
+20-02-18 00:25:27 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:25:29 186.104.120.245:23073|20BE6CD67EA requesting game...
+20-02-18 00:25:30 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Barrett M82A1
+20-02-18 00:25:31 (1) [Woc] Opazo killed (2) [UnK] KorN with LAW
+20-02-18 00:25:32 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:32 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:25:35 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with M79
+20-02-18 00:25:36 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:25:37 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:25:37 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Combat Knife
+20-02-18 00:25:38 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:25:40 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:25:42 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:25:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:46 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:25:46 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:25:51 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:25:51 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:25:52 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with LAW
+20-02-18 00:25:53 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:25:54 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:25:56 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:25:58 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:26:00 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with LAW
+20-02-18 00:26:01 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:26:02 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:26:04 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:26:04 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:26:05 (TEAM)[[WoC] DeFkOndOz*] xd
+20-02-18 00:26:06 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:26:07 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:26:08 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Steyr AUG
+20-02-18 00:26:08 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-18 00:26:08 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:26:12 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:26:13 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-18 00:26:16 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-18 00:26:17 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:26:18 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:26:19 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-18 00:26:19 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:26:24 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:26:24 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-18 00:26:24 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:26:26 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:26:29 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:26:30 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:26:31 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Hands
+20-02-18 00:26:31 |D.Forc3|El OG captured the Red Flag
+20-02-18 00:26:33 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:26:33 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:26:34 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Steyr AUG
+20-02-18 00:26:35 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:26:36 (2) .:{MIS}:. Leche killed (1) [WoC] Pokemon Johto with M79
+20-02-18 00:26:37 [WOC] patuzhOO returned the Red Flag
+20-02-18 00:26:37 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:26:38 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:26:38 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:26:43 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:26:44 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:26:45 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:26:47 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:26:47 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:26:48 (2) .:{MIS}:. Leche killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:26:49 [[WoC] PacoGrillo] I am the law!
+20-02-18 00:26:53 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:26:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:26:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:26:55 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:26:56 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:26:56 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:26:58 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:26:59 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:27:01 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:27:02 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:27:03 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:27:04 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Spas-12
+20-02-18 00:27:05 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-18 00:27:06 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:27:07 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:27:07 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:27:09 (2) [UnK] KorN killed (1) [WoC] DeFkOndOz* with Desert Eagles
+20-02-18 00:27:10 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:27:10 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:27:10 |D.Forc3|El OG returned the Blue Flag
+20-02-18 00:27:11 (2) [UnK] KorN killed (1) [WOC] patuzhOO with LAW
+20-02-18 00:27:12 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:27:14 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:27:16 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:27:18 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:27:18 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:27:20 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:27:22 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:27:22 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:27:24 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:27:24 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:27:24 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:27:26 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:27:26 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:27:27 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Combat Knife
+20-02-18 00:27:27 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:27:28 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:27:29 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:27:32 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:27:32 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:27:34 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:27:34 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:27:35 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:27:36 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:27:36 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with LAW
+20-02-18 00:27:38 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:27:41 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:27:41 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:27:41 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:27:42 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:27:42 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:27:45 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:27:45 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:27:45 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:27:47 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:27:48 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:27:49 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:27:50 |D.Forc3|El OG returned the Blue Flag
+20-02-18 00:27:51 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with LAW
+20-02-18 00:27:52 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|.Turko with USSOCOM
+20-02-18 00:27:55 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:27:57 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:27:58 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:28:00 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:28:02 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:28:07 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:28:07 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:28:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:28:08 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:28:09 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:09 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:28:10 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:28:11 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:28:12 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:28:13 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:28:13 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:28:13 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:28:14 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:28:14 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:14 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:28:14 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with M79
+20-02-18 00:28:15 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger down!
+20-02-18 00:28:15 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:28:16 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:16 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:28:16 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-18 00:28:19 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:28:20 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:28:21 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:28:21 |D.Forc3|.Turko returned the Blue Flag
+20-02-18 00:28:21 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:22 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with USSOCOM
+20-02-18 00:28:23 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:28:24 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:24 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Combat Knife
+20-02-18 00:28:24 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:28:25 191.126.99.36:43825|42ED0983598 requesting game...
+20-02-18 00:28:25 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:26 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:28:27 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:28:27 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:28:27 181.229.83.182:23073|6F72ADCE33A requesting game...
+20-02-18 00:28:27 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:29 191.126.99.36:43825|42ED0983598 requesting game...
+20-02-18 00:28:29 (1) [Woc] Opazo killed (2) [UnK] KorN with LAW
+20-02-18 00:28:29 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:30 191.126.99.36:43825|42ED0983598 requesting game...
+20-02-18 00:28:30 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Ruger 77
+20-02-18 00:28:30 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:28:31 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:31 181.229.83.182:23073|6F72ADCE33A requesting game...
+20-02-18 00:28:32 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:32 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:28:33 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:28:33 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:28:34 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:36 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:37 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:37 191.126.99.36:43825|42ED0983598 requesting game...
+20-02-18 00:28:38 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:28:39 190.44.152.70:23073|537A67EB491 requesting game...
+20-02-18 00:28:39 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with FN Minimi
+20-02-18 00:28:40 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:28:41 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:28:43 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:28:44 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:28:46 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:28:47 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:28:48 [[WoC] Pokemon Johto] xd
+20-02-18 00:28:48 .:{MIS}:. Leche returned the Blue Flag
+20-02-18 00:28:48 [[WoC] Pokemon Johto] txd
+20-02-18 00:28:51 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Grenade
+20-02-18 00:28:51 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:28:52 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Spas-12
+20-02-18 00:28:54 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:28:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:28:56 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:28:56 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with LAW
+20-02-18 00:28:59 181.229.83.182:23073|6F72ADCE33A requesting game...
+20-02-18 00:28:59 Time Left: 5 minutes
+20-02-18 00:29:00 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:29:00 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-18 00:29:01 181.229.83.182:23073|6F72ADCE33A requesting game...
+20-02-18 00:29:01 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:29:02 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:29:03 181.229.83.182:23073|6F72ADCE33A requesting game...
+20-02-18 00:29:04 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:29:04 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:29:05 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:29:06 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Grenade
+20-02-18 00:29:11 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Ak-74
+20-02-18 00:29:11 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:29:12 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:29:12 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:29:15 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:29:16 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:29:16 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:29:16 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Ak-74
+20-02-18 00:29:18 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:29:20 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with FN Minimi
+20-02-18 00:29:28 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:29:30 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:29:33 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with FN Minimi
+20-02-18 00:29:33 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:29:36 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Ak-74
+20-02-18 00:29:36 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:29:40 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:29:41 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:29:44 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:29:44 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-18 00:29:46 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:29:46 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Grenade
+20-02-18 00:29:47 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:29:49 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:29:52 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:29:53 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:29:53 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:29:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:29:56 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:29:57 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:29:57 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Grenade
+20-02-18 00:29:59 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:29:59 Time Left: 4 minutes
+20-02-18 00:30:00 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with Grenade
+20-02-18 00:30:01 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-18 00:30:02 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:30:02 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:30:04 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:30:04 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:30:05 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:30:06 [[WoC] PacoGrillo] Yeah
+20-02-18 00:30:07 [[WoC] Pokemon Johto] SALGAN QL
+20-02-18 00:30:09 (1) [Woc] Opazo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:30:10 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:30:12 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with LAW
+20-02-18 00:30:12 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:30:15 (2) |D.Forc3|El OG killed (1) [Woc] Opazo with LAW
+20-02-18 00:30:16 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with LAW
+20-02-18 00:30:16 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with LAW
+20-02-18 00:30:16 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:30:21 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:30:22 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:30:22 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:30:24 (2) [UnK] KorN killed (1) [Woc] Opazo with Grenade
+20-02-18 00:30:26 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:30:28 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted middle!
+20-02-18 00:30:28 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:30:29 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:30:29 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Steyr AUG
+20-02-18 00:30:32 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:30:36 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:30:36 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:30:37 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:30:38 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:30:38 [[WoC] PacoGrillo] Yeah
+20-02-18 00:30:39 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:30:42 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:30:44 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:30:45 (2) |D.Forc3|.Turko killed (1) [WoC] Pokemon Johto with Steyr AUG
+20-02-18 00:30:46 [[WoC] Pokemon Johto] xd
+20-02-18 00:30:48 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:30:49 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:30:50 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:30:51 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:30:51 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:30:52 (1) [WOC] patuzhOO killed (2) [UnK] KorN with Grenade
+20-02-18 00:30:52 (RADIO)[[WoC] DeFkOndOz*] Enemy flagger up!
+20-02-18 00:30:52 (1) [WoC] Pokemon Johto killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:30:55 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:30:56 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with USSOCOM
+20-02-18 00:30:57 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:30:59 Time Left: 3 minutes
+20-02-18 00:31:01 [WoC] Pokemon Johto captured the Blue Flag
+20-02-18 00:31:01 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:31:01 (2) |D.Forc3|.Turko killed (1) [WoC] PacoGrillo with Steyr AUG
+20-02-18 00:31:04 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with M79
+20-02-18 00:31:05 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:31:07 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:31:10 [UnK] F4ll.cL returned the Blue Flag
+20-02-18 00:31:10 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:31:13 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:31:13 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:31:14 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:31:14 (TEAM)[|D.Forc3|.Turko] >INC< LOW!!  / Vienen por abajo!
+20-02-18 00:31:14 (TEAM)[|D.Forc3|.Turko] >INC< HIGH! / Vienen por arriba!
+20-02-18 00:31:15 (2) .:{MIS}:. Leche killed (1) [WoC] DeFkOndOz* with M79
+20-02-18 00:31:17 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:31:17 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:31:17 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:31:18 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:31:19 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:31:20 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:31:20 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Desert Eagles
+20-02-18 00:31:20 (1) [WOC] patuzhOO killed (2) |D.Forc3|El OG with Combat Knife
+20-02-18 00:31:20 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Spas-12
+20-02-18 00:31:21 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:31:21 (1) [WoC] PacoGrillo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:31:27 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with M79
+20-02-18 00:31:28 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:31:30 (1) [Woc] Opazo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:31:30 (2) [UnK] F4ll.cL killed (1) [Woc] Opazo with Hands
+20-02-18 00:31:30 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:31:33 (1) [WOC] patuzhOO killed (2) |D.Forc3|.Turko with Steyr AUG
+20-02-18 00:31:33 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:31:34 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:31:34 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-18 00:31:36 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:31:37 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:31:38 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:31:39 [[WoC] PacoGrillo] No!
+20-02-18 00:31:39 [UnK] F4ll.cL returned the Blue Flag
+20-02-18 00:31:41 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:31:41 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:31:43 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Combat Knife
+20-02-18 00:31:44 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:31:44 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted down!
+20-02-18 00:31:45 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Spas-12
+20-02-18 00:31:48 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Barrett M82A1
+20-02-18 00:31:48 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Ruger 77
+20-02-18 00:31:48 (2) |D.Forc3|El OG killed (1) [WoC] Pokemon Johto with Spas-12
+20-02-18 00:31:49 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:31:52 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:31:52 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:31:53 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:31:54 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Grenade
+20-02-18 00:31:57 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:31:58 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:31:59 Time Left: 2 minutes
+20-02-18 00:32:00 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:32:01 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with M79
+20-02-18 00:32:01 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:32:03 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:32:03 .:{MIS}:. Leche captured the Red Flag
+20-02-18 00:32:03 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with Steyr AUG
+20-02-18 00:32:05 (2) [UnK] KorN killed (1) [Woc] Opazo with LAW
+20-02-18 00:32:07 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Ruger 77
+20-02-18 00:32:09 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:32:10 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:32:10 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with Barrett M82A1
+20-02-18 00:32:11 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:32:14 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:32:16 (1) [WoC] PacoGrillo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:32:20 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:32:21 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:32:22 (1) [WOC] patuzhOO killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:32:23 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:32:24 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with LAW
+20-02-18 00:32:25 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:32:28 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with Spas-12
+20-02-18 00:32:30 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:32:31 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:32:32 (1) [WoC] DeFkOndOz* killed (2) [UnK] F4ll.cL with USSOCOM
+20-02-18 00:32:33 (1) [WoC] Pokemon Johto killed (2) |D.Forc3|.Turko with Grenade
+20-02-18 00:32:33 [WoC] Pokemon Johto returned the Red Flag
+20-02-18 00:32:34 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:32:36 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:32:37 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:32:38 (2) [UnK] F4ll.cL killed (1) [WoC] DeFkOndOz* with Ruger 77
+20-02-18 00:32:40 (2) [UnK] F4ll.cL killed (1) [WOC] patuzhOO with Ruger 77
+20-02-18 00:32:41 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:32:44 (1) [Woc] Opazo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:32:46 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:32:47 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Barrett M82A1
+20-02-18 00:32:48 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:32:48 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:32:49 (1) [WoC] DeFkOndOz* killed (2) |D.Forc3|El OG with Barrett M82A1
+20-02-18 00:32:50 190.47.227.13:23073|40AA5BC0D7D requesting game...
+20-02-18 00:32:52 (2) |D.Forc3|.Turko killed (1) [WoC] DeFkOndOz* with Grenade
+20-02-18 00:32:54 (RADIO)[[WoC] DeFkOndOz*] Enemy spotted up!
+20-02-18 00:32:55 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:32:55 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:32:55 [[UnK] F4ll.cL] falla una defdkongoz ql hjajaja
+20-02-18 00:32:55 [[Woc] Opazo] Yeah
+20-02-18 00:32:56 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:32:56 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:32:57 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:32:58 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:32:58 [UnK] F4ll.cL returned the Blue Flag
+20-02-18 00:32:59 Time Left: 1 minutes
+20-02-18 00:33:00 [[WoC] DeFkOndOz*] =D
+20-02-18 00:33:01 190.47.227.13:23073|40AA5BC0D7D requesting game...
+20-02-18 00:33:03 (2) [UnK] KorN killed (1) [WOC] patuzhOO with Desert Eagles
+20-02-18 00:33:04 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:33:06 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:33:06 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Combat Knife
+20-02-18 00:33:06 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:33:10 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:33:10 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Grenade
+20-02-18 00:33:11 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:33:11 (1) [WoC] DeFkOndOz* killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:33:12 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:33:15 (2) |D.Forc3|El OG killed (1) [WoC] PacoGrillo with LAW
+20-02-18 00:33:19 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:33:19 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:33:22 (1) [WoC] Pokemon Johto killed (2) .:{MIS}:. Leche with Barrett M82A1
+20-02-18 00:33:22 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with LAW
+20-02-18 00:33:25 (1) [WoC] PacoGrillo killed (2) |D.Forc3|El OG with HK MP5
+20-02-18 00:33:27 (2) |D.Forc3|.Turko killed (1) [Woc] Opazo with Steyr AUG
+20-02-18 00:33:27 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with HK MP5
+20-02-18 00:33:28 (2) .:{MIS}:. Leche killed (1) [WOC] patuzhOO with Grenade
+20-02-18 00:33:28 186.11.43.227:23567|F022DA6E3A0 requesting game...
+20-02-18 00:33:29 186.11.43.227:23567|F022DA6E3A0 requesting game...
+20-02-18 00:33:31 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with Grenade
+20-02-18 00:33:31 [UnK] KorN captured the Red Flag
+20-02-18 00:33:32 (1) [WoC] Pokemon Johto killed (2) [UnK] KorN with Combat Knife
+20-02-18 00:33:34 (2) [UnK] KorN killed (1) [WoC] Pokemon Johto with Grenade
+20-02-18 00:33:36 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with Grenade
+20-02-18 00:33:37 (2) |D.Forc3|.Turko killed (1) [WOC] patuzhOO with Steyr AUG
+20-02-18 00:33:38 (1) [Woc] Opazo killed (2) |D.Forc3|.Turko with LAW
+20-02-18 00:33:39 (1) [WoC] PacoGrillo killed (2) .:{MIS}:. Leche with HK MP5
+20-02-18 00:33:40 (2) [UnK] KorN killed (1) [WoC] PacoGrillo with Desert Eagles
+20-02-18 00:33:42 (1) [Woc] Opazo killed (2) [UnK] KorN with HK MP5
+20-02-18 00:33:43 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:33:44 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:33:45 (2) .:{MIS}:. Leche killed (1) [Woc] Opazo with Ak-74
+20-02-18 00:33:48 (2) [UnK] F4ll.cL killed (1) [WoC] Pokemon Johto with Combat Knife
+20-02-18 00:33:49 [WOC] patuzhOO captured the Blue Flag
+20-02-18 00:33:52 (2) |D.Forc3|El OG killed (1) [WOC] patuzhOO with Spas-12
+20-02-18 00:33:54 (1) [WoC] PacoGrillo killed (2) [UnK] F4ll.cL with HK MP5
+20-02-18 00:33:54 [UnK] KorN returned the Blue Flag
+20-02-18 00:33:55 (2) [UnK] KorN killed (1) [Woc] Opazo with Desert Eagles
+20-02-18 00:33:56 [WoC] PacoGrillo returned the Red Flag
+20-02-18 00:33:56 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:33:57 [WoC] DeFkOndOz* captured the Blue Flag
+20-02-18 00:33:57 |D.Forc3|.Turko captured the Red Flag
+20-02-18 00:33:58 (2) |D.Forc3|El OG killed (1) [WoC] DeFkOndOz* with Spas-12
+20-02-18 00:33:58 [[WoC] PacoGrillo] No!
+20-02-18 00:33:59 (1) [WOC] patuzhOO killed (2) .:{MIS}:. Leche with XM214 Minigun
+20-02-18 00:33:59 Next map: ctf_Death
+20-02-18 00:34:00 [[WoC] DeFkOndOz*] gg
+20-02-18 00:34:01 [[WoC] DeFkOndOz*] =D
+20-02-18 00:34:02 [[WoC] Pokemon Johto] oli
+20-02-18 00:34:03 [[WoC] PacoGrillo] jajaja
+20-02-18 00:34:03 [[WOC] patuzhOO] gg
+20-02-18 00:34:05 Death by MM, g_d. Boxo, mtk`
+20-02-18 00:34:07 [[UnK] F4ll.cL] gg
+20-02-18 00:34:07 [[UnK] KorN] ggwp
+20-02-18 00:34:09 [WoC] DeFkOndOz* has left alpha team.
+20-02-18 00:34:09 .:{MIS}:. Leche has left bravo team.
+20-02-18 00:34:10 |D.Forc3|El OG has left bravo team.
+20-02-18 00:34:10 [[Woc] Opazo] gg
+20-02-18 00:34:11 [WoC] Pokemon Johto has left alpha team.
+20-02-18 00:34:12 [WOC] patuzhOO has left alpha team.
+20-02-18 00:34:14 [Woc] Opazo has left alpha team.
+20-02-18 00:34:18 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:34:21 |D.Forc3|.Turko has left bravo team.
+20-02-18 00:34:22 181.203.123.140:25811|696908AC8E7 requesting game...
+20-02-18 00:34:25 181.203.123.140:25811|696908AC8E7 requesting game...
+20-02-18 00:34:26 |D.Forc3|.Turko joining game (181.203.123.140:25811) HWID:696908AC8E7
+20-02-18 00:34:26 |D.Forc3|.Turko has joined as spectator.
+20-02-18 00:34:28 [UnK] F4ll.cL scores for Bravo Team
+20-02-18 00:34:29 |D.Forc3|.Turko has joined alpha team.
+20-02-18 00:34:34 [UnK] KorN has left bravo team.
+20-02-18 00:34:41 |D.Forc3|.Turko captured the Blue Flag
+20-02-18 00:34:41 (2) [UnK] F4ll.cL killed (1) [WoC] PacoGrillo with Grenade
+20-02-18 00:34:41 [UnK] F4ll.cL captured the Red Flag
+20-02-18 00:34:46 (1) |D.Forc3|.Turko killed (2) [UnK] F4ll.cL with Ruger 77
+20-02-18 00:34:47 [UnK] F4ll.cL has left bravo team.
+20-02-18 00:34:50 |D.Forc3|.Turko returned the Red Flag
+20-02-18 00:34:50 XRe1ch|Sadiko has left spectators
+20-02-18 00:34:54 |D.Forc3|.Turko scores for Alpha Team
+20-02-18 00:34:57 [WoC] PacoGrillo captured the Blue Flag
+20-02-18 00:35:03 |D.Forc3|.Turko has left alpha team.
+20-02-18 00:35:10 [WoC] PacoGrillo has left alpha team.
+20-02-18 00:35:10 Server password changed to scl
+20-02-18 00:36:03 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-18 00:36:04 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-18 00:36:04 [UnK] KorN has joined as spectator.
+20-02-18 00:36:05 [UnK] KorN has left spectators
+20-02-18 00:36:05 Server password changed to scl
+20-02-18 00:36:19 201.215.223.74:23073|6FC5B679310 requesting game...
+20-02-18 00:39:05 Time Left: 5 minutes
+20-02-18 00:40:05 Time Left: 4 minutes
+20-02-18 00:41:05 Time Left: 3 minutes

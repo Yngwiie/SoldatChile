@@ -1,0 +1,126 @@
+20-05-31 06:08:41    Log Started
+20-05-31 06:08:41 Opened /home/kader_b/int1/soldat.ini
+20-05-31 06:20:06 TCP/IP File Server started
+20-05-31 06:24:10  Net - XRe1ch|K* disconnected 31-5-20 06:24:10
+20-05-31 06:24:10  Net - $HILE5 - Skipo disconnected 31-5-20 06:24:10
+20-05-31 06:24:11  Net - d4zy disconnected 31-5-20 06:24:11
+20-05-31 06:24:13  Net - $HILE5 - Traidor Mota disconnected 31-5-20 06:24:13
+20-05-31 06:24:14  Net - $HILE5 - SenzacL* disconnected 31-5-20 06:24:14
+20-05-31 06:24:18  Net - Randy Nota LOKA disconnected 31-5-20 06:24:18
+20-05-31 06:50:06 TCP/IP File Server started
+20-05-31 07:20:07 TCP/IP File Server started
+20-05-31 07:50:07 TCP/IP File Server started
+20-05-31 08:20:06 TCP/IP File Server started
+20-05-31 08:50:07 TCP/IP File Server started
+20-05-31 09:20:07 TCP/IP File Server started
+20-05-31 09:50:07 TCP/IP File Server started
+20-05-31 10:20:07 TCP/IP File Server started
+20-05-31 10:50:06 TCP/IP File Server started
+20-05-31 11:20:06 TCP/IP File Server started
+20-05-31 11:50:07 TCP/IP File Server started
+20-05-31 12:20:06 TCP/IP File Server started
+20-05-31 12:50:06 TCP/IP File Server started
+20-05-31 13:20:07 TCP/IP File Server started
+20-05-31 13:50:07 TCP/IP File Server started
+20-05-31 14:20:07 TCP/IP File Server started
+20-05-31 14:50:07 TCP/IP File Server started
+20-05-31 15:20:07 TCP/IP File Server started
+20-05-31 15:50:07 TCP/IP File Server started
+20-05-31 16:20:06 TCP/IP File Server started
+20-05-31 16:50:07 TCP/IP File Server started
+20-05-31 17:20:07 TCP/IP File Server started
+20-05-31 17:50:07 TCP/IP File Server started
+20-05-31 18:20:07 TCP/IP File Server started
+20-05-31 18:50:06 TCP/IP File Server started
+20-05-31 19:20:07 TCP/IP File Server started
+20-05-31 19:50:07 TCP/IP File Server started
+20-05-31 20:20:07 TCP/IP File Server started
+20-05-31 20:50:07 TCP/IP File Server started
+20-05-31 21:20:07 TCP/IP File Server started
+20-05-31 21:50:07 TCP/IP File Server started
+20-05-31 22:20:07 TCP/IP File Server started
+20-05-31 22:50:07 TCP/IP File Server started
+20-05-31 23:20:07 TCP/IP File Server started
+20-05-31 23:44:50  Net - #1 Mand3s connected 31-5-20 23:44:50
+20-05-31 23:45:24  Net - later Maaxis* (New guy) connected 31-5-20 23:45:24
+20-05-31 23:47:51  Net - later Maaxis* (New guy) disconnected 31-5-20 23:47:51
+20-05-31 23:48:57  Net - #1 Mand3s disconnected 31-5-20 23:48:57
+20-05-31 23:49:00  Net - $HILE5 - Skipo connected 31-5-20 23:49:00
+20-05-31 23:49:44  Net - $HILE5 - SenzacL* connected 31-5-20 23:49:44
+20-05-31 23:50:12 TCP/IP File Server started
+20-05-31 23:51:15  Net - =R= CWeiC connected 31-5-20 23:51:15
+20-05-31 23:52:28  Net - =R= CWeiC disconnected 31-5-20 23:52:28
+20-05-31 23:52:32  Net - =R= CWeiC connected 31-5-20 23:52:32
+20-05-31 23:58:47  Net - $HILE5 - Mota connected 31-5-20 23:58:47
+20-06-01 00:00:08  Net - $HILE5 - Mota disconnected 1-6-20 00:00:08
+20-06-01 00:00:22  Net - $HILE5 - Mota connected 1-6-20 00:00:22
+20-06-01 00:03:37  Net - sT.- YnGwi3 connected 1-6-20 00:03:37
+20-06-01 00:04:23  Net - 2CHILL ~ Enigma connected 1-6-20 00:04:23
+20-06-01 00:04:29  Net - $HILE5 - Mota connected 1-6-20 00:04:29
+20-06-01 00:04:51  Net - =R= CWeiC connected 1-6-20 00:04:51
+20-06-01 00:05:18  Net - sT.- YnGwi3 connected 1-6-20 00:05:18
+20-06-01 00:07:00  Net - $HILE5 - SenzacL* connected 1-6-20 00:07:00
+20-06-01 00:07:03  Net - sT.- YnGwi3 connected 1-6-20 00:07:03
+20-06-01 00:10:24  Net - CHILE| Shuter connected 1-6-20 00:10:24
+20-06-01 00:10:49  Net - CHILE| Shuter disconnected 1-6-20 00:10:49
+20-06-01 00:13:59  Net - 2CHILL ~ Enigma disconnected 1-6-20 00:13:59
+20-06-01 00:14:14  Net - $HILE5 Enigma connected 1-6-20 00:14:14
+20-06-01 00:20:12 TCP/IP File Server started
+20-06-01 00:23:39  Net - XRe1ch|K* connected 1-6-20 00:23:39
+20-06-01 00:24:31  Net - $hile5 - Sadiko connected 1-6-20 00:24:31
+20-06-01 00:25:35  Net - $hile5 - Sadiko connected 1-6-20 00:25:35
+20-06-01 00:25:39  Net - $HILE5 Enigma connected 1-6-20 00:25:39
+20-06-01 00:25:40  Net - =R= CWeiC connected 1-6-20 00:25:40
+20-06-01 00:25:55  Net - $HILE5 - Mota connected 1-6-20 00:25:55
+20-06-01 00:25:57  Net - XRe1ch|K* connected 1-6-20 00:25:57
+20-06-01 00:48:56  Net - WeeD ArroW connected 1-6-20 00:48:56
+20-06-01 00:50:12 TCP/IP File Server started
+20-06-01 00:51:18  Net - WeeD ArroW disconnected 1-6-20 00:51:18
+20-06-01 00:51:37  Net - $HILE5 - Skipo disconnected 1-6-20 00:51:37
+20-06-01 00:51:49  Net - $HILE5 - Mota connected 1-6-20 00:51:49
+20-06-01 00:54:31  Net - Battousai connected 1-6-20 00:54:31
+20-06-01 00:55:22  Net - $HILE5 - Skipo connected 1-6-20 00:55:22
+20-06-01 00:55:25  Net - r3v' Colt connected 1-6-20 00:55:25
+20-06-01 00:55:42  Net - r3v' Colt disconnected 1-6-20 00:55:42
+20-06-01 00:55:53  Net - #1 Mand3s connected 1-6-20 00:55:53
+20-06-01 00:55:54  Net - #1 Mand3s disconnected 1-6-20 00:55:54
+20-06-01 00:57:45  Net - $HILE5 - Skipo disconnected 1-6-20 00:57:45
+20-06-01 01:00:16  Net - Battousai disconnected 1-6-20 01:00:16
+20-06-01 01:02:59  Net - sT.- YnGwi3 disconnected 1-6-20 01:02:59
+20-06-01 01:03:01  Net - $HILE5 Enigma disconnected 1-6-20 01:03:01
+20-06-01 01:03:02  Net - $HILE5 - Mota disconnected 1-6-20 01:03:02
+20-06-01 01:03:05  Net - XRe1ch|K* disconnected 1-6-20 01:03:05
+20-06-01 01:03:08  Net - =R= CWeiC disconnected 1-6-20 01:03:08
+20-06-01 01:03:11  Net - $hile5 - Sadiko disconnected 1-6-20 01:03:11
+20-06-01 01:03:24  Net - $HILE5 - SenzacL* disconnected 1-6-20 01:03:24
+20-06-01 01:18:19  Net - r3v' Winter connected 1-6-20 01:18:19
+20-06-01 01:18:29  Net - $HILE5 - Skipo connected 1-6-20 01:18:29
+20-06-01 01:18:34  Net - Battousai connected 1-6-20 01:18:34
+20-06-01 01:18:36  Net - Shaka connected 1-6-20 01:18:36
+20-06-01 01:18:40  Net - RtP| LeprosycL connected 1-6-20 01:18:40
+20-06-01 01:18:41  Net - KorN Comentador connected 1-6-20 01:18:41
+20-06-01 01:18:41  Net - RtP| LeprosycL disconnected 1-6-20 01:18:41
+20-06-01 01:18:43  Net - r3v' DrK connected 1-6-20 01:18:43
+20-06-01 01:18:44  Net - r3v' Mand3s connected 1-6-20 01:18:44
+20-06-01 01:18:45  Net - r3v' Colt connected 1-6-20 01:18:45
+20-06-01 01:18:46  Net - r3v' Mand3s disconnected 1-6-20 01:18:46
+20-06-01 01:18:48  Net - r3v' Mand3s connected 1-6-20 01:18:48
+20-06-01 01:18:48  Net - r3v' Colt disconnected 1-6-20 01:18:48
+20-06-01 01:18:50  Net - r3v' Colt connected 1-6-20 01:18:50
+20-06-01 01:18:51  Net - RtP| Shuter connected 1-6-20 01:18:51
+20-06-01 01:18:52  Net - RtP| SontercL connected 1-6-20 01:18:52
+20-06-01 01:18:53  Net - RtP| LeprosycL connected 1-6-20 01:18:53
+20-06-01 01:18:54  Net - RtP| Shuter disconnected 1-6-20 01:18:54
+20-06-01 01:18:55  Net - RtP| SontercL disconnected 1-6-20 01:18:55
+20-06-01 01:18:57  Net - RtP| LoKitoHcL connected 1-6-20 01:18:57
+20-06-01 01:18:57  Net - RtP| Shuter connected 1-6-20 01:18:57
+20-06-01 01:18:57  Net - RtP| SontercL connected 1-6-20 01:18:57
+20-06-01 01:18:59  Net - RtP| SontercL disconnected 1-6-20 01:18:59
+20-06-01 01:19:05  Net - RtP| SontercL connected 1-6-20 01:19:05
+20-06-01 01:19:05  Net - RtP| Breeze connected 1-6-20 01:19:05
+20-06-01 01:19:06  Net - RtP| Shuter disconnected 1-6-20 01:19:06
+20-06-01 01:19:13  Net - RtP| Shuter connected 1-6-20 01:19:13
+20-06-01 01:19:16  Net - RtP| Breeze disconnected 1-6-20 01:19:16
+20-06-01 01:19:18  Net - RtP| Breeze connected 1-6-20 01:19:18
+20-06-01 01:19:22 Destroying Devices.
+20-06-01 01:19:23    End of Log.

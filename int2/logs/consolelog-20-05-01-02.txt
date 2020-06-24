@@ -1,0 +1,713 @@
+20-05-01 21:15:01    Console Log Started
+20-05-01 21:15:01 Welcome to Soldat 1.7.1
+20-05-01 21:15:01  [*] Preparing scripts to be launched
+20-05-01 21:15:01  [*] [BasicCommands] Loading bytecode
+20-05-01 21:15:01  [*] [BasicCommands] Bytecode loaded
+20-05-01 21:15:01  [*] Compiling match -> match.pas...
+20-05-01 21:15:01  [*] match compiled
+20-05-01 21:15:01  [*] Done
+20-05-01 21:15:01 Lothic - Gothic Lobby Room
+20-05-01 21:15:01  Connection for file server started. Port: 23210
+20-05-01 21:15:02 Registering server @ 88.99.234.252
+20-05-01 21:20:02 Time Left: 5 minutes
+20-05-01 21:21:02 Time Left: 4 minutes
+20-05-01 21:22:02 Time Left: 3 minutes
+20-05-01 21:23:02 Time Left: 2 minutes
+20-05-01 21:24:02 Time Left: 1 minutes
+20-05-01 21:25:02 Next map: Lobby
+20-05-01 21:25:07 Lothic - Gothic Lobby Room
+20-05-01 21:30:07 Time Left: 5 minutes
+20-05-01 21:31:07 Time Left: 4 minutes
+20-05-01 21:32:07 Time Left: 3 minutes
+20-05-01 21:33:07 Time Left: 2 minutes
+20-05-01 21:34:07 Time Left: 1 minutes
+20-05-01 21:35:07 Next map: Lobby
+20-05-01 21:35:12 Lothic - Gothic Lobby Room
+20-05-01 21:40:12 Time Left: 5 minutes
+20-05-01 21:41:12 Time Left: 4 minutes
+20-05-01 21:42:12 Time Left: 3 minutes
+20-05-01 21:43:12 Time Left: 2 minutes
+20-05-01 21:44:12 Time Left: 1 minutes
+20-05-01 21:45:12 Next map: Lobby
+20-05-01 21:45:18 Lothic - Gothic Lobby Room
+20-05-01 21:50:18 Time Left: 5 minutes
+20-05-01 21:51:18 Time Left: 4 minutes
+20-05-01 21:52:18 Time Left: 3 minutes
+20-05-01 21:53:18 Time Left: 2 minutes
+20-05-01 21:54:18 Time Left: 1 minutes
+20-05-01 21:55:18 Next map: Lobby
+20-05-01 21:55:23 Lothic - Gothic Lobby Room
+20-05-01 22:00:23 Time Left: 5 minutes
+20-05-01 22:01:23 Time Left: 4 minutes
+20-05-01 22:02:23 Time Left: 3 minutes
+20-05-01 22:03:23 Time Left: 2 minutes
+20-05-01 22:04:23 Time Left: 1 minutes
+20-05-01 22:05:23 Next map: Lobby
+20-05-01 22:05:28 Lothic - Gothic Lobby Room
+20-05-01 22:10:28 Time Left: 5 minutes
+20-05-01 22:11:28 Time Left: 4 minutes
+20-05-01 22:12:28 Time Left: 3 minutes
+20-05-01 22:13:28 Time Left: 2 minutes
+20-05-01 22:14:28 Time Left: 1 minutes
+20-05-01 22:15:28 Next map: Lobby
+20-05-01 22:15:34 Lothic - Gothic Lobby Room
+20-05-01 22:20:34 Time Left: 5 minutes
+20-05-01 22:21:34 Time Left: 4 minutes
+20-05-01 22:22:34 Time Left: 3 minutes
+20-05-01 22:23:34 Time Left: 2 minutes
+20-05-01 22:24:34 Time Left: 1 minutes
+20-05-01 22:25:34 Next map: Lobby
+20-05-01 22:25:39 Lothic - Gothic Lobby Room
+20-05-01 22:30:39 Time Left: 5 minutes
+20-05-01 22:31:39 Time Left: 4 minutes
+20-05-01 22:32:39 Time Left: 3 minutes
+20-05-01 22:33:39 Time Left: 2 minutes
+20-05-01 22:34:39 Time Left: 1 minutes
+20-05-01 22:35:39 Next map: Lobby
+20-05-01 22:35:44 Lothic - Gothic Lobby Room
+20-05-01 22:39:28 187.110.181.90:23073|33406AE2A81 requesting game...
+20-05-01 22:40:44 Time Left: 5 minutes
+20-05-01 22:41:44 Time Left: 4 minutes
+20-05-01 22:42:44 Time Left: 3 minutes
+20-05-01 22:43:44 Time Left: 2 minutes
+20-05-01 22:44:44 Time Left: 1 minutes
+20-05-01 22:45:44 Next map: Lobby
+20-05-01 22:45:50 Lothic - Gothic Lobby Room
+20-05-01 22:50:50 Time Left: 5 minutes
+20-05-01 22:51:50 Time Left: 4 minutes
+20-05-01 22:52:50 Time Left: 3 minutes
+20-05-01 22:53:50 Time Left: 2 minutes
+20-05-01 22:54:50 Time Left: 1 minutes
+20-05-01 22:55:50 Next map: Lobby
+20-05-01 22:55:55 Lothic - Gothic Lobby Room
+20-05-01 23:00:55 Time Left: 5 minutes
+20-05-01 23:01:55 Time Left: 4 minutes
+20-05-01 23:02:55 Time Left: 3 minutes
+20-05-01 23:03:55 Time Left: 2 minutes
+20-05-01 23:04:55 Time Left: 1 minutes
+20-05-01 23:05:55 Next map: Lobby
+20-05-01 23:06:00 Lothic - Gothic Lobby Room
+20-05-01 23:07:01 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:07:01 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:07:01 mipHo joining game (201.239.101.160:17300) HWID:1F7342C1D76
+20-05-01 23:07:01 mipHo has joined bravo team.
+20-05-01 23:07:14 [mipHo] !map Guardian
+20-05-01 23:07:19 ctf_Guardian by SuoW
+20-05-01 23:07:28 191.84.68.24:23073|14189A02D27 requesting game...
+20-05-01 23:07:28 191.84.68.24:23073|14189A02D27 requesting game...
+20-05-01 23:07:30 Divas| Rattle joining game (191.84.68.24:23073) HWID:14189A02D27
+20-05-01 23:07:30 Divas| Rattle has joined alpha team.
+20-05-01 23:07:34 (1) Divas| Rattle killed (2) mipHo with Ruger 77
+20-05-01 23:07:34 (2) mipHo killed (1) Divas| Rattle with Spas-12
+20-05-01 23:07:41 (1) Divas| Rattle killed (2) mipHo with Ruger 77
+20-05-01 23:07:41 (2) mipHo killed (1) Divas| Rattle with Spas-12
+20-05-01 23:07:47 (2) mipHo killed (1) Divas| Rattle with Ruger 77
+20-05-01 23:07:52 (1) Divas| Rattle killed (2) mipHo with Ruger 77
+20-05-01 23:07:59 Divas| Rattle captured the Blue Flag
+20-05-01 23:08:04 (2) mipHo killed (1) Divas| Rattle with Ruger 77
+20-05-01 23:08:08 mipHo captured the Red Flag
+20-05-01 23:08:18 (1) Divas| Rattle killed (2) mipHo with Grenade
+20-05-01 23:08:24 (2) mipHo killed (1) Divas| Rattle with Ruger 77
+20-05-01 23:08:30 mipHo captured the Red Flag
+20-05-01 23:08:34 (2) mipHo killed (1) Divas| Rattle with Ruger 77
+20-05-01 23:08:37 mipHo scores for Bravo Team
+20-05-01 23:08:53 (1) Divas| Rattle killed (2) mipHo with Hands
+20-05-01 23:08:57 Divas| Rattle captured the Blue Flag
+20-05-01 23:09:02 (2) mipHo killed (1) Divas| Rattle with Hands
+20-05-01 23:09:02 mipHo returned the Blue Flag
+20-05-01 23:09:02 (1) Divas| Rattle killed (2) mipHo with Hands
+20-05-01 23:09:15 (2) mipHo killed (1) Divas| Rattle with Hands
+20-05-01 23:09:16 (1) Divas| Rattle killed (2) mipHo with Hands
+20-05-01 23:09:21 (1) Divas| Rattle killed (2) mipHo with Combat Knife
+20-05-01 23:09:28 (1) Divas| Rattle killed (2) mipHo with Hands
+20-05-01 23:09:35 (2) mipHo killed (1) Divas| Rattle with Hands
+20-05-01 23:09:41 (1) Divas| Rattle killed (2) mipHo with XM214 Minigun
+20-05-01 23:09:52 (2) mipHo killed (1) Divas| Rattle with Desert Eagles
+20-05-01 23:09:54 mipHo captured the Red Flag
+20-05-01 23:10:01 (1) Divas| Rattle killed (2) mipHo with Desert Eagles
+20-05-01 23:10:06 Divas| Rattle returned the Red Flag
+20-05-01 23:10:09 (1) Divas| Rattle killed (2) mipHo with Desert Eagles
+20-05-01 23:10:12 Divas| Rattle captured the Blue Flag
+20-05-01 23:10:15 (1) Divas| Rattle killed (2) mipHo with Grenade
+20-05-01 23:10:15 (2) mipHo killed (1) Divas| Rattle with Desert Eagles
+20-05-01 23:10:22 201.189.223.115:23073|4EDFAA80B1B requesting game...
+20-05-01 23:10:23 (1) Divas| Rattle killed (2) mipHo with Combat Knife
+20-05-01 23:10:24 =E*R= Skipo joining game (201.189.223.115:23073) HWID:4EDFAA80B1B
+20-05-01 23:10:24 =E*R= Skipo has joined alpha team.
+20-05-01 23:10:28 [=E*R= Skipo] tira cadd
+20-05-01 23:10:30 (1) Divas| Rattle killed (2) mipHo with Desert Eagles
+20-05-01 23:10:30 (2) mipHo killed (1) =E*R= Skipo with Desert Eagles
+20-05-01 23:10:38 (1) =E*R= Skipo killed (2) mipHo with Steyr AUG
+20-05-01 23:10:42 [Divas| Rattle] !b
+20-05-01 23:10:42 Divas| Rattle has joined bravo team.
+20-05-01 23:10:43 (1) =E*R= Skipo killed (2) mipHo with LAW
+20-05-01 23:10:46 =E*R= Skipo captured the Blue Flag
+20-05-01 23:10:49 (2) Divas| Rattle killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:10:50 Divas| Rattle has left bravo team.
+20-05-01 23:10:50 mipHo returned the Blue Flag
+20-05-01 23:10:57 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:10:57 (1) =E*R= Skipo killed (2) mipHo with Steyr AUG
+20-05-01 23:11:05 (1) =E*R= Skipo killed (2) mipHo with LAW
+20-05-01 23:11:09 186.141.202.76:37944|14189A02D27 requesting game...
+20-05-01 23:11:09 186.141.202.76:37944|14189A02D27 requesting game...
+20-05-01 23:11:10 Divas| Rattle joining game (186.141.202.76:37944) HWID:14189A02D27
+20-05-01 23:11:10 Divas| Rattle has joined bravo team.
+20-05-01 23:11:20 (1) =E*R= Skipo killed (2) Divas| Rattle with FN Minimi
+20-05-01 23:11:23 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:11:28 Divas| Rattle captured the Red Flag
+20-05-01 23:11:30 (1) =E*R= Skipo killed (2) Divas| Rattle with Grenade
+20-05-01 23:11:33 (1) =E*R= Skipo killed (2) mipHo with LAW
+20-05-01 23:11:36 (2) Divas| Rattle killed (1) =E*R= Skipo with Ruger 77
+20-05-01 23:11:37 190.163.201.65:23073|36DB9B79633 requesting game...
+20-05-01 23:11:40 Divas| Rattle captured the Red Flag
+20-05-01 23:11:41 (2) mipHo killed (1) =E*R= Skipo with Grenade
+20-05-01 23:11:42 (1) =E*R= Skipo killed (2) Divas| Rattle with Grenade
+20-05-01 23:11:46 190.163.201.65:23073|36DB9B79633 requesting game...
+20-05-01 23:11:47 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-05-01 23:11:47 Divas| Enigma has joined bravo team.
+20-05-01 23:11:50 mipHo captured the Red Flag
+20-05-01 23:11:50 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:11:51 72.213.152.41:23073|4E8ECEBF203 requesting game...
+20-05-01 23:11:52 (1) =E*R= Skipo killed (2) Divas| Rattle with LAW
+20-05-01 23:11:53 (2) Divas| Rattle killed (1) =E*R= Skipo with Grenade
+20-05-01 23:11:58 Divas| Enigma captured the Red Flag
+20-05-01 23:12:00 (2) Divas| Rattle killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:12:02 Divas| Enigma captured the Red Flag
+20-05-01 23:12:06 (1) =E*R= Skipo killed (2) Divas| Enigma with Grenade
+20-05-01 23:12:11 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:12:12 [Divas| Enigma] tamos con la 1.7?
+20-05-01 23:12:12 =E*R= Skipo returned the Red Flag
+20-05-01 23:12:14 (2) Divas| Rattle killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:12:14 [=E*R= Skipo] se
+20-05-01 23:12:19 mipHo captured the Red Flag
+20-05-01 23:12:19 (2) Divas| Rattle killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:12:19 Time Left: 5 minutes
+20-05-01 23:12:23 (2) Divas| Rattle killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:12:29 (2) Divas| Rattle killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:12:34 186.11.108.231:1447|32439DD33E8 requesting game...
+20-05-01 23:12:34 Divas| Rattle captured the Red Flag
+20-05-01 23:12:34 =E*R= KillMe! joining game (186.11.108.231:1447) HWID:32439DD33E8
+20-05-01 23:12:34 =E*R= KillMe! has joined as spectator.
+20-05-01 23:12:35 mipHo captured the Red Flag
+20-05-01 23:12:37 [=E*R= KillMe!] !a
+20-05-01 23:12:37 =E*R= KillMe! has joined alpha team.
+20-05-01 23:12:37 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:12:38 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:12:38 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:12:38 CWeiC has joined as spectator.
+20-05-01 23:12:42 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-01 23:12:44 (2) mipHo killed (1) =E*R= KillMe! with HK MP5
+20-05-01 23:12:44 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-01 23:12:44 =E*R= Sadiko has joined alpha team.
+20-05-01 23:12:45 mipHo captured the Red Flag
+20-05-01 23:12:46 (1) =E*R= Skipo killed (2) mipHo with Grenade
+20-05-01 23:12:49 (2) Divas| Rattle killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:12:49 (1) =E*R= Skipo killed (2) Divas| Enigma with LAW
+20-05-01 23:12:52 (1) =E*R= KillMe! killed (2) mipHo with LAW
+20-05-01 23:12:52 (2) mipHo killed (1) =E*R= KillMe! with HK MP5
+20-05-01 23:12:58 (1) =E*R= Sadiko killed (2) mipHo with LAW
+20-05-01 23:12:58 (2) mipHo killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:13:00 (1) =E*R= KillMe! killed (2) Divas| Enigma with Desert Eagles
+20-05-01 23:13:03 [=E*R= Skipo] mipho la estrella
+20-05-01 23:13:05 (1) =E*R= KillMe! killed (2) mipHo with LAW
+20-05-01 23:13:05 [=E*R= Skipo] ponte tag 
+20-05-01 23:13:06 [=E*R= Skipo] xd
+20-05-01 23:13:06 (1) =E*R= Sadiko killed (2) Divas| Rattle with Barrett M82A1
+20-05-01 23:13:07 (1) =E*R= Sadiko killed (2) Divas| Enigma with LAW
+20-05-01 23:13:12 (2) Divas| Rattle killed (1) =E*R= Sadiko with Combat Knife
+20-05-01 23:13:13 (1) =E*R= KillMe! killed (2) mipHo with Grenade
+20-05-01 23:13:14 [mipHo] voy de banca
+20-05-01 23:13:15 (2) Divas| Rattle killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:13:16 [=E*R= Sadiko] aweonao
+20-05-01 23:13:17 [=E*R= Skipo] oh
+20-05-01 23:13:18 Divas| Enigma captured the Red Flag
+20-05-01 23:13:19 Time Left: 4 minutes
+20-05-01 23:13:21 (2) mipHo killed (1) =E*R= Sadiko with HK MP5
+20-05-01 23:13:23 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:13:28 (2) Divas| Rattle killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:13:29 Divas| Enigma scores for Bravo Team
+20-05-01 23:13:30 (1) =E*R= Sadiko killed (2) mipHo with Barrett M82A1
+20-05-01 23:13:31 (2) Divas| Rattle killed (1) =E*R= KillMe! with Ak-74
+20-05-01 23:13:31 (2) Divas| Enigma killed (1) =E*R= Sadiko with M79
+20-05-01 23:13:33 (2) Divas| Rattle killed (1) =E*R= Skipo with Grenade
+20-05-01 23:13:36 Divas| Enigma captured the Red Flag
+20-05-01 23:13:38 (2) mipHo killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:13:41 (2) mipHo killed (1) =E*R= KillMe! with HK MP5
+20-05-01 23:13:41 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-01 23:13:41 (1) =E*R= KillMe! killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:13:42 Divas| Enigma scores for Bravo Team
+20-05-01 23:13:43 Divas| Sk8' joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-01 23:13:43 Divas| Sk8' has joined as spectator.
+20-05-01 23:13:45 (1) =E*R= Sadiko killed (2) mipHo with Barrett M82A1
+20-05-01 23:13:46 (1) =E*R= Skipo killed (2) Divas| Enigma with Grenade
+20-05-01 23:13:49 (1) =E*R= KillMe! killed (2) Divas| Rattle with Grenade
+20-05-01 23:13:51 (2) Divas| Enigma killed (1) =E*R= Skipo with Combat Knife
+20-05-01 23:13:52 201.17.109.186:16010|2EBAF6FD2A7 requesting game...
+20-05-01 23:13:52 (1) =E*R= Sadiko killed (2) Divas| Enigma with Barrett M82A1
+20-05-01 23:13:54 [Divas| Rattle] enigma tmao en el de divas
+20-05-01 23:13:54 (1) =E*R= Sadiko killed (2) mipHo with LAW
+20-05-01 23:13:56 Divas| Sk8' has joined bravo team.
+20-05-01 23:13:57 (2) Divas| Rattle killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:00 (1) =E*R= Skipo killed (2) Divas| Rattle with FN Minimi
+20-05-01 23:14:04 (1) =E*R= Skipo killed (2) mipHo with LAW
+20-05-01 23:14:09 (1) =E*R= Sadiko killed (2) Divas| Rattle with Barrett M82A1
+20-05-01 23:14:10 CWeiC has left spectators
+20-05-01 23:14:10 (2) Divas| Sk8' killed (1) =E*R= Skipo with M79
+20-05-01 23:14:13 (2) mipHo killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:14 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:14:14 (2) Divas| Sk8' killed (1) =E*R= KillMe! with M79
+20-05-01 23:14:14 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:14:14 CWeiC has joined as spectator.
+20-05-01 23:14:15 Divas| Sk8' captured the Red Flag
+20-05-01 23:14:17 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:14:19 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:14:19 Time Left: 3 minutes
+20-05-01 23:14:20 (2) Divas| Rattle killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:20 (2) mipHo killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:14:23 Divas| Enigma captured the Red Flag
+20-05-01 23:14:24 (2) Divas| Rattle killed (1) =E*R= KillMe! with Combat Knife
+20-05-01 23:14:24 (1) =E*R= Sadiko killed (2) Divas| Rattle with LAW
+20-05-01 23:14:25 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:14:27 (2) mipHo killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:30 Divas| Enigma scores for Bravo Team
+20-05-01 23:14:32 Divas| Sk8' captured the Red Flag
+20-05-01 23:14:33 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:14:34 (2) Divas| Rattle killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:37 (2) mipHo killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:14:41 (1) =E*R= Skipo killed (2) Divas| Rattle with Grenade
+20-05-01 23:14:41 (1) =E*R= Sadiko killed (2) mipHo with LAW
+20-05-01 23:14:42 Divas| Sk8' scores for Bravo Team
+20-05-01 23:14:45 (1) =E*R= Skipo killed (2) Divas| Sk8' with LAW
+20-05-01 23:14:45 (2) mipHo killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:14:48 (1) =E*R= Skipo killed (2) Divas| Rattle with FN Minimi
+20-05-01 23:14:48 (2) Divas| Enigma killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:14:51 (2) mipHo killed (1) =E*R= Skipo with Grenade
+20-05-01 23:14:51 Divas| Enigma captured the Red Flag
+20-05-01 23:14:54 [=E*R= Skipo] !maps
+20-05-01 23:14:54 (1) =E*R= Sadiko killed (2) mipHo with Barrett M82A1
+20-05-01 23:14:56 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:14:58 (2) Divas| Rattle killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:14:59 Divas| Enigma scores for Bravo Team
+20-05-01 23:15:00 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:15:00 (1) =E*R= Sadiko killed (2) Divas| Rattle with LAW
+20-05-01 23:15:06 Divas| Enigma captured the Red Flag
+20-05-01 23:15:07 =E*R= Sadiko captured the Blue Flag
+20-05-01 23:15:07 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:15:08 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:15:08 (1) =E*R= Sadiko killed (2) Divas| Rattle with Barrett M82A1
+20-05-01 23:15:08 (2) mipHo killed (1) =E*R= KillMe! with Ak-74
+20-05-01 23:15:13 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:15:14 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:15:14 mipHo returned the Blue Flag
+20-05-01 23:15:15 Divas| Enigma scores for Bravo Team
+20-05-01 23:15:16 =E*R= Sadiko has left alpha team.
+20-05-01 23:15:18 (1) =E*R= Skipo killed (2) Divas| Rattle with FN Minimi
+20-05-01 23:15:19 Time Left: 2 minutes
+20-05-01 23:15:20 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:15:21 mipHo captured the Red Flag
+20-05-01 23:15:23 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-01 23:15:24 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-01 23:15:24 =E*R= Sadiko has joined alpha team.
+20-05-01 23:15:26 200.83.66.52:23073|2E194B0FA5C requesting game...
+20-05-01 23:15:26 (2) Divas| Sk8' killed (1) =E*R= Skipo with FN Minimi
+20-05-01 23:15:26 (2) Divas| Enigma killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:15:28 (1) =E*R= Sadiko killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:15:29 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:15:30 [Divas| Rattle] q banean?
+20-05-01 23:15:31 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:15:32 (1) =E*R= Skipo killed (2) Divas| Enigma with Grenade
+20-05-01 23:15:34 (1) =E*R= Sadiko killed (2) mipHo with Desert Eagles
+20-05-01 23:15:36 (1) =E*R= Skipo killed (2) Divas| Rattle with LAW
+20-05-01 23:15:41 (2) Divas| Sk8' killed (1) =E*R= Skipo with FN Minimi
+20-05-01 23:15:42 Divas| Enigma captured the Red Flag
+20-05-01 23:15:44 (2) mipHo killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:15:45 Divas| Rattle captured the Red Flag
+20-05-01 23:15:46 (1) =E*R= Skipo killed (2) Divas| Enigma with FN Minimi
+20-05-01 23:15:48 (2) mipHo killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:15:49 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:15:51 Divas| Rattle scores for Bravo Team
+20-05-01 23:15:52 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:15:55 (2) mipHo killed (1) =E*R= Skipo with LAW
+20-05-01 23:15:56 Divas| Enigma captured the Red Flag
+20-05-01 23:15:59 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-05-01 23:15:59 =E*R= KillMe! captured the Blue Flag
+20-05-01 23:16:00 (1) =E*R= Sadiko killed (2) Divas| Rattle with Grenade
+20-05-01 23:16:00 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-05-01 23:16:00 r3v' Mand3s has joined as spectator.
+20-05-01 23:16:01 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:16:02 (2) Divas| Enigma killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:16:02 Divas| Enigma returned the Blue Flag
+20-05-01 23:16:04 Divas| Enigma scores for Bravo Team
+20-05-01 23:16:06 Divas| Sk8' captured the Red Flag
+20-05-01 23:16:08 (2) mipHo killed (1) =E*R= Skipo with Ak-74
+20-05-01 23:16:12 (2) Divas| Rattle killed (1) =E*R= KillMe! with Ruger 77
+20-05-01 23:16:12 [=E*R= Skipo] hormone
+20-05-01 23:16:12 =E*R= Sadiko captured the Blue Flag
+20-05-01 23:16:12 (2) Divas| Enigma killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:16:12 (1) =E*R= Sadiko killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:16:15 =E*R= Sadiko returned the Red Flag
+20-05-01 23:16:19 Divas| Rattle captured the Red Flag
+20-05-01 23:16:19 Time Left: 1 minutes
+20-05-01 23:16:22 (2) Divas| Sk8' killed (1) =E*R= Sadiko with HK MP5
+20-05-01 23:16:24 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:16:24 (2) Divas| Sk8' killed (1) =E*R= Skipo with Combat Knife
+20-05-01 23:16:26 (2) Divas| Enigma killed (1) =E*R= KillMe! with Barrett M82A1
+20-05-01 23:16:28 mipHo returned the Blue Flag
+20-05-01 23:16:32 (2) Divas| Sk8' killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:16:32 (1) =E*R= KillMe! killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:16:32 Next map: Lobby
+20-05-01 23:16:32 Divas| Rattle scores for Bravo Team
+20-05-01 23:16:34 [Divas| Rattle] easy
+20-05-01 23:16:35 [Divas| Sk8'] !r
+20-05-01 23:16:35 Reiniciando...
+20-05-01 23:16:36 [Divas| Rattle] gg
+20-05-01 23:16:41 ctf_Guardian by SuoW
+20-05-01 23:16:46 (2) Divas| Sk8' killed (1) =E*R= Sadiko with Ak-74
+20-05-01 23:16:48 (2) Divas| Rattle killed (1) =E*R= KillMe! with Combat Knife
+20-05-01 23:16:48 (1) =E*R= Skipo killed (2) Divas| Enigma with FN Minimi
+20-05-01 23:16:53 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:16:54 (1) =E*R= Sadiko killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:16:56 (2) Divas| Rattle killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:16:57 mipHo captured the Red Flag
+20-05-01 23:17:01 (1) =E*R= Sadiko killed (2) Divas| Enigma with Desert Eagles
+20-05-01 23:17:02 (1) =E*R= Sadiko killed (2) mipHo with Desert Eagles
+20-05-01 23:17:03 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:17:03 [Divas| Enigma] baneamos ash
+20-05-01 23:17:04 (2) Divas| Rattle killed (1) =E*R= Skipo with Desert Eagles
+20-05-01 23:17:07 (2) Divas| Rattle killed (1) =E*R= KillMe! with Desert Eagles
+20-05-01 23:17:08 201.235.239.116:23073|3C79F3D24C5 requesting game...
+20-05-01 23:17:09 Divas| Enigma captured the Red Flag
+20-05-01 23:17:12 (2) mipHo killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:17:12 (1) =E*R= Sadiko killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:17:13 (2) mipHo killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:17:14 Divas| Enigma scores for Bravo Team
+20-05-01 23:17:15 (1) =E*R= Skipo killed (2) Divas| Sk8' with Grenade
+20-05-01 23:17:17 201.235.239.116:23073|3C79F3D24C5 requesting game...
+20-05-01 23:17:17 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:17:21 (2) Divas| Sk8' killed (1) =E*R= Sadiko with LAW
+20-05-01 23:17:22 =E*R= KillMe! captured the Blue Flag
+20-05-01 23:17:24 [=E*R= Skipo] spark nos
+20-05-01 23:17:25 Divas| Rattle captured the Red Flag
+20-05-01 23:17:26 (2) Divas| Enigma killed (1) =E*R= Skipo with Combat Knife
+20-05-01 23:17:27 (2) Divas| Rattle killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:17:29 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:17:29 mipHo returned the Blue Flag
+20-05-01 23:17:35 Divas| Enigma captured the Red Flag
+20-05-01 23:17:35 Divas| Enigma scores for Bravo Team
+20-05-01 23:17:36 (1) =E*R= KillMe! killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:17:37 (1) =E*R= KillMe! killed (2) mipHo with Desert Eagles
+20-05-01 23:17:37 (2) Divas| Enigma killed (1) =E*R= Sadiko with M79
+20-05-01 23:17:37 (2) Divas| Rattle killed (1) =E*R= Skipo with Ruger 77
+20-05-01 23:17:39 (1) =E*R= KillMe! killed (2) Divas| Enigma with Desert Eagles
+20-05-01 23:17:41 =E*R= KillMe! captured the Blue Flag
+20-05-01 23:17:42 (1) =E*R= Sadiko killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:17:44 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:17:45 (1) =E*R= Skipo killed (2) Divas| Sk8' with Grenade
+20-05-01 23:17:47 (1) =E*R= KillMe! killed (2) mipHo with LAW
+20-05-01 23:17:48 (2) Divas| Enigma killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:17:49 =E*R= KillMe! captured the Blue Flag
+20-05-01 23:17:50 Divas| Enigma captured the Red Flag
+20-05-01 23:17:50 (2) Divas| Enigma killed (1) =E*R= KillMe! with Combat Knife
+20-05-01 23:17:52 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:17:53 Divas| Enigma returned the Blue Flag
+20-05-01 23:17:55 201.235.239.116:23073|3C79F3D24C5 requesting game...
+20-05-01 23:17:56 (2) Divas| Rattle killed (1) =E*R= Skipo with Grenade
+20-05-01 23:17:56 201.235.239.116:23073|3C79F3D24C5 requesting game...
+20-05-01 23:17:58 Divas| Enigma scores for Bravo Team
+20-05-01 23:17:59 mipHo captured the Red Flag
+20-05-01 23:18:00 (1) =E*R= KillMe! killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:18:01 (1) =E*R= Sadiko killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:18:01 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:18:04 mipHo scores for Bravo Team
+20-05-01 23:18:04 Divas| Enigma captured the Red Flag
+20-05-01 23:18:06 (2) Divas| Sk8' killed (1) =E*R= KillMe! with FN Minimi
+20-05-01 23:18:10 (2) Divas| Rattle killed (1) =E*R= Skipo with Combat Knife
+20-05-01 23:18:12 Divas| Enigma scores for Bravo Team
+20-05-01 23:18:13 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:18:14 (2) Divas| Sk8' killed (1) =E*R= KillMe! with FN Minimi
+20-05-01 23:18:17 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:18:18 (2) Divas| Sk8' killed (1) =E*R= KillMe! with FN Minimi
+20-05-01 23:18:20 Divas| Enigma captured the Red Flag
+20-05-01 23:18:22 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:18:24 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:18:25 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:18:28 Divas| Enigma scores for Bravo Team
+20-05-01 23:18:30 (2) Divas| Sk8' killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:18:31 (2) Divas| Sk8' killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:18:37 (2) Divas| Sk8' killed (1) =E*R= Skipo with Grenade
+20-05-01 23:18:39 (2) Divas| Rattle killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:18:39 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:18:43 (2) Divas| Enigma killed (1) =E*R= Skipo with Grenade
+20-05-01 23:18:44 mipHo captured the Red Flag
+20-05-01 23:18:46 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:18:47 (2) Divas| Enigma killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:18:49 (2) Divas| Enigma killed (1) =E*R= Skipo with FN Minimi
+20-05-01 23:18:49 mipHo captured the Red Flag
+20-05-01 23:18:52 (2) Divas| Enigma killed (1) =E*R= KillMe! with FN Minimi
+20-05-01 23:18:54 (2) Divas| Rattle killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:18:56 mipHo captured the Red Flag
+20-05-01 23:18:58 Divas| Enigma captured the Red Flag
+20-05-01 23:18:59 Divas| Enigma scores for Bravo Team
+20-05-01 23:18:59 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:19:02 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:19:04 (2) Divas| Rattle killed (1) =E*R= Skipo with Grenade
+20-05-01 23:19:05 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:19:05 mipHo captured the Red Flag
+20-05-01 23:19:08 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:19:10 mipHo captured the Red Flag
+20-05-01 23:19:10 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:19:12 (2) Divas| Enigma killed (1) =E*R= KillMe! with FN Minimi
+20-05-01 23:19:12 Divas| Sk8' captured the Red Flag
+20-05-01 23:19:13 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:19:15 (2) Divas| Rattle killed (1) =E*R= Skipo with Grenade
+20-05-01 23:19:19 [=E*R= Sadiko] map?
+20-05-01 23:19:19 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:19:22 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:19:23 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:19:26 (1) =E*R= Sadiko killed (2) Divas| Enigma with Desert Eagles
+20-05-01 23:19:27 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:19:27 (1) =E*R= Sadiko killed (2) Divas| Rattle with Grenade
+20-05-01 23:19:35 (2) Divas| Rattle killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:19:38 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:19:40 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:19:41 (2) mipHo killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:19:43 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:19:44 CWeiC has left spectators
+20-05-01 23:19:45 (2) Divas| Sk8' killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:19:48 (2) Divas| Sk8' killed (1) =E*R= Skipo with FN Minimi
+20-05-01 23:19:48 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:19:51 86.145.45.171:23073|1C91556F0C7 requesting game...
+20-05-01 23:19:51 [Divas| Rattle] rotten
+20-05-01 23:19:52 mipHo captured the Red Flag
+20-05-01 23:19:54 86.145.45.171:23073|1C91556F0C7 requesting game...
+20-05-01 23:19:55 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:19:55 Divas| Sk8' captured the Red Flag
+20-05-01 23:19:56 [=E*R= Skipo] q los banca salgan po
+20-05-01 23:19:56 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:19:57 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:19:57 CWeiC has joined as spectator.
+20-05-01 23:19:57 (2) Divas| Rattle killed (1) =E*R= KillMe! with Combat Knife
+20-05-01 23:19:58 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:20:00 CWeiC has left spectators
+20-05-01 23:20:00 (2) Divas| Rattle killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:20:02 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:20:02 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:20:02 CWeiC has joined as spectator.
+20-05-01 23:20:03 [mipHo] calmao ctm
+20-05-01 23:20:05 r3v' Mand3s has left spectators
+20-05-01 23:20:06 (2) Divas| Sk8' killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:20:06 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-05-01 23:20:07 [Divas| Rattle] pera
+20-05-01 23:20:07 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-05-01 23:20:07 r3v' Mand3s has joined as spectator.
+20-05-01 23:20:09 [=E*R= Sadiko] a spec banca
+20-05-01 23:20:11 Divas| Enigma captured the Red Flag
+20-05-01 23:20:11 [mipHo] drama de divas
+20-05-01 23:20:11 [Divas| Rattle] hay division en el equipo
+20-05-01 23:20:13 (2) Divas| Enigma killed (1) =E*R= Sadiko with Desert Eagles
+20-05-01 23:20:17 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:20:19 (2) mipHo killed (1) =E*R= KillMe! with Grenade
+20-05-01 23:20:20 (2) mipHo killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:20:24 (1) =E*R= Skipo killed (2) mipHo with FN Minimi
+20-05-01 23:20:24 (1) =E*R= Skipo killed (2) Divas| Sk8' with FN Minimi
+20-05-01 23:20:25 (2) Divas| Enigma killed (1) =E*R= Skipo with Desert Eagles
+20-05-01 23:20:29 [=E*R= Skipo] kn es la diva de divas
+20-05-01 23:20:30 Divas| Enigma scores for Bravo Team
+20-05-01 23:20:33 [=E*R= Skipo] yo pense q la unica diva era fall
+20-05-01 23:20:34 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:20:34 (2) Divas| Rattle killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:20:34 (2) Divas| Rattle killed (1) =E*R= KillMe! with Spas-12
+20-05-01 23:20:34 [mipHo] skipo
+20-05-01 23:20:39 Divas| Enigma captured the Red Flag
+20-05-01 23:20:40 [Divas| Rattle] elejimo drop down
+20-05-01 23:20:41 [mipHo] eri vo
+20-05-01 23:20:43 =E*R= Sadiko captured the Blue Flag
+20-05-01 23:20:43 (2) Divas| Enigma killed (1) =E*R= KillMe! with Desert Eagles
+20-05-01 23:20:45 (2) Divas| Sk8' killed (1) =E*R= Sadiko with FN Minimi
+20-05-01 23:20:46 (1) =E*R= Sadiko killed (2) mipHo with Grenade
+20-05-01 23:20:46 (1) =E*R= Skipo killed (2) Divas| Enigma with FN Minimi
+20-05-01 23:20:46 [r3v' Mand3s] mipho
+20-05-01 23:20:47 (1) =E*R= Skipo killed (2) Divas| Rattle with Hands
+20-05-01 23:20:49 [=E*R= Skipo] ok
+20-05-01 23:20:50 [mipHo] mandes
+20-05-01 23:20:51 (1) =E*R= KillMe! killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:20:54 (1) =E*R= KillMe! killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:20:55 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:20:55 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:20:56 [r3v' Mand3s] la verdadera diva
+20-05-01 23:21:00 [r3v' Mand3s] no se pone ni el tag
+20-05-01 23:21:01 (2) Divas| Enigma killed (1) =E*R= KillMe! with Barrett M82A1
+20-05-01 23:21:05 (2) Divas| Rattle killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:21:05 (2) Divas| Enigma killed (1) =E*R= Sadiko with Barrett M82A1
+20-05-01 23:21:05 (1) =E*R= Sadiko killed (2) Divas| Sk8' with LAW
+20-05-01 23:21:07 Divas| Rattle captured the Red Flag
+20-05-01 23:21:07 (1) =E*R= KillMe! killed (2) Divas| Rattle with Desert Eagles
+20-05-01 23:21:09 mipHo has joined spectators.
+20-05-01 23:21:09 =E*R= Skipo returned the Red Flag
+20-05-01 23:21:11 [Divas| Rattle] !map spark
+20-05-01 23:21:11 [=E*R= Skipo] !map Spark
+20-05-01 23:21:13 =E*R= KillMe! added to Game Admins
+20-05-01 23:21:17 Spark - By Vauat
+20-05-01 23:21:22 [Divas| Enigma] !r
+20-05-01 23:21:22 Reiniciando...
+20-05-01 23:21:27 Spark - By Vauat
+20-05-01 23:21:30 (1) =E*R= KillMe! killed (2) Divas| Enigma with Grenade
+20-05-01 23:21:30 [Divas| Sk8'] !r
+20-05-01 23:21:30 Reiniciando...
+20-05-01 23:21:34 [=E*R= KillMe!] la conchetumadreee
+20-05-01 23:21:36 Spark - By Vauat
+20-05-01 23:21:40 (1) =E*R= Skipo killed (2) Divas| Rattle with Grenade
+20-05-01 23:21:40 (2) Divas| Enigma killed (1) =E*R= Sadiko with Grenade
+20-05-01 23:21:44 =E*R= Skipo captured the Blue Flag
+20-05-01 23:21:45 Divas| Sk8' captured the Red Flag
+20-05-01 23:21:46 (1) =E*R= Sadiko killed (2) Divas| Sk8' with Desert Eagles
+20-05-01 23:21:47 (2) Divas| Enigma killed (1) =E*R= Skipo with Grenade
+20-05-01 23:21:49 Divas| Sk8' has left bravo team.
+20-05-01 23:21:49 CWeiC has left spectators
+20-05-01 23:21:49 mipHo has left spectators
+20-05-01 23:21:49 r3v' Mand3s has left spectators
+20-05-01 23:21:49 =E*R= Sadiko has left alpha team.
+20-05-01 23:21:49 Divas| Rattle has left bravo team.
+20-05-01 23:21:49 Divas| Enigma has left bravo team.
+20-05-01 23:21:49 =E*R= Skipo has left alpha team.
+20-05-01 23:21:49 =E*R= KillMe! has left alpha team.
+20-05-01 23:21:53 201.189.223.115:23073|4EDFAA80B1B requesting game...
+20-05-01 23:21:53 186.11.108.231:1447|32439DD33E8 requesting game...
+20-05-01 23:21:54 =E*R= KillMe! joining game (186.11.108.231:1447) HWID:32439DD33E8
+20-05-01 23:21:54 =E*R= KillMe! has joined as spectator.
+20-05-01 23:21:54 =E*R= Skipo joining game (201.189.223.115:23073) HWID:4EDFAA80B1B
+20-05-01 23:21:54 =E*R= Skipo has joined alpha team.
+20-05-01 23:21:56 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-01 23:21:56 =E*R= Skipo has left alpha team.
+20-05-01 23:21:56 190.163.201.65:23073|36DB9B79633 requesting game...
+20-05-01 23:21:56 [=E*R= KillMe!] !a
+20-05-01 23:21:56 =E*R= KillMe! has joined alpha team.
+20-05-01 23:21:57 Divas| Sk8' joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-01 23:21:57 Divas| Sk8' has joined bravo team.
+20-05-01 23:21:57 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:21:57 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-05-01 23:21:57 Divas| Enigma has joined bravo team.
+20-05-01 23:21:57 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:21:57 CWeiC has joined as spectator.
+20-05-01 23:21:57 201.189.223.115:23073|4EDFAA80B1B requesting game...
+20-05-01 23:21:58 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:21:58 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:21:59 =E*R= Skipo joining game (201.189.223.115:23073) HWID:4EDFAA80B1B
+20-05-01 23:21:59 =E*R= Skipo has joined alpha team.
+20-05-01 23:21:59 mipHo joining game (201.239.101.160:17300) HWID:1F7342C1D76
+20-05-01 23:21:59 mipHo has joined bravo team.
+20-05-01 23:22:01 CWeiC has left spectators
+20-05-01 23:22:01 [Divas| Enigma] ibamos ganando
+20-05-01 23:22:02 mipHo has left bravo team.
+20-05-01 23:22:03 [Divas| Enigma] era flag
+20-05-01 23:22:04 [Divas| Sk8'] oye quien administra esta wea
+20-05-01 23:22:05 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:22:05 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:22:06 mipHo joining game (201.239.101.160:17300) HWID:1F7342C1D76
+20-05-01 23:22:06 mipHo has joined bravo team.
+20-05-01 23:22:07 [Divas| Sk8'] que n o arregla
+20-05-01 23:22:08 [Divas| Sk8'] los mapas
+20-05-01 23:22:08 (2) Divas| Enigma killed (1) =E*R= Skipo with Combat Knife
+20-05-01 23:22:09 mipHo has left bravo team.
+20-05-01 23:22:09 (1) =E*R= KillMe! killed (2) Divas| Enigma with Desert Eagles
+20-05-01 23:22:10 [Divas| Sk8'] ratel
+20-05-01 23:22:11 191.119.157.110:20645|7D8F96DFFA4 requesting game...
+20-05-01 23:22:11 [Divas| Sk8'] oye ratel
+20-05-01 23:22:12 Divas| Enigma has left bravo team.
+20-05-01 23:22:12 190.163.201.65:23073|36DB9B79633 requesting game...
+20-05-01 23:22:13 [Divas| Sk8'] conchetumadre
+20-05-01 23:22:13 Divas| Enigma joining game (190.163.201.65:23073) HWID:36DB9B79633
+20-05-01 23:22:13 Divas| Enigma has joined bravo team.
+20-05-01 23:22:13 [=E*R= Skipo] es el unico mapa q tira atados
+20-05-01 23:22:14 RtP| Shuter joining game (191.119.157.110:20645) HWID:7D8F96DFFA4
+20-05-01 23:22:14 RtP| Shuter has joined as spectator.
+20-05-01 23:22:14 [Divas| Sk8'] arregla la wea
+20-05-01 23:22:16 (1) =E*R= KillMe! killed (2) Divas| Enigma with LAW
+20-05-01 23:22:16 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-01 23:22:16 [=E*R= Skipo] hasta en gather
+20-05-01 23:22:17 RtP| Shuter has left spectators
+20-05-01 23:22:17 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-01 23:22:17 =E*R= Sadiko has joined alpha team.
+20-05-01 23:22:19 =E*R= Sadiko has left alpha team.
+20-05-01 23:22:19 [Divas| Sk8'] RATEL
+20-05-01 23:22:22 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:22:22 201.239.101.160:17300|1F7342C1D76 requesting game...
+20-05-01 23:22:22 [Divas| Sk8'] ARREGLA LA WEA
+20-05-01 23:22:22 191.119.157.110:20645|7D8F96DFFA4 requesting game...
+20-05-01 23:22:23 mipHo joining game (201.239.101.160:17300) HWID:1F7342C1D76
+20-05-01 23:22:23 mipHo has joined bravo team.
+20-05-01 23:22:24 [Divas| Sk8'] RATEL TE ODIO
+20-05-01 23:22:24 RtP| Shuter joining game (191.119.157.110:20645) HWID:7D8F96DFFA4
+20-05-01 23:22:24 RtP| Shuter has joined as spectator.
+20-05-01 23:22:25 [mipHo] !map Ash
+20-05-01 23:22:26 RtP| Shuter has left spectators
+20-05-01 23:22:27 Divas| Sk8' has left bravo team.
+20-05-01 23:22:27 191.119.157.110:20645|7D8F96DFFA4 requesting game...
+20-05-01 23:22:28 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-01 23:22:29 [=E*R= Skipo] pork tiraste ash
+20-05-01 23:22:29 RtP| Shuter joining game (191.119.157.110:20645) HWID:7D8F96DFFA4
+20-05-01 23:22:29 RtP| Shuter has joined as spectator.
+20-05-01 23:22:29 Divas| Sk8' joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-01 23:22:29 Divas| Sk8' has joined bravo team.
+20-05-01 23:22:29 [=E*R= Skipo] xd
+20-05-01 23:22:30 ctf_Ash by chakapoko maker
+20-05-01 23:22:31 =E*R= KillMe! added to Game Admins
+20-05-01 23:22:33 186.105.45.175:23073|218A929E6CE requesting game...
+20-05-01 23:22:33 [mipHo] pa que no me kickee
+20-05-01 23:22:33 CWeiC joining game (186.105.45.175:23073) HWID:218A929E6CE
+20-05-01 23:22:33 CWeiC has joined as spectator.
+20-05-01 23:22:35 [=E*R= Skipo] !map Spark
+20-05-01 23:22:37 [mipHo] !p
+20-05-01 23:22:37 Pausando...
+20-05-01 23:22:38 Divas| Sk8' has left bravo team.
+20-05-01 23:22:38 [mipHo] !up
+20-05-01 23:22:39 Despausando en: 3
+20-05-01 23:22:39 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-01 23:22:40 [=E*R= Skipo] pero ctm
+20-05-01 23:22:40 Despausando en: 2
+20-05-01 23:22:40 [mipHo] pero calmao
+20-05-01 23:22:41 Divas| Sk8' joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-01 23:22:41 Divas| Sk8' has joined bravo team.
+20-05-01 23:22:41 Despausando en: 1
+20-05-01 23:22:42 Go!
+20-05-01 23:22:42 [=E*R= Skipo] para la wea
+20-05-01 23:22:43 Divas| Sk8' has left bravo team.
+20-05-01 23:22:43 (2) Divas| Enigma killed (1) =E*R= KillMe! with Barrett M82A1
+20-05-01 23:22:43 (2) Divas| Enigma killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:22:44 [mipHo] si va a cambiar el mapa wn
+20-05-01 23:22:44 152.173.40.88:23073|604C8DA500F requesting game...
+20-05-01 23:22:45 Divas| Sk8' joining game (152.173.40.88:23073) HWID:604C8DA500F
+20-05-01 23:22:45 Divas| Sk8' has joined bravo team.
+20-05-01 23:22:46 [mipHo] waton qlo
+20-05-01 23:22:47 Divas| Enigma captured the Red Flag
+20-05-01 23:22:49 (2) Divas| Enigma killed (1) =E*R= Skipo with Barrett M82A1
+20-05-01 23:22:53 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-01 23:22:55 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-01 23:22:55 =E*R= Sadiko has joined alpha team.
+20-05-01 23:22:55 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:22:57 (2) mipHo killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:22:58 (2) Divas| Sk8' killed (1) =E*R= KillMe! with HK MP5
+20-05-01 23:22:59 =E*R= Sadiko has left alpha team.
+20-05-01 23:23:00 Divas| Enigma scores for Bravo Team
+20-05-01 23:23:00 (1) =E*R= Skipo killed (2) Divas| Sk8' with Grenade
+20-05-01 23:23:00 200.83.84.150:23073|3CE7FC4A035 requesting game...
+20-05-01 23:23:01 [=E*R= KillMe!] !map Spark
+20-05-01 23:23:02 =E*R= Sadiko joining game (200.83.84.150:23073) HWID:3CE7FC4A035
+20-05-01 23:23:02 =E*R= Sadiko has joined alpha team.
+20-05-01 23:23:02 [mipHo] !p
+20-05-01 23:23:02 Pausando...
+20-05-01 23:23:04 [mipHo] xd
+20-05-01 23:23:06 =E*R= KillMe! has left alpha team.
+20-05-01 23:23:07 [mipHo] !up
+20-05-01 23:23:08 Despausando en: 3
+20-05-01 23:23:09 Despausando en: 2
+20-05-01 23:23:10 Despausando en: 1
+20-05-01 23:23:11 Go!
+20-05-01 23:23:15 (2) mipHo killed (1) =E*R= Skipo with Spas-12
+20-05-01 23:23:16 (2) mipHo killed (1) =E*R= Sadiko with Spas-12
+20-05-01 23:23:17 [=E*R= Skipo] ya mipho te baneo x 5min por wn
+20-05-01 23:23:17 [=E*R= Sadiko] q wea?
+20-05-01 23:23:19 Signal received, shutting down
+20-05-01 23:23:19 Shutting down server...
+20-05-01 23:23:19 Shutting down FileServer...
+20-05-01 23:23:19 Shutting down admin server...

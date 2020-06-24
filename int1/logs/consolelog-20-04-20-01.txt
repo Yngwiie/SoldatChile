@@ -1,0 +1,3181 @@
+20-04-20 03:48:08    Console Log Started
+20-04-20 03:48:09 [K!NG| MaaX*] !s
+20-04-20 03:48:09 K!NG| MaaX* has joined spectators.
+20-04-20 03:48:10 [r3v' DrK] !sp
+20-04-20 03:48:10 Clave modificada a:713
+20-04-20 03:48:13 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:48:13 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:48:19 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 03:48:20 r3v' DrK returned the Red Flag
+20-04-20 03:48:21 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-20 03:48:21 r3v' Mand3s has joined alpha team.
+20-04-20 03:48:22 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:48:22 r3v' Colt captured the Blue Flag
+20-04-20 03:48:22 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:48:24 (2) K!NG| PK killed (1) r3v' DrK with FN Minimi
+20-04-20 03:48:29 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:48:29 r3v' Colt scores for Alpha Team
+20-04-20 03:48:32 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:48:32 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:48:34 [K!NG| PK] !r
+20-04-20 03:48:34 Reiniciando...
+20-04-20 03:48:39 (RADIO)[r3v' DrK] Enemy spotted up!
+20-04-20 03:48:40 Wretch by AdamD
+20-04-20 03:48:45 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:48:45 [K!NG| YnGwi3] !R
+20-04-20 03:48:45 Reiniciando...
+20-04-20 03:48:51 Wretch by AdamD
+20-04-20 03:48:58 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:48:58 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:49:01 (1) r3v' DrK killed (2) K!NG| PK with Grenade
+20-04-20 03:49:04 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:49:06 (2) K!NG| Rakkety killed (1) r3v' DrK with HK MP5
+20-04-20 03:49:12 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:49:12 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:49:13 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:49:17 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:49:18 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:49:20 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:49:21 (1) r3v' DrK killed (2) K!NG| PK with Combat Knife
+20-04-20 03:49:21 r3v' DrK captured the Blue Flag
+20-04-20 03:49:27 r3v' DrK scores for Alpha Team
+20-04-20 03:49:28 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:49:29 (2) K!NG| Rakkety killed (1) r3v' Colt with Grenade
+20-04-20 03:49:29 (2) K!NG| Rakkety killed (1) r3v' Mand3s with HK MP5
+20-04-20 03:49:30 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 03:49:33 K!NG| Rakkety captured the Red Flag
+20-04-20 03:49:35 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:49:35 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:49:38 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:49:38 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:49:39 r3v' DrK returned the Red Flag
+20-04-20 03:49:42 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Spas-12
+20-04-20 03:49:45 r3v' Mand3s captured the Blue Flag
+20-04-20 03:49:47 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:49:49 (1) r3v' Mand3s killed (2) K!NG| Rakkety with LAW
+20-04-20 03:49:50 r3v' Colt captured the Blue Flag
+20-04-20 03:49:50 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:49:53 r3v' Colt scores for Alpha Team
+20-04-20 03:49:54 r3v' DrK captured the Blue Flag
+20-04-20 03:49:55 (2) K!NG| Rakkety killed (1) r3v' DrK with HK MP5
+20-04-20 03:49:59 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:49:59 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:50:01 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:50:02 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:50:02 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:50:05 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:50:06 K!NG| Rakkety returned the Blue Flag
+20-04-20 03:50:07 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:50:09 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Grenade
+20-04-20 03:50:10 r3v' DrK captured the Blue Flag
+20-04-20 03:50:11 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:50:12 K!NG| YnGwi3 returned the Blue Flag
+20-04-20 03:50:14 K!NG| Rakkety captured the Red Flag
+20-04-20 03:50:16 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:50:17 (2) K!NG| PK killed (1) r3v' DrK with Grenade
+20-04-20 03:50:21 K!NG| PK returned the Blue Flag
+20-04-20 03:50:21 K!NG| Rakkety scores for Bravo Team
+20-04-20 03:50:24 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:50:29 (2) K!NG| PK killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:50:30 r3v' Colt captured the Blue Flag
+20-04-20 03:50:31 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:50:33 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:50:34 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Grenade
+20-04-20 03:50:37 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:50:38 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:50:39 K!NG| PK returned the Blue Flag
+20-04-20 03:50:43 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:50:43 r3v' Colt captured the Blue Flag
+20-04-20 03:50:43 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:50:44 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:50:46 K!NG| YnGwi3 returned the Blue Flag
+20-04-20 03:50:49 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:50:50 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:50:50 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:50:55 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:50:55 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:50:56 r3v' Colt captured the Blue Flag
+20-04-20 03:50:57 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:50:57 (1) r3v' Colt killed (2) K!NG| PK with Grenade
+20-04-20 03:50:58 (TEAM)[r3v' Colt] FREE FLAG!
+20-04-20 03:51:02 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:51:03 K!NG| YnGwi3 returned the Blue Flag
+20-04-20 03:51:03 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:51:03 r3v' Colt returned the Red Flag
+20-04-20 03:51:06 r3v' Mand3s captured the Blue Flag
+20-04-20 03:51:07 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:51:08 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:51:11 (2) K!NG| PK killed (1) r3v' Colt with Combat Knife
+20-04-20 03:51:11 (1) r3v' Colt killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:51:11 K!NG| PK returned the Blue Flag
+20-04-20 03:51:17 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:51:20 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:51:21 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:51:21 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Grenade
+20-04-20 03:51:21 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Grenade
+20-04-20 03:51:24 K!NG| Rakkety captured the Red Flag
+20-04-20 03:51:25 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:51:28 r3v' Colt returned the Red Flag
+20-04-20 03:51:29 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:51:32 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:51:34 (1) r3v' DrK killed (2) K!NG| PK with Grenade
+20-04-20 03:51:35 (1) r3v' DrK killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:51:39 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:51:42 190.191.99.138:23073|207AB11F127 requesting game...
+20-04-20 03:51:43 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:51:43 (2) K!NG| PK killed (1) r3v' DrK with Grenade
+20-04-20 03:51:44 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:51:46 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:51:47 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Spas-12
+20-04-20 03:51:49 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:51:52 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:51:54 (1) r3v' DrK killed (2) K!NG| PK with Grenade
+20-04-20 03:51:57 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Grenade
+20-04-20 03:51:58 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:52:00 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:52:03 190.211.167.106:64851|1496BAEC585 requesting game...
+20-04-20 03:52:03 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:52:06 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:52:06 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:52:08 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:52:08 190.211.167.106:64851|1496BAEC585 requesting game...
+20-04-20 03:52:09 K!NG| PK captured the Red Flag
+20-04-20 03:52:09 (1) r3v' Colt killed (2) K!NG| PK with Combat Knife
+20-04-20 03:52:09 190.191.99.138:23073|207AB11F127 requesting game...
+20-04-20 03:52:13 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:52:15 r3v' Colt captured the Blue Flag
+20-04-20 03:52:16 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:52:16 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:52:17 (TEAM)[r3v' Colt] FREE FLAG!
+20-04-20 03:52:18 r3v' Mand3s captured the Blue Flag
+20-04-20 03:52:20 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:52:23 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:52:23 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:52:24 K!NG| Rakkety returned the Blue Flag
+20-04-20 03:52:24 (2) K!NG| Rakkety killed (1) r3v' Colt with Grenade
+20-04-20 03:52:25 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:52:27 (RADIO)[r3v' DrK] Enemy spotted up!
+20-04-20 03:52:30 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Spas-12
+20-04-20 03:52:32 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:52:33 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with LAW
+20-04-20 03:52:39 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:52:39 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:52:43 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Grenade
+20-04-20 03:52:44 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:52:46 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:52:48 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:52:49 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:52:51 r3v' DrK captured the Blue Flag
+20-04-20 03:52:52 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Grenade
+20-04-20 03:52:54 r3v' Mand3s captured the Blue Flag
+20-04-20 03:52:55 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:52:57 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:52:57 K!NG| PK returned the Blue Flag
+20-04-20 03:53:00 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:53:00 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:53:02 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Grenade
+20-04-20 03:53:09 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:53:11 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:53:11 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:53:12 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:53:17 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:53:19 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:53:19 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Grenade
+20-04-20 03:53:20 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:53:23 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:53:25 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:53:27 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:53:27 (2) K!NG| Rakkety killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:53:29 r3v' Mand3s returned the Red Flag
+20-04-20 03:53:30 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 03:53:30 r3v' Mand3s captured the Blue Flag
+20-04-20 03:53:30 [Warfar3.-] lol
+20-04-20 03:53:32 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:53:35 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:53:36 [K!NG| YnGwi3] No!
+20-04-20 03:53:36 r3v' Mand3s scores for Alpha Team
+20-04-20 03:53:37 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:53:38 45.51.156.173:23073|6BCAD537A24 requesting game...
+20-04-20 03:53:40 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:53:41 45.51.156.173:23073|6BCAD537A24 requesting game...
+20-04-20 03:53:44 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:53:45 K!NG| PK captured the Red Flag
+20-04-20 03:53:45 (1) r3v' DrK killed (2) K!NG| PK with Combat Knife
+20-04-20 03:53:47 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:53:48 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Combat Knife
+20-04-20 03:53:49 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:53:49 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:53:51 Time Left: 5 minutes
+20-04-20 03:53:53 K!NG| Rakkety captured the Red Flag
+20-04-20 03:53:54 r3v' DrK returned the Red Flag
+20-04-20 03:53:54 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:53:55 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:53:59 45.51.156.173:23073|6BCAD537A24 requesting game...
+20-04-20 03:54:00 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:54:02 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:54:05 K!NG| PK captured the Red Flag
+20-04-20 03:54:06 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:54:06 (1) r3v' DrK killed (2) K!NG| Rakkety with Combat Knife
+20-04-20 03:54:08 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Grenade
+20-04-20 03:54:11 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:54:12 (2) K!NG| Rakkety killed (1) r3v' DrK with Combat Knife
+20-04-20 03:54:15 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:54:16 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:54:19 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with LAW
+20-04-20 03:54:19 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:54:23 (2) K!NG| PK killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:54:24 r3v' Mand3s captured the Blue Flag
+20-04-20 03:54:25 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:54:27 r3v' Colt captured the Blue Flag
+20-04-20 03:54:28 (2) K!NG| Rakkety killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:54:31 r3v' DrK captured the Blue Flag
+20-04-20 03:54:31 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:54:35 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:54:36 r3v' DrK scores for Alpha Team
+20-04-20 03:54:38 (TEAM)[r3v' Mand3s] |
+20-04-20 03:54:38 Warfar3.- has left spectators
+20-04-20 03:54:40 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:54:40 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:54:41 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:54:41 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:54:41 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:54:45 (1) r3v' DrK killed (2) K!NG| PK with Combat Knife
+20-04-20 03:54:50 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:54:50 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:54:50 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:54:51 Time Left: 4 minutes
+20-04-20 03:54:53 K!NG| Rakkety captured the Red Flag
+20-04-20 03:54:54 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:54:56 r3v' Mand3s captured the Blue Flag
+20-04-20 03:54:56 K!NG| PK captured the Red Flag
+20-04-20 03:54:57 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:54:57 (1) r3v' DrK killed (2) K!NG| PK with Grenade
+20-04-20 03:54:58 r3v' DrK returned the Red Flag
+20-04-20 03:55:01 (1) r3v' DrK killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:55:03 r3v' Mand3s scores for Alpha Team
+20-04-20 03:55:04 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:55:06 (2) K!NG| Rakkety killed (1) r3v' Colt with Combat Knife
+20-04-20 03:55:07 181.127.124.77:23073|111FAE0F2DD requesting game...
+20-04-20 03:55:08 K!NG| Rakkety captured the Red Flag
+20-04-20 03:55:10 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:55:10 (1) r3v' DrK killed (2) K!NG| Rakkety with Ruger 77
+20-04-20 03:55:11 (1) r3v' DrK killed (2) K!NG| PK with Ruger 77
+20-04-20 03:55:11 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:55:12 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Grenade
+20-04-20 03:55:12 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:55:14 K!NG| YnGwi3 scores for Bravo Team
+20-04-20 03:55:18 (1) r3v' Colt killed (2) K!NG| PK with Grenade
+20-04-20 03:55:18 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:55:20 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:55:22 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:55:24 181.127.124.77:23073|111FAE0F2DD requesting game...
+20-04-20 03:55:25 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:55:27 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:55:27 181.127.124.77:23073|111FAE0F2DD requesting game...
+20-04-20 03:55:27 (2) K!NG| PK killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:55:28 r3v' Colt returned the Red Flag
+20-04-20 03:55:29 181.127.124.77:23073|111FAE0F2DD requesting game...
+20-04-20 03:55:30 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:55:34 r3v' Colt captured the Blue Flag
+20-04-20 03:55:35 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:55:36 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:55:37 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:55:38 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:55:39 K!NG| PK returned the Blue Flag
+20-04-20 03:55:42 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:55:43 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:55:45 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Grenade
+20-04-20 03:55:48 (1) r3v' DrK killed (2) K!NG| Rakkety with Combat Knife
+20-04-20 03:55:49 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:55:51 Time Left: 3 minutes
+20-04-20 03:55:52 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:55:52 K!NG| PK captured the Red Flag
+20-04-20 03:55:52 (2) K!NG| PK killed (1) r3v' DrK with Grenade
+20-04-20 03:55:54 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:55:54 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:55:55 (TEAM)[r3v' Colt] FREE FLAG!
+20-04-20 03:55:57 r3v' Mand3s captured the Blue Flag
+20-04-20 03:55:57 K!NG| Rakkety captured the Red Flag
+20-04-20 03:55:57 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:56:03 (2) K!NG| PK killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:56:03 r3v' Colt captured the Blue Flag
+20-04-20 03:56:04 (2) K!NG| PK killed (1) r3v' Colt with Combat Knife
+20-04-20 03:56:06 K!NG| YnGwi3 returned the Blue Flag
+20-04-20 03:56:07 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:56:08 K!NG| Rakkety captured the Red Flag
+20-04-20 03:56:09 r3v' Mand3s captured the Blue Flag
+20-04-20 03:56:11 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:56:13 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:56:14 r3v' Colt captured the Blue Flag
+20-04-20 03:56:15 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:56:17 K!NG| PK returned the Blue Flag
+20-04-20 03:56:17 [r3v' Colt] THE FLAG
+20-04-20 03:56:18 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:56:20 K!NG| Rakkety captured the Red Flag
+20-04-20 03:56:21 (1) r3v' DrK killed (2) K!NG| PK with HK MP5
+20-04-20 03:56:22 K!NG| Rakkety scores for Bravo Team
+20-04-20 03:56:22 K!NG| YnGwi3 captured the Red Flag
+20-04-20 03:56:25 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:56:26 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:56:29 r3v' Mand3s returned the Red Flag
+20-04-20 03:56:30 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:56:31 (1) r3v' Colt killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:56:32 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:56:33 r3v' Colt captured the Blue Flag
+20-04-20 03:56:35 (1) r3v' DrK killed (2) K!NG| PK with Combat Knife
+20-04-20 03:56:35 (2) K!NG| PK killed (1) r3v' DrK with Grenade
+20-04-20 03:56:39 r3v' Colt scores for Alpha Team
+20-04-20 03:56:40 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:56:40 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Spas-12
+20-04-20 03:56:44 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:56:45 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:56:46 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:56:46 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:56:51 Time Left: 2 minutes
+20-04-20 03:56:53 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:56:53 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:56:55 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:56:56 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:56:56 (2) K!NG| PK killed (1) r3v' Mand3s with Grenade
+20-04-20 03:57:01 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:57:02 (2) K!NG| Rakkety killed (1) r3v' Colt with Grenade
+20-04-20 03:57:03 (1) r3v' Colt killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:57:06 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Grenade
+20-04-20 03:57:07 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:57:10 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Grenade
+20-04-20 03:57:10 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:57:11 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:57:11 (TEAM)[r3v' Colt] INC - LOW
+20-04-20 03:57:12 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:57:19 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:57:22 (1) r3v' Colt killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:57:22 (2) K!NG| Rakkety killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:57:23 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 03:57:24 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Grenade
+20-04-20 03:57:24 K!NG| PK captured the Red Flag
+20-04-20 03:57:25 (1) r3v' Mand3s killed (2) K!NG| PK with Grenade
+20-04-20 03:57:26 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:57:29 r3v' Colt returned the Red Flag
+20-04-20 03:57:30 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:57:32 K!NG| Rakkety captured the Red Flag
+20-04-20 03:57:32 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:57:35 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:57:37 (1) r3v' DrK killed (2) K!NG| YnGwi3 with Grenade
+20-04-20 03:57:37 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Spas-12
+20-04-20 03:57:40 (1) r3v' Mand3s killed (2) K!NG| PK with Spas-12
+20-04-20 03:57:42 (2) K!NG| Rakkety killed (1) r3v' Colt with Grenade
+20-04-20 03:57:43 (2) K!NG| Rakkety killed (1) r3v' DrK with Grenade
+20-04-20 03:57:46 (2) K!NG| YnGwi3 killed (1) r3v' Mand3s with Spas-12
+20-04-20 03:57:46 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:57:51 Time Left: 1 minutes
+20-04-20 03:57:51 (2) K!NG| PK killed (1) r3v' Colt with Grenade
+20-04-20 03:57:51 K!NG| PK captured the Red Flag
+20-04-20 03:57:53 (TEAM)[r3v' Colt] EFC - LOW
+20-04-20 03:57:53 (1) r3v' DrK killed (2) K!NG| Rakkety with HK MP5
+20-04-20 03:57:53 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:57:56 K!NG| PK captured the Red Flag
+20-04-20 03:57:58 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:58:00 K!NG| PK scores for Bravo Team
+20-04-20 03:58:03 (2) K!NG| YnGwi3 killed (1) r3v' Colt with Grenade
+20-04-20 03:58:05 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:58:05 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Spas-12
+20-04-20 03:58:07 (2) K!NG| PK killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:58:10 K!NG| PK captured the Red Flag
+20-04-20 03:58:11 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:58:13 r3v' DrK returned the Red Flag
+20-04-20 03:58:14 (2) K!NG| Rakkety killed (1) r3v' DrK with Steyr AUG
+20-04-20 03:58:15 (1) r3v' Colt killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:58:16 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Spas-12
+20-04-20 03:58:16 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Combat Knife
+20-04-20 03:58:17 r3v' Colt captured the Blue Flag
+20-04-20 03:58:18 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:58:19 (1) r3v' Colt killed (2) K!NG| PK with Combat Knife
+20-04-20 03:58:19 (TEAM)[r3v' Colt] FREE FLAG!
+20-04-20 03:58:23 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Grenade
+20-04-20 03:58:24 (1) r3v' Mand3s killed (2) K!NG| YnGwi3 with Spas-12
+20-04-20 03:58:24 r3v' Mand3s captured the Blue Flag
+20-04-20 03:58:24 (2) K!NG| Rakkety killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:58:27 (2) K!NG| PK killed (1) r3v' Colt with Steyr AUG
+20-04-20 03:58:28 K!NG| PK returned the Blue Flag
+20-04-20 03:58:29 K!NG| Rakkety captured the Red Flag
+20-04-20 03:58:29 (1) r3v' DrK killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:58:35 (1) r3v' Colt killed (2) K!NG| PK with HK MP5
+20-04-20 03:58:37 (1) r3v' DrK killed (2) K!NG| YnGwi3 with HK MP5
+20-04-20 03:58:41 (1) r3v' Mand3s killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:58:42 (2) K!NG| YnGwi3 killed (1) r3v' DrK with Grenade
+20-04-20 03:58:43 r3v' Mand3s returned the Red Flag
+20-04-20 03:58:45 (2) K!NG| PK killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 03:58:46 (1) r3v' Colt killed (2) K!NG| PK with Grenade
+20-04-20 03:58:48 (1) r3v' Colt killed (2) K!NG| Rakkety with Grenade
+20-04-20 03:58:49 [K!NG| Rakkety] GG\
+20-04-20 03:58:50 [r3v' Mand3s] gg
+20-04-20 03:58:51 Next map: Lobby
+20-04-20 03:58:51 [K!NG| YnGwi3] gg
+20-04-20 03:58:53 [r3v' Winter] gg
+20-04-20 03:58:53 K!NG| Rakkety has left bravo team.
+20-04-20 03:58:53 r3v' Mand3s has left alpha team.
+20-04-20 03:58:53 K!NG| YnGwi3 has left bravo team.
+20-04-20 03:58:55 r3v' Winter has left spectators
+20-04-20 03:58:55 K!NG| PK has left bravo team.
+20-04-20 03:58:55 r3v' Colt has left alpha team.
+20-04-20 03:58:55 K!NG| MaaX* has left spectators
+20-04-20 03:58:56 Lothic - Gothic Lobby Room
+20-04-20 03:58:58 r3v' DrK has left alpha team.
+20-04-20 03:59:14 r3v' Coco has left spectators
+20-04-20 03:59:20 104.33.249.20:23073|512EEDE5A9C requesting game...
+20-04-20 04:00:28 Admin disconnected (191.126.60.207).
+20-04-20 04:00:43 70.112.101.14:23073| requesting game...
+20-04-20 04:00:45 70.112.101.14:23073| requesting game...
+20-04-20 04:00:52 70.112.101.14:23073| requesting game...
+20-04-20 04:01:52 190.211.167.106:23073|1496BAEC585 requesting game...
+20-04-20 04:02:38 Divas| Sk8' has left spectators
+20-04-20 04:03:49 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-20 04:03:51 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-20 04:03:56 Time Left: 5 minutes
+20-04-20 04:04:03 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-20 04:04:10 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:04:11 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-20 04:04:11 r3v' Mand3s has joined alpha team.
+20-04-20 04:04:12 /password scl (190.164.5.54)
+20-04-20 04:04:12 Server password changed to scl
+20-04-20 04:04:12 181.42.45.54:19973|32439DD33E8 requesting game...
+20-04-20 04:04:12 179.9.75.127:23073|13D999B5D31 requesting game...
+20-04-20 04:04:13 =E*R= Chaky//<3K joining game (179.9.75.127:23073) HWID:13D999B5D31
+20-04-20 04:04:13 =E*R= Chaky//<3K has joined alpha team.
+20-04-20 04:04:14 =E*R= KillMe! joining game (181.42.45.54:19973) HWID:32439DD33E8
+20-04-20 04:04:14 =E*R= KillMe! has joined bravo team.
+20-04-20 04:04:17 =E*R= KillMe! has left bravo team.
+20-04-20 04:04:18 181.42.45.54:19973|32439DD33E8 requesting game...
+20-04-20 04:04:18 71.197.241.72:23073|571FCAC6D9F requesting game...
+20-04-20 04:04:20 =E*R= KillMe! joining game (181.42.45.54:19973) HWID:32439DD33E8
+20-04-20 04:04:20 =E*R= KillMe! has joined bravo team.
+20-04-20 04:04:21 r3v' Colt joining game (71.197.241.72:23073) HWID:571FCAC6D9F
+20-04-20 04:04:21 r3v' Colt has joined bravo team.
+20-04-20 04:04:25 74.70.163.11:23073|67CF33CB295 requesting game...
+20-04-20 04:04:26 r3v' Coco joining game (74.70.163.11:23073) HWID:67CF33CB295
+20-04-20 04:04:26 r3v' Coco has joined as spectator.
+20-04-20 04:04:29 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-20 04:04:31 =E*R= Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-20 04:04:31 =E*R= Sadiko has joined alpha team.
+20-04-20 04:04:32 177.192.105.151:23073|3316E727D63 requesting game...
+20-04-20 04:04:33 r3v' DrK joining game (177.192.105.151:23073) HWID:3316E727D63
+20-04-20 04:04:33 r3v' DrK has joined as spectator.
+20-04-20 04:04:34 [=E*R= Sadiko] !b
+20-04-20 04:04:34 =E*R= Sadiko has joined bravo team.
+20-04-20 04:04:47 [=E*R= Sadiko] !maps
+20-04-20 04:04:47 r3v' DrK has joined alpha team.
+20-04-20 04:04:50 [r3v' Colt] !a
+20-04-20 04:04:50 r3v' Colt has joined alpha team.
+20-04-20 04:04:54 [r3v' Colt] !maps
+20-04-20 04:04:56 Time Left: 4 minutes
+20-04-20 04:04:58 [=E*R= Chaky//<3K] !b
+20-04-20 04:04:58 =E*R= Chaky//<3K has joined bravo team.
+20-04-20 04:05:07 [=E*R= KillMe!] yo colrt
+20-04-20 04:05:09 [r3v' Colt] yoyoy
+20-04-20 04:05:10 [=E*R= KillMe!] wenaa mandes
+20-04-20 04:05:13 [r3v' Mand3s] wenawena
+20-04-20 04:05:15 116.103.176.198:23073|1C2E02BDA9F requesting game...
+20-04-20 04:05:18 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:05:18 [=E*R= Sadiko] i dont have access to these server, thats why the commands are not working porperly 
+20-04-20 04:05:20 [=E*R= Sadiko] :B
+20-04-20 04:05:28 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:05:39 [r3v' Colt] !maps
+20-04-20 04:05:49 [r3v' Mand3s] baneamos viet
+20-04-20 04:05:50 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:05:50 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:05:51 [r3v' Colt] Sniper!
+20-04-20 04:05:56 Time Left: 3 minutes
+20-04-20 04:06:01 [=E*R= KillMe!] no jugamos
+20-04-20 04:06:02 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:06:06 [=E*R= Sadiko] lo vimo
+20-04-20 04:06:09 [r3v' Mand3s] ajajja
+20-04-20 04:06:09 [=E*R= KillMe!] aio
+20-04-20 04:06:23 [r3v' Colt] :(
+20-04-20 04:06:25 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:06:29 [r3v' Mand3s] ban?
+20-04-20 04:06:32 [r3v' Colt] !maps
+20-04-20 04:06:37 190.101.190.28:23073|348574D9644 requesting game...
+20-04-20 04:06:40 [UnK] F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-04-20 04:06:40 [UnK] F4ll.cL has joined as spectator.
+20-04-20 04:06:42 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:06:42 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:06:46 [=E*R= Chaky//<3K] a que lata fall spec
+20-04-20 04:06:48 [[UnK] F4ll.cL] mand3s cachaste el server d ro?
+20-04-20 04:06:52 [[UnK] F4ll.cL] jajjajaaja chaky ql
+20-04-20 04:06:54 [r3v' Mand3s] si lo cachaba
+20-04-20 04:06:56 Time Left: 2 minutes
+20-04-20 04:06:57 [=E*R= Chaky//<3K] van a jugar ro?
+20-04-20 04:06:58 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with M79
+20-04-20 04:06:59 [[UnK] F4ll.cL] seee
+20-04-20 04:07:00 [r3v' Mand3s] termino el soldat y lo descaargo
+20-04-20 04:07:03 [=E*R= Chaky//<3K] le avisaron al skipo?
+20-04-20 04:07:06 [=E*R= Chaky//<3K] espada +10
+20-04-20 04:07:10 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:07:12 [=E*R= KillMe!] pense que el ragnarok habia muerto
+20-04-20 04:07:13 [=E*R= KillMe!] D:
+20-04-20 04:07:13 [[UnK] F4ll.cL] esq tengo miedo q le sea infiel
+20-04-20 04:07:15 [[UnK] F4ll.cL] a su mina
+20-04-20 04:07:18 [=E*R= Chaky//<3K] hahahhahahahahaha
+20-04-20 04:07:23 (2) =E*R= Sadiko killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:07:32 [[UnK] F4ll.cL] imagina una priest con una staff +10
+20-04-20 04:07:34 (1) r3v' DrK killed (2) =E*R= Sadiko with M79
+20-04-20 04:07:36 [[UnK] F4ll.cL] el gordo caga
+20-04-20 04:07:43 [r3v' Colt] Map?
+20-04-20 04:07:51 [r3v' Mand3s] division
+20-04-20 04:07:52 [r3v' Mand3s] nosotros
+20-04-20 04:07:56 Time Left: 1 minutes
+20-04-20 04:08:24 [=E*R= Sadiko] votamos guardian, baneamos division :B
+20-04-20 04:08:30 (1) r3v' DrK killed (2) =E*R= Sadiko with M79
+20-04-20 04:08:31 [=E*R= KillMe!] que loquitos
+20-04-20 04:08:32 [=E*R= KillMe!] jaja
+20-04-20 04:08:33 [r3v' Mand3s] jugamos triumph
+20-04-20 04:08:36 [r3v' Colt] LOL
+20-04-20 04:08:41 [=E*R= KillMe!] era broma wey
+20-04-20 04:08:48 [=E*R= KillMe!] es mas triumph ibamos a banear
+20-04-20 04:08:48 [=E*R= Sadiko] ok we ban triumph
+20-04-20 04:08:51 [r3v' Colt] OL
+20-04-20 04:08:51 [r3v' Mand3s] hahahah
+20-04-20 04:08:52 [r3v' Mand3s] dale
+20-04-20 04:08:54 [r3v' Mand3s] jugamos division
+20-04-20 04:08:55 [=E*R= KillMe!] kakaak
+20-04-20 04:08:56 Next map: Lobby
+20-04-20 04:08:56 [=E*R= Sadiko] ok
+20-04-20 04:08:57 [=E*R= KillMe!] ya wn go
+20-04-20 04:09:01 Lothic - Gothic Lobby Room
+20-04-20 04:09:06 [r3v' Mand3s] !map ctf_Division
+20-04-20 04:09:08 [=E*R= KillMe!] t
+20-04-20 04:09:12 Division by Boxo, KC, viral
+20-04-20 04:09:12 191.84.65.176:23073|14189A02D27 requesting game...
+20-04-20 04:09:12 191.84.65.176:23073|14189A02D27 requesting game...
+20-04-20 04:09:12 r3v' Mand3s has left alpha team.
+20-04-20 04:09:13 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:09:14 Divas| Rattle joining game (191.84.65.176:23073) HWID:14189A02D27
+20-04-20 04:09:14 Divas| Rattle has joined as spectator.
+20-04-20 04:09:15 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:09:19 [r3v' Colt] !sp
+20-04-20 04:09:19 Clave modificada a:639
+20-04-20 04:09:19 [r3v' DrK] !sp
+20-04-20 04:09:19 Clave modificada a:753
+20-04-20 04:09:20 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:09:23 =E*R= Sadiko captured the Red Flag
+20-04-20 04:09:26 =E*R= KillMe! added to Game Admins
+20-04-20 04:09:28 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:09:28 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:09:28 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:09:30 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-20 04:09:30 r3v' Mand3s has joined alpha team.
+20-04-20 04:09:32 Divas| Rattle has left spectators
+20-04-20 04:09:34 (2) =E*R= KillMe! killed (1) r3v' Mand3s with LAW
+20-04-20 04:09:35 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with M79
+20-04-20 04:09:35 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:09:35 =E*R= Sadiko scores for Bravo Team
+20-04-20 04:09:37 (1) r3v' Colt killed (2) =E*R= KillMe! with Ak-74
+20-04-20 04:09:37 [r3v' Colt] !r
+20-04-20 04:09:37 Reiniciando...
+20-04-20 04:09:39 [r3v' Colt] Powodzenia!
+20-04-20 04:09:40 (TEAM)[r3v' Mand3s] MID
+20-04-20 04:09:41 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:09:43 Division by Boxo, KC, viral
+20-04-20 04:09:50 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Barrett M82A1
+20-04-20 04:09:51 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:09:53 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:09:54 [r3v' Colt] Come'on!
+20-04-20 04:09:55 r3v' Mand3s captured the Blue Flag
+20-04-20 04:09:55 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:09:57 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:09:57 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:10:02 [UnK] F4ll.cL has left spectators
+20-04-20 04:10:03 (1) r3v' Colt killed (2) =E*R= Sadiko with Ak-74
+20-04-20 04:10:04 r3v' Mand3s returned the Red Flag
+20-04-20 04:10:05 r3v' Mand3s scores for Alpha Team
+20-04-20 04:10:06 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:10:07 177.64.230.62:23073|19B4C672C49 requesting game...
+20-04-20 04:10:08 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:10:08 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:10:14 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:10:15 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:10:15 (1) r3v' Colt killed (2) =E*R= Sadiko with Hands
+20-04-20 04:10:22 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:10:27 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:10:28 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:10:30 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:10:30 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:10:32 r3v' Colt returned the Red Flag
+20-04-20 04:10:38 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:10:39 (1) r3v' Colt killed (2) =E*R= KillMe! with Ak-74
+20-04-20 04:10:39 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:10:39 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:10:45 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:10:47 (1) r3v' Colt killed (2) =E*R= Sadiko with Ak-74
+20-04-20 04:10:48 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:10:48 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:10:48 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:10:49 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:10:50 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:10:53 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:10:57 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:10:57 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:10:58 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:11:04 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:11:05 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:11:05 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:11:11 (2) =E*R= KillMe! killed (1) r3v' Colt with LAW
+20-04-20 04:11:11 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:11:14 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:11:14 =E*R= Sadiko captured the Red Flag
+20-04-20 04:11:15 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:11:17 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with LAW
+20-04-20 04:11:20 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:11:23 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:11:24 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:11:24 =E*R= Sadiko scores for Bravo Team
+20-04-20 04:11:30 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:11:32 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:11:32 r3v' DrK captured the Blue Flag
+20-04-20 04:11:34 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:11:35 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:11:35 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:11:36 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:11:41 r3v' Mand3s captured the Blue Flag
+20-04-20 04:11:41 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:11:42 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:11:43 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:11:44 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:11:47 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:11:47 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:11:52 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:11:55 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:11:56 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:11:58 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:12:03 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:12:06 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:12:09 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:12:09 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:12:11 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with FN Minimi
+20-04-20 04:12:18 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:12:19 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:12:21 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:12:21 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:12:22 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:12:22 (1) r3v' DrK killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:12:25 r3v' DrK captured the Blue Flag
+20-04-20 04:12:26 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:12:28 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:12:29 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:12:30 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:12:31 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:12:32 190.141.131.117:23073|530D2ACCB6F requesting game...
+20-04-20 04:12:33 190.141.131.117:23073|530D2ACCB6F requesting game...
+20-04-20 04:12:37 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:12:37 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:12:39 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:12:39 190.141.131.117:23073|530D2ACCB6F requesting game...
+20-04-20 04:12:41 r3v' DrK captured the Blue Flag
+20-04-20 04:12:43 190.141.131.117:23073|530D2ACCB6F requesting game...
+20-04-20 04:12:47 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:12:47 r3v' DrK scores for Alpha Team
+20-04-20 04:12:48 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:12:51 r3v' Colt captured the Blue Flag
+20-04-20 04:12:53 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:12:54 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:12:54 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:12:56 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:12:57 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:12:58 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:13:01 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:13:03 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:13:08 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:13:17 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:13:19 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Grenade
+20-04-20 04:13:20 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:13:22 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:13:27 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:13:29 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:13:31 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:13:33 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:13:40 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:13:43 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:13:43 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:13:45 r3v' DrK captured the Blue Flag
+20-04-20 04:13:45 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:13:48 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:13:48 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:13:52 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:13:56 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:13:56 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:13:58 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:13:59 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Grenade
+20-04-20 04:14:01 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:14:08 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Barrett M82A1
+20-04-20 04:14:08 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:14:10 (1) r3v' DrK killed (2) =E*R= Sadiko with Barrett M82A1
+20-04-20 04:14:15 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Grenade
+20-04-20 04:14:16 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:14:18 =E*R= KillMe! captured the Red Flag
+20-04-20 04:14:19 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:14:22 r3v' Mand3s returned the Red Flag
+20-04-20 04:14:22 r3v' DrK captured the Blue Flag
+20-04-20 04:14:24 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:14:30 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:14:30 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:14:31 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Barrett M82A1
+20-04-20 04:14:31 r3v' Colt captured the Blue Flag
+20-04-20 04:14:34 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:14:35 (2) =E*R= KillMe! killed (1) r3v' Mand3s with LAW
+20-04-20 04:14:36 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:14:36 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:14:40 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:14:41 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:14:42 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:14:42 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:14:43 Time Left: 5 minutes
+20-04-20 04:14:49 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:14:49 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:14:49 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:14:51 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Grenade
+20-04-20 04:14:56 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:14:56 (2) =E*R= KillMe! killed (1) r3v' Colt with LAW
+20-04-20 04:14:57 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:15:01 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:15:05 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:15:06 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:15:07 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:15:11 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:15:14 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:15:16 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with USSOCOM
+20-04-20 04:15:20 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with USSOCOM
+20-04-20 04:15:20 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:15:21 r3v' Colt captured the Blue Flag
+20-04-20 04:15:21 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with USSOCOM
+20-04-20 04:15:26 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:15:29 (2) =E*R= Sadiko killed (1) r3v' Colt with Combat Knife
+20-04-20 04:15:30 (1) r3v' DrK killed (2) =E*R= Sadiko with Barrett M82A1
+20-04-20 04:15:30 r3v' Mand3s captured the Blue Flag
+20-04-20 04:15:32 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:15:33 r3v' Mand3s captured the Blue Flag
+20-04-20 04:15:33 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with USSOCOM
+20-04-20 04:15:37 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:15:38 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:15:41 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:15:41 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:15:43 Time Left: 4 minutes
+20-04-20 04:15:43 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:15:46 (2) =E*R= KillMe! killed (1) r3v' Mand3s with LAW
+20-04-20 04:15:46 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:15:53 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:15:58 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:16:00 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:16:03 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:16:07 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:16:08 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:16:11 (1) r3v' DrK killed (2) =E*R= Sadiko with Barrett M82A1
+20-04-20 04:16:17 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:16:19 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:16:21 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:16:21 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:16:24 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:16:24 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:16:27 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:16:34 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:16:34 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:16:34 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:16:37 (1) r3v' Colt killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:16:38 (1) r3v' Colt killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:16:43 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:16:43 Time Left: 3 minutes
+20-04-20 04:16:44 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:16:47 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:16:54 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:16:56 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:16:56 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:16:58 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:17:02 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:17:02 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:17:07 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:17:10 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:17:10 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:17:10 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with USSOCOM
+20-04-20 04:17:16 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:17:16 r3v' Mand3s captured the Blue Flag
+20-04-20 04:17:17 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:17:18 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:17:19 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:17:23 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:17:25 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:17:25 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:17:30 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:17:30 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:17:33 =E*R= Sadiko captured the Red Flag
+20-04-20 04:17:35 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Combat Knife
+20-04-20 04:17:41 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:17:42 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:17:43 Time Left: 2 minutes
+20-04-20 04:17:45 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:17:45 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:17:47 r3v' Mand3s returned the Red Flag
+20-04-20 04:17:51 (1) r3v' DrK killed (2) =E*R= KillMe! with Barrett M82A1
+20-04-20 04:17:51 (TEAM)[=E*R= KillMe!] MID
+20-04-20 04:17:52 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:17:52 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:17:54 r3v' DrK captured the Blue Flag
+20-04-20 04:17:59 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:17:59 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:18:00 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:18:01 r3v' DrK returned the Red Flag
+20-04-20 04:18:01 r3v' DrK scores for Alpha Team
+20-04-20 04:18:04 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:18:07 190.247.181.75:23073|3A311164DFE requesting game...
+20-04-20 04:18:09 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:18:09 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:18:10 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:18:12 r3v' Colt returned the Red Flag
+20-04-20 04:18:16 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:18:18 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:18:21 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:18:24 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:18:26 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:18:28 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:18:31 (1) r3v' DrK killed (2) =E*R= KillMe! with Barrett M82A1
+20-04-20 04:18:35 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:18:38 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:18:41 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:18:41 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:18:42 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:18:43 Time Left: 1 minutes
+20-04-20 04:18:45 =E*R= KillMe! captured the Red Flag
+20-04-20 04:18:46 190.191.99.138:23073|207AB11F127 requesting game...
+20-04-20 04:18:46 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:18:46 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:18:49 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Barrett M82A1
+20-04-20 04:18:53 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Barrett M82A1
+20-04-20 04:18:57 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:19:01 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:19:01 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Barrett M82A1
+20-04-20 04:19:03 (2) =E*R= KillMe! killed (1) r3v' Colt with LAW
+20-04-20 04:19:04 r3v' Mand3s returned the Red Flag
+20-04-20 04:19:05 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:19:08 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:19:15 (1) r3v' Mand3s killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:19:15 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Barrett M82A1
+20-04-20 04:19:18 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:19:18 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:19:18 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:19:19 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:19:23 =E*R= KillMe! captured the Red Flag
+20-04-20 04:19:24 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Ruger 77
+20-04-20 04:19:27 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:19:29 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:19:30 =E*R= KillMe! scores for Bravo Team
+20-04-20 04:19:30 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:19:32 (1) r3v' Mand3s killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:19:34 r3v' Mand3s captured the Blue Flag
+20-04-20 04:19:34 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:19:38 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:19:42 (2) =E*R= Sadiko killed (1) r3v' Colt with Hands
+20-04-20 04:19:42 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:19:43 Next map: Lobby
+20-04-20 04:19:49 Lothic - Gothic Lobby Room
+20-04-20 04:20:02 [r3v' Colt] what was urs?
+20-04-20 04:20:02 [r3v' DrK] map?
+20-04-20 04:20:06 [=E*R= Chaky//<3K] guardian
+20-04-20 04:20:08 [=E*R= Sadiko] !MAP guardian
+20-04-20 04:20:09 (TEAM)[r3v' Mand3s] MID
+20-04-20 04:20:13 ctf_Guardian by SuoW
+20-04-20 04:20:17 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:20:18 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:20:19 [=E*R= KillMe!] !r
+20-04-20 04:20:19 Reiniciando...
+20-04-20 04:20:24 ctf_Guardian by SuoW
+20-04-20 04:20:28 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:20:29 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:20:29 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:20:31 [=E*R= KillMe!] !r
+20-04-20 04:20:31 Reiniciando...
+20-04-20 04:20:34 [=E*R= KillMe!] sry 
+20-04-20 04:20:36 ctf_Guardian by SuoW
+20-04-20 04:20:36 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 04:20:40 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:20:41 [r3v' Colt] !R
+20-04-20 04:20:41 Reiniciando...
+20-04-20 04:20:44 [r3v' Colt] wrong bututn
+20-04-20 04:20:45 [=E*R= KillMe!] go guys
+20-04-20 04:20:47 ctf_Guardian by SuoW
+20-04-20 04:20:51 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with LAW
+20-04-20 04:20:53 (1) r3v' Mand3s killed (2) =E*R= Sadiko with LAW
+20-04-20 04:20:53 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:20:55 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:20:55 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:20:56 r3v' Mand3s captured the Blue Flag
+20-04-20 04:20:58 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:21:02 r3v' Mand3s scores for Alpha Team
+20-04-20 04:21:04 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:21:04 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:21:06 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:21:07 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 04:21:07 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:21:11 =E*R= Sadiko captured the Red Flag
+20-04-20 04:21:11 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:21:14 (1) r3v' DrK killed (2) =E*R= Sadiko with Ruger 77
+20-04-20 04:21:14 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:21:17 r3v' DrK returned the Red Flag
+20-04-20 04:21:18 r3v' Mand3s captured the Blue Flag
+20-04-20 04:21:22 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:21:22 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:21:25 r3v' Mand3s scores for Alpha Team
+20-04-20 04:21:26 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:21:27 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:21:27 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:21:31 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:21:34 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:21:35 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:21:37 =E*R= KillMe! captured the Red Flag
+20-04-20 04:21:38 r3v' Mand3s captured the Blue Flag
+20-04-20 04:21:38 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:21:42 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:21:42 r3v' Mand3s returned the Red Flag
+20-04-20 04:21:44 r3v' Mand3s scores for Alpha Team
+20-04-20 04:21:44 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:21:46 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:21:48 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:21:51 r3v' Mand3s captured the Blue Flag
+20-04-20 04:21:51 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:21:52 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:21:53 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:21:54 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:21:57 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:21:57 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:21:59 r3v' Colt captured the Blue Flag
+20-04-20 04:22:01 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:22:01 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:22:01 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:22:05 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:22:05 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:22:07 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:22:13 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:22:15 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:22:15 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Spas-12
+20-04-20 04:22:15 r3v' DrK captured the Blue Flag
+20-04-20 04:22:17 (TEAM)[=E*R= KillMe!] DOWN
+20-04-20 04:22:17 r3v' Mand3s captured the Blue Flag
+20-04-20 04:22:20 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:22:23 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:22:23 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:22:24 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:22:26 r3v' Colt captured the Blue Flag
+20-04-20 04:22:27 r3v' Colt scores for Alpha Team
+20-04-20 04:22:27 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:22:30 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:22:31 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:22:31 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:22:35 r3v' Mand3s captured the Blue Flag
+20-04-20 04:22:36 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:22:37 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:22:37 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:22:39 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:22:42 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:22:46 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:22:47 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:22:47 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:22:49 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:22:55 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:22:56 r3v' Mand3s captured the Blue Flag
+20-04-20 04:22:57 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:22:59 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:23:02 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:23:02 r3v' Mand3s scores for Alpha Team
+20-04-20 04:23:04 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:23:04 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:23:05 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:23:10 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:23:12 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:23:14 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:23:14 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:23:16 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:23:20 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:23:20 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:23:21 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:23:22 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:23:22 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Spas-12
+20-04-20 04:23:22 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:23:29 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:23:30 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:23:31 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:23:31 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:23:32 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:23:34 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with LAW
+20-04-20 04:23:36 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:23:37 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:23:37 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:23:40 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:23:42 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:23:44 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:23:47 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:23:49 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:23:50 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:23:51 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:23:53 r3v' DrK captured the Blue Flag
+20-04-20 04:23:54 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:23:55 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:23:58 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:23:59 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:23:59 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:24:01 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:24:03 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:24:05 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:24:06 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:24:07 =E*R= Sadiko captured the Red Flag
+20-04-20 04:24:09 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:24:10 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with LAW
+20-04-20 04:24:10 =E*R= Sadiko scores for Bravo Team
+20-04-20 04:24:12 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:24:15 r3v' Mand3s captured the Blue Flag
+20-04-20 04:24:17 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:24:17 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:24:17 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:24:19 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:24:19 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:24:23 =E*R= Sadiko captured the Red Flag
+20-04-20 04:24:24 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:24:27 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:24:27 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:24:31 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:24:34 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:24:34 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:24:37 =E*R= KillMe! captured the Red Flag
+20-04-20 04:24:39 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:24:41 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:24:42 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:24:43 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:24:44 =E*R= KillMe! captured the Red Flag
+20-04-20 04:24:45 (2) =E*R= Sadiko killed (1) r3v' DrK with LAW
+20-04-20 04:24:47 =E*R= KillMe! scores for Bravo Team
+20-04-20 04:24:50 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:24:52 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:24:53 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:24:53 (2) =E*R= KillMe! killed (1) r3v' Colt with LAW
+20-04-20 04:24:54 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:24:56 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:24:57 r3v' DrK captured the Blue Flag
+20-04-20 04:24:59 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:25:01 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:25:01 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:25:04 r3v' Mand3s captured the Blue Flag
+20-04-20 04:25:07 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:25:08 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:25:09 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:25:10 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:25:12 r3v' Colt returned the Red Flag
+20-04-20 04:25:13 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:25:14 r3v' Mand3s scores for Alpha Team
+20-04-20 04:25:18 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:25:19 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:25:20 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:25:21 r3v' Mand3s captured the Blue Flag
+20-04-20 04:25:27 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:25:28 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:25:28 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:25:29 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:25:31 (1) r3v' DrK killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:25:36 r3v' Colt captured the Blue Flag
+20-04-20 04:25:37 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:25:38 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:25:39 (1) r3v' Mand3s killed (2) =E*R= KillMe! with LAW
+20-04-20 04:25:39 r3v' Colt scores for Alpha Team
+20-04-20 04:25:45 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:25:46 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:25:47 Time Left: 5 minutes
+20-04-20 04:25:47 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:25:48 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:25:48 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:25:49 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:25:51 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:25:54 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:25:56 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:25:58 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:26:00 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:26:01 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:26:02 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:26:07 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:26:09 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:26:12 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:26:12 r3v' DrK captured the Blue Flag
+20-04-20 04:26:14 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:26:15 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:26:17 (2) =E*R= Sadiko killed (1) r3v' DrK with Grenade
+20-04-20 04:26:19 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:26:19 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:26:20 (2) =E*R= Sadiko killed (1) r3v' Colt with LAW
+20-04-20 04:26:20 (1) r3v' Colt killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:26:22 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:26:24 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:26:24 (2) =E*R= KillMe! killed (1) r3v' DrK with LAW
+20-04-20 04:26:26 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:26:29 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:26:29 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:26:33 r3v' DrK returned the Red Flag
+20-04-20 04:26:33 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with LAW
+20-04-20 04:26:35 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:26:38 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:26:38 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:26:40 r3v' DrK captured the Blue Flag
+20-04-20 04:26:40 =E*R= Sadiko captured the Red Flag
+20-04-20 04:26:44 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:26:44 200.163.11.122:23073|6901284EC85 requesting game...
+20-04-20 04:26:45 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:26:45 r3v' Colt returned the Red Flag
+20-04-20 04:26:45 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:26:46 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:26:47 Time Left: 4 minutes
+20-04-20 04:26:49 =E*R= KillMe! captured the Red Flag
+20-04-20 04:26:49 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:26:51 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:26:51 r3v' Mand3s returned the Red Flag
+20-04-20 04:26:52 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:26:53 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:26:53 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:26:55 (2) =E*R= Sadiko killed (1) r3v' DrK with LAW
+20-04-20 04:27:00 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:27:01 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:27:01 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:27:03 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:27:03 r3v' Colt captured the Blue Flag
+20-04-20 04:27:05 (1) r3v' Mand3s killed (2) =E*R= KillMe! with Spas-12
+20-04-20 04:27:05 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:27:08 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:27:11 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:27:11 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:27:12 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:27:13 =E*R= Chaky//<3K returned the Blue Flag
+20-04-20 04:27:13 [r3v' Colt] Son of a bitch!
+20-04-20 04:27:14 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Grenade
+20-04-20 04:27:14 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:27:19 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:27:20 =E*R= Chaky//<3K scores for Bravo Team
+20-04-20 04:27:21 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:27:22 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Spas-12
+20-04-20 04:27:23 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:27:23 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Ruger 77
+20-04-20 04:27:26 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:27:29 (2) =E*R= Sadiko killed (1) r3v' Colt with LAW
+20-04-20 04:27:30 r3v' DrK captured the Blue Flag
+20-04-20 04:27:31 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with Grenade
+20-04-20 04:27:31 (1) r3v' Mand3s killed (2) =E*R= Chaky//<3K with Spas-12
+20-04-20 04:27:35 (1) r3v' Mand3s killed (2) =E*R= Sadiko with Spas-12
+20-04-20 04:27:39 (1) r3v' Colt killed (2) =E*R= KillMe! with HK MP5
+20-04-20 04:27:40 r3v' DrK scores for Alpha Team
+20-04-20 04:27:42 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:27:44 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:27:46 r3v' Mand3s captured the Blue Flag
+20-04-20 04:27:46 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:27:47 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:27:47 Time Left: 3 minutes
+20-04-20 04:27:48 (2) =E*R= Sadiko killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:27:53 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:27:54 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:27:54 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:27:55 (2) =E*R= KillMe! killed (1) r3v' Mand3s with Desert Eagles
+20-04-20 04:27:57 =E*R= Sadiko captured the Red Flag
+20-04-20 04:27:58 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:27:59 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:28:00 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:28:03 r3v' Mand3s captured the Blue Flag
+20-04-20 04:28:04 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:28:04 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:28:06 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:28:09 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:28:11 (1) r3v' Mand3s killed (2) =E*R= KillMe! with LAW
+20-04-20 04:28:12 r3v' DrK returned the Red Flag
+20-04-20 04:28:12 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:28:14 r3v' Mand3s scores for Alpha Team
+20-04-20 04:28:14 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:28:16 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:28:18 =E*R= Sadiko captured the Red Flag
+20-04-20 04:28:18 (2) =E*R= Chaky//<3K killed (1) r3v' Mand3s with LAW
+20-04-20 04:28:20 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:28:25 (2) =E*R= KillMe! killed (1) r3v' Mand3s with LAW
+20-04-20 04:28:25 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:28:26 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:28:26 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:28:27 r3v' DrK returned the Red Flag
+20-04-20 04:28:27 r3v' DrK captured the Blue Flag
+20-04-20 04:28:29 (TEAM)[=E*R= KillMe!] DOWN
+20-04-20 04:28:29 (TEAM)[=E*R= KillMe!] TOP
+20-04-20 04:28:33 Next map: Lobby
+20-04-20 04:28:33 r3v' DrK scores for Alpha Team
+20-04-20 04:28:39 Lothic - Gothic Lobby Room
+20-04-20 04:28:44 [r3v' Mand3s] !map ctf_IceBeam
+20-04-20 04:28:49 IceBeam by Zakath, Suow, Poop
+20-04-20 04:28:53 [r3v' Colt] Powodzenia!
+20-04-20 04:28:54 [r3v' Colt] !r
+20-04-20 04:28:54 Reiniciando...
+20-04-20 04:29:00 IceBeam by Zakath, Suow, Poop
+20-04-20 04:29:02 r3v' Coco has joined alpha team.
+20-04-20 04:29:04 [r3v' Mand3s] !s
+20-04-20 04:29:04 r3v' Mand3s has joined spectators.
+20-04-20 04:29:06 [r3v' Coco] !r
+20-04-20 04:29:06 Reiniciando...
+20-04-20 04:29:07 [r3v' Colt] Powodzenia!
+20-04-20 04:29:12 IceBeam by Zakath, Suow, Poop
+20-04-20 04:29:18 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:29:18 (2) =E*R= KillMe! killed (1) r3v' Coco with Grenade
+20-04-20 04:29:19 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:29:23 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:29:24 (1) r3v' Coco killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:29:27 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:29:28 r3v' Colt captured the Blue Flag
+20-04-20 04:29:31 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:29:34 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:29:35 r3v' Colt captured the Blue Flag
+20-04-20 04:29:37 r3v' Colt scores for Alpha Team
+20-04-20 04:29:38 r3v' Coco captured the Blue Flag
+20-04-20 04:29:40 (2) =E*R= KillMe! killed (1) r3v' Coco with Desert Eagles
+20-04-20 04:29:42 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:29:44 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:29:45 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:29:46 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:29:47 =E*R= KillMe! captured the Red Flag
+20-04-20 04:29:47 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:29:47 r3v' Colt captured the Blue Flag
+20-04-20 04:29:48 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:29:49 (1) r3v' Coco killed (2) =E*R= Sadiko with FN Minimi
+20-04-20 04:29:49 r3v' Coco captured the Blue Flag
+20-04-20 04:29:50 r3v' Colt returned the Red Flag
+20-04-20 04:29:52 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:29:53 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:29:54 r3v' Coco scores for Alpha Team
+20-04-20 04:29:57 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:29:57 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:29:58 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:30:02 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:30:02 [r3v' Colt] Come'on!
+20-04-20 04:30:07 (1) r3v' Coco killed (2) =E*R= KillMe! with FN Minimi
+20-04-20 04:30:09 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:30:12 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:30:14 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:30:14 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:30:16 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:30:16 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:30:21 (2) =E*R= KillMe! killed (1) r3v' Coco with Grenade
+20-04-20 04:30:22 (2) =E*R= KillMe! killed (1) r3v' DrK with Desert Eagles
+20-04-20 04:30:25 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:30:26 136.35.209.184:23073|48EF4A6A20E requesting game...
+20-04-20 04:30:27 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:30:27 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:30:28 136.35.209.184:23073|48EF4A6A20E requesting game...
+20-04-20 04:30:28 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:30:29 136.35.209.184:23073|48EF4A6A20E requesting game...
+20-04-20 04:30:30 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:30:31 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:30:35 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:30:35 (2) =E*R= KillMe! killed (1) r3v' Coco with Grenade
+20-04-20 04:30:36 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:30:36 r3v' DrK returned the Red Flag
+20-04-20 04:30:39 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:30:39 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:30:44 (1) r3v' Coco killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:30:45 (2) =E*R= KillMe! killed (1) r3v' Coco with Desert Eagles
+20-04-20 04:30:46 (2) =E*R= KillMe! killed (1) r3v' Colt with Desert Eagles
+20-04-20 04:30:46 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:30:47 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:30:54 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:30:56 (1) r3v' Coco killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:30:57 (2) =E*R= KillMe! killed (1) r3v' Coco with Desert Eagles
+20-04-20 04:30:58 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:31:03 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:31:05 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:31:06 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 04:31:08 (1) r3v' Coco killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:31:09 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:31:09 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:31:13 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:31:17 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:31:17 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:31:20 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:31:22 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:31:23 (2) =E*R= KillMe! killed (1) r3v' Coco with Grenade
+20-04-20 04:31:27 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:31:29 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:31:30 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:31:31 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:31:32 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:31:33 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:31:39 (2) =E*R= KillMe! killed (1) r3v' Coco with Desert Eagles
+20-04-20 04:31:39 (1) r3v' Coco killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:31:42 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:31:42 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:31:47 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:31:47 (1) r3v' Coco killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:31:48 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 04:31:49 (1) r3v' Coco killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:31:52 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:31:55 (1) r3v' Coco killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:31:57 (2) =E*R= KillMe! killed (1) r3v' Coco with Desert Eagles
+20-04-20 04:31:59 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:32:00 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:32:01 r3v' DrK captured the Blue Flag
+20-04-20 04:32:02 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:32:02 r3v' Coco captured the Blue Flag
+20-04-20 04:32:05 r3v' Coco scores for Alpha Team
+20-04-20 04:32:05 r3v' Colt captured the Blue Flag
+20-04-20 04:32:05 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:32:10 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with LAW
+20-04-20 04:32:11 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:32:12 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:32:16 (1) r3v' DrK killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:32:17 (1) r3v' Coco killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:32:17 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:32:18 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:32:25 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:32:25 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:32:27 (1) r3v' Coco killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:32:28 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:32:28 r3v' DrK captured the Blue Flag
+20-04-20 04:32:29 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:32:32 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:32:34 [r3v' Mand3s] cow
+20-04-20 04:32:34 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:32:37 r3v' Coco captured the Blue Flag
+20-04-20 04:32:37 r3v' Coco scores for Alpha Team
+20-04-20 04:32:39 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:32:41 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:32:43 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:32:43 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:32:50 (1) r3v' Colt killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:32:51 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:32:52 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:32:53 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:32:53 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:32:55 r3v' DrK captured the Blue Flag
+20-04-20 04:32:58 r3v' Colt captured the Blue Flag
+20-04-20 04:32:58 (2) =E*R= KillMe! killed (1) r3v' DrK with LAW
+20-04-20 04:32:58 (1) r3v' DrK killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:32:59 r3v' Colt scores for Alpha Team
+20-04-20 04:33:01 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:33:02 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:33:02 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:33:04 190.163.6.237:23073|55B53A7B77C requesting game...
+20-04-20 04:33:04 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:33:05 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:33:07 (1) r3v' Coco killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:33:11 (2) =E*R= KillMe! killed (1) r3v' DrK with LAW
+20-04-20 04:33:14 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:33:15 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:33:19 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:33:19 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:33:21 (1) r3v' Colt killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:33:21 (2) =E*R= KillMe! killed (1) r3v' Colt with LAW
+20-04-20 04:33:21 (1) r3v' Coco killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:33:28 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:33:30 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with LAW
+20-04-20 04:33:35 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:33:35 (2) =E*R= Sadiko killed (1) r3v' Colt with Combat Knife
+20-04-20 04:33:36 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:33:37 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:33:37 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:33:46 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:33:46 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:33:47 (2) =E*R= KillMe! killed (1) r3v' DrK with M79
+20-04-20 04:33:49 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:33:53 (1) r3v' DrK killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:33:53 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:33:55 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:34:02 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:34:02 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:34:03 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:34:04 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Grenade
+20-04-20 04:34:05 (TEAM)[r3v' Colt] INC - TOP
+20-04-20 04:34:07 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:34:08 (1) r3v' DrK killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:34:09 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:34:11 Time Left: 5 minutes
+20-04-20 04:34:12 r3v' DrK captured the Blue Flag
+20-04-20 04:34:14 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:34:16 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:34:16 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:34:18 (2) =E*R= KillMe! killed (1) r3v' Colt with Grenade
+20-04-20 04:34:18 (1) r3v' Colt killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:34:19 r3v' DrK captured the Blue Flag
+20-04-20 04:34:21 r3v' DrK scores for Alpha Team
+20-04-20 04:34:25 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:34:27 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:34:29 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:34:30 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:34:31 216.119.160.55:23073|6006A2BDCCD requesting game...
+20-04-20 04:34:32 (2) =E*R= KillMe! killed (1) r3v' DrK with Combat Knife
+20-04-20 04:34:36 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:34:38 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:34:39 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:34:42 (2) =E*R= Sadiko killed (1) r3v' Colt with Combat Knife
+20-04-20 04:34:44 (1) r3v' Coco killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:34:45 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:34:45 =E*R= Chaky//<3K captured the Red Flag
+20-04-20 04:34:47 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:34:49 r3v' DrK captured the Blue Flag
+20-04-20 04:34:51 r3v' DrK returned the Red Flag
+20-04-20 04:34:52 (2) =E*R= Sadiko killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:34:54 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:34:57 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:34:59 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:35:00 (2) =E*R= KillMe! killed (1) r3v' DrK with M79
+20-04-20 04:35:01 =E*R= Sadiko returned the Blue Flag
+20-04-20 04:35:07 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:35:07 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:35:09 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:35:11 Time Left: 4 minutes
+20-04-20 04:35:11 (2) =E*R= KillMe! killed (1) r3v' DrK with M79
+20-04-20 04:35:13 =E*R= Sadiko captured the Red Flag
+20-04-20 04:35:14 (1) r3v' Coco killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:35:18 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:35:19 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:35:19 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:35:21 =E*R= Sadiko captured the Red Flag
+20-04-20 04:35:24 =E*R= Sadiko scores for Bravo Team
+20-04-20 04:35:25 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:35:26 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:35:27 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:35:31 r3v' DrK captured the Blue Flag
+20-04-20 04:35:32 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:35:32 r3v' Colt captured the Blue Flag
+20-04-20 04:35:34 r3v' Colt scores for Alpha Team
+20-04-20 04:35:34 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:35:37 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:35:40 (2) =E*R= Sadiko killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:35:40 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:35:41 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:35:46 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:35:46 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:35:51 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:35:54 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:35:54 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:35:55 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:35:55 (1) r3v' Colt killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:36:00 (1) r3v' Coco killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:36:02 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:36:06 (2) =E*R= KillMe! killed (1) r3v' DrK with M79
+20-04-20 04:36:06 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:36:11 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:36:11 (1) r3v' Coco killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:36:11 Time Left: 3 minutes
+20-04-20 04:36:12 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:36:12 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:36:14 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:36:21 (1) r3v' Colt killed (2) =E*R= Sadiko with Steyr AUG
+20-04-20 04:36:21 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:36:22 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:36:23 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Ruger 77
+20-04-20 04:36:23 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:36:23 [=E*R= KillMe!] Come'on!
+20-04-20 04:36:28 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:36:30 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:36:31 r3v' DrK captured the Blue Flag
+20-04-20 04:36:32 (2) =E*R= Sadiko killed (1) r3v' Coco with Steyr AUG
+20-04-20 04:36:32 (1) r3v' Coco killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:36:37 (2) =E*R= KillMe! killed (1) r3v' DrK with Grenade
+20-04-20 04:36:39 (1) r3v' Colt killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:36:39 r3v' Coco captured the Blue Flag
+20-04-20 04:36:39 r3v' Coco scores for Alpha Team
+20-04-20 04:36:40 r3v' Coco returned the Red Flag
+20-04-20 04:36:41 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:36:41 r3v' Colt captured the Blue Flag
+20-04-20 04:36:42 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:36:43 [r3v' Colt] Come'on!
+20-04-20 04:36:45 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Steyr AUG
+20-04-20 04:36:50 (2) =E*R= KillMe! killed (1) r3v' DrK with M79
+20-04-20 04:36:51 179.56.104.34:23073|5D8DFFFE24D requesting game...
+20-04-20 04:36:51 (2) =E*R= Chaky//<3K killed (1) r3v' Coco with Grenade
+20-04-20 04:36:54 179.56.104.34:23073|5D8DFFFE24D requesting game...
+20-04-20 04:36:54 =E*R= KillMe! captured the Red Flag
+20-04-20 04:36:56 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:36:58 (2) =E*R= Chaky//<3K killed (1) r3v' Colt with Ruger 77
+20-04-20 04:36:59 (1) r3v' Coco killed (2) =E*R= Sadiko with HK MP5
+20-04-20 04:37:00 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Grenade
+20-04-20 04:37:02 =E*R= KillMe! captured the Red Flag
+20-04-20 04:37:03 =E*R= KillMe! returned the Blue Flag
+20-04-20 04:37:04 =E*R= KillMe! scores for Bravo Team
+20-04-20 04:37:06 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:37:06 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Grenade
+20-04-20 04:37:08 (2) =E*R= KillMe! killed (1) r3v' Coco with M79
+20-04-20 04:37:11 (2) =E*R= Sadiko killed (1) r3v' Colt with Grenade
+20-04-20 04:37:11 (1) r3v' Colt killed (2) =E*R= Sadiko with Grenade
+20-04-20 04:37:11 Time Left: 2 minutes
+20-04-20 04:37:13 (1) r3v' DrK killed (2) =E*R= KillMe! with Steyr AUG
+20-04-20 04:37:18 (1) r3v' Coco killed (2) =E*R= Chaky//<3K with HK MP5
+20-04-20 04:37:19 (1) r3v' DrK killed (2) =E*R= KillMe! with Grenade
+20-04-20 04:37:21 (TEAM)[=E*R= KillMe!] DOWN
+20-04-20 04:37:21 (2) =E*R= Sadiko killed (1) r3v' Coco with Grenade
+20-04-20 04:37:22 (1) r3v' DrK killed (2) =E*R= Chaky//<3K with Combat Knife
+20-04-20 04:37:23 r3v' DrK captured the Blue Flag
+20-04-20 04:37:25 (1) r3v' Coco killed (2) =E*R= Sadiko with Combat Knife
+20-04-20 04:37:26 (1) r3v' DrK killed (2) =E*R= KillMe! with Combat Knife
+20-04-20 04:37:27 r3v' Coco captured the Blue Flag
+20-04-20 04:37:27 r3v' Coco scores for Alpha Team
+20-04-20 04:37:28 r3v' Colt captured the Blue Flag
+20-04-20 04:37:31 (2) =E*R= Chaky//<3K killed (1) r3v' DrK with Ruger 77
+20-04-20 04:37:31 r3v' Coco captured the Blue Flag
+20-04-20 04:37:33 Next map: Lobby
+20-04-20 04:37:33 r3v' Coco scores for Alpha Team
+20-04-20 04:37:36 [=E*R= Chaky//<3K] eat eat eat
+20-04-20 04:37:38 Lothic - Gothic Lobby Room
+20-04-20 04:37:39 =E*R= Sadiko has left bravo team.
+20-04-20 04:37:40 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 04:37:41 r3v' DrK has left alpha team.
+20-04-20 04:37:41 r3v' Mand3s has left spectators
+20-04-20 04:37:42 =E*R= KillMe! has left bravo team.
+20-04-20 04:37:43 r3v' Colt has left alpha team.
+20-04-20 04:37:43 =E*R= Chaky//<3K has left bravo team.
+20-04-20 04:37:44 [r3v' Coco] ggs
+20-04-20 04:37:45 r3v' Coco has left alpha team.
+20-04-20 04:38:25 179.56.104.34:23073|5D8DFFFE24D requesting game...
+20-04-20 04:42:38 Time Left: 5 minutes
+20-04-20 04:43:24 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-20 04:43:27 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-20 04:43:29 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:43:38 Time Left: 4 minutes
+20-04-20 04:43:58 71.197.241.72:23073|571FCAC6D9F requesting game...
+20-04-20 04:44:38 Time Left: 3 minutes
+20-04-20 04:45:38 Time Left: 2 minutes
+20-04-20 04:46:38 Time Left: 1 minutes
+20-04-20 04:46:41 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:47:22 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:47:38 Next map: Lobby
+20-04-20 04:47:41 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-20 04:47:43 Lothic - Gothic Lobby Room
+20-04-20 04:48:08 Admin connected (191.126.60.207).
+20-04-20 04:48:08 /friendlyfire (191.126.60.207)
+20-04-20 04:48:08 Friendly Fire is 0
+20-04-20 04:48:08 /bonus (191.126.60.207)
+20-04-20 04:48:08 Current bonus frequency is 0
+20-04-20 04:48:08 /vote% (191.126.60.207)
+20-04-20 04:48:08 Voting percent is 60
+20-04-20 04:48:08 /respawntime (191.126.60.207)
+20-04-20 04:48:08 Respawn time is 3 seconds
+20-04-20 04:48:08 /maxrespawntime (191.126.60.207)
+20-04-20 04:48:08 Maximum Respawn time is 5 seconds
+20-04-20 04:48:16 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:48:17 /password scl (191.126.60.207)
+20-04-20 04:48:17 Server password changed to scl
+20-04-20 04:48:34 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 04:48:36 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-20 04:48:36 r3v' Mand3s has joined bravo team.
+20-04-20 04:49:02 71.197.241.72:23073|571FCAC6D9F requesting game...
+20-04-20 04:49:04 r3v' Colt joining game (71.197.241.72:23073) HWID:571FCAC6D9F
+20-04-20 04:49:04 r3v' Colt has joined bravo team.
+20-04-20 04:49:10 74.70.163.11:23073|67CF33CB295 requesting game...
+20-04-20 04:49:12 r3v' Coco joining game (74.70.163.11:23073) HWID:67CF33CB295
+20-04-20 04:49:12 r3v' Coco has joined bravo team.
+20-04-20 04:49:29 190.44.128.116:23073|1F387DCE705 requesting game...
+20-04-20 04:49:33 S2 ~ patuzhO* joining game (190.44.128.116:23073) HWID:1F387DCE705
+20-04-20 04:49:33 S2 ~ patuzhO* has joined alpha team.
+20-04-20 04:49:34 S2 ~ patuzhO* is flooding the server
+20-04-20 04:49:35 S2 ~ patuzhO* is flooding the server
+20-04-20 04:49:36 S2 ~ patuzhO* joining game (190.44.128.116:23073) HWID:1F387DCE705
+20-04-20 04:49:36 S2 ~ patuzhO* has joined alpha team.
+20-04-20 04:49:40 [r3v' Colt] !tb
+20-04-20 04:49:45 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-20 04:49:46 S2 ~ bio joining game (201.239.28.137:23073) HWID:3E87BD17409
+20-04-20 04:49:46 S2 ~ bio has joined as spectator.
+20-04-20 04:49:48 [r3v' Mand3s] 1a
+20-04-20 04:49:49 [r3v' Mand3s] !a
+20-04-20 04:49:49 r3v' Mand3s has joined alpha team.
+20-04-20 04:49:52 r3v' Coco has joined alpha team.
+20-04-20 04:49:57 177.192.105.151:23073|3316E727D63 requesting game...
+20-04-20 04:49:57 [r3v' Colt] !a
+20-04-20 04:49:57 r3v' Colt has joined alpha team.
+20-04-20 04:49:57 r3v' DrK joining game (177.192.105.151:23073) HWID:3316E727D63
+20-04-20 04:49:57 r3v' DrK has joined as spectator.
+20-04-20 04:50:08 [S2 ~ bio] !b
+20-04-20 04:50:08 S2 ~ bio has joined bravo team.
+20-04-20 04:50:12 r3v' DrK has left spectators
+20-04-20 04:50:13 177.192.105.151:23073|3316E727D63 requesting game...
+20-04-20 04:50:14 r3v' DrK joining game (177.192.105.151:23073) HWID:3316E727D63
+20-04-20 04:50:14 r3v' DrK has joined as spectator.
+20-04-20 04:50:18 201.241.245.222:23073|2D6052AB6EA requesting game...
+20-04-20 04:50:24 (1) r3v' Colt killed (2) S2 ~ bio with M79
+20-04-20 04:50:25 S2 ~ patuzhO* has joined bravo team.
+20-04-20 04:50:26 S2 ~ DeFkOndOz* joining game (201.241.245.222:23073) HWID:2D6052AB6EA
+20-04-20 04:50:26 S2 ~ DeFkOndOz* has joined bravo team.
+20-04-20 04:50:33 [r3v' Mand3s] ban
+20-04-20 04:50:34 [r3v' Mand3s] spark
+20-04-20 04:50:36 119.18.7.20:23073|3F0FC90CE9E requesting game...
+20-04-20 04:50:38 *dennis rodman joining game (119.18.7.20:23073) HWID:3F0FC90CE9E
+20-04-20 04:50:38 *dennis rodman has joined as spectator.
+20-04-20 04:50:40 [r3v' Mand3s] ustedes?
+20-04-20 04:50:47 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Barrett M82A1
+20-04-20 04:50:55 S2 ~ DeFkOndOz* has left bravo team.
+20-04-20 04:50:56 201.241.245.222:23073|2D6052AB6EA requesting game...
+20-04-20 04:50:58 S2 ~ DeFkOndOz* joining game (201.241.245.222:23073) HWID:2D6052AB6EA
+20-04-20 04:50:58 S2 ~ DeFkOndOz* has joined bravo team.
+20-04-20 04:51:05 [*dennis rodman] its me
+20-04-20 04:51:06 [*dennis rodman] you idiot
+20-04-20 04:51:20 [r3v' Coco] i dont know u
+20-04-20 04:51:32 [*dennis rodman] LMAOP
+20-04-20 04:51:43 [r3v' Colt] LOLOLO
+20-04-20 04:51:45 [r3v' Coco] ASDASDAS
+20-04-20 04:51:46 [r3v' Coco] XDXD
+20-04-20 04:51:55 176.40.233.68:63875|5F98E9034B3 requesting game...
+20-04-20 04:51:57 [S2 ~ patuzhO*] les baneamos guardian
+20-04-20 04:52:06 [r3v' Coco] ib ours
+20-04-20 04:52:18 [S2 ~ patuzhO*] laos
+20-04-20 04:52:20 72.180.149.124:23073|4D2739B4E4C requesting game...
+20-04-20 04:52:21 [S2 ~ patuzhO*] nosotros
+20-04-20 04:52:21 *cAppY ExOtiC joining game (72.180.149.124:23073) HWID:4D2739B4E4C
+20-04-20 04:52:21 *cAppY ExOtiC has joined as spectator.
+20-04-20 04:52:26 r3v' Coco has joined spectators.
+20-04-20 04:52:36 201.239.114.206:50696|42442391B2F requesting game...
+20-04-20 04:52:37 S2 ~ Opazo* joining game (201.239.114.206:50696) HWID:42442391B2F
+20-04-20 04:52:37 S2 ~ Opazo* has joined as spectator.
+20-04-20 04:52:40 [*cAppY ExOtiC] gl r3v!!!!
+20-04-20 04:52:43 [r3v' Colt] !MAP ICEBEAM
+20-04-20 04:52:43 Time Left: 5 minutes
+20-04-20 04:52:46 [S2 ~ patuzhO*] sec
+20-04-20 04:52:49 IceBeam by Zakath, Suow, Poop
+20-04-20 04:52:54 (TEAM)[*cAppY ExOtiC] gov
+20-04-20 04:52:58 (TEAM)[*dennis rodman] yo
+20-04-20 04:52:59 (TEAM)[*cAppY ExOtiC] love the nick
+20-04-20 04:52:59 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:53:00 r3v' Colt captured the Blue Flag
+20-04-20 04:53:01 r3v' DrK has joined alpha team.
+20-04-20 04:53:01 (TEAM)[*dennis rodman] ty
+20-04-20 04:53:07 r3v' DrK captured the Blue Flag
+20-04-20 04:53:07 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:53:12 (2) S2 ~ bio killed (1) r3v' Mand3s with Grenade
+20-04-20 04:53:13 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Hands
+20-04-20 04:53:13 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Hands
+20-04-20 04:53:15 181.43.208.218:23073|45F50EB366A requesting game...
+20-04-20 04:53:22 r3v' DrK captured the Blue Flag
+20-04-20 04:53:25 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:53:26 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:53:27 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:53:33 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:53:36 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:53:37 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 04:53:37 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:53:39 r3v' Mand3s captured the Blue Flag
+20-04-20 04:53:41 r3v' Mand3s scores for Alpha Team
+20-04-20 04:53:44 r3v' Colt captured the Blue Flag
+20-04-20 04:53:47 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 04:53:48 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:53:48 r3v' DrK captured the Blue Flag
+20-04-20 04:53:51 r3v' DrK scores for Alpha Team
+20-04-20 04:53:53 [S2 ~ patuzhO*] go
+20-04-20 04:53:55 [S2 ~ patuzhO*] !r
+20-04-20 04:53:55 Reiniciando...
+20-04-20 04:53:56 [S2 ~ patuzhO*] gogo
+20-04-20 04:53:58 [r3v' Colt] Powodzenia!
+20-04-20 04:54:00 IceBeam by Zakath, Suow, Poop
+20-04-20 04:54:00 (TEAM)[*cAppY ExOtiC] 300 ping yikers
+20-04-20 04:54:06 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:54:06 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:54:07 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:54:09 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:54:09 (TEAM)[*dennis rodman] dude
+20-04-20 04:54:10 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 04:54:12 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 04:54:12 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 04:54:12 (2) S2 ~ bio killed (1) r3v' DrK with Grenade
+20-04-20 04:54:17 (1) r3v' Mand3s killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:54:20 (TEAM)[*dennis rodman] gather na servers fucking annoying
+20-04-20 04:54:21 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:54:22 (TEAM)[*dennis rodman] so bad
+20-04-20 04:54:23 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 04:54:25 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 04:54:26 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:54:28 r3v' Colt returned the Red Flag
+20-04-20 04:54:29 S2 ~ patuzhO* captured the Red Flag
+20-04-20 04:54:30 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:54:32 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 04:54:32 (1) r3v' Mand3s killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:54:34 S2 ~ DeFkOndOz* scores for Bravo Team
+20-04-20 04:54:34 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 04:54:34 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:54:34 (TEAM)[*dennis rodman] keeps going from 200 to 266
+20-04-20 04:54:38 S2 ~ bio returned the Blue Flag
+20-04-20 04:54:39 (TEAM)[*cAppY ExOtiC] ye
+20-04-20 04:54:39 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:54:42 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:54:46 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:54:47 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 04:54:49 (2) S2 ~ bio killed (1) r3v' DrK with Grenade
+20-04-20 04:54:51 *dennis rodman gets a ping warning
+20-04-20 04:54:52 (TEAM)[*cAppY ExOtiC] pub servers r so much better
+20-04-20 04:54:52 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:54:54 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:54:54 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Grenade
+20-04-20 04:54:55 (2) S2 ~ bio killed (1) r3v' DrK with Grenade
+20-04-20 04:54:57 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 04:54:57 (RADIO)[r3v' DrK] Enemy spotted down!
+20-04-20 04:54:58 S2 ~ bio captured the Red Flag
+20-04-20 04:55:00 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:55:02 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 04:55:04 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:55:06 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 04:55:07 S2 ~ DeFkOndOz* scores for Bravo Team
+20-04-20 04:55:10 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:55:11 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:55:12 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 04:55:12 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 04:55:15 (2) S2 ~ bio killed (1) r3v' DrK with Grenade
+20-04-20 04:55:16 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 04:55:16 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 04:55:23 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:55:24 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:55:25 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:55:26 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 04:55:26 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:55:28 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:55:37 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:55:39 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:55:41 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:55:41 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:55:42 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:55:46 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:55:48 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:55:49 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 04:55:52 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 04:55:55 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 04:55:57 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:55:58 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:55:59 r3v' DrK captured the Blue Flag
+20-04-20 04:56:03 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 04:56:03 (1) r3v' Mand3s killed (2) S2 ~ bio with Combat Knife
+20-04-20 04:56:08 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:56:10 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:56:10 r3v' DrK captured the Blue Flag
+20-04-20 04:56:10 r3v' DrK scores for Alpha Team
+20-04-20 04:56:11 (1) r3v' Colt killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:56:12 r3v' Colt captured the Blue Flag
+20-04-20 04:56:14 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:56:19 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:56:19 (2) S2 ~ bio killed (1) r3v' Mand3s with Grenade
+20-04-20 04:56:21 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 04:56:21 (1) r3v' Colt killed (2) S2 ~ bio with Grenade
+20-04-20 04:56:22 r3v' Colt captured the Blue Flag
+20-04-20 04:56:22 (TEAM)[*cAppY ExOtiC] is r3v gonna win the cup
+20-04-20 04:56:24 r3v' Colt scores for Alpha Team
+20-04-20 04:56:24 r3v' DrK captured the Blue Flag
+20-04-20 04:56:25 (TEAM)[*cAppY ExOtiC] coco
+20-04-20 04:56:28 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:56:29 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 04:56:30 (1) r3v' Mand3s killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:56:33 r3v' DrK scores for Alpha Team
+20-04-20 04:56:33 (TEAM)[r3v' Coco] we lost vs d4sh
+20-04-20 04:56:34 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:56:37 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Combat Knife
+20-04-20 04:56:37 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:56:40 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:56:41 (1) r3v' DrK killed (2) S2 ~ bio with Steyr AUG
+20-04-20 04:56:42 [r3v' DrK] !po
+20-04-20 04:56:43 [r3v' DrK] !p
+20-04-20 04:56:43 Pausando...
+20-04-20 04:56:53 (TEAM)[S2 ~ Opazo*] colt eat everything and get no hurt
+20-04-20 04:57:01 (TEAM)[*cAppY ExOtiC] LOL
+20-04-20 04:57:03 (TEAM)[*cAppY ExOtiC] yes
+20-04-20 04:57:08 (TEAM)[r3v' Coco] yea hes big eater
+20-04-20 04:57:17 (TEAM)[*cAppY ExOtiC] he is one of the worst eaters
+20-04-20 04:57:21 (TEAM)[r3v' Coco] hes noob right?
+20-04-20 04:57:43 [r3v' Colt] I am the law!
+20-04-20 04:57:48 [*cAppY ExOtiC] Heavy Machine Gun ahead!
+20-04-20 04:57:52 [r3v' Colt] bio dc?
+20-04-20 04:57:52 S2 ~ Opazo* has left spectators
+20-04-20 04:57:53 201.239.114.206:50696|42442391B2F requesting game...
+20-04-20 04:57:55 S2 ~ Opazo* joining game (201.239.114.206:50696) HWID:42442391B2F
+20-04-20 04:57:55 S2 ~ Opazo* has joined bravo team.
+20-04-20 04:57:58 [*dennis rodman] colt fucking SUCKS
+20-04-20 04:58:14 S2 ~ patuzhO* started votekick against S2 ~ bio - Reason: sda
+20-04-20 04:58:18 S2 ~ bio has been kicked and banned for 60 minutes (Vote Kicked)
+20-04-20 04:58:20 [r3v' DrK] !ub
+20-04-20 04:58:21 [r3v' Coco] !ub
+20-04-20 04:58:22 [r3v' DrK] !unban
+20-04-20 04:58:22 [S2 ~ patuzhO*] t!ub
+20-04-20 04:58:24 [r3v' Mand3s] !ub
+20-04-20 04:58:25 [r3v' DrK] ok
+20-04-20 04:58:26 [r3v' Colt] Come'on!
+20-04-20 04:58:29 [r3v' Mand3s] go?
+20-04-20 04:58:29 [r3v' DrK] !desban
+20-04-20 04:58:31 [r3v' DrK] !desabanir
+20-04-20 04:58:32 [r3v' Mand3s] !unban
+20-04-20 04:58:33 [r3v' DrK] ok, fuck it
+20-04-20 04:58:34 [S2 ~ patuzhO*] go
+20-04-20 04:58:36 [r3v' Mand3s] !desbaneate
+20-04-20 04:58:37 [S2 ~ patuzhO*] !up
+20-04-20 04:58:37 Despausando en: 3
+20-04-20 04:58:37 190.160.30.54:23073|4D8808ED340 requesting game...
+20-04-20 04:58:38 Despausando en: 2
+20-04-20 04:58:39 Despausando en: 1
+20-04-20 04:58:40 Go!
+20-04-20 04:58:40 [r3v' DrK] !desabanir-lo
+20-04-20 04:58:43 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 04:58:43 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:58:43 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 04:58:47 (1) r3v' Colt killed (2) S2 ~ Opazo* with Grenade
+20-04-20 04:58:50 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:58:51 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:58:51 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 04:58:56 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with Grenade
+20-04-20 04:58:59 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 04:59:01 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:59:01 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:59:01 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:59:06 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 04:59:07 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:59:13 (2) S2 ~ Opazo* killed (1) r3v' Colt with Grenade
+20-04-20 04:59:15 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:59:17 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:59:18 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Grenade
+20-04-20 04:59:18 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with HK MP5
+20-04-20 04:59:21 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 04:59:21 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:59:25 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 04:59:28 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:59:30 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 04:59:31 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 04:59:31 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:59:33 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:59:39 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 04:59:41 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 04:59:43 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 04:59:44 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 04:59:48 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 04:59:49 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 04:59:52 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 04:59:55 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 04:59:57 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 04:59:59 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:00:00 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:00:05 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:00:06 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:00:09 r3v' DrK captured the Blue Flag
+20-04-20 05:00:09 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:00:11 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:00:12 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:00:13 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:00:14 (2) S2 ~ Opazo* killed (1) r3v' Colt with HK MP5
+20-04-20 05:00:17 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:00:20 (TEAM)[r3v' Coco] rakks clan is pretty good too
+20-04-20 05:00:21 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:00:23 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:00:24 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:00:27 r3v' DrK captured the Blue Flag
+20-04-20 05:00:27 *dennis rodman gets a ping warning
+20-04-20 05:00:27 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:00:29 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:00:30 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:00:31 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:00:33 r3v' Colt captured the Blue Flag
+20-04-20 05:00:34 r3v' Colt scores for Alpha Team
+20-04-20 05:00:35 (TEAM)[*cAppY ExOtiC] ye
+20-04-20 05:00:37 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:00:41 (2) S2 ~ Opazo* killed (1) r3v' Colt with Grenade
+20-04-20 05:00:42 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:00:44 (TEAM)[r3v' Coco] clans are already dodging us tho xd
+20-04-20 05:00:44 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Hands
+20-04-20 05:00:48 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:00:49 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:00:49 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:00:51 (TEAM)[*dennis rodman] add
+20-04-20 05:00:52 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:00:52 (TEAM)[*dennis rodman] +3
+20-04-20 05:00:53 (TEAM)[*cAppY ExOtiC] wh0
+20-04-20 05:00:55 *dennis rodman gets a ping warning
+20-04-20 05:00:57 Time Left: 5 minutes
+20-04-20 05:00:58 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:00:59 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:01:00 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:01:02 [r3v' Colt] nt
+20-04-20 05:01:03 r3v' DrK captured the Blue Flag
+20-04-20 05:01:06 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:01:07 (TEAM)[r3v' Coco] i mean everyone xd
+20-04-20 05:01:08 r3v' Colt captured the Blue Flag
+20-04-20 05:01:09 r3v' Colt scores for Alpha Team
+20-04-20 05:01:15 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:01:16 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:01:17 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:01:20 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:01:22 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:01:23 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:01:24 r3v' Colt captured the Blue Flag
+20-04-20 05:01:27 (2) S2 ~ Opazo* killed (1) r3v' Colt with Grenade
+20-04-20 05:01:27 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:01:27 r3v' Mand3s captured the Blue Flag
+20-04-20 05:01:28 r3v' Mand3s scores for Alpha Team
+20-04-20 05:01:29 [*dennis rodman] n ice fucking eat
+20-04-20 05:01:34 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:01:35 (TEAM)[r3v' Coco] we were literally wating in voice for like 1 hour and a half without a match
+20-04-20 05:01:38 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:01:38 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:01:39 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:01:43 (2) S2 ~ Opazo* killed (1) r3v' Colt with HK MP5
+20-04-20 05:01:45 [r3v' Colt] I'll be back!
+20-04-20 05:01:46 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Combat Knife
+20-04-20 05:01:48 [r3v' DrK] nt
+20-04-20 05:01:53 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:01:54 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:01:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:01:56 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:01:57 Time Left: 4 minutes
+20-04-20 05:01:58 *dennis rodman gets a ping warning
+20-04-20 05:01:58 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:01:58 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Combat Knife
+20-04-20 05:02:03 113.183.56.133:23073|2FB8DB4C607 requesting game...
+20-04-20 05:02:04 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:02:06 r3v' DrK captured the Blue Flag
+20-04-20 05:02:08 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:02:09 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 05:02:10 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:02:12 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:02:15 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:02:15 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:02:16 r3v' DrK captured the Blue Flag
+20-04-20 05:02:16 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:02:17 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:02:17 r3v' DrK scores for Alpha Team
+20-04-20 05:02:19 *dennis rodman gets a ping warning
+20-04-20 05:02:25 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:02:26 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:02:27 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:02:28 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:02:31 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:02:32 r3v' Colt captured the Blue Flag
+20-04-20 05:02:33 r3v' Colt captured the Blue Flag
+20-04-20 05:02:33 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:02:34 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:02:35 r3v' DrK captured the Blue Flag
+20-04-20 05:02:35 [r3v' Colt] NO
+20-04-20 05:02:36 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:02:37 S2 ~ Opazo* returned the Blue Flag
+20-04-20 05:02:42 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:02:43 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:02:44 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:02:44 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:02:47 *dennis rodman gets a ping warning
+20-04-20 05:02:48 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:02:51 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:02:53 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:02:54 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:02:56 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:02:57 Time Left: 3 minutes
+20-04-20 05:03:02 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:03:03 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:03:06 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:03:09 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:03:09 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:03:09 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:03:10 (2) S2 ~ Opazo* killed (1) r3v' DrK with Grenade
+20-04-20 05:03:12 S2 ~ Opazo* captured the Red Flag
+20-04-20 05:03:14 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:03:15 *dennis rodman gets a ping warning
+20-04-20 05:03:16 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:03:16 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:03:17 S2 ~ DeFkOndOz* scores for Bravo Team
+20-04-20 05:03:22 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:03:22 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:03:25 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:03:26 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:03:28 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Grenade
+20-04-20 05:03:28 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:03:33 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:03:33 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:03:34 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:03:36 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:03:40 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:03:41 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:03:42 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:03:43 *dennis rodman gets a ping warning
+20-04-20 05:03:46 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:03:47 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:03:48 r3v' Mand3s captured the Blue Flag
+20-04-20 05:03:50 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:03:53 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:03:53 (2) S2 ~ Opazo* killed (1) r3v' DrK with Grenade
+20-04-20 05:03:54 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:03:57 r3v' Mand3s captured the Blue Flag
+20-04-20 05:03:57 Time Left: 2 minutes
+20-04-20 05:04:00 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:04:02 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:04:03 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:04:04 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:04:05 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:04:07 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 05:04:09 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:04:11 S2 ~ Opazo* captured the Red Flag
+20-04-20 05:04:14 S2 ~ Opazo* scores for Bravo Team
+20-04-20 05:04:18 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:04:20 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:04:22 (1) r3v' Colt killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:04:23 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:04:32 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:04:36 (2) S2 ~ Opazo* killed (1) r3v' Colt with HK MP5
+20-04-20 05:04:36 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:04:38 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:04:46 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:04:48 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:04:48 (1) r3v' Colt killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:04:49 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:04:50 [r3v' Colt] nt
+20-04-20 05:04:50 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:04:52 r3v' DrK captured the Blue Flag
+20-04-20 05:04:53 [S2 ~ DeFkOndOz*] thx
+20-04-20 05:04:54 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:04:54 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:04:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:04:56 r3v' Colt captured the Blue Flag
+20-04-20 05:04:56 r3v' Colt scores for Alpha Team
+20-04-20 05:04:57 Time Left: 1 minutes
+20-04-20 05:05:00 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:05:05 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:05:05 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:05:06 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:05:06 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:05:07 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:05:07 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Combat Knife
+20-04-20 05:05:07 *dennis rodman gets a ping warning
+20-04-20 05:05:12 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:05:12 (2) S2 ~ Opazo* killed (1) r3v' DrK with HK MP5
+20-04-20 05:05:13 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:05:14 *dennis rodman gets a ping warning
+20-04-20 05:05:15 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:05:16 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:05:17 (2) S2 ~ Opazo* killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:05:21 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:05:22 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:05:22 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 05:05:25 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:05:26 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:05:28 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:05:35 (2) S2 ~ Opazo* killed (1) r3v' Colt with HK MP5
+20-04-20 05:05:36 r3v' DrK captured the Blue Flag
+20-04-20 05:05:37 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:05:39 r3v' Mand3s captured the Blue Flag
+20-04-20 05:05:39 r3v' Mand3s scores for Alpha Team
+20-04-20 05:05:40 r3v' DrK captured the Blue Flag
+20-04-20 05:05:42 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:05:44 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:05:44 r3v' Mand3s captured the Blue Flag
+20-04-20 05:05:44 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:05:45 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:05:47 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:05:47 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:05:48 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:05:49 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:05:51 S2 ~ patuzhO* scores for Bravo Team
+20-04-20 05:05:54 201.239.28.137:23073|3E87BD17409 requesting game (Vote Kicked)...
+20-04-20 05:05:54 (1) r3v' Mand3s killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:05:57 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:05:57 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:05:57 Next map: Lobby
+20-04-20 05:06:02 [S2 ~ DeFkOndOz*] gg
+20-04-20 05:06:03  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-20 05:06:03 Lothic - Gothic Lobby Room
+20-04-20 05:06:03 r3v' Coco gets a ping warning
+20-04-20 05:06:04 r3v' Coco has joined alpha team.
+20-04-20 05:06:06 [r3v' DrK] !s
+20-04-20 05:06:06 r3v' DrK has joined spectators.
+20-04-20 05:06:07 [S2 ~ patuzhO*] !ub
+20-04-20 05:06:11 [S2 ~ patuzhO*] !unban
+20-04-20 05:06:12 [r3v' Mand3s] !ubb
+20-04-20 05:06:16 [r3v' Mand3s] !unbaneado
+20-04-20 05:06:16 [r3v' Mand3s] !s
+20-04-20 05:06:16 r3v' Mand3s has joined spectators.
+20-04-20 05:06:17 [S2 ~ Opazo*] !UB
+20-04-20 05:06:33 [r3v' DrK] !ub
+20-04-20 05:06:40 [r3v' Coco] ig we get admin?
+20-04-20 05:06:44 r3v' DrK has joined alpha team.
+20-04-20 05:06:51 [r3v' DrK] admin could just type /unbanlast
+20-04-20 05:06:54 [r3v' Mand3s] !admin
+20-04-20 05:06:54 /say An admin was requested (190.164.5.54)
+20-04-20 05:06:56 [r3v' Mand3s] lol
+20-04-20 05:07:07 [S2 ~ patuzhO*] !admin
+20-04-20 05:07:07 /say An admin was requested (190.164.5.54)
+20-04-20 05:07:11 [r3v' DrK] or we could pick another server if its available
+20-04-20 05:07:16 201.239.28.137:23073|3E87BD17409 requesting game (Vote Kicked)...
+20-04-20 05:07:17 [r3v' Mand3s] ill see
+20-04-20 05:07:17 201.239.28.137:23073|3E87BD17409 requesting game (Vote Kicked)...
+20-04-20 05:07:18 r3v' Mand3s has left spectators
+20-04-20 05:07:18 *dennis rodman has left spectators
+20-04-20 05:07:28 *cAppY ExOtiC has left spectators
+20-04-20 05:07:28 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-04-20 05:07:29 r3v' Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-04-20 05:07:29 r3v' Mand3s has joined as spectator.
+20-04-20 05:07:32 [r3v' Mand3s] lleno
+20-04-20 05:07:36 [S2 ~ DeFkOndOz*] xd
+20-04-20 05:07:56 [S2 ~ patuzhO*] ynwie no es admin de los servers?
+20-04-20 05:07:59 (2) S2 ~ patuzhO* killed (1) r3v' Coco with M79
+20-04-20 05:08:13 [r3v' Mand3s] le estoy avisando
+20-04-20 05:08:14 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:08:16 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:08:16 [S2 ~ patuzhO*] vale
+20-04-20 05:08:38 [r3v' Mand3s] osea, al turko, el yngie no esta
+20-04-20 05:08:39 119.18.7.20:23073|3F0FC90CE9E requesting game...
+20-04-20 05:08:52 (2) S2 ~ patuzhO* killed (1) r3v' Coco with M79
+20-04-20 05:09:17 [S2 ~ Opazo*] !map ctf_Laos
+20-04-20 05:09:20 [S2 ~ patuzhO*] dale demosle nomas
+20-04-20 05:09:22 Laos
+20-04-20 05:09:23 /unbanlast (191.126.60.207)
+20-04-20 05:09:23 IP number 201.239.28.137 unbanned
+20-04-20 05:09:23 HWID 3E87BD17409 unbanned
+20-04-20 05:09:24 [S2 ~ patuzhO*] despues lo solucionamos
+20-04-20 05:09:29 [r3v' Mand3s] ok
+20-04-20 05:09:32 [S2 ~ patuzhO*] go
+20-04-20 05:09:32 (2) S2 ~ Opazo* killed (1) r3v' Coco with Barrett M82A1
+20-04-20 05:09:36 [S2 ~ patuzhO*] !r
+20-04-20 05:09:36 Reiniciando...
+20-04-20 05:09:38 [S2 ~ patuzhO*] gogo
+20-04-20 05:09:39 [r3v' Coco] GLGL
+20-04-20 05:09:39 [r3v' Colt] Sniper!
+20-04-20 05:09:42 Laos
+20-04-20 05:09:44 201.239.28.137:23073|3E87BD17409 requesting game...
+20-04-20 05:09:45 S2 ~ bio joining game (201.239.28.137:23073) HWID:3E87BD17409
+20-04-20 05:09:45 S2 ~ bio has joined as spectator.
+20-04-20 05:09:50 [S2 ~ patuzhO*] !p
+20-04-20 05:09:50 Pausando...
+20-04-20 05:09:59 [r3v' Mand3s] VOLVIO
+20-04-20 05:10:00 [r3v' DrK] if you want him in, just restart after
+20-04-20 05:10:06 [S2 ~ patuzhO*] !up
+20-04-20 05:10:06 Despausando en: 3
+20-04-20 05:10:07 Despausando en: 2
+20-04-20 05:10:08 Despausando en: 1
+20-04-20 05:10:09 Go!
+20-04-20 05:10:10 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:10:11 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:10:12 [S2 ~ patuzhO*] sorry
+20-04-20 05:10:13 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:10:13 [S2 ~ patuzhO*] !r
+20-04-20 05:10:13 Reiniciando...
+20-04-20 05:10:15 [S2 ~ patuzhO*] gogo
+20-04-20 05:10:15 [r3v' Coco] npnp
+20-04-20 05:10:19 Laos
+20-04-20 05:10:27 [S2 ~ DeFkOndOz*] ?
+20-04-20 05:10:27 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:10:28 [r3v' Coco] colt afk
+20-04-20 05:10:33 r3v' DrK captured the Blue Flag
+20-04-20 05:10:36 r3v' Colt has left alpha team.
+20-04-20 05:10:36 [r3v' Coco] hes bugged
+20-04-20 05:10:36 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:10:36 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:10:46 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:10:46 r3v' Coco captured the Blue Flag
+20-04-20 05:10:47 71.197.241.72:23073|571FCAC6D9F requesting game...
+20-04-20 05:10:49 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Grenade
+20-04-20 05:10:49 r3v' Colt joining game (71.197.241.72:23073) HWID:571FCAC6D9F
+20-04-20 05:10:49 r3v' Colt has joined alpha team.
+20-04-20 05:10:51 S2 ~ Opazo* returned the Blue Flag
+20-04-20 05:10:53 [r3v' Colt] !r
+20-04-20 05:10:53 Reiniciando...
+20-04-20 05:10:55 [r3v' DrK] GL HF :D
+20-04-20 05:10:59 Laos
+20-04-20 05:11:06 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:11:07 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:11:12 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:11:12 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:11:13 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:11:19 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Barrett M82A1
+20-04-20 05:11:25 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Barrett M82A1
+20-04-20 05:11:25 r3v' DrK captured the Blue Flag
+20-04-20 05:11:26 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:11:29 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:11:31 (1) r3v' Coco killed (2) S2 ~ Opazo* with FN Minimi
+20-04-20 05:11:32 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:11:33 179.225.182.239:23073|4756E2344F5 requesting game...
+20-04-20 05:11:33 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:11:34 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:11:35 179.225.182.239:23073|4756E2344F5 requesting game...
+20-04-20 05:11:37 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 05:11:39 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:11:46 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:11:48 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:11:53 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Ak-74
+20-04-20 05:11:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:11:57 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Combat Knife
+20-04-20 05:11:59 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:12:03 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:12:04 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Ak-74
+20-04-20 05:12:06 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Ak-74
+20-04-20 05:12:06 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:12:08 r3v' Colt returned the Red Flag
+20-04-20 05:12:12 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:12:13 S2 ~ Opazo* captured the Red Flag
+20-04-20 05:12:14 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:12:18 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:12:19 r3v' DrK returned the Red Flag
+20-04-20 05:12:25 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:12:26 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:12:27 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:12:35 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:12:35 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:12:38 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:12:39 (2) S2 ~ Opazo* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:12:42 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:12:49 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:12:53 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:12:54 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:12:57 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:12:58 (2) S2 ~ Opazo* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:13:02 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:13:05 r3v' Colt captured the Blue Flag
+20-04-20 05:13:06 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Ruger 77
+20-04-20 05:13:07 r3v' Colt captured the Blue Flag
+20-04-20 05:13:08 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:13:12 S2 ~ Opazo* returned the Blue Flag
+20-04-20 05:13:15 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:13:18 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Grenade
+20-04-20 05:13:19 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:13:26 200.74.93.33:23073|7E9D1368103 requesting game...
+20-04-20 05:13:26 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:13:30 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:13:34 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:13:35 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:13:36 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted middle!
+20-04-20 05:13:36 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:13:41 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:13:41 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:13:50 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:13:53 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:14:02 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:14:04 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:14:06 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:14:07 [r3v' Colt] Come'on!
+20-04-20 05:14:09 (2) S2 ~ patuzhO* killed (1) r3v' Coco with LAW
+20-04-20 05:14:09 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Barrett M82A1
+20-04-20 05:14:09 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:14:10 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted down!
+20-04-20 05:14:20 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:14:23 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Grenade
+20-04-20 05:14:28 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Desert Eagles
+20-04-20 05:14:30 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:14:30 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:14:33 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:14:37 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Grenade
+20-04-20 05:14:43 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:14:46 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:14:46 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:14:48 S2 ~ Opazo* captured the Red Flag
+20-04-20 05:14:48 (1) r3v' DrK killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:14:49 r3v' Colt returned the Red Flag
+20-04-20 05:14:49 (2) S2 ~ Opazo* killed (1) r3v' Coco with Grenade
+20-04-20 05:14:59 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:15:00 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:15:00 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:15:00 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Desert Eagles
+20-04-20 05:15:03 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:15:04 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:15:08 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:15:13 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Desert Eagles
+20-04-20 05:15:13 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Grenade
+20-04-20 05:15:17 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:15:25 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:15:26 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:15:29 (1) r3v' DrK killed (2) S2 ~ Opazo* with Hands
+20-04-20 05:15:29 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:15:32 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:15:36 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:15:37 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:15:39 (1) r3v' Coco killed (2) S2 ~ Opazo* with Combat Knife
+20-04-20 05:15:39 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:15:40 r3v' Coco returned the Red Flag
+20-04-20 05:15:41 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:15:45 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Grenade
+20-04-20 05:15:50 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:15:51 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:15:52 S2 ~ patuzhO* scores for Bravo Team
+20-04-20 05:15:53 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:15:53 r3v' DrK captured the Blue Flag
+20-04-20 05:15:57 (2) S2 ~ Opazo* killed (1) r3v' DrK with Grenade
+20-04-20 05:15:57 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:15:57 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:15:57 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:15:58 Time Left: 5 minutes
+20-04-20 05:16:00 S2 ~ Opazo* returned the Blue Flag
+20-04-20 05:16:05 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:16:08 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:16:08 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:16:08 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with M79
+20-04-20 05:16:12 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:16:15 r3v' Colt returned the Red Flag
+20-04-20 05:16:20 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:16:22 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:16:22 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:16:26 r3v' Coco captured the Blue Flag
+20-04-20 05:16:29 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:16:31 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:16:36 (2) S2 ~ Opazo* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:16:37 r3v' Colt captured the Blue Flag
+20-04-20 05:16:38 (1) r3v' Colt killed (2) S2 ~ Opazo* with Steyr AUG
+20-04-20 05:16:39 r3v' Colt scores for Alpha Team
+20-04-20 05:16:40 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:16:43 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:16:52 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:16:53 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:16:53 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Steyr AUG
+20-04-20 05:16:54 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:16:58 Time Left: 4 minutes
+20-04-20 05:16:59 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:17:01 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted up!
+20-04-20 05:17:07 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:17:07 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:17:08 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:17:14 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-20 05:17:17 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:17:19 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted middle!
+20-04-20 05:17:19 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:17:23 r3v' DrK captured the Blue Flag
+20-04-20 05:17:23 186.210.202.170:23073|2F57017F33F requesting game...
+20-04-20 05:17:24 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:17:26 (2) S2 ~ patuzhO* killed (1) r3v' Colt with LAW
+20-04-20 05:17:27 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:17:29 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Grenade
+20-04-20 05:17:35 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with M79
+20-04-20 05:17:36 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:17:37 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:17:43 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:17:44 190.217.138.174:23073|A3446B648A7 requesting game...
+20-04-20 05:17:51 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Ak-74
+20-04-20 05:17:53 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:17:55 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:17:56 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted middle!
+20-04-20 05:17:57 (2) S2 ~ Opazo* killed (1) r3v' DrK with Grenade
+20-04-20 05:17:58 Time Left: 3 minutes
+20-04-20 05:18:00 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:18:01 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-20 05:18:01 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-20 05:18:01 [UnK] KorN has joined as spectator.
+20-04-20 05:18:01 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:18:04 r3v' Coco returned the Red Flag
+20-04-20 05:18:06 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:18:08 [[UnK] KorN] kek
+20-04-20 05:18:09 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:18:12 (2) S2 ~ Opazo* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:18:13 (1) r3v' Coco killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:18:18 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-20 05:18:22 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:18:24 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:18:24 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Ak-74
+20-04-20 05:18:30 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:18:32 (TEAM)[[UnK] KorN] oe mande
+20-04-20 05:18:36 (2) S2 ~ Opazo* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:18:37 S2 ~ Opazo* captured the Red Flag
+20-04-20 05:18:37 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:18:39 (1) r3v' Coco killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:18:39 (TEAM)[r3v' Mand3s] q
+20-04-20 05:18:41 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:18:43 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:18:44 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Steyr AUG
+20-04-20 05:18:55 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:18:55 (TEAM)[[UnK] KorN] nada
+20-04-20 05:18:55 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:18:55 (1) r3v' DrK killed (2) S2 ~ Opazo* with Grenade
+20-04-20 05:18:56 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:18:58 Time Left: 2 minutes
+20-04-20 05:19:01 r3v' Colt returned the Red Flag
+20-04-20 05:19:02 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:19:06 (TEAM)[r3v' Mand3s] desde los australianos
+20-04-20 05:19:08 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:19:08 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:19:09 r3v' Coco returned the Red Flag
+20-04-20 05:19:10 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:19:10 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Desert Eagles
+20-04-20 05:19:12 (TEAM)[r3v' Mand3s] nunca mas voy a jugar esto
+20-04-20 05:19:12 r3v' DrK captured the Blue Flag
+20-04-20 05:19:14 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:19:16 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:19:19 (TEAM)[[UnK] KorN] como?
+20-04-20 05:19:21 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:19:23 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Desert Eagles
+20-04-20 05:19:23 (TEAM)[[UnK] KorN] ajajajaj?
+20-04-20 05:19:24 (2) S2 ~ Opazo* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:19:27 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:19:28 (TEAM)[[UnK] KorN] no entendi
+20-04-20 05:19:29 (TEAM)[r3v' Mand3s] laos
+20-04-20 05:19:32 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:19:33 (TEAM)[[UnK] KorN] aa si me lov otaron tbn
+20-04-20 05:19:35 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:19:35 (TEAM)[[UnK] KorN] lo odio
+20-04-20 05:19:37 (TEAM)[[UnK] KorN] este mapa
+20-04-20 05:19:41 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:19:41 (1) r3v' Coco killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:19:43 (TEAM)[[UnK] KorN] quede
+20-04-20 05:19:43 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:19:47 (TEAM)[[UnK] KorN] con estres postraumatio
+20-04-20 05:19:51 (TEAM)[[UnK] KorN] despues de la ssc
+20-04-20 05:19:52 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:19:53 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted middle!
+20-04-20 05:19:54 (2) S2 ~ patuzhO* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:19:56 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:19:57 (TEAM)[r3v' Mand3s] disparandole a las rocas
+20-04-20 05:19:58 Time Left: 1 minutes
+20-04-20 05:20:00 (TEAM)[[UnK] KorN] oJAOjaojOJAOAJ
+20-04-20 05:20:02 (TEAM)[r3v' Mand3s] para ver si hay weones escondidos
+20-04-20 05:20:02 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:20:03 (TEAM)[r3v' Mand3s] ajajjaj
+20-04-20 05:20:04 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-20 05:20:04 (TEAM)[[UnK] KorN] AJAJAJAJ
+20-04-20 05:20:08 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with FN Minimi
+20-04-20 05:20:09 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted middle!
+20-04-20 05:20:10 (TEAM)[[UnK] KorN] la wea amariconaa
+20-04-20 05:20:11 (1) r3v' DrK killed (2) S2 ~ Opazo* with USSOCOM
+20-04-20 05:20:16 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:20:20 (2) S2 ~ Opazo* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:20:22 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Grenade
+20-04-20 05:20:22 (1) r3v' Coco killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:20:26 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Barrett M82A1
+20-04-20 05:20:27 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:20:30 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:20:35 r3v' Colt captured the Blue Flag
+20-04-20 05:20:35 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:20:41 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:20:42 (1) r3v' DrK killed (2) S2 ~ Opazo* with Barrett M82A1
+20-04-20 05:20:46 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:20:50 (2) S2 ~ Opazo* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:20:51 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:20:55 (1) r3v' Coco killed (2) S2 ~ patuzhO* with FN Minimi
+20-04-20 05:20:57 (2) S2 ~ DeFkOndOz* killed (1) r3v' Coco with Steyr AUG
+20-04-20 05:20:58 Next map: Lobby
+20-04-20 05:21:04 Lothic - Gothic Lobby Room
+20-04-20 05:21:13 [r3v' Colt] !map Wretch
+20-04-20 05:21:18 Wretch by AdamD
+20-04-20 05:21:22 S2 ~ Opazo* has joined spectators.
+20-04-20 05:21:26 r3v' Coco has joined spectators.
+20-04-20 05:21:26 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 05:21:27 [S2 ~ bio] !b
+20-04-20 05:21:27 S2 ~ bio has joined bravo team.
+20-04-20 05:21:28 [r3v' Mand3s] !a
+20-04-20 05:21:28 r3v' Mand3s has joined alpha team.
+20-04-20 05:21:33 [S2 ~ patuzhO*] !r
+20-04-20 05:21:33 Reiniciando...
+20-04-20 05:21:34 [S2 ~ patuzhO*] gogo
+20-04-20 05:21:39 Wretch by AdamD
+20-04-20 05:21:43 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:21:43 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:21:45 (TEAM)[[UnK] KorN] este es el seunfo?
+20-04-20 05:21:46 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:21:47 (TEAM)[[UnK] KorN] segundo?
+20-04-20 05:21:48 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:21:51 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:21:52 r3v' Mand3s captured the Blue Flag
+20-04-20 05:21:53 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:21:55 r3v' Colt captured the Blue Flag
+20-04-20 05:21:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:21:57 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:21:58 [r3v' Colt] Come'on!
+20-04-20 05:21:58 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:22:00 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Spas-12
+20-04-20 05:22:02 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:22:06 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:22:07 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:22:08 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:22:09 r3v' Colt captured the Blue Flag
+20-04-20 05:22:12 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:22:13 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:22:14 r3v' Mand3s captured the Blue Flag
+20-04-20 05:22:14 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:22:16 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:22:16 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:22:17 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:22:17 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 05:22:22 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:22:24 r3v' Colt captured the Blue Flag
+20-04-20 05:22:25 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:22:25 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:22:28 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with LAW
+20-04-20 05:22:28 r3v' Mand3s captured the Blue Flag
+20-04-20 05:22:29 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:22:31 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Combat Knife
+20-04-20 05:22:31 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:22:32 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:22:36 r3v' Colt captured the Blue Flag
+20-04-20 05:22:36 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:22:37 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:22:38 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:22:39 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:22:43 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:22:45 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:22:46 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:22:49 r3v' Colt captured the Blue Flag
+20-04-20 05:22:49 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:22:50 190.160.30.54:23073|4D8808ED340 requesting game...
+20-04-20 05:22:53 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:22:54 (1) r3v' Mand3s killed (2) S2 ~ bio with Grenade
+20-04-20 05:22:55 r3v' Colt scores for Alpha Team
+20-04-20 05:23:03 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:23:04 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:23:04 (TEAM)[S2 ~ bio] TOP
+20-04-20 05:23:04 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:23:04 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:23:08 r3v' DrK captured the Blue Flag
+20-04-20 05:23:08 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:23:10 r3v' Colt returned the Red Flag
+20-04-20 05:23:11 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:23:14 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:23:15 S2 ~ bio returned the Blue Flag
+20-04-20 05:23:15 (1) r3v' Mand3s killed (2) S2 ~ bio with Spas-12
+20-04-20 05:23:21 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:23:21 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:23:23 (1) r3v' DrK killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:23:24 r3v' Mand3s captured the Blue Flag
+20-04-20 05:23:26 190.101.190.28:23073|348574D9644 requesting game...
+20-04-20 05:23:27 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:23:28 [UnK] F4ll.cL joining game (190.101.190.28:23073) HWID:348574D9644
+20-04-20 05:23:28 [UnK] F4ll.cL has joined as spectator.
+20-04-20 05:23:29 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:23:30 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 05:23:31 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:23:31 r3v' Mand3s scores for Alpha Team
+20-04-20 05:23:37 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:23:37 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:23:38 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:23:39 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:23:40 (TEAM)[[UnK] F4ll.cL] es tb?
+20-04-20 05:23:40 [r3v' Colt] Come'on!
+20-04-20 05:23:43 (2) S2 ~ bio killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:23:44 (TEAM)[r3v' Coco] si
+20-04-20 05:23:45 (TEAM)[S2 ~ Opazo*] si
+20-04-20 05:23:47 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:23:47 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:23:49 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:23:49 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:23:50 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:23:52 r3v' DrK returned the Red Flag
+20-04-20 05:23:56 r3v' DrK captured the Blue Flag
+20-04-20 05:23:58 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:24:00 S2 ~ bio captured the Red Flag
+20-04-20 05:24:02 (1) r3v' Mand3s killed (2) S2 ~ bio with Grenade
+20-04-20 05:24:04 r3v' Colt returned the Red Flag
+20-04-20 05:24:04 r3v' Colt captured the Blue Flag
+20-04-20 05:24:05 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Grenade
+20-04-20 05:24:07 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with LAW
+20-04-20 05:24:07 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:24:08 r3v' Colt scores for Alpha Team
+20-04-20 05:24:09 r3v' Mand3s captured the Blue Flag
+20-04-20 05:24:11 (2) S2 ~ bio killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:24:12 S2 ~ bio captured the Red Flag
+20-04-20 05:24:15 (1) r3v' Mand3s killed (2) S2 ~ bio with Spas-12
+20-04-20 05:24:16 r3v' Mand3s returned the Red Flag
+20-04-20 05:24:18 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:24:18 r3v' Mand3s captured the Blue Flag
+20-04-20 05:24:21 r3v' Mand3s scores for Alpha Team
+20-04-20 05:24:21 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:24:21 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:24:21 r3v' DrK captured the Blue Flag
+20-04-20 05:24:21 (2) S2 ~ bio killed (1) r3v' DrK with Grenade
+20-04-20 05:24:25 S2 ~ patuzhO* returned the Blue Flag
+20-04-20 05:24:28 (1) r3v' Mand3s killed (2) S2 ~ bio with Grenade
+20-04-20 05:24:29 r3v' Colt captured the Blue Flag
+20-04-20 05:24:29 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:24:29 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:24:32 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:24:35 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:24:40 (2) S2 ~ bio killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:24:40 (1) r3v' Colt killed (2) S2 ~ bio with Grenade
+20-04-20 05:24:46 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:24:47 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:24:49 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:24:50 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:24:50 r3v' Colt captured the Blue Flag
+20-04-20 05:24:53 (2) S2 ~ bio killed (1) r3v' Colt with Grenade
+20-04-20 05:24:54 r3v' Mand3s captured the Blue Flag
+20-04-20 05:24:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:24:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Grenade
+20-04-20 05:24:57 S2 ~ bio returned the Blue Flag
+20-04-20 05:24:58 S2 ~ bio captured the Red Flag
+20-04-20 05:24:58 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:25:00 (1) r3v' Mand3s killed (2) S2 ~ bio with Spas-12
+20-04-20 05:25:01 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:25:01 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:25:03 r3v' Mand3s returned the Red Flag
+20-04-20 05:25:05 r3v' Mand3s captured the Blue Flag
+20-04-20 05:25:06 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:25:10 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:25:12 [r3v' Colt] I'll be back!
+20-04-20 05:25:13 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Spas-12
+20-04-20 05:25:15 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:25:15 (1) r3v' Mand3s killed (2) S2 ~ bio with Spas-12
+20-04-20 05:25:16 r3v' DrK captured the Blue Flag
+20-04-20 05:25:18 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:25:18 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:25:22 (1) r3v' Colt killed (2) S2 ~ bio with HK MP5
+20-04-20 05:25:25 r3v' DrK scores for Alpha Team
+20-04-20 05:25:26 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:25:26 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:25:26 (2) S2 ~ patuzhO* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:25:32 (1) r3v' Colt killed (2) S2 ~ bio with Grenade
+20-04-20 05:25:32 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Hands
+20-04-20 05:25:34 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted down!
+20-04-20 05:25:35 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:25:36 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:25:37 r3v' Mand3s captured the Blue Flag
+20-04-20 05:25:40 (2) S2 ~ bio killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:25:42 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:25:43 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:25:43 S2 ~ bio returned the Blue Flag
+20-04-20 05:25:43 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:25:50 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:25:51 r3v' Mand3s captured the Blue Flag
+20-04-20 05:25:51 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:25:51 (2) S2 ~ bio killed (1) r3v' DrK with HK MP5
+20-04-20 05:25:53 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:25:55 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:25:57 r3v' Mand3s scores for Alpha Team
+20-04-20 05:26:00 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Combat Knife
+20-04-20 05:26:00 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:26:04 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:26:05 r3v' DrK captured the Blue Flag
+20-04-20 05:26:06 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:26:08 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted down!
+20-04-20 05:26:10 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Spas-12
+20-04-20 05:26:10 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:26:12 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with LAW
+20-04-20 05:26:12 r3v' Mand3s captured the Blue Flag
+20-04-20 05:26:15 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:26:17 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:26:17 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:26:18 r3v' Mand3s scores for Alpha Team
+20-04-20 05:26:20 (TEAM)[[UnK] F4ll.cL] ese wn de drk se sabe de memoria
+20-04-20 05:26:21 (2) S2 ~ bio killed (1) r3v' DrK with Combat Knife
+20-04-20 05:26:21 (1) r3v' DrK killed (2) S2 ~ bio with Combat Knife
+20-04-20 05:26:24 (TEAM)[[UnK] F4ll.cL] este mapa
+20-04-20 05:26:25 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:26:25 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:26:26 [r3v' Colt] Get the flag!
+20-04-20 05:26:29 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:26:32 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:26:33 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:26:34 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted down!
+20-04-20 05:26:36 r3v' Colt captured the Blue Flag
+20-04-20 05:26:38 Time Left: 5 minutes
+20-04-20 05:26:38 (1) r3v' DrK killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:26:39 (1) r3v' Colt killed (2) S2 ~ bio with Combat Knife
+20-04-20 05:26:40 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:26:41 r3v' DrK captured the Blue Flag
+20-04-20 05:26:41 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Steyr AUG
+20-04-20 05:26:42 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Combat Knife
+20-04-20 05:26:45 r3v' Colt captured the Blue Flag
+20-04-20 05:26:46 r3v' Colt scores for Alpha Team
+20-04-20 05:26:48 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:26:49 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Grenade
+20-04-20 05:26:49 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Grenade
+20-04-20 05:26:50 (TEAM)[[UnK] F4ll.cL] no me sorprende
+20-04-20 05:26:50 (1) r3v' Mand3s killed (2) S2 ~ patuzhO* with Spas-12
+20-04-20 05:26:54 (2) S2 ~ bio killed (1) r3v' Mand3s with Combat Knife
+20-04-20 05:26:55 [r3v' Mand3s] Yes, Sir!
+20-04-20 05:26:56 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:26:56 (1) r3v' DrK killed (2) S2 ~ DeFkOndOz* with Grenade
+20-04-20 05:27:01 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:27:01 (2) S2 ~ bio killed (1) r3v' DrK with HK MP5
+20-04-20 05:27:02 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:27:06 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with LAW
+20-04-20 05:27:06 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Grenade
+20-04-20 05:27:07 (RADIO)[S2 ~ DeFkOndOz*] Enemy spotted down!
+20-04-20 05:27:10 r3v' Mand3s captured the Blue Flag
+20-04-20 05:27:10 (1) r3v' DrK killed (2) S2 ~ bio with Grenade
+20-04-20 05:27:13 (2) S2 ~ DeFkOndOz* killed (1) r3v' Mand3s with Grenade
+20-04-20 05:27:14 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:27:15 S2 ~ DeFkOndOz* returned the Blue Flag
+20-04-20 05:27:15 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:27:17 [r3v' Colt] !! YOU GOT TACO'D !!
+20-04-20 05:27:18 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:27:20 (2) S2 ~ bio killed (1) r3v' Mand3s with Grenade
+20-04-20 05:27:22 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:27:27 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:27:27 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:27:30 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:27:31 71.11.67.214:23073|3FD8A84092D requesting game...
+20-04-20 05:27:34 71.11.67.214:23073|3FD8A84092D requesting game...
+20-04-20 05:27:34 (1) r3v' Colt killed (2) S2 ~ patuzhO* with HK MP5
+20-04-20 05:27:36 r3v' Mand3s captured the Blue Flag
+20-04-20 05:27:37 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:27:38 Time Left: 4 minutes
+20-04-20 05:27:39 (2) S2 ~ patuzhO* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:27:40 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:27:41 (2) S2 ~ patuzhO* killed (1) r3v' Colt with Steyr AUG
+20-04-20 05:27:43 r3v' Mand3s scores for Alpha Team
+20-04-20 05:27:47 (2) S2 ~ bio killed (1) r3v' Colt with Combat Knife
+20-04-20 05:27:48 (2) S2 ~ bio killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:27:50 S2 ~ bio captured the Red Flag
+20-04-20 05:27:51 (2) S2 ~ DeFkOndOz* killed (1) r3v' Colt with Combat Knife
+20-04-20 05:27:51 (1) r3v' DrK killed (2) S2 ~ bio with HK MP5
+20-04-20 05:27:54 S2 ~ DeFkOndOz* captured the Red Flag
+20-04-20 05:27:55 (2) S2 ~ DeFkOndOz* killed (1) r3v' DrK with Steyr AUG
+20-04-20 05:27:57 S2 ~ patuzhO* captured the Red Flag
+20-04-20 05:27:59 (1) r3v' Colt killed (2) S2 ~ DeFkOndOz* with HK MP5
+20-04-20 05:28:00 S2 ~ patuzhO* scores for Bravo Team
+20-04-20 05:28:01 (1) r3v' Colt killed (2) S2 ~ bio with Grenade
+20-04-20 05:28:04 r3v' Colt captured the Blue Flag
+20-04-20 05:28:06 (2) S2 ~ bio killed (1) r3v' DrK with Combat Knife
+20-04-20 05:28:07 (1) r3v' Mand3s killed (2) S2 ~ DeFkOndOz* with Spas-12
+20-04-20 05:28:08 (1) r3v' Colt killed (2) S2 ~ patuzhO* with Grenade
+20-04-20 05:28:08 (2) S2 ~ bio killed (1) r3v' Mand3s with HK MP5
+20-04-20 05:28:11 Next map: Lobby
+20-04-20 05:28:11 r3v' Colt scores for Alpha Team
+20-04-20 05:28:12 [S2 ~ Opazo*] Hurraaaa!!!
+20-04-20 05:28:13 [S2 ~ bio] gg}
+20-04-20 05:28:14 [r3v' Coco] gs
+20-04-20 05:28:14 [r3v' DrK] gg
+20-04-20 05:28:15 [r3v' Colt] GG!
+20-04-20 05:28:17 Lothic - Gothic Lobby Room
+20-04-20 05:28:17 [r3v' Coco] ggs
+20-04-20 05:28:17 r3v' Mand3s has left alpha team.
+20-04-20 05:28:17 S2 ~ patuzhO* has left bravo team.
+20-04-20 05:28:17 S2 ~ bio has left bravo team.
+20-04-20 05:28:17 S2 ~ DeFkOndOz* has left bravo team.
+20-04-20 05:28:18 S2 ~ Opazo* has left spectators
+20-04-20 05:28:18 r3v' Coco has left spectators
+20-04-20 05:28:18 r3v' Colt has left alpha team.
+20-04-20 05:28:21 r3v' DrK has left alpha team.
+20-04-20 05:28:21 [UnK] F4ll.cL has left spectators
+20-04-20 05:29:45 [UnK] KorN has left spectators
+20-04-20 05:33:16 Time Left: 5 minutes
+20-04-20 05:34:16 Time Left: 4 minutes
+20-04-20 05:35:16 Time Left: 3 minutes
+20-04-20 05:36:16 Time Left: 2 minutes
+20-04-20 05:37:16 Time Left: 1 minutes
+20-04-20 05:38:16 Next map: Lobby
+20-04-20 05:38:21 Lothic - Gothic Lobby Room
+20-04-20 05:43:21 Time Left: 5 minutes
+20-04-20 05:44:21 Time Left: 4 minutes
+20-04-20 05:45:21 Time Left: 3 minutes
+20-04-20 05:46:21 Time Left: 2 minutes
+20-04-20 05:47:21 Time Left: 1 minutes
+20-04-20 05:48:21 Next map: Lobby
+20-04-20 05:48:27 Lothic - Gothic Lobby Room
+20-04-20 05:53:27 Time Left: 5 minutes
+20-04-20 05:54:27 Time Left: 4 minutes
+20-04-20 05:55:27 Time Left: 3 minutes
+20-04-20 05:56:27 Time Left: 2 minutes
+20-04-20 05:57:27 Time Left: 1 minutes
+20-04-20 05:58:27 Next map: Lobby
+20-04-20 05:58:32 Lothic - Gothic Lobby Room
+20-04-20 06:02:19 Admin disconnected (191.126.60.207).
+20-04-20 06:03:32 Time Left: 5 minutes
+20-04-20 06:04:32 Time Left: 4 minutes
+20-04-20 06:05:32 Time Left: 3 minutes
+20-04-20 06:06:32 Time Left: 2 minutes
+20-04-20 06:07:32 Time Left: 1 minutes
+20-04-20 06:08:32 Next map: Lobby
+20-04-20 06:08:37 Lothic - Gothic Lobby Room
+20-04-20 06:13:37 Time Left: 5 minutes
+20-04-20 06:14:37 Time Left: 4 minutes
+20-04-20 06:15:37 Time Left: 3 minutes
+20-04-20 06:16:37 Time Left: 2 minutes
+20-04-20 06:17:37 Time Left: 1 minutes
+20-04-20 06:18:37 Next map: Lobby
+20-04-20 06:18:43 Lothic - Gothic Lobby Room
+20-04-20 06:23:43 Time Left: 5 minutes
+20-04-20 06:24:43 Time Left: 4 minutes
+20-04-20 06:25:43 Time Left: 3 minutes
+20-04-20 06:26:43 Time Left: 2 minutes
+20-04-20 06:27:43 Time Left: 1 minutes
+20-04-20 06:28:43 Next map: Lobby
+20-04-20 06:28:48 Lothic - Gothic Lobby Room
+20-04-20 06:33:48 Time Left: 5 minutes
+20-04-20 06:34:48 Time Left: 4 minutes
+20-04-20 06:35:48 Time Left: 3 minutes
+20-04-20 06:36:48 Time Left: 2 minutes
+20-04-20 06:37:48 Time Left: 1 minutes
+20-04-20 06:38:48 Next map: Lobby
+20-04-20 06:38:53 Lothic - Gothic Lobby Room
+20-04-20 06:43:06 Admin disconnected (190.164.5.54).
+20-04-20 06:43:53 Time Left: 5 minutes
+20-04-20 06:44:53 Time Left: 4 minutes
+20-04-20 06:45:53 Time Left: 3 minutes
+20-04-20 06:46:53 Time Left: 2 minutes
+20-04-20 06:47:53 Time Left: 1 minutes
+20-04-20 06:48:53 Next map: Lobby
+20-04-20 06:48:59 Lothic - Gothic Lobby Room
+20-04-20 06:53:59 Time Left: 5 minutes
+20-04-20 06:54:59 Time Left: 4 minutes
+20-04-20 06:55:59 Time Left: 3 minutes
+20-04-20 06:56:59 Time Left: 2 minutes
+20-04-20 06:57:59 Time Left: 1 minutes
+20-04-20 06:58:58 Next map: Lobby
+20-04-20 06:59:04 Lothic - Gothic Lobby Room
+20-04-20 07:04:04 Time Left: 5 minutes
+20-04-20 07:05:04 Time Left: 4 minutes
+20-04-20 07:06:04 Time Left: 3 minutes
+20-04-20 07:07:04 Time Left: 2 minutes
+20-04-20 07:08:04 Time Left: 1 minutes
+20-04-20 07:09:04 Next map: Lobby
+20-04-20 07:09:09 Lothic - Gothic Lobby Room
+20-04-20 07:14:09 Time Left: 5 minutes
+20-04-20 07:15:09 Time Left: 4 minutes
+20-04-20 07:16:09 Time Left: 3 minutes
+20-04-20 07:17:09 Time Left: 2 minutes
+20-04-20 07:18:09 Time Left: 1 minutes
+20-04-20 07:19:09 Next map: Lobby
+20-04-20 07:19:14 Lothic - Gothic Lobby Room
+20-04-20 07:24:14 Time Left: 5 minutes
+20-04-20 07:25:14 Time Left: 4 minutes
+20-04-20 07:26:14 Time Left: 3 minutes
+20-04-20 07:27:14 Time Left: 2 minutes
+20-04-20 07:28:14 Time Left: 1 minutes
+20-04-20 07:29:14 Next map: Lobby
+20-04-20 07:29:20 Lothic - Gothic Lobby Room
+20-04-20 07:34:20 Time Left: 5 minutes
+20-04-20 07:35:20 Time Left: 4 minutes
+20-04-20 07:36:20 Time Left: 3 minutes
+20-04-20 07:37:20 Time Left: 2 minutes
+20-04-20 07:38:20 Time Left: 1 minutes
+20-04-20 07:39:20 Next map: Lobby
+20-04-20 07:39:25 Lothic - Gothic Lobby Room
+20-04-20 07:44:25 Time Left: 5 minutes
+20-04-20 07:45:25 Time Left: 4 minutes
+20-04-20 07:46:25 Time Left: 3 minutes
+20-04-20 07:47:25 Time Left: 2 minutes
+20-04-20 07:48:25 Time Left: 1 minutes
+20-04-20 07:49:25 Next map: Lobby
+20-04-20 07:49:30 Lothic - Gothic Lobby Room
+20-04-20 07:54:30 Time Left: 5 minutes
+20-04-20 07:55:30 Time Left: 4 minutes
+20-04-20 07:56:30 Time Left: 3 minutes
+20-04-20 07:57:30 Time Left: 2 minutes
+20-04-20 07:58:30 Time Left: 1 minutes
+20-04-20 07:59:30 Next map: Lobby
+20-04-20 07:59:36 Lothic - Gothic Lobby Room
+20-04-20 08:04:36 Time Left: 5 minutes
+20-04-20 08:05:36 Time Left: 4 minutes
+20-04-20 08:06:36 Time Left: 3 minutes
+20-04-20 08:07:36 Time Left: 2 minutes
+20-04-20 08:08:36 Time Left: 1 minutes
+20-04-20 08:09:36 Next map: Lobby
+20-04-20 08:09:41 Lothic - Gothic Lobby Room
+20-04-20 08:14:41 Time Left: 5 minutes
+20-04-20 08:15:41 Time Left: 4 minutes
+20-04-20 08:16:41 Time Left: 3 minutes
+20-04-20 08:17:41 Time Left: 2 minutes
+20-04-20 08:18:41 Time Left: 1 minutes
+20-04-20 08:19:41 Next map: Lobby
+20-04-20 08:19:46 Lothic - Gothic Lobby Room
+20-04-20 08:24:46 Time Left: 5 minutes
+20-04-20 08:25:46 Time Left: 4 minutes
+20-04-20 08:26:46 Time Left: 3 minutes
+20-04-20 08:27:46 Time Left: 2 minutes
+20-04-20 08:28:46 Time Left: 1 minutes
+20-04-20 08:29:46 Next map: Lobby
+20-04-20 08:29:52 Lothic - Gothic Lobby Room
+20-04-20 08:34:52 Time Left: 5 minutes
+20-04-20 08:35:52 Time Left: 4 minutes
+20-04-20 08:36:52 Time Left: 3 minutes
+20-04-20 08:37:52 Time Left: 2 minutes
+20-04-20 08:38:52 Time Left: 1 minutes
+20-04-20 08:39:52 Next map: Lobby
+20-04-20 08:39:57 Lothic - Gothic Lobby Room
+20-04-20 08:44:57 Time Left: 5 minutes
+20-04-20 08:45:57 Time Left: 4 minutes
+20-04-20 08:46:57 Time Left: 3 minutes
+20-04-20 08:47:57 Time Left: 2 minutes
+20-04-20 08:48:57 Time Left: 1 minutes
+20-04-20 08:49:57 Next map: Lobby
+20-04-20 08:50:02 Lothic - Gothic Lobby Room
+20-04-20 08:55:02 Time Left: 5 minutes
+20-04-20 08:56:02 Time Left: 4 minutes
+20-04-20 08:57:02 Time Left: 3 minutes
+20-04-20 08:58:02 Time Left: 2 minutes
+20-04-20 08:59:02 Time Left: 1 minutes
+20-04-20 09:00:02 Next map: Lobby
+20-04-20 09:00:08 Lothic - Gothic Lobby Room
+20-04-20 09:05:08 Time Left: 5 minutes
+20-04-20 09:06:08 Time Left: 4 minutes
+20-04-20 09:07:08 Time Left: 3 minutes
+20-04-20 09:08:08 Time Left: 2 minutes
+20-04-20 09:09:08 Time Left: 1 minutes
+20-04-20 09:10:08 Next map: Lobby
+20-04-20 09:10:13 Lothic - Gothic Lobby Room
+20-04-20 09:15:13 Time Left: 5 minutes
+20-04-20 09:16:13 Time Left: 4 minutes
+20-04-20 09:17:13 Time Left: 3 minutes
+20-04-20 09:18:13 Time Left: 2 minutes
+20-04-20 09:19:13 Time Left: 1 minutes
+20-04-20 09:20:13 Next map: Lobby
+20-04-20 09:20:18 Lothic - Gothic Lobby Room
+20-04-20 09:25:18 Time Left: 5 minutes
+20-04-20 09:26:18 Time Left: 4 minutes
+20-04-20 09:27:18 Time Left: 3 minutes
+20-04-20 09:28:18 Time Left: 2 minutes
+20-04-20 09:29:18 Time Left: 1 minutes
+20-04-20 09:30:18 Next map: Lobby
+20-04-20 09:30:24 Lothic - Gothic Lobby Room
+20-04-20 09:35:24 Time Left: 5 minutes
+20-04-20 09:36:24 Time Left: 4 minutes
+20-04-20 09:37:24 Time Left: 3 minutes
+20-04-20 09:38:24 Time Left: 2 minutes
+20-04-20 09:39:24 Time Left: 1 minutes
+20-04-20 09:40:24 Next map: Lobby
+20-04-20 09:40:29 Lothic - Gothic Lobby Room
+20-04-20 09:45:29 Time Left: 5 minutes
+20-04-20 09:46:29 Time Left: 4 minutes
+20-04-20 09:47:29 Time Left: 3 minutes
+20-04-20 09:48:29 Time Left: 2 minutes
+20-04-20 09:49:29 Time Left: 1 minutes
+20-04-20 09:50:29 Next map: Lobby
+20-04-20 09:50:34 Lothic - Gothic Lobby Room
+20-04-20 09:55:34 Time Left: 5 minutes
+20-04-20 09:56:34 Time Left: 4 minutes
+20-04-20 09:57:34 Time Left: 3 minutes
+20-04-20 09:58:34 Time Left: 2 minutes
+20-04-20 09:59:34 Time Left: 1 minutes
+20-04-20 10:00:34 Next map: Lobby
+20-04-20 10:00:40 Lothic - Gothic Lobby Room
+20-04-20 10:05:40 Time Left: 5 minutes
+20-04-20 10:06:40 Time Left: 4 minutes
+20-04-20 10:07:40 Time Left: 3 minutes
+20-04-20 10:08:40 Time Left: 2 minutes
+20-04-20 10:09:40 Time Left: 1 minutes
+20-04-20 10:10:40 Next map: Lobby
+20-04-20 10:10:45 Lothic - Gothic Lobby Room
+20-04-20 10:15:45 Time Left: 5 minutes
+20-04-20 10:16:45 Time Left: 4 minutes
+20-04-20 10:17:45 Time Left: 3 minutes
+20-04-20 10:18:45 Time Left: 2 minutes
+20-04-20 10:19:45 Time Left: 1 minutes
+20-04-20 10:20:45 Next map: Lobby
+20-04-20 10:20:50 Lothic - Gothic Lobby Room
+20-04-20 10:25:50 Time Left: 5 minutes
+20-04-20 10:26:50 Time Left: 4 minutes
+20-04-20 10:27:50 Time Left: 3 minutes
+20-04-20 10:28:50 Time Left: 2 minutes
+20-04-20 10:29:50 Time Left: 1 minutes
+20-04-20 10:30:50 Next map: Lobby
+20-04-20 10:30:56 Lothic - Gothic Lobby Room
+20-04-20 10:35:55 Time Left: 5 minutes
+20-04-20 10:36:55 Time Left: 4 minutes
+20-04-20 10:37:55 Time Left: 3 minutes
+20-04-20 10:38:55 Time Left: 2 minutes
+20-04-20 10:39:55 Time Left: 1 minutes
+20-04-20 10:40:55 Next map: Lobby
+20-04-20 10:41:01 Lothic - Gothic Lobby Room
+20-04-20 10:46:01 Time Left: 5 minutes
+20-04-20 10:47:01 Time Left: 4 minutes
+20-04-20 10:48:01 Time Left: 3 minutes
+20-04-20 10:49:01 Time Left: 2 minutes
+20-04-20 10:50:01 Time Left: 1 minutes
+20-04-20 10:51:01 Next map: Lobby
+20-04-20 10:51:06 Lothic - Gothic Lobby Room
+20-04-20 10:56:06 Time Left: 5 minutes
+20-04-20 10:57:06 Time Left: 4 minutes
+20-04-20 10:58:06 Time Left: 3 minutes
+20-04-20 10:59:06 Time Left: 2 minutes
+20-04-20 11:00:06 Time Left: 1 minutes
+20-04-20 11:01:06 Next map: Lobby
+20-04-20 11:01:11 Lothic - Gothic Lobby Room
+20-04-20 11:06:11 Time Left: 5 minutes
+20-04-20 11:07:11 Time Left: 4 minutes
+20-04-20 11:08:11 Time Left: 3 minutes
+20-04-20 11:09:11 Time Left: 2 minutes
+20-04-20 11:10:11 Time Left: 1 minutes
+20-04-20 11:11:11 Next map: Lobby
+20-04-20 11:11:17 Lothic - Gothic Lobby Room
+20-04-20 11:16:17 Time Left: 5 minutes
+20-04-20 11:17:17 Time Left: 4 minutes
+20-04-20 11:18:17 Time Left: 3 minutes
+20-04-20 11:19:17 Time Left: 2 minutes
+20-04-20 11:20:17 Time Left: 1 minutes
+20-04-20 11:21:17 Next map: Lobby
+20-04-20 11:21:22 Lothic - Gothic Lobby Room
+20-04-20 11:26:22 Time Left: 5 minutes
+20-04-20 11:27:22 Time Left: 4 minutes
+20-04-20 11:28:22 Time Left: 3 minutes
+20-04-20 11:29:22 Time Left: 2 minutes
+20-04-20 11:30:22 Time Left: 1 minutes
+20-04-20 11:31:22 Next map: Lobby
+20-04-20 11:31:27 Lothic - Gothic Lobby Room
+20-04-20 11:36:27 Time Left: 5 minutes
+20-04-20 11:37:27 Time Left: 4 minutes
+20-04-20 11:38:27 Time Left: 3 minutes
+20-04-20 11:39:27 Time Left: 2 minutes
+20-04-20 11:40:27 Time Left: 1 minutes
+20-04-20 11:41:27 Next map: Lobby
+20-04-20 11:41:33 Lothic - Gothic Lobby Room
+20-04-20 11:46:33 Time Left: 5 minutes
+20-04-20 11:47:33 Time Left: 4 minutes
+20-04-20 11:48:33 Time Left: 3 minutes
+20-04-20 11:49:33 Time Left: 2 minutes
+20-04-20 11:50:33 Time Left: 1 minutes
+20-04-20 11:51:33 Next map: Lobby
+20-04-20 11:51:38 Lothic - Gothic Lobby Room
+20-04-20 11:56:38 Time Left: 5 minutes
+20-04-20 11:57:38 Time Left: 4 minutes
+20-04-20 11:58:38 Time Left: 3 minutes
+20-04-20 11:59:38 Time Left: 2 minutes
+20-04-20 12:00:38 Time Left: 1 minutes
+20-04-20 12:01:38 Next map: Lobby
+20-04-20 12:01:43 Lothic - Gothic Lobby Room
+20-04-20 12:06:43 Time Left: 5 minutes
+20-04-20 12:07:43 Time Left: 4 minutes
+20-04-20 12:08:43 Time Left: 3 minutes
+20-04-20 12:09:43 Time Left: 2 minutes
+20-04-20 12:10:43 Time Left: 1 minutes
+20-04-20 12:11:43 Next map: Lobby
+20-04-20 12:11:49 Lothic - Gothic Lobby Room
+20-04-20 12:16:49 Time Left: 5 minutes
+20-04-20 12:17:49 Time Left: 4 minutes
+20-04-20 12:18:49 Time Left: 3 minutes
+20-04-20 12:19:49 Time Left: 2 minutes
+20-04-20 12:20:49 Time Left: 1 minutes
+20-04-20 12:21:49 Next map: Lobby
+20-04-20 12:21:54 Lothic - Gothic Lobby Room
+20-04-20 12:26:54 Time Left: 5 minutes
+20-04-20 12:27:54 Time Left: 4 minutes
+20-04-20 12:28:54 Time Left: 3 minutes
+20-04-20 12:29:54 Time Left: 2 minutes
+20-04-20 12:30:54 Time Left: 1 minutes
+20-04-20 12:31:54 Next map: Lobby
+20-04-20 12:31:59 Lothic - Gothic Lobby Room
+20-04-20 12:36:59 Time Left: 5 minutes
+20-04-20 12:37:59 Time Left: 4 minutes
+20-04-20 12:38:59 Time Left: 3 minutes
+20-04-20 12:39:59 Time Left: 2 minutes
+20-04-20 12:40:59 Time Left: 1 minutes
+20-04-20 12:41:59 Next map: Lobby
+20-04-20 12:42:05 Lothic - Gothic Lobby Room
+20-04-20 12:47:05 Time Left: 5 minutes
+20-04-20 12:48:05 Time Left: 4 minutes
+20-04-20 12:49:05 Time Left: 3 minutes
+20-04-20 12:50:05 Time Left: 2 minutes
+20-04-20 12:51:05 Time Left: 1 minutes
+20-04-20 12:52:05 Next map: Lobby
+20-04-20 12:52:10 Lothic - Gothic Lobby Room
+20-04-20 12:57:10 Time Left: 5 minutes
+20-04-20 12:58:10 Time Left: 4 minutes
+20-04-20 12:59:10 Time Left: 3 minutes
+20-04-20 13:00:10 Time Left: 2 minutes
+20-04-20 13:01:10 Time Left: 1 minutes
+20-04-20 13:02:10 Next map: Lobby
+20-04-20 13:02:15 Lothic - Gothic Lobby Room
+20-04-20 13:07:15 Time Left: 5 minutes
+20-04-20 13:08:15 Time Left: 4 minutes
+20-04-20 13:09:15 Time Left: 3 minutes
+20-04-20 13:10:15 Time Left: 2 minutes
+20-04-20 13:11:15 Time Left: 1 minutes
+20-04-20 13:12:15 Next map: Lobby
+20-04-20 13:12:21 Lothic - Gothic Lobby Room
+20-04-20 13:17:21 Time Left: 5 minutes
+20-04-20 13:18:21 Time Left: 4 minutes
+20-04-20 13:19:21 Time Left: 3 minutes
+20-04-20 13:20:21 Time Left: 2 minutes
+20-04-20 13:21:21 Time Left: 1 minutes
+20-04-20 13:22:21 Next map: Lobby
+20-04-20 13:22:26 Lothic - Gothic Lobby Room
+20-04-20 13:27:26 Time Left: 5 minutes
+20-04-20 13:28:26 Time Left: 4 minutes
+20-04-20 13:29:26 Time Left: 3 minutes
+20-04-20 13:30:26 Time Left: 2 minutes
+20-04-20 13:31:26 Time Left: 1 minutes
+20-04-20 13:32:26 Next map: Lobby
+20-04-20 13:32:31 Lothic - Gothic Lobby Room
+20-04-20 13:37:31 Time Left: 5 minutes
+20-04-20 13:38:31 Time Left: 4 minutes
+20-04-20 13:39:31 Time Left: 3 minutes
+20-04-20 13:40:31 Time Left: 2 minutes
+20-04-20 13:41:31 Time Left: 1 minutes
+20-04-20 13:42:31 Next map: Lobby
+20-04-20 13:42:37 Lothic - Gothic Lobby Room
+20-04-20 13:47:37 Time Left: 5 minutes
+20-04-20 13:48:37 Time Left: 4 minutes
+20-04-20 13:49:36 Time Left: 3 minutes
+20-04-20 13:50:37 Time Left: 2 minutes
+20-04-20 13:51:36 Time Left: 1 minutes
+20-04-20 13:52:36 Next map: Lobby
+20-04-20 13:52:42 Lothic - Gothic Lobby Room
+20-04-20 13:57:42 Time Left: 5 minutes
+20-04-20 13:58:42 Time Left: 4 minutes
+20-04-20 13:59:42 Time Left: 3 minutes
+20-04-20 14:00:42 Time Left: 2 minutes
+20-04-20 14:01:42 Time Left: 1 minutes
+20-04-20 14:02:42 Next map: Lobby
+20-04-20 14:02:47 Lothic - Gothic Lobby Room
+20-04-20 14:07:47 Time Left: 5 minutes
+20-04-20 14:08:47 Time Left: 4 minutes
+20-04-20 14:09:47 Time Left: 3 minutes
+20-04-20 14:10:47 Time Left: 2 minutes
+20-04-20 14:11:47 Time Left: 1 minutes
+20-04-20 14:12:47 Next map: Lobby
+20-04-20 14:12:52 Lothic - Gothic Lobby Room
+20-04-20 14:17:52 Time Left: 5 minutes
+20-04-20 14:18:52 Time Left: 4 minutes
+20-04-20 14:19:52 Time Left: 3 minutes
+20-04-20 14:20:52 Time Left: 2 minutes
+20-04-20 14:21:52 Time Left: 1 minutes
+20-04-20 14:22:52 Next map: Lobby
+20-04-20 14:22:58 Lothic - Gothic Lobby Room
+20-04-20 14:27:58 Time Left: 5 minutes
+20-04-20 14:28:58 Time Left: 4 minutes
+20-04-20 14:29:58 Time Left: 3 minutes
+20-04-20 14:30:58 Time Left: 2 minutes
+20-04-20 14:31:58 Time Left: 1 minutes
+20-04-20 14:32:58 Next map: Lobby
+20-04-20 14:33:03 Lothic - Gothic Lobby Room
+20-04-20 14:38:03 Time Left: 5 minutes
+20-04-20 14:39:03 Time Left: 4 minutes
+20-04-20 14:40:03 Time Left: 3 minutes
+20-04-20 14:41:03 Time Left: 2 minutes
+20-04-20 14:42:03 Time Left: 1 minutes
+20-04-20 14:43:03 Next map: Lobby
+20-04-20 14:43:08 Lothic - Gothic Lobby Room
+20-04-20 14:48:08 Time Left: 5 minutes
+20-04-20 14:49:08 Time Left: 4 minutes
+20-04-20 14:50:08 Time Left: 3 minutes
+20-04-20 14:51:08 Time Left: 2 minutes
+20-04-20 14:52:08 Time Left: 1 minutes
+20-04-20 14:53:08 Next map: Lobby
+20-04-20 14:53:14 Lothic - Gothic Lobby Room
+20-04-20 14:58:14 Time Left: 5 minutes
+20-04-20 14:59:14 Time Left: 4 minutes
+20-04-20 15:00:14 Time Left: 3 minutes
+20-04-20 15:01:14 Time Left: 2 minutes
+20-04-20 15:02:14 Time Left: 1 minutes
+20-04-20 15:03:14 Next map: Lobby
+20-04-20 15:03:19 Lothic - Gothic Lobby Room
+20-04-20 15:08:19 Time Left: 5 minutes
+20-04-20 15:09:19 Time Left: 4 minutes
+20-04-20 15:10:19 Time Left: 3 minutes
+20-04-20 15:11:19 Time Left: 2 minutes
+20-04-20 15:12:19 Time Left: 1 minutes
+20-04-20 15:13:19 Next map: Lobby
+20-04-20 15:13:24 Lothic - Gothic Lobby Room
+20-04-20 15:18:24 Time Left: 5 minutes
+20-04-20 15:19:24 Time Left: 4 minutes
+20-04-20 15:20:24 Time Left: 3 minutes
+20-04-20 15:21:24 Time Left: 2 minutes
+20-04-20 15:22:24 Time Left: 1 minutes
+20-04-20 15:23:24 Next map: Lobby
+20-04-20 15:23:30 Lothic - Gothic Lobby Room
+20-04-20 15:28:30 Time Left: 5 minutes
+20-04-20 15:29:30 Time Left: 4 minutes
+20-04-20 15:30:30 Time Left: 3 minutes
+20-04-20 15:31:30 Time Left: 2 minutes
+20-04-20 15:32:30 Time Left: 1 minutes
+20-04-20 15:33:30 Next map: Lobby
+20-04-20 15:33:35 Lothic - Gothic Lobby Room
+20-04-20 15:38:35 Time Left: 5 minutes
+20-04-20 15:39:35 Time Left: 4 minutes
+20-04-20 15:40:35 Time Left: 3 minutes
+20-04-20 15:41:35 Time Left: 2 minutes
+20-04-20 15:42:35 Time Left: 1 minutes
+20-04-20 15:43:35 Next map: Lobby
+20-04-20 15:43:40 Lothic - Gothic Lobby Room
+20-04-20 15:48:40 Time Left: 5 minutes
+20-04-20 15:49:40 Time Left: 4 minutes
+20-04-20 15:50:40 Time Left: 3 minutes
+20-04-20 15:51:40 Time Left: 2 minutes
+20-04-20 15:52:40 Time Left: 1 minutes
+20-04-20 15:53:40 Next map: Lobby
+20-04-20 15:53:46 Lothic - Gothic Lobby Room
+20-04-20 15:58:46 Time Left: 5 minutes
+20-04-20 15:59:46 Time Left: 4 minutes
+20-04-20 16:00:46 Time Left: 3 minutes
+20-04-20 16:01:46 Time Left: 2 minutes
+20-04-20 16:02:46 Time Left: 1 minutes
+20-04-20 16:03:46 Next map: Lobby
+20-04-20 16:03:51 Lothic - Gothic Lobby Room
+20-04-20 16:08:51 Time Left: 5 minutes
+20-04-20 16:09:51 Time Left: 4 minutes
+20-04-20 16:10:51 Time Left: 3 minutes
+20-04-20 16:11:51 Time Left: 2 minutes
+20-04-20 16:12:51 Time Left: 1 minutes
+20-04-20 16:13:51 Next map: Lobby
+20-04-20 16:13:56 Lothic - Gothic Lobby Room
+20-04-20 16:18:56 Time Left: 5 minutes
+20-04-20 16:19:56 Time Left: 4 minutes
+20-04-20 16:20:56 Time Left: 3 minutes
+20-04-20 16:21:56 Time Left: 2 minutes
+20-04-20 16:22:56 Time Left: 1 minutes
+20-04-20 16:23:56 Next map: Lobby
+20-04-20 16:24:02 Lothic - Gothic Lobby Room

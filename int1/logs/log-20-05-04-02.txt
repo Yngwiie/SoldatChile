@@ -1,0 +1,18 @@
+20-05-04 16:05:01    Log Started
+20-05-04 16:05:01 Opened /home/kader_b/int1/soldat.ini
+20-05-04 16:05:01 Creating network interface.
+20-05-04 16:05:01 Loading Animations.
+20-05-04 16:05:02 Loading Lobby Servers List
+20-05-04 16:05:02 Loading Maps List
+20-05-04 16:05:02 Loading Map.
+20-05-04 16:05:02 Creating Weapons.
+20-05-04 16:05:02 Starting Game Server.
+20-05-04 16:05:02 TCP/IP File Server started
+20-05-04 16:06:31  Net - !F. YnGwi3 connected 4-5-20 16:06:31
+20-05-04 16:06:32  Net - !F. YnGwi3 disconnected 4-5-20 16:06:32
+20-05-04 16:08:34  Net - !F. YnGwi3 connected 4-5-20 16:08:34
+20-05-04 16:08:39  Net - !F. YnGwi3 disconnected 4-5-20 16:08:39
+20-05-04 16:08:47  Net - !F. YnGwi3 connected 4-5-20 16:08:47
+20-05-04 16:09:07  Net - !F. YnGwi3 disconnected 4-5-20 16:09:07
+20-05-04 16:13:47 Destroying Devices.
+20-05-04 16:13:48    End of Log.

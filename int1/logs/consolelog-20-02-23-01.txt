@@ -1,0 +1,3556 @@
+20-02-23 22:25:48    Console Log Started
+20-02-23 22:25:49 [Zorro Espectador] si
+20-02-23 22:25:50 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with M79
+20-02-23 22:25:51 [#KbN! ChronoCL] si les queda 1 semana
+20-02-23 22:25:52 [Zorro Espectador] esta bien si
+20-02-23 22:25:54 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:25:55 [#KbN! ChronoCL] para armar el match
+20-02-23 22:25:56 [Zorro Espectador] no se termina hoy
+20-02-23 22:26:00 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Grenade
+20-02-23 22:26:04 (2) Zorro Espectador killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:26:05 [#KbN! Nitho] Die!
+20-02-23 22:26:06 [#KbN! ChronoCL] digo para que puedan jugar
+20-02-23 22:26:08 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:26:10 (2) Zorro Espectador killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:26:11 [#KbN! Nitho] No!
+20-02-23 22:26:12 #KbN! chub0 captured the Red Flag
+20-02-23 22:26:14 [Zorro Espectador] sipo el plazo era hasta hoy
+20-02-23 22:26:18 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:26:25 #KbN! chub0 scores for Bravo Team
+20-02-23 22:26:25 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:26:25 (1) #KbN! Nitho killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:26:26 [#KbN! Nitho] Die!
+20-02-23 22:26:32 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:26:34 [Zorro Espectador] ustedes juegan contra mis ahora o no?
+20-02-23 22:26:37 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:26:42 (1) #KbN! Nitho killed (2) #KbN! chub0 with Grenade
+20-02-23 22:26:45 Zorro Espectador captured the Red Flag
+20-02-23 22:26:51 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:26:53 #KbN! Nitho captured the Blue Flag
+20-02-23 22:26:53 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:27:01 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:27:08 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Ruger 77
+20-02-23 22:27:15 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:27:25 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Ruger 77
+20-02-23 22:27:27 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-02-23 22:27:28 #KbN! Nitho scores for Alpha Team
+20-02-23 22:27:30 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Ruger 77
+20-02-23 22:27:31 (2) #KbN! chub0 killed (1) #KbN! Nitho with Ruger 77
+20-02-23 22:27:31 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-02-23 22:27:32 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-02-23 22:27:32 |D.Forc3|.LinkirD has joined as spectator.
+20-02-23 22:27:35 #KbN! chub0 captured the Red Flag
+20-02-23 22:27:42 [Zorro Espectador] XD
+20-02-23 22:27:47 (1) #KbN! Nitho killed (2) #KbN! chub0 with Grenade
+20-02-23 22:27:50 #KbN! Nitho captured the Blue Flag
+20-02-23 22:27:50 |D.Forc3|.LinkirD has left spectators
+20-02-23 22:27:52 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:28:01 #KbN! chub0 captured the Red Flag
+20-02-23 22:28:05 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:28:05 [#KbN! Nitho] Yeah
+20-02-23 22:28:06 Zorro Espectador returned the Blue Flag
+20-02-23 22:28:09 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:28:13 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:28:16 #KbN! Nitho is flooding the server
+20-02-23 22:28:16 Zorro Espectador captured the Red Flag
+20-02-23 22:28:20 Zorro Espectador captured the Red Flag
+20-02-23 22:28:25 #KbN! chub0 captured the Red Flag
+20-02-23 22:28:32 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:28:35 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-02-23 22:28:37 #KbN! Shaka! joining game (190.160.115.174:23073) HWID:5FD3AE3E9B6
+20-02-23 22:28:37 #KbN! Shaka! has joined as spectator.
+20-02-23 22:28:48 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:28:51 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:28:52 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:28:52 Zorro Espectador returned the Blue Flag
+20-02-23 22:28:59 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Grenade
+20-02-23 22:28:59 #KbN! Nitho captured the Blue Flag
+20-02-23 22:29:05 [#KbN! ChronoCL] zorro tienes clan?
+20-02-23 22:29:06 Time Left: 5 minutes
+20-02-23 22:29:06 (2) Zorro Espectador killed (1) #KbN! Nitho with Grenade
+20-02-23 22:29:06 Zorro Espectador returned the Blue Flag
+20-02-23 22:29:07 [#KbN! Nitho] No!
+20-02-23 22:29:09 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with M79
+20-02-23 22:29:12 (1) #KbN! Nitho killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:29:18 [Zorro Espectador] no pero no s√© qu√© voy a hacer
+20-02-23 22:29:20 #KbN! chub0 captured the Red Flag
+20-02-23 22:29:22 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:29:25 #KbN! Nitho returned the Red Flag
+20-02-23 22:29:27 [#KbN! ChronoCL] no te hagas de rogar ctm
+20-02-23 22:29:28 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:29:32 [#KbN! ChronoCL] <3
+20-02-23 22:29:32 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with M79
+20-02-23 22:29:34 [Zorro Espectador] jajajaja quiz√°s juegue con skit no s√©
+20-02-23 22:29:35 [Zorro Espectador] pero gracias
+20-02-23 22:29:37 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:29:45 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:29:45 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:29:47 [#KbN! ChronoCL] no te estoy ofreciendo estoy preguntado jajajaj <3
+20-02-23 22:29:49 Zorro Espectador captured the Red Flag
+20-02-23 22:29:51 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:29:59 [#KbN! ChronoCL] pero estan abiertas las puertas
+20-02-23 22:30:00 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:30:01 [#KbN! Nitho] Die!
+20-02-23 22:30:05 [Zorro Espectador] <3
+20-02-23 22:30:06 Time Left: 4 minutes
+20-02-23 22:30:07 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:30:10 Zorro Espectador captured the Red Flag
+20-02-23 22:30:10 Zorro Espectador scores for Bravo Team
+20-02-23 22:30:13 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:30:17 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:30:20 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:30:22 Zorro Espectador captured the Red Flag
+20-02-23 22:30:23 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:30:27 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:30:29 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:30:31 #KbN! ChronoCL scores for Alpha Team
+20-02-23 22:30:32 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with M79
+20-02-23 22:30:34 #KbN! chub0 captured the Red Flag
+20-02-23 22:30:38 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with M79
+20-02-23 22:30:42 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:30:43 [#KbN! Nitho] Die!
+20-02-23 22:30:44 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:30:44 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:30:46 [Zorro Espectador] Hurraaaa!!!
+20-02-23 22:30:46 #KbN! chub0 scores for Bravo Team
+20-02-23 22:30:51 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:30:57 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:30:57 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-02-23 22:31:02 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-02-23 22:31:02 |D.Forc3|.LinkirD joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-02-23 22:31:02 |D.Forc3|.LinkirD has joined as spectator.
+20-02-23 22:31:06 Time Left: 3 minutes
+20-02-23 22:31:06 #KbN! Shaka! has joined bravo team.
+20-02-23 22:31:08 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:31:08 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:31:12 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:31:13 #KbN! chub0 returned the Blue Flag
+20-02-23 22:31:14 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:31:20 #KbN! Shaka! captured the Red Flag
+20-02-23 22:31:21 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:31:22 (2) #KbN! Shaka! killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:31:23 [#KbN! Nitho] No!
+20-02-23 22:31:25 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:31:27 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:31:28 [Zorro Espectador] medic falso
+20-02-23 22:31:30 [Zorro Espectador] como tu amor shaka ;<
+20-02-23 22:31:41 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:31:46 (2) #KbN! Shaka! killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:31:49 [Zorro Espectador] Hurraaaa!!!
+20-02-23 22:31:56 (1) #KbN! Nitho killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:31:57 [Zorro Espectador] Hurraaaa!!!
+20-02-23 22:32:00 (2) #KbN! Shaka! killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:32:06 Time Left: 2 minutes
+20-02-23 22:32:07 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:32:07 Zorro Espectador returned the Blue Flag
+20-02-23 22:32:10 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:32:11 #KbN! Shaka! scores for Bravo Team
+20-02-23 22:32:15 (1) #KbN! Nitho killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:32:25 (1) #KbN! ChronoCL killed (2) #KbN! Shaka! with Grenade
+20-02-23 22:32:26 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:32:31 (1) #KbN! Nitho killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:32:36 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:32:38 (1) #KbN! Nitho killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:32:40 [Zorro Espectador] AJAJJAJAJA
+20-02-23 22:32:43 [#KbN! chub0] ajajajaj
+20-02-23 22:32:47 [Zorro Espectador] perdon chubi wn
+20-02-23 22:32:48 (1) #KbN! ChronoCL killed (2) #KbN! Shaka! with Steyr AUG
+20-02-23 22:32:49 Zorro Espectador captured the Red Flag
+20-02-23 22:32:56 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:00 (2) #KbN! Shaka! killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:33:01 [#KbN! chub0] no oimporta ajaja
+20-02-23 22:33:02 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:03 #KbN! Shaka! returned the Blue Flag
+20-02-23 22:33:06 Time Left: 1 minutes
+20-02-23 22:33:07 (2) #KbN! Shaka! killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:33:07 (2) #KbN! chub0 killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:33:08 [#KbN! Nitho] No!
+20-02-23 22:33:09 (1) #KbN! Nitho killed (2) #KbN! chub0 with Grenade
+20-02-23 22:33:16 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:18 Zorro Espectador scores for Bravo Team
+20-02-23 22:33:21 #KbN! Shaka! captured the Red Flag
+20-02-23 22:33:21 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:33:22 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:33:23 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:33:29 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:36 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:36 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:33:39 79.138.66.158:23073|57E20B7FFF0 requesting game...
+20-02-23 22:33:41 (1) #KbN! Nitho killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:33:42 #KbN! Nitho captured the Blue Flag
+20-02-23 22:33:43 [Zorro Espectador] >:C
+20-02-23 22:33:46 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:33:49 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:33:49 (1) #KbN! ChronoCL killed (2) Zorro Espectador with USSOCOM
+20-02-23 22:33:54 (2) #KbN! chub0 killed (1) #KbN! Nitho with M79
+20-02-23 22:33:55 (2) #KbN! Shaka! killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:34:00 Zorro Espectador returned the Blue Flag
+20-02-23 22:34:01 (1) #KbN! Nitho killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:34:02 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Grenade
+20-02-23 22:34:05 (2) #KbN! Shaka! killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:34:06 Next map: ctf_MFM
+20-02-23 22:34:10 [#KbN! Nitho] QUE ONDA LOS MIS
+20-02-23 22:34:11 MFM 2 by mar77a
+20-02-23 22:34:22 (1) #KbN! Nitho killed (2) #KbN! Shaka! with Desert Eagles
+20-02-23 22:34:22 [#KbN! chub0] !map ctf_Guardian
+20-02-23 22:34:24 [#KbN! Nitho] Yeah
+20-02-23 22:34:27 ctf_Guardian by SuoW
+20-02-23 22:34:28 [#KbN! chub0] hola linkird
+20-02-23 22:34:29 #KbN! Shaka! has joined alpha team.
+20-02-23 22:34:38 (1) #KbN! Shaka! killed (2) Zorro Espectador with Barrett M82A1
+20-02-23 22:34:41 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:34:42 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:34:45 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 22:34:51 (1) #KbN! Shaka! killed (2) Zorro Espectador with Barrett M82A1
+20-02-23 22:34:53 (1) #KbN! Nitho killed (2) #KbN! chub0 with Ak-74
+20-02-23 22:34:56 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:35:00 (2) #KbN! chub0 killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:35:04 #KbN! Shaka! scores for Alpha Team
+20-02-23 22:35:06 #KbN! chub0 captured the Red Flag
+20-02-23 22:35:12 [Zorro Espectador] Hurraaaa!!!
+20-02-23 22:35:14 (2) #KbN! chub0 killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:35:15 [#KbN! Nitho] Die!
+20-02-23 22:35:15 #KbN! chub0 scores for Bravo Team
+20-02-23 22:35:16 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Barrett M82A1
+20-02-23 22:35:17 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:35:22 (1) #KbN! Nitho killed (2) Zorro Espectador with Grenade
+20-02-23 22:35:22 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:35:22 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Barrett M82A1
+20-02-23 22:35:26 #KbN! Shaka! scores for Alpha Team
+20-02-23 22:35:33 (1) #KbN! Nitho killed (2) #KbN! chub0 with Ak-74
+20-02-23 22:35:33 Zorro Espectador captured the Red Flag
+20-02-23 22:35:35 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:35:39 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:35:44 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:35:44 (1) #KbN! Nitho killed (2) #KbN! chub0 with Ak-74
+20-02-23 22:35:49 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Ak-74
+20-02-23 22:35:52 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:35:56 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:35:57 (1) #KbN! Shaka! killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:35:57 (2) Zorro Espectador killed (1) #KbN! Shaka! with M79
+20-02-23 22:36:03 (1) #KbN! Nitho killed (2) #KbN! chub0 with Ak-74
+20-02-23 22:36:07 Zorro Espectador returned the Blue Flag
+20-02-23 22:36:07 Zorro Espectador captured the Red Flag
+20-02-23 22:36:08 (2) Zorro Espectador killed (1) #KbN! Nitho with Grenade
+20-02-23 22:36:09 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:36:12 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Barrett M82A1
+20-02-23 22:36:18 (1) #KbN! Nitho killed (2) #KbN! chub0 with Ak-74
+20-02-23 22:36:23 (2) Zorro Espectador killed (1) #KbN! Shaka! with Combat Knife
+20-02-23 22:36:24 [#KbN! Shaka!] Yes, Sir!
+20-02-23 22:36:25 Zorro Espectador returned the Blue Flag
+20-02-23 22:36:29 (2) #KbN! chub0 killed (1) #KbN! Nitho with Ak-74
+20-02-23 22:36:31 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Barrett M82A1
+20-02-23 22:36:33 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:36:36 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:36:37 [#KbN! Nitho] Yeah
+20-02-23 22:36:41 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:36:41 #KbN! chub0 returned the Blue Flag
+20-02-23 22:36:44 (2) #KbN! chub0 killed (1) #KbN! Nitho with Ak-74
+20-02-23 22:36:47 Zorro Espectador scores for Bravo Team
+20-02-23 22:36:48 45.232.92.69:25621|64995B15DC0 requesting game...
+20-02-23 22:36:49 sT.- YnGwi3 joining game (45.232.92.69:25621) HWID:64995B15DC0
+20-02-23 22:36:49 sT.- YnGwi3 has joined as spectator.
+20-02-23 22:36:52 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:36:55 Zorro Espectador captured the Red Flag
+20-02-23 22:36:56 (1) #KbN! Nitho killed (2) Zorro Espectador with Ak-74
+20-02-23 22:36:58 (2) #KbN! chub0 killed (1) #KbN! Nitho with Ak-74
+20-02-23 22:36:58 [sT.- YnGwi3] jugaran contra MiS?
+20-02-23 22:37:02 #KbN! chub0 captured the Red Flag
+20-02-23 22:37:03 (2) Zorro Espectador killed (1) #KbN! Shaka! with M79
+20-02-23 22:37:06 [#KbN! Shaka!] Die!
+20-02-23 22:37:07 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:37:07 [#KbN! Shaka!] Yeah
+20-02-23 22:37:07 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:37:10 [#KbN! chub0] siii 
+20-02-23 22:37:10 Zorro Espectador captured the Red Flag
+20-02-23 22:37:11 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-02-23 22:37:14 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:37:14 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-02-23 22:37:15 sT#  Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-02-23 22:37:15 sT#  Mand3s has joined as spectator.
+20-02-23 22:37:19 (2) Zorro Espectador killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:37:19 (1) #KbN! Shaka! killed (2) Zorro Espectador with Ak-74
+20-02-23 22:37:20 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:37:22 #KbN! chub0 returned the Blue Flag
+20-02-23 22:37:27 Zorro Espectador captured the Red Flag
+20-02-23 22:37:28 #KbN! ChronoCL has left alpha team.
+20-02-23 22:37:29 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:37:31 #KbN! Nitho returned the Red Flag
+20-02-23 22:37:33 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:37:37 Zorro Espectador captured the Red Flag
+20-02-23 22:37:40 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:37:40 (1) #KbN! Shaka! killed (2) Zorro Espectador with Ak-74
+20-02-23 22:37:41 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:37:41 [Zorro Espectador] xd
+20-02-23 22:37:46 (TEAM)[#KbN! chub0] perdon no te cubri y.,y
+20-02-23 22:37:48 (1) #KbN! Shaka! killed (2) Zorro Espectador with M79
+20-02-23 22:37:49 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:37:50 [#KbN! Nitho] No!
+20-02-23 22:37:53 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:37:54 (TEAM)[Zorro Espectador] le pegue una m79que  no lo mato Q_Q
+20-02-23 22:37:57 #KbN! chub0 captured the Red Flag
+20-02-23 22:37:58 (1) #KbN! Shaka! killed (2) Zorro Espectador with M79
+20-02-23 22:38:02 (1) #KbN! Shaka! killed (2) #KbN! chub0 with M79
+20-02-23 22:38:07 #KbN! Nitho returned the Red Flag
+20-02-23 22:38:08 sT#  Mand3s has left spectators
+20-02-23 22:38:08 sT.- YnGwi3 has left spectators
+20-02-23 22:38:11 (2) Zorro Espectador killed (1) #KbN! Shaka! with M79
+20-02-23 22:38:11 Zorro Espectador returned the Blue Flag
+20-02-23 22:38:12 Zorro Espectador captured the Red Flag
+20-02-23 22:38:13 45.232.92.69:25621|64995B15DC0 requesting game...
+20-02-23 22:38:14 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:38:15 45.232.92.69:25621|64995B15DC0 requesting game...
+20-02-23 22:38:16 sT#' YnGwi3 joining game (45.232.92.69:25621) HWID:64995B15DC0
+20-02-23 22:38:16 sT#' YnGwi3 has joined as spectator.
+20-02-23 22:38:17 Zorro Espectador captured the Red Flag
+20-02-23 22:38:18 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:38:21 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:38:23 Zorro Espectador scores for Bravo Team
+20-02-23 22:38:26 #KbN! Nitho captured the Blue Flag
+20-02-23 22:38:29 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:38:31 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:38:33 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:38:35 #KbN! Nitho scores for Alpha Team
+20-02-23 22:38:40 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:38:43 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:38:43 Zorro Espectador captured the Red Flag
+20-02-23 22:38:50 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-02-23 22:38:50 #KbN! Nitho gets a ping warning
+20-02-23 22:38:50 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:38:51 sT#  Mand3s joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-02-23 22:38:51 sT#  Mand3s has joined as spectator.
+20-02-23 22:38:59 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:39:09 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:39:12 [#KbN! Nitho] No!
+20-02-23 22:39:14 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:39:16 Zorro Espectador captured the Red Flag
+20-02-23 22:39:17 Zorro Espectador returned the Blue Flag
+20-02-23 22:39:19 Zorro Espectador scores for Bravo Team
+20-02-23 22:39:22 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:39:27 Time Left: 5 minutes
+20-02-23 22:39:33 Zorro Espectador captured the Red Flag
+20-02-23 22:39:33 (1) #KbN! Nitho killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:39:35 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:39:36 sT#  Mand3s has left spectators
+20-02-23 22:39:40 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:39:41 190.95.76.123:23073|1C0F2DCE554 requesting game...
+20-02-23 22:39:42 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Combat Knife
+20-02-23 22:39:42 Espectador oficial joining game (190.95.76.123:23073) HWID:1C0F2DCE554
+20-02-23 22:39:42 Espectador oficial has joined as spectator.
+20-02-23 22:39:43 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:39:49 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:39:52 Zorro Espectador returned the Blue Flag
+20-02-23 22:39:53 Zorro Espectador captured the Red Flag
+20-02-23 22:39:54 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:39:55 (2) #KbN! chub0 killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:39:56 [#KbN! Nitho] Yeah
+20-02-23 22:39:58 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:40:00 Zorro Espectador returned the Blue Flag
+20-02-23 22:40:03 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:40:03 [#KbN! Nitho] Die!
+20-02-23 22:40:05 Zorro Espectador scores for Bravo Team
+20-02-23 22:40:07 (TEAM)[Zorro Espectador] qlo weno <3
+20-02-23 22:40:10 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:40:10 (1) #KbN! Shaka! killed (2) Zorro Espectador with M79
+20-02-23 22:40:15 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:40:18 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:40:20 190.215.236.246:23073|68595FC4762 requesting game...
+20-02-23 22:40:21 Zorro Espectador captured the Red Flag
+20-02-23 22:40:21 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:40:22 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:40:24 #KbN! chub0 returned the Blue Flag
+20-02-23 22:40:27 Time Left: 4 minutes
+20-02-23 22:40:30 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:40:30 Zorro Espectador scores for Bravo Team
+20-02-23 22:40:30 (1) #KbN! Shaka! killed (2) #KbN! chub0 with M79
+20-02-23 22:40:30 [#KbN! Nitho] Die!
+20-02-23 22:40:32 (2) Zorro Espectador killed (1) #KbN! Shaka! with M79
+20-02-23 22:40:32 (1) #KbN! Shaka! killed (2) Zorro Espectador with Combat Knife
+20-02-23 22:40:36 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:40:38 #KbN! Nitho captured the Blue Flag
+20-02-23 22:40:38 Korn Comentarista joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-23 22:40:38 Korn Comentarista has joined as spectator.
+20-02-23 22:40:40 #KbN! chub0 is flooding the server
+20-02-23 22:40:41 Zorro Espectador captured the Red Flag
+20-02-23 22:40:41 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:40:42 190.164.34.218:23073|3BFA8474317 requesting game...
+20-02-23 22:40:43 #KbN! ChronoCL joining game (190.164.34.218:23073) HWID:3BFA8474317
+20-02-23 22:40:43 #KbN! ChronoCL has joined alpha team.
+20-02-23 22:40:43 Korn Comentarista has left spectators
+20-02-23 22:40:47 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:40:48 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:40:48 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:40:56 187.56.61.105:23073|755C919E6B4 requesting game...
+20-02-23 22:40:58 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:40:58 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:40:59 (RADIO)[#KbN! chub0] Enemy spotted down!
+20-02-23 22:41:10 #KbN! Nitho gets a ping warning
+20-02-23 22:41:10 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:41:15 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:41:16 [#KbN! Nitho] Yeah
+20-02-23 22:41:17 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:41:18 [#KbN! Shaka!] Yeah
+20-02-23 22:41:18 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:41:19 [Zorro Espectador] jajajaj
+20-02-23 22:41:20 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:41:21 [Zorro Espectador] jajajaj
+20-02-23 22:41:22 #KbN! chub0 returned the Blue Flag
+20-02-23 22:41:22 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:41:24 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:41:24 #KbN! chub0 captured the Red Flag
+20-02-23 22:41:25 [#KbN! Nitho] Die!
+20-02-23 22:41:26 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Combat Knife
+20-02-23 22:41:27 Korn Comentarista joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-23 22:41:27 Korn Comentarista has joined as spectator.
+20-02-23 22:41:27 Time Left: 3 minutes
+20-02-23 22:41:28 Zorro Espectador returned the Blue Flag
+20-02-23 22:41:28 [#KbN! Shaka!] Die!
+20-02-23 22:41:30 #KbN! chub0 scores for Bravo Team
+20-02-23 22:41:30 |D.Forc3|.LinkirD tried to login as Game Admin with bad password
+20-02-23 22:41:31 (2) Zorro Espectador killed (1) #KbN! ChronoCL with M79
+20-02-23 22:41:35 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:41:37 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:41:37 |D.Forc3|.LinkirD added to Game Admins
+20-02-23 22:41:38 (TEAM)[Zorro Espectador] salio wena esa
+20-02-23 22:41:40 Zorro Espectador captured the Red Flag
+20-02-23 22:41:41 (TEAM)[#KbN! chub0] see
+20-02-23 22:41:45 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:41:46 187.56.61.105:23073|755C919E6B4 requesting game...
+20-02-23 22:41:51 /kick 8(200.86.99.83[|D.Forc3|.LinkirD])
+20-02-23 22:41:51 Korn Comentarista has been kicked.(201.239.214.185)
+20-02-23 22:41:51 (2) #KbN! chub0 killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:41:58 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:41:58 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:42:00 (2) Zorro Espectador killed (1) #KbN! Shaka! with M79
+20-02-23 22:42:00 (RADIO)[#KbN! chub0] Enemy spotted up!
+20-02-23 22:42:00 [#KbN! Shaka!] Die!
+20-02-23 22:42:02 Zorro Espectador returned the Blue Flag
+20-02-23 22:42:07 (2) Zorro Espectador killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:42:07 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:42:08 [#KbN! Nitho] Yeah
+20-02-23 22:42:10 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:42:12 [Zorro Espectador] JAJAJJAJAA
+20-02-23 22:42:14 #KbN! chub0 captured the Red Flag
+20-02-23 22:42:15 [Zorro Espectador] le tir√© una hk
+20-02-23 22:42:16 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:42:18 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:42:21 (1) #KbN! Nitho killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:42:21 |D.Forc3|.LinkirD has left spectators
+20-02-23 22:42:22 #KbN! chub0 scores for Bravo Team
+20-02-23 22:42:27 Time Left: 2 minutes
+20-02-23 22:42:28 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:42:29 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:42:32 (1) #KbN! Shaka! killed (2) Zorro Espectador with M79
+20-02-23 22:42:37 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:42:40 (1) #KbN! Shaka! killed (2) #KbN! chub0 with M79
+20-02-23 22:42:41 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:42:41 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:42:43 (RADIO)[#KbN! chub0] Enemy spotted down!
+20-02-23 22:42:47 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:42:48 #KbN! Shaka! scores for Alpha Team
+20-02-23 22:42:51 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:42:51 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:42:54 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:42:56 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:43:00 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:43:03 #KbN! Shaka! scores for Alpha Team
+20-02-23 22:43:04 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Grenade
+20-02-23 22:43:07 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:43:11 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:43:11 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:43:16 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:43:18 (2) Zorro Espectador killed (1) #KbN! Shaka! with Spas-12
+20-02-23 22:43:20 Zorro Espectador returned the Blue Flag
+20-02-23 22:43:21 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:43:21 (2) Zorro Espectador killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:43:22 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:43:27 77.138.82.136:23073|CF2FD1A71BC requesting game...
+20-02-23 22:43:27 Time Left: 1 minutes
+20-02-23 22:43:28 #KbN! chub0 captured the Red Flag
+20-02-23 22:43:29 [#KbN! Nitho] QUE ONDA LOS MIS
+20-02-23 22:43:29 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:43:31 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:43:31 (2) #KbN! chub0 killed (1) #KbN! Nitho with LAW
+20-02-23 22:43:31 Korn Comentarista joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-23 22:43:31 Korn Comentarista has joined as spectator.
+20-02-23 22:43:33 (2) Zorro Espectador killed (1) #KbN! Shaka! with Spas-12
+20-02-23 22:43:35 [#KbN! Shaka!] ya viene mis
+20-02-23 22:43:37 #KbN! Nitho gets a ping warning
+20-02-23 22:43:37 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:43:37 [#KbN! Shaka!] ya viene mis
+20-02-23 22:43:38 #KbN! chub0 returned the Blue Flag
+20-02-23 22:43:39 #KbN! chub0 scores for Bravo Team
+20-02-23 22:43:42 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Grenade
+20-02-23 22:43:45 (2) Zorro Espectador killed (1) #KbN! Nitho with Spas-12
+20-02-23 22:43:45 (1) #KbN! Nitho killed (2) Zorro Espectador with Grenade
+20-02-23 22:43:51 (2) Zorro Espectador killed (1) #KbN! Shaka! with Spas-12
+20-02-23 22:43:53 [#KbN! Nitho] PA ESO MEJOR DECIAN QUE JUGABAMOS A LAS 11
+20-02-23 22:43:53 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:43:54 (1) #KbN! Nitho killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:43:59 Zorro Espectador captured the Red Flag
+20-02-23 22:43:59 [#KbN! Shaka!] :Q
+20-02-23 22:44:01 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:44:01 (1) #KbN! Shaka! killed (2) Zorro Espectador with M79
+20-02-23 22:44:03 [#KbN! Nitho] :(
+20-02-23 22:44:05 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:44:06 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:44:08 (2) #KbN! chub0 killed (1) #KbN! Nitho with LAW
+20-02-23 22:44:09 [#KbN! Nitho] Yeah
+20-02-23 22:44:12 (1) #KbN! Shaka! killed (2) #KbN! chub0 with M79
+20-02-23 22:44:12 #KbN! Shaka! returned the Red Flag
+20-02-23 22:44:14 Zorro Espectador captured the Red Flag
+20-02-23 22:44:21 [#KbN! Shaka!] en 5min empezamos
+20-02-23 22:44:23 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:44:24 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:44:27 Next map: ctf_Run
+20-02-23 22:44:33 Run
+20-02-23 22:44:35 #KbN! Shaka! has left alpha team.
+20-02-23 22:44:35 [#KbN! chub0] !map ctf_Rotten
+20-02-23 22:44:40 Rotten by Biggles
+20-02-23 22:44:48 #KbN! chub0 captured the Red Flag
+20-02-23 22:44:53 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-02-23 22:44:55 #KbN! Shaka! joining game (190.160.115.174:23073) HWID:5FD3AE3E9B6
+20-02-23 22:44:55 #KbN! Shaka! has joined alpha team.
+20-02-23 22:44:55 #KbN! chub0 scores for Bravo Team
+20-02-23 22:45:02 #KbN! chub0 captured the Red Flag
+20-02-23 22:45:06 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:45:07 [#KbN! Shaka!] llamen a fall
+20-02-23 22:45:10 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:45:16 Zorro Espectador captured the Red Flag
+20-02-23 22:45:18 (2) Zorro Espectador killed (1) #KbN! Nitho with M79
+20-02-23 22:45:18 (1) #KbN! ChronoCL killed (2) Zorro Espectador with Steyr AUG
+20-02-23 22:45:22 Zorro Espectador has joined spectators.
+20-02-23 22:45:23 (1) #KbN! Shaka! killed (2) #KbN! chub0 with HK MP5
+20-02-23 22:45:27 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:45:36 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:45:37 #KbN! ChronoCL scores for Alpha Team
+20-02-23 22:45:41 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:45:47 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:45:53 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:45:56 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:45:59 45.232.92.80:6274|D3086AF6F01 requesting game...
+20-02-23 22:46:00 #KbN! chub0 captured the Red Flag
+20-02-23 22:46:01 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:46:04 .:{MIS}:. Kill_Frenzy joining game (45.232.92.80:6274) HWID:D3086AF6F01
+20-02-23 22:46:04 .:{MIS}:. Kill_Frenzy has joined bravo team.
+20-02-23 22:46:08 #KbN! chub0 scores for Bravo Team
+20-02-23 22:46:11 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:46:11 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Grenade
+20-02-23 22:46:12 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:46:16 (1) #KbN! Shaka! killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:46:17 [#KbN! chub0] buen 2v2 zorro
+20-02-23 22:46:19 [#KbN! chub0] :D
+20-02-23 22:46:20 #KbN! ChronoCL scores for Alpha Team
+20-02-23 22:46:26 [#KbN! Shaka!] chrono a la banca
+20-02-23 22:46:27 .:{MIS}:. Kill_Frenzy has left bravo team.
+20-02-23 22:46:27 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:46:38 [#KbN! ChronoCL] te paso por el pico
+20-02-23 22:46:41 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Combat Knife
+20-02-23 22:46:41 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:46:48 [#KbN! ChronoCL] <3
+20-02-23 22:46:48 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:46:48 45.232.92.80:6274|D3086AF6F01 requesting game...
+20-02-23 22:46:49 [#KbN! Nitho] POR EL √ëACKSON SE DICE AHORA
+20-02-23 22:46:50 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:46:51 .:{MIS}:. Kill_Frenzy joining game (45.232.92.80:6274) HWID:D3086AF6F01
+20-02-23 22:46:51 .:{MIS}:. Kill_Frenzy has joined as spectator.
+20-02-23 22:46:54 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:46:56 190.47.139.217:23073|348574D9644 requesting game...
+20-02-23 22:46:58 F4ll.cL joining game (190.47.139.217:23073) HWID:348574D9644
+20-02-23 22:46:58 F4ll.cL has joined as spectator.
+20-02-23 22:47:00 .:{MIS}:. Kill_Frenzy has left spectators
+20-02-23 22:47:03 (2) #KbN! chub0 killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:47:05 45.232.92.80:6274|D3086AF6F01 requesting game...
+20-02-23 22:47:07 .:{MIS}:. Kill_Frenzy joining game (45.232.92.80:6274) HWID:D3086AF6F01
+20-02-23 22:47:07 .:{MIS}:. Kill_Frenzy has joined as spectator.
+20-02-23 22:47:10 (TEAM)[Zorro Espectador] fall d√©janos spectear
+20-02-23 22:47:14 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:47:16 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:47:16 (1) #KbN! Shaka! killed (2) #KbN! chub0 with HK MP5
+20-02-23 22:47:18 (TEAM)[Zorro Espectador] ocupa tu posici√≥n de privilegios al favor de los oprimidos
+20-02-23 22:47:23 (TEAM)[#KbN! ChronoCL] juegas tu shaka?
+20-02-23 22:47:25 (TEAM)[Zorro Espectador] muerte al guat√≥n skippo
+20-02-23 22:47:26 (2) #KbN! chub0 killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:47:28 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:47:28 (TEAM)[#KbN! Shaka!] juega tu ash primero
+20-02-23 22:47:31 (TEAM)[Zorro Espectador] #todaslasbalassevanadevolver
+20-02-23 22:47:31 #KbN! chub0 returned the Blue Flag
+20-02-23 22:47:35 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:47:38 (TEAM)[#KbN! Shaka!] juegan mejor los 3 en ese
+20-02-23 22:47:40 #KbN! Nitho captured the Blue Flag
+20-02-23 22:47:41 (1) #KbN! ChronoCL killed (2) #KbN! chub0 with Steyr AUG
+20-02-23 22:47:42 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:47:47 #KbN! Nitho scores for Alpha Team
+20-02-23 22:47:52 #KbN! chub0 captured the Red Flag
+20-02-23 22:47:52 [#KbN! ChronoCL] !map ctf_x
+20-02-23 22:47:58 ctf_X version 2.0 by SuoW
+20-02-23 22:48:04 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:48:05 201.239.147.125:23073|2B88B9A80F7 requesting game...
+20-02-23 22:48:06 (2) #KbN! chub0 killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 22:48:06 201.215.42.249:23073|406EA06E6F0 requesting game...
+20-02-23 22:48:08 (2) #KbN! chub0 killed (1) #KbN! Nitho with Grenade
+20-02-23 22:48:08 (1) #KbN! Nitho killed (2) #KbN! chub0 with Spas-12
+20-02-23 22:48:09 .:{MIS}:. H[2]O joining game (201.215.42.249:23073) HWID:406EA06E6F0
+20-02-23 22:48:09 .:{MIS}:. H[2]O has joined bravo team.
+20-02-23 22:48:09 Korn Comentarista has left spectators
+20-02-23 22:48:10 201.239.147.125:23073|2B88B9A80F7 requesting game...
+20-02-23 22:48:12 .:{MIS}:. - JoWeL joining game (201.239.147.125:23073) HWID:2B88B9A80F7
+20-02-23 22:48:12 .:{MIS}:. - JoWeL has joined bravo team.
+20-02-23 22:48:12 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 22:48:13 Korn Comentarista joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-23 22:48:13 Korn Comentarista has joined as spectator.
+20-02-23 22:48:14 (2) #KbN! chub0 killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:48:14 .:{MIS}:. - JoWeL has left bravo team.
+20-02-23 22:48:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 22:48:18 (1) #KbN! Nitho killed (2) #KbN! chub0 with Spas-12
+20-02-23 22:48:21 #KbN! Nitho captured the Blue Flag
+20-02-23 22:48:21 [#KbN! ChronoCL] !map ctf_laos
+20-02-23 22:48:21 [.:{MIS}:. Kill_Frenzy] !b
+20-02-23 22:48:22 [#KbN! Nitho] Yeah
+20-02-23 22:48:23 [F4ll.cL] la previa
+20-02-23 22:48:24 [F4ll.cL] esta onnnnnnnnn
+20-02-23 22:48:27 Laos
+20-02-23 22:48:27 201.239.147.125:23073|2B88B9A80F7 requesting game...
+20-02-23 22:48:29 .:{MIS}:. - JoWeL joining game (201.239.147.125:23073) HWID:2B88B9A80F7
+20-02-23 22:48:29 .:{MIS}:. - JoWeL has joined bravo team.
+20-02-23 22:48:29 .:{MIS}:. Kill_Frenzy has joined bravo team.
+20-02-23 22:48:33 [#KbN! chub0] !a
+20-02-23 22:48:33 #KbN! chub0 has joined alpha team.
+20-02-23 22:48:38 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 22:48:54 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:48:56 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:48:57 #KbN! chub0 captured the Blue Flag
+20-02-23 22:48:58 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:48:58 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:48:59 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:49:01 [#KbN! ChronoCL] Fall te amo
+20-02-23 22:49:02 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 22:49:06 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:49:10 #KbN! chub0 scores for Alpha Team
+20-02-23 22:49:14 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:49:20 #KbN! Shaka! captured the Blue Flag
+20-02-23 22:49:20 .:{MIS}:. H[2]O gets a ping warning
+20-02-23 22:49:20 [Zorro Espectador] FALL QUE OPINA A PROPOSITO DEL BAN POR MOTIVOS POL√çTICOS DE SKIPPO?
+20-02-23 22:49:20 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:49:24 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:49:25 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:49:28 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:49:29 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 22:49:30 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 22:49:30 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:49:33 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:49:34 [#KbN! Shaka!] lol
+20-02-23 22:49:34 #KbN! Nitho returned the Red Flag
+20-02-23 22:49:35 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 22:49:38 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:49:40 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Barrett M82A1
+20-02-23 22:49:41 [#KbN! ChronoCL] !map ctf_ash
+20-02-23 22:49:47 ctf_Ash by chakapoko maker
+20-02-23 22:49:47 [.:{MIS}:. H[2]O] ya? B
+20-02-23 22:49:58 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:50:01 #KbN! Shaka! has joined spectators.
+20-02-23 22:50:01 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:50:03 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:50:04 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:50:07 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 22:50:08 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:50:10 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:50:12 #KbN! Shaka! has left spectators
+20-02-23 22:50:15 [.:{MIS}:. - JoWeL] 4v3 ?
+20-02-23 22:50:19 [.:{MIS}:. H[2]O] iugual no mas xDDD
+20-02-23 22:50:19 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:50:20 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 22:50:23 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:50:24 [.:{MIS}:. H[2]O] el resultado es el mismo jajajaja
+20-02-23 22:50:29 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with LAW
+20-02-23 22:50:30 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:50:30 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:50:39 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:50:45 #KbN! chub0 captured the Blue Flag
+20-02-23 22:50:46 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:50:51 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Barrett M82A1
+20-02-23 22:50:51 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:50:51 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:50:55 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:50:56 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:50:57 [#KbN! chub0] No!
+20-02-23 22:50:58 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:51:01 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Hands
+20-02-23 22:51:01 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:51:03 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 22:51:06 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 22:51:07 [#KbN! ChronoCL] listos?
+20-02-23 22:51:10 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 22:51:11 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:51:14 [.:{MIS}:. H[2]O] tno pero go no mas jajjaja
+20-02-23 22:51:15 [Zorro Espectador] esas caderas agua :$
+20-02-23 22:51:16 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:51:17 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:51:21 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 22:51:22 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 22:51:24 [.:{MIS}:. H[2]O] :*
+20-02-23 22:51:31 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:51:33 (TEAM)[F4ll.cL] Yngewie tu moderaras?
+20-02-23 22:51:34 [#KbN! ChronoCL] ash
+20-02-23 22:51:36 #KbN! chub0 captured the Blue Flag
+20-02-23 22:51:37 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:51:37 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 22:51:38 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:51:39 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 22:51:43 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 22:51:46 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:51:49 [.:{MIS}:. H[2]O] ya pos que riki martin esta cantando
+20-02-23 22:51:49 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:51:49 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 22:51:53 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 22:51:53 [#KbN! ChronoCL] Shaka es Banca de corazon
+20-02-23 22:51:53 [#KbN! chub0] jajaaj
+20-02-23 22:51:55 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 22:51:56 (TEAM)[sT#' YnGwi3] ok xd 
+20-02-23 22:52:03 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:52:06 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:52:11 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:52:12 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Grenade
+20-02-23 22:52:14 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:52:17 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:52:18 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:52:20 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:52:22 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:52:23 [sT#' YnGwi3] Digan sus mapas
+20-02-23 22:52:23 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 22:52:23 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Combat Knife
+20-02-23 22:52:24 [#KbN! ChronoCL] go?
+20-02-23 22:52:32 [#KbN! ChronoCL] Mapa: X y LAOS
+20-02-23 22:52:35 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Barrett M82A1
+20-02-23 22:52:36 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:52:36 [#KbN! chub0] No!
+20-02-23 22:52:38 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:52:41 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:52:48 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:52:48 [#KbN! ChronoCL] sin juicio de valor FALL
+20-02-23 22:52:50 #KbN! chub0 captured the Blue Flag
+20-02-23 22:52:51 [.:{MIS}:. H[2]O] kampf y
+20-02-23 22:52:54 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:52:58 #KbN! chub0 scores for Alpha Team
+20-02-23 22:53:04 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:53:05 [#KbN! ChronoCL] algunos siguen weones
+20-02-23 22:53:07 [#KbN! ChronoCL] <3
+20-02-23 22:53:07 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:53:07 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 22:53:11 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:53:12 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Combat Knife
+20-02-23 22:53:14 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:53:18 [.:{MIS}:. H[2]O] !maplist
+20-02-23 22:53:18 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 22:53:19 [sT#' YnGwi3] kampf y? xd
+20-02-23 22:53:19 [.:{MIS}:. H[2]O] xD
+20-02-23 22:53:21 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:53:22 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 22:53:23 [#KbN! Nitho] Yeah
+20-02-23 22:53:25 Espectador oficial gets a ping warning
+20-02-23 22:53:25 [#KbN! ChronoCL] <3 ajjajaj si me voy a salir
+20-02-23 22:53:27 [.:{MIS}:. H[2]O] tnuubia
+20-02-23 22:53:28 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:53:30 [#KbN! ChronoCL] pero hasta que partamos <3
+20-02-23 22:53:31 [sT#' YnGwi3] ok 
+20-02-23 22:53:36 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Combat Knife
+20-02-23 22:53:38 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:53:38 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:53:41 [#KbN! ChronoCL] ponte adrian y los dados negros porfa
+20-02-23 22:53:45 [#KbN! ChronoCL] para prenderme
+20-02-23 22:53:47 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Desert Eagles
+20-02-23 22:53:48 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 22:53:49 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:53:56 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:53:56 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 22:53:58 200.120.105.13:23073|41E4C1F0765 requesting game...
+20-02-23 22:53:58 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:53:59 #KbN! Nitho captured the Blue Flag
+20-02-23 22:54:01 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 22:54:01 sT#' SeenzacL* joining game (200.120.105.13:23073) HWID:41E4C1F0765
+20-02-23 22:54:01 sT#' SeenzacL* has joined as spectator.
+20-02-23 22:54:03 [sT#' YnGwi3] ok R tonce
+20-02-23 22:54:09 #KbN! Nitho scores for Alpha Team
+20-02-23 22:54:11 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Ruger 77
+20-02-23 22:54:11 [#KbN! ChronoCL] LAOS y X
+20-02-23 22:54:15 [.:{MIS}:. - JoWeL] !r
+20-02-23 22:54:16 [sT#' YnGwi3] primero ash dps el ganador elige su mapa 
+20-02-23 22:54:16 [#KbN! Nitho] Yeah
+20-02-23 22:54:20 [sT#' YnGwi3] que jugara primero
+20-02-23 22:54:20 ctf_Ash by chakapoko maker
+20-02-23 22:54:24 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 22:54:28 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:54:30 #KbN! chub0 captured the Blue Flag
+20-02-23 22:54:33 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 22:54:35 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:54:36 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:54:38 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 22:54:39 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 22:54:43 [#KbN! ChronoCL] partimos?
+20-02-23 22:54:46 [.:{MIS}:. H[2]O] i xD
+20-02-23 22:54:50 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:54:51 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:54:52 #KbN! Nitho captured the Blue Flag
+20-02-23 22:54:55 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:54:57 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:54:59 201.241.245.222:23073|67E50C25C48 requesting game...
+20-02-23 22:55:01 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 22:55:03 201.241.245.222:23073|67E50C25C48 requesting game...
+20-02-23 22:55:03 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:55:03 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:55:06 DeFkOndOz* joining game (201.241.245.222:23073) HWID:67E50C25C48
+20-02-23 22:55:06 DeFkOndOz* has joined as spectator.
+20-02-23 22:55:09 #KbN! Nitho returned the Red Flag
+20-02-23 22:55:11 #KbN! Nitho scores for Alpha Team
+20-02-23 22:55:15 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:55:20 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 22:55:20 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:55:20 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:55:22 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:55:27 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 22:55:30 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:55:30 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:55:32 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:55:39 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:55:42 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:55:44 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:55:45 #KbN! chub0 captured the Blue Flag
+20-02-23 22:55:48 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 22:55:51 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Grenade
+20-02-23 22:55:54 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 22:55:55 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 22:55:56 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 22:55:58 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 22:55:59 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:55:59 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:56:05 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 22:56:06 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 22:56:10 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Ruger 77
+20-02-23 22:56:11 #KbN! chub0 returned the Red Flag
+20-02-23 22:56:13 (TEAM)[Zorro Espectador] fall escucho tu stream con mucho lag :v
+20-02-23 22:56:14 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 22:56:18 (TEAM)[Zorro Espectador] hay c√≥mo arreglarlo?
+20-02-23 22:56:19 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:56:20 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 22:56:21 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:56:21 #KbN! ChronoCL scores for Alpha Team
+20-02-23 22:56:22 #KbN! chub0 captured the Blue Flag
+20-02-23 22:56:26 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Ruger 77
+20-02-23 22:56:27 #KbN! Nitho gets a ping warning
+20-02-23 22:56:27 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 22:56:27 [sT#' YnGwi3] afk
+20-02-23 22:56:30 [sT#' YnGwi3] a no
+20-02-23 22:56:30 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:56:31 #KbN! Nitho captured the Blue Flag
+20-02-23 22:56:32 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:56:36 #KbN! Nitho scores for Alpha Team
+20-02-23 22:56:41 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 22:56:41 186.11.79.227:62861|F022DA6E3A0 requesting game...
+20-02-23 22:56:43 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Ruger 77
+20-02-23 22:56:43 WarFare joining game (186.11.79.227:62861) HWID:F022DA6E3A0
+20-02-23 22:56:43 WarFare has joined as spectator.
+20-02-23 22:56:47 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:56:49 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:56:49 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:56:50 (TEAM)[Espectador oficial] chubi es mi dios
+20-02-23 22:56:56 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 22:56:57 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:56:57 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:57:01 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 22:57:03 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 22:57:06 #KbN! Nitho captured the Blue Flag
+20-02-23 22:57:10 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 22:57:10 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Combat Knife
+20-02-23 22:57:12 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:57:13 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:57:16 186.11.79.227:62861|F022DA6E3A0 requesting game...
+20-02-23 22:57:17 sT#' WarFare joining game (186.11.79.227:62861) HWID:F022DA6E3A0
+20-02-23 22:57:17 sT#' WarFare has joined as spectator.
+20-02-23 22:57:17 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:57:17 sT#' WarFare is flooding the server
+20-02-23 22:57:17 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 22:57:19 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:57:22 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:57:24 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:57:24 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:57:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 22:57:28 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:57:30 #KbN! chub0 captured the Blue Flag
+20-02-23 22:57:30 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 22:57:33 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 22:57:35 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 22:57:36 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:57:39 #KbN! Nitho captured the Blue Flag
+20-02-23 22:57:40 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 22:57:43 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:57:47 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Grenade
+20-02-23 22:57:47 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:57:49 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 22:57:51 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 22:57:53 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:57:53 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 22:57:58 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 22:58:01 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 22:58:02 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with USSOCOM
+20-02-23 22:58:08 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:58:10 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Spas-12
+20-02-23 22:58:15 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:58:18 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 22:58:19 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 22:58:23 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 22:58:29 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 22:58:29 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:58:30 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:58:31 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:58:35 .:{MIS}:. H[2]O is flooding the server
+20-02-23 22:58:36 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with USSOCOM
+20-02-23 22:58:38 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:58:38 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 22:58:41 #KbN! chub0 captured the Blue Flag
+20-02-23 22:58:47 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 22:58:47 #KbN! chub0 scores for Alpha Team
+20-02-23 22:58:47 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:58:55 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 22:59:10 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 22:59:11 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 22:59:12 #KbN! Nitho captured the Blue Flag
+20-02-23 22:59:12 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 22:59:16 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Ruger 77
+20-02-23 22:59:17 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Grenade
+20-02-23 22:59:20 Time Left: 5 minutes
+20-02-23 22:59:21 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 22:59:22 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 22:59:22 sT#' WarFare gets a ping warning
+20-02-23 22:59:23 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 22:59:26 #KbN! ChronoCL returned the Red Flag
+20-02-23 22:59:28 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 22:59:29 #KbN! Nitho gets a ping warning
+20-02-23 22:59:29 sT#' WarFare gets a ping warning
+20-02-23 22:59:33 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 22:59:33 #KbN! ChronoCL captured the Blue Flag
+20-02-23 22:59:33 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:59:37 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 22:59:45 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 22:59:50 sT#' WarFare gets a ping warning
+20-02-23 22:59:52 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 22:59:58 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:00:02 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:00:02 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Combat Knife
+20-02-23 23:00:03 [#KbN! Nitho] No!
+20-02-23 23:00:04 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:00:08 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:00:10 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:00:16 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:00:20 Time Left: 4 minutes
+20-02-23 23:00:22 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Ruger 77
+20-02-23 23:00:22 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Ruger 77
+20-02-23 23:00:22 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:00:24 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Grenade
+20-02-23 23:00:25 [.:{MIS}:. - JoWeL] Die!
+20-02-23 23:00:27 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:00:34 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:00:34 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:00:43 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Steyr AUG
+20-02-23 23:00:46 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:00:47 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:00:47 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:00:52 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:00:54 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:00:54 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:00:57 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 23:00:57 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Ruger 77
+20-02-23 23:01:04 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:01:05 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:01:05 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:01:13 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:01:13 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:01:18 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:01:20 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Grenade
+20-02-23 23:01:20 Time Left: 3 minutes
+20-02-23 23:01:21 [#KbN! chub0] No!
+20-02-23 23:01:23 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:01:25 (TEAM)[Zorro Espectador] maxi valuable player MVP
+20-02-23 23:01:27 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:01:30 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:01:37 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Grenade
+20-02-23 23:01:40 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:01:40 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:01:42 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:01:45 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:01:46 #KbN! Nitho captured the Blue Flag
+20-02-23 23:01:50 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Grenade
+20-02-23 23:01:52 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 23:01:54 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:01:55 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:01:56 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:01:57 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:02:03 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:02:03 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 23:02:04 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:02:04 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:02:05 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:02:06 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:02:08 #KbN! Nitho returned the Red Flag
+20-02-23 23:02:08 #KbN! chub0 captured the Blue Flag
+20-02-23 23:02:11 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:02:12 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:02:15 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:02:19 #KbN! chub0 scores for Alpha Team
+20-02-23 23:02:20 Time Left: 2 minutes
+20-02-23 23:02:21 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:02:28 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:02:29 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:02:33 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:02:34 #KbN! chub0 captured the Blue Flag
+20-02-23 23:02:38 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:02:49 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:02:50 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:02:52 (TEAM)[F4ll.cL] chicos
+20-02-23 23:02:52 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:02:56 (TEAM)[F4ll.cL] salgan q le dan lag a los jugadores
+20-02-23 23:02:57 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:03:03 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:03:04 (TEAM)[F4ll.cL] jaja venganse al stream
+20-02-23 23:03:04 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:03:06 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:03:07 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:03:11 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:03:11 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:03:13 #KbN! Nitho captured the Blue Flag
+20-02-23 23:03:13 #KbN! Nitho scores for Alpha Team
+20-02-23 23:03:15 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:03:16 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Ruger 77
+20-02-23 23:03:17 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:03:18 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:03:20 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:03:20 Time Left: 1 minutes
+20-02-23 23:03:25 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:03:27 sT#' WarFare gets a ping warning
+20-02-23 23:03:27 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:03:30 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:03:30 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:03:30 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:03:31 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:03:36 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:03:38 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:03:44 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Ruger 77
+20-02-23 23:03:50 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:03:54 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:03:55 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:03:57 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:03:59 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:04:03 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:04:06 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:04:07 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:04:08 [.:{MIS}:. H[2]O] No!
+20-02-23 23:04:09 sT#' WarFare gets a ping warning
+20-02-23 23:04:11 #KbN! chub0 returned the Red Flag
+20-02-23 23:04:12 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:04:14 [#KbN! Nitho] Yeah
+20-02-23 23:04:16 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:04:17 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Ak-74
+20-02-23 23:04:18 #KbN! chub0 captured the Blue Flag
+20-02-23 23:04:20 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:04:20 Next map: ctf_OldRun
+20-02-23 23:04:23 [.:{MIS}:. H[2]O] ya pa la otra les va peor
+20-02-23 23:04:23 [#KbN! Nitho] Die!
+20-02-23 23:04:24 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:04:26 Run (get to the flag!)
+20-02-23 23:04:26 [#KbN! ChronoCL] !map ctf_laos
+20-02-23 23:04:30 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-02-23 23:04:31 #KbN! Shaka! joining game (190.160.115.174:23073) HWID:5FD3AE3E9B6
+20-02-23 23:04:31 #KbN! Shaka! has joined alpha team.
+20-02-23 23:04:32 Laos
+20-02-23 23:04:33 [#KbN! chub0] !s
+20-02-23 23:04:33 #KbN! chub0 has joined spectators.
+20-02-23 23:04:36 [#KbN! ChronoCL] !p
+20-02-23 23:04:37 sT#' WarFare gets a ping warning
+20-02-23 23:04:37 (TEAM)[#KbN! Shaka!] es X
+20-02-23 23:04:41 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 23:04:47 [.:{MIS}:. H[2]O] :B'
+20-02-23 23:04:48 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:04:51 [.:{MIS}:. H[2]O] t?
+20-02-23 23:04:51 DeFkOndOz* has left spectators
+20-02-23 23:04:53 [#KbN! Shaka!] vamos X
+20-02-23 23:04:53 (TEAM)[#KbN! ChronoCL] shaka
+20-02-23 23:04:56 (TEAM)[#KbN! Shaka!] dime
+20-02-23 23:05:00 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:05:06 (TEAM)[#KbN! ChronoCL] ok X
+20-02-23 23:05:07 [#KbN! chub0] buen mapa <3
+20-02-23 23:05:09 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:05:10 [#KbN! ChronoCL] !map ctf_ash
+20-02-23 23:05:13 [#KbN! ChronoCL] !map ctf_x
+20-02-23 23:05:14 [#KbN! Shaka!] por favor salgan los spect
+20-02-23 23:05:18 [#KbN! Shaka!] vayan al stream
+20-02-23 23:05:19 ctf_X version 2.0 by SuoW
+20-02-23 23:05:21 [F4ll.cL] salgan spec
+20-02-23 23:05:22 [.:{MIS}:. H[2]O] afedo pofavo
+20-02-23 23:05:22 [Espectador oficial] BUENO
+20-02-23 23:05:23 [sT#' SeenzacL*] vale pico el stream
+20-02-23 23:05:23 [sT#' YnGwi3] salgan
+20-02-23 23:05:23 [#KbN! Shaka!] por favor 
+20-02-23 23:05:24 Espectador oficial has left spectators
+20-02-23 23:05:25 [#KbN! Nitho] SALGAN SPEC
+20-02-23 23:05:25 sT#' SeenzacL* has left spectators
+20-02-23 23:05:27 (TEAM)[Korn Comentarista] salgan spec
+20-02-23 23:05:32 [Korn Comentarista] vayan al stream
+20-02-23 23:05:32 [#KbN! Nitho] TOA ESA MANGA DE ST QLOS
+20-02-23 23:05:39 sT#' WarFare has left spectators
+20-02-23 23:05:40 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:05:43 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:05:43 #KbN! Nitho returned the Red Flag
+20-02-23 23:05:48 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:05:50 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:05:51 [#KbN! Shaka!] tamos listo ?
+20-02-23 23:05:52 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 23:05:52 [#KbN! ChronoCL] listos?
+20-02-23 23:05:52 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:05:53 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:05:55 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:06:00 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:06:00 [#KbN! ChronoCL] go?
+20-02-23 23:06:01 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:06:02 [.:{MIS}:. H[2]O] ffofofof
+20-02-23 23:06:02 [#KbN! Shaka!] go?
+20-02-23 23:06:04 [#KbN! Shaka!] !r
+20-02-23 23:06:05 [#KbN! Nitho] GO?
+20-02-23 23:06:10 ctf_X version 2.0 by SuoW
+20-02-23 23:06:11 #KbN! chub0 has left spectators
+20-02-23 23:06:13 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:06:16 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:06:17 178.82.88.45:23073|15CC315D7BB requesting game...
+20-02-23 23:06:18 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:06:20 178.82.88.45:23073|15CC315D7BB requesting game...
+20-02-23 23:06:22 178.82.88.45:23073|15CC315D7BB requesting game...
+20-02-23 23:06:22 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:06:25 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:06:27 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:06:27 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:06:29 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:06:36 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:06:36 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:06:38 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:06:39 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:06:41 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:06:42 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:06:42 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:06:46 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:06:51 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:06:51 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:06:53 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:06:57 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:06:57 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:06:59 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:07:00 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:07:02 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:07:03 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:07:04 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Hands
+20-02-23 23:07:05 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:07:05 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:07:09 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:07:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:07:16 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:07:16 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:07:18 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 23:07:19 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:07:25 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:07:25 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:07:25 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 23:07:27 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:07:28 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:07:37 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:07:39 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:07:39 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:07:40 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:07:40 #KbN! Nitho returned the Red Flag
+20-02-23 23:07:43 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:07:46 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:07:48 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:07:49 #KbN! Nitho captured the Blue Flag
+20-02-23 23:07:49 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:07:51 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:07:53 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:07:56 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:07:58 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:08:05 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:08:09 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:08:11 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:08:12 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:08:15 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:08:21 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:08:21 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:08:21 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:08:24 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:08:24 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:08:26 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:08:29 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:08:30 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:08:33 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:08:34 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:08:36 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:08:37 #KbN! Nitho captured the Blue Flag
+20-02-23 23:08:38 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:08:40 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:08:40 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:08:42 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 23:08:49 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:08:49 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:08:49 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:08:49 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:08:51 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:08:57 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:08:58 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:08:59 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:09:04 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 23:09:06 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:09:07 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:09:11 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:09:14 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:09:15 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:09:16 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:09:16 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:09:19 #KbN! Nitho returned the Red Flag
+20-02-23 23:09:21 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:09:22 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:09:22 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:09:23 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 23:09:25 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:09:25 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:09:28 [#KbN! ChronoCL] cuchillo de manteca
+20-02-23 23:09:33 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:09:34 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:09:34 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:09:35 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:09:36 #KbN! Nitho returned the Red Flag
+20-02-23 23:09:39 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:09:41 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:09:43 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:09:46 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Desert Eagles
+20-02-23 23:09:46 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:09:48 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:09:53 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:09:53 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:09:55 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:09:58 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:10:00 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:10:00 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:10:04 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:10:04 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:10:08 #KbN! Nitho captured the Blue Flag
+20-02-23 23:10:10 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:10:11 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:10:11 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:10:11 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:10:11 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:10:17 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:10:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:10:21 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:10:22 #KbN! Shaka! returned the Red Flag
+20-02-23 23:10:22 #KbN! Nitho captured the Blue Flag
+20-02-23 23:10:23 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:10:24 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:10:24 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:10:28 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:10:30 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:10:30 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:10:32 #KbN! Nitho returned the Red Flag
+20-02-23 23:10:34 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:10:34 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:10:37 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:10:42 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:10:42 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:10:46 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:10:48 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 23:10:50 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with Combat Knife
+20-02-23 23:10:52 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:10:54 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 23:10:58 #KbN! Shaka! returned the Red Flag
+20-02-23 23:10:59 (TEAM)[Zorro Espectador] los openings de shingeki estaban de pana
+20-02-23 23:11:00 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:11:01 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:11:02 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:11:07 (TEAM)[Zorro Espectador] openings de anim√© es ideal seg√∫n yo uwu
+20-02-23 23:11:07 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:11:08 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:11:08 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:11:10 Time Left: 5 minutes
+20-02-23 23:11:10 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:11:12 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:11:12 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:11:14 [.:{MIS}:. - JoWeL] Die!
+20-02-23 23:11:15 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:11:16 (TEAM)[Zorro Espectador] ya pusiste esos o no
+20-02-23 23:11:17 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:11:18 (TEAM)[Zorro Espectador] de dbz?
+20-02-23 23:11:19 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:11:20 (TEAM)[F4ll.cL] see
+20-02-23 23:11:21 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:11:21 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:11:21 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:11:23 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:11:26 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:11:30 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:11:30 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Steyr AUG
+20-02-23 23:11:31 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with Steyr AUG
+20-02-23 23:11:34 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:11:35 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:11:35 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:11:39 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:11:39 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:11:39 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:11:49 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:11:49 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:11:51 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:11:52 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:11:54 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:11:56 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:11:57 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:11:58 (TEAM)[Zorro Espectador] jajajajajajaja
+20-02-23 23:12:00 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:12:02 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Spas-12
+20-02-23 23:12:03 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:12:04 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:12:07 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:12:08 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:12:10 Time Left: 4 minutes
+20-02-23 23:12:11 #KbN! Nitho captured the Blue Flag
+20-02-23 23:12:12 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:12:15 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 23:12:16 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:12:18 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:12:19 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:12:20 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:12:21 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:12:22 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with FN Minimi
+20-02-23 23:12:23 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:12:23 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with FN Minimi
+20-02-23 23:12:26 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:12:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:12:28 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:12:28 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:12:30 #KbN! Shaka! is flooding the server
+20-02-23 23:12:30 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:12:33 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:12:34 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:12:37 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:12:37 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:12:39 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:12:40 #KbN! Shaka! is flooding the server
+20-02-23 23:12:41 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:12:44 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:12:44 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:12:45 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:12:45 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Grenade
+20-02-23 23:12:49 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:12:49 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:12:52 #KbN! Nitho captured the Blue Flag
+20-02-23 23:12:53 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Steyr AUG
+20-02-23 23:12:57 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:12:58 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:13:01 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:13:01 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Spas-12
+20-02-23 23:13:02 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:13:03 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:13:03 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:13:03 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:13:05 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:13:07 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:13:08 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:13:09 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:13:10 Time Left: 3 minutes
+20-02-23 23:13:15 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:13:15 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:13:16 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:13:18 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:13:21 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:13:24 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:13:25 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:13:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Grenade
+20-02-23 23:13:31 #KbN! Nitho captured the Blue Flag
+20-02-23 23:13:33 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:13:36 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:13:40 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:13:44 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:13:45 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:13:46 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:13:55 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:13:59 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:14:02 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:14:05 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:14:09 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:14:10 Time Left: 2 minutes
+20-02-23 23:14:11 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:14:12 181.160.41.103:23073|42ED0983598 requesting game...
+20-02-23 23:14:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:14:15 (TEAM)[Zorro Espectador] yo soy catador de anos
+20-02-23 23:14:15 181.160.41.103:23073|42ED0983598 requesting game...
+20-02-23 23:14:16 [PuM] Raptorius joining game (181.160.41.103:23073) HWID:42ED0983598
+20-02-23 23:14:16 [PuM] Raptorius has joined as spectator.
+20-02-23 23:14:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:14:18 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 23:14:19 [PuM] Raptorius has left spectators
+20-02-23 23:14:20 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:14:21 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:14:23 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:14:25 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:14:26 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:14:28 (TEAM)[Zorro Espectador] si  perdimos por WO
+20-02-23 23:14:28 #KbN! Nitho captured the Blue Flag
+20-02-23 23:14:29 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:14:32 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:14:34 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:14:34 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:14:35 (TEAM)[Zorro Espectador] era ST
+20-02-23 23:14:37 (TEAM)[Zorro Espectador] era ST
+20-02-23 23:14:39 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:14:41 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:14:41 (TEAM)[sT#' YnGwi3] Tk no sT xd
+20-02-23 23:14:43 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:14:43 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:14:44 #KbN! Shaka! returned the Red Flag
+20-02-23 23:14:44 (TEAM)[Zorro Espectador] no se sabe
+20-02-23 23:14:46 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:14:49 (TEAM)[Zorro Espectador] solo no respondieron
+20-02-23 23:14:53 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:14:54 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:14:55 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Spas-12
+20-02-23 23:14:59 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:14:59 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:14:59 (TEAM)[Zorro Espectador] ni siquiera nos organizamos bien 
+20-02-23 23:15:00 #KbN! Nitho captured the Blue Flag
+20-02-23 23:15:04 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:15:04 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:15:05 (TEAM)[Zorro Espectador] si, me equivoqu√©
+20-02-23 23:15:05 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:15:07 (TEAM)[Zorro Espectador] es el team del maxi
+20-02-23 23:15:08 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:15:10 Time Left: 1 minutes
+20-02-23 23:15:12 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:15:12 (TEAM)[Zorro Espectador] MAXI VALUABLE PLAYER
+20-02-23 23:15:12 Next map: ctf_Ash
+20-02-23 23:15:12 #KbN! Nitho scores for Alpha Team
+20-02-23 23:15:13 [#KbN! Nitho] Yeah
+20-02-23 23:15:17 ctf_Ash by chakapoko maker
+20-02-23 23:15:22 [#KbN! ChronoCL] !map ctf_laos
+20-02-23 23:15:26 [#KbN! Shaka!] votan ellos
+20-02-23 23:15:27 [sT#' YnGwi3] vota blue
+20-02-23 23:15:28 Laos
+20-02-23 23:15:38 [sT#' YnGwi3] voten MiS
+20-02-23 23:15:38 [F4ll.cL] Mis
+20-02-23 23:15:39 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:15:40 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:15:42 [F4ll.cL] su mapa y lado
+20-02-23 23:15:43 [sT#' YnGwi3] Kampf o nuubia
+20-02-23 23:15:43 [Korn Comentarista] voten mis
+20-02-23 23:15:45 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:15:50 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:15:50 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:15:50 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:15:51 #KbN! Nitho captured the Blue Flag
+20-02-23 23:15:53 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:15:53 [.:{MIS}:. H[2]O] era el momento de jowel
+20-02-23 23:15:59 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 23:16:00 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 23:16:02 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:16:08 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:16:09 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:16:10 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 23:16:13 #KbN! Nitho captured the Blue Flag
+20-02-23 23:16:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:16:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:16:18 [.:{MIS}:. H[2]O] !map ctf_Nuubia
+20-02-23 23:16:24 by Troskal and friends
+20-02-23 23:16:30 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:16:36 [#KbN! Nitho] !DP
+20-02-23 23:16:36 (TEAM)[Zorro Espectador] el shock
+20-02-23 23:16:39 (TEAM)[Zorro Espectador] o chok
+20-02-23 23:16:39 [#KbN! Nitho] !dp
+20-02-23 23:16:39 201.214.18.224:23073|1FFE8F1D7CA requesting game...
+20-02-23 23:16:41 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:16:41 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:16:42 #KbN! chub0 joining game (201.214.18.224:23073) HWID:1FFE8F1D7CA
+20-02-23 23:16:42 #KbN! chub0 has joined alpha team.
+20-02-23 23:16:42 [#KbN! ChronoCL] !r
+20-02-23 23:16:44 (TEAM)[Zorro Espectador] el shin era mis o no?
+20-02-23 23:16:45 [#KbN! Shaka!] esperen
+20-02-23 23:16:46 #KbN! Nitho has left alpha team.
+20-02-23 23:16:47 by Troskal and friends
+20-02-23 23:16:58 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with M79
+20-02-23 23:16:58 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:17:01 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:17:02 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Barrett M82A1
+20-02-23 23:17:02 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:17:03 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:17:08 #KbN! chub0 returned the Red Flag
+20-02-23 23:17:11 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:17:12 [#KbN! Shaka!] go?
+20-02-23 23:17:12 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:17:13 [.:{MIS}:. H[2]O] ya?
+20-02-23 23:17:15 [#KbN! Shaka!] gogogo
+20-02-23 23:17:16 [.:{MIS}:. H[2]O] !r
+20-02-23 23:17:16 [#KbN! Shaka!] !r
+20-02-23 23:17:19 [#KbN! ChronoCL] gogogo
+20-02-23 23:17:19 201.189.230.42:23073|4EDFAA80B1B requesting game...
+20-02-23 23:17:19 LB ~ Skipo.cL joining game (201.189.230.42:23073) HWID:4EDFAA80B1B
+20-02-23 23:17:19 LB ~ Skipo.cL has joined as spectator.
+20-02-23 23:17:21 by Troskal and friends
+20-02-23 23:17:25 Korn Comentarista has left spectators
+20-02-23 23:17:27 [.:{MIS}:. - JoWeL] !r
+20-02-23 23:17:32 [F4ll.cL] la pass chicos
+20-02-23 23:17:32 by Troskal and friends
+20-02-23 23:17:39 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 23:17:39 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:17:42 [F4ll.cL] !sp
+20-02-23 23:17:45 201.239.214.185:23073|1729B102EBF requesting game...
+20-02-23 23:17:45 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:17:45 Korn Comentarista joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-02-23 23:17:45 Korn Comentarista has joined as spectator.
+20-02-23 23:17:50 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:17:58 (TEAM)[LB ~ Skipo.cL] es scl fall
+20-02-23 23:17:59 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:18:00 #KbN! Shaka! returned the Red Flag
+20-02-23 23:18:00 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:18:01 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:18:02 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:18:10 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:18:11 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with M79
+20-02-23 23:18:21 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:18:24 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:18:26 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:18:29 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:18:29 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with USSOCOM
+20-02-23 23:18:29 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:18:32 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:18:34 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:18:35 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:18:35 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:18:36 #KbN! chub0 captured the Blue Flag
+20-02-23 23:18:37 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:18:37 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:18:40 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with USSOCOM
+20-02-23 23:18:43 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:18:54 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:18:54 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:18:54 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:18:55 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:19:00 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:19:02 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:19:06 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:19:08 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:19:09 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with M79
+20-02-23 23:19:09 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:19:11 #KbN! chub0 captured the Blue Flag
+20-02-23 23:19:11 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:19:16 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:19:16 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:19:16 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:19:19 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with M79
+20-02-23 23:19:19 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:19:25 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:19:26 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:19:37 (TEAM)[Zorro Espectador] JAJAJAJJAJA
+20-02-23 23:19:39 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Barrett M82A1
+20-02-23 23:19:39 (TEAM)[Zorro Espectador] SE SACO EL AP
+20-02-23 23:19:41 (TEAM)[Zorro Espectador] SI XDDDDDDDDDDD
+20-02-23 23:19:41 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with M79
+20-02-23 23:19:45 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:19:51 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Barrett M82A1
+20-02-23 23:19:56 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:19:57 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with USSOCOM
+20-02-23 23:20:02 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:20:10 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:20:13 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with M79
+20-02-23 23:20:16 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:20:17 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 23:20:21 .:{MIS}:. H[2]O scores for Bravo Team
+20-02-23 23:20:23 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Barrett M82A1
+20-02-23 23:20:24 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:20:28 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:20:29 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with M79
+20-02-23 23:20:33 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:20:34 #KbN! chub0 captured the Blue Flag
+20-02-23 23:20:36 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:20:37 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with LAW
+20-02-23 23:20:39 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:20:42 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:20:44 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:20:45 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:20:46 #KbN! chub0 scores for Alpha Team
+20-02-23 23:20:55 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:20:57 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:20:58 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:20:59 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:21:04 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:21:10 #KbN! ChronoCL scores for Alpha Team
+20-02-23 23:21:13 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:21:15 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:21:15 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:21:21 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Grenade
+20-02-23 23:21:25 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:21:32 (TEAM)[Zorro Espectador] jajajaja fall culiao
+20-02-23 23:21:32 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Grenade
+20-02-23 23:21:34 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:21:36 (TEAM)[Zorro Espectador] jajajaja
+20-02-23 23:21:36 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Grenade
+20-02-23 23:21:39 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:21:42 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:21:46 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:21:53 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:21:55 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:21:57 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:21:59 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:22:01 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:22:08 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:22:08 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:22:13 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:22:17 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with M79
+20-02-23 23:22:22 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Hands
+20-02-23 23:22:25 #KbN! chub0 captured the Blue Flag
+20-02-23 23:22:27 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:22:30 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:22:32 Time Left: 5 minutes
+20-02-23 23:22:37 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:22:37 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with Hands
+20-02-23 23:22:40 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:22:42 .:{MIS}:. Kill_Frenzy gets a ping warning
+20-02-23 23:22:42 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:22:44 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:22:44 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with LAW
+20-02-23 23:22:47 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:22:47 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:22:54 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:23:07 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:23:07 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:23:08 (TEAM)[Zorro Espectador] murder in series
+20-02-23 23:23:10 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:23:10 #KbN! chub0 captured the Blue Flag
+20-02-23 23:23:10 (TEAM)[Zorro Espectador] murder in series
+20-02-23 23:23:17 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:23:23 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:23:25 #KbN! chub0 scores for Alpha Team
+20-02-23 23:23:25 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:23:29 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:23:31 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:23:32 Time Left: 4 minutes
+20-02-23 23:23:34 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:23:34 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:23:40 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:23:42 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:23:43 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:23:46 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:23:49 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with M79
+20-02-23 23:23:49 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:23:52 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:23:52 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with M79
+20-02-23 23:23:57 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:24:05 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:24:06 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:24:10 #KbN! chub0 captured the Blue Flag
+20-02-23 23:24:12 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Spas-12
+20-02-23 23:24:12 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 23:24:14 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:24:15 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:24:16 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:24:18 (2) .:{MIS}:. H[2]O killed (1) #KbN! ChronoCL with Spas-12
+20-02-23 23:24:18 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:24:24 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:24:32 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:24:32 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:24:32 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:24:32 Time Left: 3 minutes
+20-02-23 23:24:33 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:24:34 .:{MIS}:. - JoWeL returned the Blue Flag
+20-02-23 23:24:35 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:24:35 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:24:37 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:24:41 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:24:41 #KbN! chub0 captured the Blue Flag
+20-02-23 23:24:46 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:24:47 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:24:49 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:24:53 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:24:54 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with USSOCOM
+20-02-23 23:24:57 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:24:59 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:25:00 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:25:01 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:25:02 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:25:04 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Spas-12
+20-02-23 23:25:06 .:{MIS}:. H[2]O scores for Bravo Team
+20-02-23 23:25:09 (TEAM)[Zorro Espectador] :OOOOO
+20-02-23 23:25:09 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:25:15 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:25:16 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:25:16 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:25:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:25:22 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:25:29 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:25:30 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:25:31 #KbN! chub0 returned the Red Flag
+20-02-23 23:25:32 Time Left: 2 minutes
+20-02-23 23:25:35 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:25:35 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:25:40 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:25:47 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:25:49 #KbN! Shaka! returned the Red Flag
+20-02-23 23:25:49 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:25:50 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:25:57 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:26:00 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:26:03 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:26:03 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:26:05 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with USSOCOM
+20-02-23 23:26:05 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:26:07 #KbN! ChronoCL returned the Red Flag
+20-02-23 23:26:07 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:26:12 sT#' YnGwi3 gets a ping warning
+20-02-23 23:26:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:26:15 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:26:15 sT#' YnGwi3 is flooding the server
+20-02-23 23:26:18 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:26:18 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:26:19 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:26:19 #KbN! chub0 captured the Blue Flag
+20-02-23 23:26:24 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:26:25 (2) .:{MIS}:. - JoWeL killed (1) #KbN! ChronoCL with M79
+20-02-23 23:26:27 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with Grenade
+20-02-23 23:26:27 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:26:31 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:26:32 Time Left: 1 minutes
+20-02-23 23:26:34 .:{MIS}:. H[2]O scores for Bravo Team
+20-02-23 23:26:38 36.38.74.207:23073|72F76F35E76 requesting game...
+20-02-23 23:26:40 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:26:43 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:26:44 (TEAM)[Zorro Espectador] :OOOOOOOOO
+20-02-23 23:26:45 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:26:47 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:26:49 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with Grenade
+20-02-23 23:26:51 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:26:54 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:26:59 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:26:59 .:{MIS}:. Kill_Frenzy scores for Bravo Team
+20-02-23 23:27:00 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:27:06 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:27:06 (1) #KbN! ChronoCL killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:27:11 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:27:16 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:27:17 #KbN! chub0 captured the Blue Flag
+20-02-23 23:27:18 [.:{MIS}:. - JoWeL] defenza waren
+20-02-23 23:27:19 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:27:21 #KbN! ChronoCL captured the Blue Flag
+20-02-23 23:27:22 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Spas-12
+20-02-23 23:27:24 (1) #KbN! ChronoCL killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:27:24 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:27:29 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! ChronoCL with HK MP5
+20-02-23 23:27:30 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:27:32 #KbN! Shaka! scores for Alpha Team
+20-02-23 23:27:32 Next map: ctf_B2b
+20-02-23 23:27:35 [.:{MIS}:. Kill_Frenzy] jjajaa
+20-02-23 23:27:38 [.:{MIS}:. - JoWeL] josajdosadj
+20-02-23 23:27:38 [Zorro Espectador] NO TE CREO JAJAJAJAJA
+20-02-23 23:27:38 B2B
+20-02-23 23:27:42 [#KbN! chub0] ajjaajajd 
+20-02-23 23:27:44 [#KbN! chub0] bueena
+20-02-23 23:27:45 [#KbN! ChronoCL] !map ctf_laos
+20-02-23 23:27:50 Laos
+20-02-23 23:27:55 181.73.245.46:23073|624F84FC71F requesting game...
+20-02-23 23:27:58 #KbN! Nitho joining game (181.73.245.46:23073) HWID:624F84FC71F
+20-02-23 23:27:58 #KbN! Nitho has joined alpha team.
+20-02-23 23:27:59 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with M79
+20-02-23 23:28:01 (1) #KbN! ChronoCL killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:28:02 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:28:08 #KbN! ChronoCL has joined spectators.
+20-02-23 23:28:11 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Barrett M82A1
+20-02-23 23:28:17 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:28:18 #KbN! chub0 captured the Blue Flag
+20-02-23 23:28:21 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:28:21 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:28:23 [#KbN! Shaka!] !r
+20-02-23 23:28:28 Laos
+20-02-23 23:28:37 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:28:38 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:28:45 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:28:45 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:28:47 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:28:49 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:28:58 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Barrett M82A1
+20-02-23 23:29:03 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Barrett M82A1
+20-02-23 23:29:04 #KbN! chub0 captured the Blue Flag
+20-02-23 23:29:05 [.:{MIS}:. H[2]O] xd}a
+20-02-23 23:29:07 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:29:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:29:15 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:29:18 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:29:21 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:29:22 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:29:23 #KbN! Nitho returned the Red Flag
+20-02-23 23:29:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:29:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:29:26 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:29:30 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:29:32 #KbN! Nitho captured the Blue Flag
+20-02-23 23:29:37 #KbN! Nitho scores for Alpha Team
+20-02-23 23:29:44 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:29:45 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:29:46 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:29:47 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:29:50 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:29:50 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:29:51 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:29:56 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 23:30:01 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:30:01 .:{MIS}:. - JoWeL scores for Bravo Team
+20-02-23 23:30:02 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:30:05 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:30:05 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:30:13 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:30:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:30:19 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:30:20 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:30:22 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:30:25 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Ruger 77
+20-02-23 23:30:34 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:30:34 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:30:36 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:30:40 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:30:43 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:30:43 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:30:52 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:30:54 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:30:55 #KbN! Nitho captured the Blue Flag
+20-02-23 23:30:57 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with USSOCOM
+20-02-23 23:30:57 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:30:59 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:30:59 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:31:03 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with Ruger 77
+20-02-23 23:31:04 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 23:31:13 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Grenade
+20-02-23 23:31:18 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:31:18 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:31:18 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:31:19 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:31:24 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:31:27 #KbN! Shaka! gets a ping warning
+20-02-23 23:31:31 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:31:33 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:31:37 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:31:37 #KbN! chub0 captured the Blue Flag
+20-02-23 23:31:37 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:31:40 [.:{MIS}:. - JoWeL] asoidjsaojds
+20-02-23 23:31:42 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:31:42 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:31:49 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:31:51 #KbN! Shaka! returned the Red Flag
+20-02-23 23:31:51 #KbN! chub0 scores for Alpha Team
+20-02-23 23:31:54 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:31:55 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:31:57 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:31:58 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:31:58 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:32:05 #KbN! chub0 returned the Red Flag
+20-02-23 23:32:12 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:32:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:32:14 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:32:19 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 23:32:24 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:32:25 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:32:27 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:32:29 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with Grenade
+20-02-23 23:32:45 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:32:46 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:32:46 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Shaka! with M79
+20-02-23 23:32:48 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:32:58 (1) #KbN! Nitho killed (2) .:{MIS}:. - JoWeL with Combat Knife
+20-02-23 23:32:59 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:33:00 #KbN! Nitho is flooding the server
+20-02-23 23:33:01 #KbN! Nitho captured the Blue Flag
+20-02-23 23:33:04 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:33:07 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:33:07 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:33:13 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:33:21 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:33:28 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with Steyr AUG
+20-02-23 23:33:28 Time Left: 5 minutes
+20-02-23 23:33:33 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:33:33 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:33:35 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:33:39 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:33:39 [#KbN! Nitho] No!
+20-02-23 23:33:42 #KbN! Nitho captured the Blue Flag
+20-02-23 23:33:43 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:33:46 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:33:47 #KbN! chub0 returned the Red Flag
+20-02-23 23:33:49 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:33:49 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:33:49 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:33:54 #KbN! chub0 captured the Blue Flag
+20-02-23 23:33:56 #KbN! chub0 scores for Alpha Team
+20-02-23 23:33:57 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:33:58 #KbN! Nitho captured the Blue Flag
+20-02-23 23:33:59 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:34:00 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with LAW
+20-02-23 23:34:05 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Grenade
+20-02-23 23:34:07 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:34:11 #KbN! Nitho scores for Alpha Team
+20-02-23 23:34:15 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:34:19 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:34:21 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:34:21 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:34:26 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:34:28 Time Left: 4 minutes
+20-02-23 23:34:29 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with LAW
+20-02-23 23:34:41 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:34:43 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:34:45 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:34:45 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:34:54 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 23:34:55 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:35:01 #KbN! Nitho captured the Blue Flag
+20-02-23 23:35:04 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:35:12 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:35:14 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:35:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:35:19 (TEAM)[#KbN! ChronoCL] saludos a Juno plz
+20-02-23 23:35:19 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:35:19 #KbN! chub0 captured the Blue Flag
+20-02-23 23:35:20 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with M79
+20-02-23 23:35:21 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:35:22 (TEAM)[#KbN! ChronoCL] a mi gato
+20-02-23 23:35:26 #KbN! Nitho captured the Blue Flag
+20-02-23 23:35:28 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:35:28 Time Left: 3 minutes
+20-02-23 23:35:32 (1) #KbN! chub0 killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:35:34 (TEAM)[F4ll.cL] chrono
+20-02-23 23:35:35 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:35:35 (TEAM)[F4ll.cL] ilegal
+20-02-23 23:35:39 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:35:39 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with Grenade
+20-02-23 23:35:40 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Combat Knife
+20-02-23 23:35:42 [.:{MIS}:. H[2]O] D:
+20-02-23 23:35:44 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with Grenade
+20-02-23 23:35:45 .:{MIS}:. H[2]O captured the Red Flag
+20-02-23 23:35:46 #KbN! Nitho captured the Blue Flag
+20-02-23 23:35:48 #KbN! ChronoCL has left spectators
+20-02-23 23:35:50 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:35:50 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:35:55 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 23:35:55 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:35:59 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:36:00 #KbN! Nitho captured the Blue Flag
+20-02-23 23:36:04 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! chub0 with HK MP5
+20-02-23 23:36:08 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:36:09 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Spas-12
+20-02-23 23:36:10 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:36:13 #KbN! chub0 captured the Blue Flag
+20-02-23 23:36:16 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:36:21 #KbN! Nitho gets a ping warning
+20-02-23 23:36:21 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:36:26 (2) .:{MIS}:. - JoWeL killed (1) #KbN! Nitho with LAW
+20-02-23 23:36:27 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:36:27 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with LAW
+20-02-23 23:36:28 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:36:28 Time Left: 2 minutes
+20-02-23 23:36:29 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:36:31 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:36:33 .:{MIS}:. Kill_Frenzy captured the Red Flag
+20-02-23 23:36:35 .:{MIS}:. Kill_Frenzy scores for Bravo Team
+20-02-23 23:36:39 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:36:42 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Steyr AUG
+20-02-23 23:36:44 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Grenade
+20-02-23 23:36:45 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Grenade
+20-02-23 23:36:48 [.:{MIS}:. - JoWeL] No!
+20-02-23 23:36:53 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:36:55 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:36:58 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:36:59 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:37:00 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Grenade
+20-02-23 23:37:01 #KbN! Nitho captured the Blue Flag
+20-02-23 23:37:02 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with M79
+20-02-23 23:37:03 [#KbN! chub0] No!
+20-02-23 23:37:04 .:{MIS}:. H[2]O returned the Blue Flag
+20-02-23 23:37:07 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with USSOCOM
+20-02-23 23:37:13 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:37:14 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:37:17 #KbN! Shaka! captured the Blue Flag
+20-02-23 23:37:17 #KbN! Nitho returned the Red Flag
+20-02-23 23:37:21 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:37:23 .:{MIS}:. Kill_Frenzy returned the Blue Flag
+20-02-23 23:37:25 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:37:28 Time Left: 1 minutes
+20-02-23 23:37:28 #KbN! chub0 captured the Blue Flag
+20-02-23 23:37:30 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:37:31 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:37:34 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with HK MP5
+20-02-23 23:37:41 (1) #KbN! chub0 killed (2) .:{MIS}:. Kill_Frenzy with M79
+20-02-23 23:37:43 #KbN! chub0 scores for Alpha Team
+20-02-23 23:37:47 (2) .:{MIS}:. - JoWeL killed (1) #KbN! chub0 with LAW
+20-02-23 23:37:48 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:37:52 .:{MIS}:. - JoWeL captured the Red Flag
+20-02-23 23:37:55 (1) #KbN! Shaka! killed (2) .:{MIS}:. - JoWeL with HK MP5
+20-02-23 23:37:59 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:37:59 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Shaka! with Grenade
+20-02-23 23:38:01 (2) .:{MIS}:. H[2]O killed (1) #KbN! Nitho with Desert Eagles
+20-02-23 23:38:05 (1) #KbN! Shaka! killed (2) .:{MIS}:. H[2]O with HK MP5
+20-02-23 23:38:12 (TEAM)[Zorro Espectador] fall youtuber
+20-02-23 23:38:12 (1) #KbN! chub0 killed (2) .:{MIS}:. - JoWeL with M79
+20-02-23 23:38:13 #KbN! chub0 captured the Blue Flag
+20-02-23 23:38:13 (2) .:{MIS}:. H[2]O killed (1) #KbN! chub0 with Desert Eagles
+20-02-23 23:38:13 (2) .:{MIS}:. Kill_Frenzy killed (1) #KbN! Nitho with HK MP5
+20-02-23 23:38:14 [#KbN! chub0] No!
+20-02-23 23:38:14 [#KbN! chub0] Come'on!
+20-02-23 23:38:15 (TEAM)[Zorro Espectador] me da demasiada risa
+20-02-23 23:38:16 (TEAM)[Zorro Espectador] jajajaja
+20-02-23 23:38:17 (1) #KbN! Shaka! killed (2) .:{MIS}:. Kill_Frenzy with HK MP5
+20-02-23 23:38:19 (2) .:{MIS}:. H[2]O killed (1) #KbN! Shaka! with Desert Eagles
+20-02-23 23:38:22 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with Steyr AUG
+20-02-23 23:38:28 Next map: ctf_Blade
+20-02-23 23:38:32 [#KbN! Shaka!] gg
+20-02-23 23:38:32 [.:{MIS}:. - JoWeL] GG
+20-02-23 23:38:32 [#KbN! chub0] gg
+20-02-23 23:38:32 [sT#' YnGwi3] gg
+20-02-23 23:38:33 [.:{MIS}:. H[2]O] toy solo
+20-02-23 23:38:33 Blade by Zakath
+20-02-23 23:38:35 [#KbN! Nitho] tgg
+20-02-23 23:38:35 #KbN! Shaka! has left alpha team.
+20-02-23 23:38:37 LB ~ Skipo.cL has left spectators
+20-02-23 23:38:37 [.:{MIS}:. - JoWeL] GG
+20-02-23 23:38:38 sT#' YnGwi3 has left spectators
+20-02-23 23:38:39 .:{MIS}:. - JoWeL has left bravo team.
+20-02-23 23:38:42 [.:{MIS}:. Kill_Frenzy] vale
+20-02-23 23:38:47 [#KbN! chub0] see vale cabros
+20-02-23 23:38:49 (1) #KbN! Nitho killed (2) .:{MIS}:. Kill_Frenzy with Combat Knife
+20-02-23 23:38:50 .:{MIS}:. Kill_Frenzy has left bravo team.
+20-02-23 23:38:50 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:38:58 #KbN! chub0 has left alpha team.
+20-02-23 23:38:58 #KbN! Nitho captured the Blue Flag
+20-02-23 23:39:05 Korn Comentarista has left spectators
+20-02-23 23:39:07 [.:{MIS}:. H[2]O] te lo dedico lecheeee!!
+20-02-23 23:39:09 (1) #KbN! Nitho killed (2) .:{MIS}:. H[2]O with M79
+20-02-23 23:39:11 Zorro Espectador could not respond
+20-02-23 23:39:12 [#KbN! Nitho] hajajaja
+20-02-23 23:39:17 [.:{MIS}:. H[2]O] estan stremeando?
+20-02-23 23:39:19 [#KbN! Nitho] se}
+20-02-23 23:39:22 #KbN! Nitho has left alpha team.
+20-02-23 23:39:27 [.:{MIS}:. H[2]O] saludos al leche, nos va a matar xD
+20-02-23 23:39:34 F4ll.cL has left spectators
+20-02-23 23:40:29 .:{MIS}:. H[2]O has left bravo team.
+20-02-23 23:40:29 Server password changed to scl
+20-02-23 23:42:06 201.215.223.74:23073|42442391B2F requesting game...
+20-02-23 23:43:33 Time Left: 5 minutes
+20-02-23 23:44:33 Time Left: 4 minutes
+20-02-23 23:45:33 Time Left: 3 minutes
+20-02-23 23:46:33 Time Left: 2 minutes
+20-02-23 23:47:33 Time Left: 1 minutes
+20-02-23 23:48:33 Next map: ctf_Viet
+20-02-23 23:48:39 Viet
+20-02-23 23:53:39 Time Left: 5 minutes
+20-02-23 23:54:39 Time Left: 4 minutes
+20-02-23 23:55:39 Time Left: 3 minutes
+20-02-23 23:56:39 Time Left: 2 minutes
+20-02-23 23:57:39 Time Left: 1 minutes
+20-02-23 23:58:39 Next map: ctf_Division
+20-02-23 23:58:44 Division by Boxo, KC, viral
+20-02-24 00:03:44 Time Left: 5 minutes
+20-02-24 00:04:44 Time Left: 4 minutes
+20-02-24 00:05:44 Time Left: 3 minutes
+20-02-24 00:06:44 Time Left: 2 minutes
+20-02-24 00:07:44 Time Left: 1 minutes
+20-02-24 00:08:44 Next map: ctf_Death
+20-02-24 00:08:49 Death by MM, g_d. Boxo, mtk`
+20-02-24 00:13:49 Time Left: 5 minutes
+20-02-24 00:14:49 Time Left: 4 minutes
+20-02-24 00:15:49 Time Left: 3 minutes
+20-02-24 00:16:49 Time Left: 2 minutes
+20-02-24 00:17:49 Time Left: 1 minutes
+20-02-24 00:18:49 Next map: ctf_Hormone
+20-02-24 00:18:55 Hormone by Mets‰naperot
+20-02-24 00:23:55 Time Left: 5 minutes
+20-02-24 00:24:55 Time Left: 4 minutes
+20-02-24 00:25:55 Time Left: 3 minutes
+20-02-24 00:26:55 Time Left: 2 minutes
+20-02-24 00:27:55 Time Left: 1 minutes
+20-02-24 00:28:55 Next map: ctf_Laos
+20-02-24 00:29:00 Laos
+20-02-24 00:34:00 Time Left: 5 minutes
+20-02-24 00:35:00 Time Left: 4 minutes
+20-02-24 00:36:00 Time Left: 3 minutes
+20-02-24 00:37:00 Time Left: 2 minutes
+20-02-24 00:38:00 Time Left: 1 minutes
+20-02-24 00:39:00 Next map: ctf_Laos2
+20-02-24 00:39:05 Laos
+20-02-24 00:44:05 Time Left: 5 minutes
+20-02-24 00:45:05 Time Left: 4 minutes
+20-02-24 00:46:05 Time Left: 3 minutes
+20-02-24 00:47:05 Time Left: 2 minutes
+20-02-24 00:48:05 Time Left: 1 minutes
+20-02-24 00:49:05 Next map: ctf_Maya
+20-02-24 00:49:11 Maya
+20-02-24 00:54:11 Time Left: 5 minutes
+20-02-24 00:55:11 Time Left: 4 minutes
+20-02-24 00:56:11 Time Left: 3 minutes
+20-02-24 00:57:11 Time Left: 2 minutes
+20-02-24 00:58:11 Time Left: 1 minutes
+20-02-24 00:59:11 Next map: ctf_MFM
+20-02-24 00:59:16 MFM 2 by mar77a
+20-02-24 01:04:16 Time Left: 5 minutes
+20-02-24 01:05:16 Time Left: 4 minutes
+20-02-24 01:06:16 Time Left: 3 minutes
+20-02-24 01:07:16 Time Left: 2 minutes
+20-02-24 01:08:16 Time Left: 1 minutes
+20-02-24 01:09:16 Next map: ctf_Run
+20-02-24 01:09:21 Run
+20-02-24 01:14:21 Time Left: 5 minutes
+20-02-24 01:15:21 Time Left: 4 minutes
+20-02-24 01:16:21 Time Left: 3 minutes
+20-02-24 01:17:21 Time Left: 2 minutes
+20-02-24 01:18:21 Time Left: 1 minutes
+20-02-24 01:19:21 Next map: ctf_OldRun
+20-02-24 01:19:27 Run (get to the flag!)
+20-02-24 01:24:26 Time Left: 5 minutes
+20-02-24 01:25:26 Time Left: 4 minutes
+20-02-24 01:26:26 Time Left: 3 minutes
+20-02-24 01:27:26 Time Left: 2 minutes
+20-02-24 01:28:26 Time Left: 1 minutes
+20-02-24 01:29:26 Next map: ctf_Ash
+20-02-24 01:29:32 ctf_Ash by chakapoko maker
+20-02-24 01:34:32 Time Left: 5 minutes
+20-02-24 01:35:32 Time Left: 4 minutes
+20-02-24 01:36:32 Time Left: 3 minutes
+20-02-24 01:37:32 Time Left: 2 minutes
+20-02-24 01:38:32 Time Left: 1 minutes
+20-02-24 01:39:32 Next map: ctf_B2b
+20-02-24 01:39:37 B2B
+20-02-24 01:44:37 Time Left: 5 minutes
+20-02-24 01:45:37 Time Left: 4 minutes
+20-02-24 01:46:37 Time Left: 3 minutes
+20-02-24 01:47:37 Time Left: 2 minutes
+20-02-24 01:48:37 Time Left: 1 minutes
+20-02-24 01:49:37 Next map: ctf_Blade
+20-02-24 01:49:42 Blade by Zakath
+20-02-24 01:54:42 Time Left: 5 minutes
+20-02-24 01:55:42 Time Left: 4 minutes
+20-02-24 01:56:42 Time Left: 3 minutes
+20-02-24 01:57:42 Time Left: 2 minutes
+20-02-24 01:58:42 Time Left: 1 minutes
+20-02-24 01:59:42 Next map: ctf_Viet
+20-02-24 01:59:48 Viet
+20-02-24 02:04:48 Time Left: 5 minutes
+20-02-24 02:05:48 Time Left: 4 minutes
+20-02-24 02:06:48 Time Left: 3 minutes
+20-02-24 02:07:48 Time Left: 2 minutes
+20-02-24 02:08:48 Time Left: 1 minutes
+20-02-24 02:09:48 Next map: ctf_Division
+20-02-24 02:09:53 Division by Boxo, KC, viral
+20-02-24 02:14:53 Time Left: 5 minutes
+20-02-24 02:15:53 Time Left: 4 minutes
+20-02-24 02:16:53 Time Left: 3 minutes
+20-02-24 02:17:53 Time Left: 2 minutes
+20-02-24 02:18:53 Time Left: 1 minutes
+20-02-24 02:19:53 Next map: ctf_Death
+20-02-24 02:19:58 Death by MM, g_d. Boxo, mtk`
+20-02-24 02:24:58 Time Left: 5 minutes
+20-02-24 02:25:58 Time Left: 4 minutes
+20-02-24 02:26:58 Time Left: 3 minutes
+20-02-24 02:27:58 Time Left: 2 minutes
+20-02-24 02:28:58 Time Left: 1 minutes
+20-02-24 02:29:58 Next map: ctf_Hormone
+20-02-24 02:30:04 Hormone by Mets‰naperot
+20-02-24 02:35:04 Time Left: 5 minutes
+20-02-24 02:36:04 Time Left: 4 minutes
+20-02-24 02:37:04 Time Left: 3 minutes
+20-02-24 02:38:04 Time Left: 2 minutes
+20-02-24 02:39:04 Time Left: 1 minutes
+20-02-24 02:40:04 Next map: ctf_Laos
+20-02-24 02:40:09 Laos
+20-02-24 02:45:09 Time Left: 5 minutes
+20-02-24 02:46:09 Time Left: 4 minutes
+20-02-24 02:47:09 Time Left: 3 minutes
+20-02-24 02:48:09 Time Left: 2 minutes
+20-02-24 02:49:09 Time Left: 1 minutes
+20-02-24 02:50:09 Next map: ctf_Laos2
+20-02-24 02:50:14 Laos
+20-02-24 02:55:14 Time Left: 5 minutes
+20-02-24 02:56:14 Time Left: 4 minutes
+20-02-24 02:57:14 Time Left: 3 minutes
+20-02-24 02:58:14 Time Left: 2 minutes
+20-02-24 02:59:14 Time Left: 1 minutes
+20-02-24 03:00:14 Next map: ctf_Maya
+20-02-24 03:00:20 Maya
+20-02-24 03:05:20 Time Left: 5 minutes
+20-02-24 03:06:20 Time Left: 4 minutes
+20-02-24 03:07:20 Time Left: 3 minutes
+20-02-24 03:08:20 Time Left: 2 minutes
+20-02-24 03:09:20 Time Left: 1 minutes
+20-02-24 03:10:20 Next map: ctf_MFM
+20-02-24 03:10:25 MFM 2 by mar77a
+20-02-24 03:15:25 Time Left: 5 minutes
+20-02-24 03:16:25 Time Left: 4 minutes
+20-02-24 03:17:25 Time Left: 3 minutes
+20-02-24 03:18:25 Time Left: 2 minutes
+20-02-24 03:19:25 Time Left: 1 minutes
+20-02-24 03:20:25 Next map: ctf_Run
+20-02-24 03:20:30 Run
+20-02-24 03:25:30 Time Left: 5 minutes
+20-02-24 03:26:30 Time Left: 4 minutes
+20-02-24 03:27:30 Time Left: 3 minutes
+20-02-24 03:28:30 Time Left: 2 minutes
+20-02-24 03:29:30 Time Left: 1 minutes
+20-02-24 03:30:30 Next map: ctf_OldRun
+20-02-24 03:30:36 Run (get to the flag!)
+20-02-24 03:35:36 Time Left: 5 minutes
+20-02-24 03:36:36 Time Left: 4 minutes
+20-02-24 03:37:36 Time Left: 3 minutes
+20-02-24 03:38:36 Time Left: 2 minutes
+20-02-24 03:39:36 Time Left: 1 minutes
+20-02-24 03:40:36 Next map: ctf_Ash
+20-02-24 03:40:41 ctf_Ash by chakapoko maker
+20-02-24 03:45:41 Time Left: 5 minutes
+20-02-24 03:46:41 Time Left: 4 minutes
+20-02-24 03:47:41 Time Left: 3 minutes
+20-02-24 03:48:41 Time Left: 2 minutes
+20-02-24 03:49:41 Time Left: 1 minutes
+20-02-24 03:50:41 Next map: ctf_B2b
+20-02-24 03:50:46 B2B
+20-02-24 03:55:46 Time Left: 5 minutes
+20-02-24 03:56:46 Time Left: 4 minutes
+20-02-24 03:57:46 Time Left: 3 minutes
+20-02-24 03:58:46 Time Left: 2 minutes
+20-02-24 03:59:46 Time Left: 1 minutes
+20-02-24 04:00:46 Next map: ctf_Blade
+20-02-24 04:00:52 Blade by Zakath
+20-02-24 04:05:52 Time Left: 5 minutes
+20-02-24 04:06:52 Time Left: 4 minutes
+20-02-24 04:07:52 Time Left: 3 minutes
+20-02-24 04:08:52 Time Left: 2 minutes
+20-02-24 04:09:52 Time Left: 1 minutes
+20-02-24 04:10:52 Next map: ctf_Viet
+20-02-24 04:10:57 Viet
+20-02-24 04:15:57 Time Left: 5 minutes
+20-02-24 04:16:57 Time Left: 4 minutes
+20-02-24 04:17:57 Time Left: 3 minutes
+20-02-24 04:18:57 Time Left: 2 minutes
+20-02-24 04:19:57 Time Left: 1 minutes
+20-02-24 04:20:57 Next map: ctf_Division
+20-02-24 04:21:02 Division by Boxo, KC, viral
+20-02-24 04:26:02 Time Left: 5 minutes
+20-02-24 04:27:02 Time Left: 4 minutes
+20-02-24 04:28:02 Time Left: 3 minutes
+20-02-24 04:29:02 Time Left: 2 minutes
+20-02-24 04:30:02 Time Left: 1 minutes
+20-02-24 04:31:02 Next map: ctf_Death
+20-02-24 04:31:08 Death by MM, g_d. Boxo, mtk`
+20-02-24 04:36:08 Time Left: 5 minutes
+20-02-24 04:37:08 Time Left: 4 minutes
+20-02-24 04:38:08 Time Left: 3 minutes
+20-02-24 04:39:08 Time Left: 2 minutes
+20-02-24 04:40:08 Time Left: 1 minutes
+20-02-24 04:41:08 Next map: ctf_Hormone
+20-02-24 04:41:13 Hormone by Mets‰naperot
+20-02-24 04:46:13 Time Left: 5 minutes
+20-02-24 04:47:13 Time Left: 4 minutes
+20-02-24 04:48:13 Time Left: 3 minutes
+20-02-24 04:49:13 Time Left: 2 minutes
+20-02-24 04:50:13 Time Left: 1 minutes
+20-02-24 04:51:13 Next map: ctf_Laos
+20-02-24 04:51:18 Laos
+20-02-24 04:56:18 Time Left: 5 minutes
+20-02-24 04:57:18 Time Left: 4 minutes
+20-02-24 04:58:18 Time Left: 3 minutes
+20-02-24 04:59:18 Time Left: 2 minutes
+20-02-24 05:00:18 Time Left: 1 minutes
+20-02-24 05:01:18 Next map: ctf_Laos2
+20-02-24 05:01:23 Laos
+20-02-24 05:06:23 Time Left: 5 minutes
+20-02-24 05:07:23 Time Left: 4 minutes
+20-02-24 05:08:23 Time Left: 3 minutes
+20-02-24 05:09:23 Time Left: 2 minutes
+20-02-24 05:10:23 Time Left: 1 minutes
+20-02-24 05:11:23 Next map: ctf_Maya
+20-02-24 05:11:29 Maya
+20-02-24 05:16:29 Time Left: 5 minutes
+20-02-24 05:17:29 Time Left: 4 minutes
+20-02-24 05:18:29 Time Left: 3 minutes
+20-02-24 05:19:29 Time Left: 2 minutes
+20-02-24 05:20:29 Time Left: 1 minutes
+20-02-24 05:21:29 Next map: ctf_MFM
+20-02-24 05:21:34 MFM 2 by mar77a
+20-02-24 05:26:34 Time Left: 5 minutes
+20-02-24 05:27:34 Time Left: 4 minutes
+20-02-24 05:28:34 Time Left: 3 minutes
+20-02-24 05:29:34 Time Left: 2 minutes
+20-02-24 05:30:34 Time Left: 1 minutes
+20-02-24 05:31:34 Next map: ctf_Run
+20-02-24 05:31:39 Run
+20-02-24 05:36:39 Time Left: 5 minutes
+20-02-24 05:37:39 Time Left: 4 minutes
+20-02-24 05:38:39 Time Left: 3 minutes
+20-02-24 05:39:39 Time Left: 2 minutes
+20-02-24 05:40:39 Time Left: 1 minutes
+20-02-24 05:41:39 Next map: ctf_OldRun
+20-02-24 05:41:45 Run (get to the flag!)
+20-02-24 05:46:45 Time Left: 5 minutes
+20-02-24 05:47:45 Time Left: 4 minutes
+20-02-24 05:48:45 Time Left: 3 minutes
+20-02-24 05:49:45 Time Left: 2 minutes
+20-02-24 05:50:45 Time Left: 1 minutes
+20-02-24 05:51:45 Next map: ctf_Ash
+20-02-24 05:51:50 ctf_Ash by chakapoko maker
+20-02-24 05:56:50 Time Left: 5 minutes
+20-02-24 05:57:50 Time Left: 4 minutes
+20-02-24 05:58:50 Time Left: 3 minutes
+20-02-24 05:59:50 Time Left: 2 minutes
+20-02-24 06:00:50 Time Left: 1 minutes
+20-02-24 06:01:50 Next map: ctf_B2b
+20-02-24 06:01:55 B2B
+20-02-24 06:06:55 Time Left: 5 minutes
+20-02-24 06:07:55 Time Left: 4 minutes
+20-02-24 06:08:55 Time Left: 3 minutes
+20-02-24 06:09:55 Time Left: 2 minutes
+20-02-24 06:10:55 Time Left: 1 minutes
+20-02-24 06:11:55 Next map: ctf_Blade
+20-02-24 06:12:01 Blade by Zakath
+20-02-24 06:17:01 Time Left: 5 minutes
+20-02-24 06:18:01 Time Left: 4 minutes
+20-02-24 06:19:01 Time Left: 3 minutes
+20-02-24 06:20:01 Time Left: 2 minutes
+20-02-24 06:21:01 Time Left: 1 minutes
+20-02-24 06:22:01 Next map: ctf_Viet
+20-02-24 06:22:06 Viet
+20-02-24 06:27:06 Time Left: 5 minutes
+20-02-24 06:28:06 Time Left: 4 minutes
+20-02-24 06:29:06 Time Left: 3 minutes
+20-02-24 06:30:06 Time Left: 2 minutes
+20-02-24 06:31:06 Time Left: 1 minutes
+20-02-24 06:32:06 Next map: ctf_Division
+20-02-24 06:32:11 Division by Boxo, KC, viral
+20-02-24 06:37:11 Time Left: 5 minutes
+20-02-24 06:38:11 Time Left: 4 minutes
+20-02-24 06:39:11 Time Left: 3 minutes
+20-02-24 06:40:11 Time Left: 2 minutes
+20-02-24 06:41:11 Time Left: 1 minutes
+20-02-24 06:42:11 Next map: ctf_Death
+20-02-24 06:42:17 Death by MM, g_d. Boxo, mtk`
+20-02-24 06:47:17 Time Left: 5 minutes
+20-02-24 06:48:17 Time Left: 4 minutes
+20-02-24 06:49:17 Time Left: 3 minutes
+20-02-24 06:50:17 Time Left: 2 minutes
+20-02-24 06:51:17 Time Left: 1 minutes
+20-02-24 06:52:17 Next map: ctf_Hormone
+20-02-24 06:52:22 Hormone by Mets‰naperot
+20-02-24 06:57:22 Time Left: 5 minutes
+20-02-24 06:58:22 Time Left: 4 minutes
+20-02-24 06:59:22 Time Left: 3 minutes
+20-02-24 07:00:22 Time Left: 2 minutes
+20-02-24 07:01:22 Time Left: 1 minutes
+20-02-24 07:02:22 Next map: ctf_Laos
+20-02-24 07:02:27 Laos
+20-02-24 07:07:27 Time Left: 5 minutes
+20-02-24 07:08:27 Time Left: 4 minutes
+20-02-24 07:09:27 Time Left: 3 minutes
+20-02-24 07:10:27 Time Left: 2 minutes
+20-02-24 07:11:27 Time Left: 1 minutes
+20-02-24 07:12:27 Next map: ctf_Laos2
+20-02-24 07:12:33 Laos
+20-02-24 07:17:33 Time Left: 5 minutes
+20-02-24 07:18:33 Time Left: 4 minutes
+20-02-24 07:19:33 Time Left: 3 minutes
+20-02-24 07:20:33 Time Left: 2 minutes
+20-02-24 07:21:33 Time Left: 1 minutes
+20-02-24 07:22:33 Next map: ctf_Maya
+20-02-24 07:22:38 Maya
+20-02-24 07:27:38 Time Left: 5 minutes
+20-02-24 07:28:38 Time Left: 4 minutes
+20-02-24 07:29:38 Time Left: 3 minutes
+20-02-24 07:30:38 Time Left: 2 minutes
+20-02-24 07:31:38 Time Left: 1 minutes
+20-02-24 07:32:38 Next map: ctf_MFM
+20-02-24 07:32:43 MFM 2 by mar77a
+20-02-24 07:37:43 Time Left: 5 minutes
+20-02-24 07:38:43 Time Left: 4 minutes
+20-02-24 07:39:43 Time Left: 3 minutes
+20-02-24 07:40:43 Time Left: 2 minutes
+20-02-24 07:41:43 Time Left: 1 minutes
+20-02-24 07:42:43 Next map: ctf_Run
+20-02-24 07:42:49 Run
+20-02-24 07:47:49 Time Left: 5 minutes
+20-02-24 07:48:49 Time Left: 4 minutes
+20-02-24 07:49:49 Time Left: 3 minutes
+20-02-24 07:50:49 Time Left: 2 minutes
+20-02-24 07:51:49 Time Left: 1 minutes
+20-02-24 07:52:49 Next map: ctf_OldRun
+20-02-24 07:52:54 Run (get to the flag!)
+20-02-24 07:57:54 Time Left: 5 minutes
+20-02-24 07:58:54 Time Left: 4 minutes
+20-02-24 07:59:54 Time Left: 3 minutes
+20-02-24 08:00:54 Time Left: 2 minutes
+20-02-24 08:01:54 Time Left: 1 minutes
+20-02-24 08:02:54 Next map: ctf_Ash
+20-02-24 08:02:59 ctf_Ash by chakapoko maker
+20-02-24 08:07:59 Time Left: 5 minutes
+20-02-24 08:08:59 Time Left: 4 minutes
+20-02-24 08:09:59 Time Left: 3 minutes
+20-02-24 08:10:59 Time Left: 2 minutes
+20-02-24 08:11:59 Time Left: 1 minutes
+20-02-24 08:12:59 Next map: ctf_B2b
+20-02-24 08:13:05 B2B
+20-02-24 08:18:04 Time Left: 5 minutes
+20-02-24 08:19:04 Time Left: 4 minutes
+20-02-24 08:20:04 Time Left: 3 minutes
+20-02-24 08:21:04 Time Left: 2 minutes
+20-02-24 08:22:04 Time Left: 1 minutes
+20-02-24 08:23:04 Next map: ctf_Blade
+20-02-24 08:23:10 Blade by Zakath
+20-02-24 08:28:10 Time Left: 5 minutes
+20-02-24 08:29:10 Time Left: 4 minutes
+20-02-24 08:30:10 Time Left: 3 minutes
+20-02-24 08:31:10 Time Left: 2 minutes
+20-02-24 08:32:10 Time Left: 1 minutes
+20-02-24 08:33:10 Next map: ctf_Viet
+20-02-24 08:33:15 Viet
+20-02-24 08:38:15 Time Left: 5 minutes
+20-02-24 08:39:15 Time Left: 4 minutes
+20-02-24 08:40:15 Time Left: 3 minutes
+20-02-24 08:41:15 Time Left: 2 minutes
+20-02-24 08:42:15 Time Left: 1 minutes
+20-02-24 08:43:15 Next map: ctf_Division
+20-02-24 08:43:20 Division by Boxo, KC, viral
+20-02-24 08:48:20 Time Left: 5 minutes
+20-02-24 08:49:20 Time Left: 4 minutes
+20-02-24 08:50:20 Time Left: 3 minutes
+20-02-24 08:51:20 Time Left: 2 minutes
+20-02-24 08:52:20 Time Left: 1 minutes
+20-02-24 08:53:20 Next map: ctf_Death
+20-02-24 08:53:26 Death by MM, g_d. Boxo, mtk`
+20-02-24 08:58:26 Time Left: 5 minutes
+20-02-24 08:59:26 Time Left: 4 minutes
+20-02-24 09:00:26 Time Left: 3 minutes
+20-02-24 09:01:26 Time Left: 2 minutes
+20-02-24 09:02:26 Time Left: 1 minutes
+20-02-24 09:03:26 Next map: ctf_Hormone
+20-02-24 09:03:31 Hormone by Mets‰naperot
+20-02-24 09:08:31 Time Left: 5 minutes
+20-02-24 09:09:31 Time Left: 4 minutes
+20-02-24 09:10:31 Time Left: 3 minutes
+20-02-24 09:11:31 Time Left: 2 minutes
+20-02-24 09:12:31 Time Left: 1 minutes
+20-02-24 09:13:31 Next map: ctf_Laos
+20-02-24 09:13:36 Laos
+20-02-24 09:18:36 Time Left: 5 minutes
+20-02-24 09:19:36 Time Left: 4 minutes
+20-02-24 09:20:36 Time Left: 3 minutes
+20-02-24 09:21:36 Time Left: 2 minutes
+20-02-24 09:22:36 Time Left: 1 minutes
+20-02-24 09:23:36 Next map: ctf_Laos2
+20-02-24 09:23:42 Laos
+20-02-24 09:28:42 Time Left: 5 minutes
+20-02-24 09:29:42 Time Left: 4 minutes
+20-02-24 09:30:42 Time Left: 3 minutes
+20-02-24 09:31:42 Time Left: 2 minutes
+20-02-24 09:32:42 Time Left: 1 minutes
+20-02-24 09:33:42 Next map: ctf_Maya
+20-02-24 09:33:47 Maya
+20-02-24 09:38:47 Time Left: 5 minutes
+20-02-24 09:39:47 Time Left: 4 minutes
+20-02-24 09:40:47 Time Left: 3 minutes
+20-02-24 09:41:47 Time Left: 2 minutes
+20-02-24 09:42:47 Time Left: 1 minutes
+20-02-24 09:43:47 Next map: ctf_MFM
+20-02-24 09:43:52 MFM 2 by mar77a
+20-02-24 09:48:52 Time Left: 5 minutes
+20-02-24 09:49:52 Time Left: 4 minutes
+20-02-24 09:50:52 Time Left: 3 minutes
+20-02-24 09:51:52 Time Left: 2 minutes
+20-02-24 09:52:52 Time Left: 1 minutes
+20-02-24 09:53:52 Next map: ctf_Run
+20-02-24 09:53:58 Run
+20-02-24 09:58:58 Time Left: 5 minutes
+20-02-24 09:59:58 Time Left: 4 minutes
+20-02-24 10:00:58 Time Left: 3 minutes
+20-02-24 10:01:58 Time Left: 2 minutes
+20-02-24 10:02:58 Time Left: 1 minutes
+20-02-24 10:03:58 Next map: ctf_OldRun
+20-02-24 10:04:03 Run (get to the flag!)
+20-02-24 10:09:03 Time Left: 5 minutes
+20-02-24 10:10:03 Time Left: 4 minutes
+20-02-24 10:11:03 Time Left: 3 minutes
+20-02-24 10:12:03 Time Left: 2 minutes
+20-02-24 10:13:03 Time Left: 1 minutes
+20-02-24 10:14:03 Next map: ctf_Ash
+20-02-24 10:14:08 ctf_Ash by chakapoko maker
+20-02-24 10:19:08 Time Left: 5 minutes
+20-02-24 10:20:08 Time Left: 4 minutes
+20-02-24 10:21:08 Time Left: 3 minutes
+20-02-24 10:22:08 Time Left: 2 minutes
+20-02-24 10:23:08 Time Left: 1 minutes
+20-02-24 10:24:08 Next map: ctf_B2b
+20-02-24 10:24:14 B2B
+20-02-24 10:29:14 Time Left: 5 minutes
+20-02-24 10:30:14 Time Left: 4 minutes
+20-02-24 10:31:14 Time Left: 3 minutes
+20-02-24 10:32:14 Time Left: 2 minutes
+20-02-24 10:33:14 Time Left: 1 minutes
+20-02-24 10:34:14 Next map: ctf_Blade
+20-02-24 10:34:19 Blade by Zakath
+20-02-24 10:39:19 Time Left: 5 minutes
+20-02-24 10:40:19 Time Left: 4 minutes
+20-02-24 10:41:19 Time Left: 3 minutes
+20-02-24 10:42:19 Time Left: 2 minutes
+20-02-24 10:43:19 Time Left: 1 minutes
+20-02-24 10:44:19 Next map: ctf_Viet
+20-02-24 10:44:24 Viet
+20-02-24 10:49:24 Time Left: 5 minutes
+20-02-24 10:50:24 Time Left: 4 minutes
+20-02-24 10:51:24 Time Left: 3 minutes
+20-02-24 10:52:24 Time Left: 2 minutes
+20-02-24 10:53:24 Time Left: 1 minutes
+20-02-24 10:54:24 Next map: ctf_Division
+20-02-24 10:54:30 Division by Boxo, KC, viral
+20-02-24 10:59:30 Time Left: 5 minutes
+20-02-24 11:00:30 Time Left: 4 minutes
+20-02-24 11:01:30 Time Left: 3 minutes
+20-02-24 11:02:30 Time Left: 2 minutes
+20-02-24 11:03:30 Time Left: 1 minutes
+20-02-24 11:04:30 Next map: ctf_Death
+20-02-24 11:04:35 Death by MM, g_d. Boxo, mtk`
+20-02-24 11:09:35 Time Left: 5 minutes
+20-02-24 11:10:35 Time Left: 4 minutes
+20-02-24 11:11:35 Time Left: 3 minutes
+20-02-24 11:12:35 Time Left: 2 minutes
+20-02-24 11:13:35 Time Left: 1 minutes
+20-02-24 11:14:35 Next map: ctf_Hormone
+20-02-24 11:14:40 Hormone by Mets‰naperot
+20-02-24 11:19:40 Time Left: 5 minutes
+20-02-24 11:20:40 Time Left: 4 minutes
+20-02-24 11:21:40 Time Left: 3 minutes
+20-02-24 11:22:40 Time Left: 2 minutes
+20-02-24 11:23:40 Time Left: 1 minutes
+20-02-24 11:24:40 Next map: ctf_Laos
+20-02-24 11:24:46 Laos
+20-02-24 11:29:46 Time Left: 5 minutes
+20-02-24 11:30:46 Time Left: 4 minutes
+20-02-24 11:31:46 Time Left: 3 minutes
+20-02-24 11:32:46 Time Left: 2 minutes
+20-02-24 11:33:46 Time Left: 1 minutes
+20-02-24 11:34:45 Next map: ctf_Laos2
+20-02-24 11:34:51 Laos
+20-02-24 11:39:51 Time Left: 5 minutes
+20-02-24 11:40:51 Time Left: 4 minutes
+20-02-24 11:41:51 Time Left: 3 minutes
+20-02-24 11:42:51 Time Left: 2 minutes
+20-02-24 11:43:51 Time Left: 1 minutes
+20-02-24 11:44:51 Next map: ctf_Maya
+20-02-24 11:44:56 Maya
+20-02-24 11:49:56 Time Left: 5 minutes
+20-02-24 11:50:56 Time Left: 4 minutes
+20-02-24 11:51:56 Time Left: 3 minutes
+20-02-24 11:52:56 Time Left: 2 minutes
+20-02-24 11:53:56 Time Left: 1 minutes
+20-02-24 11:54:56 Next map: ctf_MFM
+20-02-24 11:55:01 MFM 2 by mar77a
+20-02-24 12:00:01 Time Left: 5 minutes
+20-02-24 12:01:01 Time Left: 4 minutes
+20-02-24 12:02:01 Time Left: 3 minutes
+20-02-24 12:03:01 Time Left: 2 minutes
+20-02-24 12:04:01 Time Left: 1 minutes
+20-02-24 12:05:01 Next map: ctf_Run
+20-02-24 12:05:07 Run
+20-02-24 12:10:07 Time Left: 5 minutes
+20-02-24 12:11:07 Time Left: 4 minutes
+20-02-24 12:12:07 Time Left: 3 minutes
+20-02-24 12:13:07 Time Left: 2 minutes
+20-02-24 12:14:07 Time Left: 1 minutes
+20-02-24 12:15:07 Next map: ctf_OldRun
+20-02-24 12:15:12 Run (get to the flag!)
+20-02-24 12:20:12 Time Left: 5 minutes
+20-02-24 12:21:12 Time Left: 4 minutes
+20-02-24 12:22:12 Time Left: 3 minutes
+20-02-24 12:23:12 Time Left: 2 minutes
+20-02-24 12:24:12 Time Left: 1 minutes
+20-02-24 12:25:12 Next map: ctf_Ash
+20-02-24 12:25:17 ctf_Ash by chakapoko maker
+20-02-24 12:30:17 Time Left: 5 minutes
+20-02-24 12:31:17 Time Left: 4 minutes
+20-02-24 12:32:17 Time Left: 3 minutes
+20-02-24 12:33:17 Time Left: 2 minutes
+20-02-24 12:34:17 Time Left: 1 minutes
+20-02-24 12:35:17 Next map: ctf_B2b
+20-02-24 12:35:23 B2B
+20-02-24 12:40:23 Time Left: 5 minutes
+20-02-24 12:41:23 Time Left: 4 minutes
+20-02-24 12:42:23 Time Left: 3 minutes
+20-02-24 12:43:23 Time Left: 2 minutes
+20-02-24 12:44:23 Time Left: 1 minutes
+20-02-24 12:45:23 Next map: ctf_Blade
+20-02-24 12:45:28 Blade by Zakath
+20-02-24 12:50:28 Time Left: 5 minutes
+20-02-24 12:51:28 Time Left: 4 minutes
+20-02-24 12:52:28 Time Left: 3 minutes
+20-02-24 12:53:28 Time Left: 2 minutes
+20-02-24 12:54:28 Time Left: 1 minutes
+20-02-24 12:55:28 Next map: ctf_Viet
+20-02-24 12:55:33 Viet
+20-02-24 13:00:33 Time Left: 5 minutes
+20-02-24 13:01:33 Time Left: 4 minutes
+20-02-24 13:02:33 Time Left: 3 minutes
+20-02-24 13:03:33 Time Left: 2 minutes
+20-02-24 13:04:33 Time Left: 1 minutes
+20-02-24 13:05:33 Next map: ctf_Division
+20-02-24 13:05:39 Division by Boxo, KC, viral
+20-02-24 13:10:39 Time Left: 5 minutes
+20-02-24 13:11:39 Time Left: 4 minutes
+20-02-24 13:12:39 Time Left: 3 minutes
+20-02-24 13:13:39 Time Left: 2 minutes
+20-02-24 13:14:39 Time Left: 1 minutes
+20-02-24 13:15:39 Next map: ctf_Death
+20-02-24 13:15:44 Death by MM, g_d. Boxo, mtk`
+20-02-24 13:20:44 Time Left: 5 minutes
+20-02-24 13:21:44 Time Left: 4 minutes
+20-02-24 13:22:44 Time Left: 3 minutes
+20-02-24 13:23:44 Time Left: 2 minutes
+20-02-24 13:24:44 Time Left: 1 minutes
+20-02-24 13:25:44 Next map: ctf_Hormone
+20-02-24 13:25:49 Hormone by Mets‰naperot
+20-02-24 13:30:49 Time Left: 5 minutes
+20-02-24 13:31:49 Time Left: 4 minutes
+20-02-24 13:32:49 Time Left: 3 minutes
+20-02-24 13:33:49 Time Left: 2 minutes
+20-02-24 13:34:49 Time Left: 1 minutes
+20-02-24 13:35:49 Next map: ctf_Laos
+20-02-24 13:35:55 Laos
+20-02-24 13:40:55 Time Left: 5 minutes
+20-02-24 13:41:55 Time Left: 4 minutes
+20-02-24 13:42:55 Time Left: 3 minutes
+20-02-24 13:43:55 Time Left: 2 minutes
+20-02-24 13:44:55 Time Left: 1 minutes
+20-02-24 13:45:55 Next map: ctf_Laos2
+20-02-24 13:46:00 Laos
+20-02-24 13:51:00 Time Left: 5 minutes
+20-02-24 13:52:00 Time Left: 4 minutes
+20-02-24 13:53:00 Time Left: 3 minutes
+20-02-24 13:54:00 Time Left: 2 minutes
+20-02-24 13:55:00 Time Left: 1 minutes
+20-02-24 13:56:00 Next map: ctf_Maya
+20-02-24 13:56:05 Maya
+20-02-24 14:01:05 Time Left: 5 minutes
+20-02-24 14:02:05 Time Left: 4 minutes
+20-02-24 14:03:05 Time Left: 3 minutes
+20-02-24 14:04:05 Time Left: 2 minutes
+20-02-24 14:05:05 Time Left: 1 minutes
+20-02-24 14:06:05 Next map: ctf_MFM
+20-02-24 14:06:11 MFM 2 by mar77a
+20-02-24 14:11:11 Time Left: 5 minutes
+20-02-24 14:12:11 Time Left: 4 minutes
+20-02-24 14:13:11 Time Left: 3 minutes
+20-02-24 14:14:11 Time Left: 2 minutes
+20-02-24 14:15:11 Time Left: 1 minutes
+20-02-24 14:16:11 Next map: ctf_Run
+20-02-24 14:16:16 Run
+20-02-24 14:19:14 190.107.226.37:24499|696908AC8E7 requesting game...
+20-02-24 14:19:16 |D.Forc3|.Turko joining game (190.107.226.37:24499) HWID:696908AC8E7
+20-02-24 14:19:16 |D.Forc3|.Turko has joined as spectator.
+20-02-24 14:19:20 [|D.Forc3|.Turko] !p
+20-02-24 14:19:24 |D.Forc3|.Turko gets a ping warning
+20-02-24 14:19:25 [|D.Forc3|.Turko] !up
+20-02-24 14:19:28 |D.Forc3|.Turko has joined alpha team.
+20-02-24 14:19:31 |D.Forc3|.Turko gets a ping warning
+20-02-24 14:19:31 [|D.Forc3|.Turko] !p
+20-02-24 14:19:34 [|D.Forc3|.Turko] !up
+20-02-24 14:19:34 Go!!...
+20-02-24 14:19:35 3...
+20-02-24 14:19:36 2...
+20-02-24 14:19:37 1...
+20-02-24 14:19:38 GO!
+20-02-24 14:19:38 |D.Forc3|.Turko gets a ping warning
+20-02-24 14:19:39 [|D.Forc3|.Turko] !p
+20-02-24 14:19:41 [|D.Forc3|.Turko] !up
+20-02-24 14:19:41 Go!!...
+20-02-24 14:19:42 3...
+20-02-24 14:19:43 2...
+20-02-24 14:19:44 1...
+20-02-24 14:19:45 GO!
+20-02-24 14:19:45 |D.Forc3|.Turko gets a ping warning
+20-02-24 14:19:50 |D.Forc3|.Turko has left alpha team.
+20-02-24 14:19:50 Server password changed to scl
+20-02-24 14:21:22 Time Left: 5 minutes
+20-02-24 14:22:22 Time Left: 4 minutes
+20-02-24 14:23:22 Time Left: 3 minutes
+20-02-24 14:24:22 Time Left: 2 minutes
+20-02-24 14:25:22 Time Left: 1 minutes
+20-02-24 14:26:22 Next map: ctf_OldRun
+20-02-24 14:26:27 Run (get to the flag!)
+20-02-24 14:31:27 Time Left: 5 minutes
+20-02-24 14:32:27 Time Left: 4 minutes
+20-02-24 14:33:27 Time Left: 3 minutes
+20-02-24 14:34:27 Time Left: 2 minutes
+20-02-24 14:35:27 Time Left: 1 minutes
+20-02-24 14:36:27 Next map: ctf_Ash
+20-02-24 14:36:32 ctf_Ash by chakapoko maker
+20-02-24 14:41:32 Time Left: 5 minutes
+20-02-24 14:42:32 Time Left: 4 minutes
+20-02-24 14:42:39 190.107.226.37:24502|696908AC8E7 requesting game...
+20-02-24 14:42:42 |D.Forc3|.Turko joining game (190.107.226.37:24502) HWID:696908AC8E7
+20-02-24 14:42:42 |D.Forc3|.Turko has joined as spectator.
+20-02-24 14:42:44 |D.Forc3|.Turko gets a ping warning
+20-02-24 14:42:46 |D.Forc3|.Turko has left spectators
+20-02-24 14:42:46 Server password changed to scl
+20-02-24 14:43:32 Time Left: 3 minutes
+20-02-24 14:44:32 Time Left: 2 minutes
+20-02-24 14:45:32 Time Left: 1 minutes
+20-02-24 14:46:32 Next map: ctf_B2b
+20-02-24 14:46:38 B2B
+20-02-24 14:51:38 Time Left: 5 minutes
+20-02-24 14:52:38 Time Left: 4 minutes
+20-02-24 14:53:38 Time Left: 3 minutes
+20-02-24 14:54:38 Time Left: 2 minutes
+20-02-24 14:55:38 Time Left: 1 minutes
+20-02-24 14:56:38 Next map: ctf_Blade
+20-02-24 14:56:43 Blade by Zakath
+20-02-24 15:01:43 Time Left: 5 minutes
+20-02-24 15:02:43 Time Left: 4 minutes
+20-02-24 15:03:43 Time Left: 3 minutes
+20-02-24 15:04:43 Time Left: 2 minutes
+20-02-24 15:05:43 Time Left: 1 minutes
+20-02-24 15:06:43 Next map: ctf_Viet
+20-02-24 15:06:48 Viet
+20-02-24 15:11:48 Time Left: 5 minutes
+20-02-24 15:12:48 Time Left: 4 minutes
+20-02-24 15:13:48 Time Left: 3 minutes
+20-02-24 15:14:48 Time Left: 2 minutes
+20-02-24 15:15:48 Time Left: 1 minutes
+20-02-24 15:16:48 Next map: ctf_Division
+20-02-24 15:16:54 Division by Boxo, KC, viral
+20-02-24 15:21:54 Time Left: 5 minutes
+20-02-24 15:22:54 Time Left: 4 minutes
+20-02-24 15:23:54 Time Left: 3 minutes
+20-02-24 15:24:54 Time Left: 2 minutes
+20-02-24 15:25:54 Time Left: 1 minutes
+20-02-24 15:26:54 Next map: ctf_Death
+20-02-24 15:26:59 Death by MM, g_d. Boxo, mtk`
+20-02-24 15:31:59 Time Left: 5 minutes
+20-02-24 15:32:59 Time Left: 4 minutes
+20-02-24 15:33:59 Time Left: 3 minutes
+20-02-24 15:34:59 Time Left: 2 minutes
+20-02-24 15:35:59 Time Left: 1 minutes
+20-02-24 15:36:59 Next map: ctf_Hormone
+20-02-24 15:37:04 Hormone by Mets‰naperot
+20-02-24 15:39:28 190.107.226.37:24511|696908AC8E7 requesting game...
+20-02-24 15:39:28 |D.Forc3|.Turko joining game (190.107.226.37:24511) HWID:696908AC8E7
+20-02-24 15:39:28 |D.Forc3|.Turko has joined as spectator.
+20-02-24 15:39:32 |D.Forc3|.Turko has left spectators
+20-02-24 15:39:32 Server password changed to scl
+20-02-24 15:42:04 Time Left: 5 minutes
+20-02-24 15:43:04 Time Left: 4 minutes
+20-02-24 15:44:04 Time Left: 3 minutes
+20-02-24 15:45:04 Time Left: 2 minutes
+20-02-24 15:46:04 Time Left: 1 minutes
+20-02-24 15:47:04 Next map: ctf_Laos
+20-02-24 15:47:10 Laos
+20-02-24 15:52:10 Time Left: 5 minutes
+20-02-24 15:53:10 Time Left: 4 minutes
+20-02-24 15:54:10 Time Left: 3 minutes
+20-02-24 15:55:10 Time Left: 2 minutes
+20-02-24 15:56:10 Time Left: 1 minutes
+20-02-24 15:57:10 Next map: ctf_Laos2
+20-02-24 15:57:15 Laos
+20-02-24 16:02:15 Time Left: 5 minutes
+20-02-24 16:03:15 Time Left: 4 minutes
+20-02-24 16:04:15 Time Left: 3 minutes
+20-02-24 16:05:15 Time Left: 2 minutes
+20-02-24 16:06:15 Time Left: 1 minutes
+20-02-24 16:07:15 Next map: ctf_Maya
+20-02-24 16:07:20 Maya
+20-02-24 16:08:38 190.107.226.37:24511|696908AC8E7 requesting game...
+20-02-24 16:12:20 Time Left: 5 minutes
+20-02-24 16:13:20 Time Left: 4 minutes
+20-02-24 16:14:20 Time Left: 3 minutes
+20-02-24 16:15:20 Time Left: 2 minutes
+20-02-24 16:16:20 Time Left: 1 minutes
+20-02-24 16:17:20 Next map: ctf_MFM
+20-02-24 16:17:26 MFM 2 by mar77a
+20-02-24 16:22:26 Time Left: 5 minutes
+20-02-24 16:23:26 Time Left: 4 minutes
+20-02-24 16:24:26 Time Left: 3 minutes
+20-02-24 16:25:26 Time Left: 2 minutes
+20-02-24 16:26:26 Time Left: 1 minutes
+20-02-24 16:27:26 Next map: ctf_Run
+20-02-24 16:27:31 Run
+20-02-24 16:32:31 Time Left: 5 minutes
+20-02-24 16:33:31 Time Left: 4 minutes
+20-02-24 16:34:31 Time Left: 3 minutes
+20-02-24 16:35:31 Time Left: 2 minutes
+20-02-24 16:36:31 Time Left: 1 minutes
+20-02-24 16:37:31 Next map: ctf_OldRun
+20-02-24 16:37:36 Run (get to the flag!)
+20-02-24 16:42:36 Time Left: 5 minutes
+20-02-24 16:43:36 Time Left: 4 minutes
+20-02-24 16:44:36 Time Left: 3 minutes
+20-02-24 16:45:36 Time Left: 2 minutes
+20-02-24 16:46:36 Time Left: 1 minutes
+20-02-24 16:47:36 Next map: ctf_Ash
+20-02-24 16:47:42 ctf_Ash by chakapoko maker
+20-02-24 16:52:42 Time Left: 5 minutes
+20-02-24 16:53:42 Time Left: 4 minutes
+20-02-24 16:54:42 Time Left: 3 minutes
+20-02-24 16:55:42 Time Left: 2 minutes
+20-02-24 16:56:42 Time Left: 1 minutes
+20-02-24 16:57:42 Next map: ctf_B2b
+20-02-24 16:57:47 B2B
+20-02-24 17:02:47 Time Left: 5 minutes
+20-02-24 17:03:47 Time Left: 4 minutes
+20-02-24 17:04:47 Time Left: 3 minutes
+20-02-24 17:05:47 Time Left: 2 minutes
+20-02-24 17:06:47 Time Left: 1 minutes
+20-02-24 17:07:47 Next map: ctf_Blade
+20-02-24 17:07:52 Blade by Zakath
+20-02-24 17:12:52 Time Left: 5 minutes
+20-02-24 17:13:52 Time Left: 4 minutes
+20-02-24 17:14:52 Time Left: 3 minutes
+20-02-24 17:15:52 Time Left: 2 minutes
+20-02-24 17:16:52 Time Left: 1 minutes
+20-02-24 17:17:52 Next map: ctf_Viet
+20-02-24 17:17:58 Viet
+20-02-24 17:22:58 Time Left: 5 minutes
+20-02-24 17:23:58 Time Left: 4 minutes
+20-02-24 17:24:58 Time Left: 3 minutes
+20-02-24 17:25:58 Time Left: 2 minutes
+20-02-24 17:26:58 Time Left: 1 minutes
+20-02-24 17:27:58 Next map: ctf_Division
+20-02-24 17:28:03 Division by Boxo, KC, viral
+20-02-24 17:33:03 Time Left: 5 minutes
+20-02-24 17:34:03 Time Left: 4 minutes
+20-02-24 17:35:03 Time Left: 3 minutes
+20-02-24 17:36:03 Time Left: 2 minutes
+20-02-24 17:37:03 Time Left: 1 minutes
+20-02-24 17:38:03 Next map: ctf_Death
+20-02-24 17:38:08 Death by MM, g_d. Boxo, mtk`
+20-02-24 17:43:08 Time Left: 5 minutes
+20-02-24 17:44:08 Time Left: 4 minutes
+20-02-24 17:45:08 Time Left: 3 minutes
+20-02-24 17:46:08 Time Left: 2 minutes
+20-02-24 17:47:08 Time Left: 1 minutes
+20-02-24 17:48:08 Next map: ctf_Hormone
+20-02-24 17:48:14 Hormone by Mets‰naperot
+20-02-24 17:53:13 Time Left: 5 minutes
+20-02-24 17:54:13 Time Left: 4 minutes
+20-02-24 17:55:13 Time Left: 3 minutes
+20-02-24 17:56:13 Time Left: 2 minutes
+20-02-24 17:57:13 Time Left: 1 minutes
+20-02-24 17:58:13 Next map: ctf_Laos
+20-02-24 17:58:19 Laos
+20-02-24 18:03:19 Time Left: 5 minutes
+20-02-24 18:04:19 Time Left: 4 minutes
+20-02-24 18:05:19 Time Left: 3 minutes
+20-02-24 18:06:19 Time Left: 2 minutes
+20-02-24 18:07:19 Time Left: 1 minutes
+20-02-24 18:08:19 Next map: ctf_Laos2
+20-02-24 18:08:24 Laos
+20-02-24 18:13:24 Time Left: 5 minutes
+20-02-24 18:14:24 Time Left: 4 minutes
+20-02-24 18:15:24 Time Left: 3 minutes
+20-02-24 18:16:24 Time Left: 2 minutes
+20-02-24 18:17:24 Time Left: 1 minutes
+20-02-24 18:18:24 Next map: ctf_Maya
+20-02-24 18:18:29 Maya
+20-02-24 18:19:42 191.84.66.246:23073|6B65A17E6C3 requesting game...
+20-02-24 18:19:46 191.84.66.246:23073|6B65A17E6C3 requesting game...
+20-02-24 18:19:47 sk!T.Rattle joining game (191.84.66.246:23073) HWID:6B65A17E6C3
+20-02-24 18:19:47 sk!T.Rattle has joined alpha team.
+20-02-24 18:19:51 sk!T.Rattle gets a ping warning
+20-02-24 18:19:56 sk!T.Rattle has left alpha team.
+20-02-24 18:19:56 Server password changed to scl
+20-02-24 18:23:29 Time Left: 5 minutes
+20-02-24 18:23:55 191.84.66.246:23073|6B65A17E6C3 requesting game...
+20-02-24 18:23:57 sk!T.Rattle joining game (191.84.66.246:23073) HWID:6B65A17E6C3
+20-02-24 18:23:57 sk!T.Rattle has joined alpha team.
+20-02-24 18:24:03 sk!T.Rattle gets a ping warning
+20-02-24 18:24:03 sk!T.Rattle has left alpha team.
+20-02-24 18:24:03 Server password changed to scl
+20-02-24 18:24:29 Time Left: 4 minutes
+20-02-24 18:25:29 Time Left: 3 minutes
+20-02-24 18:26:29 Time Left: 2 minutes
+20-02-24 18:27:29 Time Left: 1 minutes
+20-02-24 18:28:29 Next map: ctf_MFM
+20-02-24 18:28:35 MFM 2 by mar77a
+20-02-24 18:33:35 Time Left: 5 minutes
+20-02-24 18:34:35 Time Left: 4 minutes
+20-02-24 18:35:35 Time Left: 3 minutes
+20-02-24 18:36:35 Time Left: 2 minutes
+20-02-24 18:37:35 Time Left: 1 minutes
+20-02-24 18:38:35 Next map: ctf_Run
+20-02-24 18:38:40 Run
+20-02-24 18:43:43 Time Left: 5 minutes
+20-02-24 18:44:43 Time Left: 4 minutes
+20-02-24 18:45:43 Time Left: 3 minutes
+20-02-24 18:46:43 Time Left: 2 minutes
+20-02-24 18:47:43 Time Left: 1 minutes
+20-02-24 18:48:43 Next map: ctf_OldRun
+20-02-24 18:48:48 Run (get to the flag!)
+20-02-24 18:53:48 Time Left: 5 minutes
+20-02-24 18:54:48 Time Left: 4 minutes
+20-02-24 18:55:48 Time Left: 3 minutes
+20-02-24 18:56:48 Time Left: 2 minutes
+20-02-24 18:57:48 Time Left: 1 minutes
+20-02-24 18:58:48 Next map: ctf_Ash
+20-02-24 18:58:53 ctf_Ash by chakapoko maker
+20-02-24 19:03:53 Time Left: 5 minutes
+20-02-24 19:04:53 Time Left: 4 minutes
+20-02-24 19:05:53 Time Left: 3 minutes
+20-02-24 19:06:53 Time Left: 2 minutes
+20-02-24 19:07:53 Time Left: 1 minutes
+20-02-24 19:08:53 Next map: ctf_B2b
+20-02-24 19:08:59 B2B
+20-02-24 19:13:59 Time Left: 5 minutes
+20-02-24 19:14:59 Time Left: 4 minutes
+20-02-24 19:15:59 Time Left: 3 minutes
+20-02-24 19:16:59 Time Left: 2 minutes
+20-02-24 19:17:59 Time Left: 1 minutes
+20-02-24 19:18:59 Next map: ctf_Blade
+20-02-24 19:19:04 Blade by Zakath
+20-02-24 19:24:04 Time Left: 5 minutes
+20-02-24 19:25:04 Time Left: 4 minutes
+20-02-24 19:26:04 Time Left: 3 minutes
+20-02-24 19:27:04 Time Left: 2 minutes
+20-02-24 19:28:04 Time Left: 1 minutes
+20-02-24 19:29:04 Next map: ctf_Viet
+20-02-24 19:29:09 Viet
+20-02-24 19:34:09 Time Left: 5 minutes
+20-02-24 19:35:09 Time Left: 4 minutes
+20-02-24 19:36:09 Time Left: 3 minutes
+20-02-24 19:37:09 Time Left: 2 minutes
+20-02-24 19:38:09 Time Left: 1 minutes
+20-02-24 19:39:09 Next map: ctf_Division
+20-02-24 19:39:15 Division by Boxo, KC, viral
+20-02-24 19:44:15 Time Left: 5 minutes
+20-02-24 19:45:15 Time Left: 4 minutes
+20-02-24 19:46:15 Time Left: 3 minutes
+20-02-24 19:47:15 Time Left: 2 minutes
+20-02-24 19:48:15 Time Left: 1 minutes
+20-02-24 19:49:15 Next map: ctf_Death
+20-02-24 19:49:20 Death by MM, g_d. Boxo, mtk`
+20-02-24 19:54:20 Time Left: 5 minutes
+20-02-24 19:55:20 Time Left: 4 minutes
+20-02-24 19:56:20 Time Left: 3 minutes
+20-02-24 19:57:20 Time Left: 2 minutes
+20-02-24 19:58:20 Time Left: 1 minutes
+20-02-24 19:59:20 Next map: ctf_Hormone
+20-02-24 19:59:25 Hormone by Mets‰naperot
+20-02-24 20:04:25 Time Left: 5 minutes
+20-02-24 20:05:25 Time Left: 4 minutes
+20-02-24 20:06:25 Time Left: 3 minutes
+20-02-24 20:07:25 Time Left: 2 minutes
+20-02-24 20:08:25 Time Left: 1 minutes
+20-02-24 20:09:25 Next map: ctf_Laos
+20-02-24 20:09:31 Laos
+20-02-24 20:14:31 Time Left: 5 minutes
+20-02-24 20:15:31 Time Left: 4 minutes
+20-02-24 20:16:31 Time Left: 3 minutes
+20-02-24 20:17:31 Time Left: 2 minutes
+20-02-24 20:18:31 Time Left: 1 minutes
+20-02-24 20:19:31 Next map: ctf_Laos2
+20-02-24 20:19:36 Laos
+20-02-24 20:24:36 Time Left: 5 minutes
+20-02-24 20:25:36 Time Left: 4 minutes
+20-02-24 20:26:36 Time Left: 3 minutes
+20-02-24 20:27:36 Time Left: 2 minutes
+20-02-24 20:28:36 Time Left: 1 minutes
+20-02-24 20:29:36 Next map: ctf_Maya
+20-02-24 20:29:41 Maya
+20-02-24 20:34:41 Time Left: 5 minutes
+20-02-24 20:35:41 Time Left: 4 minutes
+20-02-24 20:36:41 Time Left: 3 minutes
+20-02-24 20:37:41 Time Left: 2 minutes
+20-02-24 20:38:41 Time Left: 1 minutes
+20-02-24 20:39:41 Next map: ctf_MFM
+20-02-24 20:39:47 MFM 2 by mar77a
+20-02-24 20:44:47 Time Left: 5 minutes
+20-02-24 20:45:47 Time Left: 4 minutes
+20-02-24 20:46:47 Time Left: 3 minutes
+20-02-24 20:47:47 Time Left: 2 minutes
+20-02-24 20:48:47 Time Left: 1 minutes
+20-02-24 20:49:46 Next map: ctf_Run
+20-02-24 20:49:52 Run
+20-02-24 20:54:52 Time Left: 5 minutes
+20-02-24 20:55:52 Time Left: 4 minutes
+20-02-24 20:56:52 Time Left: 3 minutes
+20-02-24 20:57:52 Time Left: 2 minutes
+20-02-24 20:58:52 Time Left: 1 minutes
+20-02-24 20:59:52 Next map: ctf_OldRun
+20-02-24 20:59:57 Run (get to the flag!)
+20-02-24 21:04:57 Time Left: 5 minutes
+20-02-24 21:05:57 Time Left: 4 minutes
+20-02-24 21:06:57 Time Left: 3 minutes
+20-02-24 21:07:57 Time Left: 2 minutes
+20-02-24 21:08:57 Time Left: 1 minutes
+20-02-24 21:09:57 Next map: ctf_Ash
+20-02-24 21:10:02 ctf_Ash by chakapoko maker
+20-02-24 21:15:02 Time Left: 5 minutes
+20-02-24 21:16:02 Time Left: 4 minutes
+20-02-24 21:17:02 Time Left: 3 minutes
+20-02-24 21:18:02 Time Left: 2 minutes
+20-02-24 21:19:02 Time Left: 1 minutes
+20-02-24 21:20:02 Next map: ctf_B2b
+20-02-24 21:20:08 B2B
+20-02-24 21:25:08 Time Left: 5 minutes
+20-02-24 21:26:08 Time Left: 4 minutes
+20-02-24 21:27:08 Time Left: 3 minutes
+20-02-24 21:28:08 Time Left: 2 minutes
+20-02-24 21:29:08 Time Left: 1 minutes
+20-02-24 21:30:08 Next map: ctf_Blade
+20-02-24 21:30:13 Blade by Zakath
+20-02-24 21:35:13 Time Left: 5 minutes
+20-02-24 21:36:13 Time Left: 4 minutes
+20-02-24 21:37:13 Time Left: 3 minutes
+20-02-24 21:38:13 Time Left: 2 minutes
+20-02-24 21:39:13 Time Left: 1 minutes
+20-02-24 21:40:13 Next map: ctf_Viet
+20-02-24 21:40:18 Viet
+20-02-24 21:45:18 Time Left: 5 minutes
+20-02-24 21:46:18 Time Left: 4 minutes
+20-02-24 21:47:18 Time Left: 3 minutes
+20-02-24 21:48:18 Time Left: 2 minutes
+20-02-24 21:48:30 200.120.51.15:23073| requesting game...
+20-02-24 21:49:18 Time Left: 1 minutes
+20-02-24 21:50:18 Next map: ctf_Division
+20-02-24 21:50:24 Division by Boxo, KC, viral
+20-02-24 21:55:24 Time Left: 5 minutes
+20-02-24 21:56:24 Time Left: 4 minutes
+20-02-24 21:57:24 Time Left: 3 minutes
+20-02-24 21:58:24 Time Left: 2 minutes
+20-02-24 21:59:24 Time Left: 1 minutes
+20-02-24 22:00:24 Next map: ctf_Death
+20-02-24 22:00:29 Death by MM, g_d. Boxo, mtk`
+20-02-24 22:05:29 Time Left: 5 minutes
+20-02-24 22:06:29 Time Left: 4 minutes
+20-02-24 22:07:29 Time Left: 3 minutes
+20-02-24 22:08:29 Time Left: 2 minutes
+20-02-24 22:09:29 Time Left: 1 minutes
+20-02-24 22:10:29 Next map: ctf_Hormone
+20-02-24 22:10:34 Hormone by Mets‰naperot
+20-02-24 22:15:34 Time Left: 5 minutes
+20-02-24 22:16:34 Time Left: 4 minutes
+20-02-24 22:17:34 Time Left: 3 minutes
+20-02-24 22:18:34 Time Left: 2 minutes
+20-02-24 22:19:34 Time Left: 1 minutes
+20-02-24 22:20:34 Next map: ctf_Laos
+20-02-24 22:20:40 Laos
+20-02-24 22:25:40 Time Left: 5 minutes
+20-02-24 22:26:40 Time Left: 4 minutes
+20-02-24 22:27:40 Time Left: 3 minutes
+20-02-24 22:28:40 Time Left: 2 minutes
+20-02-24 22:29:40 Time Left: 1 minutes
+20-02-24 22:30:40 Next map: ctf_Laos2
+20-02-24 22:30:45 Laos
+20-02-24 22:35:45 Time Left: 5 minutes
+20-02-24 22:36:45 Time Left: 4 minutes
+20-02-24 22:37:45 Time Left: 3 minutes
+20-02-24 22:38:45 Time Left: 2 minutes
+20-02-24 22:39:45 Time Left: 1 minutes
+20-02-24 22:40:45 Next map: ctf_Maya
+20-02-24 22:40:50 Maya
+20-02-24 22:45:50 Time Left: 5 minutes
+20-02-24 22:46:50 Time Left: 4 minutes
+20-02-24 22:47:50 Time Left: 3 minutes
+20-02-24 22:48:50 Time Left: 2 minutes
+20-02-24 22:49:50 Time Left: 1 minutes
+20-02-24 22:50:50 Next map: ctf_MFM
+20-02-24 22:50:56 MFM 2 by mar77a
+20-02-24 22:55:56 Time Left: 5 minutes
+20-02-24 22:56:56 Time Left: 4 minutes
+20-02-24 22:57:56 Time Left: 3 minutes
+20-02-24 22:58:56 Time Left: 2 minutes
+20-02-24 22:59:56 Time Left: 1 minutes
+20-02-24 23:00:56 Next map: ctf_Run
+20-02-24 23:01:01 Run
+20-02-24 23:06:01 Time Left: 5 minutes
+20-02-24 23:07:01 Time Left: 4 minutes
+20-02-24 23:08:01 Time Left: 3 minutes
+20-02-24 23:09:01 Time Left: 2 minutes
+20-02-24 23:10:01 Time Left: 1 minutes
+20-02-24 23:11:01 Next map: ctf_OldRun
+20-02-24 23:11:06 Run (get to the flag!)
+20-02-24 23:16:06 Time Left: 5 minutes
+20-02-24 23:17:06 Time Left: 4 minutes
+20-02-24 23:18:06 Time Left: 3 minutes
+20-02-24 23:19:06 Time Left: 2 minutes
+20-02-24 23:20:06 Time Left: 1 minutes
+20-02-24 23:21:06 Next map: ctf_Ash
+20-02-24 23:21:12 ctf_Ash by chakapoko maker
+20-02-24 23:26:12 Time Left: 5 minutes
+20-02-24 23:27:12 Time Left: 4 minutes
+20-02-24 23:28:12 Time Left: 3 minutes
+20-02-24 23:29:12 Time Left: 2 minutes
+20-02-24 23:30:12 Time Left: 1 minutes
+20-02-24 23:31:12 Next map: ctf_B2b
+20-02-24 23:31:17 B2B
+20-02-24 23:36:17 Time Left: 5 minutes
+20-02-24 23:37:17 Time Left: 4 minutes
+20-02-24 23:38:17 Time Left: 3 minutes
+20-02-24 23:39:17 Time Left: 2 minutes
+20-02-24 23:40:17 Time Left: 1 minutes
+20-02-24 23:41:17 Next map: ctf_Blade
+20-02-24 23:41:22 Blade by Zakath
+20-02-24 23:46:22 Time Left: 5 minutes
+20-02-24 23:47:22 Time Left: 4 minutes
+20-02-24 23:48:22 Time Left: 3 minutes
+20-02-24 23:49:00 190.47.139.217:23073|348574D9644 requesting game...
+20-02-24 23:49:02 F4ll.cL joining game (190.47.139.217:23073) HWID:348574D9644
+20-02-24 23:49:02 F4ll.cL has joined alpha team.
+20-02-24 23:49:21 F4ll.cL captured the Blue Flag
+20-02-24 23:49:22 Time Left: 2 minutes
+20-02-24 23:49:30 F4ll.cL has left alpha team.
+20-02-24 23:49:30 Server password changed to scl
+20-02-24 23:50:22 Time Left: 1 minutes
+20-02-24 23:51:22 Next map: ctf_Viet
+20-02-24 23:51:28 Viet
+20-02-24 23:56:28 Time Left: 5 minutes
+20-02-24 23:57:28 Time Left: 4 minutes
+20-02-24 23:58:28 Time Left: 3 minutes
+20-02-24 23:59:28 Time Left: 2 minutes
+20-02-25 00:00:28 Time Left: 1 minutes
+20-02-25 00:01:28 Next map: ctf_Division
+20-02-25 00:01:33 Division by Boxo, KC, viral
+20-02-25 00:06:33 Time Left: 5 minutes
+20-02-25 00:07:33 Time Left: 4 minutes
+20-02-25 00:08:33 Time Left: 3 minutes
+20-02-25 00:09:33 Time Left: 2 minutes
+20-02-25 00:10:33 Time Left: 1 minutes
+20-02-25 00:11:33 Next map: ctf_Death
+20-02-25 00:11:38 Death by MM, g_d. Boxo, mtk`
+20-02-25 00:16:38 Time Left: 5 minutes
+20-02-25 00:17:38 Time Left: 4 minutes
+20-02-25 00:18:38 Time Left: 3 minutes
+20-02-25 00:19:38 Time Left: 2 minutes
+20-02-25 00:20:38 Time Left: 1 minutes
+20-02-25 00:21:38 Next map: ctf_Hormone
+20-02-25 00:21:43 Hormone by Mets‰naperot
+20-02-25 00:26:43 Time Left: 5 minutes
+20-02-25 00:27:43 Time Left: 4 minutes
+20-02-25 00:28:43 Time Left: 3 minutes
+20-02-25 00:29:43 Time Left: 2 minutes
+20-02-25 00:30:43 Time Left: 1 minutes
+20-02-25 00:31:43 Next map: ctf_Laos
+20-02-25 00:31:49 Laos
+20-02-25 00:36:49 Time Left: 5 minutes
+20-02-25 00:37:49 Time Left: 4 minutes
+20-02-25 00:38:49 Time Left: 3 minutes
+20-02-25 00:39:49 Time Left: 2 minutes
+20-02-25 00:40:49 Time Left: 1 minutes
+20-02-25 00:41:49 Next map: ctf_Laos2
+20-02-25 00:41:54 Laos
+20-02-25 00:46:54 Time Left: 5 minutes
+20-02-25 00:47:54 Time Left: 4 minutes
+20-02-25 00:48:54 Time Left: 3 minutes
+20-02-25 00:49:54 Time Left: 2 minutes
+20-02-25 00:50:54 Time Left: 1 minutes
+20-02-25 00:51:54 Next map: ctf_Maya
+20-02-25 00:51:59 Maya
+20-02-25 00:56:59 Time Left: 5 minutes
+20-02-25 00:57:59 Time Left: 4 minutes
+20-02-25 00:58:59 Time Left: 3 minutes
+20-02-25 00:59:59 Time Left: 2 minutes
+20-02-25 01:00:59 Time Left: 1 minutes
+20-02-25 01:01:59 Next map: ctf_MFM
+20-02-25 01:02:05 MFM 2 by mar77a
+20-02-25 01:07:05 Time Left: 5 minutes
+20-02-25 01:08:05 Time Left: 4 minutes
+20-02-25 01:09:05 Time Left: 3 minutes
+20-02-25 01:10:05 Time Left: 2 minutes
+20-02-25 01:11:05 Time Left: 1 minutes
+20-02-25 01:12:05 Next map: ctf_Run
+20-02-25 01:12:10 Run
+20-02-25 01:17:10 Time Left: 5 minutes
+20-02-25 01:18:10 Time Left: 4 minutes
+20-02-25 01:19:10 Time Left: 3 minutes
+20-02-25 01:20:10 Time Left: 2 minutes
+20-02-25 01:21:10 Time Left: 1 minutes
+20-02-25 01:22:10 Next map: ctf_OldRun
+20-02-25 01:22:15 Run (get to the flag!)
+20-02-25 01:27:15 Time Left: 5 minutes
+20-02-25 01:28:15 Time Left: 4 minutes
+20-02-25 01:29:15 Time Left: 3 minutes
+20-02-25 01:30:15 Time Left: 2 minutes
+20-02-25 01:31:15 Time Left: 1 minutes
+20-02-25 01:32:15 Next map: ctf_Ash
+20-02-25 01:32:21 ctf_Ash by chakapoko maker
+20-02-25 01:37:21 Time Left: 5 minutes
+20-02-25 01:38:21 Time Left: 4 minutes
+20-02-25 01:39:21 Time Left: 3 minutes
+20-02-25 01:40:21 Time Left: 2 minutes
+20-02-25 01:41:21 Time Left: 1 minutes
+20-02-25 01:42:21 Next map: ctf_B2b
+20-02-25 01:42:26 B2B
+20-02-25 01:47:26 Time Left: 5 minutes
+20-02-25 01:48:26 Time Left: 4 minutes
+20-02-25 01:49:26 Time Left: 3 minutes
+20-02-25 01:50:26 Time Left: 2 minutes
+20-02-25 01:51:26 Time Left: 1 minutes
+20-02-25 01:52:26 Next map: ctf_Blade
+20-02-25 01:52:31 Blade by Zakath
+20-02-25 01:57:31 Time Left: 5 minutes
+20-02-25 01:58:31 Time Left: 4 minutes
+20-02-25 01:59:31 Time Left: 3 minutes
+20-02-25 02:00:31 Time Left: 2 minutes
+20-02-25 02:01:31 Time Left: 1 minutes
+20-02-25 02:02:31 Next map: ctf_Viet
+20-02-25 02:02:37 Viet
+20-02-25 02:07:37 Time Left: 5 minutes
+20-02-25 02:08:37 Time Left: 4 minutes
+20-02-25 02:09:37 Time Left: 3 minutes
+20-02-25 02:10:37 Time Left: 2 minutes
+20-02-25 02:11:37 Time Left: 1 minutes
+20-02-25 02:12:37 Next map: ctf_Division
+20-02-25 02:12:42 Division by Boxo, KC, viral
+20-02-25 02:17:42 Time Left: 5 minutes
+20-02-25 02:18:42 Time Left: 4 minutes
+20-02-25 02:19:42 Time Left: 3 minutes
+20-02-25 02:20:42 Time Left: 2 minutes
+20-02-25 02:21:42 Time Left: 1 minutes
+20-02-25 02:22:42 Next map: ctf_Death
+20-02-25 02:22:47 Death by MM, g_d. Boxo, mtk`
+20-02-25 02:27:47 Time Left: 5 minutes
+20-02-25 02:28:47 Time Left: 4 minutes
+20-02-25 02:29:47 Time Left: 3 minutes
+20-02-25 06:30:56 Time Left: 2 minutes
+20-02-25 06:31:56 Time Left: 1 minutes
+20-02-25 06:32:56 Next map: ctf_Hormone
+20-02-25 06:33:01 Hormone by Mets‰naperot
+20-02-25 06:38:01 Time Left: 5 minutes
+20-02-25 06:39:01 Time Left: 4 minutes
+20-02-25 06:40:01 Time Left: 3 minutes
+20-02-25 06:41:01 Time Left: 2 minutes
+20-02-25 06:42:01 Time Left: 1 minutes
+20-02-25 06:43:01 Next map: ctf_Laos
+20-02-25 06:43:07 Laos
+20-02-25 02:48:07 Time Left: 5 minutes
+20-02-25 02:49:07 Time Left: 4 minutes
+20-02-25 02:50:07 Time Left: 3 minutes
+20-02-25 02:51:07 Time Left: 2 minutes
+20-02-25 02:51:37 190.107.226.37:25275|696908AC8E7 requesting game...
+20-02-25 02:51:42 |D.Forc3|.Turko joining game (190.107.226.37:25275) HWID:696908AC8E7
+20-02-25 02:51:42 |D.Forc3|.Turko has joined as spectator.
+20-02-25 02:51:46 |D.Forc3|.Turko has left spectators
+20-02-25 02:51:46 Server password changed to scl
+20-02-25 02:52:07 Time Left: 1 minutes
+20-02-25 02:53:07 Next map: ctf_Laos2
+20-02-25 02:53:12 Laos
+20-02-25 02:58:12 Time Left: 5 minutes
+20-02-25 02:59:12 Time Left: 4 minutes
+20-02-25 03:00:12 Time Left: 3 minutes
+20-02-25 03:01:12 Time Left: 2 minutes
+20-02-25 03:02:12 Time Left: 1 minutes
+20-02-25 03:03:12 Next map: ctf_Maya
+20-02-25 03:03:18 Maya
+20-02-25 03:08:18 Time Left: 5 minutes
+20-02-25 03:09:18 Time Left: 4 minutes
+20-02-25 03:10:18 Time Left: 3 minutes
+20-02-25 03:11:18 Time Left: 2 minutes
+20-02-25 03:12:18 Time Left: 1 minutes
+20-02-25 03:13:18 Next map: ctf_MFM
+20-02-25 03:13:23 MFM 2 by mar77a
+20-02-25 03:18:23 Time Left: 5 minutes
+20-02-25 03:19:23 Time Left: 4 minutes
+20-02-25 03:20:23 Time Left: 3 minutes
+20-02-25 03:21:23 Time Left: 2 minutes
+20-02-25 03:22:23 Time Left: 1 minutes
+20-02-25 03:23:23 Next map: ctf_Run
+20-02-25 03:23:28 Run
+20-02-25 03:28:28 Time Left: 5 minutes
+20-02-25 03:29:28 Time Left: 4 minutes
+20-02-25 03:30:28 Time Left: 3 minutes
+20-02-25 03:31:28 Time Left: 2 minutes
+20-02-25 03:32:28 Time Left: 1 minutes
+20-02-25 03:33:28 Next map: ctf_OldRun
+20-02-25 03:33:34 Run (get to the flag!)
+20-02-25 03:38:34 Time Left: 5 minutes
+20-02-25 03:39:34 Time Left: 4 minutes
+20-02-25 03:40:34 Time Left: 3 minutes
+20-02-25 03:41:34 Time Left: 2 minutes
+20-02-25 03:42:34 Time Left: 1 minutes
+20-02-25 03:43:34 Next map: ctf_Ash
+20-02-25 03:43:39 ctf_Ash by chakapoko maker
+20-02-25 03:48:39 Time Left: 5 minutes
+20-02-25 03:49:39 Time Left: 4 minutes
+20-02-25 03:50:39 Time Left: 3 minutes
+20-02-25 03:51:39 Time Left: 2 minutes
+20-02-25 03:52:39 Time Left: 1 minutes
+20-02-25 03:53:39 Next map: ctf_B2b
+20-02-25 03:53:44 B2B
+20-02-25 03:58:44 Time Left: 5 minutes
+20-02-25 03:59:44 Time Left: 4 minutes
+20-02-25 04:00:44 Time Left: 3 minutes
+20-02-25 04:01:44 Time Left: 2 minutes
+20-02-25 04:02:44 Time Left: 1 minutes
+20-02-25 04:03:44 Next map: ctf_Blade
+20-02-25 04:03:50 Blade by Zakath
+20-02-25 04:08:50 Time Left: 5 minutes
+20-02-25 04:09:50 Time Left: 4 minutes
+20-02-25 04:10:50 Time Left: 3 minutes
+20-02-25 04:11:50 Time Left: 2 minutes
+20-02-25 04:12:50 Time Left: 1 minutes
+20-02-25 04:13:50 Next map: ctf_Viet
+20-02-25 04:13:55 Viet
+20-02-25 04:18:55 Time Left: 5 minutes
+20-02-25 04:19:55 Time Left: 4 minutes
+20-02-25 04:20:55 Time Left: 3 minutes
+20-02-25 04:21:55 Time Left: 2 minutes
+20-02-25 04:22:55 Time Left: 1 minutes
+20-02-25 04:23:55 Next map: ctf_Division
+20-02-25 04:24:00 Division by Boxo, KC, viral
+20-02-25 04:29:00 Time Left: 5 minutes
+20-02-25 04:30:00 Time Left: 4 minutes
+20-02-25 04:31:00 Time Left: 3 minutes
+20-02-25 04:32:00 Time Left: 2 minutes
+20-02-25 04:33:00 Time Left: 1 minutes
+20-02-25 04:34:00 Next map: ctf_Death
+20-02-25 04:34:06 Death by MM, g_d. Boxo, mtk`
+20-02-25 04:39:06 Time Left: 5 minutes
+20-02-25 04:40:06 Time Left: 4 minutes
+20-02-25 04:41:06 Time Left: 3 minutes
+20-02-25 04:42:06 Time Left: 2 minutes
+20-02-25 04:43:06 Time Left: 1 minutes
+20-02-25 04:44:06 Next map: ctf_Hormone
+20-02-25 04:44:11 Hormone by Mets‰naperot
+20-02-25 04:49:11 Time Left: 5 minutes
+20-02-25 04:50:11 Time Left: 4 minutes
+20-02-25 04:51:11 Time Left: 3 minutes
+20-02-25 04:52:11 Time Left: 2 minutes
+20-02-25 04:53:11 Time Left: 1 minutes
+20-02-25 04:54:11 Next map: ctf_Laos
+20-02-25 04:54:16 Laos
+20-02-25 04:59:16 Time Left: 5 minutes
+20-02-25 05:00:16 Time Left: 4 minutes
+20-02-25 05:01:16 Time Left: 3 minutes
+20-02-25 05:02:16 Time Left: 2 minutes
+20-02-25 05:03:16 Time Left: 1 minutes
+20-02-25 05:04:16 Next map: ctf_Laos2
+20-02-25 05:04:22 Laos
+20-02-25 05:09:22 Time Left: 5 minutes
+20-02-25 05:10:22 Time Left: 4 minutes
+20-02-25 05:11:22 Time Left: 3 minutes
+20-02-25 05:12:22 Time Left: 2 minutes
+20-02-25 05:13:22 Time Left: 1 minutes
+20-02-25 05:14:22 Next map: ctf_Maya
+20-02-25 05:14:27 Maya
+20-02-25 05:19:27 Time Left: 5 minutes
+20-02-25 05:20:27 Time Left: 4 minutes
+20-02-25 05:21:27 Time Left: 3 minutes
+20-02-25 05:22:27 Time Left: 2 minutes
+20-02-25 05:23:27 Time Left: 1 minutes
+20-02-25 05:24:27 Next map: ctf_MFM
+20-02-25 05:24:32 MFM 2 by mar77a
+20-02-25 05:29:32 Time Left: 5 minutes
+20-02-25 05:30:32 Time Left: 4 minutes
+20-02-25 05:31:32 Time Left: 3 minutes
+20-02-25 05:32:32 Time Left: 2 minutes
+20-02-25 05:33:32 Time Left: 1 minutes
+20-02-25 05:34:32 Next map: ctf_Run
+20-02-25 05:34:38 Run
+20-02-25 05:39:37 Time Left: 5 minutes
+20-02-25 05:40:37 Time Left: 4 minutes
+20-02-25 05:41:37 Time Left: 3 minutes
+20-02-25 05:42:37 Time Left: 2 minutes
+20-02-25 05:43:37 Time Left: 1 minutes
+20-02-25 05:44:37 Next map: ctf_OldRun
+20-02-25 05:44:43 Run (get to the flag!)
+20-02-25 05:49:43 Time Left: 5 minutes
+20-02-25 05:50:43 Time Left: 4 minutes
+20-02-25 05:51:43 Time Left: 3 minutes
+20-02-25 05:52:43 Time Left: 2 minutes
+20-02-25 05:53:43 Time Left: 1 minutes
+20-02-25 05:54:43 Next map: ctf_Ash
+20-02-25 05:54:48 ctf_Ash by chakapoko maker
+20-02-25 05:59:48 Time Left: 5 minutes
+20-02-25 06:00:48 Time Left: 4 minutes
+20-02-25 06:01:48 Time Left: 3 minutes
+20-02-25 06:02:48 Time Left: 2 minutes
+20-02-25 06:03:48 Time Left: 1 minutes
+20-02-25 06:04:48 Next map: ctf_B2b
+20-02-25 06:04:53 B2B
+20-02-25 06:09:53 Time Left: 5 minutes
+20-02-25 06:10:53 Time Left: 4 minutes
+20-02-25 06:11:53 Time Left: 3 minutes
+20-02-25 06:12:53 Time Left: 2 minutes
+20-02-25 06:13:53 Time Left: 1 minutes
+20-02-25 06:14:53 Next map: ctf_Blade
+20-02-25 06:14:59 Blade by Zakath
+20-02-25 06:19:59 Time Left: 5 minutes
+20-02-25 06:20:59 Time Left: 4 minutes
+20-02-25 06:21:59 Time Left: 3 minutes
+20-02-25 06:22:59 Time Left: 2 minutes
+20-02-25 06:23:59 Time Left: 1 minutes
+20-02-25 06:24:59 Next map: ctf_Viet
+20-02-25 06:25:04 Viet
+20-02-25 06:30:04 Time Left: 5 minutes
+20-02-25 06:31:04 Time Left: 4 minutes
+20-02-25 06:32:04 Time Left: 3 minutes
+20-02-25 06:33:04 Time Left: 2 minutes
+20-02-25 06:34:04 Time Left: 1 minutes
+20-02-25 06:35:04 Next map: ctf_Division
+20-02-25 06:35:09 Division by Boxo, KC, viral
+20-02-25 06:40:09 Time Left: 5 minutes
+20-02-25 06:41:09 Time Left: 4 minutes
+20-02-25 06:42:09 Time Left: 3 minutes
+20-02-25 06:43:09 Time Left: 2 minutes
+20-02-25 06:44:09 Time Left: 1 minutes
+20-02-25 06:45:09 Next map: ctf_Death
+20-02-25 06:45:15 Death by MM, g_d. Boxo, mtk`
+20-02-25 06:50:15 Time Left: 5 minutes
+20-02-25 06:51:15 Time Left: 4 minutes
+20-02-25 06:52:15 Time Left: 3 minutes
+20-02-25 06:53:15 Time Left: 2 minutes
+20-02-25 06:54:15 Time Left: 1 minutes
+20-02-25 06:55:15 Next map: ctf_Hormone
+20-02-25 06:55:20 Hormone by Mets‰naperot
+20-02-25 07:00:20 Time Left: 5 minutes
+20-02-25 07:01:20 Time Left: 4 minutes
+20-02-25 07:02:20 Time Left: 3 minutes
+20-02-25 07:03:20 Time Left: 2 minutes
+20-02-25 07:04:20 Time Left: 1 minutes
+20-02-25 07:05:20 Next map: ctf_Laos
+20-02-25 07:05:25 Laos
+20-02-25 07:10:25 Time Left: 5 minutes
+20-02-25 07:11:25 Time Left: 4 minutes
+20-02-25 07:12:25 Time Left: 3 minutes
+20-02-25 07:13:25 Time Left: 2 minutes
+20-02-25 07:14:25 Time Left: 1 minutes
+20-02-25 07:15:25 Next map: ctf_Laos2
+20-02-25 07:15:31 Laos
+20-02-25 07:20:31 Time Left: 5 minutes
+20-02-25 07:21:31 Time Left: 4 minutes
+20-02-25 07:22:31 Time Left: 3 minutes
+20-02-25 07:23:31 Time Left: 2 minutes
+20-02-25 07:24:31 Time Left: 1 minutes
+20-02-25 07:25:31 Next map: ctf_Maya
+20-02-25 07:25:36 Maya
+20-02-25 07:30:36 Time Left: 5 minutes
+20-02-25 07:31:36 Time Left: 4 minutes
+20-02-25 07:32:36 Time Left: 3 minutes
+20-02-25 07:33:36 Time Left: 2 minutes
+20-02-25 07:34:36 Time Left: 1 minutes
+20-02-25 07:35:36 Next map: ctf_MFM
+20-02-25 07:35:41 MFM 2 by mar77a
+20-02-25 07:40:41 Time Left: 5 minutes
+20-02-25 07:41:41 Time Left: 4 minutes
+20-02-25 07:42:41 Time Left: 3 minutes
+20-02-25 07:43:41 Time Left: 2 minutes
+20-02-25 07:44:41 Time Left: 1 minutes
+20-02-25 07:45:41 Next map: ctf_Run
+20-02-25 07:45:47 Run
+20-02-25 07:50:47 Time Left: 5 minutes
+20-02-25 07:51:47 Time Left: 4 minutes
+20-02-25 07:52:47 Time Left: 3 minutes
+20-02-25 07:53:47 Time Left: 2 minutes
+20-02-25 07:54:47 Time Left: 1 minutes
+20-02-25 07:55:47 Next map: ctf_OldRun
+20-02-25 07:55:52 Run (get to the flag!)
+20-02-25 08:00:52 Time Left: 5 minutes
+20-02-25 08:01:52 Time Left: 4 minutes
+20-02-25 08:02:52 Time Left: 3 minutes
+20-02-25 08:03:52 Time Left: 2 minutes
+20-02-25 08:04:52 Time Left: 1 minutes
+20-02-25 08:05:52 Next map: ctf_Ash
+20-02-25 08:05:57 ctf_Ash by chakapoko maker
+20-02-25 08:10:57 Time Left: 5 minutes
+20-02-25 08:11:57 Time Left: 4 minutes
+20-02-25 08:12:57 Time Left: 3 minutes
+20-02-25 08:13:57 Time Left: 2 minutes
+20-02-25 08:14:57 Time Left: 1 minutes
+20-02-25 08:15:57 Next map: ctf_B2b
+20-02-25 08:16:03 B2B
+20-02-25 08:21:03 Time Left: 5 minutes
+20-02-25 08:22:03 Time Left: 4 minutes
+20-02-25 08:23:03 Time Left: 3 minutes
+20-02-25 08:24:03 Time Left: 2 minutes
+20-02-25 08:25:03 Time Left: 1 minutes
+20-02-25 08:26:03 Next map: ctf_Blade
+20-02-25 08:26:08 Blade by Zakath
+20-02-25 08:31:08 Time Left: 5 minutes
+20-02-25 08:32:08 Time Left: 4 minutes
+20-02-25 08:33:08 Time Left: 3 minutes
+20-02-25 08:34:08 Time Left: 2 minutes
+20-02-25 08:35:08 Time Left: 1 minutes
+20-02-25 08:36:08 Next map: ctf_Viet
+20-02-25 08:36:13 Viet
+20-02-25 08:41:13 Time Left: 5 minutes
+20-02-25 08:42:13 Time Left: 4 minutes
+20-02-25 08:43:13 Time Left: 3 minutes
+20-02-25 08:44:13 Time Left: 2 minutes
+20-02-25 08:45:13 Time Left: 1 minutes
+20-02-25 08:46:13 Next map: ctf_Division
+20-02-25 08:46:19 Division by Boxo, KC, viral
+20-02-25 08:51:19 Time Left: 5 minutes
+20-02-25 08:52:19 Time Left: 4 minutes
+20-02-25 08:53:19 Time Left: 3 minutes
+20-02-25 08:54:19 Time Left: 2 minutes
+20-02-25 08:55:19 Time Left: 1 minutes
+20-02-25 08:56:18 Next map: ctf_Death
+20-02-25 08:56:24 Death by MM, g_d. Boxo, mtk`
+20-02-25 09:01:24 Time Left: 5 minutes
+20-02-25 09:02:24 Time Left: 4 minutes
+20-02-25 09:03:24 Time Left: 3 minutes
+20-02-25 09:04:24 Time Left: 2 minutes
+20-02-25 09:05:24 Time Left: 1 minutes
+20-02-25 09:06:24 Next map: ctf_Hormone
+20-02-25 09:06:29 Hormone by Mets‰naperot
+20-02-25 09:11:29 Time Left: 5 minutes
+20-02-25 09:12:29 Time Left: 4 minutes
+20-02-25 09:13:29 Time Left: 3 minutes
+20-02-25 09:14:29 Time Left: 2 minutes
+20-02-25 09:15:29 Time Left: 1 minutes
+20-02-25 09:16:29 Next map: ctf_Laos
+20-02-25 09:16:34 Laos
+20-02-25 09:21:34 Time Left: 5 minutes
+20-02-25 09:22:34 Time Left: 4 minutes
+20-02-25 09:23:34 Time Left: 3 minutes
+20-02-25 09:24:34 Time Left: 2 minutes
+20-02-25 09:25:34 Time Left: 1 minutes
+20-02-25 09:26:34 Next map: ctf_Laos2
+20-02-25 09:26:40 Laos
+20-02-25 09:31:40 Time Left: 5 minutes
+20-02-25 09:32:40 Time Left: 4 minutes
+20-02-25 09:33:40 Time Left: 3 minutes
+20-02-25 09:34:40 Time Left: 2 minutes
+20-02-25 09:35:40 Time Left: 1 minutes
+20-02-25 09:36:40 Next map: ctf_Maya
+20-02-25 09:36:45 Maya
+20-02-25 09:41:45 Time Left: 5 minutes
+20-02-25 09:42:45 Time Left: 4 minutes
+20-02-25 09:43:45 Time Left: 3 minutes
+20-02-25 09:44:45 Time Left: 2 minutes
+20-02-25 09:45:45 Time Left: 1 minutes
+20-02-25 09:46:45 Next map: ctf_MFM
+20-02-25 09:46:50 MFM 2 by mar77a
+20-02-25 09:51:50 Time Left: 5 minutes
+20-02-25 09:52:50 Time Left: 4 minutes
+20-02-25 09:53:50 Time Left: 3 minutes
+20-02-25 09:54:50 Time Left: 2 minutes
+20-02-25 09:55:50 Time Left: 1 minutes
+20-02-25 09:56:50 Next map: ctf_Run
+20-02-25 09:56:56 Run
+20-02-25 10:01:56 Time Left: 5 minutes
+20-02-25 10:02:56 Time Left: 4 minutes
+20-02-25 10:03:56 Time Left: 3 minutes
+20-02-25 10:04:56 Time Left: 2 minutes
+20-02-25 10:05:56 Time Left: 1 minutes
+20-02-25 10:06:56 Next map: ctf_OldRun
+20-02-25 10:07:01 Run (get to the flag!)
+20-02-25 10:12:01 Time Left: 5 minutes
+20-02-25 10:13:01 Time Left: 4 minutes
+20-02-25 10:14:01 Time Left: 3 minutes
+20-02-25 10:15:01 Time Left: 2 minutes
+20-02-25 10:16:01 Time Left: 1 minutes
+20-02-25 10:17:01 Next map: ctf_Ash
+20-02-25 10:17:06 ctf_Ash by chakapoko maker
+20-02-25 10:22:06 Time Left: 5 minutes
+20-02-25 10:23:06 Time Left: 4 minutes
+20-02-25 10:24:06 Time Left: 3 minutes
+20-02-25 10:25:06 Time Left: 2 minutes
+20-02-25 10:26:06 Time Left: 1 minutes
+20-02-25 10:27:06 Next map: ctf_B2b
+20-02-25 10:27:12 B2B
+20-02-25 10:32:12 Time Left: 5 minutes
+20-02-25 10:33:12 Time Left: 4 minutes
+20-02-25 10:34:12 Time Left: 3 minutes
+20-02-25 10:34:59 Shutting down server...
+20-02-25 10:34:59 Shutting down FileServer...
+20-02-25 10:34:59 Shutting down admin server...

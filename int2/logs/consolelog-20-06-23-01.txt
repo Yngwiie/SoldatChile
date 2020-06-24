@@ -1,0 +1,370 @@
+20-06-23 23:10:01    Console Log Started
+20-06-23 23:10:01 Welcome to Soldat 1.7.1
+20-06-23 23:10:01  [*] Preparing scripts to be launched
+20-06-23 23:10:01  [*] [BasicCommands] Loading bytecode
+20-06-23 23:10:01  [*] [BasicCommands] Bytecode loaded
+20-06-23 23:10:01  [*] Compiling match -> match.pas...
+20-06-23 23:10:01  [*] match compiled
+20-06-23 23:10:01  [*] Done
+20-06-23 23:10:01 Lothic - Gothic Lobby Room
+20-06-23 23:10:01 Loaded weapons mod "Gather WM v1.7.1bv1"
+20-06-23 23:10:01  Connection for file server started. Port: 23210
+20-06-23 23:10:02 Registering server @ 88.99.234.252
+20-06-23 23:15:02 Time Left: 5 minutes
+20-06-23 23:16:02 Time Left: 4 minutes
+20-06-23 23:17:02 Time Left: 3 minutes
+20-06-23 23:18:02 Time Left: 2 minutes
+20-06-23 23:19:02 Time Left: 1 minutes
+20-06-23 23:20:02 Next map: Lobby
+20-06-23 23:20:07 Lothic - Gothic Lobby Room
+20-06-23 23:25:07 Time Left: 5 minutes
+20-06-23 23:26:07 Time Left: 4 minutes
+20-06-23 23:27:07 Time Left: 3 minutes
+20-06-23 23:28:07 Time Left: 2 minutes
+20-06-23 23:29:07 Time Left: 1 minutes
+20-06-23 23:30:07 Next map: Lobby
+20-06-23 23:30:12 Lothic - Gothic Lobby Room
+20-06-23 23:35:12 Time Left: 5 minutes
+20-06-23 23:36:12 Time Left: 4 minutes
+20-06-23 23:37:12 Time Left: 3 minutes
+20-06-23 23:38:12 Time Left: 2 minutes
+20-06-23 23:39:12 Time Left: 1 minutes
+20-06-23 23:40:12 Next map: Lobby
+20-06-23 23:40:18 Lothic - Gothic Lobby Room
+20-06-23 23:45:18 Time Left: 5 minutes
+20-06-23 23:46:18 Time Left: 4 minutes
+20-06-23 23:47:18 Time Left: 3 minutes
+20-06-23 23:48:18 Time Left: 2 minutes
+20-06-23 23:49:18 Time Left: 1 minutes
+20-06-23 23:50:18 Next map: Lobby
+20-06-23 23:50:23 Lothic - Gothic Lobby Room
+20-06-23 23:55:23 Time Left: 5 minutes
+20-06-23 23:56:23 Time Left: 4 minutes
+20-06-23 23:57:23 Time Left: 3 minutes
+20-06-23 23:58:23 Time Left: 2 minutes
+20-06-23 23:59:23 Time Left: 1 minutes
+20-06-24 00:00:23 Next map: Lobby
+20-06-24 00:00:28 Lothic - Gothic Lobby Room
+20-06-24 00:05:28 Time Left: 5 minutes
+20-06-24 00:06:28 Time Left: 4 minutes
+20-06-24 00:07:28 Time Left: 3 minutes
+20-06-24 00:08:28 Time Left: 2 minutes
+20-06-24 00:09:28 Time Left: 1 minutes
+20-06-24 00:10:28 Next map: Lobby
+20-06-24 00:10:33 Lothic - Gothic Lobby Room
+20-06-24 00:15:33 Time Left: 5 minutes
+20-06-24 00:16:33 Time Left: 4 minutes
+20-06-24 00:17:33 Time Left: 3 minutes
+20-06-24 00:18:33 Time Left: 2 minutes
+20-06-24 00:19:33 Time Left: 1 minutes
+20-06-24 00:20:33 Next map: Lobby
+20-06-24 00:20:39 Lothic - Gothic Lobby Room
+20-06-24 00:25:39 Time Left: 5 minutes
+20-06-24 00:26:39 Time Left: 4 minutes
+20-06-24 00:27:39 Time Left: 3 minutes
+20-06-24 00:28:39 Time Left: 2 minutes
+20-06-24 00:29:39 Time Left: 1 minutes
+20-06-24 00:30:39 Next map: Lobby
+20-06-24 00:30:44 Lothic - Gothic Lobby Room
+20-06-24 00:35:44 Time Left: 5 minutes
+20-06-24 00:36:44 Time Left: 4 minutes
+20-06-24 00:37:44 Time Left: 3 minutes
+20-06-24 00:38:42 45.232.33.28:11289|4C4052F23D1 requesting game...
+20-06-24 00:38:44 uoL| athe joining game (45.232.33.28:11289) HWID:4C4052F23D1
+20-06-24 00:38:44 uoL| athe has joined alpha team.
+20-06-24 00:38:44 Time Left: 2 minutes
+20-06-24 00:38:50 [uoL| athe] !map Spark
+20-06-24 00:38:55 Spark - By Vauat
+20-06-24 00:39:01 uoL| athe captured the Blue Flag
+20-06-24 00:39:09 uoL| athe scores for Alpha Team
+20-06-24 00:39:19 uoL| athe captured the Blue Flag
+20-06-24 00:39:30 uoL| athe captured the Blue Flag
+20-06-24 00:39:47 uoL| athe has left alpha team.
+20-06-24 00:39:56 45.232.33.28:11289|4C4052F23D1 requesting game...
+20-06-24 00:39:58 uoL| athe joining game (45.232.33.28:11289) HWID:4C4052F23D1
+20-06-24 00:39:58 uoL| athe has joined alpha team.
+20-06-24 00:40:09 uoL| athe captured the Blue Flag
+20-06-24 00:40:18 191.119.214.121:31281|C67BABB568C requesting game...
+20-06-24 00:40:21 uoL| d10$ joining game (191.119.214.121:31281) HWID:C67BABB568C
+20-06-24 00:40:21 uoL| d10$ has joined as spectator.
+20-06-24 00:40:23 uoL| d10$ has joined alpha team.
+20-06-24 00:40:29 uoL| d10$ has joined bravo team.
+20-06-24 00:40:31 uoL| athe captured the Blue Flag
+20-06-24 00:40:36 (2) uoL| d10$ killed (1) uoL| athe with Grenade
+20-06-24 00:40:39 [uoL| d10$] oe
+20-06-24 00:40:40 (1) uoL| athe killed (2) uoL| d10$ with Combat Knife
+20-06-24 00:40:47 [uoL| athe] ke
+20-06-24 00:40:53 [uoL| d10$] q tal la ka
+20-06-24 00:40:54 [uoL| d10$] ak
+20-06-24 00:40:57 [uoL| athe] mala la wea
+20-06-24 00:41:01 [uoL| d10$] pke
+20-06-24 00:41:03 [uoL| d10$] no quita ma
+20-06-24 00:41:05 uoL| d10$ captured the Red Flag
+20-06-24 00:41:14 [uoL| d10$] cagaron la minimi
+20-06-24 00:41:15 [uoL| d10$] ?
+20-06-24 00:41:15 [uoL| athe] m uy lent
+20-06-24 00:41:17 [uoL| d10$] si wn
+20-06-24 00:41:18 (1) uoL| athe killed (2) uoL| d10$ with HK MP5
+20-06-24 00:41:25 (1) uoL| athe killed (2) uoL| d10$ with HK MP5
+20-06-24 00:41:26 [uoL| d10$] q wea
+20-06-24 00:41:28 [uoL| d10$] la 9
+20-06-24 00:41:31 (2) uoL| d10$ killed (1) uoL| athe with FN Minimi
+20-06-24 00:41:31 187.79.97.34:11477|47D4B4E67E9 requesting game...
+20-06-24 00:41:32 [uoL| athe] cago
+20-06-24 00:41:34 [uoL| d10$] + rapida 
+20-06-24 00:41:38 (2) uoL| d10$ killed (1) uoL| athe with FN Minimi
+20-06-24 00:41:42 [uoL| d10$] ta bkn XD
+20-06-24 00:41:44 uoL| d10$ captured the Red Flag
+20-06-24 00:41:46 (1) uoL| athe killed (2) uoL| d10$ with HK MP5
+20-06-24 00:41:48 uoL| athe returned the Red Flag
+20-06-24 00:41:55 uoL| athe captured the Blue Flag
+20-06-24 00:41:56 uoL| d10$ captured the Red Flag
+20-06-24 00:42:04 [uoL| d10$] wn
+20-06-24 00:42:05 (1) uoL| athe killed (2) uoL| d10$ with HK MP5
+20-06-24 00:42:08 [uoL| d10$] entrenemo laws
+20-06-24 00:42:10 [uoL| d10$] !a
+20-06-24 00:42:10 uoL| d10$ has joined alpha team.
+20-06-24 00:42:12 uoL| athe returned the Red Flag
+20-06-24 00:42:17 uoL| athe has left alpha team.
+20-06-24 00:42:17 uoL| d10$ has left alpha team.
+20-06-24 00:43:55 Time Left: 5 minutes
+20-06-24 00:44:55 Time Left: 4 minutes
+20-06-24 00:45:55 Time Left: 3 minutes
+20-06-24 00:46:55 Time Left: 2 minutes
+20-06-24 00:47:55 Time Left: 1 minutes
+20-06-24 00:48:55 Next map: Lobby
+20-06-24 00:49:00 Lothic - Gothic Lobby Room
+20-06-24 00:54:00 Time Left: 5 minutes
+20-06-24 00:55:00 Time Left: 4 minutes
+20-06-24 00:56:00 Time Left: 3 minutes
+20-06-24 00:57:00 Time Left: 2 minutes
+20-06-24 00:58:00 Time Left: 1 minutes
+20-06-24 00:59:00 Next map: Lobby
+20-06-24 00:59:06 Lothic - Gothic Lobby Room
+20-06-24 01:04:06 Time Left: 5 minutes
+20-06-24 01:05:06 Time Left: 4 minutes
+20-06-24 01:06:06 Time Left: 3 minutes
+20-06-24 01:07:06 Time Left: 2 minutes
+20-06-24 01:08:06 Time Left: 1 minutes
+20-06-24 01:08:06 45.232.32.84:65113|64995B15DC0 requesting game...
+20-06-24 01:08:07 sT.- YnGwi3 joining game (45.232.32.84:65113) HWID:64995B15DC0
+20-06-24 01:08:07 sT.- YnGwi3 has joined bravo team.
+20-06-24 01:08:11 [sT.- YnGwi3] !map Ash
+20-06-24 01:08:15 190.161.163.205:23073|365FDCC8515 requesting game...
+20-06-24 01:08:16 XRe1ch|Pirlinho joining game (190.161.163.205:23073) HWID:365FDCC8515
+20-06-24 01:08:16 XRe1ch|Pirlinho has joined alpha team.
+20-06-24 01:08:16 ctf_Ash by chakapoko maker
+20-06-24 01:08:24 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:08:32 181.72.94.201:23073|26846180AF1 requesting game...
+20-06-24 01:08:35 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Grenade
+20-06-24 01:08:35 181.72.94.201:23073|26846180AF1 requesting game...
+20-06-24 01:08:37 XRe1ch|Pirlinho has left alpha team.
+20-06-24 01:08:38 dimvss joining game (181.72.94.201:23073) HWID:26846180AF1
+20-06-24 01:08:38 dimvss has joined as spectator.
+20-06-24 01:08:41 190.161.163.205:23073|365FDCC8515 requesting game...
+20-06-24 01:08:42 XRe1ch|Pirlinho joining game (190.161.163.205:23073) HWID:365FDCC8515
+20-06-24 01:08:42 XRe1ch|Pirlinho has joined alpha team.
+20-06-24 01:08:57 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:09:08 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:09:15 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:09:35 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:09:44 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:09:53 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:09:57 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with Grenade
+20-06-24 01:10:07 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:10:14 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Grenade
+20-06-24 01:10:22 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:10:39 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:10:51 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:10:55 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:11:09 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:11:22 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Grenade
+20-06-24 01:11:41 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:11:41 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:11:50 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:12:00 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:12:11 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:12:26 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:12:42 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:12:50 (1) XRe1ch|Pirlinho killed (2) sT.- YnGwi3 with Steyr AUG
+20-06-24 01:12:51 (2) sT.- YnGwi3 killed (1) XRe1ch|Pirlinho with HK MP5
+20-06-24 01:13:01 sT.- YnGwi3 has left bravo team.
+20-06-24 01:13:06 XRe1ch|Pirlinho has left alpha team.
+20-06-24 01:13:16 Time Left: 5 minutes
+20-06-24 01:14:16 Time Left: 4 minutes
+20-06-24 01:15:16 Time Left: 3 minutes
+20-06-24 01:15:26 dimvss has left spectators
+20-06-24 01:15:40 181.25.244.140:23073|FA809FDDA68 requesting game...
+20-06-24 01:15:44 181.25.244.140:23073|FA809FDDA68 requesting game...
+20-06-24 01:16:16 Time Left: 2 minutes
+20-06-24 01:17:16 Time Left: 1 minutes
+20-06-24 01:18:16 Next map: Lobby
+20-06-24 01:18:22 Lothic - Gothic Lobby Room
+20-06-24 01:23:22 Time Left: 5 minutes
+20-06-24 01:24:22 Time Left: 4 minutes
+20-06-24 01:25:22 Time Left: 3 minutes
+20-06-24 01:26:22 Time Left: 2 minutes
+20-06-24 01:27:22 Time Left: 1 minutes
+20-06-24 01:28:22 Next map: Lobby
+20-06-24 01:28:27 Lothic - Gothic Lobby Room
+20-06-24 01:33:27 Time Left: 5 minutes
+20-06-24 01:34:27 Time Left: 4 minutes
+20-06-24 01:35:27 Time Left: 3 minutes
+20-06-24 01:36:27 Time Left: 2 minutes
+20-06-24 01:37:27 Time Left: 1 minutes
+20-06-24 01:38:27 Next map: Lobby
+20-06-24 01:38:32 Lothic - Gothic Lobby Room
+20-06-24 01:43:32 Time Left: 5 minutes
+20-06-24 01:44:32 Time Left: 4 minutes
+20-06-24 01:45:32 Time Left: 3 minutes
+20-06-24 01:46:32 Time Left: 2 minutes
+20-06-24 01:47:32 Time Left: 1 minutes
+20-06-24 01:48:32 Next map: Lobby
+20-06-24 01:48:38 Lothic - Gothic Lobby Room
+20-06-24 01:53:38 Time Left: 5 minutes
+20-06-24 01:54:38 Time Left: 4 minutes
+20-06-24 01:55:38 Time Left: 3 minutes
+20-06-24 01:56:38 Time Left: 2 minutes
+20-06-24 01:57:38 Time Left: 1 minutes
+20-06-24 01:58:38 Next map: Lobby
+20-06-24 01:58:43 Lothic - Gothic Lobby Room
+20-06-24 02:03:43 Time Left: 5 minutes
+20-06-24 02:04:43 Time Left: 4 minutes
+20-06-24 02:05:43 Time Left: 3 minutes
+20-06-24 02:06:43 Time Left: 2 minutes
+20-06-24 02:07:43 Time Left: 1 minutes
+20-06-24 02:08:43 Next map: Lobby
+20-06-24 02:08:48 Lothic - Gothic Lobby Room
+20-06-24 02:13:48 Time Left: 5 minutes
+20-06-24 02:14:48 Time Left: 4 minutes
+20-06-24 02:15:48 Time Left: 3 minutes
+20-06-24 02:16:48 Time Left: 2 minutes
+20-06-24 02:17:48 Time Left: 1 minutes
+20-06-24 02:18:48 Next map: Lobby
+20-06-24 02:18:54 Lothic - Gothic Lobby Room
+20-06-24 02:23:54 Time Left: 5 minutes
+20-06-24 02:24:54 Time Left: 4 minutes
+20-06-24 02:25:54 Time Left: 3 minutes
+20-06-24 02:26:54 Time Left: 2 minutes
+20-06-24 02:27:54 Time Left: 1 minutes
+20-06-24 02:28:54 Next map: Lobby
+20-06-24 02:28:59 Lothic - Gothic Lobby Room
+20-06-24 02:33:59 Time Left: 5 minutes
+20-06-24 02:34:59 Time Left: 4 minutes
+20-06-24 02:35:59 Time Left: 3 minutes
+20-06-24 02:36:59 Time Left: 2 minutes
+20-06-24 02:37:59 Time Left: 1 minutes
+20-06-24 02:38:59 Next map: Lobby
+20-06-24 02:39:04 Lothic - Gothic Lobby Room
+20-06-24 02:44:04 Time Left: 5 minutes
+20-06-24 02:45:04 Time Left: 4 minutes
+20-06-24 02:46:04 Time Left: 3 minutes
+20-06-24 02:47:04 Time Left: 2 minutes
+20-06-24 02:48:04 Time Left: 1 minutes
+20-06-24 02:49:04 Next map: Lobby
+20-06-24 02:49:10 Lothic - Gothic Lobby Room
+20-06-24 02:54:10 Time Left: 5 minutes
+20-06-24 02:55:10 Time Left: 4 minutes
+20-06-24 02:56:10 Time Left: 3 minutes
+20-06-24 02:57:10 Time Left: 2 minutes
+20-06-24 02:58:10 Time Left: 1 minutes
+20-06-24 02:59:10 Next map: Lobby
+20-06-24 02:59:15 Lothic - Gothic Lobby Room
+20-06-24 03:04:15 Time Left: 5 minutes
+20-06-24 03:05:15 Time Left: 4 minutes
+20-06-24 03:06:15 Time Left: 3 minutes
+20-06-24 03:07:15 Time Left: 2 minutes
+20-06-24 03:08:15 Time Left: 1 minutes
+20-06-24 03:09:15 Next map: Lobby
+20-06-24 03:09:20 Lothic - Gothic Lobby Room
+20-06-24 03:14:20 Time Left: 5 minutes
+20-06-24 03:15:20 Time Left: 4 minutes
+20-06-24 03:16:20 Time Left: 3 minutes
+20-06-24 03:17:20 Time Left: 2 minutes
+20-06-24 03:18:20 Time Left: 1 minutes
+20-06-24 03:19:20 Next map: Lobby
+20-06-24 03:19:26 Lothic - Gothic Lobby Room
+20-06-24 03:24:26 Time Left: 5 minutes
+20-06-24 03:25:26 Time Left: 4 minutes
+20-06-24 03:26:26 Time Left: 3 minutes
+20-06-24 03:27:26 Time Left: 2 minutes
+20-06-24 03:28:26 Time Left: 1 minutes
+20-06-24 03:29:26 Next map: Lobby
+20-06-24 03:29:31 Lothic - Gothic Lobby Room
+20-06-24 03:34:31 Time Left: 5 minutes
+20-06-24 03:35:31 Time Left: 4 minutes
+20-06-24 03:36:31 Time Left: 3 minutes
+20-06-24 03:37:31 Time Left: 2 minutes
+20-06-24 03:38:31 Time Left: 1 minutes
+20-06-24 03:39:31 Next map: Lobby
+20-06-24 03:39:36 Lothic - Gothic Lobby Room
+20-06-24 03:44:36 Time Left: 5 minutes
+20-06-24 03:45:36 Time Left: 4 minutes
+20-06-24 03:46:36 Time Left: 3 minutes
+20-06-24 03:47:36 Time Left: 2 minutes
+20-06-24 03:48:36 Time Left: 1 minutes
+20-06-24 03:49:36 Next map: Lobby
+20-06-24 03:49:42 Lothic - Gothic Lobby Room
+20-06-24 03:54:42 Time Left: 5 minutes
+20-06-24 03:55:42 Time Left: 4 minutes
+20-06-24 03:56:42 Time Left: 3 minutes
+20-06-24 03:57:42 Time Left: 2 minutes
+20-06-24 03:58:42 Time Left: 1 minutes
+20-06-24 03:59:41 Next map: Lobby
+20-06-24 03:59:47 Lothic - Gothic Lobby Room
+20-06-24 04:04:47 Time Left: 5 minutes
+20-06-24 04:05:47 Time Left: 4 minutes
+20-06-24 04:06:47 Time Left: 3 minutes
+20-06-24 04:07:47 Time Left: 2 minutes
+20-06-24 04:08:47 Time Left: 1 minutes
+20-06-24 04:09:47 Next map: Lobby
+20-06-24 04:09:52 Lothic - Gothic Lobby Room
+20-06-24 04:14:52 Time Left: 5 minutes
+20-06-24 04:15:52 Time Left: 4 minutes
+20-06-24 04:16:52 Time Left: 3 minutes
+20-06-24 04:17:52 Time Left: 2 minutes
+20-06-24 04:18:52 Time Left: 1 minutes
+20-06-24 04:19:52 Next map: Lobby
+20-06-24 04:19:57 Lothic - Gothic Lobby Room
+20-06-24 04:24:57 Time Left: 5 minutes
+20-06-24 04:25:57 Time Left: 4 minutes
+20-06-24 04:26:57 Time Left: 3 minutes
+20-06-24 04:27:57 Time Left: 2 minutes
+20-06-24 04:28:57 Time Left: 1 minutes
+20-06-24 04:29:57 Next map: Lobby
+20-06-24 04:30:03 Lothic - Gothic Lobby Room
+20-06-24 04:35:03 Time Left: 5 minutes
+20-06-24 04:36:03 Time Left: 4 minutes
+20-06-24 04:37:03 Time Left: 3 minutes
+20-06-24 04:38:03 Time Left: 2 minutes
+20-06-24 04:39:03 Time Left: 1 minutes
+20-06-24 04:40:03 Next map: Lobby
+20-06-24 04:40:08 Lothic - Gothic Lobby Room
+20-06-24 04:45:08 Time Left: 5 minutes
+20-06-24 04:46:08 Time Left: 4 minutes
+20-06-24 04:47:08 Time Left: 3 minutes
+20-06-24 04:48:08 Time Left: 2 minutes
+20-06-24 04:49:08 Time Left: 1 minutes
+20-06-24 04:50:08 Next map: Lobby
+20-06-24 04:50:13 Lothic - Gothic Lobby Room
+20-06-24 04:55:13 Time Left: 5 minutes
+20-06-24 04:56:13 Time Left: 4 minutes
+20-06-24 04:57:13 Time Left: 3 minutes
+20-06-24 04:58:13 Time Left: 2 minutes
+20-06-24 04:59:13 Time Left: 1 minutes
+20-06-24 05:00:13 Next map: Lobby
+20-06-24 05:00:19 Lothic - Gothic Lobby Room
+20-06-24 05:05:19 Time Left: 5 minutes
+20-06-24 05:06:19 Time Left: 4 minutes
+20-06-24 05:07:19 Time Left: 3 minutes
+20-06-24 05:08:19 Time Left: 2 minutes
+20-06-24 05:09:19 Time Left: 1 minutes
+20-06-24 05:10:19 Next map: Lobby
+20-06-24 05:10:24 Lothic - Gothic Lobby Room
+20-06-24 05:15:24 Time Left: 5 minutes
+20-06-24 05:16:24 Time Left: 4 minutes
+20-06-24 05:17:24 Time Left: 3 minutes
+20-06-24 05:18:24 Time Left: 2 minutes
+20-06-24 05:19:24 Time Left: 1 minutes
+20-06-24 05:20:24 Next map: Lobby
+20-06-24 05:20:29 Lothic - Gothic Lobby Room

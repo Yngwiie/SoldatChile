@@ -1,0 +1,3549 @@
+20-04-06 08:58:46    Kill Log Started
+--- 20-04-06 08:59:58
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 08:59:59
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:00:08
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:00:46
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:00:50
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:00:58
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:01:05
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:01:15
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:01:27
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:01:28
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:01:36
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:01:41
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:01:46
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:01:50
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:01:55
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:01:59
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:02:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:02:09
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Flamer
+--- 20-04-06 09:02:20
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:02:29
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:02:37
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:02:44
+|X.Forc3|.Turko
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:02:51
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:03:12
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:03:29
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:03:33
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:03:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:03:54
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:04:01
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:04:08
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:04:25
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:04:45
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:04:52
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:05:39
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:05:43
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:05:51
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:05:51
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:06:04
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:06:04
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:06:14
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:06:20
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:06:24
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Combat Knife
+--- 20-04-06 09:06:31
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:06:39
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:06:43
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:06:48
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:06:57
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:06:57
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:07:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:07:17
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:07:28
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:07:45
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:07:53
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:07:58
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:08:05
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:08:15
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:08:22
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:08:34
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:08:43
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:08:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:08:52
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:08:55
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:09:00
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:09:07
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:09:13
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:09:19
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:09:23
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:09:26
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Combat Knife
+--- 20-04-06 09:09:34
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:09:44
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:09:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:10:14
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:10:20
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:10:29
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Ak-74
+--- 20-04-06 09:10:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:11:20
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:11:25
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:11:29
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:11:39
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:11:49
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:11:55
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:12:01
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:12:13
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:12:36
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:13:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:13:13
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:13:52
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:13:56
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:13:57
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:14:06
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:14:07
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:14:14
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:14:21
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:14:26
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:14:32
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:14:46
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:14:51
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:14:56
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:15:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:15:09
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:15:14
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:15:19
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:15:19
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:15:26
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:15:31
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:15:37
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:15:43
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:15:43
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:15:49
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:15:59
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:16:04
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:16:10
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:16:18
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:16:27
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:16:40
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:16:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:16:53
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:17:17
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:17:23
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:17:29
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:17:34
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:17:42
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:17:46
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Combat Knife
+--- 20-04-06 09:17:52
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:17:59
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:17:59
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:18:04
+|X.Forc3|.Turko
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:18:12
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:18:16
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:18:36
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:19:12
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:19:12
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:19:22
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:19:27
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:19:33
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:19:44
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:20:53
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Combat Knife
+--- 20-04-06 09:21:01
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:21:09
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:21:20
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:21:42
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:21:51
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:21:56
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:22:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:22:08
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:22:18
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:22:23
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:22:28
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:22:34
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 09:22:40
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:22:46
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:22:46
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:22:53
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 09:24:30
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:24:34
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+LAW
+--- 20-04-06 09:24:41
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:24:48
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Spas-12
+--- 20-04-06 09:25:51
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:26:01
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:26:08
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:26:27
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+USSOCOM
+--- 20-04-06 09:26:39
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:27:03
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:27:08
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:27:16
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 09:27:25
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:28:08
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:28:15
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:28:48
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:29:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+USSOCOM
+--- 20-04-06 09:29:15
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:29:28
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:29:35
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:30:14
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:30:21
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:30:35
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:31:02
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 09:31:09
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:31:15
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:31:28
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+USSOCOM
+--- 20-04-06 09:31:56
+|X.Forc3|Recluta
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 09:32:01
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:32:50
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:33:01
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:33:01
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:33:06
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:33:11
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:33:28
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:33:37
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 09:33:46
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:34:02
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 09:34:09
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:34:13
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 09:34:13
+|X.Forc3|Recluta
+|X.Forc3|Recluta
+M79
+--- 20-04-06 09:34:26
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 18:41:44
+LB ~ Mercy
+Major
+Grenade
+--- 20-04-06 18:41:48
+LB ~ Mercy
+Major
+M79
+--- 20-04-06 18:41:53
+LB ~ Mercy
+Major
+M79
+--- 20-04-06 18:41:57
+#KbN! ChronoCL
+Major
+Steyr AUG
+--- 20-04-06 18:43:37
+LB ~ Mercy
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:43:50
+#KbN! ChronoCL
+LB ~ Mercy
+Steyr AUG
+--- 20-04-06 18:44:08
+LB ~ Mercy
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 18:44:26
+#KbN! ChronoCL
+LB ~ Mercy
+Steyr AUG
+--- 20-04-06 18:44:55
+#KbN! ChronoCL
+Major
+Steyr AUG
+--- 20-04-06 18:45:17
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 18:45:20
+#KbN! ChronoCL
+Major(1)
+Grenade
+--- 20-04-06 18:45:34
+Major
+Major
+M79
+--- 20-04-06 18:45:35
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:45:40
+#KbN! ChronoCL
+Major(1)
+Hands
+--- 20-04-06 18:45:41
+LB ~ Mercy
+Major
+LAW
+--- 20-04-06 18:45:47
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:45:50
+Major(1)
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 18:45:55
+#KbN! ChronoCL
+Major
+Steyr AUG
+--- 20-04-06 18:46:01
+#KbN! ChronoCL
+Major(1)
+Steyr AUG
+--- 20-04-06 18:46:09
+LB ~ Mercy
+Major
+LAW
+--- 20-04-06 18:46:17
+#KbN! ChronoCL
+Major(1)
+Steyr AUG
+--- 20-04-06 18:46:17
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 18:46:21
+Major
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 18:46:25
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:46:38
+Major(1)
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:46:43
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:46:56
+#KbN! ChronoCL
+Major
+Steyr AUG
+--- 20-04-06 18:47:05
+LB ~ Mercy
+Major(1)
+LAW
+--- 20-04-06 18:47:35
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:47:44
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 18:47:45
+LB ~ Mercy
+Major
+Grenade
+--- 20-04-06 18:47:51
+#KbN! ChronoCL
+Major
+Hands
+--- 20-04-06 18:48:03
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:48:09
+Major
+LB ~ Mercy
+M79
+--- 20-04-06 18:48:11
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:48:27
+#KbN! ChronoCL
+Major
+Grenade
+--- 20-04-06 18:48:37
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:48:44
+Major
+Major
+M79
+--- 20-04-06 18:48:50
+Major
+LB ~ Mercy
+M79
+--- 20-04-06 18:48:52
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:48:56
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:49:00
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:49:03
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:49:06
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 18:49:11
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:49:12
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:49:16
+#KbN! ChronoCL
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 18:49:17
+Major
+Major
+Grenade
+--- 20-04-06 18:49:28
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:49:31
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:49:38
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:49:47
+LB ~ Mercy
+Major(1)
+LAW
+--- 20-04-06 18:49:57
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:50:03
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:50:13
+Major(1)
+Major(1)
+M79
+--- 20-04-06 18:50:13
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:50:14
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:50:23
+Major
+Major
+M79
+--- 20-04-06 18:50:30
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:50:34
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:50:36
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:50:39
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:50:39
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 18:50:47
+LB ~ Mercy
+Major(1)
+Grenade
+--- 20-04-06 18:50:50
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:53:11
+LB ~ Mercy
+Major
+Grenade
+--- 20-04-06 18:53:41
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:53:45
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:53:54
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:53:56
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:53:58
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 18:54:02
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:54:04
+Major(1)
+#KbN! ChronoCL
+Ruger 77
+--- 20-04-06 18:54:11
+Major(1)
+LB ~ Mercy
+Ruger 77
+--- 20-04-06 18:54:12
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:54:19
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:54:19
+Major
+#KbN! ChronoCL
+Steyr AUG
+--- 20-04-06 18:54:26
+Major
+LB ~ Mercy
+Steyr AUG
+--- 20-04-06 18:54:31
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:54:33
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:54:38
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:54:45
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:54:53
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:55:09
+#KbN! ChronoCL
+Major
+M79
+--- 20-04-06 18:55:16
+Major
+#KbN! ChronoCL
+Steyr AUG
+--- 20-04-06 18:55:20
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 18:55:22
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:55:31
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:55:41
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:55:45
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 18:56:09
+#KbN! ChronoCL
+Major(1)
+Grenade
+--- 20-04-06 18:56:13
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:56:17
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:56:28
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:56:31
+Major(1)
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 18:56:52
+#KbN! ChronoCL
+Major
+LAW
+--- 20-04-06 18:56:53
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 18:56:55
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:57:00
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:57:02
+LB ~ Mercy
+Major(1)
+Grenade
+--- 20-04-06 18:57:07
+#KbN! ChronoCL
+Major(1)
+Grenade
+--- 20-04-06 18:57:08
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 18:57:19
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 18:57:19
+#KbN! ChronoCL
+Major
+Grenade
+--- 20-04-06 18:57:20
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 18:57:28
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:57:30
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 18:57:31
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 18:57:40
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 18:57:46
+Major
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 18:57:50
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:00:50
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:01:01
+Major
+LB ~ Mercy
+Ruger 77
+--- 20-04-06 19:01:06
+LB ~ Mercy
+Major(1)
+Combat Knife
+--- 20-04-06 19:01:13
+LB ~ Mercy
+Major(1)
+Steyr AUG
+--- 20-04-06 19:01:17
+LB ~ Mercy
+Major
+Steyr AUG
+--- 20-04-06 19:01:29
+LB ~ Mercy
+Major
+Steyr AUG
+--- 20-04-06 19:01:38
+LB ~ Mercy
+Major
+Steyr AUG
+--- 20-04-06 19:01:41
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:02:04
+LB ~ Mercy
+Major
+Steyr AUG
+--- 20-04-06 19:02:10
+Major(1)
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 19:02:23
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:02:34
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:02:38
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:02:47
+Major
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 19:02:48
+LB ~ Mercy
+Major
+LAW
+--- 20-04-06 19:02:49
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:02:57
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:03:06
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:03:16
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:03:17
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:03:23
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:03:33
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:03:38
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:03:41
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:03:48
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:03:52
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:03:55
+Major
+#KbN! ChronoCL
+Desert Eagles
+--- 20-04-06 19:03:59
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:04:01
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:04:08
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:04:16
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:04:23
+Major(1)
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:04:32
+#KbN! ChronoCL
+Major(1)
+Chainsaw
+--- 20-04-06 19:04:33
+LB ~ Mercy
+Major
+LAW
+--- 20-04-06 19:04:39
+Major
+LB ~ Mercy
+Steyr AUG
+--- 20-04-06 19:04:42
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:04:43
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:04:53
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:04:54
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:04:55
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:05:05
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:05:06
+#KbN! ChronoCL
+Major(1)
+Grenade
+--- 20-04-06 19:05:12
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:05:15
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:05:21
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:05:25
+Major(1)
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:05:37
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:05:39
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:05:49
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:05:57
+Major
+#KbN! ChronoCL
+Spas-12
+--- 20-04-06 19:06:03
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:06:03
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:06:15
+Major
+LB ~ Mercy
+Spas-12
+--- 20-04-06 19:06:20
+Major
+#KbN! ChronoCL
+Spas-12
+--- 20-04-06 19:06:25
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:06:26
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:06:26
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:06:32
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:06:38
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:06:42
+Major
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 19:06:42
+Major
+Major
+Grenade
+--- 20-04-06 19:06:50
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:06:51
+#KbN! ChronoCL
+Major
+Grenade
+--- 20-04-06 19:06:59
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:07:04
+Major
+LB ~ Mercy
+Spas-12
+--- 20-04-06 19:07:06
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:07:16
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:07:18
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:07:24
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:07:25
+Major
+LB ~ Mercy
+Spas-12
+--- 20-04-06 19:07:31
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:07:36
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:07:45
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:07:50
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:07:53
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:07:59
+Major
+LB ~ Mercy
+Ruger 77
+--- 20-04-06 19:08:00
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:08:06
+LB ~ Mercy
+Major
+Spas-12
+--- 20-04-06 19:08:13
+LB ~ Mercy
+Major(1)
+Spas-12
+--- 20-04-06 19:08:15
+Major
+LB ~ Mercy
+Ruger 77
+--- 20-04-06 19:08:51
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:09:02
+#KbN! ChronoCL
+Major
+Chainsaw
+--- 20-04-06 19:09:05
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:09:36
+Major(1)
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:09:39
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:09:45
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:09:52
+#KbN! ChronoCL
+Major
+Chainsaw
+--- 20-04-06 19:10:12
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:10:13
+#KbN! ChronoCL
+Major(1)
+Chainsaw
+--- 20-04-06 19:10:17
+#KbN! ChronoCL
+Major(1)
+Chainsaw
+--- 20-04-06 19:10:18
+#KbN! ChronoCL
+Major
+Chainsaw
+--- 20-04-06 19:10:24
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:10:30
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:10:40
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:10:49
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:10:54
+LB ~ Mercy
+Major(1)
+Grenade
+--- 20-04-06 19:11:01
+Major(1)
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:11:04
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:11:14
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:11:16
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 19:11:25
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:11:30
+LB ~ Mercy
+Major
+Grenade
+--- 20-04-06 19:11:33
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:11:48
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:11:53
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:11:57
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:12:06
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:12:06
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:12:11
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:12:16
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:12:30
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 19:12:37
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:12:38
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:12:54
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:13:03
+LB ~ Mercy
+Major(1)
+LAW
+--- 20-04-06 19:13:05
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:13:10
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:13:23
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:13:27
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:13:33
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:13:34
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:13:46
+LB ~ Mercy
+Major(1)
+Grenade
+--- 20-04-06 19:13:59
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:14:01
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:14:05
+Major
+LB ~ Mercy
+Barrett M82A1
+--- 20-04-06 19:14:10
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:14:10
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:14:19
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:14:22
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:14:28
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:14:33
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:14:41
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:14:43
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:14:56
+Major
+LB ~ Mercy
+Barrett M82A1
+--- 20-04-06 19:15:02
+#KbN! ChronoCL
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:15:05
+Major
+LB ~ Mercy
+USSOCOM
+--- 20-04-06 19:15:15
+LB ~ Mercy
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:15:20
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:15:38
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:15:44
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:16:05
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:16:10
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:16:21
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:16:41
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:16:47
+#KbN! ChronoCL
+Major
+M79
+--- 20-04-06 19:16:52
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:17:02
+Major(1)
+#KbN! ChronoCL
+M79
+--- 20-04-06 19:17:02
+LB ~ Mercy
+Major
+Barrett M82A1
+--- 20-04-06 19:17:06
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:17:20
+#KbN! ChronoCL
+Major
+M79
+--- 20-04-06 19:17:22
+LB ~ Mercy
+Major(1)
+Grenade
+--- 20-04-06 19:17:26
+Major
+LB ~ Mercy
+Grenade
+--- 20-04-06 19:17:44
+Major(1)
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:17:52
+#KbN! ChronoCL
+Major
+M79
+--- 20-04-06 19:17:52
+LB ~ Mercy
+Major(1)
+M79
+--- 20-04-06 19:18:17
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:18:27
+LB ~ Mercy
+Major(1)
+M79
+--- 20-04-06 19:18:28
+Major
+#KbN! ChronoCL
+USSOCOM
+--- 20-04-06 19:18:35
+#KbN! ChronoCL
+Major
+Grenade
+--- 20-04-06 19:18:40
+#KbN! ChronoCL
+Major(1)
+Grenade
+--- 20-04-06 19:18:47
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:18:47
+Major
+#KbN! ChronoCL
+Grenade
+--- 20-04-06 19:18:52
+Major
+Major
+Grenade
+--- 20-04-06 19:18:53
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:19:03
+Major
+#KbN! ChronoCL
+Barrett M82A1
+--- 20-04-06 19:19:13
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:19:14
+LB ~ Mercy
+Major(1)
+M79
+--- 20-04-06 19:19:30
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:19:35
+Major
+LB ~ Mercy
+Barrett M82A1
+--- 20-04-06 19:19:36
+#KbN! ChronoCL
+Major(1)
+Desert Eagles
+--- 20-04-06 19:19:44
+#KbN! ChronoCL
+Major
+Desert Eagles
+--- 20-04-06 19:19:49
+Major(1)
+LB ~ Mercy
+M79
+--- 20-04-06 19:21:57
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:22:12
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:22:20
+Major(1)
+Major
+M79
+--- 20-04-06 19:22:33
+Major(1)
+Major
+M79
+--- 20-04-06 19:22:49
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:23:07
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:23:58
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:24:02
+Major
+Major
+Grenade
+--- 20-04-06 19:24:25
+Major(1)
+Major
+M79
+--- 20-04-06 19:24:33
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:24:38
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:25:40
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:25:52
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:25:56
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:27:23
+Major(1)
+Major
+Ruger 77
+--- 20-04-06 19:27:35
+Major(1)
+Major
+Ruger 77
+--- 20-04-06 19:27:51
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:27:58
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:28:05
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:28:09
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:28:33
+Major
+Limon
+Barrett M82A1
+--- 20-04-06 19:28:40
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:29:03
+Major(1)
+Major
+M79
+--- 20-04-06 19:29:10
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:29:12
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:29:30
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:29:30
+Major(1)
+Major
+M79
+--- 20-04-06 19:29:47
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:30:01
+Major
+Limon
+Grenade
+--- 20-04-06 19:30:09
+Major
+Limon
+Barrett M82A1
+--- 20-04-06 19:30:14
+Major
+Limon
+Barrett M82A1
+--- 20-04-06 19:30:19
+Major
+Limon
+Barrett M82A1
+--- 20-04-06 19:30:19
+Limon
+Major
+Combat Knife
+--- 20-04-06 19:30:31
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:30:41
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:30:48
+Limon
+Major
+Combat Knife
+--- 20-04-06 19:31:07
+Major
+Major(1)
+Combat Knife
+--- 20-04-06 19:31:11
+Major
+Major(1)
+Combat Knife
+--- 20-04-06 19:31:17
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:31:22
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:31:26
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:31:29
+Limon
+Major
+Desert Eagles
+--- 20-04-06 19:31:41
+Major
+Limon
+Grenade
+--- 20-04-06 19:31:41
+Limon
+Major
+Grenade
+--- 20-04-06 19:31:46
+Major(1)
+Major
+Chainsaw
+--- 20-04-06 19:32:29
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:32:47
+Major
+Major(1)
+M79
+--- 20-04-06 19:33:05
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:33:26
+Major
+Major(1)
+M79
+--- 20-04-06 19:33:38
+Major(1)
+Major
+M79
+--- 20-04-06 19:33:42
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:34:02
+Major
+Major(1)
+M79
+--- 20-04-06 19:34:14
+Major(1)
+Major
+M79
+--- 20-04-06 19:34:28
+Major
+Major(1)
+M79
+--- 20-04-06 19:34:32
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:35:03
+Major
+Major(1)
+M79
+--- 20-04-06 19:35:16
+Major(1)
+Major
+USSOCOM
+--- 20-04-06 19:35:21
+Major(1)
+Major
+M79
+--- 20-04-06 19:35:52
+Major
+Major
+Grenade
+--- 20-04-06 19:36:02
+Major(1)
+Major
+M79
+--- 20-04-06 19:36:19
+Major
+Major(1)
+M79
+--- 20-04-06 19:36:44
+Major
+Major
+M79
+--- 20-04-06 19:37:02
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:37:58
+Major
+Major(1)
+M79
+--- 20-04-06 19:38:13
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:38:46
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:38:52
+Major(1)
+Major
+M79
+--- 20-04-06 19:38:52
+Major
+Major(1)
+M79
+--- 20-04-06 19:39:01
+Major(1)
+Major
+M79
+--- 20-04-06 19:39:05
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:39:33
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:39:50
+Major
+Major(1)
+M79
+--- 20-04-06 19:40:11
+Major(1)
+Major
+M79
+--- 20-04-06 19:40:24
+Major
+Major(1)
+M79
+--- 20-04-06 19:40:43
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:40:59
+Major
+Major(1)
+M79
+--- 20-04-06 19:42:50
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:43:04
+Major(1)
+Major
+M79
+--- 20-04-06 19:43:57
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:44:05
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:44:17
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:45:05
+Major
+Major
+Grenade
+--- 20-04-06 19:45:14
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:45:42
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:46:01
+Major(1)
+Major
+M79
+--- 20-04-06 19:46:47
+Major(1)
+Major
+Grenade
+--- 20-04-06 19:46:54
+Major(1)
+Major(1)
+M79
+--- 20-04-06 19:47:20
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:47:32
+Major(1)
+Major
+M79
+--- 20-04-06 19:47:41
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:47:41
+Major(1)
+Major
+M79
+--- 20-04-06 19:47:59
+Major(1)
+Major
+M79
+--- 20-04-06 19:48:10
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:48:53
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:49:17
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:49:28
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:49:34
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:49:46
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:49:54
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:50:25
+Major
+Major(1)
+Grenade
+--- 20-04-06 19:50:32
+Major
+Major(1)
+Barrett M82A1
+--- 20-04-06 19:50:45
+Major(1)
+Major
+M79
+--- 20-04-06 19:50:59
+Major(1)
+Major
+M79
+--- 20-04-06 19:51:11
+Major
+Major(1)
+USSOCOM
+--- 20-04-06 19:51:23
+Major
+Major(1)
+Stationary gun
+--- 20-04-06 19:51:52
+Major
+Major(1)
+Grenade
+--- 20-04-06 21:05:31
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Combat Knife
+--- 20-04-06 21:05:35
+sT#' ErreAPe_
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:05:43
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:05:49
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:06:04
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:06:09
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:06:18
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:06:22
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:06:34
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:06:39
+Reviva|IRatzorcL
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:06:47
+sT#' ErreAPe_
+Reviva|IRatzorcL
+LAW
+--- 20-04-06 21:06:49
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:06:57
+Reviva|IRatzorcL
+sT#' ErreAPe_
+M79
+--- 20-04-06 21:07:05
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:07:21
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:07:22
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:07:26
+Reviva|IRatzorcL
+Zazza S/C
+Combat Knife
+--- 20-04-06 21:07:27
+sugoi-ne
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:07:28
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:07:35
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:07:36
+Reviva|IRatzorcL
+Zazza S/C
+Grenade
+--- 20-04-06 21:07:49
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:08:03
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:08:05
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:08:12
+sT#' ErreAPe_
+Zazza S/C
+LAW
+--- 20-04-06 21:08:15
+sT#' ErreAPe_
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:08:15
+Reviva|IRatzorcL
+sugoi-ne
+Barrett M82A1
+--- 20-04-06 21:08:24
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:08:28
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:08:30
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:08:30
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:08:36
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:08:36
+Reviva|IRatzorcL
+Zazza S/C
+Grenade
+--- 20-04-06 21:08:42
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:08:42
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:08:49
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:08:54
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:08:55
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:09:01
+sugoi-ne
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:09:02
+Reviva|IRatzorcL
+sugoi-ne
+Barrett M82A1
+--- 20-04-06 21:09:06
+sT#' ErreAPe_
+Zazza S/C
+Grenade
+--- 20-04-06 21:09:09
+Reviva|IRatzorcL
+sugoi-ne
+Barrett M82A1
+--- 20-04-06 21:09:15
+Reviva|IRatzorcL
+sugoi-ne
+Barrett M82A1
+--- 20-04-06 21:09:18
+Zazza S/C
+sT#' ErreAPe_
+Combat Knife
+--- 20-04-06 21:09:22
+Zazza S/C
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:09:26
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:09:39
+Reviva|IRatzorcL
+sugoi-ne
+Grenade
+--- 20-04-06 21:09:44
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:09:45
+sugoi-ne
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:09:58
+Reviva|IRatzorcL
+sugoi-ne
+Combat Knife
+--- 20-04-06 21:09:58
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:10:05
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:10:07
+Reviva|IRatzorcL
+Zazza S/C
+Barrett M82A1
+--- 20-04-06 21:10:12
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:10:18
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:10:20
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:10:23
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:10:26
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:10:31
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:10:36
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:10:38
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:10:42
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:10:43
+Reviva|IRatzorcL
+Zazza S/C
+Grenade
+--- 20-04-06 21:10:51
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:10:54
+Reviva|IRatzorcL
+sugoi-ne
+Grenade
+--- 20-04-06 21:11:00
+Reviva|IRatzorcL
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:11:00
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:11:03
+sugoi-ne
+sT#' ErreAPe_
+USSOCOM
+--- 20-04-06 21:11:09
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:11:10
+sT#' ErreAPe_
+Zazza S/C
+Grenade
+--- 20-04-06 21:11:16
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:11:22
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:11:26
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:11:32
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:11:35
+Reviva|IRatzorcL
+Zazza S/C
+Barrett M82A1
+--- 20-04-06 21:11:40
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:11:43
+Reviva|IRatzorcL
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:11:45
+sugoi-ne
+sugoi-ne
+Grenade
+--- 20-04-06 21:11:50
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:11:52
+Zazza S/C
+sT#' ErreAPe_
+Combat Knife
+--- 20-04-06 21:12:02
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:12:02
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:12:02
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:12:07
+sugoi-ne
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:12:17
+Reviva|IRatzorcL
+sugoi-ne
+Combat Knife
+--- 20-04-06 21:12:19
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:12:23
+sugoi-ne
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:12:29
+Reviva|IRatzorcL
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:12:30
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:12:35
+Zazza S/C
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:12:37
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:12:43
+sT#' ErreAPe_
+Zazza S/C
+LAW
+--- 20-04-06 21:12:47
+sugoi-ne
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:12:53
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:12:53
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:12:53
+sugoi-ne
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:12:59
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:13:00
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:13:04
+sugoi-ne
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:13:06
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:13:07
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:13:12
+sugoi-ne
+Reviva|IRatzorcL
+HK MP5
+--- 20-04-06 21:13:14
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:13:19
+Reviva|IRatzorcL
+sugoi-ne
+Combat Knife
+--- 20-04-06 21:13:26
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:13:27
+sugoi-ne
+Reviva|IRatzorcL
+HK MP5
+--- 20-04-06 21:13:34
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:13:37
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:13:42
+sugoi-ne
+Reviva|IRatzorcL
+HK MP5
+--- 20-04-06 21:13:46
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:13:50
+sugoi-ne
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:13:55
+Zazza S/C
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:13:59
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:14:01
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:14:05
+Reviva|IRatzorcL
+sugoi-ne
+Combat Knife
+--- 20-04-06 21:14:07
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:14:10
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:14:11
+sT#' ErreAPe_
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:14:16
+Reviva|IRatzorcL
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:14:20
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:14:21
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:14:27
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:14:29
+Reviva|IRatzorcL
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:14:35
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:14:36
+sugoi-ne
+Reviva|IRatzorcL
+Grenade
+--- 20-04-06 21:14:38
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:14:41
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:14:46
+sugoi-ne
+Reviva|IRatzorcL
+HK MP5
+--- 20-04-06 21:14:53
+sT#' ErreAPe_
+sugoi-ne
+LAW
+--- 20-04-06 21:14:56
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:14:59
+Reviva|IRatzorcL
+Zazza S/C
+Grenade
+--- 20-04-06 21:15:03
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:15:05
+Reviva|IRatzorcL
+Zazza S/C
+Barrett M82A1
+--- 20-04-06 21:15:11
+sugoi-ne
+sT#' ErreAPe_
+HK MP5
+--- 20-04-06 21:15:22
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:15:28
+sugoi-ne
+sT#' ErreAPe_
+HK MP5
+--- 20-04-06 21:15:29
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:15:38
+sugoi-ne
+Reviva|IRatzorcL
+HK MP5
+--- 20-04-06 21:15:46
+sT#' ErreAPe_
+sugoi-ne
+Steyr AUG
+--- 20-04-06 21:15:49
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:15:59
+Zazza S/C
+sT#' ErreAPe_
+Steyr AUG
+--- 20-04-06 21:16:05
+sT#' ErreAPe_
+sugoi-ne
+Grenade
+--- 20-04-06 21:16:14
+Reviva|IRatzorcL
+Zazza S/C
+Barrett M82A1
+--- 20-04-06 21:16:15
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 21:16:22
+Zazza S/C
+Reviva|IRatzorcL
+Steyr AUG
+--- 20-04-06 21:16:22
+Zazza S/C
+Zazza S/C
+Grenade
+--- 20-04-06 21:16:29
+Zazza S/C
+sT#' ErreAPe_
+Grenade
+--- 20-04-06 21:16:31
+Reviva|IRatzorcL
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:16:32
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:16:41
+sT#' ErreAPe_
+Zazza S/C
+Steyr AUG
+--- 20-04-06 21:16:41
+sugoi-ne
+sT#' ErreAPe_
+Hands
+--- 20-04-06 21:16:43
+sugoi-ne
+Reviva|IRatzorcL
+Barrett M82A1
+--- 20-04-06 21:16:48
+sugoi-ne
+sT#' ErreAPe_
+Barrett M82A1
+--- 20-04-06 22:59:32
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 23:00:25
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 23:01:03
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+M79
+--- 20-04-06 23:01:15
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 23:03:05
+|X.Forc3|Recluta
+el mas bello
+M79
+--- 20-04-06 23:03:10
+|X.Forc3|Recluta
+el mas bello
+M79
+--- 20-04-06 23:03:16
+|X.Forc3|Recluta
+el mas bello
+Grenade
+--- 20-04-06 23:03:20
+|X.Forc3|Recluta
+el mas bello
+M79
+--- 20-04-06 23:03:30
+|X.Forc3|Recluta
+el mas bello
+M79
+--- 20-04-06 23:03:35
+|X.Forc3|Recluta
+el mas bello
+M79
+--- 20-04-06 23:06:49
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:06:55
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Combat Knife
+--- 20-04-06 23:07:04
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:07:19
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:07:24
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:07:41
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:08:01
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:08:28
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Barrett M82A1
+--- 20-04-06 23:08:37
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:08:43
+|X.Forc3|.Turko
+|X.Forc3|Recluta
+Barrett M82A1
+--- 20-04-06 23:08:52
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:08:59
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:09:21
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:09:29
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:09:45
+|X.Forc3|Recluta
+|X.Forc3|.Turko
+Barrett M82A1
+--- 20-04-06 23:09:53
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:10:09
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:10:29
+|X.Forc3|Recluta
+el mas bello
+Grenade
+--- 20-04-06 23:10:39
+El principito Lead
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 23:10:43
+|X.Forc3|.Turko
+el mas bello
+Grenade
+--- 20-04-06 23:11:02
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:11:05
+|X.Forc3|.Turko
+El principito Lead
+M79
+--- 20-04-06 23:11:12
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:12:02
+el mas bello
+|X.Forc3|.Turko
+M79
+--- 20-04-06 23:12:18
+|X.Forc3|.Turko
+El principito Lead
+M79
+--- 20-04-06 23:12:24
+El principito Lead
+|X.Forc3|Recluta
+HK MP5
+--- 20-04-06 23:12:44
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:12:52
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:12:59
+El principito Lead
+|X.Forc3|Recluta
+M79
+--- 20-04-06 23:13:09
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:13:18
+El principito Lead
+El principito Lead
+Grenade
+--- 20-04-06 23:13:23
+|X.Forc3|.Turko
+El principito Lead
+M79
+--- 20-04-06 23:13:30
+El principito Lead
+|X.Forc3|.Turko
+Ak-74
+--- 20-04-06 23:13:35
+el mas bello
+|X.Forc3|Recluta
+M79
+--- 20-04-06 23:13:37
+el mas bello
+|X.Forc3|.Turko
+M79
+--- 20-04-06 23:13:45
+|X.Forc3|.Turko
+El principito Lead
+M79
+--- 20-04-06 23:14:01
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:14:03
+|X.Forc3|.Turko
+el mas bello
+M79
+--- 20-04-06 23:14:17
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:14:46
+|X.Forc3|.Turko
+El principito Lead
+Ak-74
+--- 20-04-06 23:14:47
+|X.Forc3|.Turko
+el mas bello
+Ak-74
+--- 20-04-06 23:15:04
+|X.Forc3|Recluta
+el mas bello
+Grenade
+--- 20-04-06 23:15:10
+|X.Forc3|.Turko
+El principito Lead
+Ak-74
+--- 20-04-06 23:16:05
+|X.Forc3|.Turko
+el mas bello
+Ak-74
+--- 20-04-06 23:16:10
+El principito Lead
+El principito Lead
+Grenade
+--- 20-04-06 23:16:50
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:16:51
+|X.Forc3|.Turko
+El principito Lead
+Grenade
+--- 20-04-06 23:16:51
+El principito Lead
+|X.Forc3|.Turko
+Grenade
+--- 20-04-06 23:16:57
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:17:05
+|X.Forc3|.Turko
+El principito Lead
+FN Minimi
+--- 20-04-06 23:17:11
+|X.Forc3|.Turko
+el mas bello
+FN Minimi
+--- 20-04-06 23:17:19
+el mas bello
+|X.Forc3|Recluta
+M79
+--- 20-04-06 23:17:50
+|X.Forc3|Recluta
+el mas bello
+Grenade
+--- 20-04-06 23:17:59
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-06 23:18:15
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:18:19
+El principito Lead
+|X.Forc3|.Turko
+Steyr AUG
+--- 20-04-06 23:18:25
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:18:27
+El principito Lead
+|X.Forc3|Recluta
+Steyr AUG
+--- 20-04-06 23:18:35
+|X.Forc3|Recluta
+el mas bello
+Barrett M82A1
+--- 20-04-06 23:18:39
+El principito Lead
+|X.Forc3|Recluta
+Grenade
+--- 20-04-06 23:18:44
+|X.Forc3|.Turko
+El principito Lead
+Grenade
+--- 20-04-06 23:18:48
+|X.Forc3|Recluta
+El principito Lead
+Barrett M82A1
+--- 20-04-07 03:38:40
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:38:41
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:38:49
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:38:56
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:39:02
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:39:06
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:39:12
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:39:18
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:39:24
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:39:27
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:39:35
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:39:40
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:40:18
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:40:58
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 03:40:58
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 03:41:19
+#1 Mand3s
+Waives|F4ll.cL
+Grenade
+--- 20-04-07 03:41:24
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:41:32
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:41:37
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:41:42
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:41:54
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:00
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:04
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:09
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:12
+Waives|F4ll.cL
+#1 Mand3s
+Combat Knife
+--- 20-04-07 03:42:23
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:29
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:34
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 03:42:37
+Waives|F4ll.cL
+#1 Mand3s
+Combat Knife
+--- 20-04-07 09:42:53
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:42:56
+Waives|F4ll.cL
+#1 Mand3s
+Combat Knife
+--- 20-04-07 09:43:07
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:43:12
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:43:18
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 09:43:24
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:43:31
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:43:36
+Waives|F4ll.cL
+#1 Mand3s
+Grenade
+--- 20-04-07 09:43:39
+#1 Mand3s
+Waives|F4ll.cL
+Combat Knife
+--- 20-04-07 09:43:54
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:43:57
+#1 Mand3s
+Waives|F4ll.cL
+Combat Knife
+--- 20-04-07 09:44:43
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-04-07 09:46:18
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:46:32
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:46:55
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:47:10
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:47:10
+#1 Mand3s
+Waives|F4ll.cL
+Grenade
+--- 20-04-07 09:48:12
+#1 Mand3s
+#1 Mand3s
+Selfkill
+--- 20-04-07 09:48:43
+#1 Mand3s
+Waives|F4ll.cL
+Spas-12
+--- 20-04-07 09:49:44
+Waives|F4ll.cL
+Waives|F4ll.cL
+Grenade
+--- 20-04-07 09:49:48
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:49:54
+Waives|F4ll.cL
+#1 Mand3s
+Grenade
+--- 20-04-07 09:49:58
+#1 Mand3s
+Waives|F4ll.cL
+Combat Knife
+--- 20-04-07 09:50:08
+#1 Mand3s
+#1 Mand3s
+Selfkill
+--- 20-04-07 09:50:12
+#1 Mand3s
+Waives|F4ll.cL
+Grenade
+--- 20-04-07 09:51:01
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:51:08
+Waives|F4ll.cL
+Waives|F4ll.cL
+Grenade
+--- 20-04-07 09:51:32
+Waives|F4ll.cL
+Waives|F4ll.cL
+Selfkill
+--- 20-04-07 09:53:01
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:53:07
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:53:16
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:53:29
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:53:35
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:53:40
+Waives|F4ll.cL
+#1 Mand3s
+Grenade
+--- 20-04-07 09:53:48
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:54:10
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:54:19
+Waives|F4ll.cL
+#1 Mand3s
+Grenade
+--- 20-04-07 09:54:19
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:54:28
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:54:43
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:55:42
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:55:57
+#1 Mand3s
+Waives|F4ll.cL
+Steyr AUG
+--- 20-04-07 09:56:11
+#1 Mand3s
+Waives|F4ll.cL
+Combat Knife
+--- 20-04-07 09:56:16
+Waives|F4ll.cL
+#1 Mand3s
+Steyr AUG
+--- 20-04-07 09:57:48
+#1 Mand3s
+Waives|F4ll.cL
+Combat Knife
+--- 20-04-08 15:15:31
+PROLAPSO  [AN4L]
+PROLAPSO  [AN4L]
+Selfkill
+--- 20-04-08 15:15:45
+PROLAPSO  [AN4L]
+PROLAPSO  [AN4L]
+Selfkill
+--- 20-04-08 15:15:55
+PROLAPSO  [AN4L]
+PROLAPSO  [AN4L]
+Selfkill
+--- 20-04-08 15:16:17
+PROLAPSO  [AN4L]
+PROLAPSO  [AN4L]
+Selfkill

@@ -1,0 +1,39 @@
+20-02-12 08:58:51    Console Log Started
+20-02-12 08:58:51 Welcome to Soldat 1.7.1
+20-02-12 08:58:51  [*] Preparing scripts to be launched
+20-02-12 08:58:51  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 08:58:51  [*] commands_by_keen compiled
+20-02-12 08:58:51  [*] Compiling matchreporter -> match.pas...
+20-02-12 08:58:52  [*] matchreporter -> [Error] (3:8): Unknown identifier 'CopyFile'
+20-02-12 08:58:52  [*] Disabling matchreporter
+20-02-12 08:58:52  [*] Done
+20-02-12 08:58:52 ctf_Ash by chakapoko maker
+20-02-12 08:58:52  Connection for file server started. Port: 23110
+20-02-12 08:58:52 Registering server @ 88.99.234.252
+20-02-12 08:59:40 190.107.226.45:53113|2CAF32344FB requesting game...
+20-02-12 08:59:46 |X.Forc3|.Turkoasdsad joining game (190.107.226.45:53113) HWID:2CAF32344FB
+20-02-12 08:59:46 |X.Forc3|.Turkoasdsad has joined alpha team.
+20-02-12 08:59:50 |X.Forc3|.Turkoasdsad has left alpha team.
+20-02-12 08:59:50 Server password changed to scl
+20-02-12 09:00:12 190.107.226.45:53113|2CAF32344FB requesting game...
+20-02-12 09:00:14 |X.Forc3|.Prueba joining game (190.107.226.45:53113) HWID:2CAF32344FB
+20-02-12 09:00:14 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:00:24 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:00:24 Next map: ctf_B2b
+20-02-12 09:00:26 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:00:26 Next map: ctf_Blade
+20-02-12 09:00:31 Blade by Zakath
+20-02-12 09:00:43 |X.Forc3|.Prueba has left alpha team.
+20-02-12 09:00:43 Server password changed to scl
+20-02-12 09:00:50 190.107.226.45:53113|2CAF32344FB requesting game...
+20-02-12 09:00:54 |X.Forc3|.Prueba joining game (190.107.226.45:53113) HWID:2CAF32344FB
+20-02-12 09:00:54 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:01:17 81.213.241.226:7887|53E59DD6F3B requesting game...
+20-02-12 09:01:33 |X.Forc3|.Prueba captured the Blue Flag
+20-02-12 09:01:37 |X.Forc3|.Prueba captured the Blue Flag
+20-02-12 09:01:41 |X.Forc3|.Prueba captured the Blue Flag
+20-02-12 09:01:59 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:01:59 Next map: ctf_Viet
+20-02-12 09:02:04 Viet
+20-02-12 09:02:17 |X.Forc3|.Prueba has left alpha team.
+20-02-12 09:02:17 Server password changed to scl

@@ -1,0 +1,9 @@
+20-06-20 07:05:01    Kill Log Started
+--- 20-06-23 06:48:20
+-phobos
+-phobos
+M79
+--- 20-06-23 06:48:51
+-phobos
+-phobos
+LAW

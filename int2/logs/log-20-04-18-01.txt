@@ -1,0 +1,15 @@
+20-04-18 22:42:25    Log Started
+20-04-18 22:42:25 Opened /home/kader_b/Internacional 2/soldat.ini
+20-04-18 22:42:25 Creating network interface.
+20-04-18 22:42:25 Loading Animations.
+20-04-18 22:42:25 Loading Lobby Servers List
+20-04-18 22:42:25 Loading Maps List
+20-04-18 22:42:25 Loading Map.
+20-04-18 22:42:25 Creating Weapons.
+20-04-18 22:42:25 Starting Game Server.
+20-04-18 22:42:25 TCP/IP File Server started
+20-04-18 23:12:25 TCP/IP File Server started
+20-04-18 23:42:25 TCP/IP File Server started
+20-04-19 00:12:25 TCP/IP File Server started
+20-04-19 00:20:44 Destroying Devices.
+20-04-19 00:20:44    End of Log.

@@ -1,0 +1,11485 @@
+20-03-23 03:07:54    Kill Log Started
+--- 20-03-23 03:07:56
+S1 ~ Mand3s
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:07:57
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:08:04
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:08:07
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:08:07
+S1 ~ HartCheat]
+S2 ~ bio*
+Ak-74
+--- 20-03-23 03:08:10
+S1 ~ Mand3s
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:08:14
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:08:15
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:08:17
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:08:23
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:08:23
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:08:24
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:08:27
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:08:30
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:08:30
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:08:31
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-03-23 03:08:39
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:08:42
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:08:42
+S1 ~ HartCheat]
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:08:47
+S1 ~ Mand3s
+S2 ~ bio*
+USSOCOM
+--- 20-03-23 03:08:50
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:08:54
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:08:54
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:08:55
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:09:06
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:09:09
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:09:18
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:09:18
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-03-23 03:09:18
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:09:22
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:09:27
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:09:29
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:09:32
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:09:32
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:09:37
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Ak-74
+--- 20-03-23 03:09:38
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:09:39
+S1 ~ HartCheat]
+S2 ~ Opazo
+Ak-74
+--- 20-03-23 03:09:43
+S2 ~ bio*
+S1 ~ paint
+Combat Knife
+--- 20-03-23 03:09:44
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:09:47
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:09:48
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:09:52
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:09:54
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:09:55
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:09:58
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:10:01
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:10:03
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-03-23 03:10:09
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:10:12
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:10:13
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:10:17
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:10:19
+S1 ~ Mand3s
+S2 ~ bio*
+USSOCOM
+--- 20-03-23 03:10:20
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:10:23
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:10:24
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:10:26
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:10:28
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:10:31
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:10:32
+S1 ~ paint
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:10:34
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:10:38
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:10:38
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:10:43
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:10:45
+S2 ~ Opazo
+S2 ~ Opazo
+M79
+--- 20-03-23 03:10:48
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:10:48
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:10:52
+S1 ~ Mand3s
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:10:55
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-03-23 03:10:58
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:10:58
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:11:01
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:11:02
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:11:08
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:11:13
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:11:15
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-03-23 03:11:17
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:11:20
+S1 ~ paint
+S2 ~ bio*
+LAW
+--- 20-03-23 03:11:25
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:11:26
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:11:30
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:11:35
+S1 ~ Mand3s
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:11:37
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:11:38
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:11:39
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-03-23 03:11:40
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:11:43
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:11:48
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:11:53
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:11:54
+S1 ~ paint
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:11:58
+S1 ~ paint
+S1 ~ paint
+Grenade
+--- 20-03-23 03:12:01
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:12:05
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:12:05
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:12:11
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:12:14
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:12:15
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:12:15
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:12:17
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:12:21
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:12:21
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:12:22
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:12:29
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:12:29
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:12:29
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-03-23 03:12:33
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:12:34
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:12:35
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:12:39
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:12:46
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:12:49
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:12:50
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:12:54
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:12:55
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:12:57
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:13:00
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:13:05
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:13:07
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:13:09
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:13:10
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:13:11
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-03-23 03:13:16
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:13:21
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:13:29
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:13:29
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:13:30
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:13:36
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:13:36
+S2 ~ Opazo
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:13:43
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:13:46
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:13:49
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:13:49
+S1 ~ Mand3s
+S2 ~ Opazo
+USSOCOM
+--- 20-03-23 03:13:54
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:13:58
+S1 ~ Mand3s
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:14:01
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:14:02
+S1 ~ paint
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:14:05
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:14:14
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:14:14
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:14:18
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:14:21
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:14:26
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:14:33
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:14:35
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:14:36
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:14:40
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:14:42
+S1 ~ Mand3s
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:14:49
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:14:53
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:14:55
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:14:58
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:15:00
+S2 ~ Opazo
+S2 ~ Opazo
+M79
+--- 20-03-23 03:15:04
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:15:13
+S1 ~ Mand3s
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:15:16
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:15:16
+S1 ~ HartCheat]
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:15:17
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:15:21
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:15:26
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:15:28
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:15:30
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:15:32
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:15:33
+S1 ~ paint
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:15:34
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+USSOCOM
+--- 20-03-23 03:15:41
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:15:42
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:15:42
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:15:46
+S1 ~ HartCheat]
+S2 ~ Opazo
+Ruger 77
+--- 20-03-23 03:15:53
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:15:57
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:16:03
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:16:08
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:16:11
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+USSOCOM
+--- 20-03-23 03:16:16
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:16:19
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:16:20
+S1 ~ Mand3s
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:16:24
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+USSOCOM
+--- 20-03-23 03:16:25
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:16:41
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:16:53
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:16:56
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:17:00
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:17:04
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:17:07
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:17:09
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:17:12
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:17:13
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:17:16
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:17:19
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:17:21
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:17:27
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:17:29
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-03-23 03:17:29
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:17:31
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:17:37
+S1 ~ paint
+S1 ~ paint
+LAW
+--- 20-03-23 03:17:37
+S1 ~ paint
+S2 ~ bio*
+LAW
+--- 20-03-23 03:17:37
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:17:45
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:17:51
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:17:57
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:18:02
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:18:07
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:18:07
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:18:14
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:18:16
+S2 ~ Opazo
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:18:18
+S1 ~ Mand3s
+S2 ~ bio*
+Ruger 77
+--- 20-03-23 03:18:20
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:18:20
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:18:22
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:18:29
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:18:41
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:18:42
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:18:43
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:18:46
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:18:51
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:18:56
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:18:56
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:18:57
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:19:03
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:19:03
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:19:10
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:19:15
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:19:16
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:19:20
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:19:21
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:19:23
+S2 ~ Opazo
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:19:26
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:19:27
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:19:34
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:19:40
+S1 ~ Mand3s
+S2 ~ bio*
+LAW
+--- 20-03-23 03:19:40
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:19:42
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:19:43
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:19:46
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:19:47
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:19:53
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:19:56
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:19:56
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:19:57
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:19:58
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:20:01
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:20:04
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:20:04
+S2 ~ bio*
+S1 ~ paint
+Combat Knife
+--- 20-03-23 03:20:07
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:20:11
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:20:12
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:20:13
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:20:17
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:20:20
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:20:21
+S2 ~ bio*
+S2 ~ bio*
+Selfkill
+--- 20-03-23 03:20:31
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:20:37
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:20:41
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:20:43
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:20:44
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:20:50
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:20:50
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:20:53
+S2 ~ Opazo
+S2 ~ Opazo
+M79
+--- 20-03-23 03:20:53
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:20:54
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:20:58
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:21:02
+S1 ~ Mand3s
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:21:02
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:21:07
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:21:11
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:21:16
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:21:20
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:21:21
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:21:28
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:21:31
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:21:32
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:21:33
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:21:37
+S2 ~ bio*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:21:40
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:21:48
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:21:49
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:21:54
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:21:54
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:21:57
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:22:02
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:22:04
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:22:04
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:22:11
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:22:17
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:22:17
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:22:19
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:22:23
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:22:29
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:22:32
+S1 ~ paint
+S2 ~ bio*
+Hands
+--- 20-03-23 03:22:33
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:22:33
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:22:36
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:22:42
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:22:46
+S2 ~ bio*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:22:52
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:22:52
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:22:57
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:23:03
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:23:03
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:23:03
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:23:03
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:23:09
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:23:10
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:23:13
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:23:14
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:23:15
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:23:18
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:23:21
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:23:23
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:23:24
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:23:26
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:23:26
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:23:31
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:23:34
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:23:34
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:23:39
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:23:43
+S2 ~ Opazo
+S2 ~ Opazo
+M79
+--- 20-03-23 03:23:43
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:23:45
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:23:51
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:23:53
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:23:57
+S2 ~ bio*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:23:57
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:23:59
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:23:59
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:24:05
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:24:10
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:24:13
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:24:15
+S1 ~ Mand3s
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:24:16
+S2 ~ Opazo
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:24:16
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:24:23
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:24:23
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:24:24
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:24:29
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:24:32
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:24:32
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:24:36
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:24:43
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:24:44
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:24:54
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:24:57
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:24:57
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:25:58
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:26:01
+S2 ~ bio*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:26:02
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:26:05
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:26:10
+S1 ~ Mand3s
+S2 ~ bio*
+LAW
+--- 20-03-23 03:26:10
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:26:10
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:26:14
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:26:18
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:26:19
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:26:19
+S1 ~ HartCheat]
+S2 ~ Opazo
+Hands
+--- 20-03-23 03:26:21
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:26:28
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:26:32
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:26:34
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:26:37
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:26:37
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:26:41
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:26:42
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:26:45
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:26:48
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:26:49
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:26:51
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:26:57
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:26:59
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:27:03
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:27:05
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:27:07
+S2 ~ Opazo
+S2 ~ Opazo
+M79
+--- 20-03-23 03:27:08
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:27:13
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:27:14
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:27:18
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:27:19
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:27:19
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:27:30
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:27:33
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:27:33
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:27:35
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:27:35
+S1 ~ Mand3s
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:27:42
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:27:43
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:27:49
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:27:50
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:27:53
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:27:55
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:27:59
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:28:00
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:28:01
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:28:01
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:28:06
+S2 ~ DeFkOndOz*
+S1 ~ paint
+FN Minimi
+--- 20-03-23 03:28:11
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:28:13
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:28:14
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:28:15
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:28:19
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+FN Minimi
+--- 20-03-23 03:28:24
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:28:24
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:28:28
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:28:28
+S2 ~ bio*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:28:31
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:28:37
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+FN Minimi
+--- 20-03-23 03:28:39
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:28:43
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:28:44
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:28:46
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:28:46
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:28:53
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:28:54
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:28:57
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:28:58
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:28:58
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:29:04
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:29:06
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Combat Knife
+--- 20-03-23 03:29:08
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:29:08
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:29:12
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-03-23 03:29:13
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:29:18
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:29:21
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:29:26
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:29:30
+S1 ~ Mand3s
+S2 ~ bio*
+Desert Eagles
+--- 20-03-23 03:29:33
+S1 ~ Mand3s
+S2 ~ Opazo
+Desert Eagles
+--- 20-03-23 03:29:58
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Hands
+--- 20-03-23 03:30:01
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:30:05
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:30:11
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:30:12
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:30:13
+S2 ~ Opazo
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:30:26
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:30:28
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:30:39
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:30:40
+S1 ~ Mand3s
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:30:42
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:30:42
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:30:42
+S1 ~ Mand3s
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:30:48
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:30:49
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:30:55
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:30:56
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:31:00
+S1 ~ HartCheat]
+S2 ~ Opazo
+Steyr AUG
+--- 20-03-23 03:31:03
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:31:11
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:31:16
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:31:18
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:31:25
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:31:27
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:31:27
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:31:33
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:31:38
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:31:39
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:31:47
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:31:53
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:32:02
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:32:03
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:32:03
+S1 ~ Mand3s
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:32:04
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:32:07
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:32:10
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:32:12
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:32:12
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:32:17
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:32:21
+S1 ~ Mand3s
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:32:22
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:32:27
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:32:29
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:32:30
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:32:32
+S2 ~ Opazo
+S1 ~ HartCheat]
+M79
+--- 20-03-23 03:32:32
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:32:39
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:32:41
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:32:44
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:32:46
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:32:52
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:32:54
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:32:54
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:32:54
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:33:05
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:33:06
+S1 ~ Mand3s
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:33:06
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:33:10
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:33:14
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:33:15
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:33:17
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:33:20
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:33:23
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:33:25
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:33:30
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:33:32
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:33:34
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:33:43
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:33:44
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:33:54
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:33:56
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:34:00
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:34:02
+S1 ~ Mand3s
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:34:07
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:34:09
+S1 ~ paint
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:34:13
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:34:19
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:34:19
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:34:23
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:34:25
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:34:29
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:34:34
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:34:34
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+USSOCOM
+--- 20-03-23 03:34:41
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:34:42
+S1 ~ Mand3s
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:34:49
+S1 ~ Mand3s
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:34:49
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:34:54
+S2 ~ bio*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:34:57
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:35:07
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:35:07
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:35:15
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:35:21
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:35:23
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:35:23
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:35:29
+S2 ~ Opazo
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:35:32
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:35:33
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:35:37
+S1 ~ Mand3s
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:35:39
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:35:40
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Hands
+--- 20-03-23 03:35:44
+S2 ~ Opazo
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:35:53
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:35:53
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:35:55
+S2 ~ Opazo
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:36:00
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:36:04
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:36:05
+S2 ~ Opazo
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:36:05
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:36:09
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:36:12
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:36:15
+S2 ~ bio*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:36:19
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:36:21
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:36:22
+S2 ~ Opazo
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:36:26
+S1 ~ Mand3s
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:36:27
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:36:29
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:36:29
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:36:35
+S1 ~ paint
+S2 ~ bio*
+LAW
+--- 20-03-23 03:36:37
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:36:40
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:36:41
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:36:47
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:36:48
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:36:49
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:36:49
+S1 ~ paint
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:36:52
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:36:55
+S1 ~ Mand3s
+S2 ~ bio*
+LAW
+--- 20-03-23 03:36:57
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:37:02
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:37:04
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:37:08
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:37:09
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:37:11
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:37:11
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:37:15
+S1 ~ HartCheat]
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:37:18
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:37:21
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:37:24
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:37:27
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:37:30
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:37:33
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:37:33
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:37:34
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:37:40
+S1 ~ HartCheat]
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:37:43
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:37:44
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:37:44
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:37:49
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:37:49
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:37:55
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:37:56
+S1 ~ Mand3s
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:38:00
+S1 ~ Mand3s
+S2 ~ Opazo
+M79
+--- 20-03-23 03:38:00
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:38:03
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:38:03
+S1 ~ HartCheat]
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:38:09
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:38:09
+S2 ~ Opazo
+S1 ~ paint
+Grenade
+--- 20-03-23 03:38:15
+S1 ~ HartCheat]
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:38:16
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:38:18
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:38:22
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:38:24
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:38:26
+S1 ~ Mand3s
+S2 ~ bio*
+M79
+--- 20-03-23 03:38:30
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:38:40
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:38:40
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:38:40
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:38:46
+S1 ~ paint
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:38:48
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:38:52
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:38:54
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:38:54
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:38:56
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:39:02
+S1 ~ Mand3s
+S2 ~ bio*
+M79
+--- 20-03-23 03:39:04
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:39:05
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:39:07
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:39:14
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:39:16
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:39:16
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:39:21
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:39:22
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:39:25
+S1 ~ HartCheat]
+S2 ~ Opazo
+Combat Knife
+--- 20-03-23 03:39:25
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:39:29
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:39:32
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:39:33
+S1 ~ Mand3s
+S2 ~ bio*
+M79
+--- 20-03-23 03:39:39
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:39:43
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:39:47
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:39:56
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:39:56
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:40:01
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:40:02
+S2 ~ Opazo
+S1 ~ HartCheat]
+Hands
+--- 20-03-23 03:40:02
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:40:03
+S1 ~ Mand3s
+S2 ~ Opazo
+M79
+--- 20-03-23 03:40:06
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-03-23 03:40:07
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:40:16
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:40:16
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:40:19
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:40:24
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:40:24
+S1 ~ paint
+S2 ~ Opazo
+LAW
+--- 20-03-23 03:40:26
+S2 ~ bio*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:40:33
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:40:47
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:40:51
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:41:01
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:41:06
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:41:11
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:41:18
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:41:19
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:41:24
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:41:25
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:41:28
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:41:31
+S2 ~ bio*
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:41:39
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:41:39
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:41:47
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:41:47
+S2 ~ bio*
+S1 ~ HartCheat]
+Combat Knife
+--- 20-03-23 03:41:58
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:41:58
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:41:58
+S2 ~ bio*
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:42:03
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:42:08
+S1 ~ paint
+S1 ~ paint
+LAW
+--- 20-03-23 03:42:12
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:42:13
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:42:13
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+USSOCOM
+--- 20-03-23 03:42:16
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:42:21
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:42:26
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:42:26
+S1 ~ Mand3s
+S2 ~ Opazo
+Spas-12
+--- 20-03-23 03:42:30
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:42:34
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:42:40
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:42:44
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:42:44
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:42:51
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:42:52
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:42:55
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:42:56
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:43:03
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:43:05
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:43:09
+S2 ~ Opazo
+S1 ~ paint
+M79
+--- 20-03-23 03:43:11
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:43:12
+S2 ~ Opazo
+S1 ~ Mand3s
+M79
+--- 20-03-23 03:43:17
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:43:18
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:43:27
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:43:29
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:43:35
+S1 ~ paint
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:43:36
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:43:38
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:43:42
+S1 ~ paint
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:43:49
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:43:50
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:43:53
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:44:00
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:44:00
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:44:08
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:44:10
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:44:12
+S1 ~ paint
+S2 ~ Opazo
+Spas-12
+--- 20-03-23 03:44:20
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:44:21
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:44:21
+S1 ~ paint
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:44:23
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:44:27
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:44:32
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:44:39
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:44:41
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:44:43
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:44:46
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:44:48
+S1 ~ HartCheat]
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:44:53
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:44:57
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:44:57
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:45:00
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:45:09
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-03-23 03:45:13
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:45:13
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:45:15
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:45:18
+S1 ~ paint
+S2 ~ DeFkOndOz*
+LAW
+--- 20-03-23 03:45:21
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:45:25
+S1 ~ Mand3s
+S2 ~ Opazo
+Spas-12
+--- 20-03-23 03:45:25
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:45:31
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:45:31
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:45:37
+S1 ~ paint
+S1 ~ paint
+Grenade
+--- 20-03-23 03:45:37
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:45:47
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:45:51
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:45:52
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:45:52
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:45:58
+S1 ~ Mand3s
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:45:59
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:46:00
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:46:01
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:46:06
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:46:06
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:46:10
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:46:11
+S1 ~ HartCheat]
+S2 ~ bio*
+Barrett M82A1
+--- 20-03-23 03:46:16
+S1 ~ HartCheat]
+S2 ~ Opazo
+Barrett M82A1
+--- 20-03-23 03:46:18
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:46:21
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:46:22
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+USSOCOM
+--- 20-03-23 03:46:26
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:46:28
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Barrett M82A1
+--- 20-03-23 03:46:28
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:46:30
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:46:34
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:46:35
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:46:40
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:46:45
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:46:45
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:46:45
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:46:46
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:46:51
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:46:55
+S2 ~ DeFkOndOz*
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:46:57
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:47:04
+S1 ~ Mand3s
+S2 ~ Opazo
+Spas-12
+--- 20-03-23 03:47:04
+S1 ~ paint
+S2 ~ bio*
+LAW
+--- 20-03-23 03:47:04
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:47:11
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:47:15
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:47:18
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:47:23
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:47:24
+S2 ~ bio*
+S1 ~ paint
+Combat Knife
+--- 20-03-23 03:47:27
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:47:31
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:47:32
+S2 ~ Opazo
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:47:33
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:47:36
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:47:37
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:47:39
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:47:40
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:47:44
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:47:45
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:47:56
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:47:58
+S1 ~ Mand3s
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:48:00
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+Barrett M82A1
+--- 20-03-23 03:48:05
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:48:07
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:48:12
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:48:13
+S2 ~ bio*
+S1 ~ Mand3s
+Combat Knife
+--- 20-03-23 03:48:18
+S1 ~ Mand3s
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:48:19
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:48:24
+S2 ~ Opazo
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:48:26
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:48:33
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:48:37
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:48:37
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:48:42
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:48:45
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:48:50
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:48:50
+S1 ~ Mand3s
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:48:51
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+M79
+--- 20-03-23 03:48:54
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:48:55
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:49:02
+S2 ~ bio*
+S1 ~ Mand3s
+Steyr AUG
+--- 20-03-23 03:49:05
+S1 ~ paint
+S2 ~ bio*
+HK MP5
+--- 20-03-23 03:49:05
+S1 ~ paint
+S2 ~ Opazo
+HK MP5
+--- 20-03-23 03:49:07
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:49:15
+S2 ~ Opazo
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:49:19
+S2 ~ Opazo
+S1 ~ Mand3s
+Grenade
+--- 20-03-23 03:49:21
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:49:22
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:49:25
+S2 ~ DeFkOndOz*
+S1 ~ HartCheat]
+USSOCOM
+--- 20-03-23 03:49:34
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:49:37
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:49:40
+S2 ~ DeFkOndOz*
+S1 ~ paint
+Barrett M82A1
+--- 20-03-23 03:49:40
+S1 ~ paint
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-03-23 03:49:43
+S1 ~ HartCheat]
+S2 ~ bio*
+M79
+--- 20-03-23 03:49:51
+S1 ~ HartCheat]
+S2 ~ Opazo
+M79
+--- 20-03-23 03:49:53
+S2 ~ bio*
+S1 ~ paint
+Steyr AUG
+--- 20-03-23 03:49:54
+S1 ~ Mand3s
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:49:58
+S2 ~ bio*
+S1 ~ HartCheat]
+Steyr AUG
+--- 20-03-23 03:50:02
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:50:03
+S1 ~ HartCheat]
+S2 ~ bio*
+Combat Knife
+--- 20-03-23 03:50:07
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:50:10
+S1 ~ Mand3s
+S2 ~ Opazo
+Spas-12
+--- 20-03-23 03:50:13
+S1 ~ paint
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-03-23 03:50:16
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 03:50:16
+S1 ~ HartCheat]
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:50:21
+S2 ~ DeFkOndOz*
+S1 ~ paint
+USSOCOM
+--- 20-03-23 03:50:22
+S2 ~ Opazo
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:50:22
+S2 ~ Opazo
+S1 ~ HartCheat]
+Grenade
+--- 20-03-23 03:50:29
+S1 ~ HartCheat]
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-03-23 03:50:29
+S2 ~ bio*
+S1 ~ paint
+Grenade
+--- 20-03-23 03:50:30
+S1 ~ HartCheat]
+S2 ~ bio*
+Spas-12
+--- 20-03-23 03:50:34
+S2 ~ Opazo
+S2 ~ Opazo
+Grenade
+--- 20-03-23 03:50:41
+S1 ~ HartCheat]
+S2 ~ bio*
+Grenade
+--- 20-03-23 15:55:27
+Thokrates
+.:{MIS}:.Fren
+USSOCOM
+--- 20-03-23 15:55:37
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-23 15:55:44
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-23 15:56:31
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 15:56:44
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 15:57:33
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 15:57:39
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+USSOCOM
+--- 20-03-23 15:57:42
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 15:57:43
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 15:57:52
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-23 15:58:00
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+M79
+--- 20-03-23 15:58:02
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 15:58:06
+.:{MIS}:. LechecL
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 15:58:13
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 15:58:17
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 15:58:22
+.:{MIS}:. RankoR.cl
+Thokrates
+M79
+--- 20-03-23 15:58:36
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-23 15:58:37
+.:{MIS}:. RankoR.cl
+Thokrates
+USSOCOM
+--- 20-03-23 15:58:37
+Thokrates
+.:{MIS}:. RankoR.cl
+USSOCOM
+--- 20-03-23 15:58:55
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+M79
+--- 20-03-23 15:58:55
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 15:59:05
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 15:59:24
+.:{MIS}:. RankoR.cl
+Thokrates
+USSOCOM
+--- 20-03-23 15:59:27
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-23 15:59:50
+Thokrates
+.:{MIS}:. RankoR.cl
+USSOCOM
+--- 20-03-23 16:00:16
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-23 16:00:24
+.:{MIS}:. RankoR.cl
+Thokrates
+USSOCOM
+--- 20-03-23 16:00:30
+Thokrates
+Thokrates
+Grenade
+--- 20-03-23 16:00:36
+Thokrates
+.:{MIS}:. RankoR.cl
+USSOCOM
+--- 20-03-23 16:00:48
+Thokrates
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-23 16:01:01
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+M79
+--- 20-03-23 16:01:10
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-23 16:01:35
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:01:42
+Thokrates
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 16:01:47
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 16:02:01
+.:{MIS}:. RankoR.cl
+Thokrates
+M79
+--- 20-03-23 16:02:07
+.:{MIS}:. RankoR.cl
+Thokrates
+M79
+--- 20-03-23 16:02:14
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 16:02:28
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 16:02:36
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 16:02:48
+.:{MIS}:. LechecL
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 16:03:00
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 16:03:28
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-23 16:03:39
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 16:03:49
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 16:04:14
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 16:04:17
+Thokrates
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-23 16:04:34
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Spas-12
+--- 20-03-23 16:04:40
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 16:05:01
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+M79
+--- 20-03-23 16:05:10
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 16:05:14
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-23 16:05:27
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 16:05:32
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 16:05:32
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:05:45
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 16:06:01
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:06:05
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 16:06:08
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:06:19
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+LAW
+--- 20-03-23 16:06:35
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:06:44
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:06:55
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:07:06
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-23 16:08:03
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-23 16:08:21
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:08:59
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:09:05
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:09:38
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-23 16:09:44
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:09:55
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-23 16:10:04
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:10:13
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:10:17
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:10:22
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:10:30
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:11:38
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:11:50
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:11:57
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 16:12:03
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Spas-12
+--- 20-03-23 16:12:23
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Spas-12
+--- 20-03-23 16:12:28
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:12:54
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:13:02
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:13:30
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:13:45
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-23 16:13:54
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:14:10
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:14:37
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:14:47
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-23 16:14:56
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:15:03
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-23 16:15:23
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:15:57
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:16:10
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-23 16:16:16
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:16:27
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-23 16:16:36
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:16:45
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-23 16:16:55
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 16:17:09
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-23 21:37:47
+Donwea
+Covid-14
+Combat Knife
+--- 20-03-23 21:38:27
+Donwea
+Covid-14
+Combat Knife
+--- 20-03-23 21:39:25
+Jot4p3
+Covid-14
+USSOCOM
+--- 20-03-23 21:39:33
+Donwea
+Covid-14
+Hands
+--- 20-03-23 21:40:03
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:40:23
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:40:30
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:40:34
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:40:40
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:41:00
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:41:05
+Donwea
+Covid-14
+Hands
+--- 20-03-23 21:41:15
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:41:27
+Jot4p3
+Donwea
+LAW
+--- 20-03-23 21:41:35
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:41:56
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:42:02
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 21:42:13
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:42:58
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:43:23
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:43:35
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:43:43
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 21:43:47
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:43:52
+Covid-14
+Donwea
+M79
+--- 20-03-23 21:44:10
+Jot4p3
+Donwea
+LAW
+--- 20-03-23 21:44:24
+Donwea
+Covid-14
+Combat Knife
+--- 20-03-23 21:44:42
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 21:44:42
+Covid-14
+Donwea
+M79
+--- 20-03-23 21:44:55
+Jot4p3
+Donwea
+LAW
+--- 20-03-23 21:45:02
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:45:11
+Covid-14
+Covid-14
+Grenade
+--- 20-03-23 21:45:11
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:45:19
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:45:24
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:45:30
+Covid-14
+Donwea
+M79
+--- 20-03-23 21:45:40
+Donwea
+Jot4p3
+Combat Knife
+--- 20-03-23 21:45:44
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:45:49
+Covid-14
+Covid-14
+Grenade
+--- 20-03-23 21:46:01
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:46:10
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:46:30
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:46:35
+Donwea
+Covid-14
+Combat Knife
+--- 20-03-23 21:46:46
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:46:54
+Covid-14
+Donwea
+M79
+--- 20-03-23 21:47:13
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:47:16
+Donwea
+Covid-14
+Grenade
+--- 20-03-23 21:47:23
+Jot4p3
+Donwea
+Grenade
+--- 20-03-23 21:47:34
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:48:03
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:48:22
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:48:27
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:48:34
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:48:38
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:48:44
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 21:48:48
+Donwea
+Covid-14
+Combat Knife
+--- 20-03-23 21:48:54
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:48:55
+Covid-14
+Donwea
+M79
+--- 20-03-23 21:49:10
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:49:14
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:49:26
+WarZ Alma Oscura
+Jot4p3
+M79
+--- 20-03-23 21:49:34
+WarZ Alma Oscura
+WarZ Alma Oscura
+Grenade
+--- 20-03-23 21:49:50
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:49:52
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:49:55
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:49:58
+WarZ Alma Oscura
+WarZ Alma Oscura
+LAW
+--- 20-03-23 21:49:58
+WarZ Alma Oscura
+Jot4p3
+LAW
+--- 20-03-23 21:50:03
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:50:08
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:50:25
+Covid-14
+Donwea
+Barrett M82A1
+--- 20-03-23 21:50:26
+WarZ Alma Oscura
+Jot4p3
+M79
+--- 20-03-23 21:50:37
+Donwea
+Donwea
+Grenade
+--- 20-03-23 21:50:38
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:50:42
+Jot4p3
+Donwea
+M79
+--- 20-03-23 21:50:46
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:51:06
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:51:06
+WarZ Alma Oscura
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:51:21
+Covid-14
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:51:26
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:51:34
+WarZ Alma Oscura
+Jot4p3
+Grenade
+--- 20-03-23 21:51:37
+WarZ Alma Oscura
+WarZ Alma Oscura
+Grenade
+--- 20-03-23 21:51:44
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:51:47
+.:{MIS}:. LechecL
+Covid-14
+Grenade
+--- 20-03-23 21:51:50
+.:{MIS}:. LechecL
+Jot4p3
+Grenade
+--- 20-03-23 21:51:52
+Donwea
+Covid-14
+M79
+--- 20-03-23 21:51:54
+WarZ Alma Oscura
+Jot4p3
+Grenade
+--- 20-03-23 21:51:57
+Covid-14
+WarZ Alma Oscura
+Grenade
+--- 20-03-23 21:52:04
+Thokrates
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:52:06
+Covid-14
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:52:09
+Covid-14
+Donwea
+Grenade
+--- 20-03-23 21:52:12
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:52:15
+Jot4p3
+Jot4p3
+Grenade
+--- 20-03-23 21:52:36
+.:{MIS}:. LechecL
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:52:44
+Donwea
+Jot4p3
+Desert Eagles
+--- 20-03-23 21:52:48
+Covid-14
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:52:50
+Thokrates
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:52:53
+Thokrates
+Thokrates
+Grenade
+--- 20-03-23 21:52:58
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:53:01
+Thokrates
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:53:03
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:53:08
+Donwea
+Donwea
+M79
+--- 20-03-23 21:53:15
+Covid-14
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-23 21:53:31
+Donwea
+Jot4p3
+Desert Eagles
+--- 20-03-23 21:53:37
+WarZ Alma Oscura
+Covid-14
+M79
+--- 20-03-23 21:53:39
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 21:53:42
+.:{MIS}:. LechecL
+Thokrates
+M79
+--- 20-03-23 21:53:45
+Covid-14
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:53:49
+Covid-14
+Donwea
+Barrett M82A1
+--- 20-03-23 21:53:49
+Donwea
+Covid-14
+Barrett M82A1
+--- 20-03-23 21:53:52
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:53:58
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 21:54:08
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:54:13
+UnForGiveN*
+.:{MIS}:. LechecL
+Combat Knife
+--- 20-03-23 21:54:15
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:54:26
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:54:33
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:54:36
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:54:39
+.:{MIS}:. LechecL
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:54:41
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:54:43
+UnForGiveN*
+WarZ Alma Oscura
+Grenade
+--- 20-03-23 21:54:47
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:54:54
+Thokrates
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:54:56
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:55:00
+WarZ Alma Oscura
+Thokrates
+LAW
+--- 20-03-23 21:55:06
+WarZ Alma Oscura
+Jot4p3
+M79
+--- 20-03-23 21:55:09
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:55:10
+WarZ Alma Oscura
+Thokrates
+Grenade
+--- 20-03-23 21:55:22
+WarZ Alma Oscura
+UnForGiveN*
+M79
+--- 20-03-23 21:55:22
+Jot4p3
+Jot4p3
+LAW
+--- 20-03-23 21:55:26
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:55:29
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:55:31
+Thokrates
+Donwea
+Combat Knife
+--- 20-03-23 21:55:36
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:55:44
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:55:45
+Donwea
+UnForGiveN*
+Grenade
+--- 20-03-23 21:55:47
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:55:53
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 21:55:59
+WarZ Alma Oscura
+UnForGiveN*
+M79
+--- 20-03-23 21:56:03
+.:{MIS}:. LechecL
+Thokrates
+USSOCOM
+--- 20-03-23 21:56:09
+Donwea
+UnForGiveN*
+Combat Knife
+--- 20-03-23 21:56:13
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 21:56:17
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:56:22
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:56:27
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:56:32
+WarZ Alma Oscura
+UnForGiveN*
+M79
+--- 20-03-23 21:56:32
+UnForGiveN*
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:56:36
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 21:56:45
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:56:49
+Donwea
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 21:56:53
+Donwea
+Jot4p3
+Desert Eagles
+--- 20-03-23 21:56:58
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:57:00
+Thokrates
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:57:02
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:57:03
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:57:09
+Donwea
+Thokrates
+Combat Knife
+--- 20-03-23 21:57:13
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-23 21:57:14
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:57:22
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 21:57:38
+WarZ Alma Oscura
+UnForGiveN*
+M79
+--- 20-03-23 21:57:44
+WarZ Alma Oscura
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:57:44
+WarZ Alma Oscura
+Jot4p3
+M79
+--- 20-03-23 21:57:48
+.:{MIS}:. LechecL
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:57:54
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 21:57:59
+UnForGiveN*
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:58:03
+UnForGiveN*
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:58:10
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:58:14
+Thokrates
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:58:18
+UnForGiveN*
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:58:27
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:58:28
+WarZ Alma Oscura
+Jot4p3
+LAW
+--- 20-03-23 21:58:31
+Thokrates
+WarZ Alma Oscura
+Barrett M82A1
+--- 20-03-23 21:58:34
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 21:58:36
+.:{MIS}:. LechecL
+UnForGiveN*
+Spas-12
+--- 20-03-23 21:58:37
+UnForGiveN*
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:58:43
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:58:46
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:58:47
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:58:51
+UnForGiveN*
+Donwea
+USSOCOM
+--- 20-03-23 21:58:55
+WarZ Alma Oscura
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:58:56
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 21:59:00
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:59:06
+UnForGiveN*
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 21:59:16
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 21:59:18
+WarZ Alma Oscura
+Thokrates
+Barrett M82A1
+--- 20-03-23 21:59:21
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 21:59:23
+WarZ Alma Oscura
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 21:59:24
+Jot4p3
+WarZ Alma Oscura
+M79
+--- 20-03-23 21:59:29
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 21:59:32
+Thokrates
+WarZ Alma Oscura
+Grenade
+--- 20-03-23 21:59:35
+UnForGiveN*
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-23 21:59:37
+WarZ Alma Oscura
+Thokrates
+Grenade
+--- 20-03-23 21:59:59
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 22:00:02
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:00:05
+Thokrates
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 22:00:06
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:00:14
+Donwea
+UnForGiveN*
+Grenade
+--- 20-03-23 22:00:19
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:00:24
+Jot4p3
+Donwea
+Steyr AUG
+--- 20-03-23 22:00:25
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 22:00:25
+.:{MIS}:. LechecL
+UnForGiveN*
+Grenade
+--- 20-03-23 22:00:26
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:00:27
+Thokrates
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 22:00:38
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:00:45
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:00:54
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:00:56
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:01:00
+.:{MIS}:. LechecL
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:01:01
+Thokrates
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 22:01:04
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:01:18
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:01:28
+.:{MIS}:. LechecL
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:01:31
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:01:31
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:01:43
+.:{MIS}:. LechecL
+Thokrates
+USSOCOM
+--- 20-03-23 22:01:55
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:01:57
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:02:05
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-23 22:02:05
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:02:06
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 22:02:13
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:02:16
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:02:19
+.:{MIS}:. LechecL
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:02:34
+.:{MIS}:. LechecL
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:02:38
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:02:51
+Thokrates
+sK!T.RomanoV
+Barrett M82A1
+--- 20-03-23 22:02:56
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:02:57
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:02:59
+UnForGiveN*
+sK!T.RomanoV
+Barrett M82A1
+--- 20-03-23 22:03:04
+UnForGiveN*
+sK!T.RomanoV
+Barrett M82A1
+--- 20-03-23 22:03:10
+Thokrates
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:03:29
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:03:31
+Thokrates
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 22:03:40
+Jot4p3
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:03:40
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:03:45
+UnForGiveN*
+sK!T.RomanoV
+Barrett M82A1
+--- 20-03-23 22:03:46
+Jot4p3
+Donwea
+Grenade
+--- 20-03-23 22:03:48
+Jot4p3
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 22:03:54
+UnForGiveN*
+Donwea
+Barrett M82A1
+--- 20-03-23 22:04:00
+Jot4p3
+sK!T.RomanoV
+Steyr AUG
+--- 20-03-23 22:04:05
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:04:15
+Thokrates
+Donwea
+USSOCOM
+--- 20-03-23 22:04:19
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:04:22
+sK!T.RomanoV
+Jot4p3
+Grenade
+--- 20-03-23 22:04:29
+Thokrates
+sK!T.RomanoV
+USSOCOM
+--- 20-03-23 22:04:30
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:04:35
+Jot4p3
+Donwea
+Steyr AUG
+--- 20-03-23 22:04:38
+UnForGiveN*
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-23 22:04:40
+Jot4p3
+sK!T.RomanoV
+Steyr AUG
+--- 20-03-23 22:04:46
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:04:47
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:04:54
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:04:55
+sK!T.RomanoV
+Thokrates
+Spas-12
+--- 20-03-23 22:05:04
+Jot4p3
+Donwea
+Steyr AUG
+--- 20-03-23 22:05:05
+Jot4p3
+sK!T.RomanoV
+Steyr AUG
+--- 20-03-23 22:05:07
+Thokrates
+.:{MIS}:. LechecL
+Chainsaw
+--- 20-03-23 22:05:12
+Thokrates
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 22:05:14
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:05:14
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:05:18
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:05:19
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:05:25
+sK!T.RomanoV
+Thokrates
+Grenade
+--- 20-03-23 22:05:26
+.:{MIS}:. LechecL
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:05:30
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:05:33
+.:{MIS}:. LechecL
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 22:05:33
+.:{MIS}:. LechecL
+Jot4p3
+LAW
+--- 20-03-23 22:05:42
+.:{MIS}:. LechecL
+Thokrates
+Desert Eagles
+--- 20-03-23 22:05:46
+Jot4p3
+sK!T.RomanoV
+Steyr AUG
+--- 20-03-23 22:05:47
+.:{MIS}:. LechecL
+UnForGiveN*
+LAW
+--- 20-03-23 22:05:48
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:05:55
+.:{MIS}:. LechecL
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:05:55
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:05:57
+.:{MIS}:. LechecL
+Jot4p3
+Grenade
+--- 20-03-23 22:06:04
+.:{MIS}:. LechecL
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:06:11
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:06:14
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:06:18
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:06:26
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:06:26
+UnForGiveN*
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:06:34
+Donwea
+UnForGiveN*
+Grenade
+--- 20-03-23 22:06:40
+Donwea
+UnForGiveN*
+HK MP5
+--- 20-03-23 22:06:42
+.:{MIS}:. LechecL
+Thokrates
+Desert Eagles
+--- 20-03-23 22:06:50
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:06:58
+Thokrates
+sK!T.RomanoV
+M79
+--- 20-03-23 22:06:59
+.:{MIS}:. LechecL
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:07:00
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:07:04
+UnForGiveN*
+.:{MIS}:. LechecL
+HK MP5
+--- 20-03-23 22:07:08
+sK!T.RomanoV
+Jot4p3
+Grenade
+--- 20-03-23 22:07:09
+Donwea
+UnForGiveN*
+Combat Knife
+--- 20-03-23 22:07:12
+Thokrates
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:07:13
+Jot4p3
+Donwea
+Steyr AUG
+--- 20-03-23 22:07:19
+.:{MIS}:. LechecL
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:07:22
+Thokrates
+sK!T.RomanoV
+M79
+--- 20-03-23 22:07:25
+UnForGiveN*
+.:{MIS}:. LechecL
+HK MP5
+--- 20-03-23 22:07:26
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:07:32
+sK!T.RomanoV
+Thokrates
+Grenade
+--- 20-03-23 22:07:36
+.:{MIS}:. LechecL
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:07:39
+sK!T.RomanoV
+Jot4p3
+Steyr AUG
+--- 20-03-23 22:07:41
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:07:46
+UnForGiveN*
+Donwea
+HK MP5
+--- 20-03-23 22:07:48
+Thokrates
+sK!T.RomanoV
+M79
+--- 20-03-23 22:07:49
+UnForGiveN*
+.:{MIS}:. LechecL
+HK MP5
+--- 20-03-23 22:07:53
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:07:57
+sK!T.RomanoV
+Thokrates
+Ak-74
+--- 20-03-23 22:08:05
+Donwea
+UnForGiveN*
+Grenade
+--- 20-03-23 22:08:15
+Jot4p3
+sK!T.RomanoV
+Steyr AUG
+--- 20-03-23 22:08:15
+sK!T.RomanoV
+Jot4p3
+Ak-74
+--- 20-03-23 22:08:16
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:08:22
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:08:22
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:08:24
+.:{MIS}:. LechecL
+Jot4p3
+Grenade
+--- 20-03-23 22:08:28
+sK!T.RomanoV
+UnForGiveN*
+Grenade
+--- 20-03-23 22:08:32
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:08:39
+sK!T.RomanoV
+UnForGiveN*
+Ak-74
+--- 20-03-23 22:08:46
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:08:48
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:08:54
+.:{MIS}:. LechecL
+Jot4p3
+LAW
+--- 20-03-23 22:08:56
+sK!T.RomanoV
+UnForGiveN*
+Grenade
+--- 20-03-23 22:08:59
+Thokrates
+sK!T.RomanoV
+M79
+--- 20-03-23 22:09:03
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:09:11
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:09:17
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:09:22
+sK!T.RomanoV
+Jot4p3
+USSOCOM
+--- 20-03-23 22:09:28
+sK!T.RomanoV
+Jot4p3
+USSOCOM
+--- 20-03-23 22:09:28
+Jot4p3
+sK!T.RomanoV
+LAW
+--- 20-03-23 22:09:29
+.:{MIS}:. LechecL
+UnForGiveN*
+Grenade
+--- 20-03-23 22:09:43
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:09:50
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:09:56
+sK!T.RomanoV
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:09:59
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:10:08
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:10:19
+sK!T.RomanoV
+Jot4p3
+Grenade
+--- 20-03-23 22:10:20
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:10:28
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:10:30
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:10:35
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:10:36
+sK!T.RomanoV
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:10:42
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:10:51
+sK!T.RomanoV
+Jot4p3
+Grenade
+--- 20-03-23 22:10:55
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:11:02
+Thokrates
+sK!T.RomanoV
+Chainsaw
+--- 20-03-23 22:11:02
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:11:07
+.:{MIS}:. LechecL
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:11:07
+Thokrates
+sK!T.RomanoV
+M79
+--- 20-03-23 22:11:10
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:11:15
+Jot4p3
+Jot4p3
+Grenade
+--- 20-03-23 22:11:24
+sK!T.RomanoV
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:11:27
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:11:27
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:11:31
+.:{MIS}:. LechecL
+Thokrates
+LAW
+--- 20-03-23 22:11:34
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:11:40
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:11:43
+.:{MIS}:. LechecL
+Jot4p3
+LAW
+--- 20-03-23 22:11:49
+Donwea
+Thokrates
+Combat Knife
+--- 20-03-23 22:11:55
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:11:55
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:12:05
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 22:12:06
+sK!T.RomanoV
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:12:09
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:12:09
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:12:12
+.:{MIS}:. LechecL
+Thokrates
+Desert Eagles
+--- 20-03-23 22:12:20
+Thokrates
+Donwea
+M79
+--- 20-03-23 22:12:29
+sK!T.RomanoV
+UnForGiveN*
+Steyr AUG
+--- 20-03-23 22:12:34
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:12:35
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:12:45
+.:{MIS}:. LechecL
+UnForGiveN*
+LAW
+--- 20-03-23 22:12:47
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:12:49
+Jot4p3
+.:{MIS}:. LechecL
+Steyr AUG
+--- 20-03-23 22:12:57
+Thokrates
+.:{MIS}:. LechecL
+M79
+--- 20-03-23 22:13:05
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:13:05
+Donwea
+UnForGiveN*
+Combat Knife
+--- 20-03-23 22:13:06
+sK!T.RomanoV
+Thokrates
+Grenade
+--- 20-03-23 22:13:16
+Donwea
+UnForGiveN*
+Combat Knife
+--- 20-03-23 22:13:47
+Jot4p3
+Jot4p3
+M79
+--- 20-03-23 22:13:53
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:13:54
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:13:56
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:13:57
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:14:02
+Thokrates
+sK!T.RomanoV
+Barrett M82A1
+--- 20-03-23 22:14:04
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:14:07
+Thokrates
+Donwea
+Barrett M82A1
+--- 20-03-23 22:14:12
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:14:12
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:14:12
+.:{MIS}:. LechecL
+Thokrates
+M79
+--- 20-03-23 22:14:14
+UnForGiveN*
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:14:17
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:14:22
+Thokrates
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-23 22:14:24
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:14:27
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:14:29
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:14:32
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:14:33
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 22:14:38
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:14:39
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:14:42
+UnForGiveN*
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:14:42
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:14:44
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-23 22:14:49
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:14:51
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:14:51
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 22:14:57
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:14:59
+UnForGiveN*
+sK!T.RomanoV
+USSOCOM
+--- 20-03-23 22:15:01
+.:{MIS}:. LechecL
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:15:02
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 22:15:06
+Jot4p3
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:15:07
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:15:08
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:15:11
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:15:17
+Donwea
+UnForGiveN*
+Grenade
+--- 20-03-23 22:15:21
+Jot4p3
+Donwea
+Ak-74
+--- 20-03-23 22:15:23
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:15:23
+Thokrates
+sK!T.RomanoV
+Chainsaw
+--- 20-03-23 22:15:31
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-23 22:15:32
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 22:15:34
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 22:15:38
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:15:42
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:15:44
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:15:46
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:15:51
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:15:52
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:15:54
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:15:54
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:16:00
+Thokrates
+Donwea
+Desert Eagles
+--- 20-03-23 22:16:03
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:16:07
+sK!T.RomanoV
+Thokrates
+Spas-12
+--- 20-03-23 22:16:08
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:16:15
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:16:15
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:16:22
+sK!T.RomanoV
+Jot4p3
+Grenade
+--- 20-03-23 22:16:22
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:16:29
+Donwea
+UnForGiveN*
+Combat Knife
+--- 20-03-23 22:16:31
+Thokrates
+Donwea
+Desert Eagles
+--- 20-03-23 22:16:32
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:16:36
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 22:16:40
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:16:43
+Jot4p3
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:16:45
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:16:50
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:16:53
+sK!T.RomanoV
+Thokrates
+Spas-12
+--- 20-03-23 22:16:53
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:17:00
+Jot4p3
+sK!T.RomanoV
+LAW
+--- 20-03-23 22:17:04
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:17:05
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:17:07
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:17:11
+.:{MIS}:. LechecL
+Thokrates
+LAW
+--- 20-03-23 22:17:13
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:17:15
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:17:17
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:17:22
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:17:23
+Jot4p3
+.:{MIS}:. LechecL
+LAW
+--- 20-03-23 22:17:26
+Jot4p3
+Donwea
+Ak-74
+--- 20-03-23 22:17:27
+Thokrates
+sK!T.RomanoV
+Chainsaw
+--- 20-03-23 22:17:32
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:17:33
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:17:38
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:17:40
+UnForGiveN*
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-23 22:17:43
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:17:46
+.:{MIS}:. LechecL
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:17:47
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:17:49
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:17:49
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:17:55
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:17:57
+Thokrates
+.:{MIS}:. LechecL
+Chainsaw
+--- 20-03-23 22:17:58
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:18:07
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:18:08
+.:{MIS}:. LechecL
+Thokrates
+Grenade
+--- 20-03-23 22:18:09
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:18:09
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:18:16
+Donwea
+Thokrates
+Grenade
+--- 20-03-23 22:18:18
+.:{MIS}:. LechecL
+UnForGiveN*
+Grenade
+--- 20-03-23 22:18:20
+Jot4p3
+.:{MIS}:. LechecL
+Spas-12
+--- 20-03-23 22:18:24
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:18:31
+UnForGiveN*
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:18:33
+UnForGiveN*
+Donwea
+Grenade
+--- 20-03-23 22:18:35
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:18:43
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:18:45
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:18:45
+sK!T.RomanoV
+sK!T.RomanoV
+M79
+--- 20-03-23 22:18:46
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:18:47
+.:{MIS}:. LechecL
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:18:53
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:18:57
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:18:57
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:19:02
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:19:08
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:19:10
+UnForGiveN*
+Donwea
+USSOCOM
+--- 20-03-23 22:19:11
+sK!T.RomanoV
+UnForGiveN*
+USSOCOM
+--- 20-03-23 22:19:14
+sK!T.RomanoV
+Jot4p3
+USSOCOM
+--- 20-03-23 22:19:17
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:19:18
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:19:23
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:19:29
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:19:30
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:19:30
+sK!T.RomanoV
+Thokrates
+Grenade
+--- 20-03-23 22:19:38
+Thokrates
+Donwea
+Desert Eagles
+--- 20-03-23 22:19:42
+sK!T.RomanoV
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:19:47
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:19:48
+.:{MIS}:. LechecL
+Thokrates
+LAW
+--- 20-03-23 22:19:49
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:19:53
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:19:57
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:19:58
+.:{MIS}:. LechecL
+Thokrates
+Spas-12
+--- 20-03-23 22:19:59
+.:{MIS}:. LechecL
+UnForGiveN*
+Spas-12
+--- 20-03-23 22:20:01
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:20:06
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:20:07
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:20:08
+sK!T.RomanoV
+Thokrates
+Grenade
+--- 20-03-23 22:20:15
+sK!T.RomanoV
+UnForGiveN*
+Grenade
+--- 20-03-23 22:20:17
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:20:17
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:20:24
+Jot4p3
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:20:24
+Thokrates
+Donwea
+Grenade
+--- 20-03-23 22:20:25
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:20:32
+Thokrates
+Donwea
+Chainsaw
+--- 20-03-23 22:20:34
+Donwea
+Jot4p3
+Grenade
+--- 20-03-23 22:20:39
+sK!T.RomanoV
+Thokrates
+Spas-12
+--- 20-03-23 22:20:40
+UnForGiveN*
+sK!T.RomanoV
+Ak-74
+--- 20-03-23 22:20:41
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:20:49
+sK!T.RomanoV
+Jot4p3
+Spas-12
+--- 20-03-23 22:20:49
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:20:53
+Donwea
+Thokrates
+Combat Knife
+--- 20-03-23 22:20:57
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:20:57
+sK!T.RomanoV
+Jot4p3
+Desert Eagles
+--- 20-03-23 22:20:59
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:21:02
+Thokrates
+Donwea
+Desert Eagles
+--- 20-03-23 22:21:07
+UnForGiveN*
+.:{MIS}:. LechecL
+Ak-74
+--- 20-03-23 22:21:09
+sK!T.RomanoV
+UnForGiveN*
+Desert Eagles
+--- 20-03-23 22:21:09
+Thokrates
+Donwea
+Desert Eagles
+--- 20-03-23 22:21:12
+Thokrates
+sK!T.RomanoV
+Desert Eagles
+--- 20-03-23 22:21:18
+Thokrates
+.:{MIS}:. LechecL
+Desert Eagles
+--- 20-03-23 22:21:20
+Donwea
+UnForGiveN*
+Barrett M82A1
+--- 20-03-23 22:21:22
+sK!T.RomanoV
+Thokrates
+M79
+--- 20-03-23 22:21:25
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:21:26
+.:{MIS}:. LechecL
+Jot4p3
+Spas-12
+--- 20-03-23 22:21:31
+Jot4p3
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:21:36
+UnForGiveN*
+Donwea
+Ak-74
+--- 20-03-23 22:21:38
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:21:46
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:21:52
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:21:55
+Thokrates
+sK!T.RomanoV
+Chainsaw
+--- 20-03-23 22:21:57
+Donwea
+Thokrates
+Barrett M82A1
+--- 20-03-23 22:22:01
+.:{MIS}:. LechecL
+Jot4p3
+LAW
+--- 20-03-23 22:22:10
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:22:20
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:22:20
+sK!T.RomanoV
+Jot4p3
+M79
+--- 20-03-23 22:22:33
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:22:45
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:23:08
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:23:12
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:23:18
+Jot4p3
+sK!T.RomanoV
+Grenade
+--- 20-03-23 22:23:30
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:23:30
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:23:41
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:23:46
+Jot4p3
+Donwea
+Grenade
+--- 20-03-23 22:23:52
+sK!T.RomanoV
+Jot4p3
+M79
+--- 20-03-23 22:23:55
+sK!T.RomanoV
+sK!T.RomanoV
+M79
+--- 20-03-23 22:24:19
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:24:24
+Jot4p3
+Donwea
+LAW
+--- 20-03-23 22:24:28
+Jot4p3
+sK!T.RomanoV
+Spas-12
+--- 20-03-23 22:24:41
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:24:57
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:25:10
+sK!T.RomanoV
+Jot4p3
+M79
+--- 20-03-23 22:25:22
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:25:27
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:25:34
+sK!T.RomanoV
+Jot4p3
+M79
+--- 20-03-23 22:25:41
+sK!T.RomanoV
+sK!T.RomanoV
+M79
+--- 20-03-23 22:25:42
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:25:52
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:25:59
+sK!T.RomanoV
+Jot4p3
+USSOCOM
+--- 20-03-23 22:26:17
+Jot4p3
+sK!T.RomanoV
+HK MP5
+--- 20-03-23 22:26:25
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:02
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:10
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:16
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:26
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:32
+Donwea
+Jot4p3
+Barrett M82A1
+--- 20-03-23 22:27:37
+Jot4p3
+Donwea
+LAW
+--- 20-03-23 22:27:48
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:28:12
+Jot4p3
+Donwea
+Spas-12
+--- 20-03-23 22:28:19
+Donwea
+Jot4p3
+Spas-12
+--- 20-03-23 22:28:34
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:29:01
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:29:20
+Donwea
+Jot4p3
+Combat Knife
+--- 20-03-23 22:30:24
+Donwea
+Jot4p3
+Combat Knife
+--- 20-03-23 22:31:03
+Donwea
+Donwea
+Grenade
+--- 20-03-23 22:31:26
+Donwea
+Jot4p3
+Combat Knife
+--- 20-03-23 22:31:42
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:01
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:06
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:11
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:21
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:35
+Jot4p3
+Donwea
+Combat Knife
+--- 20-03-23 22:32:47
+Donwea
+Jot4p3
+Combat Knife
+--- 20-03-24 01:38:42
+#1 Mand3s
+#1 Mand3s
+Grenade
+--- 20-03-24 14:59:26
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-24 16:37:19
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:37:26
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:37:31
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:37:37
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:37:54
+.:{MIS}:.Fren
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:38:26
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-24 16:38:31
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:38:40
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-24 16:39:28
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:39:34
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-24 16:39:41
+Thokrates
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-24 16:39:54
+.:{MIS}:. RankoR.cl
+.:{MIS}:.Fren
+XM214 Minigun
+--- 20-03-24 16:39:59
+Thokrates
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-24 16:40:00
+.:{MIS}:.Fren
+.:{MIS}:.Fren
+M79
+--- 20-03-24 16:40:05
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:40:18
+Thokrates
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-24 16:40:26
+Thokrates
+.:{MIS}:. RankoR.cl
+Ruger 77
+--- 20-03-24 16:40:30
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:40:58
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:41:04
+Thokrates
+.:{MIS}:. RankoR.cl
+Spas-12
+--- 20-03-24 16:41:16
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:41:32
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:41:50
+Thokrates
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:41:57
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:42:07
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:42:14
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:42:23
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-24 16:42:39
+Thokrates
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:42:46
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:42:48
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:42:48
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:42:51
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:42:55
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:43:02
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:43:21
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:43:25
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:43:32
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:43:39
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:43:41
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:43:41
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Spas-12
+--- 20-03-24 16:43:54
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Spas-12
+--- 20-03-24 16:43:56
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:43:59
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-24 16:44:08
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:44:12
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-24 16:44:18
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:44:21
+Thokrates
+.:{MIS}:.Fren
+Ruger 77
+--- 20-03-24 16:44:28
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+LAW
+--- 20-03-24 16:44:47
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:44:51
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:44:54
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:44:58
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-24 16:44:58
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:44:59
+.:{MIS}:.Fren
+.:{MIS}:.Fren
+Grenade
+--- 20-03-24 16:45:07
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-24 16:45:09
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:45:13
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:45:15
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-24 16:45:19
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:45:28
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:45:30
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-24 16:45:33
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:45:34
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:45:35
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:45:40
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:45:42
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:45:45
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:45:47
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:46:06
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:46:14
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:46:23
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:46:25
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:46:34
+.:{MIS}:. RankoR.cl
+Thokrates
+Desert Eagles
+--- 20-03-24 16:46:35
+Thokrates
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:46:43
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:46:43
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:46:54
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:47:03
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:47:10
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:47:16
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-24 16:47:18
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:47:25
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+USSOCOM
+--- 20-03-24 16:47:27
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:47:33
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Hands
+--- 20-03-24 16:47:43
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:47:44
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:47:47
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:47:51
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:47:55
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+LAW
+--- 20-03-24 16:48:08
+.:{MIS}:. RankoR.cl
+Thokrates
+USSOCOM
+--- 20-03-24 16:48:11
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:48:14
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:48:14
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:48:23
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:48:25
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:48:32
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:48:35
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-24 16:48:41
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:48:48
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+LAW
+--- 20-03-24 16:48:50
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:48:53
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-24 16:49:01
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:49:04
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:49:09
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:49:19
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:49:19
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:49:31
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:49:35
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:49:41
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:49:48
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:49:50
+Thokrates
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:49:57
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:50:00
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:50:04
+.:{MIS}:.Fren
+.:{MIS}:.Fren
+LAW
+--- 20-03-24 16:50:04
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:50:09
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:50:12
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:50:16
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:50:19
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-24 16:50:28
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:50:29
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:50:29
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:50:33
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-24 16:50:36
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:50:38
+Thokrates
+.:{MIS}:. RankoR.cl
+Desert Eagles
+--- 20-03-24 16:50:43
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-24 16:50:48
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:50:53
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:51:05
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-24 16:51:11
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:51:17
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:51:18
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:51:19
+Thokrates
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 16:51:25
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+LAW
+--- 20-03-24 16:51:31
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-24 16:51:33
+Thokrates
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:51:44
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:51:51
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:51:53
+Thokrates
+.:{MIS}:.Fren
+Desert Eagles
+--- 20-03-24 16:51:53
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:52:01
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:52:05
+Thokrates
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 16:52:07
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:52:30
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Barrett M82A1
+--- 20-03-24 16:52:30
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:52:50
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+Barrett M82A1
+--- 20-03-24 16:52:59
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:53:03
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:53:15
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:53:32
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:54:09
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:54:12
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+Grenade
+--- 20-03-24 16:54:18
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-24 16:54:25
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-24 16:54:31
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:54:35
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:54:42
+Thokrates
+.:{MIS}:.Fren
+Spas-12
+--- 20-03-24 16:54:50
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Grenade
+--- 20-03-24 16:54:52
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:54:55
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-24 16:55:00
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:55:04
+Thokrates
+.:{MIS}:.Fren
+Spas-12
+--- 20-03-24 16:55:10
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-24 16:55:17
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-24 16:55:18
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:55:26
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:55:28
+Thokrates
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:55:34
+.:{MIS}:. LechecL
+.:{MIS}:.Fren
+Ak-74
+--- 20-03-24 16:55:39
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:55:40
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:55:45
+.:{MIS}:.Fren
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 16:55:48
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-24 16:55:53
+Thokrates
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 16:56:02
+Thokrates
+.:{MIS}:.Fren
+Spas-12
+--- 20-03-24 16:56:03
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:56:07
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-24 16:56:12
+.:{MIS}:.Fren
+Thokrates
+M79
+--- 20-03-24 16:56:17
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:56:25
+.:{MIS}:. RankoR.cl
+Thokrates
+XM214 Minigun
+--- 20-03-24 16:56:44
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Ak-74
+--- 20-03-24 16:57:20
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:57:36
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:57:41
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:58:10
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:58:35
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 16:58:40
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Grenade
+--- 20-03-24 16:58:48
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:59:05
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:59:41
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 16:59:56
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 17:00:04
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 17:00:17
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 17:00:54
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 17:01:15
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 17:01:33
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 17:01:38
+.:{MIS}:. RankoR.cl
+.:{MIS}:. LechecL
+XM214 Minigun
+--- 20-03-24 17:01:45
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 17:02:00
+.:{MIS}:. RankoR.cl
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 17:02:05
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+Combat Knife
+--- 20-03-24 17:02:07
+.:{MIS}:. LechecL
+.:{MIS}:. LechecL
+M79
+--- 20-03-24 17:02:14
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 17:02:19
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 17:03:34
+.:{MIS}:. LechecL
+.:{MIS}:. RankoR.cl
+M79
+--- 20-03-24 21:23:51
+UnForGiveN*
+UnForGiveN*
+Grenade
+--- 20-03-24 21:24:34
+juanpavo
+UnForGiveN*
+M79
+--- 20-03-24 21:25:23
+juanpavo
+UnForGiveN*
+Grenade
+--- 20-03-24 21:27:19
+UnForGiveN*(1)
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:27:24
+UnForGiveN*(1)
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:27:45
+Camila Araya
+juanpavo
+LAW
+--- 20-03-24 21:30:17
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:30:42
+UnForGiveN*(1)
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:30:48
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:30:59
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:31:28
+UnForGiveN*(1)
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:31:55
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:32:23
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:32:58
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:33:02
+Paula Undangarin 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:33:14
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:33:36
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:33:46
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:33:52
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:33:56
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:34:15
+Paula Undangarin 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:34:21
+Paula Undangarin 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:34:28
+juanpavo
+Paula Undangarin 8==D
+M79
+--- 20-03-24 21:34:56
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:34:58
+Paula Undangarin 8==D
+juanpavo
+Spas-12
+--- 20-03-24 21:35:07
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:35:23
+Paula Undangarin 8==D
+DonSamuel
+Grenade
+--- 20-03-24 21:35:24
+DonSamuel
+Paula Undangarin 8==D
+Barrett M82A1
+--- 20-03-24 21:35:36
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:35:47
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:36:00
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:36:09
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:36:13
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:36:25
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 21:36:28
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:36:31
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:36:43
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:36:44
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:37:08
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:37:14
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:37:26
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 21:37:27
+juanpavo
+Chika Marcia 8==D
+M79
+--- 20-03-24 21:37:33
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:37:34
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:37:42
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:37:53
+Chika Marcia 8==D
+juanpavo
+Grenade
+--- 20-03-24 21:38:08
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:38:18
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:38:24
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:38:29
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:38:32
+Camila Araya
+juanpavo
+Grenade
+--- 20-03-24 21:38:44
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:38:59
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:39:01
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:39:08
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:39:14
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:39:18
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:39:21
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:39:25
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:39:26
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:39:32
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:39:37
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:39:38
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:39:47
+Camila Araya
+DonSamuel
+Grenade
+--- 20-03-24 21:39:56
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:40:09
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:40:18
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:40:19
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 21:40:20
+juanpavo
+Chika Marcia 8==D
+M79
+--- 20-03-24 21:40:27
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 21:40:27
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:40:41
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:40:41
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:40:42
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:41:11
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:41:14
+Camila Araya
+juanpavo
+Grenade
+--- 20-03-24 21:41:21
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:41:24
+juanpavo
+Chika Marcia 8==D
+M79
+--- 20-03-24 21:41:38
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:41:38
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:42:21
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:42:26
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:42:45
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:42:46
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:42:54
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:42:58
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 21:43:13
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:43:15
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:43:24
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:43:30
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:43:39
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:43:41
+Chika Marcia 8==D
+juanpavo
+Grenade
+--- 20-03-24 21:43:50
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:43:54
+juanpavo
+Camila Araya
+M79
+--- 20-03-24 21:43:54
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:44:02
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:44:09
+Camila Araya
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:44:21
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 21:44:30
+Chika Marcia 8==D
+juanpavo
+Barrett M82A1
+--- 20-03-24 21:44:34
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:44:43
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:44:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:44:52
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:45:37
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:45:41
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:45:45
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:45:59
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:46:05
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:46:15
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:46:25
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:46:25
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:46:33
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:46:40
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:46:48
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:46:59
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:47:06
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:47:14
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:47:30
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:47:36
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:47:47
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 21:48:04
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:48:09
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 21:48:13
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:48:13
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:48:21
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:48:25
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 21:48:39
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:48:59
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:49:13
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:49:22
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:49:27
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 21:49:46
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:49:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:49:59
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 21:50:11
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 21:50:17
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:50:24
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:50:31
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 21:50:46
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:50:59
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:51:37
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:51:49
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 21:53:37
+DonSamuel
+Chika Marcia 8==D
+XM214 Minigun
+--- 20-03-24 21:53:37
+DonSamuel
+Camila Araya
+XM214 Minigun
+--- 20-03-24 21:53:55
+DonSamuel
+Camila Araya
+XM214 Minigun
+--- 20-03-24 21:53:57
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:54:08
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 21:54:29
+DonSamuel
+Chika Marcia 8==D
+XM214 Minigun
+--- 20-03-24 21:54:33
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 21:54:34
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:55:05
+DonSamuel
+Chika Marcia 8==D
+XM214 Minigun
+--- 20-03-24 21:55:11
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 21:55:26
+Chika Marcia 8==D
+DonSamuel
+XM214 Minigun
+--- 20-03-24 21:55:49
+Chika Marcia 8==D
+DonSamuel
+XM214 Minigun
+--- 20-03-24 21:55:58
+DonSamuel
+Chika Marcia 8==D
+XM214 Minigun
+--- 20-03-24 21:56:02
+DonSamuel
+Camila Araya
+XM214 Minigun
+--- 20-03-24 21:56:24
+Camila Araya
+DonSamuel
+Grenade
+--- 20-03-24 21:56:33
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 21:56:44
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:56:54
+Chika Marcia 8==D
+DonSamuel
+XM214 Minigun
+--- 20-03-24 21:57:03
+Chika Marcia 8==D
+DonSamuel
+XM214 Minigun
+--- 20-03-24 21:57:15
+DonSamuel
+Chika Marcia 8==D
+XM214 Minigun
+--- 20-03-24 21:57:19
+DonSamuel
+Camila Araya
+XM214 Minigun
+--- 20-03-24 21:57:23
+Camila Araya
+Camila Araya
+LAW
+--- 20-03-24 21:57:32
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:57:46
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:58:05
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:58:10
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 21:58:18
+DonSamuel
+Chika Marcia 8==D
+FN Minimi
+--- 20-03-24 21:58:21
+DonSamuel
+Camila Araya
+FN Minimi
+--- 20-03-24 21:58:27
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:58:47
+Chika Marcia 8==D
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 21:59:03
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:59:07
+DonSamuel
+Chika Marcia 8==D
+FN Minimi
+--- 20-03-24 21:59:14
+DonSamuel
+Camila Araya
+FN Minimi
+--- 20-03-24 21:59:22
+Chika Marcia 8==D
+DonSamuel
+M79
+--- 20-03-24 21:59:48
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:00:06
+Chika Marcia 8==D
+el peor gay
+FN Minimi
+--- 20-03-24 22:00:11
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:00:16
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:00:22
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:00:29
+DonSamuel
+Camila Araya
+M79
+--- 20-03-24 22:00:39
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:01:00
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:01:06
+Camila Araya
+Camila Araya
+Grenade
+--- 20-03-24 22:01:13
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:01:17
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:01:21
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:01:24
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:01:30
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:01:30
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:01:35
+Chika Marcia 8==D
+el peor gay
+Combat Knife
+--- 20-03-24 22:01:40
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:01:45
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:01:46
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:01:51
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:01:51
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:01:56
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:01:57
+Camila Araya
+el peor gay
+Ak-74
+--- 20-03-24 22:02:03
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:02:10
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:02:13
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:02:20
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:02:22
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:02:33
+Camila Araya
+el peor gay
+Desert Eagles
+--- 20-03-24 22:02:41
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:02:49
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:02:51
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:03:00
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:03:08
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:03:09
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:03:17
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:03:19
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:03:19
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:03:27
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:03:30
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:03:35
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:03:40
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:03:54
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:03:58
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:04:05
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:04:07
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:04:12
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:04:17
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:04:18
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:04:24
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:04:29
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:04:42
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:05:03
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:05:11
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:05:16
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:05:24
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:05:27
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:05:27
+el peor gay
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:05:41
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:05:49
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:05:49
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:06:01
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:06:06
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:06:08
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:06:20
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:06:28
+DonSamuel
+Camila Araya
+LAW
+--- 20-03-24 22:06:46
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:06:50
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:07:16
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:07:16
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:07:21
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:07:29
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:07:35
+Camila Araya
+DonSamuel
+Grenade
+--- 20-03-24 22:07:37
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:07:41
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:07:53
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:08:00
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:08:07
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:08:13
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:08:17
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:08:26
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:08:31
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:08:34
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:08:43
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:08:45
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:08:49
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:09:00
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:09:01
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:09:05
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:09:11
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:09:12
+Camila Araya
+el peor gay
+Grenade
+--- 20-03-24 22:09:13
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:09:22
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:09:26
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:09:32
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:09:41
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:09:45
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:09:54
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:10:02
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:10:09
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:10:09
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:10:17
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:10:26
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:10:40
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:10:46
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:10:50
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:11:19
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:11:25
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:11:35
+Chika Marcia 8==D
+el peor gay
+Combat Knife
+--- 20-03-24 22:11:56
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:11:59
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:12:05
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:12:09
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:12:16
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:12:20
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:12:24
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:12:31
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:12:36
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:12:51
+Camila Araya
+el peor gay
+Steyr AUG
+--- 20-03-24 22:12:52
+Chika Marcia 8==D
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:13:02
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:13:07
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:13:16
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:13:29
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:13:35
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:13:35
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:13:36
+el peor gay
+el peor gay
+M79
+--- 20-03-24 22:13:44
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:13:48
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:13:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:14:04
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:14:06
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:14:10
+Chika Marcia 8==D
+DonSamuel
+Hands
+--- 20-03-24 22:14:22
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:14:28
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:14:29
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:14:54
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:14:59
+DonSamuel
+DonSamuel
+Grenade
+--- 20-03-24 22:14:59
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:15:13
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:15:18
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:15:25
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:15:25
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:15:30
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:15:36
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:15:41
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:15:43
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:15:49
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:15:51
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:15:55
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:16:00
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:16:06
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:16:14
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:16:19
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:16:25
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:16:31
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:16:33
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:16:36
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:16:53
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:17:04
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:17:11
+Chika Marcia 8==D
+DonSamuel
+Combat Knife
+--- 20-03-24 22:17:15
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:17:18
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:17:22
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:17:30
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:17:37
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:17:42
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:17:49
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:17:53
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:17:53
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:18:04
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:18:08
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:18:13
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:18:24
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:18:29
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:18:34
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:18:39
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:18:41
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:18:47
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:18:52
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:19:01
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:19:06
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:19:08
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:19:11
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:19:34
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:19:39
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:19:43
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:19:53
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:19:57
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:20:06
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:20:10
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:20:20
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:20:27
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:20:43
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:20:50
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:20:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:21:18
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:21:53
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:22:00
+Camila Araya
+Camila Araya
+LAW
+--- 20-03-24 22:22:03
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:22:09
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:22:20
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:22:27
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:22:29
+Chika Marcia 8==D
+DonSamuel
+Chainsaw
+--- 20-03-24 22:22:34
+Chika Marcia 8==D
+el peor gay
+Chainsaw
+--- 20-03-24 22:22:40
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:22:45
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:22:51
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:22:55
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:23:00
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:23:24
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:23:25
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:23:32
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:23:36
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:23:38
+Chika Marcia 8==D
+el peor gay
+LAW
+--- 20-03-24 22:23:49
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:23:52
+el peor gay
+el peor gay
+M79
+--- 20-03-24 22:23:52
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:23:58
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:24:04
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:24:20
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:24:20
+Chika Marcia 8==D
+DonSamuel
+LAW
+--- 20-03-24 22:24:28
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:24:29
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:24:35
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:24:43
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:24:43
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:24:53
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:24:58
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:25:01
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:25:04
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:25:08
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:25:13
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:25:14
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:25:26
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:25:28
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:25:37
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:25:37
+Chika Marcia 8==D
+DonSamuel
+LAW
+--- 20-03-24 22:25:45
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:25:45
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:25:49
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:25:55
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:26:00
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:26:08
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:26:11
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:26:20
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:26:22
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:26:24
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:26:36
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:26:44
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:26:57
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:27:11
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:27:15
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:27:26
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:27:27
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:27:39
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:27:40
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:27:48
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:27:52
+Chika Marcia 8==D
+DonSamuel
+LAW
+--- 20-03-24 22:27:54
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:28:06
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:28:22
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:28:28
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:28:31
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:28:36
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:28:44
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:28:55
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:29:03
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:29:04
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:29:14
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:29:18
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:29:27
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:29:34
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:29:46
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:29:53
+el peor gay
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:29:53
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:29:57
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:30:05
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:30:11
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:30:15
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:30:17
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:30:28
+Camila Araya
+Camila Araya
+Grenade
+--- 20-03-24 22:30:36
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:30:39
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:30:40
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:30:47
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:30:47
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:30:55
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:31:08
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:31:18
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:31:32
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:32:00
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:32:02
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:32:09
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:32:20
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:32:21
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:32:29
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:32:39
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:32:43
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:32:44
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:32:47
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:32:55
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:33:01
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:33:03
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:33:07
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:33:15
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:33:24
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:33:25
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:33:31
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:33:38
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:33:45
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:33:47
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:34:03
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:34:09
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:34:15
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:34:20
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:34:30
+el peor gay
+el peor gay
+Grenade
+--- 20-03-24 22:34:37
+Chika Marcia 8==D
+DonSamuel
+LAW
+--- 20-03-24 22:34:41
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:34:45
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:34:53
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:34:54
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:34:55
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:35:01
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:35:04
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:35:04
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:35:17
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:35:19
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:35:20
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:35:25
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:35:30
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:35:30
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:35:38
+DonSamuel
+Camila Araya
+Grenade
+--- 20-03-24 22:35:40
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:35:53
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:35:57
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:36:05
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:36:06
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:36:17
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:36:21
+DonSamuel
+DonSamuel
+Grenade
+--- 20-03-24 22:36:30
+DonSamuel
+Chika Marcia 8==D
+Combat Knife
+--- 20-03-24 22:36:34
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:36:37
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:36:43
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:36:43
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:36:52
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:37:04
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:37:05
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:37:09
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:37:15
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:37:15
+Chika Marcia 8==D
+DonSamuel
+USSOCOM
+--- 20-03-24 22:37:34
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:37:40
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:37:41
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:37:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:37:53
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:37:57
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:38:01
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:38:06
+Chika Marcia 8==D
+DonSamuel
+USSOCOM
+--- 20-03-24 22:38:10
+el peor gay
+el peor gay
+Grenade
+--- 20-03-24 22:38:20
+Camila Araya
+Camila Araya
+LAW
+--- 20-03-24 22:38:20
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:38:24
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:38:33
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:38:37
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:38:38
+Chika Marcia 8==D
+DonSamuel
+Grenade
+--- 20-03-24 22:38:50
+DonSamuel
+Chika Marcia 8==D
+Grenade
+--- 20-03-24 22:38:50
+Chika Marcia 8==D
+DonSamuel
+USSOCOM
+--- 20-03-24 22:38:57
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:38:59
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:39:09
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:39:14
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:39:23
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:39:25
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:39:34
+DonSamuel
+Camila Araya
+Barrett M82A1
+--- 20-03-24 22:39:36
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:39:52
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:40:09
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:40:15
+Camila Araya
+el peor gay
+M79
+--- 20-03-24 22:40:18
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:40:26
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:40:27
+el peor gay
+Camila Araya
+M79
+--- 20-03-24 22:40:37
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:40:43
+DonSamuel
+Chika Marcia 8==D
+Barrett M82A1
+--- 20-03-24 22:40:47
+Camila Araya
+DonSamuel
+M79
+--- 20-03-24 22:40:52
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:40:56
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:41:00
+Chika Marcia 8==D
+el peor gay
+Grenade
+--- 20-03-24 22:41:01
+DonSamuel
+Camila Araya
+Combat Knife
+--- 20-03-24 22:41:02
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:41:10
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:41:13
+Camila Araya
+el peor gay
+LAW
+--- 20-03-24 22:41:17
+Camila Araya
+DonSamuel
+M79
+--- 20-03-24 22:41:24
+Camila Araya
+DonSamuel
+M79
+--- 20-03-24 22:41:31
+Camila Araya
+el peor gay
+M79
+--- 20-03-24 22:42:20
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:42:28
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:42:30
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:42:35
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:42:37
+Camila Araya
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:42:39
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:42:43
+Chika Marcia 8==D
+DonSamuel
+Barrett M82A1
+--- 20-03-24 22:42:57
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:43:04
+Camila Araya
+DonSamuel
+LAW
+--- 20-03-24 22:43:24
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:43:33
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:43:47
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:44:01
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:44:05
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:44:05
+Camila Araya
+Camila Araya
+Grenade
+--- 20-03-24 22:44:11
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:44:25
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:44:36
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:44:43
+Chika Marcia 8==D
+el peor gay
+USSOCOM
+--- 20-03-24 22:44:50
+Chika Marcia 8==D
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:44:58
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-24 22:44:58
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:45:03
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:45:13
+Camila Araya
+el peor gay
+Barrett M82A1
+--- 20-03-24 22:45:22
+el peor gay
+Chika Marcia 8==D
+M79
+--- 20-03-25 16:07:35
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:07:35
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:07:52
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:08:01
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:08:11
+.:{MIS}:.Fren
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:08:15
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:08:25
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:09:06
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:09:14
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:09:28
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:09:38
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:09:46
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:09:54
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:10:00
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:10:46
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:10:52
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-25 16:10:58
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:11:05
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:11:17
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-25 16:11:25
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-25 16:11:31
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:11:42
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:11:53
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:12:02
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:12:20
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:12:28
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:12:39
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:12:48
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:12:54
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:12:55
+.:{MIS}:.Fren
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:13:33
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:13:35
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:13:46
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:14:00
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:14:06
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:14:13
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:14:19
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-25 16:14:30
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:14:45
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:14:51
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-25 16:15:05
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:15:16
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:15:34
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:15:39
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:15:50
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:15:58
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:16:08
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:16:08
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:16:17
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-25 16:16:22
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:16:26
+Thokrates
+.:{MIS}:.Fren
+Combat Knife
+--- 20-03-25 16:16:33
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:16:38
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:16:44
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:16:54
+Thokrates
+.:{MIS}:.Fren
+LAW
+--- 20-03-25 16:17:00
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:17:00
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:17:13
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:17:20
+Thokrates
+.:{MIS}:.Fren
+M79
+--- 20-03-25 16:17:24
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-25 16:17:36
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:17:41
+Thokrates
+.:{MIS}:.Fren
+Grenade
+--- 20-03-25 16:17:55
+Thokrates
+.:{MIS}:.Fren
+M79
+--- 20-03-25 16:17:55
+.:{MIS}:.Fren
+Thokrates
+LAW
+--- 20-03-25 16:18:05
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:18:11
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:18:16
+Thokrates
+.:{MIS}:.Fren
+M79
+--- 20-03-25 16:18:28
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:18:38
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:18:42
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:18:54
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:19:03
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:19:09
+.:{MIS}:.Fren
+Thokrates
+Grenade
+--- 20-03-25 16:19:19
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:19:29
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:19:38
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:19:50
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:19:50
+.:{MIS}:.Fren
+Thokrates
+Barrett M82A1
+--- 20-03-25 16:19:58
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 16:20:24
+Thokrates
+.:{MIS}:.Fren
+Barrett M82A1
+--- 20-03-25 21:24:39
+the 9k
+Pichi Pichi
+Combat Knife
+--- 20-03-25 21:24:49
+Pichi Pichi
+the 9k
+Barrett M82A1
+--- 20-03-25 21:25:00
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:20
+the 9k
+Pichi Pichi
+Combat Knife
+--- 20-03-25 21:25:27
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:31
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:36
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:47
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:51
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:25:56
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:26:04
+the 9k
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:26:52
+the 9k
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:26:59
+the 9k
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:27:11
+the 9k
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:27:18
+the 9k
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:27:18
+Pichi Pichi
+the 9k
+Ruger 77
+--- 20-03-25 21:27:43
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:27:47
+Pichi Pichi
+the 9k
+Ruger 77
+--- 20-03-25 21:27:54
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:27:57
+the 9k
+Pichi Pichi
+LAW
+--- 20-03-25 21:28:12
+Pichi Pichi
+the 9k
+Ruger 77
+--- 20-03-25 21:28:24
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:28:29
+Pichi Pichi
+the 9k
+Ruger 77
+--- 20-03-25 21:28:38
+the 9k
+Pichi Pichi
+Grenade
+--- 20-03-25 21:28:47
+the 9k
+Pichi Pichi
+LAW
+--- 20-03-25 21:28:57
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:29:02
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:29:10
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:29:34
+Pichi Pichi
+the 9k
+Ruger 77
+--- 20-03-25 21:29:40
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:29:49
+the 9k
+Pichi Pichi
+Grenade
+--- 20-03-25 21:29:56
+the 9k
+Pichi Pichi
+LAW
+--- 20-03-25 21:30:05
+Pichi Pichi
+the 9k
+Barrett M82A1
+--- 20-03-25 21:30:15
+the 9k
+Pichi Pichi
+Grenade
+--- 20-03-25 21:30:23
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:30:43
+Pichi Pichi
+the 9k
+Barrett M82A1
+--- 20-03-25 21:30:44
+the 9k
+Pichi Pichi
+Ruger 77
+--- 20-03-25 21:30:52
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:31:00
+Pichi Pichi
+the 9k
+Barrett M82A1
+--- 20-03-25 21:31:08
+Pichi Pichi
+the 9k
+Barrett M82A1
+--- 20-03-25 21:31:36
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:31:44
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:31:56
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:32:39
+Pichi Pichi
+Jot4p3
+M79
+--- 20-03-25 21:33:00
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:33:04
+Pichi Pichi
+Jot4p3
+Combat Knife
+--- 20-03-25 21:33:14
+Pichi Pichi
+Pichi Pichi
+Grenade
+--- 20-03-25 21:34:06
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:34:15
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:34:20
+Pichi Pichi
+Jot4p3
+LAW
+--- 20-03-25 21:34:34
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:34:46
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:34:52
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:35:08
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:35:14
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:35:22
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:35:29
+Jot4p3
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 21:35:35
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:35:47
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:35:52
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:35:59
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:36:00
+gladys rajona
+EsclavoDeTuAmor
+M79
+--- 20-03-25 21:36:14
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:36:22
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:36:22
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:36:35
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:37:18
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:37:38
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:37:38
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:37:58
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:38:18
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:38:23
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 21:38:27
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:38:35
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:38:39
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:38:42
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:38:48
+Jot4p3
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 21:38:52
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:39:00
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:39:05
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:39:15
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 21:39:16
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:39:32
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:39:37
+Pichi Pichi
+gladys rajona
+Combat Knife
+--- 20-03-25 21:39:42
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:39:50
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:39:54
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:39:59
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:40:00
+gladys rajona
+EsclavoDeTuAmor
+M79
+--- 20-03-25 21:40:06
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:40:06
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:40:18
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:40:27
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:40:27
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:40:32
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:40:36
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:40:51
+Jot4p3
+EsclavoDeTuAmor
+M79
+--- 20-03-25 21:40:51
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:40:53
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:40:54
+gladys rajona
+gladys rajona
+Grenade
+--- 20-03-25 21:41:01
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:41:09
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 21:41:10
+gladys rajona
+EsclavoDeTuAmor
+M79
+--- 20-03-25 21:41:20
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:41:26
+EsclavoDeTuAmor
+EsclavoDeTuAmor
+Grenade
+--- 20-03-25 21:41:26
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:41:27
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:41:36
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:41:44
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:41:51
+EsclavoDeTuAmor
+Jot4p3
+Grenade
+--- 20-03-25 21:42:06
+Pichi Pichi
+gladys rajona
+Barrett M82A1
+--- 20-03-25 21:42:18
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:42:24
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:42:36
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:42:41
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:43:01
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:43:18
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:43:26
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:43:37
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:43:41
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:43:49
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:43:57
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:44:14
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:44:37
+Pichi Pichi
+Pichi Pichi
+Grenade
+--- 20-03-25 21:44:37
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:44:44
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:44:50
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:45:25
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:45:41
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:46:37
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:46:50
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:47:51
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:48:19
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:48:19
+Jot4p3
+Pichi Pichi
+Ak-74
+--- 20-03-25 21:48:33
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:49:02
+Jot4p3
+Pichi Pichi
+Ak-74
+--- 20-03-25 21:49:02
+Pichi Pichi
+Jot4p3
+Ak-74
+--- 20-03-25 21:49:12
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:49:45
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:50:05
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:50:43
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:50:53
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:51:15
+Jot4p3
+Pichi Pichi
+Ak-74
+--- 20-03-25 21:51:29
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:51:43
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:51:53
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:52:11
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:52:36
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:52:45
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:52:54
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:53:00
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:53:10
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:53:17
+Pichi Pichi
+Jot4p3
+Combat Knife
+--- 20-03-25 21:53:27
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:53:34
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 21:53:42
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:53:53
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:53:58
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:54:09
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:54:18
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:54:38
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:54:59
+Pichi Pichi
+Jot4p3
+Steyr AUG
+--- 20-03-25 21:55:34
+Jot4p3
+Pichi Pichi
+Barrett M82A1
+--- 20-03-25 21:55:46
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:56:17
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:56:30
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 21:56:41
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:56:55
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:57:09
+Jot4p3
+Pichi Pichi
+Grenade
+--- 20-03-25 21:57:38
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 21:57:39
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 21:58:01
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 21:58:23
+Pichi Pichi
+Jot4p3
+Desert Eagles
+--- 20-03-25 21:58:37
+Pichi Pichi
+gladys rajona
+Desert Eagles
+--- 20-03-25 21:58:39
+Pichi Pichi
+Jot4p3
+Desert Eagles
+--- 20-03-25 21:58:47
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:59:09
+Jot4p3
+Pichi Pichi
+Desert Eagles
+--- 20-03-25 21:59:16
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 21:59:33
+Pichi Pichi
+Jot4p3
+Desert Eagles
+--- 20-03-25 21:59:43
+Pichi Pichi
+gladys rajona
+Desert Eagles
+--- 20-03-25 21:59:53
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:00:02
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:00:30
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:00:34
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 22:00:55
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:00:57
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:00:57
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 22:01:12
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 22:01:14
+Jot4p3
+Pichi Pichi
+Spas-12
+--- 20-03-25 22:01:46
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:01:47
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:01:52
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:02:00
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 22:02:03
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:02:08
+Jot4p3
+Pichi Pichi
+LAW
+--- 20-03-25 22:02:43
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:03:04
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:03:08
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:03:24
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:03:24
+Jot4p3
+Pichi Pichi
+Grenade
+--- 20-03-25 22:03:42
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:04:12
+Pichi Pichi
+gladys rajona
+Ruger 77
+--- 20-03-25 22:04:17
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:04:32
+Pichi Pichi
+Jot4p3
+Ruger 77
+--- 20-03-25 22:04:45
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:05:08
+Pichi Pichi
+Jot4p3
+Combat Knife
+--- 20-03-25 22:05:28
+Pichi Pichi
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:05:40
+Pichi Pichi
+Jot4p3
+M79
+--- 20-03-25 22:05:40
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 22:05:57
+Jot4p3
+Pichi Pichi
+M79
+--- 20-03-25 22:06:06
+Pichi Pichi
+Jot4p3
+M79
+--- 20-03-25 22:06:22
+#1 Mand3s
+Jot4p3
+M79
+--- 20-03-25 22:06:23
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:06:26
+Pichi Pichi
+|X.Forc3|RainbowDash
+M79
+--- 20-03-25 22:06:28
+#1 Mand3s
+Jot4p3
+M79
+--- 20-03-25 22:06:29
+#1 Mand3s
+gladys rajona
+LAW
+--- 20-03-25 22:06:36
+|X.Forc3|RainbowDash
+#1 Mand3s
+Steyr AUG
+--- 20-03-25 22:06:41
+Pichi Pichi
+Jot4p3
+M79
+--- 20-03-25 22:06:42
+EsclavoDeTuAmor
+gladys rajona
+Combat Knife
+--- 20-03-25 22:06:48
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:06:52
+#1 Mand3s
+Jot4p3
+M79
+--- 20-03-25 22:06:54
+Pichi Pichi
+gladys rajona
+Grenade
+--- 20-03-25 22:06:55
+|X.Forc3|RainbowDash
+#1 Mand3s
+Steyr AUG
+--- 20-03-25 22:06:56
+Pichi Pichi
+Pichi Pichi
+Grenade
+--- 20-03-25 22:06:59
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Barrett M82A1
+--- 20-03-25 22:07:09
+gladys rajona
+Pichi Pichi
+M79
+--- 20-03-25 22:07:14
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Combat Knife
+--- 20-03-25 22:07:18
+EsclavoDeTuAmor
+gladys rajona
+Grenade
+--- 20-03-25 22:07:20
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:07:25
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Barrett M82A1
+--- 20-03-25 22:07:31
+EsclavoDeTuAmor
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:07:35
+|X.Forc3|RainbowDash
+Pichi Pichi
+Steyr AUG
+--- 20-03-25 22:07:36
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:07:50
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 22:07:50
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Barrett M82A1
+--- 20-03-25 22:08:02
+|X.Forc3|RainbowDash
+Pichi Pichi
+Steyr AUG
+--- 20-03-25 22:08:12
+Pichi Pichi
+Jot4p3
+Grenade
+--- 20-03-25 22:08:13
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Barrett M82A1
+--- 20-03-25 22:08:22
+Pichi Pichi
+gladys rajona
+M79
+--- 20-03-25 22:08:22
+Jot4p3
+Pichi Pichi
+HK MP5
+--- 20-03-25 22:08:28
+Pichi Pichi
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:08:48
+Pichi Pichi
+gladys rajona
+M79
+--- 20-03-25 22:09:02
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:09:10
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:09:18
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:09:20
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:09:29
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:09:29
+gladys rajona
+Jot4p3
+M79
+--- 20-03-25 22:10:30
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:10:46
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:11:13
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:11:16
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:11:23
+UnForGiveN*
+Jot4p3
+Steyr AUG
+--- 20-03-25 22:11:30
+UnForGiveN*
+EsclavoDeTuAmor
+Grenade
+--- 20-03-25 22:11:40
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:11:43
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Combat Knife
+--- 20-03-25 22:11:47
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:11:51
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:11:55
+Jot4p3
+UnForGiveN*
+HK MP5
+--- 20-03-25 22:11:59
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:12:05
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:12:11
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:12:17
+EsclavoDeTuAmor
+UnForGiveN*
+Grenade
+--- 20-03-25 22:12:25
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:12:28
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:12:35
+UnForGiveN*
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:12:36
+UnForGiveN*
+Jot4p3
+Grenade
+--- 20-03-25 22:12:39
+|X.Forc3|RainbowDash
+|D.Forc3|Aberracion
+Ak-74
+--- 20-03-25 22:12:42
+|D.Forc3| LawshoT
+EsclavoDeTuAmor
+HK MP5
+--- 20-03-25 22:12:45
+|D.Forc3| LawshoT
+Jot4p3
+Combat Knife
+--- 20-03-25 22:12:48
+|D.Forc3| LawshoT
+|D.Forc3|Aberracion
+Grenade
+--- 20-03-25 22:12:49
+EsclavoDeTuAmor
+|D.Forc3| LawshoT
+Grenade
+--- 20-03-25 22:12:56
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:13:02
+|D.Forc3| LawshoT
+EsclavoDeTuAmor
+HK MP5
+--- 20-03-25 22:13:02
+EsclavoDeTuAmor
+|D.Forc3| LawshoT
+Combat Knife
+--- 20-03-25 22:13:09
+|D.Forc3|Aberracion
+|D.Forc3| LawshoT
+Grenade
+--- 20-03-25 22:13:13
+|D.Forc3|Aberracion
+UnForGiveN*
+USSOCOM
+--- 20-03-25 22:13:14
+|D.Forc3|Aberracion
+|D.Forc3| LawshoT
+Grenade
+--- 20-03-25 22:13:19
+|D.Forc3|Aberracion
+UnForGiveN*
+USSOCOM
+--- 20-03-25 22:13:20
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:13:26
+|X.Forc3|RainbowDash
+|D.Forc3|Aberracion
+Ak-74
+--- 20-03-25 22:13:31
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:13:33
+EsclavoDeTuAmor
+|D.Forc3| LawshoT
+Barrett M82A1
+--- 20-03-25 22:13:33
+|D.Forc3| LawshoT
+EsclavoDeTuAmor
+M79
+--- 20-03-25 22:13:36
+UnForGiveN*
+|D.Forc3|Aberracion
+M79
+--- 20-03-25 22:13:41
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:13:42
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:13:46
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:13:53
+Jot4p3
+|D.Forc3| LawshoT
+Steyr AUG
+--- 20-03-25 22:14:02
+|D.Forc3| LawshoT
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:14:05
+|D.Forc3| LawshoT
+Jot4p3
+Grenade
+--- 20-03-25 22:14:10
+UnForGiveN*
+EsclavoDeTuAmor
+M79
+--- 20-03-25 22:14:11
+|D.Forc3|Aberracion
+UnForGiveN*
+Grenade
+--- 20-03-25 22:14:12
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:14:12
+|D.Forc3|Aberracion
+|D.Forc3|Aberracion
+Grenade
+--- 20-03-25 22:14:15
+Jot4p3
+|D.Forc3| LawshoT
+Steyr AUG
+--- 20-03-25 22:14:25
+|D.Forc3|Aberracion
+UnForGiveN*
+Hands
+--- 20-03-25 22:14:26
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Barrett M82A1
+--- 20-03-25 22:14:26
+|D.Forc3|Aberracion
+|D.Forc3|Aberracion
+Grenade
+--- 20-03-25 22:14:31
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:14:33
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:14:37
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:14:38
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:14:45
+|D.Forc3| LawshoT
+|D.Forc3|Aberracion
+Steyr AUG
+--- 20-03-25 22:14:45
+|D.Forc3|Aberracion
+UnForGiveN*
+Grenade
+--- 20-03-25 22:14:53
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:14:53
+EsclavoDeTuAmor
+|D.Forc3| LawshoT
+Grenade
+--- 20-03-25 22:14:57
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:15:01
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Steyr AUG
+--- 20-03-25 22:15:02
+|D.Forc3| LawshoT
+|D.Forc3|Aberracion
+Steyr AUG
+--- 20-03-25 22:15:14
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:15:14
+|D.Forc3| LawshoT
+EsclavoDeTuAmor
+Steyr AUG
+--- 20-03-25 22:15:14
+EsclavoDeTuAmor
+|D.Forc3| LawshoT
+Grenade
+--- 20-03-25 22:15:30
+|D.Forc3|Aberracion
+|X.Forc3|RainbowDash
+Steyr AUG
+--- 20-03-25 22:15:32
+|D.Forc3| LawshoT
+|D.Forc3|Aberracion
+Steyr AUG
+--- 20-03-25 22:15:35
+|D.Forc3| LawshoT
+Jot4p3
+Steyr AUG
+--- 20-03-25 22:15:38
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:15:44
+Jot4p3
+|X.Forc3|RainbowDash
+Grenade
+--- 20-03-25 22:15:49
+UnForGiveN*
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:15:53
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:15:56
+Jot4p3
+UnForGiveN*
+M79
+--- 20-03-25 22:16:00
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:16:11
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:16:16
+UnForGiveN*
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:16:22
+EsclavoDeTuAmor
+|X.Forc3|RainbowDash
+Combat Knife
+--- 20-03-25 22:16:33
+|X.Forc3|RainbowDash
+EsclavoDeTuAmor
+Ak-74
+--- 20-03-25 22:16:38
+|X.Forc3|RainbowDash
+Jot4p3
+Ak-74
+--- 20-03-25 22:16:42
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:16:50
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:16:55
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:17:02
+UnForGiveN*
+Jot4p3
+Grenade
+--- 20-03-25 22:17:03
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:17:12
+Jot4p3
+UnForGiveN*
+M79
+--- 20-03-25 22:17:19
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:17:29
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:17:40
+UnForGiveN*
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:17:43
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:17:48
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:18:15
+Jot4p3
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:18:29
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:18:39
+Jot4p3
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:18:50
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:18:55
+Jot4p3
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:19:08
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:19:19
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:19:36
+Jot4p3
+UnForGiveN*
+LAW
+--- 20-03-25 22:19:47
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:19:54
+UnForGiveN*
+EsclavoDeTuAmor
+Combat Knife
+--- 20-03-25 22:19:55
+UnForGiveN*
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:20:13
+UnForGiveN*
+Jot4p3
+Grenade
+--- 20-03-25 22:20:14
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:20:26
+EsclavoDeTuAmor
+UnForGiveN*
+Hands
+--- 20-03-25 22:20:38
+Jot4p3
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:20:47
+UnForGiveN*
+Jot4p3
+Barrett M82A1
+--- 20-03-25 22:21:12
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:21:18
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:21:43
+UnForGiveN*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:21:43
+UnForGiveN*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:21:57
+tu mamita a poto pelao
+UnForGiveN*
+LAW
+--- 20-03-25 22:22:01
+UnForGiveN*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:22:01
+tu mamita a poto pelao
+UnForGiveN*
+M79
+--- 20-03-25 22:22:08
+EsclavoDeTuAmor
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:22:21
+tu mamita a poto pelao
+UnForGiveN*
+LAW
+--- 20-03-25 22:22:47
+UnForGiveN*
+EsclavoDeTuAmor
+M79
+--- 20-03-25 22:22:56
+EsclavoDeTuAmor
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:23:16
+tu mamita a poto pelao
+EsclavoDeTuAmor
+Grenade
+--- 20-03-25 22:23:42
+tu mamita a poto pelao
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:24:00
+UnForGiveN*
+EsclavoDeTuAmor
+Grenade
+--- 20-03-25 22:24:05
+UnForGiveN*
+EsclavoDeTuAmor
+M79
+--- 20-03-25 22:24:11
+EsclavoDeTuAmor
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:24:25
+UnForGiveN*
+gladys rajona
+M79
+--- 20-03-25 22:24:27
+EsclavoDeTuAmor
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:24:42
+tu mamita a poto pelao
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:24:57
+[O.S.O] TULON*
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:25:08
+gladys rajona
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:25:21
+tu mamita a poto pelao
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:25:26
+[O.S.O] TULON*
+EsclavoDeTuAmor
+Barrett M82A1
+--- 20-03-25 22:25:26
+EsclavoDeTuAmor
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:25:35
+gladys rajona
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:25:42
+tu mamita a poto pelao
+EsclavoDeTuAmor
+LAW
+--- 20-03-25 22:26:17
+[O.S.O] TULON*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:26:24
+[O.S.O] TULON*
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:26:28
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:26:56
+UnForGiveN*
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:27:06
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:27:19
+tu mamita a poto pelao
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:27:21
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:27:30
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:27:30
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:27:35
+EsclavoDeTuAmor
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:27:41
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:27:55
+gladys rajona
+UnForGiveN*
+M79
+--- 20-03-25 22:28:01
+UnForGiveN*
+[O.S.O] TULON*
+Grenade
+--- 20-03-25 22:28:07
+tu mamita a poto pelao
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:28:10
+UnForGiveN*
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:28:14
+gladys rajona
+UnForGiveN*
+M79
+--- 20-03-25 22:28:15
+tu mamita a poto pelao
+gladys rajona
+Barrett M82A1
+--- 20-03-25 22:28:16
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:28:24
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:28:27
+UnForGiveN*
+gladys rajona
+M79
+--- 20-03-25 22:28:36
+[O.S.O] TULON*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:28:37
+UnForGiveN*
+gladys rajona
+Grenade
+--- 20-03-25 22:28:40
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:28:43
+UnForGiveN*
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:28:48
+UnForGiveN*
+gladys rajona
+M79
+--- 20-03-25 22:28:54
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:29:02
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:29:02
+tu mamita a poto pelao
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:29:17
+gladys rajona
+tu mamita a poto pelao
+M79
+--- 20-03-25 22:29:24
+tu mamita a poto pelao
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:29:27
+tu mamita a poto pelao
+gladys rajona
+M79
+--- 20-03-25 22:29:34
+[O.S.O] TULON*
+UnForGiveN*
+Barrett M82A1
+--- 20-03-25 22:29:36
+tu mamita a poto pelao
+gladys rajona
+M79
+--- 20-03-25 22:29:44
+tu mamita a poto pelao
+gladys rajona
+M79
+--- 20-03-25 22:29:45
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:29:47
+UnForGiveN*
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:30:09
+tu mamita a poto pelao
+gladys rajona
+M79
+--- 20-03-25 22:31:17
+gladys rajona
+tu mamita a poto pelao
+M79
+--- 20-03-25 22:31:29
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:31:38
+tu mamita a poto pelao
+[O.S.O] TULON*
+LAW
+--- 20-03-25 22:32:08
+tu mamita a poto pelao
+[O.S.O] TULON*
+LAW
+--- 20-03-25 22:32:26
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:40:15
+tu mamita a poto pelao
+[O.S.O] TULON*
+Steyr AUG
+--- 20-03-25 22:40:52
+tu mamita a poto pelao
+[O.S.O] TULON*
+Steyr AUG
+--- 20-03-25 22:41:07
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:41:21
+tu mamita a poto pelao
+[O.S.O] TULON*
+Steyr AUG
+--- 20-03-25 22:41:33
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:41:41
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:41:46
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:41:51
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:41:55
+tu mamita a poto pelao
+[O.S.O] TULON*
+LAW
+--- 20-03-25 22:42:14
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:42:19
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:42:27
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:42:40
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:42:54
+[O.S.O] TULON*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:43:00
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:43:14
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:43:29
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:43:55
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:44:01
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:44:20
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:44:28
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:45:00
+[O.S.O] TULON*
+tu mamita a poto pelao
+Grenade
+--- 20-03-25 22:45:34
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:45:43
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:45:48
+tu mamita a poto pelao
+[O.S.O] TULON*
+LAW
+--- 20-03-25 22:46:01
+[O.S.O] TULON*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:46:09
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:46:13
+tu mamita a poto pelao
+[O.S.O] TULON*
+Combat Knife
+--- 20-03-25 22:46:13
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:46:56
+tu mamita a poto pelao
+[O.S.O] TULON*
+M79
+--- 20-03-25 22:47:19
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:47:43
+[O.S.O] TULON*
+tu mamita a poto pelao
+Combat Knife
+--- 20-03-25 22:47:48
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:48:20
+tu mamita a poto pelao
+TALO BOX
+M79
+--- 20-03-25 22:48:29
+tu mamita a poto pelao
+TALO BOX
+M79
+--- 20-03-25 22:48:39
+TALO BOX
+tu mamita a poto pelao
+M79
+--- 20-03-25 22:48:45
+tu mamita a poto pelao
+[O.S.O] TULON*
+Combat Knife
+--- 20-03-25 22:48:53
+tu mamita a poto pelao
+TALO BOX
+M79
+--- 20-03-25 22:49:03
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:03
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:49:19
+tu mamita a poto pelao
+TALO BOX
+M79
+--- 20-03-25 22:49:28
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:34
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:39
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:46
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:52
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:49:56
+TALO BOX
+tu mamita a poto pelao
+M79
+--- 20-03-25 22:50:14
+TALO BOX
+tu mamita a poto pelao
+M79
+--- 20-03-25 22:50:20
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:50:25
+tu mamita a poto pelao
+[O.S.O] TULON*
+Combat Knife
+--- 20-03-25 22:50:51
+tu mamita a poto pelao
+[O.S.O] TULON*
+Barrett M82A1
+--- 20-03-25 22:51:35
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:52:40
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:52:47
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:53:11
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1
+--- 20-03-25 22:53:26
+tu mamita a poto pelao
+[O.S.O] TULON*
+Ak-74
+--- 20-03-25 22:53:40
+tu mamita a poto pelao
+[O.S.O] TULON*
+Ak-74
+--- 20-03-25 22:53:48
+tu mamita a poto pelao
+[O.S.O] TULON*
+Ak-74
+--- 20-03-25 22:53:59
+[O.S.O] TULON*
+tu mamita a poto pelao
+Barrett M82A1

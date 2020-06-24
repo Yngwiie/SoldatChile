@@ -1,0 +1,298 @@
+20-04-15 18:38:37    Log Started
+20-04-15 18:38:37 Opened C:\Users\Administrador\Desktop\Publico\soldat.ini
+20-04-15 18:38:37 Creating network interface.
+20-04-15 18:38:37 Loading Animations.
+20-04-15 18:38:37 Loading Lobby Servers List
+20-04-15 18:38:37 Loading Maps List
+20-04-15 18:38:37 Loading Map.
+20-04-15 18:38:37 Creating Weapons.
+20-04-15 18:38:37 Starting Game Server.
+20-04-15 18:38:37 TCP/IP File Server started
+20-04-15 18:58:29  Net - Zazza.cl connected 15-04-2020 18:58:29
+20-04-15 18:58:37  Net - Zazza.cl disconnected 15-04-2020 18:58:37
+20-04-15 19:08:38 TCP/IP File Server started
+20-04-15 19:20:36  Net - .:{MIS}:. Leche connected 15-04-2020 19:20:36
+20-04-15 19:20:40  Net - .:{MIS}:. Leche disconnected 15-04-2020 19:20:40
+20-04-15 19:26:16  Net - -phobos connected 15-04-2020 19:26:16
+20-04-15 19:35:10  Net - -phobos disconnected 15-04-2020 19:35:10
+20-04-15 19:35:33  Net - -phobos connected 15-04-2020 19:35:33
+20-04-15 19:38:30  Net - sugoi-ne connected 15-04-2020 19:38:30
+20-04-15 19:38:38 TCP/IP File Server started
+20-04-15 19:46:11  Net - sugoi-ne disconnected 15-04-2020 19:46:11
+20-04-15 19:46:57  Net - -phobos disconnected 15-04-2020 19:46:57
+20-04-15 20:02:53  Net - MasTerKOF2015 connected 15-04-2020 20:02:53
+20-04-15 20:05:45  Net - MasTerKOF2015 disconnected 15-04-2020 20:05:45
+20-04-15 20:08:38 TCP/IP File Server started
+20-04-15 20:38:38 TCP/IP File Server started
+20-04-15 20:45:51  Net - ROY1212 connected 15-04-2020 20:45:51
+20-04-15 20:46:35  Net - ROY1212 disconnected 15-04-2020 20:46:35
+20-04-15 20:54:19  Net - [KnF] Yakuza connected 15-04-2020 20:54:19
+20-04-15 20:54:29  Net - [KnF] Yakuza disconnected 15-04-2020 20:54:29
+20-04-15 20:54:58  Net - [KnF] Yakuza connected 15-04-2020 20:54:58
+20-04-15 20:55:01  Net - [KnF] Yakuza disconnected 15-04-2020 20:55:01
+20-04-15 21:08:38 TCP/IP File Server started
+20-04-15 21:38:38 TCP/IP File Server started
+20-04-15 21:52:20  Net - [KnF] Yakuza connected 15-04-2020 21:52:20
+20-04-15 21:52:26  Net - [KnF] Yakuza disconnected 15-04-2020 21:52:26
+20-04-15 21:53:38  Net - Squash connected 15-04-2020 21:53:38
+20-04-15 21:53:50  Net - Squash disconnected 15-04-2020 21:53:50
+20-04-15 22:08:38 TCP/IP File Server started
+20-04-15 22:38:38 TCP/IP File Server started
+20-04-15 22:51:52  Net - -phobos connected 15-04-2020 22:51:52
+20-04-15 22:51:53  Net - -phobos disconnected 15-04-2020 22:51:53
+20-04-15 23:08:38 TCP/IP File Server started
+20-04-15 23:14:37  Net - .:{MIS}:. Leche connected 15-04-2020 23:14:37
+20-04-15 23:14:40  Net - .:{MIS}:. Leche disconnected 15-04-2020 23:14:40
+20-04-15 23:27:18  Net - sugoi-ne connected 15-04-2020 23:27:18
+20-04-15 23:27:36  Net - Major connected 15-04-2020 23:27:36
+20-04-15 23:28:17  Net - Zazza.cl  {AR} connected 15-04-2020 23:28:17
+20-04-15 23:28:21  Net - Zazza.cl  {AR} connected 15-04-2020 23:28:21
+20-04-15 23:28:39  Net - Major connected 15-04-2020 23:28:39
+20-04-15 23:29:41  Net - sugoi-ne disconnected 15-04-2020 23:29:41
+20-04-15 23:30:46  Net - Zazza.cl  {AR} disconnected 15-04-2020 23:30:46
+20-04-15 23:30:52  Net - Major disconnected 15-04-2020 23:30:52
+20-04-15 23:38:38 TCP/IP File Server started
+20-04-16 00:08:38 TCP/IP File Server started
+20-04-16 00:21:00  Net - Major connected 16-04-2020 0:21:00
+20-04-16 00:21:03  Net - Zazza.cl  {AR} connected 16-04-2020 0:21:03
+20-04-16 00:22:18  Net - S2 ~ DeFkOndOz* connected 16-04-2020 0:22:18
+20-04-16 00:22:21  Net - S2 ~ DeFkOndOz* disconnected 16-04-2020 0:22:21
+20-04-16 00:22:25  Net - Zazza.cl  {AR} disconnected 16-04-2020 0:22:25
+20-04-16 00:22:28  Net - Major disconnected 16-04-2020 0:22:28
+20-04-16 00:29:05  Net - -phobos connected 16-04-2020 0:29:05
+20-04-16 00:29:12  Net - -phobos disconnected 16-04-2020 0:29:12
+20-04-16 00:38:38 TCP/IP File Server started
+20-04-16 01:08:38 TCP/IP File Server started
+20-04-16 01:17:40  Net - COMANDO KELOKE connected 16-04-2020 1:17:40
+20-04-16 01:17:43  Net - COMANDO KELOKE disconnected 16-04-2020 1:17:43
+20-04-16 01:38:38 TCP/IP File Server started
+20-04-16 02:08:38 TCP/IP File Server started
+20-04-16 02:38:38 TCP/IP File Server started
+20-04-16 03:08:38 TCP/IP File Server started
+20-04-16 03:38:38 TCP/IP File Server started
+20-04-16 04:08:38 TCP/IP File Server started
+20-04-16 04:38:38 TCP/IP File Server started
+20-04-16 05:08:38 TCP/IP File Server started
+20-04-16 05:38:38 TCP/IP File Server started
+20-04-16 06:08:38 TCP/IP File Server started
+20-04-16 06:38:38 TCP/IP File Server started
+20-04-16 07:08:38 TCP/IP File Server started
+20-04-16 07:38:38 TCP/IP File Server started
+20-04-16 08:08:38 TCP/IP File Server started
+20-04-16 08:38:38 TCP/IP File Server started
+20-04-16 09:08:38 TCP/IP File Server started
+20-04-16 09:38:38 TCP/IP File Server started
+20-04-16 10:08:38 TCP/IP File Server started
+20-04-16 10:38:38 TCP/IP File Server started
+20-04-16 11:08:38 TCP/IP File Server started
+20-04-16 11:38:38 TCP/IP File Server started
+20-04-16 12:08:38 TCP/IP File Server started
+20-04-16 12:38:38 TCP/IP File Server started
+20-04-16 13:06:50  Net - #KbN! Dumpw. connected 16-04-2020 13:06:50
+20-04-16 13:07:20  Net - #KbN! Dumpw. disconnected 16-04-2020 13:07:20
+20-04-16 13:08:38 TCP/IP File Server started
+20-04-16 13:37:02  Net - steelpro1 connected 16-04-2020 13:37:02
+20-04-16 13:37:27  Net - Raytwist connected 16-04-2020 13:37:27
+20-04-16 13:37:41  Net - Cianter connected 16-04-2020 13:37:41
+20-04-16 13:38:38 TCP/IP File Server started
+20-04-16 13:39:18  Net - Blostios connected 16-04-2020 13:39:18
+20-04-16 13:42:10  Net - FRANK CASTLE connected 16-04-2020 13:42:10
+20-04-16 13:46:55  Net - steelpro1 disconnected 16-04-2020 13:46:55
+20-04-16 13:47:19  Net - steelpro1 connected 16-04-2020 13:47:19
+20-04-16 13:49:03  Net - Cianter disconnected 16-04-2020 13:49:03
+20-04-16 13:49:07  Net - Raytwist disconnected 16-04-2020 13:49:07
+20-04-16 13:49:07  Net - steelpro1 disconnected 16-04-2020 13:49:07
+20-04-16 13:49:22  Net - FRANK CASTLE disconnected 16-04-2020 13:49:22
+20-04-16 13:49:44  Net - Blostios disconnected 16-04-2020 13:49:44
+20-04-16 14:03:38  Net - #KbN! Dumpw. connected 16-04-2020 14:03:38
+20-04-16 14:06:38  Net - #KbN! Dumpw. disconnected 16-04-2020 14:06:38
+20-04-16 14:08:38 TCP/IP File Server started
+20-04-16 14:38:38 TCP/IP File Server started
+20-04-16 15:00:49  Net - [UnK] KorN connected 16-04-2020 15:00:49
+20-04-16 15:02:35  Net - [UnK] KorN disconnected 16-04-2020 15:02:35
+20-04-16 15:08:38 TCP/IP File Server started
+20-04-16 15:38:38 TCP/IP File Server started
+20-04-16 15:44:49  Net - RtP| SontercL MvP connected 16-04-2020 15:44:49
+20-04-16 15:52:44  Net - RtP| SontercL MvP disconnected 16-04-2020 15:52:44
+20-04-16 16:08:38 TCP/IP File Server started
+20-04-16 16:38:38 TCP/IP File Server started
+20-04-16 16:43:26  Net - Zazza.cl  {AR} connected 16-04-2020 16:43:26
+20-04-16 16:43:33  Net - Zazza.cl  {AR} disconnected 16-04-2020 16:43:33
+20-04-16 17:08:38 TCP/IP File Server started
+20-04-16 17:38:38 TCP/IP File Server started
+20-04-16 18:08:38 TCP/IP File Server started
+20-04-16 18:37:39  Net - StipZ* connected 16-04-2020 18:37:39
+20-04-16 18:37:41  Net - StipZ* disconnected 16-04-2020 18:37:41
+20-04-16 18:38:38 TCP/IP File Server started
+20-04-16 18:45:08  Net - eX.- Ratzor connected 16-04-2020 18:45:08
+20-04-16 18:45:41  Net - sugoi-ne connected 16-04-2020 18:45:41
+20-04-16 18:47:18  Net - S2 ~ patuzhO* connected 16-04-2020 18:47:18
+20-04-16 18:49:07  Net - eX.- Ratzor connected 16-04-2020 18:49:07
+20-04-16 18:49:31  Net - StC-ACE connected 16-04-2020 18:49:31
+20-04-16 18:56:15  Net - S2 ~ patuzhO* disconnected 16-04-2020 18:56:15
+20-04-16 18:56:17  Net - eX.- Ratzor disconnected 16-04-2020 18:56:17
+20-04-16 18:56:24  Net - TiTi connected 16-04-2020 18:56:24
+20-04-16 18:56:25  Net - StC-ACE disconnected 16-04-2020 18:56:25
+20-04-16 18:56:28  Net - sugoi-ne disconnected 16-04-2020 18:56:28
+20-04-16 18:57:08  Net - TiTi disconnected 16-04-2020 18:57:08
+20-04-16 19:08:38 TCP/IP File Server started
+20-04-16 19:09:16  Net - -phobos connected 16-04-2020 19:09:16
+20-04-16 19:09:32  Net - -phobos disconnected 16-04-2020 19:09:32
+20-04-16 19:38:38 TCP/IP File Server started
+20-04-16 19:53:45  Net - B.B connected 16-04-2020 19:53:45
+20-04-16 19:54:10  Net - B.B disconnected 16-04-2020 19:54:10
+20-04-16 20:08:38 TCP/IP File Server started
+20-04-16 20:10:34  Net - covidiot connected 16-04-2020 20:10:34
+20-04-16 20:10:38  Net - covidiot disconnected 16-04-2020 20:10:38
+20-04-16 20:12:31  Net - Roxas721 connected 16-04-2020 20:12:31
+20-04-16 20:13:12  Net - Roxas721 disconnected 16-04-2020 20:13:12
+20-04-16 20:19:56  Net - Zazza.cl  {AK} connected 16-04-2020 20:19:56
+20-04-16 20:22:53  Net - Zazza.cl  {AK} disconnected 16-04-2020 20:22:53
+20-04-16 20:38:38 TCP/IP File Server started
+20-04-16 21:08:38 TCP/IP File Server started
+20-04-16 21:21:23  Net - COVID-19 FROM CHILE connected 16-04-2020 21:21:23
+20-04-16 21:21:49  Net - COVID-19 FROM CHILE disconnected 16-04-2020 21:21:49
+20-04-16 21:29:44  Net - Mehdi connected 16-04-2020 21:29:44
+20-04-16 21:33:23  Net - Mehdi disconnected 16-04-2020 21:33:23
+20-04-16 21:38:38 TCP/IP File Server started
+20-04-16 22:08:38 TCP/IP File Server started
+20-04-16 22:11:04  Net - .:{MIS}:. Leche connected 16-04-2020 22:11:04
+20-04-16 22:11:07  Net - .:{MIS}:. Leche disconnected 16-04-2020 22:11:07
+20-04-16 22:19:53  Net - rast94 connected 16-04-2020 22:19:53
+20-04-16 22:20:31  Net - Galahad connected 16-04-2020 22:20:31
+20-04-16 22:20:46  Net - guatonmorsa connected 16-04-2020 22:20:46
+20-04-16 22:20:56  Net - guatonmorsa connected 16-04-2020 22:20:56
+20-04-16 22:26:52  Net - rast94 connected 16-04-2020 22:26:52
+20-04-16 22:30:20  Net - rast94 connected 16-04-2020 22:30:20
+20-04-16 22:35:35  Net - Mehdi connected 16-04-2020 22:35:35
+20-04-16 22:35:42  Net - rast94 connected 16-04-2020 22:35:42
+20-04-16 22:37:36  Net - Mehdi disconnected 16-04-2020 22:37:36
+20-04-16 22:38:15  Net - Galahad disconnected 16-04-2020 22:38:15
+20-04-16 22:38:38 TCP/IP File Server started
+20-04-16 22:38:52  Net - rast94 disconnected 16-04-2020 22:38:52
+20-04-16 22:38:59  Net - guatonmorsa disconnected 16-04-2020 22:38:59
+20-04-16 22:59:19  Net - La Pollo connected 16-04-2020 22:59:19
+20-04-16 22:59:41  Net - xaguin connected 16-04-2020 22:59:41
+20-04-16 22:59:43  Net - Maruchan connected 16-04-2020 22:59:43
+20-04-16 22:59:46  Net - Diegokun connected 16-04-2020 22:59:46
+20-04-16 22:59:52  Net - Babrisimo connected 16-04-2020 22:59:52
+20-04-16 23:01:11  Net - Diegokun connected 16-04-2020 23:01:11
+20-04-16 23:01:50  Net - K!llersBN#| chub0 connected 16-04-2020 23:01:50
+20-04-16 23:02:14  Net - Koma connected 16-04-2020 23:02:14
+20-04-16 23:03:17  Net - K!llersBN#| chub0 disconnected 16-04-2020 23:03:17
+20-04-16 23:08:38 TCP/IP File Server started
+20-04-16 23:08:55  Net - K!llersBN#| chub0 connected 16-04-2020 23:08:55
+20-04-16 23:09:48  Net - Concentrated Orange Jews connected 16-04-2020 23:09:48
+20-04-16 23:09:52  Net - Concentrated Orange Jews connected 16-04-2020 23:09:52
+20-04-16 23:10:28  Net - aliencita_gotik connected 16-04-2020 23:10:28
+20-04-16 23:10:30  Net - aliencita_gotik disconnected 16-04-2020 23:10:30
+20-04-16 23:10:35  Net - Koma disconnected 16-04-2020 23:10:35
+20-04-16 23:10:36  Net - La Pollo disconnected 16-04-2020 23:10:36
+20-04-16 23:10:38  Net - Babrisimo disconnected 16-04-2020 23:10:38
+20-04-16 23:10:41  Net - aliencita_gotik connected 16-04-2020 23:10:41
+20-04-16 23:10:52  Net - aliencita_gotik disconnected 16-04-2020 23:10:52
+20-04-16 23:11:19  Net - Concentrated Orange Jews disconnected 16-04-2020 23:11:19
+20-04-16 23:11:30  Net - K!llersBN#| chub0 disconnected 16-04-2020 23:11:30
+20-04-16 23:12:12  Net - La Pollo connected 16-04-2020 23:12:12
+20-04-16 23:12:24  Net - Babrisimo connected 16-04-2020 23:12:24
+20-04-16 23:13:04  Net - La Pollo disconnected 16-04-2020 23:13:04
+20-04-16 23:13:10  Net - Babrisimo disconnected 16-04-2020 23:13:10
+20-04-16 23:13:20  Net - ArepasBoy88 connected 16-04-2020 23:13:20
+20-04-16 23:14:40  Net - Babrisimo connected 16-04-2020 23:14:40
+20-04-16 23:15:30  Net - Koma connected 16-04-2020 23:15:30
+20-04-16 23:15:30  Net - La Pollo connected 16-04-2020 23:15:30
+20-04-16 23:16:35  Net - PAJAROKK connected 16-04-2020 23:16:35
+20-04-16 23:17:47  Net - ArepasBoy88 disconnected 16-04-2020 23:17:47
+20-04-16 23:18:05  Net - Mehdi connected 16-04-2020 23:18:05
+20-04-16 23:18:22  Net - Babrisimo disconnected 16-04-2020 23:18:22
+20-04-16 23:18:28  Net - Babrisimo connected 16-04-2020 23:18:28
+20-04-16 23:18:40  Net - Babrisimo disconnected 16-04-2020 23:18:40
+20-04-16 23:18:58  Net - Babrisimo connected 16-04-2020 23:18:58
+20-04-16 23:21:25  Net - Koma disconnected 16-04-2020 23:21:25
+20-04-16 23:22:16  Net - Babrisimo disconnected 16-04-2020 23:22:16
+20-04-16 23:22:19  Net - La Pollo disconnected 16-04-2020 23:22:19
+20-04-16 23:23:14  Net - EvilElsie52 connected 16-04-2020 23:23:14
+20-04-16 23:23:44  Net - Diegokun disconnected 16-04-2020 23:23:44
+20-04-16 23:24:06  Net - Babrisimo connected 16-04-2020 23:24:06
+20-04-16 23:24:32  Net - La Pollo connected 16-04-2020 23:24:32
+20-04-16 23:24:34  Net - ALFAJOR connected 16-04-2020 23:24:34
+20-04-16 23:24:36  Net - EvilElsie52 disconnected 16-04-2020 23:24:36
+20-04-16 23:25:00  Net - Diegokun connected 16-04-2020 23:25:00
+20-04-16 23:26:05  Net - K!llersBN#| chub0 connected 16-04-2020 23:26:05
+20-04-16 23:26:11  Net - K!llersBN#| chub0 connected 16-04-2020 23:26:11
+20-04-16 23:26:56  Net - #KbN! Dumpw. connected 16-04-2020 23:26:56
+20-04-16 23:27:01  Net - atheria connected 16-04-2020 23:27:01
+20-04-16 23:27:41  Net - guatonmorsa connected 16-04-2020 23:27:41
+20-04-16 23:27:55  Net - ALFAJOR disconnected 16-04-2020 23:27:55
+20-04-16 23:28:49  Net - K!llersBN#| chub0 disconnected 16-04-2020 23:28:49
+20-04-16 23:29:05  Net - atheria disconnected 16-04-2020 23:29:05
+20-04-16 23:29:27  Net - [SADAR] connected 16-04-2020 23:29:27
+20-04-16 23:29:33  Net - [SADAR] disconnected 16-04-2020 23:29:33
+20-04-16 23:29:46  Net - #KbN! Dumpw. disconnected 16-04-2020 23:29:46
+20-04-16 23:32:44  Net - PAJAROKK disconnected 16-04-2020 23:32:44
+20-04-16 23:34:24  Net - a13432156 connected 16-04-2020 23:34:24
+20-04-16 23:34:55  Net - cristobal.rivas92 connected 16-04-2020 23:34:55
+20-04-16 23:34:57  Net - Babrisimo disconnected 16-04-2020 23:34:57
+20-04-16 23:35:08  Net - La Pollo disconnected 16-04-2020 23:35:08
+20-04-16 23:35:41  Net - a13432156 disconnected 16-04-2020 23:35:41
+20-04-16 23:36:20  Net - Mehdi connected 16-04-2020 23:36:20
+20-04-16 23:36:41  Net - xaguin disconnected 16-04-2020 23:36:41
+20-04-16 23:36:43  Net - Mehdi disconnected 16-04-2020 23:36:43
+20-04-16 23:37:48  Net - cristobal.rivas92 connected 16-04-2020 23:37:48
+20-04-16 23:37:54  Net - Maruchan disconnected 16-04-2020 23:37:54
+20-04-16 23:38:32  Net - Doom connected 16-04-2020 23:38:32
+20-04-16 23:38:38 TCP/IP File Server started
+20-04-16 23:38:53  Net - guatonmorsa connected 16-04-2020 23:38:53
+20-04-16 23:39:46  Net - Doom disconnected 16-04-2020 23:39:46
+20-04-16 23:40:03  Net - cristobal.rivas92 disconnected 16-04-2020 23:40:03
+20-04-16 23:40:30  Net - La Pollo connected 16-04-2020 23:40:30
+20-04-16 23:40:55  Net - La Pollo disconnected 16-04-2020 23:40:55
+20-04-16 23:41:24  Net - Diegokun disconnected 16-04-2020 23:41:24
+20-04-16 23:41:35  Net - guatonmorsa disconnected 16-04-2020 23:41:35
+20-04-16 23:45:30  Net - Blostios connected 16-04-2020 23:45:30
+20-04-16 23:45:33  Net - Blostios disconnected 16-04-2020 23:45:33
+20-04-17 00:00:08  Net - sugoi-ne connected 17-04-2020 0:00:08
+20-04-17 00:00:09  Net - sugoi-ne disconnected 17-04-2020 0:00:09
+20-04-17 00:08:38 TCP/IP File Server started
+20-04-17 00:38:38 TCP/IP File Server started
+20-04-17 01:08:38 TCP/IP File Server started
+20-04-17 01:38:38 TCP/IP File Server started
+20-04-17 02:08:29  Net - Gml connected 17-04-2020 2:08:29
+20-04-17 02:08:38 TCP/IP File Server started
+20-04-17 02:08:56  Net - Gml disconnected 17-04-2020 2:08:56
+20-04-17 02:13:08  Net - Gml connected 17-04-2020 2:13:08
+20-04-17 02:13:22  Net - lemillion connected 17-04-2020 2:13:22
+20-04-17 02:13:22  Net - Seba  :)   tradeit.gg connected 17-04-2020 2:13:22
+20-04-17 02:14:43  Net - lemillion disconnected 17-04-2020 2:14:43
+20-04-17 02:15:01  Net - lemillion connected 17-04-2020 2:15:01
+20-04-17 02:16:30  Net - Seba  :)   tradeit.gg disconnected 17-04-2020 2:16:30
+20-04-17 02:17:16  Net - Seba  :)   tradeit.gg connected 17-04-2020 2:17:16
+20-04-17 02:21:05  Net - Seba  :)   tradeit.gg connected 17-04-2020 2:21:05
+20-04-17 02:25:56  Net - Bolacho i2q chile connected 17-04-2020 2:25:56
+20-04-17 02:36:10  Net - Seba  :)   tradeit.gg disconnected 17-04-2020 2:36:10
+20-04-17 02:36:14  Net - lemillion disconnected 17-04-2020 2:36:14
+20-04-17 02:36:19  Net - Gml disconnected 17-04-2020 2:36:19
+20-04-17 02:37:30  Net - Bolacho i2q chile disconnected 17-04-2020 2:37:30
+20-04-17 02:38:38 TCP/IP File Server started
+20-04-17 03:08:38 TCP/IP File Server started
+20-04-17 03:38:38 TCP/IP File Server started
+20-04-17 04:08:38 TCP/IP File Server started
+20-04-17 04:38:38 TCP/IP File Server started
+20-04-17 05:08:38 TCP/IP File Server started
+20-04-17 05:38:38 TCP/IP File Server started
+20-04-17 06:08:38 TCP/IP File Server started
+20-04-17 06:38:38 TCP/IP File Server started
+20-04-17 07:08:38 TCP/IP File Server started
+20-04-17 07:38:38 TCP/IP File Server started
+20-04-17 08:08:38 TCP/IP File Server started
+20-04-17 08:38:38 TCP/IP File Server started
+20-04-17 09:08:38 TCP/IP File Server started
+20-04-17 09:38:38 TCP/IP File Server started
+20-04-17 10:08:38 TCP/IP File Server started
+20-04-17 10:38:38 TCP/IP File Server started
+20-04-17 11:08:38 TCP/IP File Server started
+20-04-17 11:38:38 TCP/IP File Server started
+20-04-17 12:08:38 TCP/IP File Server started
+20-04-17 12:38:38 TCP/IP File Server started
+20-04-17 13:02:47 Destroying Devices.
+20-04-17 13:02:47    End of Log.

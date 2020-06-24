@@ -1,0 +1,62 @@
+20-04-21 03:00:41    Log Started
+20-04-21 03:00:41 Opened /home/kader_b/int1/soldat.ini
+20-04-21 03:00:41 Creating network interface.
+20-04-21 03:00:41 Loading Animations.
+20-04-21 03:00:41 Loading Lobby Servers List
+20-04-21 03:00:41 Loading Maps List
+20-04-21 03:00:41 Loading Map.
+20-04-21 03:00:41 Creating Weapons.
+20-04-21 03:00:41 Starting Game Server.
+20-04-21 03:00:41 TCP/IP File Server started
+20-04-21 03:00:46  Net - RtP| SontercL connected 21-4-20 03:00:46
+20-04-21 03:00:48  Net - Divas| mipHo connected 21-4-20 03:00:48
+20-04-21 03:00:48  Net - Divas| Enigma connected 21-4-20 03:00:48
+20-04-21 03:00:50  Net - RtP| LoKitoHcL connected 21-4-20 03:00:50
+20-04-21 03:00:53  Net - Divas| Rattle connected 21-4-20 03:00:53
+20-04-21 03:00:56  Net - Divas| Sk8' connected 21-4-20 03:00:56
+20-04-21 03:00:57  Net - RtP| Shuter connected 21-4-20 03:00:57
+20-04-21 03:01:15  Net - Divas| Sk8' disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - Divas| mipHo disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - RtP| Shuter disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - RtP| SontercL disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - RtP| LoKitoHcL disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - Divas| Rattle disconnected 21-4-20 03:01:15
+20-04-21 03:01:15  Net - Divas| Enigma disconnected 21-4-20 03:01:15
+20-04-21 03:01:19  Net - Divas| mipHo connected 21-4-20 03:01:19
+20-04-21 03:01:20  Net - RtP| LoKitoHcL connected 21-4-20 03:01:20
+20-04-21 03:01:21  Net - RtP| SontercL connected 21-4-20 03:01:21
+20-04-21 03:01:22  Net - Divas| mipHo connected 21-4-20 03:01:22
+20-04-21 03:01:23  Net - Divas| Enigma connected 21-4-20 03:01:23
+20-04-21 03:01:24  Net - Divas| Sk8' connected 21-4-20 03:01:24
+20-04-21 03:01:27  Net - Divas| Enigma disconnected 21-4-20 03:01:27
+20-04-21 03:01:28  Net - Divas| Enigma connected 21-4-20 03:01:28
+20-04-21 03:01:29  Net - Divas| Sk8' disconnected 21-4-20 03:01:29
+20-04-21 03:01:31  Net - Divas| Sk8' connected 21-4-20 03:01:31
+20-04-21 03:01:35  Net - RtP| Shuter connected 21-4-20 03:01:35
+20-04-21 03:01:38  Net - Divas| Rattle connected 21-4-20 03:01:38
+20-04-21 03:12:18  Net - Divas| Rattle disconnected 21-4-20 03:12:18
+20-04-21 03:12:19  Net - RtP| LoKitoHcL disconnected 21-4-20 03:12:19
+20-04-21 03:12:19  Net - RtP| Shuter disconnected 21-4-20 03:12:19
+20-04-21 03:12:21  Net - Divas| mipHo disconnected 21-4-20 03:12:21
+20-04-21 03:12:21  Net - RtP| SontercL disconnected 21-4-20 03:12:21
+20-04-21 03:12:24  Net - Divas| Sk8' disconnected 21-4-20 03:12:24
+20-04-21 03:12:25  Net - Divas| Enigma disconnected 21-4-20 03:12:25
+20-04-21 03:30:41 TCP/IP File Server started
+20-04-21 03:32:49  Net - K!NG| YnGwi3 connected 21-4-20 03:32:49
+20-04-21 03:32:51  Net - Divas| Enigma connected 21-4-20 03:32:51
+20-04-21 03:32:55  Net - Divas| Rattle connected 21-4-20 03:32:55
+20-04-21 03:33:03  Net - Divas| Rattle connected 21-4-20 03:33:03
+20-04-21 03:33:07  Net - K!NG| Rakkety connected 21-4-20 03:33:07
+20-04-21 03:33:32  Net - Divas| Sk8' connected 21-4-20 03:33:32
+20-04-21 03:33:36  Net - K!NG| MaaX* connected 21-4-20 03:33:36
+20-04-21 03:55:02  Net - cN.HughscL Stream connected 21-4-20 03:55:02
+20-04-21 03:55:27  Net - cN.HughscL Stream disconnected 21-4-20 03:55:27
+20-04-21 03:56:07  Net - K!NG| YnGwi3 disconnected 21-4-20 03:56:07
+20-04-21 03:56:08  Net - Divas| Rattle disconnected 21-4-20 03:56:08
+20-04-21 03:56:09  Net - K!NG| Rakkety disconnected 21-4-20 03:56:09
+20-04-21 03:56:10  Net - Divas| Enigma disconnected 21-4-20 03:56:10
+20-04-21 03:56:10  Net - K!NG| MaaX* disconnected 21-4-20 03:56:10
+20-04-21 03:56:12  Net - Divas| Sk8' disconnected 21-4-20 03:56:12
+20-04-21 03:56:49  Net - eX.- Necro connected 21-4-20 03:56:49
+20-04-21 03:56:50  Net - eX.- Necro disconnected 21-4-20 03:56:50
+20-04-21 04:00:56 TCP/IP File Server started

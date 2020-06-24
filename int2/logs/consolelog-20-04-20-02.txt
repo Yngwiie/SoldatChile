@@ -1,0 +1,196 @@
+20-04-20 17:11:56    Console Log Started
+20-04-20 17:11:56 Welcome to Soldat 1.7.1
+20-04-20 17:11:56  [*] Preparing scripts to be launched
+20-04-20 17:11:56  [*] [BasicCommands] Loading bytecode
+20-04-20 17:11:56  [*] [BasicCommands] Bytecode loaded
+20-04-20 17:11:56  [*] Compiling match -> match.pas...
+20-04-20 17:11:56  [*] match compiled
+20-04-20 17:11:56  [*] Done
+20-04-20 17:11:56 Lothic - Gothic Lobby Room
+20-04-20 17:11:56 Loaded weapons mod "Default v1.8"
+20-04-20 17:11:56  Connection for file server started. Port: 23210
+20-04-20 17:11:56 Registering server @ 88.99.234.252
+20-04-20 17:12:02 45.232.32.136:44744|64995B15DC0 requesting game...
+20-04-20 17:12:04 K!NG| YnGwi3 joining game (45.232.32.136:44744) HWID:64995B15DC0
+20-04-20 17:12:04 K!NG| YnGwi3 has joined bravo team.
+20-04-20 17:14:22 Admin connected (45.232.32.136).
+20-04-20 17:14:22 /friendlyfire (45.232.32.136)
+20-04-20 17:14:22 Friendly Fire is 0
+20-04-20 17:14:22 /bonus (45.232.32.136)
+20-04-20 17:14:22 Current bonus frequency is 0
+20-04-20 17:14:22 /vote% (45.232.32.136)
+20-04-20 17:14:22 Voting percent is 60
+20-04-20 17:14:22 /respawntime (45.232.32.136)
+20-04-20 17:14:22 Respawn time is 3 seconds
+20-04-20 17:14:22 /maxrespawntime (45.232.32.136)
+20-04-20 17:14:22 Maximum Respawn time is 5 seconds
+20-04-20 17:14:36 K!NG| YnGwi3 has left bravo team.
+20-04-20 17:14:53 Admin disconnected (45.232.32.136).
+20-04-20 17:16:56 Time Left: 5 minutes
+20-04-20 17:17:56 Time Left: 4 minutes
+20-04-20 17:18:56 Time Left: 3 minutes
+20-04-20 17:19:56 Time Left: 2 minutes
+20-04-20 17:20:56 Time Left: 1 minutes
+20-04-20 17:21:56 Next map: Lobby
+20-04-20 17:22:01 Lothic - Gothic Lobby Room
+20-04-20 17:22:05 Admin failed to connect (201.239.28.137).
+20-04-20 17:22:05 Admin disconnected (201.239.28.137).
+20-04-20 17:27:01 Time Left: 5 minutes
+20-04-20 17:28:01 Time Left: 4 minutes
+20-04-20 17:29:01 Time Left: 3 minutes
+20-04-20 17:30:01 Time Left: 2 minutes
+20-04-20 17:31:01 Time Left: 1 minutes
+20-04-20 17:32:01 Next map: Lobby
+20-04-20 17:32:07 Lothic - Gothic Lobby Room
+20-04-20 17:37:07 Time Left: 5 minutes
+20-04-20 17:38:07 Time Left: 4 minutes
+20-04-20 17:39:07 Time Left: 3 minutes
+20-04-20 17:40:07 Time Left: 2 minutes
+20-04-20 17:41:07 Time Left: 1 minutes
+20-04-20 17:41:56 45.232.32.136:44744|64995B15DC0 requesting game...
+20-04-20 17:42:06 Next map: Lobby
+20-04-20 17:42:12 Lothic - Gothic Lobby Room
+20-04-20 17:47:12 Time Left: 5 minutes
+20-04-20 17:48:12 Time Left: 4 minutes
+20-04-20 17:49:12 Time Left: 3 minutes
+20-04-20 17:50:12 Time Left: 2 minutes
+20-04-20 17:51:12 Time Left: 1 minutes
+20-04-20 17:52:12 Next map: Lobby
+20-04-20 17:52:17 Lothic - Gothic Lobby Room
+20-04-20 17:57:17 Time Left: 5 minutes
+20-04-20 17:58:17 Time Left: 4 minutes
+20-04-20 17:59:17 Time Left: 3 minutes
+20-04-20 18:00:17 Time Left: 2 minutes
+20-04-20 18:01:17 Time Left: 1 minutes
+20-04-20 18:02:17 Next map: Lobby
+20-04-20 18:02:22 Lothic - Gothic Lobby Room
+20-04-20 18:07:22 Time Left: 5 minutes
+20-04-20 18:08:22 Time Left: 4 minutes
+20-04-20 18:09:22 Time Left: 3 minutes
+20-04-20 18:10:22 Time Left: 2 minutes
+20-04-20 18:11:22 Time Left: 1 minutes
+20-04-20 18:12:22 Next map: Lobby
+20-04-20 18:12:28 Lothic - Gothic Lobby Room
+20-04-20 18:17:28 Time Left: 5 minutes
+20-04-20 18:18:28 Time Left: 4 minutes
+20-04-20 18:19:28 Time Left: 3 minutes
+20-04-20 18:19:44 Admin connected (186.11.121.121).
+20-04-20 18:19:44 /friendlyfire (186.11.121.121)
+20-04-20 18:19:44 Friendly Fire is 0
+20-04-20 18:19:44 /bonus (186.11.121.121)
+20-04-20 18:19:44 Current bonus frequency is 0
+20-04-20 18:19:44 /vote% (186.11.121.121)
+20-04-20 18:19:44 Voting percent is 60
+20-04-20 18:19:44 /respawntime (186.11.121.121)
+20-04-20 18:19:44 Respawn time is 3 seconds
+20-04-20 18:19:44 /maxrespawntime (186.11.121.121)
+20-04-20 18:19:44 Maximum Respawn time is 5 seconds
+20-04-20 18:20:28 Time Left: 2 minutes
+20-04-20 18:20:40 Admin disconnected (186.11.121.121).
+20-04-20 18:21:28 Time Left: 1 minutes
+20-04-20 18:22:28 Next map: Lobby
+20-04-20 18:22:33 Lothic - Gothic Lobby Room
+20-04-20 18:27:33 Time Left: 5 minutes
+20-04-20 18:28:33 Time Left: 4 minutes
+20-04-20 18:29:33 Time Left: 3 minutes
+20-04-20 18:30:33 Time Left: 2 minutes
+20-04-20 18:31:33 Time Left: 1 minutes
+20-04-20 18:32:33 Next map: Lobby
+20-04-20 18:32:38 Lothic - Gothic Lobby Room
+20-04-20 18:37:38 Time Left: 5 minutes
+20-04-20 18:38:38 Time Left: 4 minutes
+20-04-20 18:39:38 Time Left: 3 minutes
+20-04-20 18:40:38 Time Left: 2 minutes
+20-04-20 18:41:38 Time Left: 1 minutes
+20-04-20 18:42:38 Next map: Lobby
+20-04-20 18:42:44 Lothic - Gothic Lobby Room
+20-04-20 18:47:44 Time Left: 5 minutes
+20-04-20 18:48:44 Time Left: 4 minutes
+20-04-20 18:49:44 Time Left: 3 minutes
+20-04-20 18:50:44 Time Left: 2 minutes
+20-04-20 18:51:44 Time Left: 1 minutes
+20-04-20 18:52:44 Next map: Lobby
+20-04-20 18:52:49 Lothic - Gothic Lobby Room
+20-04-20 18:57:49 Time Left: 5 minutes
+20-04-20 18:58:49 Time Left: 4 minutes
+20-04-20 18:59:49 Time Left: 3 minutes
+20-04-20 19:00:49 Time Left: 2 minutes
+20-04-20 19:01:49 Time Left: 1 minutes
+20-04-20 19:02:49 Next map: Lobby
+20-04-20 19:02:54 Lothic - Gothic Lobby Room
+20-04-20 19:07:54 Time Left: 5 minutes
+20-04-20 19:08:54 Time Left: 4 minutes
+20-04-20 19:09:54 Time Left: 3 minutes
+20-04-20 19:10:54 Time Left: 2 minutes
+20-04-20 19:11:54 Time Left: 1 minutes
+20-04-20 19:12:54 Next map: Lobby
+20-04-20 19:13:00 Lothic - Gothic Lobby Room
+20-04-20 19:18:00 Time Left: 5 minutes
+20-04-20 19:19:00 Time Left: 4 minutes
+20-04-20 19:20:00 Time Left: 3 minutes
+20-04-20 19:21:00 Time Left: 2 minutes
+20-04-20 19:22:00 Time Left: 1 minutes
+20-04-20 19:23:00 Next map: Lobby
+20-04-20 19:23:05 Lothic - Gothic Lobby Room
+20-04-20 19:28:05 Time Left: 5 minutes
+20-04-20 19:29:05 Time Left: 4 minutes
+20-04-20 19:30:05 Time Left: 3 minutes
+20-04-20 19:31:05 Time Left: 2 minutes
+20-04-20 19:32:05 Time Left: 1 minutes
+20-04-20 19:33:05 Next map: Lobby
+20-04-20 19:33:10 Lothic - Gothic Lobby Room
+20-04-20 19:38:10 Time Left: 5 minutes
+20-04-20 19:39:10 Time Left: 4 minutes
+20-04-20 19:40:10 Time Left: 3 minutes
+20-04-20 19:41:10 Time Left: 2 minutes
+20-04-20 19:42:10 Time Left: 1 minutes
+20-04-20 19:43:10 Next map: Lobby
+20-04-20 19:43:16 Lothic - Gothic Lobby Room
+20-04-20 19:48:16 Time Left: 5 minutes
+20-04-20 19:49:16 Time Left: 4 minutes
+20-04-20 19:50:16 Time Left: 3 minutes
+20-04-20 19:51:16 Time Left: 2 minutes
+20-04-20 19:52:16 Time Left: 1 minutes
+20-04-20 19:53:16 Next map: Lobby
+20-04-20 19:53:21 Lothic - Gothic Lobby Room
+20-04-20 19:58:21 Time Left: 5 minutes
+20-04-20 19:59:21 Time Left: 4 minutes
+20-04-20 20:00:21 Time Left: 3 minutes
+20-04-20 20:01:21 Time Left: 2 minutes
+20-04-20 20:02:21 Time Left: 1 minutes
+20-04-20 20:03:21 Next map: Lobby
+20-04-20 20:03:26 Lothic - Gothic Lobby Room
+20-04-20 20:08:26 Time Left: 5 minutes
+20-04-20 20:09:26 Time Left: 4 minutes
+20-04-20 20:10:26 Time Left: 3 minutes
+20-04-20 20:11:26 Time Left: 2 minutes
+20-04-20 20:12:26 Time Left: 1 minutes
+20-04-20 20:13:26 Next map: Lobby
+20-04-20 20:13:32 Lothic - Gothic Lobby Room
+20-04-20 20:18:32 Time Left: 5 minutes
+20-04-20 20:19:32 Time Left: 4 minutes
+20-04-20 20:20:32 Time Left: 3 minutes
+20-04-20 20:21:32 Time Left: 2 minutes
+20-04-20 20:22:32 Time Left: 1 minutes
+20-04-20 20:23:32 Next map: Lobby
+20-04-20 20:23:37 Lothic - Gothic Lobby Room
+20-04-20 20:28:37 Time Left: 5 minutes
+20-04-20 20:29:37 Time Left: 4 minutes
+20-04-20 20:30:37 Time Left: 3 minutes
+20-04-20 20:31:37 Time Left: 2 minutes
+20-04-20 20:32:37 Time Left: 1 minutes
+20-04-20 20:33:37 Next map: Lobby
+20-04-20 20:33:42 Lothic - Gothic Lobby Room
+20-04-20 20:38:42 Time Left: 5 minutes
+20-04-20 20:39:42 Time Left: 4 minutes
+20-04-20 20:40:42 Time Left: 3 minutes
+20-04-20 20:41:42 Time Left: 2 minutes
+20-04-20 20:42:42 Time Left: 1 minutes
+20-04-20 20:43:42 Next map: Lobby
+20-04-20 20:43:48 Lothic - Gothic Lobby Room
+20-04-20 20:48:48 Time Left: 5 minutes
+20-04-20 20:49:48 Time Left: 4 minutes
+20-04-20 20:49:57 Signal received, shutting down
+20-04-20 20:49:57 Shutting down server...
+20-04-20 20:49:57 Shutting down FileServer...
+20-04-20 20:49:58 Shutting down admin server...

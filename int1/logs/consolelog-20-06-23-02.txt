@@ -1,0 +1,2252 @@
+20-06-23 23:10:01    Console Log Started
+20-06-23 23:10:01 Welcome to Soldat 1.7.1
+20-06-23 23:10:01  [*] Preparing scripts to be launched
+20-06-23 23:10:01  [*] [BasicCommands] Loading bytecode
+20-06-23 23:10:01  [*] [BasicCommands] Bytecode loaded
+20-06-23 23:10:01  [*] Compiling match -> match.pas...
+20-06-23 23:10:01  [*] match compiled
+20-06-23 23:10:01  [*] Done
+20-06-23 23:10:01 Lothic - Gothic Lobby Room
+20-06-23 23:10:01 Loaded weapons mod "Gather WM v1.7.1bv1"
+20-06-23 23:10:01  Connection for file server started. Port: 23110
+20-06-23 23:10:02 Registering server @ 88.99.234.252
+20-06-23 23:15:02 Time Left: 5 minutes
+20-06-23 23:16:02 Time Left: 4 minutes
+20-06-23 23:17:02 Time Left: 3 minutes
+20-06-23 23:18:02 Time Left: 2 minutes
+20-06-23 23:19:02 Time Left: 1 minutes
+20-06-23 23:20:02 Next map: Lobby
+20-06-23 23:20:07 Lothic - Gothic Lobby Room
+20-06-23 23:25:07 Time Left: 5 minutes
+20-06-23 23:26:07 Time Left: 4 minutes
+20-06-23 23:27:07 Time Left: 3 minutes
+20-06-23 23:28:07 Time Left: 2 minutes
+20-06-23 23:29:07 Time Left: 1 minutes
+20-06-23 23:30:07 Next map: Lobby
+20-06-23 23:30:12 Lothic - Gothic Lobby Room
+20-06-23 23:35:12 Time Left: 5 minutes
+20-06-23 23:36:12 Time Left: 4 minutes
+20-06-23 23:37:12 Time Left: 3 minutes
+20-06-23 23:38:12 Time Left: 2 minutes
+20-06-23 23:39:12 Time Left: 1 minutes
+20-06-23 23:40:12 Next map: Lobby
+20-06-23 23:40:18 Lothic - Gothic Lobby Room
+20-06-23 23:45:18 Time Left: 5 minutes
+20-06-23 23:46:18 Time Left: 4 minutes
+20-06-23 23:47:18 Time Left: 3 minutes
+20-06-23 23:48:18 Time Left: 2 minutes
+20-06-23 23:49:18 Time Left: 1 minutes
+20-06-23 23:50:17 Next map: Lobby
+20-06-23 23:50:23 Lothic - Gothic Lobby Room
+20-06-23 23:55:23 Time Left: 5 minutes
+20-06-23 23:56:23 Time Left: 4 minutes
+20-06-23 23:57:23 Time Left: 3 minutes
+20-06-23 23:58:23 Time Left: 2 minutes
+20-06-23 23:59:23 Time Left: 1 minutes
+20-06-24 00:00:23 Next map: Lobby
+20-06-24 00:00:28 Lothic - Gothic Lobby Room
+20-06-24 00:05:28 Time Left: 5 minutes
+20-06-24 00:06:28 Time Left: 4 minutes
+20-06-24 00:07:28 Time Left: 3 minutes
+20-06-24 00:08:28 Time Left: 2 minutes
+20-06-24 00:09:28 Time Left: 1 minutes
+20-06-24 00:10:28 Next map: Lobby
+20-06-24 00:10:33 Lothic - Gothic Lobby Room
+20-06-24 00:15:33 Time Left: 5 minutes
+20-06-24 00:16:33 Time Left: 4 minutes
+20-06-24 00:17:33 Time Left: 3 minutes
+20-06-24 00:18:33 Time Left: 2 minutes
+20-06-24 00:19:33 Time Left: 1 minutes
+20-06-24 00:20:33 Next map: Lobby
+20-06-24 00:20:39 Lothic - Gothic Lobby Room
+20-06-24 00:25:39 Time Left: 5 minutes
+20-06-24 00:25:49 45.232.33.28:48531|4C4052F23D1 requesting game...
+20-06-24 00:25:53 45.232.33.28:48531|4C4052F23D1 requesting game...
+20-06-24 00:25:56 uoL| athe joining game (45.232.33.28:48531) HWID:4C4052F23D1
+20-06-24 00:25:56 uoL| athe has joined alpha team.
+20-06-24 00:26:13 uoL| athe has left alpha team.
+20-06-24 00:26:39 Time Left: 4 minutes
+20-06-24 00:27:39 Time Left: 3 minutes
+20-06-24 00:28:02 190.101.16.117:23073|D13F171DF71 requesting game...
+20-06-24 00:28:03 D.forc3| Cyborg joining game (190.101.16.117:23073) HWID:D13F171DF71
+20-06-24 00:28:03 D.forc3| Cyborg has joined bravo team.
+20-06-24 00:28:24 [D.forc3| Cyborg] !map guardian
+20-06-24 00:28:30 ctf_Guardian by SuoW
+20-06-24 00:28:57 201.189.148.63:23073|B91123F9945 requesting game...
+20-06-24 00:28:59 L.Forc3/Aberracion joining game (201.189.148.63:23073) HWID:B91123F9945
+20-06-24 00:28:59 L.Forc3/Aberracion has joined alpha team.
+20-06-24 00:29:01 190.45.153.250:23073|5099E84E73E requesting game...
+20-06-24 00:29:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:05 Battousai joining game (190.45.153.250:23073) HWID:5099E84E73E
+20-06-24 00:29:05 Battousai has joined bravo team.
+20-06-24 00:29:09 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:14 (2) Battousai killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:29:23 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:29 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:34 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:29:41 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:47 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:29:48 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:29:56 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:04 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:10 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:16 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:30:19 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:22 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:30:24 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:30 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:30:43 190.46.88.141:23073|23DF4D5E89B requesting game...
+20-06-24 00:30:44 |D.Forc3|linkird joining game (190.46.88.141:23073) HWID:23DF4D5E89B
+20-06-24 00:30:44 |D.Forc3|linkird has joined as spectator.
+20-06-24 00:30:45 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:30:46 |D.Forc3|linkird has joined alpha team.
+20-06-24 00:30:50 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:30:54 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:31:00 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:31:20 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:31:20 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 00:31:25 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:31:26 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:31:32 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:31:39 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:31:40 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:31:43 (2) Battousai killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:31:48 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:31:51 (2) Battousai killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:31:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:32:00 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:32:02 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:32:08 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:32:13 (2) Battousai killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:32:14 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:32:20 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:32:22 (1) L.Forc3/Aberracion killed (2) Battousai with Combat Knife
+20-06-24 00:32:26 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:32:29 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:32:34 (2) Battousai killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 00:32:39 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:32:40 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:32:47 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:32:49 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:32:56 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:03 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:33:11 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:14 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:33:20 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:33:25 (2) Battousai killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:33:27 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:30 Time Left: 5 minutes
+20-06-24 00:33:30 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:33:38 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:41 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:33:43 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:33:46 (2) Battousai killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:46 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:33:50 (2) D.forc3| Cyborg killed (1) |D.Forc3|linkird with Ak-74
+20-06-24 00:33:53 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:33:55 |D.Forc3|linkird has left alpha team.
+20-06-24 00:34:00 190.46.88.141:23073|23DF4D5E89B requesting game...
+20-06-24 00:34:00 |D.Forc3|linkird joining game (190.46.88.141:23073) HWID:23DF4D5E89B
+20-06-24 00:34:00 |D.Forc3|linkird has joined as spectator.
+20-06-24 00:34:00 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:34:06 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:34:07 (2) Battousai killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:34:15 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:34:16 201.214.160.248:23073|535AA511D5F requesting game...
+20-06-24 00:34:18 El principito Lead joining game (201.214.160.248:23073) HWID:535AA511D5F
+20-06-24 00:34:18 El principito Lead has joined alpha team.
+20-06-24 00:34:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:34:21 (2) Battousai killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:34:23 (1) El principito Lead killed (2) Battousai with Grenade
+20-06-24 00:34:28 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:34:28 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 00:34:30 Time Left: 4 minutes
+20-06-24 00:34:31 (1) L.Forc3/Aberracion killed (2) Battousai with Grenade
+20-06-24 00:34:36 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:34:41 (2) Battousai killed (1) El principito Lead with Ruger 77
+20-06-24 00:34:42 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:34:47 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:34:50 (2) Battousai killed (1) El principito Lead with Ruger 77
+20-06-24 00:34:54 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:34:57 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 00:34:58 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:35:01 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:35:01 [Battousai] I ain't got time to bleed!
+20-06-24 00:35:09 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:35:16 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:35:16 (2) Battousai killed (1) El principito Lead with Ruger 77
+20-06-24 00:35:19 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:35:22 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:35:28 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:35:29 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:35:30 Time Left: 3 minutes
+20-06-24 00:35:36 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:35:36 (2) Battousai killed (1) El principito Lead with Ruger 77
+20-06-24 00:35:38 (2) Battousai killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:35:46 (2) Battousai killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:35:49 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 00:35:55 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:35:57 (2) Battousai killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:36:02 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:36:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:36:05 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 00:36:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:36:16 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:36:19 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:36:21 90.127.19.18:23073|34B5E71C990 requesting game...
+20-06-24 00:36:22 90.127.19.18:23073|34B5E71C990 requesting game...
+20-06-24 00:36:26 (2) Battousai killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:36:30 (2) Battousai killed (1) El principito Lead with Grenade
+20-06-24 00:36:30 Time Left: 2 minutes
+20-06-24 00:36:32 71.82.195.137:23073|1FCD2E846FF requesting game...
+20-06-24 00:36:34 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:36:34 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ruger 77
+20-06-24 00:36:37 200.104.128.130:23073|19676FD8943 requesting game...
+20-06-24 00:36:41 |D.Forc3| Gatitos joining game (200.104.128.130:23073) HWID:19676FD8943
+20-06-24 00:36:41 |D.Forc3| Gatitos has joined as spectator.
+20-06-24 00:36:42 (1) L.Forc3/Aberracion killed (2) Battousai with Ruger 77
+20-06-24 00:36:49 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:36:52 (2) Battousai killed (1) El principito Lead with Combat Knife
+20-06-24 00:36:56 (1) L.Forc3/Aberracion killed (2) Battousai with Combat Knife
+20-06-24 00:36:57 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:37:03 [Battousai] !map ctf_ash
+20-06-24 00:37:17  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 00:37:17 ctf_Ash by chakapoko maker
+20-06-24 00:37:17 Battousai has joined spectators.
+20-06-24 00:37:17 Battousai has joined spectators.
+20-06-24 00:37:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with M79
+20-06-24 00:37:22 [El principito Lead] !s
+20-06-24 00:37:22 El principito Lead has joined spectators.
+20-06-24 00:37:31 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:37:36 [L.Forc3/Aberracion] !r
+20-06-24 00:37:36 Reiniciando...
+20-06-24 00:37:42  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 00:37:42 ctf_Ash by chakapoko maker
+20-06-24 00:37:50 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 00:37:57 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:38:02 [Battousai] !a
+20-06-24 00:38:02 Battousai has joined alpha team.
+20-06-24 00:38:03 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 00:38:04 187.79.97.34:11477|47D4B4E67E9 requesting game...
+20-06-24 00:38:08 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:38:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Barrett M82A1
+20-06-24 00:38:11 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:38:13 Battousai captured the Blue Flag
+20-06-24 00:38:14 179.35.252.64:23073|2A1DDD14514 requesting game...
+20-06-24 00:38:16 179.35.252.64:23073|2A1DDD14514 requesting game...
+20-06-24 00:38:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 00:38:22 |D.Forc3|linkird has joined bravo team.
+20-06-24 00:38:24 Battousai scores for Alpha Team
+20-06-24 00:38:25 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 00:38:31 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Barrett M82A1
+20-06-24 00:38:31 45.232.33.28:48535|4C4052F23D1 requesting game...
+20-06-24 00:38:33 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:38:38 |D.Forc3| Gatitos has joined bravo team.
+20-06-24 00:38:38 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Combat Knife
+20-06-24 00:38:38 Battousai captured the Blue Flag
+20-06-24 00:38:39 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 00:38:43 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:38:46 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:38:48 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:38:50 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:38:52 (1) Battousai killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:38:52 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:38:56 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:38:57 El principito Lead has joined alpha team.
+20-06-24 00:38:58 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 00:39:00 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 00:39:01 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:39:06 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:39:07 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:39:09 |D.Forc3| Gatitos scores for Bravo Team
+20-06-24 00:39:11 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:39:18 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:39:21 (1) Battousai killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 00:39:24 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:39:26 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:39:26 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:39:28 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:39:28 [L.Forc3/Aberracion] !map ctf_Spark
+20-06-24 00:39:34  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 00:39:34 Spark - By Vauat
+20-06-24 00:39:39 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:39:40 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:39:40 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:39:42 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:39:45 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:39:45 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:39:46 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:39:47 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:39:50 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:39:54 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:39:57 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:39:58 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:39:59 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:40:01 Battousai captured the Blue Flag
+20-06-24 00:40:02 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:40:02 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:40:02 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:40:07 Battousai captured the Blue Flag
+20-06-24 00:40:08 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:40:08 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:40:11 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:40:12 Battousai scores for Alpha Team
+20-06-24 00:40:12 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:40:13 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:40:15 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:40:16 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:40:17 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:40:18 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:40:18 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:40:18 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:40:22 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:40:23 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:40:23 Battousai returned the Red Flag
+20-06-24 00:40:25 (1) Battousai killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:40:28 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:40:29 (2) D.forc3| Cyborg killed (1) Battousai with LAW
+20-06-24 00:40:32 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:40:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:40:33 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:40:35 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:40:35 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:40:37 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:40:39 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:40:39 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:40:41 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:40:43 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:40:46 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:40:48 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:40:50 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:40:50 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:40:52 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:40:52 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 00:40:52 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:40:53 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:40:55 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:40:56 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:40:57 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:41:01 D.forc3| Cyborg scores for Bravo Team
+20-06-24 00:41:02 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:41:04 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:41:07 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:41:09 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:41:09 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:41:10 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:41:14 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:41:17 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:41:19 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:41:19 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:41:21 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:41:22 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:41:25 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:41:28 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:41:28 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:41:33 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:41:36 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:41:36 Battousai captured the Blue Flag
+20-06-24 00:41:37 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:41:39 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:41:40 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:41:40 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:41:41 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:41:46 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:41:52 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 00:41:53 Battousai captured the Blue Flag
+20-06-24 00:41:53 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:41:55 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:41:59 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:42:00 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:42:01 187.79.97.34:11477|47D4B4E67E9 requesting game...
+20-06-24 00:42:01 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:42:03 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:42:05 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:42:07 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:42:07 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:42:08 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:42:11 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 00:42:13 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:42:16 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:42:16 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:42:18 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:42:20 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 00:42:23 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:42:26 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:42:29 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:42:30 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:42:33 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:42:34 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:42:35 (RADIO)[El principito Lead] Enemy spotted down!
+20-06-24 00:42:36 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:42:37 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:42:38 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:42:39 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:42:42 (2) D.forc3| Cyborg killed (1) El principito Lead with LAW
+20-06-24 00:42:42 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:42:46 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:42:46 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:42:47 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:42:47 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:42:52 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:42:55 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:42:55 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:42:59 Battousai captured the Blue Flag
+20-06-24 00:43:02 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:43:02 El principito Lead captured the Blue Flag
+20-06-24 00:43:02 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:43:03 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:43:04 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:43:04 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:43:07 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:43:07 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:43:11 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:43:13 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:43:16 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 00:43:17 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:43:19 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:43:20 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:43:24 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:43:26 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:43:30 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:43:33 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:43:33 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:43:34 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:43:35 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:43:36 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:43:41 (1) Battousai killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:43:44 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:43:46 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:43:48 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:43:50 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:43:51 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:43:51 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:43:55 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:43:57 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:43:57 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:44:02 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:44:04 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:44:05 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:44:07 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:44:08 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:44:11 (1) Battousai killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:44:12 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:44:13 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:44:16 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:44:19 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:44:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:44:21 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:44:23 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:44:25 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:44:26 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:44:29 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:44:29 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:44:31 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:44:34 Time Left: 5 minutes
+20-06-24 00:44:35 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:44:36 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:44:37 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:44:42 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:44:42 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:44:44 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:44:46 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:44:47 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:44:47 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:44:51 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:44:52 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:44:53 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 00:44:54 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:44:59 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:45:00 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:45:01 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:45:02 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:45:04 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:45:08 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:45:09 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:45:10 (2) D.forc3| Cyborg killed (1) El principito Lead with LAW
+20-06-24 00:45:11 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:45:14 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:45:14 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:45:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:45:19 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:45:20 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 00:45:20 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:45:22 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:45:22 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:45:25 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:45:26 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 00:45:27 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:45:29 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:45:30 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:45:31 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:45:31 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:45:34 Time Left: 4 minutes
+20-06-24 00:45:35 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:45:36 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:45:38 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:45:39 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:45:40 Battousai captured the Blue Flag
+20-06-24 00:45:41 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:45:43 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:45:45 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:45:45 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:45:47 Battousai returned the Red Flag
+20-06-24 00:45:49 Battousai scores for Alpha Team
+20-06-24 00:45:49 El principito Lead captured the Blue Flag
+20-06-24 00:45:50 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:45:52 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:45:53 (2) D.forc3| Cyborg killed (1) Battousai with LAW
+20-06-24 00:45:54 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:45:54 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:45:57 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:45:57 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:45:59 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:46:03 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:46:04 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:46:05 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:46:09 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:46:12 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:46:15 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:46:17 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:46:18 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:46:18 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:46:19 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:46:21 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:46:22 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:46:26 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:46:27 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:46:28 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:46:31 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:46:32 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:46:34 Time Left: 3 minutes
+20-06-24 00:46:34 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:46:35 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:46:39 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:46:40 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:46:40 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:46:42 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:46:42 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:46:44 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:46:48 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:46:48 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:46:48 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:46:52 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:46:55 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:46:56 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:46:59 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:47:00 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:47:01 Battousai captured the Blue Flag
+20-06-24 00:47:01 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:47:04 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:47:04 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:47:08 Battousai scores for Alpha Team
+20-06-24 00:47:10 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:47:10 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:47:12 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:47:12 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:47:13 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:47:19 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:47:20 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:47:22 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:47:26 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:47:26 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:47:27 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:47:27 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:47:31 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:47:34 Time Left: 2 minutes
+20-06-24 00:47:36 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:47:37 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:47:37 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:47:39 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:47:40 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:47:44 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:47:45 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:47:47 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:47:49 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:47:49 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:47:50 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:47:53 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:47:55 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:48:01 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:48:02 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:48:05 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:48:06 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:48:08 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:48:10 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:48:11 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:48:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:48:17 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:48:17 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:48:17 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 00:48:22 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:48:23 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:48:23 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:48:25 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:48:26 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:48:27 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:48:28 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:48:29 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:48:32 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:48:34 Time Left: 1 minutes
+20-06-24 00:48:34 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:48:34 (2) D.forc3| Cyborg killed (1) Battousai with LAW
+20-06-24 00:48:35 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:48:37 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:48:41 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:48:42 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:48:46 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:48:46 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:48:46 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:48:48 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:48:51 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:48:53 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:48:56 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:48:57 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:48:58 D.forc3| Cyborg scores for Bravo Team
+20-06-24 00:48:59 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:49:00 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:49:01 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:49:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:49:05 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:49:07 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:49:08 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:49:09 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:49:12 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:49:18 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:49:18 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:49:23 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:49:24 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:49:26 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:49:30 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:49:33 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:49:34 Next map: Lobby
+20-06-24 00:49:40  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 00:49:40 Lothic - Gothic Lobby Room
+20-06-24 00:50:08 [|D.Forc3| Gatitos] !map guardian 
+20-06-24 00:50:13 ctf_Guardian by SuoW
+20-06-24 00:50:19 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:50:21 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:50:23 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:50:24 [D.forc3| Cyborg] !r
+20-06-24 00:50:24 Reiniciando...
+20-06-24 00:50:29  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 00:50:29 ctf_Guardian by SuoW
+20-06-24 00:50:33 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:50:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:50:34 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 00:50:34 (1) Battousai killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 00:50:34 (RADIO)[El principito Lead] Enemy spotted up!
+20-06-24 00:50:39 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:50:41 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:50:42 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:50:43 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:50:45 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:50:46 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:50:50 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:50:51 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:50:56 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:50:56 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:50:59 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:51:01 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:51:01 El principito Lead returned the Red Flag
+20-06-24 00:51:03 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:51:04 El principito Lead captured the Blue Flag
+20-06-24 00:51:06 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 00:51:06 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:51:07 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:51:07 (1) Battousai killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 00:51:10 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:51:13 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:51:14 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with LAW
+20-06-24 00:51:16 El principito Lead captured the Blue Flag
+20-06-24 00:51:17 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:51:19 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:51:21 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:51:24 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:51:26 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:51:26 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:51:27 El principito Lead returned the Red Flag
+20-06-24 00:51:28 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:51:30 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 00:51:33 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:51:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:51:35 (RADIO)[El principito Lead] Enemy spotted down!
+20-06-24 00:51:35 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:51:35 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:51:38 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:51:38 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:51:39 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:51:40 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:51:43 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:51:44 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:51:46 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 00:51:46 (TEAM)[|D.Forc3|linkird] .:Ayuda [ABAJO]:.
+20-06-24 00:51:46 (TEAM)[|D.Forc3|linkird] .:Vienen [ABAJO]/ INC. [LOW]:.
+20-06-24 00:51:47 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:51:47 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:51:48 Battousai captured the Blue Flag
+20-06-24 00:51:48 Battousai returned the Red Flag
+20-06-24 00:51:49 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:51:50 Battousai scores for Alpha Team
+20-06-24 00:51:52 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:51:52 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:51:54 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 00:51:56 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:51:58 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:51:59 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:52:02 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:52:07 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:52:07 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:52:09 (RADIO)[El principito Lead] Enemy spotted up!
+20-06-24 00:52:10 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:52:10 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 00:52:14 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:52:17 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:52:18 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:52:19 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:52:19 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:52:21 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:52:25 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:52:27 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:52:28 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:52:28 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:52:29 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:52:29 |D.Forc3|linkird returned the Blue Flag
+20-06-24 00:52:32 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:52:34 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:52:38 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:52:38 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:52:39 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:52:41 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:52:43 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:52:43 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:52:45 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 00:52:47 (RADIO)[El principito Lead] Enemy spotted up!
+20-06-24 00:52:49 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:52:49 (1) Battousai killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 00:52:52 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:52:54 |D.Forc3| Gatitos scores for Bravo Team
+20-06-24 00:52:55 (2) |D.Forc3| Gatitos killed (1) El principito Lead with LAW
+20-06-24 00:52:56 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:52:57 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:52:58 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:53:00 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:53:01 Battousai captured the Blue Flag
+20-06-24 00:53:05 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:53:05 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:53:07 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 00:53:08 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:53:08 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:53:11 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 00:53:13 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:53:13 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:53:15 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:53:17 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 00:53:18 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:53:19 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:53:21 |D.Forc3| Gatitos scores for Bravo Team
+20-06-24 00:53:22 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:53:24 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:53:26 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:53:30 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:53:31 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:53:35 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:53:35 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:53:35 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:53:37 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:53:42 (1) Battousai killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 00:53:43 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:53:43 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:53:44 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:53:46 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:53:49 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:53:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:53:51 (1) Battousai killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 00:53:51 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:53:54 Battousai captured the Blue Flag
+20-06-24 00:53:56 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:53:56 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:53:57 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:53:59 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:54:02 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:54:02 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:54:02 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:54:05 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:54:06 (RADIO)[El principito Lead] Enemy flagger down!
+20-06-24 00:54:08 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:54:09 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:54:09 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:54:11 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:54:11 (1) Battousai killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 00:54:14 Battousai captured the Blue Flag
+20-06-24 00:54:14 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:54:16 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:54:21 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:54:24 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:54:25 (1) Battousai killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 00:54:26 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:54:33 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:54:34 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:54:36 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:54:37 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:54:37 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:54:39 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:54:42 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:54:42 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:54:44 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:54:47 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:54:48 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:54:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:54:50 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:54:50 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:54:53 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:54:56 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:54:57 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:54:59 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:55:01 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:55:02 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:55:03 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:55:07 El principito Lead captured the Blue Flag
+20-06-24 00:55:08 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:55:10 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:55:11 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:55:12 El principito Lead returned the Red Flag
+20-06-24 00:55:14 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:55:15 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:55:16 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 00:55:17 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:55:17 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:55:18 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:55:23 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:55:25 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:55:26 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:55:27 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:55:29 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:55:29 Time Left: 5 minutes
+20-06-24 00:55:29 L.Forc3/Aberracion returned the Red Flag
+20-06-24 00:55:29 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:55:30 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:55:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:55:34 [El principito Lead] Die!
+20-06-24 00:55:35 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 00:55:37 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 00:55:38 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:55:38 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:55:40 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:55:40 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:55:43 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:55:43 Battousai returned the Red Flag
+20-06-24 00:55:47 El principito Lead captured the Blue Flag
+20-06-24 00:55:48 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:55:50 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 00:55:51 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:55:51 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:55:52 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:55:52 |D.Forc3|linkird returned the Blue Flag
+20-06-24 00:55:54 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:55:55 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:55:59 El principito Lead captured the Blue Flag
+20-06-24 00:56:01 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:56:01 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:56:02 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:56:03 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:56:03 El principito Lead returned the Red Flag
+20-06-24 00:56:11 (2) |D.Forc3| Gatitos killed (1) Battousai with LAW
+20-06-24 00:56:12 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:56:16 El principito Lead scores for Alpha Team
+20-06-24 00:56:16 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:56:16 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:56:19 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:56:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:56:23 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:56:24 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:56:24 El principito Lead returned the Red Flag
+20-06-24 00:56:25 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:56:26 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:56:29 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:56:29 Time Left: 4 minutes
+20-06-24 00:56:31 |D.Forc3|linkird returned the Blue Flag
+20-06-24 00:56:32 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:56:32 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:56:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:56:37 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:56:37 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:56:38 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:56:41 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 00:56:43 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:56:44 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:56:45 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:56:45 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:56:47 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 00:56:50 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:56:51 (RADIO)[El principito Lead] Friendly flagger down!
+20-06-24 00:56:53 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 00:56:56 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:56:58 L.Forc3/Aberracion returned the Red Flag
+20-06-24 00:57:00 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 00:57:00 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:57:02 El principito Lead captured the Blue Flag
+20-06-24 00:57:04 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:57:06 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:57:07 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:57:08 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:57:09 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:57:12 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:57:12 (1) Battousai killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:57:13 (TEAM)[|D.Forc3|linkird] .:Suelta [ABAJO]:.
+20-06-24 00:57:16 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:57:16 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:57:16 Battousai returned the Red Flag
+20-06-24 00:57:17 Battousai captured the Blue Flag
+20-06-24 00:57:19 Battousai scores for Alpha Team
+20-06-24 00:57:22 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:57:22 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:57:23 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:57:23 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:57:24 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:57:25 (RADIO)[El principito Lead] Enemy spotted down!
+20-06-24 00:57:29 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:57:29 Time Left: 3 minutes
+20-06-24 00:57:30 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:57:31 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:57:31 |D.Forc3|linkird scores for Bravo Team
+20-06-24 00:57:35 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:57:37 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:57:39 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:57:40 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:57:41 Battousai captured the Blue Flag
+20-06-24 00:57:43 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:57:45 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:57:45 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:57:49 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:57:51 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:57:52 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:57:52 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:57:53 El principito Lead captured the Blue Flag
+20-06-24 00:57:57 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:57:57 [El principito Lead] No!
+20-06-24 00:57:57 [El principito Lead] Die!
+20-06-24 00:57:59 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:57:59 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:58:00 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:58:02 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:58:04 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:58:05 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 00:58:06 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 00:58:10 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:58:11 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:58:12 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 00:58:12 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 00:58:17 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 00:58:18 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:58:20 L.Forc3/Aberracion returned the Red Flag
+20-06-24 00:58:20 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:58:21 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:58:23 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:58:23 (1) Battousai killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:58:25 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:58:29 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 00:58:29 Time Left: 2 minutes
+20-06-24 00:58:33 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:58:33 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:58:36 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:58:37 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 00:58:37 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 00:58:39 El principito Lead captured the Blue Flag
+20-06-24 00:58:40 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:58:44 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:58:44 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:58:45 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:58:46 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:58:46 (RADIO)[El principito Lead] Friendly flagger down!
+20-06-24 00:58:46 D.forc3| Cyborg returned the Blue Flag
+20-06-24 00:58:47 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:58:49 L.Forc3/Aberracion returned the Red Flag
+20-06-24 00:58:52 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:58:52 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:58:54 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 00:58:55 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 00:58:55 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:58:57 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:58:58 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 00:59:01 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 00:59:02 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 00:59:02 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:59:04 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:59:06 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 00:59:07 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:59:10 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 00:59:11 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 00:59:12 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:59:12 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:59:15 |D.Forc3|linkird captured the Red Flag
+20-06-24 00:59:16 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 00:59:17 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 00:59:19 L.Forc3/Aberracion returned the Red Flag
+20-06-24 00:59:19 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 00:59:20 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 00:59:25 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 00:59:25 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:59:26 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 00:59:26 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 00:59:27 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Desert Eagles
+20-06-24 00:59:29 Time Left: 1 minutes
+20-06-24 00:59:31 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:59:32 (1) El principito Lead killed (2) D.forc3| Cyborg with Desert Eagles
+20-06-24 00:59:34 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 00:59:38 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 00:59:39 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:59:39 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 00:59:42 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 00:59:45 (1) El principito Lead killed (2) D.forc3| Cyborg with Desert Eagles
+20-06-24 00:59:45 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 00:59:48 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 00:59:48 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 00:59:49 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 00:59:50 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 00:59:53 D.forc3| Cyborg captured the Red Flag
+20-06-24 00:59:57 (1) El principito Lead killed (2) |D.Forc3|linkird with Desert Eagles
+20-06-24 00:59:57 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 00:59:58 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:00:00 (1) Battousai killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:00:05 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:00:05 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:00:09 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:00:09 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:00:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:00:12 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:00:12 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 01:00:14 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 01:00:17 (RADIO)[El principito Lead] Enemy flagger down!
+20-06-24 01:00:18 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:00:18 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:00:18 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:00:22 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:00:22 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:00:26 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:00:26 Battousai returned the Red Flag
+20-06-24 01:00:29 Next map: Lobby
+20-06-24 01:00:30 [El principito Lead] No!
+20-06-24 01:00:35  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:00:35 Lothic - Gothic Lobby Room
+20-06-24 01:01:34 181.25.244.140:23073|FA809FDDA68 requesting game...
+20-06-24 01:01:37 181.25.244.140:23073|FA809FDDA68 requesting game...
+20-06-24 01:01:41 d4zy joining game (181.25.244.140:23073) HWID:FA809FDDA68
+20-06-24 01:01:41 d4zy has joined as spectator.
+20-06-24 01:01:53 d4zy has left spectators
+20-06-24 01:01:55 [Battousai] !map ctf_pod
+20-06-24 01:02:00 Pit of Doom by Zakath (Pure remake)
+20-06-24 01:02:07 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:02:09 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:02:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:02:10 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:02:13 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:02:15 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:02:17 [D.forc3| Cyborg] !R
+20-06-24 01:02:17 Reiniciando...
+20-06-24 01:02:23  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:02:23 Pit of Doom by Zakath (Pure remake)
+20-06-24 01:02:28 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 01:02:29 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:02:35 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:02:35 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:02:36 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:02:36 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:02:38 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:02:40 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:02:40 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:02:47 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:02:47 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:02:48 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:02:48 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:02:49 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:02:49 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:02:54 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:02:56 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:02:58 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:03:00 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:03:01 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:03:03 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:03:03 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:03:04 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:03:05 Battousai captured the Blue Flag
+20-06-24 01:03:06 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:03:06 El principito Lead returned the Red Flag
+20-06-24 01:03:08 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:03:10 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:03:10 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:03:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:03:16 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:03:16 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:03:19 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:03:22 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:03:25 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:03:29 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:03:29 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:03:31 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:03:34 (1) Battousai killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:03:35 Battousai captured the Blue Flag
+20-06-24 01:03:35 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:03:40 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:03:41 El principito Lead captured the Blue Flag
+20-06-24 01:03:41 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:03:42 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:03:42 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:03:44 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:03:45 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:03:49 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:03:51 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:03:53 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:03:53 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:03:57 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:03:57 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:04:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:04:07 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:04:07 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:04:08 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:04:10 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:04:13 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:04:17 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:04:18 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:04:19 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:04:20 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:04:20 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:04:26 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:04:26 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:04:30 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:04:32 El principito Lead captured the Blue Flag
+20-06-24 01:04:32 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:04:33 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:04:36 (2) |D.Forc3| Gatitos killed (1) Battousai with LAW
+20-06-24 01:04:36 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:04:39 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:04:40 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:04:42 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:04:44 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:04:48 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:04:48 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:04:53 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:04:55 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:04:58 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:04:58 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:05:01 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:05:02 El principito Lead captured the Blue Flag
+20-06-24 01:05:04 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:05:06 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:05:06 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:05:10 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:05:14 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:05:15 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:05:15 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:05:18 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:05:19 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:05:20 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:05:23 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:05:24 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:05:28 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:05:29 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:05:33 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:05:33 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:05:36 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:05:37 (2) |D.Forc3| Gatitos killed (1) Battousai with LAW
+20-06-24 01:05:41 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:05:41 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:05:46 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:05:48 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:05:50 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:05:51 Battousai captured the Blue Flag
+20-06-24 01:05:52 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:05:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:05:55 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:05:59 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:05:59 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:06:00 El principito Lead captured the Blue Flag
+20-06-24 01:06:00 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:06:02 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:06:04 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:06:08 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:06:10 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:06:11 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:06:12 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:06:18 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 01:06:19 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:06:19 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:06:21 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:06:24 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:06:24 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:06:25 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:06:26 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:06:28 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:06:29 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:06:30 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:06:31 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:06:37 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:06:37 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:06:37 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:06:41 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 01:06:46 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:06:47 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:06:49 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:06:52 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:06:52 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:06:55 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:06:56 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:06:58 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:07:02 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:07:03 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:07:03 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:07:05 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:07:10 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:07:11 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:07:12 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:07:13 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:07:15 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:07:19 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:07:21 Battousai captured the Blue Flag
+20-06-24 01:07:21 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:07:22 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:07:23 Time Left: 5 minutes
+20-06-24 01:07:28 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:07:28 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:07:30 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:07:31 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:07:34 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:07:37 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:07:38 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:07:40 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:07:40 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:07:40 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:07:41 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:07:49 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:07:51 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:07:52 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:07:55 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:07:58 45.232.32.84:16163|64995B15DC0 requesting game...
+20-06-24 01:07:59 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:08:04 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:08:04 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:08:08 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:08:09 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:08:10 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:08:10 (2) |D.Forc3|linkird killed (1) Battousai with LAW
+20-06-24 01:08:11 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:08:11 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:08:16 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:08:19 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:08:20 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:08:20 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:08:23 Time Left: 4 minutes
+20-06-24 01:08:25 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:08:26 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:08:28 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:08:31 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:08:35 El principito Lead captured the Blue Flag
+20-06-24 01:08:36 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:08:36 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:08:37 Battousai captured the Blue Flag
+20-06-24 01:08:38 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:08:41 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:08:41 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:08:43 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:08:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:08:51 Battousai captured the Blue Flag
+20-06-24 01:08:53 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:08:53 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:08:54 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:08:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:08:56 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:08:57 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:08:57 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:08:59 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:09:00 (1) Battousai killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:09:03 El principito Lead returned the Red Flag
+20-06-24 01:09:05 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:09:07 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:09:09 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:09:09 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:09:12 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:09:13 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:09:18 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:09:19 Battousai captured the Blue Flag
+20-06-24 01:09:20 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:09:20 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:09:23 Time Left: 3 minutes
+20-06-24 01:09:23 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:09:30 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:09:30 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:09:31 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:09:32 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:09:33 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:09:35 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:09:35 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:09:39 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:09:40 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:09:43 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:09:44 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:09:44 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:09:49 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:09:51 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 01:09:52 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:09:52 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:09:56 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:10:01 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:10:04 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:10:05 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:10:07 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:10:12 (2) |D.Forc3| Gatitos killed (1) El principito Lead with LAW
+20-06-24 01:10:14 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:10:14 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:10:15 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:10:18 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:10:21 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:10:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:10:23 Time Left: 2 minutes
+20-06-24 01:10:24 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:10:25 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:10:28 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:10:28 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:10:29 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:10:32 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:10:35 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:10:37 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:10:38 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:10:41 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:10:43 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:10:46 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:10:49 El principito Lead captured the Blue Flag
+20-06-24 01:10:49 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:10:50 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:10:50 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:10:51 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:10:53 (1) Battousai killed (2) |D.Forc3|linkird with Combat Knife
+20-06-24 01:10:53 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:10:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:10:59 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:11:02 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:11:05 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:11:07 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:11:07 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:11:09 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:11:09 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:11:11 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:11:13 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:11:21 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with LAW
+20-06-24 01:11:21 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:11:22 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:11:23 Time Left: 1 minutes
+20-06-24 01:11:25 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:11:26 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:11:27 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:11:32 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:11:33 Battousai captured the Blue Flag
+20-06-24 01:11:33 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:11:38 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:11:40 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:11:41 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:11:47 Battousai captured the Blue Flag
+20-06-24 01:11:48 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:11:49 El principito Lead captured the Blue Flag
+20-06-24 01:11:50 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:11:52 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:11:53 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:11:55 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:11:59 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:12:00 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:12:04 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:12:05 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:12:06 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:12:06 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:12:11 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:12:13 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:12:17 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:12:20 (1) Battousai killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:12:23 Next map: Lobby
+20-06-24 01:12:28  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:12:28 Lothic - Gothic Lobby Room
+20-06-24 01:13:04 [|D.Forc3| Gatitos] !map aftermath
+20-06-24 01:13:09 ctf_aftermath by Viral
+20-06-24 01:13:10 |D.Forc3| Gatitos has left bravo team.
+20-06-24 01:13:11 200.104.128.130:23073|19676FD8943 requesting game...
+20-06-24 01:13:13 |D.Forc3| Gatitos joining game (200.104.128.130:23073) HWID:19676FD8943
+20-06-24 01:13:13 |D.Forc3| Gatitos has joined bravo team.
+20-06-24 01:13:15 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:13:17 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:13:18 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:13:20 [L.Forc3/Aberracion] 1r4
+20-06-24 01:13:22 [L.Forc3/Aberracion] !r
+20-06-24 01:13:22 Reiniciando...
+20-06-24 01:13:28  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:13:28 ctf_aftermath by Viral
+20-06-24 01:13:33 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:13:33 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:13:36 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:13:38 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:13:42 (1) Battousai killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 01:13:46 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with M79
+20-06-24 01:13:47 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:13:47 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:13:48 El principito Lead captured the Blue Flag
+20-06-24 01:13:52 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:13:53 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:13:54 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Steyr AUG
+20-06-24 01:13:59 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:14:01 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:14:02 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:14:02 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:14:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:14:05 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:14:05 Battousai returned the Red Flag
+20-06-24 01:14:07 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:14:07 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:14:11 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with M79
+20-06-24 01:14:11 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:14:11 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:14:19 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:14:19 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with M79
+20-06-24 01:14:21 Battousai captured the Blue Flag
+20-06-24 01:14:25 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:14:26 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:14:27 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:14:30 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with M79
+20-06-24 01:14:30 L.Forc3/Aberracion returned the Red Flag
+20-06-24 01:14:32 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:14:34 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:14:34 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:14:35 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:14:37 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:14:38 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:14:42 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with M79
+20-06-24 01:14:45 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:14:46 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:14:48 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:14:48 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:14:50 Battousai captured the Blue Flag
+20-06-24 01:14:50 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:14:54 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:14:56 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:14:57 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:14:58 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:15:00 (1) El principito Lead killed (2) |D.Forc3|linkird with Ak-74
+20-06-24 01:15:02 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 01:15:02 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:15:06 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:15:06 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:15:08 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:15:10 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:15:11 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:15:11 (2) |D.Forc3|linkird killed (1) El principito Lead with Steyr AUG
+20-06-24 01:15:13 Battousai captured the Blue Flag
+20-06-24 01:15:14 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:15:17 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:15:19 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:15:20 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:15:23 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:15:27 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:15:29 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:15:32 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:15:33 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Steyr AUG
+20-06-24 01:15:34 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:15:36 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:15:37 (2) |D.Forc3| Gatitos killed (1) Battousai with LAW
+20-06-24 01:15:38 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:15:40 El principito Lead captured the Blue Flag
+20-06-24 01:15:40 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 01:15:43 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:15:44 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:15:44 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:15:47 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:15:48 (2) |D.Forc3|linkird killed (1) El principito Lead with LAW
+20-06-24 01:15:49 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:15:51 Battousai captured the Blue Flag
+20-06-24 01:15:51 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:15:53 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:15:53 (1) Battousai killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:15:53 181.25.244.140:23073|FA809FDDA68 requesting game...
+20-06-24 01:15:56 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:15:57 d4zy joining game (181.25.244.140:23073) HWID:FA809FDDA68
+20-06-24 01:15:57 d4zy has joined as spectator.
+20-06-24 01:16:00 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:16:00 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:16:04 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:16:04 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:16:07 (2) |D.Forc3|linkird killed (1) El principito Lead with Steyr AUG
+20-06-24 01:16:08 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:16:11 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:16:11 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:16:13 d4zy has left spectators
+20-06-24 01:16:19 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:16:19 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:16:20 El principito Lead captured the Blue Flag
+20-06-24 01:16:22 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:16:23 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:16:23 L.Forc3/Aberracion returned the Red Flag
+20-06-24 01:16:26 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:16:27 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:16:30 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:16:31 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:16:32 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:16:37 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:16:39 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 01:16:39 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:16:39 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:16:39 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:16:41 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:16:41 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:16:44 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:16:47 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:16:48 187.36.121.139:23073|108152DA085 requesting game...
+20-06-24 01:16:49 |D.Forc3| Gatitos scores for Bravo Team
+20-06-24 01:16:51 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:16:51 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:16:53 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:16:55 187.36.121.139:23073|108152DA085 requesting game...
+20-06-24 01:16:58 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:17:00 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:17:04 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:17:05 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:17:08 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:17:14 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:17:15 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:17:16 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:17:18 El principito Lead captured the Blue Flag
+20-06-24 01:17:19 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:17:19 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:17:20 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:17:22 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:17:23 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:17:24 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:17:26 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:17:29 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Ak-74
+20-06-24 01:17:29 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:17:33 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:17:33 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:17:37 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:17:40 El principito Lead captured the Blue Flag
+20-06-24 01:17:40 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:17:41 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:17:44 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:17:44 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:17:48 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:17:49 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:17:52 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:17:52 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:17:58 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:17:58 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:17:58 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:18:04 Battousai returned the Red Flag
+20-06-24 01:18:04 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:18:04 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:18:05 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:18:07 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:18:10 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:18:13 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:18:13 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:18:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:18:14 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:18:14 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:18:14 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:18:21 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:18:22 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:18:22 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:18:26 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:18:27 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:18:27 Time Left: 5 minutes
+20-06-24 01:18:32 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:18:33 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:18:35 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:18:37 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:18:39 (1) El principito Lead killed (2) |D.Forc3|linkird with LAW
+20-06-24 01:18:42 (1) El principito Lead killed (2) D.forc3| Cyborg with Ak-74
+20-06-24 01:18:43 El principito Lead returned the Red Flag
+20-06-24 01:18:43 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:18:45 Battousai captured the Blue Flag
+20-06-24 01:18:45 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:18:46 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:18:48 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:18:48 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:18:52 (2) |D.Forc3|linkird killed (1) El principito Lead with Combat Knife
+20-06-24 01:18:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:18:57 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:18:59 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:18:59 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:18:59 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:19:03 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:19:06 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:19:07 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:19:09 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:19:11 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:19:14 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:19:17 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:19:19 |D.Forc3| Gatitos scores for Bravo Team
+20-06-24 01:19:20 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:19:22 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:19:22 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:19:27 Time Left: 4 minutes
+20-06-24 01:19:28 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:19:29 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:19:30 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:19:32 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:19:35 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:19:38 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:19:40 (2) |D.Forc3| Gatitos killed (1) El principito Lead with LAW
+20-06-24 01:19:40 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:19:42 (RADIO)[El principito Lead] Enemy spotted middle!
+20-06-24 01:19:47 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:19:49 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:19:49 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:19:55 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:19:58 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:20:01 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:20:01 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:20:04 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:20:05 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:20:11 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:20:13 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:20:19 El principito Lead returned the Red Flag
+20-06-24 01:20:20 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:20:21 (2) |D.Forc3|linkird killed (1) El principito Lead with Ak-74
+20-06-24 01:20:24 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:20:25 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:20:25 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:20:25 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:20:27 Time Left: 3 minutes
+20-06-24 01:20:30 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:20:30 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:20:33 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:20:36 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:20:37 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:20:37 (2) |D.Forc3|linkird killed (1) Battousai with Combat Knife
+20-06-24 01:20:41 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:20:43 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:20:45 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:20:46 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:20:48 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:20:51 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:20:53 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:20:53 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:20:55 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:20:55 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:20:57 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:20:58 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:21:00 El principito Lead returned the Red Flag
+20-06-24 01:21:02 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:21:08 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:21:08 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:21:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:21:10 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:21:15 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:21:16 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:21:17 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:21:18 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:21:20 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:21:25 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:21:25 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:21:27 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:21:27 Time Left: 2 minutes
+20-06-24 01:21:28 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:21:31 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:21:33 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:21:35 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:21:36 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:21:39 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Spas-12
+20-06-24 01:21:42 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:21:44 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:21:45 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:21:49 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:21:50 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:21:52 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:21:54 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:21:58 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:21:58 (1) Battousai killed (2) |D.Forc3|linkird with Combat Knife
+20-06-24 01:22:01 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:22:02 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:22:05 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:22:08 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:22:10 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:22:11 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:22:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:22:15 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:22:16 El principito Lead captured the Blue Flag
+20-06-24 01:22:16 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:22:17 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:22:19 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:22:22 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:22:22 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:22:25 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:22:26 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:22:26 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:22:26 (TEAM)[|D.Forc3|linkird] .:Se La LLeva [ABAJO]/ EFC [LOW]:.
+20-06-24 01:22:27 Time Left: 1 minutes
+20-06-24 01:22:29 El principito Lead captured the Blue Flag
+20-06-24 01:22:31 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Spas-12
+20-06-24 01:22:31 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:22:33 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:22:36 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:22:39 Battousai captured the Blue Flag
+20-06-24 01:22:39 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:22:39 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:22:41 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:22:43 El principito Lead captured the Blue Flag
+20-06-24 01:22:43 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Spas-12
+20-06-24 01:22:46 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:22:47 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:22:47 (2) |D.Forc3|linkird killed (1) Battousai with Ak-74
+20-06-24 01:22:49 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:22:51 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:22:52 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:22:53 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:22:55 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:22:56 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:22:58 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:22:58 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:22:59 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:23:01 El principito Lead captured the Blue Flag
+20-06-24 01:23:01 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:23:03 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:23:08 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:23:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with HK MP5
+20-06-24 01:23:13 (2) D.forc3| Cyborg killed (1) Battousai with HK MP5
+20-06-24 01:23:14 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:23:15 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 01:23:19 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:23:20 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:23:22 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Barrett M82A1
+20-06-24 01:23:26 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:23:27 Next map: Lobby
+20-06-24 01:23:33  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:23:33 Lothic - Gothic Lobby Room
+20-06-24 01:23:44 [Battousai] !map ctf_rotten
+20-06-24 01:23:49 Rotten by Biggles
+20-06-24 01:23:56 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:23:59 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:23:59 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:24:04 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:24:08 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:24:09 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:24:13 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 01:24:15 [El principito Lead] !r
+20-06-24 01:24:15 Reiniciando...
+20-06-24 01:24:21  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:24:21 Rotten by Biggles
+20-06-24 01:24:26 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:24:27 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:24:28 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:24:32 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:24:35 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:24:36 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:24:38 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 01:24:39 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:24:41 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:24:43 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:24:48 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:24:50 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:24:51 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:24:52 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:24:54 El principito Lead captured the Blue Flag
+20-06-24 01:24:55 (2) D.forc3| Cyborg killed (1) El principito Lead with Ak-74
+20-06-24 01:24:56 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:24:58 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:25:04 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Ak-74
+20-06-24 01:25:05 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:25:07 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:25:10 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:25:11 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:25:12 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:25:14 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:25:14 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:25:16 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:25:18 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:25:19 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:25:20 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:25:21 L.Forc3/Aberracion returned the Red Flag
+20-06-24 01:25:22 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:25:23 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:25:26 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:25:29 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:25:31 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:25:33 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:25:33 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:25:35 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:25:36 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:25:42 (2) D.forc3| Cyborg killed (1) Battousai with Ak-74
+20-06-24 01:25:43 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:25:44 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:25:45 (1) El principito Lead killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:25:53 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 01:25:54 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:25:54 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:25:57 Battousai captured the Blue Flag
+20-06-24 01:25:58 Battousai scores for Alpha Team
+20-06-24 01:25:59 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:26:02 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:26:03 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:26:04 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Combat Knife
+20-06-24 01:26:04 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:26:07 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:26:08 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:26:10 El principito Lead returned the Red Flag
+20-06-24 01:26:10 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:26:12 (2) D.forc3| Cyborg killed (1) El principito Lead with HK MP5
+20-06-24 01:26:13 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:26:13 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:26:16 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:26:18 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:26:20 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:26:20 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:26:24 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:26:25 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:26:28 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:26:29 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:26:31 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:26:32 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:26:34 (1) Battousai killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:26:35 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:26:35 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:26:39 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:26:40 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:26:45 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:26:45 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:26:48 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:26:49 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:26:54 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with LAW
+20-06-24 01:26:56 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:26:56 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:26:56 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:27:00 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:27:03 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:27:05 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:27:10 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:27:10 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:27:11 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:27:11 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:27:19 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:27:19 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:27:19 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:27:21 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:27:24 El principito Lead captured the Blue Flag
+20-06-24 01:27:25 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:27:27 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:27:29 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:27:30 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:27:32 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:27:33 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:27:35 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:27:37 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:27:39 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:27:39 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:27:43 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:27:45 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:27:45 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:27:48 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:27:49 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:27:53 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:27:53 81.171.166.170:41490|E3AB0425C79 requesting game...
+20-06-24 01:27:54 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:27:58 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:28:01 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:28:02 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:28:02 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:28:04 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:28:07 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:28:08 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:28:08 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:28:10 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:28:13 El principito Lead captured the Blue Flag
+20-06-24 01:28:15 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:28:17 (RADIO)[El principito Lead] Enemy flagger up!
+20-06-24 01:28:18 |D.Forc3| Gatitos returned the Blue Flag
+20-06-24 01:28:19 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:28:20 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:28:21 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:28:23 187.79.97.34:12284|47D4B4E67E9 requesting game...
+20-06-24 01:28:23 |D.Forc3|linkird scores for Bravo Team
+20-06-24 01:28:25 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:28:25 (2) D.forc3| Cyborg killed (1) Battousai with Combat Knife
+20-06-24 01:28:32 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:28:34 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:28:36 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:28:42 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:28:45 (1) Battousai killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:28:45 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:28:45 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:28:46 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:28:49 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:28:50 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:28:51 Battousai captured the Blue Flag
+20-06-24 01:28:51 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:28:54 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:28:55 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:28:55 El principito Lead returned the Red Flag
+20-06-24 01:28:56 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:28:58 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:29:00 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:29:02 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Combat Knife
+20-06-24 01:29:02 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:29:04 (1) Battousai killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:29:07 (1) Battousai killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:29:09 Battousai captured the Blue Flag
+20-06-24 01:29:10 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:29:11 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:29:11 El principito Lead captured the Blue Flag
+20-06-24 01:29:11 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:29:15 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:29:15 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:29:17 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:29:18 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:29:20 Battousai captured the Blue Flag
+20-06-24 01:29:20 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:29:20 Time Left: 5 minutes
+20-06-24 01:29:22 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:29:23 Battousai scores for Alpha Team
+20-06-24 01:29:25 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:29:26 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:29:26 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Combat Knife
+20-06-24 01:29:32 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:29:33 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:29:35 (1) Battousai killed (2) |D.Forc3|linkird with Combat Knife
+20-06-24 01:29:38 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:29:39 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:29:42 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:29:43 El principito Lead returned the Red Flag
+20-06-24 01:29:44 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:29:46 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:29:46 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:29:46 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:29:50 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:29:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:29:50 L.Forc3/Aberracion returned the Red Flag
+20-06-24 01:29:52 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:29:53 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:29:54 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:29:58 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:30:05 187.2.68.75:23074|6469A5B5E83 requesting game...
+20-06-24 01:30:05 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:30:06 El principito Lead captured the Blue Flag
+20-06-24 01:30:06 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:30:07 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:30:07 187.2.68.75:23074|6469A5B5E83 requesting game...
+20-06-24 01:30:08 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:30:11 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:30:13 187.2.68.75:23074|6469A5B5E83 requesting game...
+20-06-24 01:30:13 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:30:14 187.2.68.75:23074|6469A5B5E83 requesting game...
+20-06-24 01:30:17 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:30:18 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:30:19 (RADIO)[El principito Lead] Friendly flagger down!
+20-06-24 01:30:20 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:30:20 Time Left: 4 minutes
+20-06-24 01:30:22 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:30:25 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:30:25 Battousai captured the Blue Flag
+20-06-24 01:30:31 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:30:32 (2) |D.Forc3| Gatitos killed (1) Battousai with LAW
+20-06-24 01:30:34 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:30:35 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:30:38 (2) D.forc3| Cyborg killed (1) Battousai with Grenade
+20-06-24 01:30:39 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:30:42 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:30:45 El principito Lead returned the Red Flag
+20-06-24 01:30:45 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:30:45 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:30:48 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:30:49 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:30:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:30:51 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:30:54 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:30:54 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:30:56 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:30:58 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:30:59 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:31:01 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:31:05 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:31:05 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:31:07 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:31:08 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:31:08 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:31:10 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:31:10 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:31:11 L.Forc3/Aberracion returned the Red Flag
+20-06-24 01:31:13 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:31:16 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:31:18 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:31:20 Time Left: 3 minutes
+20-06-24 01:31:20 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:31:22 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:31:23 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:31:25 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:31:27 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:31:28 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:31:30 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:31:33 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:31:38 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:31:38 L.Forc3/Aberracion captured the Blue Flag
+20-06-24 01:31:40 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:31:41 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:31:43 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:31:44 L.Forc3/Aberracion scores for Alpha Team
+20-06-24 01:31:45 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:31:49 (1) El principito Lead killed (2) |D.Forc3| Gatitos with LAW
+20-06-24 01:31:52 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:31:53 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:31:54 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:31:58 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:31:59 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:32:01 (1) El principito Lead killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:32:04 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:32:05 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:32:06 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:32:09 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:32:11 |D.Forc3| Gatitos captured the Red Flag
+20-06-24 01:32:12 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:32:13 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:32:14 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:32:14 Battousai returned the Red Flag
+20-06-24 01:32:15 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:32:15 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:32:20 Time Left: 2 minutes
+20-06-24 01:32:22 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Grenade
+20-06-24 01:32:23 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:32:23 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:32:25 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:32:28 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:32:31 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:32:34 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:32:38 (2) |D.Forc3|linkird killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:32:38 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:32:39 El principito Lead captured the Blue Flag
+20-06-24 01:32:40 (2) D.forc3| Cyborg killed (1) El principito Lead with Grenade
+20-06-24 01:32:41 D.forc3| Cyborg returned the Blue Flag
+20-06-24 01:32:43 (1) Battousai killed (2) |D.Forc3| Gatitos with HK MP5
+20-06-24 01:32:46 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:32:49 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:32:50 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:32:50 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:32:51 (1) El principito Lead killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:32:53 Battousai returned the Red Flag
+20-06-24 01:32:55 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:32:57 (2) |D.Forc3|linkird killed (1) El principito Lead with Grenade
+20-06-24 01:32:57 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:33:01 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Grenade
+20-06-24 01:33:01 (1) Battousai killed (2) |D.Forc3| Gatitos with Grenade
+20-06-24 01:33:04 (1) Battousai killed (2) |D.Forc3|linkird with HK MP5
+20-06-24 01:33:09 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Steyr AUG
+20-06-24 01:33:09 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:33:10 (2) |D.Forc3| Gatitos killed (1) Battousai with Grenade
+20-06-24 01:33:10 (1) Battousai killed (2) |D.Forc3| Gatitos with Combat Knife
+20-06-24 01:33:16 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Grenade
+20-06-24 01:33:17 (1) L.Forc3/Aberracion killed (2) D.forc3| Cyborg with Grenade
+20-06-24 01:33:20 Time Left: 1 minutes
+20-06-24 01:33:21 (1) El principito Lead killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:33:22 El principito Lead captured the Blue Flag
+20-06-24 01:33:23 (2) |D.Forc3|linkird killed (1) El principito Lead with Spas-12
+20-06-24 01:33:24 (RADIO)[El principito Lead] Friendly flagger down!
+20-06-24 01:33:27 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:33:28 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:33:29 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Ruger 77
+20-06-24 01:33:32 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:33:34 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:33:35 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:33:39 D.forc3| Cyborg captured the Red Flag
+20-06-24 01:33:40 (2) D.forc3| Cyborg killed (1) El principito Lead with Combat Knife
+20-06-24 01:33:41 (2) |D.Forc3|linkird killed (1) Battousai with Spas-12
+20-06-24 01:33:44 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with LAW
+20-06-24 01:33:45 D.forc3| Cyborg scores for Bravo Team
+20-06-24 01:33:50 (1) El principito Lead killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:33:53 (1) El principito Lead killed (2) D.forc3| Cyborg with LAW
+20-06-24 01:33:54 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:34:00 (2) |D.Forc3| Gatitos killed (1) Battousai with Ruger 77
+20-06-24 01:34:02 (2) |D.Forc3| Gatitos killed (1) El principito Lead with Ruger 77
+20-06-24 01:34:02 (1) L.Forc3/Aberracion killed (2) |D.Forc3|linkird with Steyr AUG
+20-06-24 01:34:06 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:34:07 (2) D.forc3| Cyborg killed (1) Battousai with Desert Eagles
+20-06-24 01:34:07 (1) Battousai killed (2) D.forc3| Cyborg with HK MP5
+20-06-24 01:34:11 (2) |D.Forc3| Gatitos killed (1) L.Forc3/Aberracion with Spas-12
+20-06-24 01:34:12 El principito Lead captured the Blue Flag
+20-06-24 01:34:13 |D.Forc3|linkird captured the Red Flag
+20-06-24 01:34:13 (2) |D.Forc3|linkird killed (1) Battousai with Grenade
+20-06-24 01:34:14 (2) D.forc3| Cyborg killed (1) El principito Lead with Desert Eagles
+20-06-24 01:34:16 |D.Forc3|linkird returned the Blue Flag
+20-06-24 01:34:17 (1) L.Forc3/Aberracion killed (2) |D.Forc3| Gatitos with Steyr AUG
+20-06-24 01:34:18 (2) D.forc3| Cyborg killed (1) L.Forc3/Aberracion with Desert Eagles
+20-06-24 01:34:20 Next map: Lobby
+20-06-24 01:34:22 [El principito Lead] Yeah
+20-06-24 01:34:23 Battousai has left alpha team.
+20-06-24 01:34:23 L.Forc3/Aberracion has left alpha team.
+20-06-24 01:34:24 |D.Forc3|linkird has left bravo team.
+20-06-24 01:34:25 |D.Forc3| Gatitos has left bravo team.
+20-06-24 01:34:25 El principito Lead has left alpha team.
+20-06-24 01:34:26  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-06-24 01:34:26 Lothic - Gothic Lobby Room
+20-06-24 01:34:26 D.forc3| Cyborg has left bravo team.
+20-06-24 01:37:19 187.2.68.75:23074|6469A5B5E83 requesting game...
+20-06-24 01:38:40 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:38:43 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:38:45 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:38:57 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:38:57 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:39:15 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:39:17 191.126.12.33:28545|7FC01186C03 requesting game...
+20-06-24 01:39:26 Time Left: 5 minutes
+20-06-24 01:40:26 Time Left: 4 minutes
+20-06-24 01:41:26 Time Left: 3 minutes
+20-06-24 01:42:26 Time Left: 2 minutes
+20-06-24 01:43:26 Time Left: 1 minutes
+20-06-24 01:44:26 Next map: Lobby
+20-06-24 01:44:31 Lothic - Gothic Lobby Room
+20-06-24 01:49:31 Time Left: 5 minutes
+20-06-24 01:50:31 Time Left: 4 minutes
+20-06-24 01:51:31 Time Left: 3 minutes
+20-06-24 01:52:31 Time Left: 2 minutes
+20-06-24 01:53:31 Time Left: 1 minutes
+20-06-24 01:54:31 Next map: Lobby
+20-06-24 01:54:36 Lothic - Gothic Lobby Room
+20-06-24 01:59:36 Time Left: 5 minutes
+20-06-24 02:00:36 Time Left: 4 minutes
+20-06-24 02:01:36 Time Left: 3 minutes
+20-06-24 02:02:36 Time Left: 2 minutes
+20-06-24 02:03:36 Time Left: 1 minutes
+20-06-24 02:04:36 Next map: Lobby
+20-06-24 02:04:42 Lothic - Gothic Lobby Room
+20-06-24 02:09:42 Time Left: 5 minutes
+20-06-24 02:10:42 Time Left: 4 minutes
+20-06-24 02:11:42 Time Left: 3 minutes
+20-06-24 02:12:42 Time Left: 2 minutes
+20-06-24 02:13:42 Time Left: 1 minutes
+20-06-24 02:14:42 Next map: Lobby
+20-06-24 02:14:47 Lothic - Gothic Lobby Room
+20-06-24 02:19:47 Time Left: 5 minutes
+20-06-24 02:20:47 Time Left: 4 minutes
+20-06-24 02:21:47 Time Left: 3 minutes
+20-06-24 02:22:47 Time Left: 2 minutes
+20-06-24 02:23:47 Time Left: 1 minutes
+20-06-24 02:24:47 Next map: Lobby
+20-06-24 02:24:52 Lothic - Gothic Lobby Room
+20-06-24 02:29:52 Time Left: 5 minutes
+20-06-24 02:30:52 Time Left: 4 minutes
+20-06-24 02:31:52 Time Left: 3 minutes
+20-06-24 02:32:52 Time Left: 2 minutes
+20-06-24 02:33:52 Time Left: 1 minutes
+20-06-24 02:34:52 Next map: Lobby
+20-06-24 02:34:57 Lothic - Gothic Lobby Room
+20-06-24 02:39:57 Time Left: 5 minutes
+20-06-24 02:40:57 Time Left: 4 minutes
+20-06-24 02:41:57 Time Left: 3 minutes
+20-06-24 02:42:57 Time Left: 2 minutes
+20-06-24 02:43:57 Time Left: 1 minutes
+20-06-24 02:44:57 Next map: Lobby
+20-06-24 02:45:03 Lothic - Gothic Lobby Room
+20-06-24 02:50:03 Time Left: 5 minutes
+20-06-24 02:51:03 Time Left: 4 minutes
+20-06-24 02:52:03 Time Left: 3 minutes
+20-06-24 02:53:03 Time Left: 2 minutes
+20-06-24 02:54:03 Time Left: 1 minutes
+20-06-24 02:55:03 Next map: Lobby
+20-06-24 02:55:08 Lothic - Gothic Lobby Room
+20-06-24 03:00:08 Time Left: 5 minutes
+20-06-24 03:01:08 Time Left: 4 minutes
+20-06-24 03:02:08 Time Left: 3 minutes
+20-06-24 03:03:08 Time Left: 2 minutes
+20-06-24 03:04:08 Time Left: 1 minutes
+20-06-24 03:05:08 Next map: Lobby
+20-06-24 03:05:13 Lothic - Gothic Lobby Room
+20-06-24 03:10:13 Time Left: 5 minutes
+20-06-24 03:11:13 Time Left: 4 minutes
+20-06-24 03:11:36 45.232.33.28:48543|4C4052F23D1 requesting game...
+20-06-24 03:11:39 uoL| athe joining game (45.232.33.28:48543) HWID:4C4052F23D1
+20-06-24 03:11:39 uoL| athe has joined alpha team.
+20-06-24 03:11:55 uoL| athe has left alpha team.
+20-06-24 03:12:09 45.232.33.28:48543|4C4052F23D1 requesting game...
+20-06-24 03:12:11 uoL| athe joining game (45.232.33.28:48543) HWID:4C4052F23D1
+20-06-24 03:12:11 uoL| athe has joined alpha team.
+20-06-24 03:12:13 Time Left: 3 minutes
+20-06-24 03:12:18 uoL| athe has left alpha team.
+20-06-24 03:13:13 Time Left: 2 minutes
+20-06-24 03:14:13 Time Left: 1 minutes
+20-06-24 03:15:13 Next map: Lobby
+20-06-24 03:15:19 Lothic - Gothic Lobby Room
+20-06-24 03:20:19 Time Left: 5 minutes
+20-06-24 03:21:19 Time Left: 4 minutes
+20-06-24 03:22:19 Time Left: 3 minutes
+20-06-24 03:23:19 Time Left: 2 minutes
+20-06-24 03:24:19 Time Left: 1 minutes
+20-06-24 03:25:19 Next map: Lobby
+20-06-24 03:25:24 Lothic - Gothic Lobby Room
+20-06-24 03:30:24 Time Left: 5 minutes
+20-06-24 03:31:24 Time Left: 4 minutes
+20-06-24 03:32:24 Time Left: 3 minutes
+20-06-24 03:33:24 Time Left: 2 minutes
+20-06-24 03:34:24 Time Left: 1 minutes
+20-06-24 03:35:24 Next map: Lobby
+20-06-24 03:35:29 Lothic - Gothic Lobby Room
+20-06-24 03:40:29 Time Left: 5 minutes
+20-06-24 03:40:37 187.122.5.105:1567|69C71AADE18 requesting game...
+20-06-24 03:41:29 Time Left: 4 minutes
+20-06-24 03:42:29 Time Left: 3 minutes
+20-06-24 03:43:29 Time Left: 2 minutes
+20-06-24 03:44:29 Time Left: 1 minutes
+20-06-24 03:45:29 Next map: Lobby
+20-06-24 03:45:35 Lothic - Gothic Lobby Room
+20-06-24 03:50:35 Time Left: 5 minutes
+20-06-24 03:51:35 Time Left: 4 minutes
+20-06-24 03:52:35 Time Left: 3 minutes
+20-06-24 03:53:35 Time Left: 2 minutes
+20-06-24 03:54:35 Time Left: 1 minutes
+20-06-24 03:55:35 Next map: Lobby
+20-06-24 03:55:40 Lothic - Gothic Lobby Room
+20-06-24 04:00:40 Time Left: 5 minutes
+20-06-24 04:01:40 Time Left: 4 minutes
+20-06-24 04:02:40 Time Left: 3 minutes
+20-06-24 04:03:40 Time Left: 2 minutes
+20-06-24 04:04:40 Time Left: 1 minutes
+20-06-24 04:05:40 Next map: Lobby
+20-06-24 04:05:45 Lothic - Gothic Lobby Room
+20-06-24 04:10:45 Time Left: 5 minutes
+20-06-24 04:11:45 Time Left: 4 minutes
+20-06-24 04:12:45 Time Left: 3 minutes
+20-06-24 04:13:45 Time Left: 2 minutes
+20-06-24 04:14:45 Time Left: 1 minutes
+20-06-24 04:15:45 Next map: Lobby
+20-06-24 04:15:51 Lothic - Gothic Lobby Room
+20-06-24 04:20:51 Time Left: 5 minutes
+20-06-24 04:21:51 Time Left: 4 minutes
+20-06-24 04:22:51 Time Left: 3 minutes
+20-06-24 04:23:51 Time Left: 2 minutes
+20-06-24 04:24:51 Time Left: 1 minutes
+20-06-24 04:25:51 Next map: Lobby
+20-06-24 04:25:56 Lothic - Gothic Lobby Room
+20-06-24 04:30:56 Time Left: 5 minutes
+20-06-24 04:31:56 Time Left: 4 minutes
+20-06-24 04:32:56 Time Left: 3 minutes
+20-06-24 04:33:56 Time Left: 2 minutes
+20-06-24 04:34:56 Time Left: 1 minutes
+20-06-24 04:35:56 Next map: Lobby
+20-06-24 04:36:01 Lothic - Gothic Lobby Room
+20-06-24 04:41:01 Time Left: 5 minutes
+20-06-24 04:42:01 Time Left: 4 minutes
+20-06-24 04:43:01 Time Left: 3 minutes
+20-06-24 04:44:01 Time Left: 2 minutes
+20-06-24 04:45:01 Time Left: 1 minutes
+20-06-24 04:46:01 Next map: Lobby
+20-06-24 04:46:07 Lothic - Gothic Lobby Room
+20-06-24 04:51:07 Time Left: 5 minutes
+20-06-24 04:52:07 Time Left: 4 minutes
+20-06-24 04:53:07 Time Left: 3 minutes
+20-06-24 04:54:07 Time Left: 2 minutes
+20-06-24 04:55:07 Time Left: 1 minutes
+20-06-24 04:56:07 Next map: Lobby
+20-06-24 04:56:12 Lothic - Gothic Lobby Room
+20-06-24 05:01:12 Time Left: 5 minutes
+20-06-24 05:02:12 Time Left: 4 minutes
+20-06-24 05:03:12 Time Left: 3 minutes
+20-06-24 05:04:12 Time Left: 2 minutes
+20-06-24 05:05:12 Time Left: 1 minutes
+20-06-24 05:06:12 Next map: Lobby
+20-06-24 05:06:17 Lothic - Gothic Lobby Room
+20-06-24 05:11:17 Time Left: 5 minutes
+20-06-24 05:12:17 Time Left: 4 minutes
+20-06-24 05:13:17 Time Left: 3 minutes
+20-06-24 05:14:17 Time Left: 2 minutes
+20-06-24 05:15:17 Time Left: 1 minutes
+20-06-24 05:16:17 Next map: Lobby
+20-06-24 05:16:23 Lothic - Gothic Lobby Room
+20-06-24 05:21:23 Time Left: 5 minutes
+20-06-24 05:22:23 Time Left: 4 minutes

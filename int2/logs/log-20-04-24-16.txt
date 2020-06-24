@@ -1,0 +1,426 @@
+20-04-24 19:32:44    Log Started
+20-04-24 19:32:44 Opened /home/kader_b/int2/soldat.ini
+20-04-24 19:32:44 Creating network interface.
+20-04-24 19:32:44 Loading Animations.
+20-04-24 19:32:44 Loading Lobby Servers List
+20-04-24 19:32:44 Loading Maps List
+20-04-24 19:32:44 Loading Map.
+20-04-24 19:32:44 Creating Weapons.
+20-04-24 19:32:44 Starting Game Server.
+20-04-24 19:32:44 TCP/IP File Server started
+20-04-24 19:33:05  Net - Divas| Rattle connected 24-4-20 19:33:05
+20-04-24 19:34:09  Net - Divas| Rattle disconnected 24-4-20 19:34:09
+20-04-24 19:43:42  Net - sT.- YnGwi3 connected 24-4-20 19:43:42
+20-04-24 19:43:56  Net - sT.- YnGwi3 disconnected 24-4-20 19:43:56
+20-04-24 20:02:44 TCP/IP File Server started
+20-04-24 20:32:44 TCP/IP File Server started
+20-04-24 21:02:44 TCP/IP File Server started
+20-04-24 21:32:44 TCP/IP File Server started
+20-04-24 22:02:44 TCP/IP File Server started
+20-04-24 22:32:44 TCP/IP File Server started
+20-04-24 23:02:44 TCP/IP File Server started
+20-04-24 23:32:44 TCP/IP File Server started
+20-04-25 00:02:44 TCP/IP File Server started
+20-04-25 00:32:44 TCP/IP File Server started
+20-04-25 01:02:44 TCP/IP File Server started
+20-04-25 01:32:44 TCP/IP File Server started
+20-04-25 02:02:44 TCP/IP File Server started
+20-04-25 02:32:44 TCP/IP File Server started
+20-04-25 02:39:39  Net - Divas| Rattle connected 25-4-20 02:39:39
+20-04-25 02:39:45  Net - mipHo connected 25-4-20 02:39:45
+20-04-25 02:39:55  Net - Warfar3.- connected 25-4-20 02:39:55
+20-04-25 02:39:57  Net - Sk8' connected 25-4-20 02:39:57
+20-04-25 02:40:00  Net - Sk8' connected 25-4-20 02:40:00
+20-04-25 02:40:00  Net - later Maaxis* (New guy) connected 25-4-20 02:40:00
+20-04-25 02:40:02  Net - Warfar3.- connected 25-4-20 02:40:02
+20-04-25 02:40:03  Net - later Maaxis* (New guy) disconnected 25-4-20 02:40:03
+20-04-25 02:40:06  Net - later Maaxis* (New guy) connected 25-4-20 02:40:06
+20-04-25 02:40:06  Net - #1 Mand3s connected 25-4-20 02:40:06
+20-04-25 02:40:21  Net - #1 Mand3s connected 25-4-20 02:40:21
+20-04-25 02:40:34  Net - mipHo disconnected 25-4-20 02:40:34
+20-04-25 02:40:38  Net - mipHo connected 25-4-20 02:40:38
+20-04-25 02:40:39  Net - mipHo disconnected 25-4-20 02:40:39
+20-04-25 02:40:41  Net - #1 Mand3s connected 25-4-20 02:40:41
+20-04-25 02:40:43  Net - mipHo connected 25-4-20 02:40:43
+20-04-25 02:40:59  Net - Warfar3.- disconnected 25-4-20 02:40:59
+20-04-25 02:41:01  Net - Warfar3.- connected 25-4-20 02:41:01
+20-04-25 02:41:03  Net - Warfar3.- connected 25-4-20 02:41:03
+20-04-25 02:41:05  Net - Warfar3.- connected 25-4-20 02:41:05
+20-04-25 02:41:07  Net - Warfar3.- disconnected 25-4-20 02:41:07
+20-04-25 02:41:08  Net - Warfar3.- connected 25-4-20 02:41:08
+20-04-25 02:41:10  Net - Warfar3.- connected 25-4-20 02:41:10
+20-04-25 02:41:48  Net - sT.- YnGwi3 connected 25-4-20 02:41:48
+20-04-25 02:41:52  Net - #1 Mand3s connected 25-4-20 02:41:52
+20-04-25 02:41:56  Net - sT.- YnGwi3 connected 25-4-20 02:41:56
+20-04-25 02:42:55  Net - Divas| Rattle disconnected 25-4-20 02:42:55
+20-04-25 02:43:07  Net - Divas| Rattle connected 25-4-20 02:43:07
+20-04-25 02:45:46  Net - Sk8' disconnected 25-4-20 02:45:46
+20-04-25 02:45:53  Net - Sk8' connected 25-4-20 02:45:53
+20-04-25 02:49:06  Net - #KbN! VanscL connected 25-4-20 02:49:06
+20-04-25 02:53:07  Net - #1 Mand3s disconnected 25-4-20 02:53:07
+20-04-25 02:54:29  Net - #KbN! VanscL disconnected 25-4-20 02:54:29
+20-04-25 02:59:59  Net - Sk8' disconnected 25-4-20 02:59:59
+20-04-25 03:00:11  Net - mipHo disconnected 25-4-20 03:00:11
+20-04-25 03:00:13  Net - later Maaxis* (New guy) disconnected 25-4-20 03:00:13
+20-04-25 03:00:13  Net - Warfar3.- disconnected 25-4-20 03:00:13
+20-04-25 03:00:14  Net - sT.- YnGwi3 disconnected 25-4-20 03:00:14
+20-04-25 03:00:15  Net - Divas| Rattle disconnected 25-4-20 03:00:15
+20-04-25 03:02:44 TCP/IP File Server started
+20-04-25 03:22:28  Net - #KbN! VanscL connected 25-4-20 03:22:28
+20-04-25 03:22:30  Net - #KbN! VanscL disconnected 25-4-20 03:22:30
+20-04-25 03:32:44 TCP/IP File Server started
+20-04-25 03:43:55  Net - #KbN! VanscL connected 25-4-20 03:43:55
+20-04-25 03:43:57  Net - #KbN! VanscL connected 25-4-20 03:43:57
+20-04-25 03:47:32  Net - #KbN! VanscL disconnected 25-4-20 03:47:32
+20-04-25 04:02:44 TCP/IP File Server started
+20-04-25 04:32:44 TCP/IP File Server started
+20-04-25 04:34:30  Net - #CbN! PoRnOoB connected 25-4-20 04:34:30
+20-04-25 04:34:31  Net - #CbN! PoRnOoB disconnected 25-4-20 04:34:31
+20-04-25 04:53:03  Net - #KbN! Nitho connected 25-4-20 04:53:03
+20-04-25 04:53:09  Net - #KbN! Nitho disconnected 25-4-20 04:53:09
+20-04-25 04:53:13  Net - #KbN! Nitho connected 25-4-20 04:53:13
+20-04-25 04:53:13  Net - #CbN! PoRnOoB connected 25-4-20 04:53:13
+20-04-25 04:53:25  Net - RtP| Breeze connected 25-4-20 04:53:25
+20-04-25 04:53:36  Net - #KbN! VanscL connected 25-4-20 04:53:36
+20-04-25 04:53:50  Net - #CbN! PoRnOoB connected 25-4-20 04:53:50
+20-04-25 04:54:29  Net - boxb connected 25-4-20 04:54:29
+20-04-25 04:55:20  Net - #CbN! PoRnOoB connected 25-4-20 04:55:20
+20-04-25 04:55:27  Net - #CbN! PoRnOoB disconnected 25-4-20 04:55:27
+20-04-25 04:56:54  Net - #CbN! PoRnOoB connected 25-4-20 04:56:54
+20-04-25 04:57:40  Net - #KbN! Ahmadvand connected 25-4-20 04:57:40
+20-04-25 04:59:45  Net - #KbN! Ahmadvand connected 25-4-20 04:59:45
+20-04-25 04:59:49  Net - #KbN! Nitho connected 25-4-20 04:59:49
+20-04-25 04:59:54  Net - #KbN! Nitho connected 25-4-20 04:59:54
+20-04-25 05:00:07  Net - #CbN! PoRnOoB connected 25-4-20 05:00:07
+20-04-25 05:00:10  Net - #KbN! Ahmadvand disconnected 25-4-20 05:00:10
+20-04-25 05:00:37  Net - RtP| Atheria connected 25-4-20 05:00:37
+20-04-25 05:02:44 TCP/IP File Server started
+20-04-25 05:12:23  Net - #CbN! PoRnOoB connected 25-4-20 05:12:23
+20-04-25 05:12:31  Net - #CbN! PoRnOoB connected 25-4-20 05:12:31
+20-04-25 05:22:03  Net - boxb disconnected 25-4-20 05:22:03
+20-04-25 05:22:05  Net - RtP| Atheria disconnected 25-4-20 05:22:05
+20-04-25 05:22:06  Net - RtP| Breeze disconnected 25-4-20 05:22:06
+20-04-25 05:22:12  Net - #KbN! Nitho disconnected 25-4-20 05:22:12
+20-04-25 05:22:13  Net - #KbN! VanscL disconnected 25-4-20 05:22:13
+20-04-25 05:22:17  Net - #CbN! PoRnOoB disconnected 25-4-20 05:22:17
+20-04-25 05:27:12  Net - #CbN! VanscL connected 25-4-20 05:27:12
+20-04-25 05:27:47  Net - #CbN! VanscL disconnected 25-4-20 05:27:47
+20-04-25 05:28:00  Net - #CbN! VanscL connected 25-4-20 05:28:00
+20-04-25 05:28:07  Net - #CbN! PoRnOoB connected 25-4-20 05:28:07
+20-04-25 05:32:44 TCP/IP File Server started
+20-04-25 05:46:12  Net - Divas| Rattle connected 25-4-20 05:46:12
+20-04-25 05:49:50  Net - Divas| Rattle disconnected 25-4-20 05:49:50
+20-04-25 05:52:33  Net - #CbN! PoRnOoB disconnected 25-4-20 05:52:33
+20-04-25 05:52:37  Net - #CbN! VanscL disconnected 25-4-20 05:52:37
+20-04-25 06:02:44 TCP/IP File Server started
+20-04-25 06:32:44 TCP/IP File Server started
+20-04-25 07:02:44 TCP/IP File Server started
+20-04-25 07:32:44 TCP/IP File Server started
+20-04-25 08:02:44 TCP/IP File Server started
+20-04-25 08:32:44 TCP/IP File Server started
+20-04-25 09:02:44 TCP/IP File Server started
+20-04-25 09:32:44 TCP/IP File Server started
+20-04-25 10:02:44 TCP/IP File Server started
+20-04-25 10:32:44 TCP/IP File Server started
+20-04-25 11:02:44 TCP/IP File Server started
+20-04-25 11:32:44 TCP/IP File Server started
+20-04-25 12:02:44 TCP/IP File Server started
+20-04-25 12:32:44 TCP/IP File Server started
+20-04-25 13:02:44 TCP/IP File Server started
+20-04-25 13:32:44 TCP/IP File Server started
+20-04-25 14:02:44 TCP/IP File Server started
+20-04-25 14:32:44 TCP/IP File Server started
+20-04-25 15:02:44 TCP/IP File Server started
+20-04-25 15:32:44 TCP/IP File Server started
+20-04-25 16:02:44 TCP/IP File Server started
+20-04-25 16:32:44 TCP/IP File Server started
+20-04-25 17:02:44 TCP/IP File Server started
+20-04-25 17:32:44 TCP/IP File Server started
+20-04-25 18:02:44 TCP/IP File Server started
+20-04-25 18:32:44 TCP/IP File Server started
+20-04-25 19:02:44 TCP/IP File Server started
+20-04-25 19:32:44 TCP/IP File Server started
+20-04-25 20:02:44 TCP/IP File Server started
+20-04-25 20:32:44 TCP/IP File Server started
+20-04-25 21:02:44 TCP/IP File Server started
+20-04-25 21:32:44 TCP/IP File Server started
+20-04-25 22:02:44 TCP/IP File Server started
+20-04-25 22:32:44 TCP/IP File Server started
+20-04-25 23:02:44 TCP/IP File Server started
+20-04-25 23:32:44 TCP/IP File Server started
+20-04-26 00:02:44 TCP/IP File Server started
+20-04-26 00:32:44 TCP/IP File Server started
+20-04-26 01:02:44 TCP/IP File Server started
+20-04-26 01:32:44 TCP/IP File Server started
+20-04-26 02:02:44 TCP/IP File Server started
+20-04-26 02:32:44 TCP/IP File Server started
+20-04-26 03:02:44 TCP/IP File Server started
+20-04-26 03:32:44 TCP/IP File Server started
+20-04-26 04:02:44 TCP/IP File Server started
+20-04-26 04:32:44 TCP/IP File Server started
+20-04-26 05:02:44 TCP/IP File Server started
+20-04-26 05:09:52  Net - KorN |KFC connected 26-4-20 05:09:52
+20-04-26 05:09:53  Net - KorN |KFC disconnected 26-4-20 05:09:53
+20-04-26 05:32:44 TCP/IP File Server started
+20-04-26 06:02:44 TCP/IP File Server started
+20-04-26 06:32:44 TCP/IP File Server started
+20-04-26 07:02:44 TCP/IP File Server started
+20-04-26 07:32:44 TCP/IP File Server started
+20-04-26 08:02:44 TCP/IP File Server started
+20-04-26 08:32:44 TCP/IP File Server started
+20-04-26 09:02:44 TCP/IP File Server started
+20-04-26 09:32:44 TCP/IP File Server started
+20-04-26 10:02:44 TCP/IP File Server started
+20-04-26 10:32:44 TCP/IP File Server started
+20-04-26 11:02:44 TCP/IP File Server started
+20-04-26 11:32:44 TCP/IP File Server started
+20-04-26 12:02:44 TCP/IP File Server started
+20-04-26 12:32:44 TCP/IP File Server started
+20-04-26 13:02:44 TCP/IP File Server started
+20-04-26 13:32:44 TCP/IP File Server started
+20-04-26 14:02:44 TCP/IP File Server started
+20-04-26 14:32:44 TCP/IP File Server started
+20-04-26 15:02:44 TCP/IP File Server started
+20-04-26 15:32:44 TCP/IP File Server started
+20-04-26 16:02:44 TCP/IP File Server started
+20-04-26 16:32:44 TCP/IP File Server started
+20-04-26 17:02:44 TCP/IP File Server started
+20-04-26 17:32:44 TCP/IP File Server started
+20-04-26 18:02:44 TCP/IP File Server started
+20-04-26 18:32:44 TCP/IP File Server started
+20-04-26 19:02:44 TCP/IP File Server started
+20-04-26 19:32:44 TCP/IP File Server started
+20-04-26 20:02:44 TCP/IP File Server started
+20-04-26 20:32:44 TCP/IP File Server started
+20-04-26 21:02:44 TCP/IP File Server started
+20-04-26 21:32:44 TCP/IP File Server started
+20-04-26 22:02:44 TCP/IP File Server started
+20-04-26 22:32:44 TCP/IP File Server started
+20-04-26 23:02:44 TCP/IP File Server started
+20-04-26 23:32:44 TCP/IP File Server started
+20-04-27 00:02:44 TCP/IP File Server started
+20-04-27 00:32:44 TCP/IP File Server started
+20-04-27 01:02:44 TCP/IP File Server started
+20-04-27 01:32:44 TCP/IP File Server started
+20-04-27 02:02:44 TCP/IP File Server started
+20-04-27 02:32:44 TCP/IP File Server started
+20-04-27 02:51:48  Net - =E*R= IL Capitano connected 27-4-20 02:51:48
+20-04-27 02:52:02  Net - OxiD:// KillMe! connected 27-4-20 02:52:02
+20-04-27 02:52:23  Net - OxiD:// KillMe! disconnected 27-4-20 02:52:23
+20-04-27 02:52:37  Net - =E*R= IL Capitano disconnected 27-4-20 02:52:37
+20-04-27 02:52:42  Net - =E*R= Chaky//<3K connected 27-4-20 02:52:42
+20-04-27 02:52:50  Net - =E*R= Chaky//<3K disconnected 27-4-20 02:52:50
+20-04-27 02:55:13  Net - #KbN! VanscL connected 27-4-20 02:55:13
+20-04-27 02:56:41  Net - #KbN! VanscL disconnected 27-4-20 02:56:41
+20-04-27 03:02:44 TCP/IP File Server started
+20-04-27 03:03:00  Net - Ahmadvand connected 27-4-20 03:03:00
+20-04-27 03:03:14  Net - #KbN! Nitho connected 27-4-20 03:03:14
+20-04-27 03:03:21  Net - Ahmadvand disconnected 27-4-20 03:03:21
+20-04-27 03:03:28  Net - RtP| SontercL connected 27-4-20 03:03:28
+20-04-27 03:03:29  Net - #KbN! Chrono //<3K connected 27-4-20 03:03:29
+20-04-27 03:03:30  Net - #KbN! Chrono //<3K disconnected 27-4-20 03:03:30
+20-04-27 03:03:36  Net - RtP| LeprosycL connected 27-4-20 03:03:36
+20-04-27 03:03:38  Net - #KbN! AsteK connected 27-4-20 03:03:38
+20-04-27 03:03:51  Net - RtP| Shuter connected 27-4-20 03:03:51
+20-04-27 03:04:04  Net - #KbN! Chrono //<3K connected 27-4-20 03:04:04
+20-04-27 03:04:51  Net - RtP| LoKitoHcL connected 27-4-20 03:04:51
+20-04-27 03:06:58  Net - #KbN! VanscL connected 27-4-20 03:06:58
+20-04-27 03:07:11  Net - Tatum//<3K connected 27-4-20 03:07:11
+20-04-27 03:08:14  Net - #KbN! AsteK disconnected 27-4-20 03:08:14
+20-04-27 03:08:14  Net - RtP| LoKitoHcL disconnected 27-4-20 03:08:14
+20-04-27 03:08:14  Net - RtP| SontercL disconnected 27-4-20 03:08:14
+20-04-27 03:08:17  Net - RtP| SontercL connected 27-4-20 03:08:17
+20-04-27 03:08:18  Net - #KbN! AsteK connected 27-4-20 03:08:18
+20-04-27 03:09:02  Net - RtP| LoKitoHcL connected 27-4-20 03:09:02
+20-04-27 03:17:18  Net - #KbN! VanscL disconnected 27-4-20 03:17:18
+20-04-27 03:17:36  Net - #KbN! VanscL connected 27-4-20 03:17:36
+20-04-27 03:18:24  Net - #KbN! VanscL disconnected 27-4-20 03:18:24
+20-04-27 03:19:06  Net - RtP| LoKitoHcL connected 27-4-20 03:19:06
+20-04-27 03:19:11  Net - RtP| LeprosycL connected 27-4-20 03:19:11
+20-04-27 03:25:07  Net - Tatum//<3K disconnected 27-4-20 03:25:07
+20-04-27 03:26:01  Net - #KbN! Chrono //<3K disconnected 27-4-20 03:26:01
+20-04-27 03:26:03  Net - #KbN! Nitho disconnected 27-4-20 03:26:03
+20-04-27 03:26:07  Net - RtP| LoKitoHcL disconnected 27-4-20 03:26:07
+20-04-27 03:26:08  Net - RtP| Shuter disconnected 27-4-20 03:26:08
+20-04-27 03:26:19  Net - RtP| LeprosycL connected 27-4-20 03:26:19
+20-04-27 03:26:23  Net - RtP| Shuter connected 27-4-20 03:26:23
+20-04-27 03:27:48  Net - RtP| LeprosycL disconnected 27-4-20 03:27:48
+20-04-27 03:28:10  Net - #KbN! AsteK disconnected 27-4-20 03:28:10
+20-04-27 03:28:14  Net - RtP| SontercL disconnected 27-4-20 03:28:14
+20-04-27 03:29:07  Net - RtP| Shuter disconnected 27-4-20 03:29:07
+20-04-27 03:32:44 TCP/IP File Server started
+20-04-27 04:02:44 TCP/IP File Server started
+20-04-27 04:09:23  Net - [UnK] F4ll.cL connected 27-4-20 04:09:23
+20-04-27 04:10:16  Net - [UnK] F4ll.cL disconnected 27-4-20 04:10:16
+20-04-27 04:31:29  Net - Exactos. Break connected 27-4-20 04:31:29
+20-04-27 04:31:31  Net - Exactos. Break disconnected 27-4-20 04:31:31
+20-04-27 04:32:44 TCP/IP File Server started
+20-04-27 05:02:44 TCP/IP File Server started
+20-04-27 05:32:44 TCP/IP File Server started
+20-04-27 06:02:44 TCP/IP File Server started
+20-04-27 06:32:44 TCP/IP File Server started
+20-04-27 07:02:44 TCP/IP File Server started
+20-04-27 07:32:44 TCP/IP File Server started
+20-04-27 08:02:44 TCP/IP File Server started
+20-04-27 08:32:44 TCP/IP File Server started
+20-04-27 09:02:44 TCP/IP File Server started
+20-04-27 09:32:44 TCP/IP File Server started
+20-04-27 10:02:44 TCP/IP File Server started
+20-04-27 10:32:44 TCP/IP File Server started
+20-04-27 11:02:44 TCP/IP File Server started
+20-04-27 11:32:44 TCP/IP File Server started
+20-04-27 12:02:44 TCP/IP File Server started
+20-04-27 12:32:44 TCP/IP File Server started
+20-04-27 13:02:44 TCP/IP File Server started
+20-04-27 13:32:44 TCP/IP File Server started
+20-04-27 14:02:44 TCP/IP File Server started
+20-04-27 14:32:44 TCP/IP File Server started
+20-04-27 15:02:44 TCP/IP File Server started
+20-04-27 15:32:44 TCP/IP File Server started
+20-04-27 16:02:44 TCP/IP File Server started
+20-04-27 16:32:44 TCP/IP File Server started
+20-04-27 17:02:44 TCP/IP File Server started
+20-04-27 17:32:44 TCP/IP File Server started
+20-04-27 18:02:44 TCP/IP File Server started
+20-04-27 18:32:44 TCP/IP File Server started
+20-04-27 19:02:44 TCP/IP File Server started
+20-04-27 19:32:44 TCP/IP File Server started
+20-04-27 20:02:44 TCP/IP File Server started
+20-04-27 20:32:44 TCP/IP File Server started
+20-04-27 21:02:44 TCP/IP File Server started
+20-04-27 21:32:44 TCP/IP File Server started
+20-04-27 22:02:44 TCP/IP File Server started
+20-04-27 22:32:44 TCP/IP File Server started
+20-04-27 23:02:44 TCP/IP File Server started
+20-04-27 23:32:44 TCP/IP File Server started
+20-04-28 00:02:44 TCP/IP File Server started
+20-04-28 00:32:44 TCP/IP File Server started
+20-04-28 01:02:44 TCP/IP File Server started
+20-04-28 01:32:44 TCP/IP File Server started
+20-04-28 02:02:44 TCP/IP File Server started
+20-04-28 02:32:44 TCP/IP File Server started
+20-04-28 03:02:44 TCP/IP File Server started
+20-04-28 03:32:44 TCP/IP File Server started
+20-04-28 04:02:44 TCP/IP File Server started
+20-04-28 04:15:15  Net - [UnK] F4ll.cL connected 28-4-20 04:15:15
+20-04-28 04:15:38  Net - RtP| Shuter connected 28-4-20 04:15:38
+20-04-28 04:16:08  Net - [UnK] atheria connected 28-4-20 04:16:08
+20-04-28 04:16:21  Net - RtP| SontercL connected 28-4-20 04:16:21
+20-04-28 04:17:51  Net - [UnK] F4ll.cL connected 28-4-20 04:17:51
+20-04-28 04:17:52  Net - RtP| Shuter connected 28-4-20 04:17:52
+20-04-28 04:17:54  Net - RtP| SontercL connected 28-4-20 04:17:54
+20-04-28 04:18:22  Net - extrakt09- connected 28-4-20 04:18:22
+20-04-28 04:18:28  Net - extrakt09- connected 28-4-20 04:18:28
+20-04-28 04:19:08  Net - RtP| LeprosycL connected 28-4-20 04:19:08
+20-04-28 04:19:21  Net - Waives|D4sh connected 28-4-20 04:19:21
+20-04-28 04:19:27  Net - Waives|D4sh connected 28-4-20 04:19:27
+20-04-28 04:19:31  Net - [UnK] atheria connected 28-4-20 04:19:31
+20-04-28 04:20:00  Net - Waives|D4sh disconnected 28-4-20 04:20:00
+20-04-28 04:20:00  Net - extrakt09- connected 28-4-20 04:20:00
+20-04-28 04:20:10  Net - [UnK] D4sh connected 28-4-20 04:20:10
+20-04-28 04:20:12  Net - [UnK] D4sh connected 28-4-20 04:20:12
+20-04-28 04:22:16  Net - *Colt connected 28-4-20 04:22:16
+20-04-28 04:22:44  Net - SS ~ Cobalt connected 28-4-20 04:22:44
+20-04-28 04:23:35  Net - extrakt09- connected 28-4-20 04:23:35
+20-04-28 04:23:42  Net - extrakt09- connected 28-4-20 04:23:42
+20-04-28 04:23:47  Net - later CrasheR connected 28-4-20 04:23:47
+20-04-28 04:24:12  Net - SS ~ Cobalt disconnected 28-4-20 04:24:12
+20-04-28 04:25:36  Net - RtP| LeprosycL disconnected 28-4-20 04:25:36
+20-04-28 04:25:39  Net - extrakt09- connected 28-4-20 04:25:39
+20-04-28 04:25:46  Net - later CrasheR disconnected 28-4-20 04:25:46
+20-04-28 04:25:57  Net - [UnK] atheria connected 28-4-20 04:25:57
+20-04-28 04:26:08  Net - RtP| LeprosycL connected 28-4-20 04:26:08
+20-04-28 04:26:18  Net - AE/Papu connected 28-4-20 04:26:18
+20-04-28 04:26:54  Net - KorN |KFC connected 28-4-20 04:26:54
+20-04-28 04:26:58  Net - KorN |KFC connected 28-4-20 04:26:58
+20-04-28 04:27:06  Net - KorN |KFC disconnected 28-4-20 04:27:06
+20-04-28 04:27:52  Net - [UnK] KorN connected 28-4-20 04:27:52
+20-04-28 04:27:57  Net - extrakt09- connected 28-4-20 04:27:57
+20-04-28 04:28:39  Net - later CrasheR connected 28-4-20 04:28:39
+20-04-28 04:32:44 TCP/IP File Server started
+20-04-28 04:36:51  Net - Sk8' connected 28-4-20 04:36:51
+20-04-28 04:37:25  Net - [UnK] F4ll.cL connected 28-4-20 04:37:25
+20-04-28 04:37:27  Net - extrakt09- connected 28-4-20 04:37:27
+20-04-28 04:37:34  Net - [UnK] F4ll.cL connected 28-4-20 04:37:34
+20-04-28 04:37:45  Net - extrakt09- connected 28-4-20 04:37:45
+20-04-28 04:37:49  Net - extrakt09- disconnected 28-4-20 04:37:49
+20-04-28 04:38:41  Net - later CrasheR disconnected 28-4-20 04:38:41
+20-04-28 04:38:44  Net - [UnK] HughscL connected 28-4-20 04:38:44
+20-04-28 04:43:53  Net - *Colt disconnected 28-4-20 04:43:53
+20-04-28 04:45:44  Net - Sk8' disconnected 28-4-20 04:45:44
+20-04-28 04:47:05  Net - AE/Papu disconnected 28-4-20 04:47:05
+20-04-28 04:48:07  Net - [UnK] HughscL disconnected 28-4-20 04:48:07
+20-04-28 04:48:32  Net - RtP| LeprosycL disconnected 28-4-20 04:48:32
+20-04-28 04:48:32  Net - [UnK] atheria disconnected 28-4-20 04:48:32
+20-04-28 04:48:33  Net - RtP| SontercL disconnected 28-4-20 04:48:33
+20-04-28 04:48:35  Net - [UnK] D4sh disconnected 28-4-20 04:48:35
+20-04-28 04:48:36  Net - RtP| Shuter disconnected 28-4-20 04:48:36
+20-04-28 04:48:41  Net - [UnK] F4ll.cL disconnected 28-4-20 04:48:41
+20-04-28 04:48:46  Net - [UnK] KorN disconnected 28-4-20 04:48:46
+20-04-28 05:00:18  Net - [UnK] F4ll.cL connected 28-4-20 05:00:18
+20-04-28 05:00:19  Net - [UnK] KorN connected 28-4-20 05:00:19
+20-04-28 05:00:23  Net - [UnK] F4ll.cL connected 28-4-20 05:00:23
+20-04-28 05:00:46  Net - RtP| Shuter connected 28-4-20 05:00:46
+20-04-28 05:01:15  Net - RtP| SontercL connected 28-4-20 05:01:15
+20-04-28 05:01:56  Net - [UnK] HughscL connected 28-4-20 05:01:56
+20-04-28 05:02:44 TCP/IP File Server started
+20-04-28 05:04:51  Net - RtP| LoKitoHcL connected 28-4-20 05:04:51
+20-04-28 05:05:02  Net - [UnK] D4sh connected 28-4-20 05:05:02
+20-04-28 05:05:11  Net - [UnK] D4sh connected 28-4-20 05:05:11
+20-04-28 05:05:27  Net - RtP| LoKitoHcL disconnected 28-4-20 05:05:27
+20-04-28 05:05:36  Net - RtP| LoKitoHcL connected 28-4-20 05:05:36
+20-04-28 05:06:04  Net - [UnK] F4ll.cL connected 28-4-20 05:06:04
+20-04-28 05:06:24  Net - [UnK] KorN connected 28-4-20 05:06:24
+20-04-28 05:06:27  Net - [UnK] HughscL connected 28-4-20 05:06:27
+20-04-28 05:08:01  Net - [UnK] KorN disconnected 28-4-20 05:08:01
+20-04-28 05:08:13  Net - [UnK] KorN connected 28-4-20 05:08:13
+20-04-28 05:08:49  Net - [UnK] F4ll.cL connected 28-4-20 05:08:49
+20-04-28 05:19:21  Net - [UnK] KorN connected 28-4-20 05:19:21
+20-04-28 05:19:22  Net - [UnK] HughscL connected 28-4-20 05:19:22
+20-04-28 05:32:44 TCP/IP File Server started
+20-04-28 05:40:00  Net - RtP| Shuter disconnected 28-4-20 05:40:00
+20-04-28 05:40:00  Net - RtP| SontercL disconnected 28-4-20 05:40:00
+20-04-28 05:40:00  Net - [UnK] KorN disconnected 28-4-20 05:40:00
+20-04-28 05:40:01  Net - RtP| LoKitoHcL disconnected 28-4-20 05:40:01
+20-04-28 05:40:01  Net - [UnK] D4sh disconnected 28-4-20 05:40:01
+20-04-28 05:40:03  Net - [UnK] F4ll.cL disconnected 28-4-20 05:40:03
+20-04-28 05:40:09  Net - [UnK] HughscL disconnected 28-4-20 05:40:09
+20-04-28 06:02:44 TCP/IP File Server started
+20-04-28 06:32:44 TCP/IP File Server started
+20-04-28 07:02:44 TCP/IP File Server started
+20-04-28 07:32:44 TCP/IP File Server started
+20-04-28 08:02:44 TCP/IP File Server started
+20-04-28 08:32:44 TCP/IP File Server started
+20-04-28 09:02:44 TCP/IP File Server started
+20-04-28 09:32:44 TCP/IP File Server started
+20-04-28 10:02:44 TCP/IP File Server started
+20-04-28 10:32:44 TCP/IP File Server started
+20-04-28 11:02:44 TCP/IP File Server started
+20-04-28 11:32:44 TCP/IP File Server started
+20-04-28 12:02:44 TCP/IP File Server started
+20-04-28 12:32:44 TCP/IP File Server started
+20-04-28 13:02:44 TCP/IP File Server started
+20-04-28 13:32:44 TCP/IP File Server started
+20-04-28 14:02:44 TCP/IP File Server started
+20-04-28 14:32:44 TCP/IP File Server started
+20-04-28 15:02:44 TCP/IP File Server started
+20-04-28 15:32:44 TCP/IP File Server started
+20-04-28 16:02:44 TCP/IP File Server started
+20-04-28 16:32:44 TCP/IP File Server started
+20-04-28 17:02:44 TCP/IP File Server started
+20-04-28 17:32:44 TCP/IP File Server started
+20-04-28 18:02:44 TCP/IP File Server started
+20-04-28 18:32:44 TCP/IP File Server started
+20-04-28 19:02:44 TCP/IP File Server started
+20-04-28 19:32:44 TCP/IP File Server started
+20-04-28 20:02:44 TCP/IP File Server started
+20-04-28 20:32:44 TCP/IP File Server started
+20-04-28 21:02:44 TCP/IP File Server started
+20-04-28 21:32:44 TCP/IP File Server started
+20-04-28 22:02:44 TCP/IP File Server started
+20-04-28 22:32:44 TCP/IP File Server started
+20-04-28 23:02:44 TCP/IP File Server started
+20-04-28 23:32:44 TCP/IP File Server started
+20-04-29 00:02:44 TCP/IP File Server started
+20-04-29 00:32:44 TCP/IP File Server started
+20-04-29 01:02:44 TCP/IP File Server started

@@ -1,0 +1,13 @@
+20-04-24 05:10:49    Log Started
+20-04-24 05:10:49 Opened /home/kader_b/int2/soldat.ini
+20-04-24 05:10:49 Creating network interface.
+20-04-24 05:10:49 Loading Animations.
+20-04-24 05:10:49 Loading Lobby Servers List
+20-04-24 05:10:49 Loading Maps List
+20-04-24 05:10:49 Loading Map.
+20-04-24 05:10:49 Creating Weapons.
+20-04-24 05:10:49 Starting Game Server.
+20-04-24 05:10:49 TCP/IP File Server started
+20-04-24 05:10:56  Net - sT.- YnGwi3 connected 24-4-20 05:10:56
+20-04-24 05:11:53 Destroying Devices.
+20-04-24 05:11:54    End of Log.

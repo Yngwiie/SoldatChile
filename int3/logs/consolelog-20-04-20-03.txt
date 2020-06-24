@@ -1,0 +1,56 @@
+20-04-20 21:21:43    Console Log Started
+20-04-20 21:21:43 Welcome to Soldat 1.7.1
+20-04-20 21:21:43  [*] Preparing scripts to be launched
+20-04-20 21:21:43  [*] [BasicCommands] Loading bytecode
+20-04-20 21:21:43  [*] [BasicCommands] Bytecode loaded
+20-04-20 21:21:43  [*] Compiling match -> match.pas...
+20-04-20 21:21:43  [*] match compiled
+20-04-20 21:21:43  [*] Done
+20-04-20 21:21:43 Lothic - Gothic Lobby Room
+20-04-20 21:21:43 Loaded weapons mod "Default v1.8"
+20-04-20 21:21:43  Connection for file server started. Port: 23310
+20-04-20 21:21:43 Registering server @ 88.99.234.252
+20-04-20 21:26:43 Time Left: 5 minutes
+20-04-20 21:27:43 Time Left: 4 minutes
+20-04-20 21:28:39 191.84.72.217:23073|14189A02D27 requesting game...
+20-04-20 21:28:39 191.84.72.217:23073|14189A02D27 requesting game...
+20-04-20 21:28:39 Divas| Rattle joining game (191.84.72.217:23073) HWID:14189A02D27
+20-04-20 21:28:39 Divas| Rattle has joined alpha team.
+20-04-20 21:28:43 Time Left: 3 minutes
+20-04-20 21:28:43 Divas| Rattle gets a ping warning
+20-04-20 21:28:48 [Divas| Rattle] !map ash
+20-04-20 21:28:53 ctf_Ash by chakapoko maker
+20-04-20 21:29:03 Divas| Rattle captured the Blue Flag
+20-04-20 21:29:12 Divas| Rattle scores for Alpha Team
+20-04-20 21:29:26 [Divas| Rattle] !map voland
+20-04-20 21:29:33 Voland
+20-04-20 21:29:48 [Divas| Rattle] !map rotten
+20-04-20 21:29:54 Rotten by Biggles
+20-04-20 21:30:03 Divas| Rattle captured the Blue Flag
+20-04-20 21:30:10 Divas| Rattle scores for Alpha Team
+20-04-20 21:30:12 Divas| Rattle has left alpha team.
+20-04-20 21:34:53 Time Left: 5 minutes
+20-04-20 21:35:53 Time Left: 4 minutes
+20-04-20 21:36:53 Time Left: 3 minutes
+20-04-20 21:37:53 Time Left: 2 minutes
+20-04-20 21:38:53 Time Left: 1 minutes
+20-04-20 21:39:53 Next map: Lobby
+20-04-20 21:39:59 Lothic - Gothic Lobby Room
+20-04-20 21:44:59 Time Left: 5 minutes
+20-04-20 21:45:59 Time Left: 4 minutes
+20-04-20 21:46:59 Time Left: 3 minutes
+20-04-20 21:47:59 Time Left: 2 minutes
+20-04-20 21:48:59 Time Left: 1 minutes
+20-04-20 21:49:59 Next map: Lobby
+20-04-20 21:50:04 Lothic - Gothic Lobby Room
+20-04-20 21:55:04 Time Left: 5 minutes
+20-04-20 21:56:04 Time Left: 4 minutes
+20-04-20 21:57:04 Time Left: 3 minutes
+20-04-20 21:58:04 Time Left: 2 minutes
+20-04-20 21:59:04 Time Left: 1 minutes
+20-04-20 22:00:04 Next map: Lobby
+20-04-20 22:00:09 Lothic - Gothic Lobby Room
+20-04-20 22:01:43 Signal received, shutting down
+20-04-20 22:01:43 Shutting down server...
+20-04-20 22:01:43 Shutting down FileServer...
+20-04-20 22:01:43 Shutting down admin server...

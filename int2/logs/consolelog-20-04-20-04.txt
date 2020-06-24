@@ -1,0 +1,50 @@
+20-04-20 21:21:43    Console Log Started
+20-04-20 21:21:43 Welcome to Soldat 1.7.1
+20-04-20 21:21:43  [*] Preparing scripts to be launched
+20-04-20 21:21:43  [*] [BasicCommands] Loading bytecode
+20-04-20 21:21:43  [*] [BasicCommands] Bytecode loaded
+20-04-20 21:21:43  [*] Compiling match -> match.pas...
+20-04-20 21:21:43  [*] match compiled
+20-04-20 21:21:43  [*] Done
+20-04-20 21:21:43 Lothic - Gothic Lobby Room
+20-04-20 21:21:43 Loaded weapons mod "Default v1.8"
+20-04-20 21:21:43  Connection for file server started. Port: 23210
+20-04-20 21:21:43 Registering server @ 88.99.234.252
+20-04-20 21:22:10 45.232.32.136:44754|64995B15DC0 requesting game...
+20-04-20 21:22:12 sT.- YnGwi3 joining game (45.232.32.136:44754) HWID:64995B15DC0
+20-04-20 21:22:12 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:25:46 45.229.236.194:23073|4243DBBFF14 requesting game...
+20-04-20 21:25:51 sT.- YnGwi3 has left bravo team.
+20-04-20 21:26:12 45.229.236.194:23073|4243DBBFF14 requesting game...
+20-04-20 21:26:43 Time Left: 5 minutes
+20-04-20 21:27:38 191.84.72.217:23073|14189A02D27 requesting game...
+20-04-20 21:27:38 191.84.72.217:23073|14189A02D27 requesting game...
+20-04-20 21:27:43 Time Left: 4 minutes
+20-04-20 21:28:43 Time Left: 3 minutes
+20-04-20 21:29:43 Time Left: 2 minutes
+20-04-20 21:30:43 Time Left: 1 minutes
+20-04-20 21:31:43 Next map: Lobby
+20-04-20 21:31:48 Lothic - Gothic Lobby Room
+20-04-20 21:36:48 Time Left: 5 minutes
+20-04-20 21:37:48 Time Left: 4 minutes
+20-04-20 21:38:48 Time Left: 3 minutes
+20-04-20 21:39:48 Time Left: 2 minutes
+20-04-20 21:40:48 Time Left: 1 minutes
+20-04-20 21:41:48 Next map: Lobby
+20-04-20 21:41:54 Lothic - Gothic Lobby Room
+20-04-20 21:46:54 Time Left: 5 minutes
+20-04-20 21:47:54 Time Left: 4 minutes
+20-04-20 21:48:54 Time Left: 3 minutes
+20-04-20 21:49:54 Time Left: 2 minutes
+20-04-20 21:50:54 Time Left: 1 minutes
+20-04-20 21:51:54 Next map: Lobby
+20-04-20 21:51:59 Lothic - Gothic Lobby Room
+20-04-20 21:56:59 Time Left: 5 minutes
+20-04-20 21:57:59 Time Left: 4 minutes
+20-04-20 21:58:59 Time Left: 3 minutes
+20-04-20 21:59:59 Time Left: 2 minutes
+20-04-20 22:00:59 Time Left: 1 minutes
+20-04-20 22:01:39 Signal received, shutting down
+20-04-20 22:01:39 Shutting down server...
+20-04-20 22:01:39 Shutting down FileServer...
+20-04-20 22:01:39 Shutting down admin server...

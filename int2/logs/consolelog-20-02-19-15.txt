@@ -1,0 +1,22 @@
+20-02-19 10:12:52    Console Log Started
+20-02-19 10:12:53 Welcome to Soldat 1.7.1
+20-02-19 10:12:53  [*] Preparing scripts to be launched
+20-02-19 10:12:53  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-19 10:12:53  [*] commands_by_keen compiled
+20-02-19 10:12:53  [*] Compiling match -> match.pas...
+20-02-19 10:12:53  [*] match compiled
+20-02-19 10:12:53  [*] Done
+20-02-19 10:12:53 ctf_Ash by chakapoko maker
+20-02-19 10:12:53 Loaded weapons mod "Default v1.8"
+20-02-19 10:12:53  Connection for file server started. Port: 23110
+20-02-19 10:12:53 Registering server @ 88.99.234.252
+20-02-19 10:13:41 190.107.226.37:19289|696908AC8E7 requesting game...
+20-02-19 10:13:42 |D.Forc3|.Turko joining game (190.107.226.37:19289) HWID:696908AC8E7
+20-02-19 10:13:42 |D.Forc3|.Turko has joined alpha team.
+20-02-19 10:13:51 |D.Forc3|.Turko captured the Blue Flag
+20-02-19 10:14:01 |D.Forc3|.Turko scores for Alpha Team
+20-02-19 10:14:13 [|D.Forc3|.Turko] !nextmap
+20-02-19 10:14:13 Next map: ctf_B2b
+20-02-19 10:14:18 B2B
+20-02-19 10:14:41 |D.Forc3|.Turko has left alpha team.
+20-02-19 10:14:41 Server password changed to scl

@@ -1,0 +1,285 @@
+20-04-21 04:03:54    Log Started
+20-04-21 04:03:54 Opened /home/kader_b/int1/soldat.ini
+20-04-21 04:03:54 Creating network interface.
+20-04-21 04:03:54 Loading Animations.
+20-04-21 04:03:54 Loading Lobby Servers List
+20-04-21 04:03:54 Loading Maps List
+20-04-21 04:03:54 Loading Map.
+20-04-21 04:03:54 Creating Weapons.
+20-04-21 04:03:54 Starting Game Server.
+20-04-21 04:03:54 TCP/IP File Server started
+20-04-21 04:04:10  Net - K!NG| YnGwi3 connected 21-4-20 04:04:10
+20-04-21 04:04:43  Net - K!NG| YnGwi3 disconnected 21-4-20 04:04:43
+20-04-21 04:23:49  Net - eX.- Necro connected 21-4-20 04:23:49
+20-04-21 04:23:49  Net - S2 ~ patuzhO* connected 21-4-20 04:23:49
+20-04-21 04:23:55  Net - eX.- PerfectDark connected 21-4-20 04:23:55
+20-04-21 04:23:56  Net - Divas| Sk8' connected 21-4-20 04:23:56
+20-04-21 04:24:01  Net - Divas| Sk8' disconnected 21-4-20 04:24:01
+20-04-21 04:24:03  Net - Divas| Sk8' connected 21-4-20 04:24:03
+20-04-21 04:24:05  Net - eX.- Ratzor connected 21-4-20 04:24:05
+20-04-21 04:24:06  Net - S2 ~ bio connected 21-4-20 04:24:06
+20-04-21 04:24:07  Net - =E*R= Skipo connected 21-4-20 04:24:07
+20-04-21 04:24:08  Net - S2 ~ bio connected 21-4-20 04:24:08
+20-04-21 04:24:16  Net - xi0nx connected 21-4-20 04:24:16
+20-04-21 04:24:18  Net - xi0nx connected 21-4-20 04:24:18
+20-04-21 04:24:26  Net - Divas| Rattle connected 21-4-20 04:24:26
+20-04-21 04:24:28  Net - S2 ~ Opazo* connected 21-4-20 04:24:28
+20-04-21 04:24:28  Net - Waives|F4ll.cL Stream connected 21-4-20 04:24:28
+20-04-21 04:24:32  Net - Waives|F4ll.cL Stream disconnected 21-4-20 04:24:32
+20-04-21 04:24:34  Net - Waives|F4ll.cL Stream connected 21-4-20 04:24:34
+20-04-21 04:24:39  Net - S2 ~ patuzhO* disconnected 21-4-20 04:24:39
+20-04-21 04:24:44  Net - *Coltronic connected 21-4-20 04:24:44
+20-04-21 04:24:52  Net - S2 ~ patuzhO* connected 21-4-20 04:24:52
+20-04-21 04:24:59  Net - xi0nx disconnected 21-4-20 04:24:59
+20-04-21 04:25:06  Net - Divas| Rattle disconnected 21-4-20 04:25:06
+20-04-21 04:25:09  Net - eX.- xi0nx connected 21-4-20 04:25:09
+20-04-21 04:25:21  Net - Divas| Rattle connected 21-4-20 04:25:21
+20-04-21 04:29:16  Net - eX.- Necro disconnected 21-4-20 04:29:16
+20-04-21 04:33:38  Net - Divas| Rattle disconnected 21-4-20 04:33:38
+20-04-21 04:33:43  Net - Divas| Rattle connected 21-4-20 04:33:43
+20-04-21 04:33:55 TCP/IP File Server started
+20-04-21 04:35:47  Net - eX.- PerfectDark disconnected 21-4-20 04:35:47
+20-04-21 04:35:51  Net - eX.- PerfectDark connected 21-4-20 04:35:51
+20-04-21 04:36:05  Net - Divas| Rattle disconnected 21-4-20 04:36:05
+20-04-21 04:36:14  Net - Divas| Rattle connected 21-4-20 04:36:14
+20-04-21 04:36:24  Net - Divas| Rattle connected 21-4-20 04:36:24
+20-04-21 04:36:27  Net - S2 ~ Opazo* disconnected 21-4-20 04:36:27
+20-04-21 04:36:29  Net - Divas| Rattle disconnected 21-4-20 04:36:29
+20-04-21 04:36:30  Net - S2 ~ Opazo* connected 21-4-20 04:36:30
+20-04-21 04:40:09  Net - *Coltronic disconnected 21-4-20 04:40:09
+20-04-21 04:42:03  Net - Divas| Rattle connected 21-4-20 04:42:03
+20-04-21 04:43:18  Net - Divas| Rattle disconnected 21-4-20 04:43:18
+20-04-21 04:46:26  Net - Divas| Rattle connected 21-4-20 04:46:26
+20-04-21 04:48:37  Net - =E*R= Skipo disconnected 21-4-20 04:48:37
+20-04-21 04:48:37  Net - Divas| Rattle disconnected 21-4-20 04:48:37
+20-04-21 04:48:38  Net - S2 ~ bio disconnected 21-4-20 04:48:38
+20-04-21 04:48:41  Net - S2 ~ patuzhO* disconnected 21-4-20 04:48:41
+20-04-21 04:48:44  Net - S2 ~ Opazo* disconnected 21-4-20 04:48:44
+20-04-21 04:48:45  Net - Waives|F4ll.cL Stream disconnected 21-4-20 04:48:45
+20-04-21 04:48:46  Net - eX.- Ratzor disconnected 21-4-20 04:48:46
+20-04-21 04:48:47  Net - Divas| Sk8' disconnected 21-4-20 04:48:47
+20-04-21 04:48:49  Net - eX.- xi0nx disconnected 21-4-20 04:48:49
+20-04-21 04:48:50  Net - eX.- PerfectDark disconnected 21-4-20 04:48:50
+20-04-21 04:50:03  Net - =E*R= Skipo connected 21-4-20 04:50:03
+20-04-21 04:50:04  Net - =E*R= Skipo connected 21-4-20 04:50:04
+20-04-21 04:50:19  Net - S2 ~ patuzhO* connected 21-4-20 04:50:19
+20-04-21 04:50:42  Net - =E*R= Sadiko connected 21-4-20 04:50:42
+20-04-21 04:51:44  Net - S2 ~ bio connected 21-4-20 04:51:44
+20-04-21 04:51:47  Net - S2 ~ bio connected 21-4-20 04:51:47
+20-04-21 04:52:43  Net - =E*R= Chaky//<3K connected 21-4-20 04:52:43
+20-04-21 04:54:06  Net - =E*R= Sadiko disconnected 21-4-20 04:54:06
+20-04-21 04:54:06  Net - =E*R= Skipo disconnected 21-4-20 04:54:06
+20-04-21 04:54:09  Net - =E*R= Chaky//<3K disconnected 21-4-20 04:54:09
+20-04-21 04:54:11  Net - S2 ~ bio disconnected 21-4-20 04:54:11
+20-04-21 04:55:00  Net - S2 ~ patuzhO* disconnected 21-4-20 04:55:00
+20-04-21 04:59:17  Net - Divas| Rattle connected 21-4-20 04:59:17
+20-04-21 04:59:20  Net - Divas| Rattle disconnected 21-4-20 04:59:20
+20-04-21 04:59:51  Net - Divas| Rattle connected 21-4-20 04:59:51
+20-04-21 05:00:31  Net - r3v' Coco connected 21-4-20 05:00:31
+20-04-21 05:00:33  Net - Divas| Sk8' connected 21-4-20 05:00:33
+20-04-21 05:00:36  Net - Divas| Enigma connected 21-4-20 05:00:36
+20-04-21 05:00:39  Net - eX.- Ratzor connected 21-4-20 05:00:39
+20-04-21 05:00:41  Net - Divas| Rattle connected 21-4-20 05:00:41
+20-04-21 05:00:47  Net - Divas| Sk8' connected 21-4-20 05:00:47
+20-04-21 05:00:54  Net - r3v' Coco disconnected 21-4-20 05:00:54
+20-04-21 05:01:03  Net - r3v' Coco connected 21-4-20 05:01:03
+20-04-21 05:01:20  Net - Divas| Enigma connected 21-4-20 05:01:20
+20-04-21 05:01:52  Net - r3v' Colt connected 21-4-20 05:01:52
+20-04-21 05:02:02  Net - r3v' Winter connected 21-4-20 05:02:02
+20-04-21 05:02:27  Net - eX.- Ratzor disconnected 21-4-20 05:02:27
+20-04-21 05:02:39  Net - sleave connected 21-4-20 05:02:39
+20-04-21 05:03:00  Net - r3v' Coco connected 21-4-20 05:03:00
+20-04-21 05:03:12  Net - r3v' DrK connected 21-4-20 05:03:12
+20-04-21 05:03:45  Net - r3v' DrK disconnected 21-4-20 05:03:45
+20-04-21 05:03:49  Net - r3v' DrK connected 21-4-20 05:03:49
+20-04-21 05:03:55 TCP/IP File Server started
+20-04-21 05:07:58  Net - sleave disconnected 21-4-20 05:07:58
+20-04-21 05:08:15  Net - r3v' Winter disconnected 21-4-20 05:08:15
+20-04-21 05:33:55 TCP/IP File Server started
+20-04-21 05:36:29  Net - Divas| Rattle disconnected 21-4-20 05:36:29
+20-04-21 05:36:31  Net - r3v' Colt disconnected 21-4-20 05:36:31
+20-04-21 05:36:32  Net - r3v' Coco disconnected 21-4-20 05:36:32
+20-04-21 05:36:32  Net - r3v' DrK disconnected 21-4-20 05:36:32
+20-04-21 05:36:33  Net - Divas| Sk8' disconnected 21-4-20 05:36:33
+20-04-21 05:36:33  Net - Divas| Enigma disconnected 21-4-20 05:36:33
+20-04-21 06:03:55 TCP/IP File Server started
+20-04-21 06:33:55 TCP/IP File Server started
+20-04-21 07:03:55 TCP/IP File Server started
+20-04-21 07:33:55 TCP/IP File Server started
+20-04-21 08:03:55 TCP/IP File Server started
+20-04-21 08:33:55 TCP/IP File Server started
+20-04-21 09:03:55 TCP/IP File Server started
+20-04-21 09:33:55 TCP/IP File Server started
+20-04-21 10:03:55 TCP/IP File Server started
+20-04-21 10:33:55 TCP/IP File Server started
+20-04-21 11:03:55 TCP/IP File Server started
+20-04-21 11:33:55 TCP/IP File Server started
+20-04-21 12:03:55 TCP/IP File Server started
+20-04-21 12:33:55 TCP/IP File Server started
+20-04-21 13:03:55 TCP/IP File Server started
+20-04-21 13:33:55 TCP/IP File Server started
+20-04-21 14:03:55 TCP/IP File Server started
+20-04-21 14:33:55 TCP/IP File Server started
+20-04-21 15:03:55 TCP/IP File Server started
+20-04-21 15:33:55 TCP/IP File Server started
+20-04-21 16:03:55 TCP/IP File Server started
+20-04-21 16:33:55 TCP/IP File Server started
+20-04-21 17:03:55 TCP/IP File Server started
+20-04-21 17:33:55 TCP/IP File Server started
+20-04-21 18:03:55 TCP/IP File Server started
+20-04-21 18:33:55 TCP/IP File Server started
+20-04-21 19:03:55 TCP/IP File Server started
+20-04-21 19:33:55 TCP/IP File Server started
+20-04-21 20:03:55 TCP/IP File Server started
+20-04-21 20:33:55 TCP/IP File Server started
+20-04-21 21:03:55 TCP/IP File Server started
+20-04-21 21:33:55 TCP/IP File Server started
+20-04-21 22:03:55 TCP/IP File Server started
+20-04-21 22:33:55 TCP/IP File Server started
+20-04-21 23:03:55 TCP/IP File Server started
+20-04-21 23:33:55 TCP/IP File Server started
+20-04-21 23:55:39  Net - mipHo connected 21-4-20 23:55:39
+20-04-21 23:55:43  Net - mipHo disconnected 21-4-20 23:55:43
+20-04-21 23:55:45  Net - Divas| Rattle connected 21-4-20 23:55:45
+20-04-21 23:55:51  Net - |B.Forc3|.Turko connected 21-4-20 23:55:51
+20-04-21 23:55:57  Net - mipHo connected 21-4-20 23:55:57
+20-04-21 23:56:05  Net - Divas| Sk8' connected 21-4-20 23:56:05
+20-04-21 23:56:15  Net - |B.Forc3|.Dohko.Messi! connected 21-4-20 23:56:15
+20-04-21 23:56:27  Net - |B.Forc3|.Turko connected 21-4-20 23:56:27
+20-04-21 23:56:47  Net - |B.Forc3|MotA connected 21-4-20 23:56:47
+20-04-21 23:57:03  Net - Divas| Rattle connected 21-4-20 23:57:03
+20-04-21 23:57:04  Net - Divas| Sk8' connected 21-4-20 23:57:04
+20-04-21 23:57:06  Net - |B.Forc3|.Dohko.Messi! connected 21-4-20 23:57:06
+20-04-21 23:57:09  Net - mipHo connected 21-4-20 23:57:09
+20-04-21 23:58:04  Net - |B.Forc3|.Dohko.Messi! disconnected 21-4-20 23:58:04
+20-04-21 23:58:30  Net - mipHo disconnected 21-4-20 23:58:30
+20-04-21 23:58:33  Net - |B.Forc3|.Dohko.Messi! connected 21-4-20 23:58:33
+20-04-21 23:58:40  Net - |B.Forc3|MotA connected 21-4-20 23:58:40
+20-04-21 23:58:43  Net - |B.Forc3|.Dohko.Messi! connected 21-4-20 23:58:43
+20-04-21 23:58:52  Net - Divas| mipHo connected 21-4-20 23:58:52
+20-04-21 23:58:57  Net - vidente connected 21-4-20 23:58:57
+20-04-22 00:00:23  Net - covidiot connected 22-4-20 00:00:23
+20-04-22 00:00:37  Net - eX.- PerfectDark connected 22-4-20 00:00:37
+20-04-22 00:01:06  Net - #1 Mand3s connected 22-4-20 00:01:06
+20-04-22 00:01:39  Net - eX.- PerfectDark disconnected 22-4-20 00:01:39
+20-04-22 00:03:33  Net - Divas| Rattle connected 22-4-20 00:03:33
+20-04-22 00:03:58 TCP/IP File Server started
+20-04-22 00:06:19  Net - S2 ~ patuzhO* connected 22-4-20 00:06:19
+20-04-22 00:07:38  Net - S2 ~ patuzhO* disconnected 22-4-20 00:07:38
+20-04-22 00:07:45  Net - XnigmX connected 22-4-20 00:07:45
+20-04-22 00:07:48  Net - XnigmX connected 22-4-20 00:07:48
+20-04-22 00:07:59  Net - S2 ~ patuzhO* connected 22-4-20 00:07:59
+20-04-22 00:08:09  Net - #KbN! Shaka Ohma connected 22-4-20 00:08:09
+20-04-22 00:08:26  Net - #1 Mand3s disconnected 22-4-20 00:08:26
+20-04-22 00:10:33  Net - covidiot disconnected 22-4-20 00:10:33
+20-04-22 00:10:44  Net - eX.- Necro connected 22-4-20 00:10:44
+20-04-22 00:11:33  Net - S2 ~ patuzhO* disconnected 22-4-20 00:11:33
+20-04-22 00:11:39  Net - eX.- Necro disconnected 22-4-20 00:11:39
+20-04-22 00:14:12  Net - #KbN! Shaka Ohma disconnected 22-4-20 00:14:12
+20-04-22 00:14:55  Net - [O.S.O] TULON* connected 22-4-20 00:14:55
+20-04-22 00:16:16  Net - [O.S.O] TULON* disconnected 22-4-20 00:16:16
+20-04-22 00:25:26  Net - Divas| Sk8' disconnected 22-4-20 00:25:26
+20-04-22 00:25:29  Net - |B.Forc3|.Turko disconnected 22-4-20 00:25:29
+20-04-22 00:25:30  Net - |B.Forc3|.Dohko.Messi! disconnected 22-4-20 00:25:30
+20-04-22 00:25:32  Net - Divas| Rattle disconnected 22-4-20 00:25:32
+20-04-22 00:25:37  Net - |B.Forc3|MotA disconnected 22-4-20 00:25:37
+20-04-22 00:25:38  Net - XnigmX disconnected 22-4-20 00:25:38
+20-04-22 00:25:46  Net - |B.Forc3|.Dohko.Messi! connected 22-4-20 00:25:46
+20-04-22 00:25:47  Net - vidente disconnected 22-4-20 00:25:47
+20-04-22 00:25:52  Net - vidente connected 22-4-20 00:25:52
+20-04-22 00:26:08  Net - Divas| mipHo disconnected 22-4-20 00:26:08
+20-04-22 00:26:25  Net - |B.Forc3|.Dohko.Messi! connected 22-4-20 00:26:25
+20-04-22 00:26:25  Net - |B.Forc3|.Turko connected 22-4-20 00:26:25
+20-04-22 00:26:29  Net - |B.Forc3|.Turko connected 22-4-20 00:26:29
+20-04-22 00:26:38  Net - |B.Forc3|.Turko disconnected 22-4-20 00:26:38
+20-04-22 00:26:41  Net - |B.Forc3|.Dohko.Messi! disconnected 22-4-20 00:26:41
+20-04-22 00:26:42  Net - vidente disconnected 22-4-20 00:26:42
+20-04-22 00:27:31  Net - Insanity connected 22-4-20 00:27:31
+20-04-22 00:27:35  Net - Insanity disconnected 22-4-20 00:27:35
+20-04-22 00:28:14  Net - Divas| Rattle connected 22-4-20 00:28:14
+20-04-22 00:28:20  Net - Divas| Rattle connected 22-4-20 00:28:20
+20-04-22 00:28:21  Net - Divas| Sk8' connected 22-4-20 00:28:21
+20-04-22 00:28:23  Net - Divas| Sk8' disconnected 22-4-20 00:28:23
+20-04-22 00:28:23  Net - Divas| Enigma connected 22-4-20 00:28:23
+20-04-22 00:28:28  Net - Divas| Sk8' connected 22-4-20 00:28:28
+20-04-22 00:28:29  Net - r3v' Coco connected 22-4-20 00:28:29
+20-04-22 00:28:31  Net - Divas| Sk8' connected 22-4-20 00:28:31
+20-04-22 00:28:43  Net - Divas| Sk8' disconnected 22-4-20 00:28:43
+20-04-22 00:28:45  Net - Divas| Sk8' connected 22-4-20 00:28:45
+20-04-22 00:28:59  Net - #1 Mand3s connected 22-4-20 00:28:59
+20-04-22 00:29:02  Net - #1 Mand3s disconnected 22-4-20 00:29:02
+20-04-22 00:29:10  Net - r3v' Mand3s connected 22-4-20 00:29:10
+20-04-22 00:29:23  Net - r3v' Colt connected 22-4-20 00:29:23
+20-04-22 00:30:21  Net - r3v' Winter connected 22-4-20 00:30:21
+20-04-22 00:30:41  Net - Divas| mipHo connected 22-4-20 00:30:41
+20-04-22 00:31:00  Net - r3v' Coco connected 22-4-20 00:31:00
+20-04-22 00:31:44  Net - Divas| mipHo connected 22-4-20 00:31:44
+20-04-22 00:31:51  Net - Divas| Rattle connected 22-4-20 00:31:51
+20-04-22 00:31:58  Net - Divas| Sk8' connected 22-4-20 00:31:58
+20-04-22 00:32:01  Net - r3v' Mand3s connected 22-4-20 00:32:01
+20-04-22 00:32:03  Net - r3v' Colt connected 22-4-20 00:32:03
+20-04-22 00:32:05  Net - r3v' Coco connected 22-4-20 00:32:05
+20-04-22 00:33:14  Net - Divas| Rattle connected 22-4-20 00:33:14
+20-04-22 00:33:17  Net - Divas| Sk8' disconnected 22-4-20 00:33:17
+20-04-22 00:33:22  Net - Divas| Sk8' connected 22-4-20 00:33:22
+20-04-22 00:33:30  Net - Divas| Sk8' disconnected 22-4-20 00:33:30
+20-04-22 00:33:40  Net - Divas| Sk8' connected 22-4-20 00:33:40
+20-04-22 00:33:58 TCP/IP File Server started
+20-04-22 00:34:25  Net - Divas| Sk8' connected 22-4-20 00:34:25
+20-04-22 00:34:27  Net - Divas| Sk8' disconnected 22-4-20 00:34:27
+20-04-22 00:36:59  Net - Divas| Rattle connected 22-4-20 00:36:59
+20-04-22 00:47:48  Net - r3v' Winter connected 22-4-20 00:47:48
+20-04-22 00:48:01  Net - r3v' Coco connected 22-4-20 00:48:01
+20-04-22 00:49:02  Net - Mr.Fosforito connected 22-4-20 00:49:02
+20-04-22 00:49:07  Net - Mr.Fosforito disconnected 22-4-20 00:49:07
+20-04-22 00:56:37  Net - Divas| Enigma disconnected 22-4-20 00:56:37
+20-04-22 00:56:38  Net - Divas| mipHo disconnected 22-4-20 00:56:38
+20-04-22 00:56:38  Net - r3v' Mand3s disconnected 22-4-20 00:56:38
+20-04-22 00:56:39  Net - Divas| Rattle disconnected 22-4-20 00:56:39
+20-04-22 00:56:40  Net - r3v' Winter disconnected 22-4-20 00:56:40
+20-04-22 00:56:41  Net - r3v' Coco disconnected 22-4-20 00:56:41
+20-04-22 00:56:44  Net - r3v' Colt disconnected 22-4-20 00:56:44
+20-04-22 00:56:54  Net - ~>2Q2C| Kaito connected 22-4-20 00:56:54
+20-04-22 00:57:00  Net - ~>2Q2C| Kaito disconnected 22-4-20 00:57:00
+20-04-22 01:03:58 TCP/IP File Server started
+20-04-22 01:04:48  Net - r3v' Mand3s connected 22-4-20 01:04:48
+20-04-22 01:10:06  Net - r3v' Mand3s disconnected 22-4-20 01:10:06
+20-04-22 01:11:08  Net - r3v' Mand3s connected 22-4-20 01:11:08
+20-04-22 01:11:09  Net - Divas| Sk8' connected 22-4-20 01:11:09
+20-04-22 01:11:21  Net - Divas| Sk8' connected 22-4-20 01:11:21
+20-04-22 01:11:44  Net - Divas| Rattle connected 22-4-20 01:11:44
+20-04-22 01:13:07  Net - Divas| Rattle disconnected 22-4-20 01:13:07
+20-04-22 01:13:28  Net - r3v' Mand3s disconnected 22-4-20 01:13:28
+20-04-22 01:13:30  Net - Divas| Sk8' disconnected 22-4-20 01:13:30
+20-04-22 01:21:56  Net - #KbN! Shaka Ohma connected 22-4-20 01:21:56
+20-04-22 01:22:11  Net - #KbN! Shaka Ohma disconnected 22-4-20 01:22:11
+20-04-22 01:35:07 TCP/IP File Server started
+20-04-22 01:57:31  Net - Divas| Rattle connected 22-4-20 01:57:31
+20-04-22 01:57:49  Net - Divas| mipHo connected 22-4-20 01:57:49
+20-04-22 01:58:05  Net - |D.Forc3|Gatitos connected 22-4-20 01:58:05
+20-04-22 01:58:11  Net - [UnK] Atheria connected 22-4-20 01:58:11
+20-04-22 01:58:17  Net - |D.Forc3|.LinkirD connected 22-4-20 01:58:17
+20-04-22 01:58:19  Net - |D.Forc3|.LinkirD connected 22-4-20 01:58:19
+20-04-22 01:58:28  Net - Divas| Rattle connected 22-4-20 01:58:28
+20-04-22 01:58:31  Net - Divas| Rattle disconnected 22-4-20 01:58:31
+20-04-22 01:58:38  Net - Divas| Rattle connected 22-4-20 01:58:38
+20-04-22 01:59:01  Net - Divas| mipHo connected 22-4-20 01:59:01
+20-04-22 01:59:24  Net - |D.Forc3|Lawshot connected 22-4-20 01:59:24
+20-04-22 01:59:58  Net - |B.Forc3|MotA connected 22-4-20 01:59:58
+20-04-22 02:00:07  Net - |B.Forc3|MotA disconnected 22-4-20 02:00:07
+20-04-22 02:00:16  Net - Divas| Enigma connected 22-4-20 02:00:16
+20-04-22 02:00:44  Net - |D.Forc3|Gatitos disconnected 22-4-20 02:00:44
+20-04-22 02:00:44  Net - |D.Forc3|Lawshot disconnected 22-4-20 02:00:44
+20-04-22 02:00:46  Net - |D.Forc3|Lawshot connected 22-4-20 02:00:46
+20-04-22 02:00:47  Net - Pi era connected 22-4-20 02:00:47
+20-04-22 02:00:48  Net - |D.Forc3|Gatitos connected 22-4-20 02:00:48
+20-04-22 02:00:52  Net - Pi era disconnected 22-4-20 02:00:52
+20-04-22 02:00:57  Net - [UnK] Atheria disconnected 22-4-20 02:00:57
+20-04-22 02:01:10  Net - Pricilo connected 22-4-20 02:01:10
+20-04-22 02:04:42  Net - Divas| Sk8' connected 22-4-20 02:04:42
+20-04-22 02:05:07 TCP/IP File Server started
+20-04-22 02:07:42  Net - [UnK] Atheria connected 22-4-20 02:07:42
+20-04-22 02:07:57  Net - [UnK] Atheria disconnected 22-4-20 02:07:57
+20-04-22 02:10:15  Net - Pricilo disconnected 22-4-20 02:10:15
+20-04-22 02:10:33  Net - Pricilo connected 22-4-20 02:10:33
+20-04-22 02:12:15  Net - *CoLt connected 22-4-20 02:12:15

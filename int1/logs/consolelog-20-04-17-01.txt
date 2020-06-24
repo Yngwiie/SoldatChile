@@ -1,0 +1,258 @@
+20-04-17 13:08:51    Console Log Started
+20-04-17 13:08:51 Welcome to Soldat 1.7.1
+20-04-17 13:08:51  [*] Preparing scripts to be launched
+20-04-17 13:08:51  [*] [BasicCommands] Loading bytecode
+20-04-17 13:08:51  [*] [BasicCommands] Bytecode loaded
+20-04-17 13:08:51  [*] Compiling match -> match.pas...
+20-04-17 13:08:51  [*] match compiled
+20-04-17 13:08:51  [*] Done
+20-04-17 13:08:51 Lothic - Gothic Lobby Room
+20-04-17 13:08:51 Loaded weapons mod "Default v1.8"
+20-04-17 13:08:51  Connection for file server started. Port: 23110
+20-04-17 13:08:52 Registering server @ 88.99.234.252
+20-04-17 13:13:52 Time Left: 5 minutes
+20-04-17 13:14:52 Time Left: 4 minutes
+20-04-17 13:15:52 Time Left: 3 minutes
+20-04-17 13:16:52 Time Left: 2 minutes
+20-04-17 13:17:52 Time Left: 1 minutes
+20-04-17 13:18:52 Next map: Lobby
+20-04-17 13:18:58 Lothic - Gothic Lobby Room
+20-04-17 13:23:58 Time Left: 5 minutes
+20-04-17 13:24:58 Time Left: 4 minutes
+20-04-17 13:25:58 Time Left: 3 minutes
+20-04-17 13:26:01 201.239.101.160:18726|1F7342C1D76 requesting game...
+20-04-17 13:26:01 201.239.101.160:18726|1F7342C1D76 requesting game...
+20-04-17 13:26:02 mipHo joining game (201.239.101.160:18726) HWID:1F7342C1D76
+20-04-17 13:26:02 mipHo has joined alpha team.
+20-04-17 13:26:12 [mipHo] !map ctf_Viet
+20-04-17 13:26:18 Viet
+20-04-17 13:26:26 mipHo captured the Blue Flag
+20-04-17 13:26:34 mipHo scores for Alpha Team
+20-04-17 13:26:41 mipHo captured the Blue Flag
+20-04-17 13:26:49 mipHo scores for Alpha Team
+20-04-17 13:26:56 mipHo captured the Blue Flag
+20-04-17 13:27:05 mipHo scores for Alpha Team
+20-04-17 13:27:13 mipHo captured the Blue Flag
+20-04-17 13:27:22 mipHo scores for Alpha Team
+20-04-17 13:27:29 mipHo captured the Blue Flag
+20-04-17 13:27:38 mipHo scores for Alpha Team
+20-04-17 13:28:15 [mipHo] !map ctf_IceBeam
+20-04-17 13:28:20  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:28:20 IceBeam by Zakath, Suow, Poop
+20-04-17 13:28:31 mipHo captured the Blue Flag
+20-04-17 13:30:32 mipHo has left alpha team.
+20-04-17 13:33:20 Time Left: 5 minutes
+20-04-17 13:34:20 Time Left: 4 minutes
+20-04-17 13:35:20 Time Left: 3 minutes
+20-04-17 13:35:49 190.107.228.169:57896|64995B15DC0 requesting game...
+20-04-17 13:35:50 sT.- YnGwi3 joining game (190.107.228.169:57896) HWID:64995B15DC0
+20-04-17 13:35:50 sT.- YnGwi3 has joined bravo team.
+20-04-17 13:35:51 [sT.- YnGwi3] !sp
+20-04-17 13:35:52 [sT.- YnGwi3] !dp
+20-04-17 13:36:02 sT.- YnGwi3 captured the Red Flag
+20-04-17 13:36:17 sT.- YnGwi3 returned the Blue Flag
+20-04-17 13:36:20 sT.- YnGwi3 is flooding the server
+20-04-17 13:36:23 Time Left: 2 minutes
+20-04-17 13:36:29 sT.- YnGwi3 has left bravo team.
+20-04-17 13:37:23 Time Left: 1 minutes
+20-04-17 13:38:23 Next map: Lobby
+20-04-17 13:38:28 Lothic - Gothic Lobby Room
+20-04-17 13:39:18 Admin connected (201.219.233.79).
+20-04-17 13:39:18 /friendlyfire (201.219.233.79)
+20-04-17 13:39:18 Friendly Fire is 0
+20-04-17 13:39:18 /bonus (201.219.233.79)
+20-04-17 13:39:18 Current bonus frequency is 0
+20-04-17 13:39:18 /vote% (201.219.233.79)
+20-04-17 13:39:18 Voting percent is 60
+20-04-17 13:39:18 /respawntime (201.219.233.79)
+20-04-17 13:39:18 Respawn time is 3 seconds
+20-04-17 13:39:18 /maxrespawntime (201.219.233.79)
+20-04-17 13:39:18 Maximum Respawn time is 5 seconds
+20-04-17 13:41:22 190.107.228.169:57905|64995B15DC0 requesting game...
+20-04-17 13:43:01 190.101.190.28:23073|348574D9644 requesting game...
+20-04-17 13:43:28 Time Left: 5 minutes
+20-04-17 13:44:28 Time Left: 4 minutes
+20-04-17 13:45:28 Time Left: 3 minutes
+20-04-17 13:46:28 Time Left: 2 minutes
+20-04-17 13:46:31 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 13:46:31 KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 13:46:31 KorN has joined as spectator.
+20-04-17 13:46:34 KorN has joined bravo team.
+20-04-17 13:46:51 [KorN] !map ctf ash
+20-04-17 13:46:51 Map not found (ctf ash)
+20-04-17 13:46:57 [KorN] !map ash
+20-04-17 13:47:02 ctf_Ash by chakapoko maker
+20-04-17 13:47:16 KorN captured the Red Flag
+20-04-17 13:47:26 KorN scores for Bravo Team
+20-04-17 13:47:34 KorN captured the Red Flag
+20-04-17 13:47:44 KorN scores for Bravo Team
+20-04-17 13:47:47 [KorN] !Map run
+20-04-17 13:47:52  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:47:52 Run
+20-04-17 13:48:48 [KorN] !map ash
+20-04-17 13:48:54  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:48:54 ctf_Ash by chakapoko maker
+20-04-17 13:49:08 KorN captured the Red Flag
+20-04-17 13:49:21 KorN scores for Bravo Team
+20-04-17 13:49:24 [KorN] !Map run
+20-04-17 13:49:30  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:49:30 Run
+20-04-17 13:49:44 [KorN] !map ash
+20-04-17 13:49:49  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:49:49 ctf_Ash by chakapoko maker
+20-04-17 13:50:33 KorN captured the Red Flag
+20-04-17 13:50:45 KorN scores for Bravo Team
+20-04-17 13:51:19 KorN captured the Red Flag
+20-04-17 13:51:40 KorN scores for Bravo Team
+20-04-17 13:51:47 201.219.233.79:20937|696908AC8E7 requesting game...
+20-04-17 13:51:50 201.219.233.79:20937|696908AC8E7 requesting game...
+20-04-17 13:51:51 |B.Forc3|.Turko joining game (201.219.233.79:20937) HWID:696908AC8E7
+20-04-17 13:51:51 |B.Forc3|.Turko has joined as spectator.
+20-04-17 13:51:53 |B.Forc3|.Turko has joined alpha team.
+20-04-17 13:51:57 [KorN] !R
+20-04-17 13:51:57 Reiniciando...
+20-04-17 13:52:03  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:52:03 ctf_Ash by chakapoko maker
+20-04-17 13:52:05 [KorN] !r
+20-04-17 13:52:05 Reiniciando...
+20-04-17 13:52:11  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:52:11 ctf_Ash by chakapoko maker
+20-04-17 13:52:13 |B.Forc3|.Turko has left alpha team.
+20-04-17 13:52:23 KorN has left bravo team.
+20-04-17 13:52:42 201.239.214.185:23073|1729B102EBF requesting game...
+20-04-17 13:52:42 [UnK] KorN joining game (201.239.214.185:23073) HWID:1729B102EBF
+20-04-17 13:52:42 [UnK] KorN has joined as spectator.
+20-04-17 13:52:44 [UnK] KorN has joined bravo team.
+20-04-17 13:52:44 201.219.233.79:20937|696908AC8E7 requesting game...
+20-04-17 13:52:45 |B.Forc3|.Turko joining game (201.219.233.79:20937) HWID:696908AC8E7
+20-04-17 13:52:45 |B.Forc3|.Turko has joined as spectator.
+20-04-17 13:52:46 |B.Forc3|.Turko has joined alpha team.
+20-04-17 13:52:47 [[UnK] KorN] !r
+20-04-17 13:52:47 Reiniciando...
+20-04-17 13:52:53 ctf_Ash by chakapoko maker
+20-04-17 13:53:02 [[UnK] KorN] !r
+20-04-17 13:53:02 Reiniciando...
+20-04-17 13:53:08 ctf_Ash by chakapoko maker
+20-04-17 13:53:11 |B.Forc3|.Turko has left alpha team.
+20-04-17 13:53:15 [[UnK] KorN] !r
+20-04-17 13:53:15 Reiniciando...
+20-04-17 13:53:20  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:53:20 ctf_Ash by chakapoko maker
+20-04-17 13:53:26 Admin disconnected (201.219.233.79).
+20-04-17 13:53:26 [[UnK] KorN] !r
+20-04-17 13:53:26 Reiniciando...
+20-04-17 13:53:32  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 13:53:32 ctf_Ash by chakapoko maker
+20-04-17 13:53:43 [UnK] KorN captured the Red Flag
+20-04-17 13:53:45 [UnK] KorN has left bravo team.
+20-04-17 13:58:32 Time Left: 5 minutes
+20-04-17 13:59:32 Time Left: 4 minutes
+20-04-17 14:00:32 Time Left: 3 minutes
+20-04-17 14:01:32 Time Left: 2 minutes
+20-04-17 14:02:32 Time Left: 1 minutes
+20-04-17 14:03:32 Next map: Lobby
+20-04-17 14:03:37 Lothic - Gothic Lobby Room
+20-04-17 14:08:37 Time Left: 5 minutes
+20-04-17 14:09:27 201.219.233.79:20945|696908AC8E7 requesting game...
+20-04-17 14:09:27 |B.Forc3|.Turko joining game (201.219.233.79:20945) HWID:696908AC8E7
+20-04-17 14:09:27 |B.Forc3|.Turko has joined as spectator.
+20-04-17 14:09:29 |B.Forc3|.Turko has joined alpha team.
+20-04-17 14:09:33 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-17 14:09:36 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-17 14:09:37 Time Left: 4 minutes
+20-04-17 14:09:37 Rosado joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-17 14:09:37 Rosado has joined bravo team.
+20-04-17 14:09:41 [|B.Forc3|.Turko] !map ash
+20-04-17 14:09:46 ctf_Ash by chakapoko maker
+20-04-17 14:09:53 (1) |B.Forc3|.Turko killed (2) Rosado with Steyr AUG
+20-04-17 14:09:56 |B.Forc3|.Turko captured the Blue Flag
+20-04-17 14:10:05 |B.Forc3|.Turko scores for Alpha Team
+20-04-17 14:10:08 [|B.Forc3|.Turko] !map laos
+20-04-17 14:10:16  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 415 Unsupported Media Type
+20-04-17 14:10:16 Laos
+20-04-17 14:10:39 (2) Rosado killed (1) |B.Forc3|.Turko with Desert Eagles
+20-04-17 14:10:47 (2) Rosado killed (1) |B.Forc3|.Turko with LAW
+20-04-17 14:10:47 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:11:19 |B.Forc3|.Turko could not respond
+20-04-17 14:13:49 Rosado has left bravo team.
+20-04-17 14:15:16 Time Left: 5 minutes
+20-04-17 14:16:16 Time Left: 4 minutes
+20-04-17 14:17:16 Time Left: 3 minutes
+20-04-17 14:18:16 Time Left: 2 minutes
+20-04-17 14:19:16 Time Left: 1 minutes
+20-04-17 14:20:16 Next map: Lobby
+20-04-17 14:20:21  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 415 Unsupported Media Type
+20-04-17 14:20:21 Lothic - Gothic Lobby Room
+20-04-17 14:24:01 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-17 14:24:02 Rosado joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-17 14:24:02 Rosado has joined bravo team.
+20-04-17 14:24:12 201.219.233.79:20950|696908AC8E7 requesting game...
+20-04-17 14:24:13 |B.Forc3|.Turko joining game (201.219.233.79:20950) HWID:696908AC8E7
+20-04-17 14:24:13 |B.Forc3|.Turko has joined as spectator.
+20-04-17 14:24:14 |B.Forc3|.Turko has joined alpha team.
+20-04-17 14:24:16 [|B.Forc3|.Turko] !map ash
+20-04-17 14:24:22 ctf_Ash by chakapoko maker
+20-04-17 14:24:26 [|B.Forc3|.Turko] !map laos
+20-04-17 14:24:38  [*] [Error] match -> OnGameEnd(14:3) Exception: HTTP/1.1 500 Internal Server Error
+20-04-17 14:24:38 Laos
+20-04-17 14:24:38 |B.Forc3|.Turko has left alpha team.
+20-04-17 14:24:51 Rosado captured the Red Flag
+20-04-17 14:24:55 Rosado has left bravo team.
+20-04-17 14:29:38 Time Left: 5 minutes
+20-04-17 14:29:41 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-17 14:29:42 Rosado joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-17 14:29:42 Rosado has joined bravo team.
+20-04-17 14:30:38 Time Left: 4 minutes
+20-04-17 14:30:55 190.164.162.181:23073|23C48D0FE40 requesting game...
+20-04-17 14:31:38 Time Left: 3 minutes
+20-04-17 14:32:38 Time Left: 2 minutes
+20-04-17 14:32:42 Rosado has left bravo team.
+20-04-17 14:33:38 Time Left: 1 minutes
+20-04-17 14:33:47 200.86.99.83:23073|23DF4D5E89B requesting game...
+20-04-17 14:33:48 Rosado joining game (200.86.99.83:23073) HWID:23DF4D5E89B
+20-04-17 14:33:48 Rosado has joined bravo team.
+20-04-17 14:33:53 201.219.233.79:20951|696908AC8E7 requesting game...
+20-04-17 14:33:54 |B.Forc3|.Turko joining game (201.219.233.79:20951) HWID:696908AC8E7
+20-04-17 14:33:54 |B.Forc3|.Turko has joined as spectator.
+20-04-17 14:33:56 |B.Forc3|.Turko has joined alpha team.
+20-04-17 14:33:59 [|B.Forc3|.Turko] !map ash
+20-04-17 14:34:13 ctf_Ash by chakapoko maker
+20-04-17 14:34:30 [|B.Forc3|.Turko] !map run
+20-04-17 14:34:35 Run
+20-04-17 14:34:51 [|B.Forc3|.Turko] !map viet
+20-04-17 14:34:56 Viet
+20-04-17 14:35:09 |B.Forc3|.Turko captured the Blue Flag
+20-04-17 14:35:14 (2) Rosado killed (1) |B.Forc3|.Turko with Grenade
+20-04-17 14:35:41 (1) |B.Forc3|.Turko killed (2) Rosado with Spas-12
+20-04-17 14:35:42 |B.Forc3|.Turko captured the Blue Flag
+20-04-17 14:35:51 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:35:55 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:35:59 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:36:03 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:36:07 (1) |B.Forc3|.Turko killed (2) Rosado with Combat Knife
+20-04-17 14:36:17 (1) |B.Forc3|.Turko killed (2) Rosado with Spas-12
+20-04-17 14:36:27 |B.Forc3|.Turko scores for Alpha Team
+20-04-17 14:37:47 (1) |B.Forc3|.Turko killed (2) Rosado with Spas-12
+20-04-17 14:37:49 |B.Forc3|.Turko captured the Blue Flag
+20-04-17 14:37:55 |B.Forc3|.Turko captured the Blue Flag
+20-04-17 14:38:01 (1) |B.Forc3|.Turko killed (2) Rosado with Spas-12
+20-04-17 14:38:03 190.164.162.181:23073|23C48D0FE40 requesting game...
+20-04-17 14:38:12 |B.Forc3|.Turko scores for Alpha Team
+20-04-17 14:38:14 Rosado has left bravo team.
+20-04-17 14:38:17 [|B.Forc3|.Turko] !map lobby
+20-04-17 14:38:22 Lothic - Gothic Lobby Room
+20-04-17 14:38:24 |B.Forc3|.Turko has left alpha team.
+20-04-17 14:43:22 Time Left: 5 minutes
+20-04-17 14:44:22 Time Left: 4 minutes
+20-04-17 14:45:22 Time Left: 3 minutes
+20-04-17 14:46:22 Time Left: 2 minutes
+20-04-17 14:47:22 Time Left: 1 minutes
+20-04-17 14:48:22 Next map: Lobby
+20-04-17 14:48:27 Lothic - Gothic Lobby Room
+20-04-17 14:53:27 Time Left: 5 minutes
+20-04-17 14:54:27 Time Left: 4 minutes
+20-04-17 14:55:27 Time Left: 3 minutes
+20-04-17 14:56:27 Time Left: 2 minutes
+20-04-17 14:57:27 Time Left: 1 minutes
+20-04-17 14:58:27 Next map: Lobby
+20-04-17 14:58:33 Lothic - Gothic Lobby Room

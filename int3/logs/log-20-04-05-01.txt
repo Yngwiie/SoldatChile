@@ -1,0 +1,104 @@
+20-04-05 11:21:56    Log Started
+20-04-05 11:21:56 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-05 11:21:56 Creating network interface.
+20-04-05 11:21:56 Loading Animations.
+20-04-05 11:21:56 Loading Lobby Servers List
+20-04-05 11:21:56 Loading Maps List
+20-04-05 11:21:56 Loading Map.
+20-04-05 11:21:56 Creating Weapons.
+20-04-05 11:21:56 Starting Game Server.
+20-04-05 11:21:56 TCP/IP File Server started
+20-04-05 11:23:07  Net - |D.Forc3|.Turko connected 05-04-2020 11:23:07
+20-04-05 11:23:10  Net - |D.Forc3|.Turko connected 05-04-2020 11:23:10
+20-04-05 11:24:44  Net - |D.Forc3|.Turko disconnected 05-04-2020 11:24:44
+20-04-05 11:25:15  Net - |D.Forc3|.LinkirD connected 05-04-2020 11:25:15
+20-04-05 11:27:34  Net - |D.Forc3|.Turko connected 05-04-2020 11:27:34
+20-04-05 11:27:37  Net - |D.Forc3|.Turko connected 05-04-2020 11:27:37
+20-04-05 11:31:09  Net - |D.Forc3|.Turko disconnected 05-04-2020 11:31:09
+20-04-05 11:32:17  Net - |D.Forc3|.Turko connected 05-04-2020 11:32:17
+20-04-05 11:32:20  Net - |D.Forc3|.Turko connected 05-04-2020 11:32:20
+20-04-05 11:46:30  Net - |D.Forc3|.Turko disconnected 05-04-2020 11:46:30
+20-04-05 11:46:35  Net - |D.Forc3|.Turko connected 05-04-2020 11:46:35
+20-04-05 11:47:00  Net - |D.Forc3|.Turko connected 05-04-2020 11:47:00
+20-04-05 11:51:57 TCP/IP File Server started
+20-04-05 11:52:16  Net - |D.Forc3|.Turko disconnected 05-04-2020 11:52:16
+20-04-05 11:53:21  Net - |D.Forc3|.LinkirD disconnected 05-04-2020 11:53:21
+20-04-05 11:53:22  Net - |D.Forc3|.Turko connected 05-04-2020 11:53:22
+20-04-05 11:53:24  Net - |D.Forc3|.LinkirD connected 05-04-2020 11:53:24
+20-04-05 11:53:26  Net - |D.Forc3|.Turko connected 05-04-2020 11:53:26
+20-04-05 12:19:14  Net - |D.Forc3|.Turko disconnected 05-04-2020 12:19:14
+20-04-05 12:20:00  Net - soldier connected 05-04-2020 12:20:00
+20-04-05 12:20:16  Net - soldier disconnected 05-04-2020 12:20:16
+20-04-05 12:21:57 TCP/IP File Server started
+20-04-05 12:22:55  Net - |D.Forc3|.LinkirD disconnected 05-04-2020 12:22:55
+20-04-05 12:29:21  Net - mipHo connected 05-04-2020 12:29:21
+20-04-05 12:29:28  Net - mipHo connected 05-04-2020 12:29:28
+20-04-05 12:29:30  Net - mipHo connected 05-04-2020 12:29:30
+20-04-05 12:36:23  Net - mipHo disconnected 05-04-2020 12:36:23
+20-04-05 12:51:57 TCP/IP File Server started
+20-04-05 13:21:57 TCP/IP File Server started
+20-04-05 13:51:57 TCP/IP File Server started
+20-04-05 14:01:00  Net - -Es[K]~ ChiC connected 05-04-2020 14:01:00
+20-04-05 14:01:21  Net - -Es[K]~ ChiC connected 05-04-2020 14:01:21
+20-04-05 14:02:36  Net - -Es[K]~ ChiC disconnected 05-04-2020 14:02:36
+20-04-05 14:21:57 TCP/IP File Server started
+20-04-05 14:51:57 TCP/IP File Server started
+20-04-05 15:18:35  Net - #KbN! ChronoCL connected 05-04-2020 15:18:35
+20-04-05 15:21:57 TCP/IP File Server started
+20-04-05 15:24:18  Net - #KbN! ChronoCL disconnected 05-04-2020 15:24:18
+20-04-05 15:51:57 TCP/IP File Server started
+20-04-05 16:21:57 TCP/IP File Server started
+20-04-05 16:51:57 TCP/IP File Server started
+20-04-05 17:21:57 TCP/IP File Server started
+20-04-05 17:51:57 TCP/IP File Server started
+20-04-05 18:21:57 TCP/IP File Server started
+20-04-05 18:51:57 TCP/IP File Server started
+20-04-05 19:21:57 TCP/IP File Server started
+20-04-05 19:51:57 TCP/IP File Server started
+20-04-05 19:59:37  Net - #1 Mand3s connected 05-04-2020 19:59:37
+20-04-05 20:00:53  Net - #1 Mand3s disconnected 05-04-2020 20:00:53
+20-04-05 20:21:57 TCP/IP File Server started
+20-04-05 20:51:57 TCP/IP File Server started
+20-04-05 21:21:57 TCP/IP File Server started
+20-04-05 21:25:53  Net - Mehdi connected 05-04-2020 21:25:53
+20-04-05 21:26:07  Net - Mehdi disconnected 05-04-2020 21:26:07
+20-04-05 21:51:57 TCP/IP File Server started
+20-04-05 22:13:31  Net - #1 Mand3s connected 05-04-2020 22:13:31
+20-04-05 22:13:48  Net - #1 Mand3s disconnected 05-04-2020 22:13:48
+20-04-05 22:21:57 TCP/IP File Server started
+20-04-05 22:51:57 TCP/IP File Server started
+20-04-05 23:01:12  Net - mipHo connected 05-04-2020 23:01:12
+20-04-05 23:04:13  Net - mipHo disconnected 05-04-2020 23:04:13
+20-04-05 23:04:25  Net - mipHo connected 05-04-2020 23:04:25
+20-04-05 23:04:42  Net - YoQueSe connected 05-04-2020 23:04:42
+20-04-05 23:05:35  Net - YoQueSe disconnected 05-04-2020 23:05:35
+20-04-05 23:05:57  Net - YoQueSe connected 05-04-2020 23:05:57
+20-04-05 23:08:57  Net - YoQueSe disconnected 05-04-2020 23:08:57
+20-04-05 23:10:39  Net - YoQueSe connected 05-04-2020 23:10:39
+20-04-05 23:14:32  Net - YoQueSe disconnected 05-04-2020 23:14:32
+20-04-05 23:15:41  Net - YoQueSe connected 05-04-2020 23:15:41
+20-04-05 23:22:02 TCP/IP File Server started
+20-04-05 23:23:24  Net - S2 ~ patuzhOO* connected 05-04-2020 23:23:24
+20-04-05 23:23:55  Net - S2 ~ patuzhOO* disconnected 05-04-2020 23:23:55
+20-04-05 23:36:00  Net - [OZ]Knucklers connected 05-04-2020 23:36:00
+20-04-05 23:36:31  Net - YoQueSe connected 05-04-2020 23:36:31
+20-04-05 23:47:42  Net - S2 ~ DeFkOndOz* connected 05-04-2020 23:47:42
+20-04-05 23:47:44  Net - S2 ~ DeFkOndOz* disconnected 05-04-2020 23:47:44
+20-04-05 23:52:02 TCP/IP File Server started
+20-04-05 23:52:02  Net - YoQueSe disconnected 05-04-2020 23:52:02
+20-04-05 23:55:42  Net - [OZ]Knucklers disconnected 05-04-2020 23:55:42
+20-04-05 23:56:13  Net - mipHo disconnected 05-04-2020 23:56:13
+20-04-06 00:22:02 TCP/IP File Server started
+20-04-06 00:52:02 TCP/IP File Server started
+20-04-06 01:22:02 TCP/IP File Server started
+20-04-06 01:52:02 TCP/IP File Server started
+20-04-06 02:22:02 TCP/IP File Server started
+20-04-06 02:52:02 TCP/IP File Server started
+20-04-06 03:22:02 TCP/IP File Server started
+20-04-06 03:52:02 TCP/IP File Server started
+20-04-06 04:22:02 TCP/IP File Server started
+20-04-06 04:52:02 TCP/IP File Server started
+20-04-06 05:22:02 TCP/IP File Server started
+20-04-06 05:52:02 TCP/IP File Server started
+20-04-06 06:20:09 Destroying Devices.
+20-04-06 06:20:09    End of Log.

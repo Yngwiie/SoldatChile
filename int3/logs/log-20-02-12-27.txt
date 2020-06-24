@@ -1,0 +1,18 @@
+20-02-12 10:27:40    Log Started
+20-02-12 10:27:40 Opened C:\Users\Administrador\Downloads\Privado1\soldat.ini
+20-02-12 10:27:40 Creating network interface.
+20-02-12 10:27:40 Loading Animations.
+20-02-12 10:27:40 Loading Lobby Servers List
+20-02-12 10:27:40 Loading Maps List
+20-02-12 10:27:40 Loading Map.
+20-02-12 10:27:40 Creating Weapons.
+20-02-12 10:27:40 Starting Game Server.
+20-02-12 10:27:40 TCP/IP File Server started
+20-02-12 10:27:48  Net - |X.Forc3|.Prueba connected 12-02-2020 10:27:48
+20-02-12 10:29:45  Net - |X.Forc3|.Prueba disconnected 12-02-2020 10:29:45
+20-02-12 10:57:40 TCP/IP File Server started
+20-02-12 11:05:43  Net - |X.Forc3|.Prueba connected 12-02-2020 11:05:43
+20-02-12 11:05:48  Net - |X.Forc3|.Prueba disconnected 12-02-2020 11:05:48
+20-02-12 11:14:52  Net - |X.Forc3|.Prueba connected 12-02-2020 11:14:52
+20-02-12 11:15:03  Net - |X.Forc3|.Prueba disconnected 12-02-2020 11:15:03
+20-02-12 11:27:40 TCP/IP File Server started

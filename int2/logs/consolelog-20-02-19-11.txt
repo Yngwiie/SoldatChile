@@ -1,0 +1,16 @@
+20-02-19 10:09:01    Console Log Started
+20-02-19 10:09:01 Welcome to Soldat 1.7.1
+20-02-19 10:09:01  [*] Preparing scripts to be launched
+20-02-19 10:09:01  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-19 10:09:01  [*] commands_by_keen compiled
+20-02-19 10:09:01  [*] Compiling match -> match.pas...
+20-02-19 10:09:01  [*] match compiled
+20-02-19 10:09:01  [*] Done
+20-02-19 10:09:01 ctf_Ash by chakapoko maker
+20-02-19 10:09:01 [Error] GetURL: Function Disabled (SafeMode = ON)
+20-02-19 10:09:01 Loaded weapons mod "Default v1.8"
+20-02-19 10:09:01  Connection for file server started. Port: 23110
+20-02-19 10:09:01 Registering server @ 88.99.234.252
+20-02-19 10:09:04 Shutting down server...
+20-02-19 10:09:04 Shutting down FileServer...
+20-02-19 10:09:04 Shutting down admin server...

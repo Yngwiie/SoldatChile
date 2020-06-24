@@ -1,0 +1,65 @@
+20-02-19 07:04:02    Kill Log Started
+--- 20-02-19 07:10:15
+Admiral
+|X.Forc3|.Prueba
+Ak-74
+--- 20-02-19 07:10:35
+|X.Forc3|.Prueba
+Sniper
+Barrett M82A1
+--- 20-02-19 07:10:40
+Admiral
+|X.Forc3|.Prueba
+Ak-74
+--- 20-02-19 07:11:00
+Admiral
+|X.Forc3|.Prueba
+Ak-74
+--- 20-02-19 07:11:22
+|X.Forc3|.Prueba
+Sniper
+Barrett M82A1
+--- 20-02-19 07:11:32
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:20:37
+Admiral
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:20:42
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:20:55
+Admiral
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:21:01
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:21:20
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:21:29
+Admiral
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:21:50
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:21:55
+Admiral
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:22:27
+Sniper
+|X.Forc3|.Prueba
+Barrett M82A1
+--- 20-02-19 07:22:32
+Admiral
+|X.Forc3|.Prueba
+Barrett M82A1

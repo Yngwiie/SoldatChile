@@ -1,0 +1,92 @@
+20-02-19 07:04:02    Console Log Started
+20-02-19 07:04:02 Welcome to Soldat 1.7.1
+20-02-19 07:04:02  [*] Preparing scripts to be launched
+20-02-19 07:04:02  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-19 07:04:02  [*] commands_by_keen compiled
+20-02-19 07:04:02  [*] Compiling match -> match.pas...
+20-02-19 07:04:02  [*] match compiled
+20-02-19 07:04:02  [*] Done
+20-02-19 07:04:02 ctf_Ash by chakapoko maker
+20-02-19 07:04:05  Connection for file server started. Port: 23110
+20-02-19 07:04:05 Registering server @ 88.99.234.252
+20-02-19 07:04:16 190.107.226.37:18597|2CAF32344FB requesting game...
+20-02-19 07:04:22 |X.Forc3|.Prueba joining game (190.107.226.37:18597) HWID:2CAF32344FB
+20-02-19 07:04:22 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:04:29 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:04:29 Next map: ctf_B2b
+20-02-19 07:04:35 B2B
+20-02-19 07:05:08 |X.Forc3|.Prueba gets a ping warning
+20-02-19 07:05:34 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:05:34 Next map: ctf_Blade
+20-02-19 07:05:39 Blade by Zakath
+20-02-19 07:06:38 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:07:21 |X.Forc3|.Prueba tried to login as Game Admin with bad password
+20-02-19 07:07:33 |X.Forc3|.Prueba added to Game Admins
+20-02-19 07:07:39 /add bot 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:07:41 /addbot 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:07:41 Bot file 1 not found
+20-02-19 07:07:48 /addbot Admiral(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:07:54 /addbot Sniper(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:07:59 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:07:59 Next map: ctf_Viet
+20-02-19 07:08:04 Viet
+20-02-19 07:09:21 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:09:21 Next map: ctf_Division
+20-02-19 07:09:27 Division by Boxo, KC, viral
+20-02-19 07:10:15 (0) Admiral killed (1) |X.Forc3|.Prueba with Ak-74
+20-02-19 07:10:35 (1) |X.Forc3|.Prueba killed (0) Sniper with Barrett M82A1
+20-02-19 07:10:39 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:10:40 (0) Admiral killed (1) |X.Forc3|.Prueba with Ak-74
+20-02-19 07:11:00 (0) Admiral killed (1) |X.Forc3|.Prueba with Ak-74
+20-02-19 07:11:22 (1) |X.Forc3|.Prueba killed (0) Sniper with Barrett M82A1
+20-02-19 07:11:32 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:11:42 [|X.Forc3|.Prueba] !nextmapo
+20-02-19 07:11:45 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:11:45 Next map: ctf_Death
+20-02-19 07:11:50 Death by MM, g_d. Boxo, mtk`
+20-02-19 07:13:46 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:16:50 Time Left: 5 minutes
+20-02-19 07:17:50 Time Left: 4 minutes
+20-02-19 07:18:50 Time Left: 3 minutes
+20-02-19 07:19:50 190.107.226.37:18598|2CAF32344FB requesting game...
+20-02-19 07:19:50 Time Left: 2 minutes
+20-02-19 07:19:53 |X.Forc3|.Prueba joining game (190.107.226.37:18598) HWID:2CAF32344FB
+20-02-19 07:19:53 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:20:20 [|X.Forc3|.Prueba] !nextmap
+20-02-19 07:20:20 Next map: ctf_Hormone
+20-02-19 07:20:25 Hormone by Metsänaperot
+20-02-19 07:20:37 (0) Admiral killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:20:42 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:20:55 (0) Admiral killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:21:01 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:21:18  [*] [Error] match -> OnCommand(33:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:21:18 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:21:20 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:21:29 (0) Admiral killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:21:32  [*] [Error] match -> OnCommand(33:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:21:32 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:21:39 [|X.Forc3|.Prueba] /mr 1
+20-02-19 07:21:44  [*] [Error] match -> OnCommand(33:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:21:44 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:21:50 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:21:55 (0) Admiral killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:22:27 (0) Sniper killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:22:32 (0) Admiral killed (1) |X.Forc3|.Prueba with Barrett M82A1
+20-02-19 07:22:35 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:22:36 190.107.226.37:18598|2CAF32344FB requesting game...
+20-02-19 07:22:38 |X.Forc3|.Prueba joining game (190.107.226.37:18598) HWID:2CAF32344FB
+20-02-19 07:22:38 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:22:46 /map ctf_Laos(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:22:49 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:22:51 Laos
+20-02-19 07:23:03 190.107.226.37:18598|2CAF32344FB requesting game...
+20-02-19 07:23:05 |X.Forc3|.Prueba joining game (190.107.226.37:18598) HWID:2CAF32344FB
+20-02-19 07:23:05 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:23:09 /map ctf_LAos(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:23:14 Laos
+20-02-19 07:23:15  [*] [Error] match -> OnCommand(33:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:23:15 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:23:45 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:23:59 Shutting down server...
+20-02-19 07:23:59 Shutting down FileServer...
+20-02-19 07:23:59 Shutting down admin server...

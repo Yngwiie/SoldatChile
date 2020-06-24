@@ -1,0 +1,409 @@
+20-02-22 00:08:26    Log Started
+20-02-22 00:08:26 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-02-22 00:08:26 Creating network interface.
+20-02-22 00:08:26 Loading Animations.
+20-02-22 00:08:26 Loading Lobby Servers List
+20-02-22 00:08:26 Loading Maps List
+20-02-22 00:08:26 Loading Map.
+20-02-22 00:08:26 Creating Weapons.
+20-02-22 00:08:26 Starting Game Server.
+20-02-22 00:08:26 TCP/IP File Server started
+20-02-22 00:08:31  Net - sk!t kael connected 22-02-2020 0:08:31
+20-02-22 00:08:34  Net - sT#' wARFare connected 22-02-2020 0:08:34
+20-02-22 00:08:34  Net - =XsF=.Turko connected 22-02-2020 0:08:34
+20-02-22 00:08:35  Net - =XsF= patuzhOO* connected 22-02-2020 0:08:35
+20-02-22 00:08:36  Net - =XsF= C[O]2 connected 22-02-2020 0:08:36
+20-02-22 00:08:37  Net - sT#' SeenzacL* connected 22-02-2020 0:08:37
+20-02-22 00:08:37  Net - =XsF=.Turko connected 22-02-2020 0:08:37
+20-02-22 00:08:37  Net - =XsF= Gothic connected 22-02-2020 0:08:37
+20-02-22 00:08:40  Net - sT#' SeenzacL* disconnected 22-02-2020 0:08:40
+20-02-22 00:08:42  Net - sT#' SeenzacL* connected 22-02-2020 0:08:42
+20-02-22 00:08:54  Net - =XsF= Gothic disconnected 22-02-2020 0:08:54
+20-02-22 00:09:27  Net - sT#' YnGwi3 connected 22-02-2020 0:09:27
+20-02-22 00:10:25  Net - =XsF= Gothic connected 22-02-2020 0:10:25
+20-02-22 00:10:36  Net - sk!t kael connected 22-02-2020 0:10:36
+20-02-22 00:10:45  Net - =XsF= Gothic disconnected 22-02-2020 0:10:45
+20-02-22 00:10:52  Net - =XsF= Gothic connected 22-02-2020 0:10:52
+20-02-22 00:10:53  Net - =XsF= C[O]2 disconnected 22-02-2020 0:10:53
+20-02-22 00:11:00  Net - sk!t kael connected 22-02-2020 0:11:00
+20-02-22 00:11:11  Net - sk!t kael connected 22-02-2020 0:11:11
+20-02-22 00:13:57  Net - sk!t kael disconnected 22-02-2020 0:13:57
+20-02-22 00:17:19  Net - #KbN! Nitho connected 22-02-2020 0:17:19
+20-02-22 00:25:11  Net - TK| Maaxis* connected 22-02-2020 0:25:11
+20-02-22 00:25:32  Net - #KbN! ChronoCL connected 22-02-2020 0:25:32
+20-02-22 00:29:22  Net - #KbN! ChronoCL disconnected 22-02-2020 0:29:22
+20-02-22 00:31:23  Net - #KbN! ChronoCL connected 22-02-2020 0:31:23
+20-02-22 00:32:57  Net - TK| Maaxis* connected 22-02-2020 0:32:57
+20-02-22 00:33:00  Net - sT#' YnGwi3 disconnected 22-02-2020 0:33:00
+20-02-22 00:33:52  Net - #KbN! ChronoCL disconnected 22-02-2020 0:33:52
+20-02-22 00:33:55  Net - #KbN! ChronoCL connected 22-02-2020 0:33:55
+20-02-22 00:35:30  Net - TK| Maaxis* disconnected 22-02-2020 0:35:30
+20-02-22 00:35:39  Net - TK| Maaxis* connected 22-02-2020 0:35:39
+20-02-22 00:36:29  Net - TK| Maaxis* disconnected 22-02-2020 0:36:29
+20-02-22 00:37:04  Net - #KbN! ChronoCL disconnected 22-02-2020 0:37:04
+20-02-22 00:37:05  Net - TK| Maaxis* connected 22-02-2020 0:37:05
+20-02-22 00:37:07  Net - #KbN! ChronoCL connected 22-02-2020 0:37:07
+20-02-22 00:38:13  Net - Break connected 22-02-2020 0:38:13
+20-02-22 00:38:26 TCP/IP File Server started
+20-02-22 00:41:19  Net - sk!t kael connected 22-02-2020 0:41:19
+20-02-22 00:41:32  Net - Break disconnected 22-02-2020 0:41:32
+20-02-22 00:42:16  Net - TK| Maaxis* disconnected 22-02-2020 0:42:16
+20-02-22 00:42:20  Net - sk!t kael connected 22-02-2020 0:42:20
+20-02-22 00:42:30  Net - TK| Maaxis* connected 22-02-2020 0:42:30
+20-02-22 00:42:32  Net - sk!t kael disconnected 22-02-2020 0:42:32
+20-02-22 00:42:35  Net - sk!t kael connected 22-02-2020 0:42:35
+20-02-22 00:42:57  Net - #KbN! ChronoCL disconnected 22-02-2020 0:42:57
+20-02-22 00:45:34  Net - =XsF=.Turko disconnected 22-02-2020 0:45:34
+20-02-22 00:45:37  Net - sT#' wARFare disconnected 22-02-2020 0:45:37
+20-02-22 00:45:49  Net - sT#' SeenzacL* connected 22-02-2020 0:45:49
+20-02-22 00:45:51  Net - #KbN! Nitho connected 22-02-2020 0:45:51
+20-02-22 00:45:58  Net - sk!t kael disconnected 22-02-2020 0:45:58
+20-02-22 00:46:14  Net - =XsF=.Turko connected 22-02-2020 0:46:14
+20-02-22 00:46:23  Net - TK| Maaxis* connected 22-02-2020 0:46:23
+20-02-22 00:46:31  Net - =XsF=.Turko connected 22-02-2020 0:46:31
+20-02-22 00:46:41  Net - #KbN! Nitho disconnected 22-02-2020 0:46:41
+20-02-22 00:46:43  Net - =XsF= patuzhOO* disconnected 22-02-2020 0:46:43
+20-02-22 00:46:44  Net - TK| Maaxis* disconnected 22-02-2020 0:46:44
+20-02-22 00:46:45  Net - =XsF= Gothic disconnected 22-02-2020 0:46:45
+20-02-22 00:46:48  Net - =XsF= Gothic connected 22-02-2020 0:46:48
+20-02-22 00:46:57  Net - =XsF= patuzhOO* connected 22-02-2020 0:46:57
+20-02-22 00:47:11  Net - #KbN! Shaka Chile connected 22-02-2020 0:47:11
+20-02-22 00:47:42  Net - #KbN! Nitho connected 22-02-2020 0:47:42
+20-02-22 00:47:46  Net - #KbN! Shaka Chile connected 22-02-2020 0:47:46
+20-02-22 00:48:04  Net - sT#' wARFare connected 22-02-2020 0:48:04
+20-02-22 00:48:08  Net - TK| Maaxis* connected 22-02-2020 0:48:08
+20-02-22 00:49:45  Net - sk!T.HughscL connected 22-02-2020 0:49:45
+20-02-22 00:49:51  Net - TK| Maaxis* disconnected 22-02-2020 0:49:51
+20-02-22 00:52:20  Net - TK| Maaxis* connected 22-02-2020 0:52:20
+20-02-22 00:52:38  Net - TK| Maaxis* disconnected 22-02-2020 0:52:38
+20-02-22 00:54:01  Net - sT#' wARFare disconnected 22-02-2020 0:54:01
+20-02-22 00:59:09  Net - D.Forc3| Maaxis* [PP] connected 22-02-2020 0:59:09
+20-02-22 01:01:37  Net - D.Forc3| Maaxis* [PP] disconnected 22-02-2020 1:01:37
+20-02-22 01:03:26  Net - sT#' SeenzacL* disconnected 22-02-2020 1:03:26
+20-02-22 01:08:26 TCP/IP File Server started
+20-02-22 01:25:20  Net - PWR|URANIO 235 connected 22-02-2020 1:25:20
+20-02-22 01:25:24  Net - PWR|URANIO 235 disconnected 22-02-2020 1:25:24
+20-02-22 01:26:36  Net - D.Forc3| Maaxis* [PP] connected 22-02-2020 1:26:36
+20-02-22 01:26:42  Net - D.Forc3| Maaxis* [PP] disconnected 22-02-2020 1:26:42
+20-02-22 01:38:26 TCP/IP File Server started
+20-02-22 01:50:14  Net - sk!T.HughscL disconnected 22-02-2020 1:50:14
+20-02-22 01:50:14  Net - =XsF= patuzhOO* disconnected 22-02-2020 1:50:14
+20-02-22 01:50:32  Net - =XsF= patuzhOO* connected 22-02-2020 1:50:32
+20-02-22 01:50:46  Net - sk!T.HughscL connected 22-02-2020 1:50:46
+20-02-22 01:50:49  Net - sk!T.HughscL connected 22-02-2020 1:50:49
+20-02-22 01:52:29  Net - sk!T.HughscL disconnected 22-02-2020 1:52:29
+20-02-22 01:52:29  Net - =XsF= patuzhOO* disconnected 22-02-2020 1:52:29
+20-02-22 01:52:29  Net - =XsF= Gothic disconnected 22-02-2020 1:52:29
+20-02-22 01:52:32  Net - sk!T.HughscL connected 22-02-2020 1:52:32
+20-02-22 01:52:33  Net - =XsF= patuzhOO* connected 22-02-2020 1:52:33
+20-02-22 01:52:35  Net - =XsF= Gothic connected 22-02-2020 1:52:35
+20-02-22 01:52:48  Net - sk!T.HughscL connected 22-02-2020 1:52:48
+20-02-22 02:03:40  Net - =XsF=.Turko disconnected 22-02-2020 2:03:40
+20-02-22 02:03:44  Net - #KbN! Shaka Chile disconnected 22-02-2020 2:03:44
+20-02-22 02:03:46  Net - sk!T.HughscL disconnected 22-02-2020 2:03:46
+20-02-22 02:03:49  Net - =XsF= patuzhOO* disconnected 22-02-2020 2:03:49
+20-02-22 02:03:50  Net - #KbN! Nitho disconnected 22-02-2020 2:03:50
+20-02-22 02:04:01  Net - =XsF= Gothic disconnected 22-02-2020 2:04:01
+20-02-22 02:08:26 TCP/IP File Server started
+20-02-22 02:38:26 TCP/IP File Server started
+20-02-22 03:08:26 TCP/IP File Server started
+20-02-22 03:38:26 TCP/IP File Server started
+20-02-22 04:08:26 TCP/IP File Server started
+20-02-22 04:38:26 TCP/IP File Server started
+20-02-22 05:08:26 TCP/IP File Server started
+20-02-22 05:38:26 TCP/IP File Server started
+20-02-22 06:08:26 TCP/IP File Server started
+20-02-22 06:38:26 TCP/IP File Server started
+20-02-22 07:08:26 TCP/IP File Server started
+20-02-22 07:38:26 TCP/IP File Server started
+20-02-22 08:08:26 TCP/IP File Server started
+20-02-22 08:38:32 TCP/IP File Server started
+20-02-22 09:08:32 TCP/IP File Server started
+20-02-22 09:38:32 TCP/IP File Server started
+20-02-22 10:08:32 TCP/IP File Server started
+20-02-22 10:38:32 TCP/IP File Server started
+20-02-22 11:08:32 TCP/IP File Server started
+20-02-22 11:38:32 TCP/IP File Server started
+20-02-22 12:08:32 TCP/IP File Server started
+20-02-22 12:38:32 TCP/IP File Server started
+20-02-22 13:08:32 TCP/IP File Server started
+20-02-22 13:38:32 TCP/IP File Server started
+20-02-22 13:49:03  Net - sT.- YnGwi3 connected 22-02-2020 13:49:03
+20-02-22 13:49:45  Net - sT.- YnGwi3 disconnected 22-02-2020 13:49:45
+20-02-22 14:08:32 TCP/IP File Server started
+20-02-22 14:38:32 TCP/IP File Server started
+20-02-22 15:08:32 TCP/IP File Server started
+20-02-22 15:38:32 TCP/IP File Server started
+20-02-22 15:42:25  Net - sk!T.Rattle connected 22-02-2020 15:42:25
+20-02-22 15:43:25  Net - sk!T.Rattle disconnected 22-02-2020 15:43:25
+20-02-22 16:08:32 TCP/IP File Server started
+20-02-22 16:38:32 TCP/IP File Server started
+20-02-22 17:08:32 TCP/IP File Server started
+20-02-22 17:38:32 TCP/IP File Server started
+20-02-22 18:08:32 TCP/IP File Server started
+20-02-22 18:38:32 TCP/IP File Server started
+20-02-22 19:08:32 TCP/IP File Server started
+20-02-22 19:38:32 TCP/IP File Server started
+20-02-22 20:08:32 TCP/IP File Server started
+20-02-22 20:19:36  Net - #KbN! ChronoCL connected 22-02-2020 20:19:36
+20-02-22 20:19:43  Net - #KbN! ChronoCL disconnected 22-02-2020 20:19:43
+20-02-22 20:19:54  Net - #KbN! ChronoCL connected 22-02-2020 20:19:54
+20-02-22 20:20:55  Net - #KbN! ChronoCL disconnected 22-02-2020 20:20:55
+20-02-22 20:38:32 TCP/IP File Server started
+20-02-22 21:08:32 TCP/IP File Server started
+20-02-22 21:38:32 TCP/IP File Server started
+20-02-22 22:08:32 TCP/IP File Server started
+20-02-22 22:38:32 TCP/IP File Server started
+20-02-22 23:08:32 TCP/IP File Server started
+20-02-22 23:38:32 TCP/IP File Server started
+20-02-23 00:06:54  Net - PWR|URANIO 235 connected 23-02-2020 0:06:54
+20-02-23 00:07:00  Net - PWR|URANIO 235 disconnected 23-02-2020 0:07:00
+20-02-23 00:07:44  Net - PWR|URANIO 235 connected 23-02-2020 0:07:44
+20-02-23 00:08:01  Net - PWR|URANIO 235 disconnected 23-02-2020 0:08:01
+20-02-23 00:08:32 TCP/IP File Server started
+20-02-23 00:38:32 TCP/IP File Server started
+20-02-23 01:08:32 TCP/IP File Server started
+20-02-23 01:38:32 TCP/IP File Server started
+20-02-23 02:08:32 TCP/IP File Server started
+20-02-23 02:38:32 TCP/IP File Server started
+20-02-23 03:08:32 TCP/IP File Server started
+20-02-23 03:38:32 TCP/IP File Server started
+20-02-23 04:08:32 TCP/IP File Server started
+20-02-23 04:38:32 TCP/IP File Server started
+20-02-23 05:08:32 TCP/IP File Server started
+20-02-23 05:38:32 TCP/IP File Server started
+20-02-23 06:08:32 TCP/IP File Server started
+20-02-23 06:38:32 TCP/IP File Server started
+20-02-23 07:08:32 TCP/IP File Server started
+20-02-23 07:38:32 TCP/IP File Server started
+20-02-23 08:08:32 TCP/IP File Server started
+20-02-23 08:38:32 TCP/IP File Server started
+20-02-23 09:08:32 TCP/IP File Server started
+20-02-23 09:38:32 TCP/IP File Server started
+20-02-23 10:08:32 TCP/IP File Server started
+20-02-23 10:38:32 TCP/IP File Server started
+20-02-23 11:08:32 TCP/IP File Server started
+20-02-23 11:38:32 TCP/IP File Server started
+20-02-23 12:08:32 TCP/IP File Server started
+20-02-23 12:38:32 TCP/IP File Server started
+20-02-23 13:08:32 TCP/IP File Server started
+20-02-23 13:38:38 TCP/IP File Server started
+20-02-23 14:08:38 TCP/IP File Server started
+20-02-23 14:38:38 TCP/IP File Server started
+20-02-23 15:05:39  Net - [O.S.O] Dioxido de Zorro connected 23-02-2020 15:05:39
+20-02-23 15:06:27  Net - [O.S.O] Dioxido de Zorro disconnected 23-02-2020 15:06:27
+20-02-23 15:08:38 TCP/IP File Server started
+20-02-23 15:38:38 TCP/IP File Server started
+20-02-23 16:08:38 TCP/IP File Server started
+20-02-23 16:38:38 TCP/IP File Server started
+20-02-23 16:42:09  Net - sk!T.LinkcL connected 23-02-2020 16:42:09
+20-02-23 16:42:22  Net - WarFare connected 23-02-2020 16:42:22
+20-02-23 16:42:28  Net - WarFare connected 23-02-2020 16:42:28
+20-02-23 16:42:37  Net - D.Forc3| Maaxis* [PP] connected 23-02-2020 16:42:37
+20-02-23 16:42:37  Net - sT#  Mand3s connected 23-02-2020 16:42:37
+20-02-23 16:42:51  Net - sT.- YnGwi3 connected 23-02-2020 16:42:51
+20-02-23 16:43:50  Net - D.Forc3| Maaxis* [PP] disconnected 23-02-2020 16:43:50
+20-02-23 16:43:52  Net - WarFare disconnected 23-02-2020 16:43:52
+20-02-23 16:44:00  Net - |D.Forc3|Los Chichos connected 23-02-2020 16:44:00
+20-02-23 16:44:05  Net - |D.Forc3|Los Chichos disconnected 23-02-2020 16:44:05
+20-02-23 16:44:14  Net - |D.Forc3|Los Chichos connected 23-02-2020 16:44:14
+20-02-23 16:44:16  Net - |D.Forc3|Los Chichos disconnected 23-02-2020 16:44:16
+20-02-23 16:44:26  Net - sT.- YnGwi3 disconnected 23-02-2020 16:44:26
+20-02-23 16:44:30  Net - sT.- YnGwi3 connected 23-02-2020 16:44:30
+20-02-23 16:46:15  Net - D.Forc3| Maaxis* [PP] connected 23-02-2020 16:46:15
+20-02-23 16:47:06  Net - sT.- YnGwi3 disconnected 23-02-2020 16:47:06
+20-02-23 16:48:11  Net - WarFare connected 23-02-2020 16:48:11
+20-02-23 16:48:15  Net - WarFare connected 23-02-2020 16:48:15
+20-02-23 16:48:25  Net - sT#  Mand3s disconnected 23-02-2020 16:48:25
+20-02-23 16:48:51  Net - sT#' HartCheat] connected 23-02-2020 16:48:51
+20-02-23 16:49:11  Net - sT.- YnGwi3 connected 23-02-2020 16:49:11
+20-02-23 16:49:16  Net - sT#  Mand3s connected 23-02-2020 16:49:16
+20-02-23 16:50:09  Net - sT#  Mand3s connected 23-02-2020 16:50:09
+20-02-23 16:50:32  Net - [BHOOD] Cesar dj-s connected 23-02-2020 16:50:32
+20-02-23 16:51:02  Net - [BHOOD] Cesar dj-s connected 23-02-2020 16:51:02
+20-02-23 16:51:27  Net - sT.- YnGwi3 connected 23-02-2020 16:51:27
+20-02-23 16:51:32  Net - sT.- YnGwi3 connected 23-02-2020 16:51:32
+20-02-23 16:54:45  Net - sT.- YnGwi3 disconnected 23-02-2020 16:54:45
+20-02-23 16:58:15  Net - sT#' HartCheat] disconnected 23-02-2020 16:58:15
+20-02-23 16:59:14  Net - WarFare disconnected 23-02-2020 16:59:14
+20-02-23 16:59:24  Net - sT#  Mand3s disconnected 23-02-2020 16:59:24
+20-02-23 16:59:28  Net - D.Forc3| Maaxis* [PP] connected 23-02-2020 16:59:28
+20-02-23 17:03:34  Net - WarFare connected 23-02-2020 17:03:34
+20-02-23 17:03:38  Net - WarFare connected 23-02-2020 17:03:38
+20-02-23 17:05:47  Net - sk!T.LinkcL disconnected 23-02-2020 17:05:47
+20-02-23 17:05:57  Net - WarFare disconnected 23-02-2020 17:05:57
+20-02-23 17:06:41  Net - D.Forc3| Maaxis* [PP] disconnected 23-02-2020 17:06:41
+20-02-23 17:06:56  Net - [BHOOD] Cesar dj-s disconnected 23-02-2020 17:06:56
+20-02-23 17:07:12  Net - sT.- YnGwi3 connected 23-02-2020 17:07:12
+20-02-23 17:07:21  Net - sk!T.LinkcL connected 23-02-2020 17:07:21
+20-02-23 17:07:23  Net - sT.- YnGwi3 connected 23-02-2020 17:07:23
+20-02-23 17:07:28  Net - sk!T.LinkcL disconnected 23-02-2020 17:07:28
+20-02-23 17:07:51  Net - sT.- YnGwi3 disconnected 23-02-2020 17:07:51
+20-02-23 17:08:38 TCP/IP File Server started
+20-02-23 17:38:38 TCP/IP File Server started
+20-02-23 18:08:38 TCP/IP File Server started
+20-02-23 18:38:38 TCP/IP File Server started
+20-02-23 18:48:26  Net - [O.S.O] Dioxido de Zorro connected 23-02-2020 18:48:26
+20-02-23 18:49:40  Net - [O.S.O] Dioxido de Zorro disconnected 23-02-2020 18:49:40
+20-02-23 19:08:38 TCP/IP File Server started
+20-02-23 19:38:38 TCP/IP File Server started
+20-02-23 19:46:14  Net - sk!T.Dioxido de Zorro connected 23-02-2020 19:46:14
+20-02-23 19:46:21  Net - sk!T.Dioxido de Zorro disconnected 23-02-2020 19:46:21
+20-02-23 19:46:33  Net - sk!T.Dioxido de Zorro connected 23-02-2020 19:46:33
+20-02-23 19:46:35  Net - sk!T.Dioxido de Zorro disconnected 23-02-2020 19:46:35
+20-02-23 20:07:32  Net - sk!T.Rattle connected 23-02-2020 20:07:32
+20-02-23 20:07:58  Net - sk!T.Rattle disconnected 23-02-2020 20:07:58
+20-02-23 20:08:38 TCP/IP File Server started
+20-02-23 20:33:06  Net - TK| Maaxis* connected 23-02-2020 20:33:06
+20-02-23 20:33:19  Net - TK| Maaxis* disconnected 23-02-2020 20:33:19
+20-02-23 20:33:26  Net - TK| Maaxis* connected 23-02-2020 20:33:26
+20-02-23 20:33:49  Net - TK| Maaxis* disconnected 23-02-2020 20:33:49
+20-02-23 20:38:38 TCP/IP File Server started
+20-02-23 20:57:23  Net - #KbN! Shaka Chile connected 23-02-2020 20:57:23
+20-02-23 20:57:26  Net - sk!T.LinkcL connected 23-02-2020 20:57:26
+20-02-23 20:58:27  Net - #KbN! Nitho connected 23-02-2020 20:58:27
+20-02-23 20:58:29  Net - sk!T.Dioxido de Zorro connected 23-02-2020 20:58:29
+20-02-23 20:58:53  Net - TK| Maaxis* connected 23-02-2020 20:58:53
+20-02-23 20:59:03  Net - #KbN! Shaka Chile disconnected 23-02-2020 20:59:03
+20-02-23 20:59:05  Net - #KbN! Shaka Chile connected 23-02-2020 20:59:05
+20-02-23 20:59:28  Net - sk!t.enigma connected 23-02-2020 20:59:28
+20-02-23 20:59:55  Net - sk!t.enigma disconnected 23-02-2020 20:59:55
+20-02-23 20:59:57  Net - sk!T.HughscL connected 23-02-2020 20:59:57
+20-02-23 21:00:01  Net - sk!T.enigma connected 23-02-2020 21:00:01
+20-02-23 21:00:05  Net - sk!T.Rattle connected 23-02-2020 21:00:05
+20-02-23 21:00:09  Net - sk!T.Rattle connected 23-02-2020 21:00:09
+20-02-23 21:00:32  Net - LB ~ Skipo.cL connected 23-02-2020 21:00:32
+20-02-23 21:00:45  Net - *Coltronic connected 23-02-2020 21:00:45
+20-02-23 21:01:01  Net - Major connected 23-02-2020 21:01:01
+20-02-23 21:01:23  Net - sk!T.LinkcL connected 23-02-2020 21:01:23
+20-02-23 21:01:28  Net - sk!T.mipHo connected 23-02-2020 21:01:28
+20-02-23 21:01:32  Net - sk!T.Rattle disconnected 23-02-2020 21:01:32
+20-02-23 21:01:34  Net - sk!T.HughscL connected 23-02-2020 21:01:34
+20-02-23 21:01:34  Net - sk!T.Dioxido de Zorro connected 23-02-2020 21:01:34
+20-02-23 21:01:39  Net - TK| Maaxis* disconnected 23-02-2020 21:01:39
+20-02-23 21:01:40  Net - sk!T.Rattle connected 23-02-2020 21:01:40
+20-02-23 21:01:46  Net - #KbN! ChronoCL connected 23-02-2020 21:01:46
+20-02-23 21:02:00  Net - *Coltronic disconnected 23-02-2020 21:02:00
+20-02-23 21:02:04  Net - TK| Maaxis* connected 23-02-2020 21:02:04
+20-02-23 21:02:10  Net - Major disconnected 23-02-2020 21:02:10
+20-02-23 21:02:36  Net - sk!T.Rattle disconnected 23-02-2020 21:02:36
+20-02-23 21:03:11  Net - sk!T.Rattle connected 23-02-2020 21:03:11
+20-02-23 21:03:13  Net - sk!T.mipHo disconnected 23-02-2020 21:03:13
+20-02-23 21:03:15  Net - sk!T.mipHo connected 23-02-2020 21:03:15
+20-02-23 21:03:29  Net - sk!T.LinkcL disconnected 23-02-2020 21:03:29
+20-02-23 21:03:31  Net - sk!T.LinkcL connected 23-02-2020 21:03:31
+20-02-23 21:03:36  Net - TK| Maaxis* disconnected 23-02-2020 21:03:36
+20-02-23 21:03:40  Net - TK| Maaxis* connected 23-02-2020 21:03:40
+20-02-23 21:03:45  Net - sk!T.HughscL disconnected 23-02-2020 21:03:45
+20-02-23 21:03:56  Net - sk!T.HughscL connected 23-02-2020 21:03:56
+20-02-23 21:04:06  Net - TK| Maaxis* disconnected 23-02-2020 21:04:06
+20-02-23 21:04:06  Net - KorN connected 23-02-2020 21:04:06
+20-02-23 21:04:11  Net - F4ll.cL connected 23-02-2020 21:04:11
+20-02-23 21:04:41  Net - sk!T.Rattle disconnected 23-02-2020 21:04:41
+20-02-23 21:04:56  Net - KorN disconnected 23-02-2020 21:04:56
+20-02-23 21:05:02  Net - KorN coemntarista connected 23-02-2020 21:05:02
+20-02-23 21:05:04  Net - KorN coemntarista disconnected 23-02-2020 21:05:04
+20-02-23 21:05:07  Net - sk!T.Dioxido de Zorro connected 23-02-2020 21:05:07
+20-02-23 21:05:07  Net - #KbN! ChronoCL disconnected 23-02-2020 21:05:07
+20-02-23 21:05:09  Net - KorN comentarista connected 23-02-2020 21:05:09
+20-02-23 21:05:28  Net - [PuM] Alce 1 connected 23-02-2020 21:05:28
+20-02-23 21:05:35  Net - WR.STRIDER connected 23-02-2020 21:05:35
+20-02-23 21:05:40  Net - WR.STRIDER disconnected 23-02-2020 21:05:40
+20-02-23 21:05:44  Net - KorN comentarista disconnected 23-02-2020 21:05:44
+20-02-23 21:06:03  Net - [PuM] Alce oo connected 23-02-2020 21:06:03
+20-02-23 21:06:13  Net - KorN comentarista connected 23-02-2020 21:06:13
+20-02-23 21:07:02  Net - [PuM] Alce oo disconnected 23-02-2020 21:07:02
+20-02-23 21:07:10  Net - [PuM] Strider connected 23-02-2020 21:07:10
+20-02-23 21:07:17  Net - [PuM] Alce 1 disconnected 23-02-2020 21:07:17
+20-02-23 21:07:25  Net - [PuM] EspinX connected 23-02-2020 21:07:25
+20-02-23 21:07:47  Net - sk!T.mipHo connected 23-02-2020 21:07:47
+20-02-23 21:08:09  Net - sk!T.Rattle connected 23-02-2020 21:08:09
+20-02-23 21:08:31  Net - #KbN! Nitho disconnected 23-02-2020 21:08:31
+20-02-23 21:08:38 TCP/IP File Server started
+20-02-23 21:09:09  Net - [PuM] Alce 2 connected 23-02-2020 21:09:09
+20-02-23 21:09:16  Net - LB ~ Sadiko connected 23-02-2020 21:09:16
+20-02-23 21:09:28  Net - sk!T.Rattle disconnected 23-02-2020 21:09:28
+20-02-23 21:09:33  Net - [PuM] Gravity connected 23-02-2020 21:09:33
+20-02-23 21:09:38  Net - sk!T.Rattle connected 23-02-2020 21:09:38
+20-02-23 21:09:42  Net - [PuM] Alce 2 disconnected 23-02-2020 21:09:42
+20-02-23 21:10:13  Net - [PuM] Gravity connected 23-02-2020 21:10:13
+20-02-23 21:10:23  Net - [PuM] Alce 2 connected 23-02-2020 21:10:23
+20-02-23 21:10:52  Net - sk!T.Rattle disconnected 23-02-2020 21:10:52
+20-02-23 21:10:54  Net - sk!T.HughscL connected 23-02-2020 21:10:54
+20-02-23 21:11:02  Net - [PuM] Gravity connected 23-02-2020 21:11:02
+20-02-23 21:11:09  Net - sk!T.Rattle connected 23-02-2020 21:11:09
+20-02-23 21:11:31  Net - [PuM] Gravity disconnected 23-02-2020 21:11:31
+20-02-23 21:11:41  Net - #KbN! Shaka Chile disconnected 23-02-2020 21:11:41
+20-02-23 21:11:44  Net - sk!T.Rattle disconnected 23-02-2020 21:11:44
+20-02-23 21:11:47  Net - sk!T.HughscL disconnected 23-02-2020 21:11:47
+20-02-23 21:12:12  Net - [PuM] Alce 2 disconnected 23-02-2020 21:12:12
+20-02-23 21:12:13  Net - |D.Forc3|Los Chichos connected 23-02-2020 21:12:13
+20-02-23 21:13:57  Net - sk!T.Dioxido de Zorro disconnected 23-02-2020 21:13:57
+20-02-23 21:19:06  Net - sk!T.enigma disconnected 23-02-2020 21:19:06
+20-02-23 21:19:31  Net - sk!T.kael connected 23-02-2020 21:19:31
+20-02-23 21:21:04  Net - [PuM] BeRsErKeR connected 23-02-2020 21:21:04
+20-02-23 21:21:10  Net - |D.Forc3|Los Chichos disconnected 23-02-2020 21:21:10
+20-02-23 21:21:13  Net - sk!T.mipHo disconnected 23-02-2020 21:21:13
+20-02-23 21:21:19  Net - sk!T.mipHo connected 23-02-2020 21:21:19
+20-02-23 21:21:30  Net - F4ll.cL disconnected 23-02-2020 21:21:30
+20-02-23 21:22:31  Net - F4ll.cL connected 23-02-2020 21:22:31
+20-02-23 21:25:16  Net - KorN comentarista disconnected 23-02-2020 21:25:16
+20-02-23 21:25:57  Net - KorN comentarista connected 23-02-2020 21:25:57
+20-02-23 21:26:44  Net - sk!T.LinkcL disconnected 23-02-2020 21:26:44
+20-02-23 21:26:48  Net - KorN comentarista disconnected 23-02-2020 21:26:48
+20-02-23 21:26:52  Net - sk!T.LinkcL connected 23-02-2020 21:26:52
+20-02-23 21:27:13  Net - KorN comentarista connected 23-02-2020 21:27:13
+20-02-23 21:27:48  Net - KorN comentarista disconnected 23-02-2020 21:27:48
+20-02-23 21:28:41  Net - sk!T.mipHo disconnected 23-02-2020 21:28:41
+20-02-23 21:28:51  Net - sk!T.mipHo connected 23-02-2020 21:28:51
+20-02-23 21:28:52  Net - [PuM] BeRsErKeR disconnected 23-02-2020 21:28:52
+20-02-23 21:29:09  Net - sk!T.kael disconnected 23-02-2020 21:29:09
+20-02-23 21:29:12  Net - sk!T.kael connected 23-02-2020 21:29:12
+20-02-23 21:29:22  Net - [PuM] Admins Soretes connected 23-02-2020 21:29:22
+20-02-23 21:29:55  Net - [PuM] Admins Soretes disconnected 23-02-2020 21:29:55
+20-02-23 21:30:04  Net - [PuM] BeRsErKeR connected 23-02-2020 21:30:04
+20-02-23 21:30:14  Net - #KbN! Shaka Chile connected 23-02-2020 21:30:14
+20-02-23 21:30:17  Net - #KbN! Shaka Chile connected 23-02-2020 21:30:17
+20-02-23 21:31:14  Net - LB ~ Sadiko disconnected 23-02-2020 21:31:14
+20-02-23 21:37:51  Net - LB ~ Skipo.cL disconnected 23-02-2020 21:37:51
+20-02-23 21:38:38 TCP/IP File Server started
+20-02-23 21:39:46  Net - #KbN! Shaka Chile disconnected 23-02-2020 21:39:46
+20-02-23 21:39:48  Net - #KbN! Shaka Chile connected 23-02-2020 21:39:48
+20-02-23 21:39:50  Net - LB ~ Skipo.cL connected 23-02-2020 21:39:50
+20-02-23 21:45:30  Net - [PuM] BeRsErKeR disconnected 23-02-2020 21:45:30
+20-02-23 21:45:47  Net - [PuM] BeRsErKeR connected 23-02-2020 21:45:47
+20-02-23 21:48:10  Net - [PuM] BeRsErKeR disconnected 23-02-2020 21:48:10
+20-02-23 21:48:32  Net - [PuM]PraetorianRaptorius connected 23-02-2020 21:48:32
+20-02-23 21:49:27  Net - [PuM]PraetorianRaptorius disconnected 23-02-2020 21:49:27
+20-02-23 21:49:30  Net - [PuM]PraetorianRaptorius connected 23-02-2020 21:49:30
+20-02-23 21:49:33  Net - [PuM]PraetorianRaptorius disconnected 23-02-2020 21:49:33
+20-02-23 21:49:36  Net - [PuM]PraetorianRaptorius connected 23-02-2020 21:49:36
+20-02-23 21:52:10  Net - sT.- YnGwi3 connected 23-02-2020 21:52:10
+20-02-23 21:55:42  Net - sk!T.HughscL connected 23-02-2020 21:55:42
+20-02-23 21:55:45  Net - sk!T.HughscL connected 23-02-2020 21:55:45
+20-02-23 21:55:48  Net - sk!T.HughscL connected 23-02-2020 21:55:48
+20-02-23 21:55:50  Net - sk!T.mipHo connected 23-02-2020 21:55:50
+20-02-23 21:55:50  Net - sk!T.mipHo disconnected 23-02-2020 21:55:50
+20-02-23 22:07:57  Net - [PuM] EspinX disconnected 23-02-2020 22:07:57
+20-02-23 22:07:58  Net - F4ll.cL disconnected 23-02-2020 22:07:58
+20-02-23 22:07:59  Net - LB ~ Skipo.cL disconnected 23-02-2020 22:07:59
+20-02-23 22:07:59  Net - [PuM]PraetorianRaptorius disconnected 23-02-2020 22:07:59
+20-02-23 22:08:00  Net - sk!T.HughscL disconnected 23-02-2020 22:08:00
+20-02-23 22:08:01  Net - #KbN! Shaka Chile disconnected 23-02-2020 22:08:01
+20-02-23 22:08:02  Net - sk!T.kael disconnected 23-02-2020 22:08:02
+20-02-23 22:08:02  Net - [PuM] Strider disconnected 23-02-2020 22:08:02
+20-02-23 22:08:03  Net - sk!T.LinkcL disconnected 23-02-2020 22:08:03
+20-02-23 22:08:38 TCP/IP File Server started
+20-02-23 22:18:06  Net - sT.- YnGwi3 disconnected 23-02-2020 22:18:06
+20-02-23 22:22:37  Net - #KbN! chub0 connected 23-02-2020 22:22:37
+20-02-23 22:22:45  Net - #KbN! Nitho connected 23-02-2020 22:22:45
+20-02-23 22:22:52  Net - #KbN! chub0 disconnected 23-02-2020 22:22:52
+20-02-23 22:22:53  Net - #KbN! ChronoCL connected 23-02-2020 22:22:53
+20-02-23 22:22:57  Net - #KbN! Nitho disconnected 23-02-2020 22:22:57
+20-02-23 22:23:00  Net - #KbN! Nitho connected 23-02-2020 22:23:00
+20-02-23 22:23:13  Net - #KbN! chub0 connected 23-02-2020 22:23:13
+20-02-23 22:23:21  Net - #KbN! chub0 disconnected 23-02-2020 22:23:21
+20-02-23 22:23:25  Net - #KbN! chub0 connected 23-02-2020 22:23:25
+20-02-23 22:23:29  Net - Zorro Espectador connected 23-02-2020 22:23:29
+20-02-23 22:24:02  Net - Zorro Espectador connected 23-02-2020 22:24:02
+20-02-23 22:24:08  Net - #KbN! chub0 connected 23-02-2020 22:24:08

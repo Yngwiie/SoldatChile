@@ -1,0 +1,13 @@
+20-05-04 16:10:02    Log Started
+20-05-04 16:10:02 Opened /home/kader_b/Publico/soldat.ini
+20-05-04 16:10:02 Creating network interface.
+20-05-04 16:10:02 Loading Animations.
+20-05-04 16:10:02 Loading Lobby Servers List
+20-05-04 16:10:02 Loading Maps List
+20-05-04 16:10:02 Loading Map.
+20-05-04 16:10:02 Creating Weapons.
+20-05-04 16:10:02 Starting Game Server.
+20-05-04 16:10:02 TCP/IP File Server started
+20-05-04 16:13:38  Net - |R| Verde connected 4-5-20 16:13:38
+20-05-04 16:13:41 Destroying Devices.
+20-05-04 16:13:41    End of Log.

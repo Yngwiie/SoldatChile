@@ -1,0 +1,35 @@
+20-04-24 05:10:49    Log Started
+20-04-24 05:10:49 Opened /home/kader_b/int3/soldat.ini
+20-04-24 05:10:49 Creating network interface.
+20-04-24 05:10:49 Loading Animations.
+20-04-24 05:10:49 Loading Lobby Servers List
+20-04-24 05:10:49 Loading Maps List
+20-04-24 05:10:49 Loading Map.
+20-04-24 05:10:49 Creating Weapons.
+20-04-24 05:10:49 Starting Game Server.
+20-04-24 05:10:49 TCP/IP File Server started
+20-04-24 05:40:50 TCP/IP File Server started
+20-04-24 06:10:50 TCP/IP File Server started
+20-04-24 06:40:50 TCP/IP File Server started
+20-04-24 07:10:50 TCP/IP File Server started
+20-04-24 07:40:50 TCP/IP File Server started
+20-04-24 08:10:50 TCP/IP File Server started
+20-04-24 08:40:50 TCP/IP File Server started
+20-04-24 09:10:50 TCP/IP File Server started
+20-04-24 09:40:50 TCP/IP File Server started
+20-04-24 10:10:50 TCP/IP File Server started
+20-04-24 10:40:50 TCP/IP File Server started
+20-04-24 11:10:50 TCP/IP File Server started
+20-04-24 11:40:50 TCP/IP File Server started
+20-04-24 12:10:50 TCP/IP File Server started
+20-04-24 12:40:50 TCP/IP File Server started
+20-04-24 13:10:50 TCP/IP File Server started
+20-04-24 13:40:50 TCP/IP File Server started
+20-04-24 14:10:50 TCP/IP File Server started
+20-04-24 14:40:50 TCP/IP File Server started
+20-04-24 15:10:50 TCP/IP File Server started
+20-04-24 15:40:50 TCP/IP File Server started
+20-04-24 16:10:50 TCP/IP File Server started
+20-04-24 16:40:50 TCP/IP File Server started
+20-04-24 17:07:43 Destroying Devices.
+20-04-24 17:07:44    End of Log.

@@ -1,0 +1,12 @@
+20-04-04 17:44:59    Log Started
+20-04-04 17:44:59 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-04 17:44:59 Creating network interface.
+20-04-04 17:44:59 Loading Animations.
+20-04-04 17:44:59 Loading Lobby Servers List
+20-04-04 17:44:59 Loading Maps List
+20-04-04 17:44:59 Loading Map.
+20-04-04 17:44:59 Creating Weapons.
+20-04-04 17:44:59 Starting Game Server.
+20-04-04 17:44:59 TCP/IP File Server started
+20-04-04 17:45:12  Net - LB ~ Sadiko connected 04-04-2020 17:45:12
+20-04-04 17:45:14  Net - LB ~ Sadiko disconnected 04-04-2020 17:45:14

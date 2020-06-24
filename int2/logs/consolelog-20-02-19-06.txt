@@ -1,0 +1,213 @@
+20-02-19 07:24:01    Console Log Started
+20-02-19 07:24:01 Welcome to Soldat 1.7.1
+20-02-19 07:24:01  [*] Preparing scripts to be launched
+20-02-19 07:24:01  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-19 07:24:01  [*] commands_by_keen compiled
+20-02-19 07:24:01  [*] Compiling match -> match.pas...
+20-02-19 07:24:01  [*] match compiled
+20-02-19 07:24:01  [*] Done
+20-02-19 07:24:01 ctf_Ash by chakapoko maker
+20-02-19 07:24:01  Connection for file server started. Port: 23110
+20-02-19 07:24:01 Registering server @ 88.99.234.252
+20-02-19 07:24:13 190.107.226.37:18598|2CAF32344FB requesting game...
+20-02-19 07:24:16 |X.Forc3|.Prueba joining game (190.107.226.37:18598) HWID:2CAF32344FB
+20-02-19 07:24:16 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:24:29 |X.Forc3|.Prueba tried to login as Game Admin with bad password
+20-02-19 07:24:38 |X.Forc3|.Prueba added to Game Admins
+20-02-19 07:24:41 http://localhost/mreporter/api/setData/1/scl/partido/1
+20-02-19 07:24:41  [*] [Error] match -> OnCommand(34:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:24:41 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:26:48 221.125.7.98:23073|3A9303DAFA1 requesting game...
+20-02-19 07:26:50 221.125.7.98:23073|3A9303DAFA1 requesting game...
+20-02-19 07:26:53 http://localhost/mreporter/api/setData/1/scl/partido/1,2
+20-02-19 07:26:53  [*] [Error] match -> OnCommand(34:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:26:53 /mr 1,2(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:28:19 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:28:35 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:29:01 Time Left: 5 minutes
+20-02-19 07:30:01 Time Left: 4 minutes
+20-02-19 07:31:01 Time Left: 3 minutes
+20-02-19 07:31:24 /map ctf_Viet(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:31:30 Viet
+20-02-19 07:34:30 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:34:30 Server password changed to scl
+20-02-19 07:36:29 Time Left: 5 minutes
+20-02-19 07:37:29 Time Left: 4 minutes
+20-02-19 07:38:29 Time Left: 3 minutes
+20-02-19 07:39:29 Time Left: 2 minutes
+20-02-19 07:40:29 Time Left: 1 minutes
+20-02-19 07:41:29 Next map: ctf_B2b
+20-02-19 07:41:35 B2B
+20-02-19 07:46:35 Time Left: 5 minutes
+20-02-19 07:47:35 Time Left: 4 minutes
+20-02-19 07:48:35 Time Left: 3 minutes
+20-02-19 07:49:16 190.107.226.37:18599|2CAF32344FB requesting game...
+20-02-19 07:49:35 Time Left: 2 minutes
+20-02-19 07:49:45 |X.Forc3|.Prueba joining game (190.107.226.37:18599) HWID:2CAF32344FB
+20-02-19 07:49:45 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:49:45 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:49:45 Server password changed to scl
+20-02-19 07:50:02 190.107.226.37:18599|2CAF32344FB requesting game...
+20-02-19 07:50:05 |X.Forc3|.Prueba joining game (190.107.226.37:18599) HWID:2CAF32344FB
+20-02-19 07:50:05 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:50:14 http://localhost/mreporter/api/setData/1/scl/partido/1
+20-02-19 07:50:19 /mr 1(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:50:39 http://localhost/mreporter/api/setData/1/scl/partido/2,3
+20-02-19 07:50:39 /mr 2,3(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:50:40 Time Left: 1 minutes
+20-02-19 07:51:40 Next map: ctf_Blade
+20-02-19 07:51:46 Blade by Zakath
+20-02-19 07:54:48 http://localhost/mreporter/api/setData/1/scl/partido/1/5,6
+20-02-19 07:54:48 /mr 1/5,6(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:54:49 |X.Forc3|.Prueba has left alpha team.
+20-02-19 07:54:49 Server password changed to scl
+20-02-19 07:54:54 190.107.226.37:18599|2CAF32344FB requesting game...
+20-02-19 07:54:56 |X.Forc3|.Prueba joining game (190.107.226.37:18599) HWID:2CAF32344FB
+20-02-19 07:54:56 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 07:55:09 http://localhost/mreporter/api/setData/1/scl/partido/1/5,6
+20-02-19 07:55:09 /mr 1/5,6(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:55:23 http://localhost/mreporter/api/setData/1/scl/partido/1/6,7
+20-02-19 07:55:23 /mr 1/6,7(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:55:32 http://localhost/mreporter/api/setData/1/scl/partido/1/7,8
+20-02-19 07:55:32 /mr 1/7,8(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:55:49 http://localhost/mreporter/api/setData/1/scl/partido/1/2,3
+20-02-19 07:55:50  [*] [Error] match -> OnCommand(34:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 07:55:50 /mr 1/2,3(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:56:14 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:56:46 Time Left: 5 minutes
+20-02-19 07:56:50 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 07:57:46 Time Left: 4 minutes
+20-02-19 07:57:47 http://localhost/mreporter/api/setData/1/scl/partido/2/4,5
+20-02-19 07:57:47 /mr 2/4,5(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:58:39 http://localhost/mreporter/api/setData/1/scl/partido/2/4,5
+20-02-19 07:58:39 /mr 2/4,5(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 07:58:46 Time Left: 3 minutes
+20-02-19 07:59:09 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:59:27 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 07:59:41 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 07:59:46 Time Left: 2 minutes
+20-02-19 07:59:56 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 08:00:10 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:00:23 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 08:00:46 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:00:46 Time Left: 1 minutes
+20-02-19 08:00:58 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 08:01:17 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:01:29 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 08:01:43 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:01:46 Next map: ctf_Viet
+20-02-19 08:01:51 Viet
+20-02-19 08:01:57 http://localhost/mreporter/api/setData/1/scl/partido/2/4,5
+20-02-19 08:01:58  [*] [Error] match -> OnCommand(34:5) Exception: HTTP/1.1 500 Internal Server Error
+20-02-19 08:01:58 /mr 2/4,5(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 08:03:37 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:03:53 |X.Forc3|.Prueba scores for Alpha Team
+20-02-19 08:04:06 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:04:42 http://localhost/mreporter/api/setData/1/scl/partido/2/4,5
+20-02-19 08:04:45 /mr 2/4,5(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 08:05:05 http://localhost/mreporter/api/setData/1/scl/partido/1/6,7
+20-02-19 08:05:05 /mr 1/6,7(190.107.226.37[|X.Forc3|.Prueba])
+20-02-19 08:06:58 Time Left: 5 minutes
+20-02-19 08:07:25 |X.Forc3|.Prueba has left alpha team.
+20-02-19 08:07:25 Server password changed to scl
+20-02-19 08:07:58 Time Left: 4 minutes
+20-02-19 08:08:58 Time Left: 3 minutes
+20-02-19 08:09:08 190.107.226.37:18599|2CAF32344FB requesting game...
+20-02-19 08:09:12 |X.Forc3|.Prueba joining game (190.107.226.37:18599) HWID:2CAF32344FB
+20-02-19 08:09:12 |X.Forc3|.Prueba has joined alpha team.
+20-02-19 08:09:26 83.20.234.101:33405|F719FD6AC1E requesting game...
+20-02-19 08:09:33 |X.Forc3|.Prueba captured the Blue Flag
+20-02-19 08:09:58 Time Left: 2 minutes
+20-02-19 08:10:31 |X.Forc3|.Prueba has left alpha team.
+20-02-19 08:10:31 Server password changed to scl
+20-02-19 08:10:58 Time Left: 1 minutes
+20-02-19 08:11:58 Next map: ctf_Division
+20-02-19 08:12:03 Division by Boxo, KC, viral
+20-02-19 08:17:03 Time Left: 5 minutes
+20-02-19 08:18:03 Time Left: 4 minutes
+20-02-19 08:19:03 Time Left: 3 minutes
+20-02-19 08:20:03 Time Left: 2 minutes
+20-02-19 08:21:03 Time Left: 1 minutes
+20-02-19 08:22:03 Next map: ctf_Death
+20-02-19 08:22:09 Death by MM, g_d. Boxo, mtk`
+20-02-19 08:27:09 Time Left: 5 minutes
+20-02-19 08:28:09 Time Left: 4 minutes
+20-02-19 08:29:09 Time Left: 3 minutes
+20-02-19 08:30:09 Time Left: 2 minutes
+20-02-19 08:31:09 Time Left: 1 minutes
+20-02-19 08:32:09 Next map: ctf_Hormone
+20-02-19 08:32:14 Hormone by Metsänaperot
+20-02-19 08:37:14 Time Left: 5 minutes
+20-02-19 08:38:14 Time Left: 4 minutes
+20-02-19 08:39:14 Time Left: 3 minutes
+20-02-19 08:40:14 Time Left: 2 minutes
+20-02-19 08:41:14 Time Left: 1 minutes
+20-02-19 08:42:14 Next map: ctf_Laos
+20-02-19 08:42:19 Laos
+20-02-19 08:47:19 Time Left: 5 minutes
+20-02-19 08:48:19 Time Left: 4 minutes
+20-02-19 08:49:19 Time Left: 3 minutes
+20-02-19 08:50:19 Time Left: 2 minutes
+20-02-19 08:51:19 Time Left: 1 minutes
+20-02-19 08:52:19 Next map: ctf_Laos2
+20-02-19 08:52:25 Laos
+20-02-19 08:57:25 Time Left: 5 minutes
+20-02-19 08:58:25 Time Left: 4 minutes
+20-02-19 08:59:25 Time Left: 3 minutes
+20-02-19 09:00:25 Time Left: 2 minutes
+20-02-19 09:01:25 Time Left: 1 minutes
+20-02-19 09:02:25 Next map: ctf_Maya
+20-02-19 09:02:30 Maya
+20-02-19 09:07:30 Time Left: 5 minutes
+20-02-19 09:08:30 Time Left: 4 minutes
+20-02-19 09:09:30 Time Left: 3 minutes
+20-02-19 09:10:30 Time Left: 2 minutes
+20-02-19 09:11:30 Time Left: 1 minutes
+20-02-19 09:12:30 Next map: ctf_MFM
+20-02-19 09:12:35 MFM 2 by mar77a
+20-02-19 09:17:35 Time Left: 5 minutes
+20-02-19 09:18:35 Time Left: 4 minutes
+20-02-19 09:19:35 Time Left: 3 minutes
+20-02-19 09:20:35 Time Left: 2 minutes
+20-02-19 09:21:35 Time Left: 1 minutes
+20-02-19 09:22:35 Next map: ctf_Run
+20-02-19 09:22:41 Run
+20-02-19 09:27:41 Time Left: 5 minutes
+20-02-19 09:28:41 Time Left: 4 minutes
+20-02-19 09:29:41 Time Left: 3 minutes
+20-02-19 09:30:41 Time Left: 2 minutes
+20-02-19 09:31:41 Time Left: 1 minutes
+20-02-19 09:32:41 Next map: ctf_OldRun
+20-02-19 09:32:46 Run (get to the flag!)
+20-02-19 09:37:46 Time Left: 5 minutes
+20-02-19 09:38:46 Time Left: 4 minutes
+20-02-19 09:39:46 Time Left: 3 minutes
+20-02-19 09:40:46 Time Left: 2 minutes
+20-02-19 09:41:09 190.107.226.37:19285|696908AC8E7 requesting game...
+20-02-19 09:41:11 |D.Forc3|.Turko joining game (190.107.226.37:19285) HWID:696908AC8E7
+20-02-19 09:41:11 |D.Forc3|.Turko has joined alpha team.
+20-02-19 09:41:29 |D.Forc3|.Turko captured the Blue Flag
+20-02-19 09:41:46 Time Left: 1 minutes
+20-02-19 09:41:46 |D.Forc3|.Turko scores for Alpha Team
+20-02-19 09:41:52 [|D.Forc3|.Turko] !nextmap
+20-02-19 09:41:52 Next map: ctf_Ash
+20-02-19 09:41:58 ctf_Ash by chakapoko maker
+20-02-19 09:42:05 |D.Forc3|.Turko has left alpha team.
+20-02-19 09:42:05 Server password changed to scl
+20-02-19 09:46:57 Time Left: 5 minutes
+20-02-19 09:47:57 Time Left: 4 minutes
+20-02-19 09:48:57 Time Left: 3 minutes
+20-02-19 09:49:57 Time Left: 2 minutes
+20-02-19 09:50:58 Time Left: 1 minutes
+20-02-19 09:51:57 Next map: ctf_B2b
+20-02-19 09:52:03 B2B
+20-02-19 09:57:03 Time Left: 5 minutes
+20-02-19 09:58:03 Time Left: 4 minutes
+20-02-19 09:59:03 Time Left: 3 minutes
+20-02-19 10:00:03 Time Left: 2 minutes
+20-02-19 10:01:03 Time Left: 1 minutes
+20-02-19 10:02:03 Next map: ctf_Blade
+20-02-19 10:02:08 Blade by Zakath
+20-02-19 10:03:36 Shutting down server...
+20-02-19 10:03:36 Shutting down FileServer...
+20-02-19 10:03:36 Shutting down admin server...

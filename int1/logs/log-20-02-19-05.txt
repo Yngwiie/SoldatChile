@@ -1,0 +1,21 @@
+20-02-19 07:04:02    Log Started
+20-02-19 07:04:02 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-02-19 07:04:02 Creating network interface.
+20-02-19 07:04:02 Loading Animations.
+20-02-19 07:04:02 Loading Lobby Servers List
+20-02-19 07:04:02 Loading Maps List
+20-02-19 07:04:02 Loading Map.
+20-02-19 07:04:05 Creating Weapons.
+20-02-19 07:04:05 Starting Game Server.
+20-02-19 07:04:05 TCP/IP File Server started
+20-02-19 07:04:22  Net - |X.Forc3|.Prueba connected 19-02-2020 7:04:22
+20-02-19 07:07:48  Net - Admiral connected 19-02-2020 7:07:48
+20-02-19 07:07:54  Net - Sniper connected 19-02-2020 7:07:54
+20-02-19 07:13:46  Net - |X.Forc3|.Prueba disconnected 19-02-2020 7:13:46
+20-02-19 07:19:53  Net - |X.Forc3|.Prueba connected 19-02-2020 7:19:53
+20-02-19 07:22:35  Net - |X.Forc3|.Prueba disconnected 19-02-2020 7:22:35
+20-02-19 07:22:38  Net - |X.Forc3|.Prueba connected 19-02-2020 7:22:38
+20-02-19 07:22:49  Net - |X.Forc3|.Prueba disconnected 19-02-2020 7:22:49
+20-02-19 07:23:05  Net - |X.Forc3|.Prueba connected 19-02-2020 7:23:05
+20-02-19 07:23:59 Destroying Devices.
+20-02-19 07:23:59    End of Log.

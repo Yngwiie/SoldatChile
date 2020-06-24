@@ -1,0 +1,8 @@
+20-02-12 09:15:03    Log Started
+20-02-12 09:15:03 Opened C:\Users\Administrador\Downloads\Privado1\soldat.ini
+20-02-12 09:15:03 Creating network interface.
+20-02-12 09:15:03 Loading Animations.
+20-02-12 09:15:03 Loading Lobby Servers List
+20-02-12 09:15:03 Loading Maps List
+20-02-12 09:15:03 Destroying Devices.
+20-02-12 09:15:03    End of Log.

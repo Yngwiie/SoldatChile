@@ -1,0 +1,33 @@
+20-04-15 10:05:10    Log Started
+20-04-15 10:05:10 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-15 10:05:10 Creating network interface.
+20-04-15 10:05:10 Loading Animations.
+20-04-15 10:05:10 Loading Lobby Servers List
+20-04-15 10:05:10 Loading Maps List
+20-04-15 10:05:10 Loading Map.
+20-04-15 10:05:10 Creating Weapons.
+20-04-15 10:05:10 Starting Game Server.
+20-04-15 10:05:10 TCP/IP File Server started
+20-04-15 10:07:26  Net - |X.Forc3|.Turko connected 15-04-2020 10:07:26
+20-04-15 10:07:30  Net - |X.Forc3|.Turko connected 15-04-2020 10:07:30
+20-04-15 10:07:39  Net - |X.Forc3|.Turko disconnected 15-04-2020 10:07:39
+20-04-15 10:08:03  Net - |X.Forc3|.Turko connected 15-04-2020 10:08:03
+20-04-15 10:08:04  Net - |X.Forc3|.Turko connected 15-04-2020 10:08:04
+20-04-15 16:20:21  Net - |X.Forc3|.Turko disconnected 15-04-2020 16:20:21
+20-04-15 16:25:20  Net - |X.Forc3|.Turko connected 15-04-2020 16:25:20
+20-04-15 16:25:23  Net - |X.Forc3|.Turko disconnected 15-04-2020 16:25:23
+20-04-15 16:25:41  Net - |X.Forc3|.Turko connected 15-04-2020 16:25:41
+20-04-15 16:25:44  Net - |X.Forc3|.Turko connected 15-04-2020 16:25:44
+20-04-15 16:26:39  Net - |D.Forc3|.LinkirD connected 15-04-2020 16:26:39
+20-04-15 16:26:42  Net - |D.Forc3|.LinkirD connected 15-04-2020 16:26:42
+20-04-15 16:27:42  Net - |X.Forc3|.Turko disconnected 15-04-2020 16:27:42
+20-04-15 16:27:57  Net - |X.Forc3|.Turko connected 15-04-2020 16:27:57
+20-04-15 16:27:59  Net - |X.Forc3|.Turko connected 15-04-2020 16:27:59
+20-04-15 16:29:28  Net - |X.Forc3|.Turko disconnected 15-04-2020 16:29:28
+20-04-15 16:31:25  Net - |D.Forc3|.LinkirD disconnected 15-04-2020 16:31:25
+20-04-15 16:35:27 TCP/IP File Server started
+20-04-15 10:46:45  Net - |D.Forc3|.LinkirD connected 15-04-2020 10:46:45
+20-04-15 10:46:47  Net - |D.Forc3|.LinkirD disconnected 15-04-2020 10:46:47
+20-04-15 11:05:28 TCP/IP File Server started
+20-04-15 11:12:27 Destroying Devices.
+20-04-15 11:12:27    End of Log.

@@ -1,0 +1,360 @@
+20-06-04 03:06:34    Log Started
+20-06-04 03:06:34 Opened /home/kader_b/int1/soldat.ini
+20-06-04 03:06:36  Net - CHILE5 - SenzacL* disconnected 4-6-20 03:06:36
+20-06-04 03:06:47  Net - later Maaxis* (New guy) disconnected 4-6-20 03:06:47
+20-06-04 03:06:52  Net - later Maaxis* (New guy) connected 4-6-20 03:06:52
+20-06-04 03:06:55  Net - later Maaxis* (New guy) connected 4-6-20 03:06:55
+20-06-04 03:06:57  Net - later Maaxis* (New guy) disconnected 4-6-20 03:06:57
+20-06-04 03:06:59  Net - sT>:  SenzacL* connected 4-6-20 03:06:59
+20-06-04 03:07:05  Net - sT>:  SenzacL* disconnected 4-6-20 03:07:05
+20-06-04 03:07:05  Net - XRe1ch|Pirlinho connected 4-6-20 03:07:05
+20-06-04 03:07:13  Net - sT#'  SenzacL* connected 4-6-20 03:07:13
+20-06-04 03:07:17  Net - sT#'  SenzacL* disconnected 4-6-20 03:07:17
+20-06-04 03:07:20  Net - sT#' Maaxis* (New guy) connected 4-6-20 03:07:20
+20-06-04 03:07:22  Net - sT#' SenzacL* connected 4-6-20 03:07:22
+20-06-04 03:08:55  Net - Chaky disconnected 4-6-20 03:08:55
+20-06-04 03:08:59  Net - XRe1ch|CWe1C disconnected 4-6-20 03:08:59
+20-06-04 03:15:47  Net - sT#' SenzacL* disconnected 4-6-20 03:15:47
+20-06-04 03:16:00  Net - sT#' SenzacL* connected 4-6-20 03:16:00
+20-06-04 03:16:21  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:16:21
+20-06-04 03:16:23  Net - Lq$.-WARFAR3 connected 4-6-20 03:16:23
+20-06-04 03:19:11  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:19:11
+20-06-04 03:20:14  Net - Lq$.-WARFAR3 connected 4-6-20 03:20:14
+20-06-04 03:20:22  Net - sT#' SenzacL* disconnected 4-6-20 03:20:22
+20-06-04 03:20:32  Net - sT#' SenzacL* connected 4-6-20 03:20:32
+20-06-04 03:20:38 TCP/IP File Server started
+20-06-04 03:20:43  Net - sT#' SenzacL* disconnected 4-6-20 03:20:43
+20-06-04 03:20:45  Net - sT#' SenzacL* connected 4-6-20 03:20:45
+20-06-04 03:21:28  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:21:28
+20-06-04 03:21:34  Net - Lq$.-WARFAR3 connected 4-6-20 03:21:34
+20-06-04 03:31:50  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:31:50
+20-06-04 03:32:00  Net - sT#' SenzacL* disconnected 4-6-20 03:32:00
+20-06-04 03:32:02  Net - Lq$.-WARFAR3 connected 4-6-20 03:32:02
+20-06-04 03:32:08  Net - sT#' SenzacL* connected 4-6-20 03:32:08
+20-06-04 03:32:55  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:32:55
+20-06-04 03:32:55  Net - sT#' SenzacL* connected 4-6-20 03:32:55
+20-06-04 03:33:02  Net - Lq$.-WARFAR3 connected 4-6-20 03:33:02
+20-06-04 03:33:02  Net - sT#' SenzacL* disconnected 4-6-20 03:33:02
+20-06-04 03:33:49  Net - sT#' SenzacL* connected 4-6-20 03:33:49
+20-06-04 03:39:26  Net - XRe1ch|Pirlinho disconnected 4-6-20 03:39:26
+20-06-04 03:39:28  Net - XRe1ch|Pirlinho connected 4-6-20 03:39:28
+20-06-04 03:39:46  Net - PWR|URANIO 235 connected 4-6-20 03:39:46
+20-06-04 03:39:51  Net - PWR|URANIO 235 disconnected 4-6-20 03:39:51
+20-06-04 03:45:14  Net - Lq$.-WARFAR3 disconnected 4-6-20 03:45:14
+20-06-04 03:45:14  Net - sT#' YnGwi3 disconnected 4-6-20 03:45:14
+20-06-04 03:45:16  Net - dsf o xr? disconnected 4-6-20 03:45:16
+20-06-04 03:45:18  Net - sT#' SenzacL* disconnected 4-6-20 03:45:18
+20-06-04 03:45:23  Net - sT#' Maaxis* (New guy) disconnected 4-6-20 03:45:23
+20-06-04 03:45:38  Net - XRe1ch|KillMe!* disconnected 4-6-20 03:45:38
+20-06-04 03:45:40  Net - XRe1ch|Pirlinho disconnected 4-6-20 03:45:40
+20-06-04 03:46:17  Net - XRe1ch|Pirlinho connected 4-6-20 03:46:17
+20-06-04 03:46:35  Net - #1 Mand3s connected 4-6-20 03:46:35
+20-06-04 03:46:42  Net - sT#' Maaxis* (New guy) connected 4-6-20 03:46:42
+20-06-04 03:46:50  Net - R.S.F/KorN connected 4-6-20 03:46:50
+20-06-04 03:47:23  Net - Mota connected 4-6-20 03:47:23
+20-06-04 03:47:32  Net - Mota connected 4-6-20 03:47:32
+20-06-04 03:47:39  Net - XRe1ch|KillMe!* connected 4-6-20 03:47:39
+20-06-04 03:48:17  Net - 10-1 icebeam team connected 4-6-20 03:48:17
+20-06-04 03:48:20  Net - 10-1 icebeam team connected 4-6-20 03:48:20
+20-06-04 03:48:42  Net - R.S.F/KorN(1) connected 4-6-20 03:48:42
+20-06-04 03:49:08  Net - R.S.F/KorN disconnected 4-6-20 03:49:08
+20-06-04 03:50:38 TCP/IP File Server started
+20-06-04 04:00:30  Net - Mota disconnected 4-6-20 04:00:30
+20-06-04 04:01:45  Net - <lawshoit.forc3>.Turko connected 4-6-20 04:01:45
+20-06-04 04:02:27  Net - <lawshoit.forc3>.Turko disconnected 4-6-20 04:02:27
+20-06-04 04:04:01  Net - sT#' Maaxis* (New guy) disconnected 4-6-20 04:04:01
+20-06-04 04:04:08  Net - sT#' Maaxis* (New guy) connected 4-6-20 04:04:08
+20-06-04 04:20:36  Net - Randy Nota LOKA connected 4-6-20 04:20:36
+20-06-04 04:20:38 TCP/IP File Server started
+20-06-04 04:21:51  Net - Randy Nota LOKA disconnected 4-6-20 04:21:51
+20-06-04 04:22:05  Net - XRe1ch|KillMe!* disconnected 4-6-20 04:22:05
+20-06-04 04:22:08  Net - #1 Mand3s disconnected 4-6-20 04:22:08
+20-06-04 04:22:08  Net - 10-1 icebeam team disconnected 4-6-20 04:22:08
+20-06-04 04:22:10  Net - sT#' Maaxis* (New guy) disconnected 4-6-20 04:22:10
+20-06-04 04:22:10  Net - R.S.F/KorN(1) disconnected 4-6-20 04:22:10
+20-06-04 04:22:15  Net - XRe1ch|Pirlinho disconnected 4-6-20 04:22:15
+20-06-04 04:50:38 TCP/IP File Server started
+20-06-04 05:20:38 TCP/IP File Server started
+20-06-04 05:50:38 TCP/IP File Server started
+20-06-04 06:20:38 TCP/IP File Server started
+20-06-04 06:50:38 TCP/IP File Server started
+20-06-04 07:20:38 TCP/IP File Server started
+20-06-04 07:50:38 TCP/IP File Server started
+20-06-04 08:20:38 TCP/IP File Server started
+20-06-04 08:50:38 TCP/IP File Server started
+20-06-04 09:20:38 TCP/IP File Server started
+20-06-04 09:50:38 TCP/IP File Server started
+20-06-04 10:20:38 TCP/IP File Server started
+20-06-04 10:50:38 TCP/IP File Server started
+20-06-04 11:20:38 TCP/IP File Server started
+20-06-04 11:50:38 TCP/IP File Server started
+20-06-04 12:20:38 TCP/IP File Server started
+20-06-04 12:50:38 TCP/IP File Server started
+20-06-04 13:20:38 TCP/IP File Server started
+20-06-04 13:50:38 TCP/IP File Server started
+20-06-04 14:20:38 TCP/IP File Server started
+20-06-04 14:50:38 TCP/IP File Server started
+20-06-04 15:20:38 TCP/IP File Server started
+20-06-04 15:50:38 TCP/IP File Server started
+20-06-04 16:20:38 TCP/IP File Server started
+20-06-04 16:50:38 TCP/IP File Server started
+20-06-04 17:20:38 TCP/IP File Server started
+20-06-04 17:50:38 TCP/IP File Server started
+20-06-04 18:20:38 TCP/IP File Server started
+20-06-04 18:50:38 TCP/IP File Server started
+20-06-04 19:20:38 TCP/IP File Server started
+20-06-04 19:50:38 TCP/IP File Server started
+20-06-04 20:20:38 TCP/IP File Server started
+20-06-04 20:50:38 TCP/IP File Server started
+20-06-04 21:20:38 TCP/IP File Server started
+20-06-04 21:50:38 TCP/IP File Server started
+20-06-04 22:20:38 TCP/IP File Server started
+20-06-04 22:50:38 TCP/IP File Server started
+20-06-04 23:20:38 TCP/IP File Server started
+20-06-04 23:50:38 TCP/IP File Server started
+20-06-05 00:20:38 TCP/IP File Server started
+20-06-05 00:50:38 TCP/IP File Server started
+20-06-05 01:20:38 TCP/IP File Server started
+20-06-05 01:50:38 TCP/IP File Server started
+20-06-05 01:54:31  Net - Rynor.- connected 5-6-20 01:54:31
+20-06-05 01:54:33  Net - Rynor.- disconnected 5-6-20 01:54:33
+20-06-05 01:56:11  Net - LeprosycL connected 5-6-20 01:56:11
+20-06-05 01:56:14  Net - LeprosycL disconnected 5-6-20 01:56:14
+20-06-05 02:20:38 TCP/IP File Server started
+20-06-05 02:50:38 TCP/IP File Server started
+20-06-05 02:58:40  Net - Chil3+ Ultr4 connected 5-6-20 02:58:40
+20-06-05 02:58:43  Net - Chil3+ Ultr4 disconnected 5-6-20 02:58:43
+20-06-05 02:58:56  Net - XRe1ch|Pirlinho connected 5-6-20 02:58:56
+20-06-05 02:59:31  Net - sT#' SenzacL* connected 5-6-20 02:59:31
+20-06-05 03:01:39  Net - sT#' YnGwi3 connected 5-6-20 03:01:39
+20-06-05 03:02:08  Net - Warfar3.- connected 5-6-20 03:02:08
+20-06-05 03:04:11  Net - Warfar3.- disconnected 5-6-20 03:04:11
+20-06-05 03:04:36  Net - Warfar3.- connected 5-6-20 03:04:36
+20-06-05 03:04:51  Net - Warfar3.- disconnected 5-6-20 03:04:51
+20-06-05 03:05:20  Net - XRe1ch|CWe1C connected 5-6-20 03:05:20
+20-06-05 03:05:32  Net - Warfar3.- connected 5-6-20 03:05:32
+20-06-05 03:05:35  Net - |L.Forc3|Mota connected 5-6-20 03:05:35
+20-06-05 03:07:15  Net - Warfar3.- disconnected 5-6-20 03:07:15
+20-06-05 03:07:40  Net - XRe1ch|CWe1C disconnected 5-6-20 03:07:40
+20-06-05 03:08:31  Net - sT#' YnGwi3 disconnected 5-6-20 03:08:31
+20-06-05 03:08:32  Net - sT#' SenzacL* disconnected 5-6-20 03:08:32
+20-06-05 03:08:35  Net - XRe1ch|Pirlinho disconnected 5-6-20 03:08:35
+20-06-05 03:09:18  Net - |L.Forc3|Mota disconnected 5-6-20 03:09:18
+20-06-05 03:20:43 TCP/IP File Server started
+20-06-05 03:50:42 TCP/IP File Server started
+20-06-05 04:20:42 TCP/IP File Server started
+20-06-05 04:50:42 TCP/IP File Server started
+20-06-05 05:20:42 TCP/IP File Server started
+20-06-05 05:50:42 TCP/IP File Server started
+20-06-05 06:20:42 TCP/IP File Server started
+20-06-05 06:50:42 TCP/IP File Server started
+20-06-05 07:20:42 TCP/IP File Server started
+20-06-05 07:50:42 TCP/IP File Server started
+20-06-05 08:20:43 TCP/IP File Server started
+20-06-05 08:50:42 TCP/IP File Server started
+20-06-05 09:20:42 TCP/IP File Server started
+20-06-05 09:50:42 TCP/IP File Server started
+20-06-05 10:20:42 TCP/IP File Server started
+20-06-05 10:50:42 TCP/IP File Server started
+20-06-05 11:20:42 TCP/IP File Server started
+20-06-05 11:50:43 TCP/IP File Server started
+20-06-05 12:20:42 TCP/IP File Server started
+20-06-05 12:50:43 TCP/IP File Server started
+20-06-05 13:20:43 TCP/IP File Server started
+20-06-05 13:50:42 TCP/IP File Server started
+20-06-05 14:20:43 TCP/IP File Server started
+20-06-05 14:50:43 TCP/IP File Server started
+20-06-05 15:20:42 TCP/IP File Server started
+20-06-05 15:50:42 TCP/IP File Server started
+20-06-05 16:20:42 TCP/IP File Server started
+20-06-05 16:50:42 TCP/IP File Server started
+20-06-05 17:20:43 TCP/IP File Server started
+20-06-05 17:50:42 TCP/IP File Server started
+20-06-05 18:20:43 TCP/IP File Server started
+20-06-05 18:50:42 TCP/IP File Server started
+20-06-05 19:20:42 TCP/IP File Server started
+20-06-05 19:50:43 TCP/IP File Server started
+20-06-05 20:20:42 TCP/IP File Server started
+20-06-05 20:50:42 TCP/IP File Server started
+20-06-05 21:20:43 TCP/IP File Server started
+20-06-05 21:50:42 TCP/IP File Server started
+20-06-05 22:20:43 TCP/IP File Server started
+20-06-05 22:50:42 TCP/IP File Server started
+20-06-05 23:20:42 TCP/IP File Server started
+20-06-05 23:50:43 TCP/IP File Server started
+20-06-06 00:20:43 TCP/IP File Server started
+20-06-06 00:50:42 TCP/IP File Server started
+20-06-06 01:20:42 TCP/IP File Server started
+20-06-06 01:39:29  Net - #1 Mand3s connected 6-6-20 01:39:29
+20-06-06 01:39:48  Net - #1 Mand3s disconnected 6-6-20 01:39:48
+20-06-06 01:50:42 TCP/IP File Server started
+20-06-06 02:02:00  Net - Chil3+ Ultr4 connected 6-6-20 02:02:00
+20-06-06 02:03:00  Net - Chil3+ Ultr4 connected 6-6-20 02:03:00
+20-06-06 02:03:06  Net - Chil3+ Ultr4 disconnected 6-6-20 02:03:06
+20-06-06 02:03:14  Net - Pirlinho connected 6-6-20 02:03:14
+20-06-06 02:03:23  Net - Mercy connected 6-6-20 02:03:23
+20-06-06 02:03:26  Net - Mercy connected 6-6-20 02:03:26
+20-06-06 02:03:29  Net - Mercy connected 6-6-20 02:03:29
+20-06-06 02:03:37  Net - Mercy disconnected 6-6-20 02:03:37
+20-06-06 02:04:52  Net - Mercy connected 6-6-20 02:04:52
+20-06-06 02:06:32  Net - Mercy disconnected 6-6-20 02:06:32
+20-06-06 02:06:47  Net - Pirlinho disconnected 6-6-20 02:06:47
+20-06-06 02:20:50 TCP/IP File Server started
+20-06-06 02:33:50  Net - Mercy connected 6-6-20 02:33:50
+20-06-06 02:34:05  Net - Pirlinho connected 6-6-20 02:34:05
+20-06-06 02:34:44  Net - Mercy disconnected 6-6-20 02:34:44
+20-06-06 02:34:54  Net - Pirlinho disconnected 6-6-20 02:34:54
+20-06-06 02:50:50 TCP/IP File Server started
+20-06-06 03:01:18  Net - DRe1ch|CWe1C connected 6-6-20 03:01:18
+20-06-06 03:01:26  Net - DRe1ch|CWe1C connected 6-6-20 03:01:26
+20-06-06 03:01:40  Net - Pirlinho connected 6-6-20 03:01:40
+20-06-06 03:02:11  Net - sT#' SenzacL* connected 6-6-20 03:02:11
+20-06-06 03:02:21  Net - Pirlinho disconnected 6-6-20 03:02:21
+20-06-06 03:02:26  Net - DRe1ch|CWe1C disconnected 6-6-20 03:02:26
+20-06-06 03:02:30  Net - XRe1ch| Pirlinho connected 6-6-20 03:02:30
+20-06-06 03:02:44  Net - DRe1ch|CWe1C connected 6-6-20 03:02:44
+20-06-06 03:02:46  Net - DRe1ch|CWe1C connected 6-6-20 03:02:46
+20-06-06 03:03:08  Net - sT#' YnGwi3 connected 6-6-20 03:03:08
+20-06-06 03:03:09  Net - sT#' YnGwi3 connected 6-6-20 03:03:09
+20-06-06 03:03:37  Net - CHILE| Shuter connected 6-6-20 03:03:37
+20-06-06 03:05:38  Net - CHILE| Shuter connected 6-6-20 03:05:38
+20-06-06 03:06:22  Net - CHILE| Shuter connected 6-6-20 03:06:22
+20-06-06 03:07:49  Net - XRe1ch|Sadiko connected 6-6-20 03:07:49
+20-06-06 03:07:54  Net - DRe1ch|CWe1C disconnected 6-6-20 03:07:54
+20-06-06 03:08:05  Net - =X*R= CWe1C connected 6-6-20 03:08:05
+20-06-06 03:08:09  Net - =X*R= CWe1C connected 6-6-20 03:08:09
+20-06-06 03:20:50 TCP/IP File Server started
+20-06-06 03:28:03  Net - W3.- connected 6-6-20 03:28:03
+20-06-06 03:38:12  Net - W3.- disconnected 6-6-20 03:38:12
+20-06-06 03:39:31  Net - =X*R= CWe1C disconnected 6-6-20 03:39:31
+20-06-06 03:39:57  Net - =X*R= CWe1C connected 6-6-20 03:39:57
+20-06-06 03:40:01  Net - W3.- connected 6-6-20 03:40:01
+20-06-06 03:40:06  Net - =X*R= CWe1C connected 6-6-20 03:40:06
+20-06-06 03:40:18  Net - W3.- disconnected 6-6-20 03:40:18
+20-06-06 03:40:20  Net - W3.- connected 6-6-20 03:40:20
+20-06-06 03:42:57  Net - sT#' YnGwi3 disconnected 6-6-20 03:42:57
+20-06-06 03:43:00  Net - XRe1ch|Sadiko disconnected 6-6-20 03:43:00
+20-06-06 03:43:01  Net - W3.- disconnected 6-6-20 03:43:01
+20-06-06 03:43:02  Net - XRe1ch| Pirlinho disconnected 6-6-20 03:43:02
+20-06-06 03:43:02  Net - sT#' SenzacL* disconnected 6-6-20 03:43:02
+20-06-06 03:43:04  Net - CHILE| Shuter disconnected 6-6-20 03:43:04
+20-06-06 03:43:16  Net - =X*R= CWe1C disconnected 6-6-20 03:43:16
+20-06-06 03:50:50 TCP/IP File Server started
+20-06-06 04:20:50 TCP/IP File Server started
+20-06-06 04:50:50 TCP/IP File Server started
+20-06-06 05:20:50 TCP/IP File Server started
+20-06-06 05:46:57  Net - XRe1ch| Pirlinho connected 6-6-20 05:46:57
+20-06-06 05:48:06  Net - [UnK] WildR4P` connected 6-6-20 05:48:06
+20-06-06 05:50:50 TCP/IP File Server started
+20-06-06 06:19:28  Net - XRe1ch| Pirlinho disconnected 6-6-20 06:19:28
+20-06-06 06:19:36  Net - XRe1ch| Pirlinho connected 6-6-20 06:19:36
+20-06-06 06:19:53  Net - [UnK] WildR4P` disconnected 6-6-20 06:19:53
+20-06-06 06:20:50 TCP/IP File Server started
+20-06-06 06:21:15  Net - [UnK] WildR4P` connected 6-6-20 06:21:15
+20-06-06 06:22:04  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 06:22:04
+20-06-06 06:24:23  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 06:24:23
+20-06-06 06:25:46  Net - [UnK] WildR4P` connected 6-6-20 06:25:46
+20-06-06 06:34:38  Net - XRe1ch| Pirlinho disconnected 6-6-20 06:34:38
+20-06-06 06:34:45  Net - XRe1ch| Pirlinho connected 6-6-20 06:34:45
+20-06-06 06:34:57  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 06:34:57
+20-06-06 06:34:59  Net - XRe1ch| Pirlinho connected 6-6-20 06:34:59
+20-06-06 06:50:50 TCP/IP File Server started
+20-06-06 06:51:10  Net - XRe1ch| Pirlinho connected 6-6-20 06:51:10
+20-06-06 06:55:51  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 06:55:51
+20-06-06 06:56:02  Net - [UnK] WildR4P` connected 6-6-20 06:56:02
+20-06-06 07:06:13  Net - [UnK] WildR4P` connected 6-6-20 07:06:13
+20-06-06 07:06:18  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 07:06:18
+20-06-06 07:16:47  Net - XRe1ch| Pirlinho connected 6-6-20 07:16:47
+20-06-06 07:16:51  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 07:16:51
+20-06-06 07:20:50 TCP/IP File Server started
+20-06-06 07:27:22  Net - [UnK] WildR4P` disconnected 6-6-20 07:27:22
+20-06-06 07:27:38  Net - \\F.O.S.T//F4ll.cL connected 6-6-20 07:27:38
+20-06-06 07:27:39  Net - XRe1ch| Pirlinho disconnected 6-6-20 07:27:39
+20-06-06 07:27:45  Net - XRe1ch| Pirlinho connected 6-6-20 07:27:45
+20-06-06 07:28:45  Net - XRe1ch| Pirlinho disconnected 6-6-20 07:28:45
+20-06-06 07:28:52  Net - XRe1ch| Pirlinho connected 6-6-20 07:28:52
+20-06-06 07:43:00  Net - \\F.O.S.T//F4ll.cL disconnected 6-6-20 07:43:00
+20-06-06 07:43:10  Net - XRe1ch| Pirlinho disconnected 6-6-20 07:43:10
+20-06-06 07:50:50 TCP/IP File Server started
+20-06-06 08:20:50 TCP/IP File Server started
+20-06-06 08:50:50 TCP/IP File Server started
+20-06-06 09:20:50 TCP/IP File Server started
+20-06-06 09:50:50 TCP/IP File Server started
+20-06-06 10:20:50 TCP/IP File Server started
+20-06-06 10:50:50 TCP/IP File Server started
+20-06-06 11:20:50 TCP/IP File Server started
+20-06-06 11:50:50 TCP/IP File Server started
+20-06-06 12:20:50 TCP/IP File Server started
+20-06-06 12:50:50 TCP/IP File Server started
+20-06-06 13:20:50 TCP/IP File Server started
+20-06-06 13:50:50 TCP/IP File Server started
+20-06-06 14:20:50 TCP/IP File Server started
+20-06-06 14:50:50 TCP/IP File Server started
+20-06-06 15:20:50 TCP/IP File Server started
+20-06-06 15:50:50 TCP/IP File Server started
+20-06-06 16:20:50 TCP/IP File Server started
+20-06-06 16:50:50 TCP/IP File Server started
+20-06-06 17:20:50 TCP/IP File Server started
+20-06-06 17:50:50 TCP/IP File Server started
+20-06-06 18:20:50 TCP/IP File Server started
+20-06-06 18:50:50 TCP/IP File Server started
+20-06-06 19:20:50 TCP/IP File Server started
+20-06-06 19:50:50 TCP/IP File Server started
+20-06-06 20:20:50 TCP/IP File Server started
+20-06-06 20:50:50 TCP/IP File Server started
+20-06-06 21:20:50 TCP/IP File Server started
+20-06-06 21:50:50 TCP/IP File Server started
+20-06-06 22:20:50 TCP/IP File Server started
+20-06-06 22:39:34  Net - CHILE| WildR4P` connected 6-6-20 22:39:34
+20-06-06 22:41:23  Net - CHILE| SontercL connected 6-6-20 22:41:23
+20-06-06 22:41:48  Net - CHILE| SontercL disconnected 6-6-20 22:41:48
+20-06-06 22:42:03  Net - CHILE| SontercL connected 6-6-20 22:42:03
+20-06-06 22:46:48  Net - CHILE| SontercL disconnected 6-6-20 22:46:48
+20-06-06 22:48:54  Net - CHILE| SontercL connected 6-6-20 22:48:54
+20-06-06 22:48:55  Net - CHILE| WildR4P` disconnected 6-6-20 22:48:55
+20-06-06 22:49:21  Net - CHILE| SontercL disconnected 6-6-20 22:49:21
+20-06-06 22:50:54 TCP/IP File Server started
+20-06-06 22:58:48  Net - CHILE| SontercL connected 6-6-20 22:58:48
+20-06-06 22:59:37  Net - CHILE| SontercL disconnected 6-6-20 22:59:37
+20-06-06 23:10:54  Net - CHILE| WildR4P` connected 6-6-20 23:10:54
+20-06-06 23:16:07  Net - CHILE| WildR4P` disconnected 6-6-20 23:16:07
+20-06-06 23:20:54 TCP/IP File Server started
+20-06-06 23:20:59  Net - CHILE| SontercL connected 6-6-20 23:20:59
+20-06-06 23:24:55  Net - CHILE| SontercL disconnected 6-6-20 23:24:55
+20-06-06 23:50:54 TCP/IP File Server started
+20-06-07 00:20:54 TCP/IP File Server started
+20-06-07 00:50:54 TCP/IP File Server started
+20-06-07 01:18:03  Net - XRe1ch|Sadiko connected 7-6-20 01:18:03
+20-06-07 01:18:25  Net - sT.- YnGwi3 connected 7-6-20 01:18:25
+20-06-07 01:18:41  Net - sT#' SenzacL* connected 7-6-20 01:18:41
+20-06-07 01:18:59  Net - Chaky connected 7-6-20 01:18:59
+20-06-07 01:19:02  Net - =X*R= CWe1C connected 7-6-20 01:19:02
+20-06-07 01:19:05  Net - sT.- YnGwi3 disconnected 7-6-20 01:19:05
+20-06-07 01:19:10  Net - Chaky disconnected 7-6-20 01:19:10
+20-06-07 01:19:13  Net - sT.- YnGwi3 connected 7-6-20 01:19:13
+20-06-07 01:19:19  Net - =X*R= CWe1C connected 7-6-20 01:19:19
+20-06-07 01:19:21  Net - XR1ch|Chaky connected 7-6-20 01:19:21
+20-06-07 01:19:47  Net - sT.- YnGwi3 disconnected 7-6-20 01:19:47
+20-06-07 01:19:48  Net - XR1ch|Chaky disconnected 7-6-20 01:19:48
+20-06-07 01:19:54  Net - sT.- YnGwi3 connected 7-6-20 01:19:54
+20-06-07 01:19:55  Net - XRe1ch|Chaky connected 7-6-20 01:19:55
+20-06-07 01:19:55  Net - sT.- YnGwi3 connected 7-6-20 01:19:55
+20-06-07 01:20:12  Net - sT.- YnGwi3 disconnected 7-6-20 01:20:12
+20-06-07 01:20:29  Net - sT.- YnGwi3 connected 7-6-20 01:20:29
+20-06-07 01:20:32  Net - sT.- YnGwi3 disconnected 7-6-20 01:20:32
+20-06-07 01:20:35  Net - XRe1ch|KillMe!* connected 7-6-20 01:20:35
+20-06-07 01:20:40  Net - later Maaxis* (New guy) connected 7-6-20 01:20:40
+20-06-07 01:20:41  Net - sT#' YnGwi3 connected 7-6-20 01:20:41
+20-06-07 01:20:49  Net - later Maaxis* (New guy) disconnected 7-6-20 01:20:49
+20-06-07 01:20:54 TCP/IP File Server started
+20-06-07 01:20:55  Net - =X*R= CWe1C connected 7-6-20 01:20:55
+20-06-07 01:21:10  Net - sT#' Maaxis* (New guy) connected 7-6-20 01:21:10
+20-06-07 01:21:26  Net - XRe1ch|Skipo connected 7-6-20 01:21:26
+20-06-07 01:21:32  Net - XRe1ch|KillMe!* connected 7-6-20 01:21:32
+20-06-07 01:23:55  Net - |L.Forc3|Mota connected 7-6-20 01:23:55
+20-06-07 01:24:36  Net - =X*R= CWe1C disconnected 7-6-20 01:24:36
+20-06-07 01:24:45  Net - =X*R= CWe1C connected 7-6-20 01:24:45
+20-06-07 01:27:40  Net - XRe1ch| Pirlinho connected 7-6-20 01:27:40
+20-06-07 01:28:19  Net - XRe1ch|Skipo disconnected 7-6-20 01:28:19
+20-06-07 01:35:48  Net - =X*R= CWe1C disconnected 7-6-20 01:35:48
+20-06-07 01:35:57  Net - =X*R= CWe1C connected 7-6-20 01:35:57

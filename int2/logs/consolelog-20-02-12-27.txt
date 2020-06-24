@@ -1,0 +1,167 @@
+20-02-12 10:27:40    Console Log Started
+20-02-12 10:27:40 Welcome to Soldat 1.7.1
+20-02-12 10:27:40  [*] Preparing scripts to be launched
+20-02-12 10:27:40  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 10:27:40  [*] commands_by_keen compiled
+20-02-12 10:27:40  [*] Compiling matchreporter -> match.pas...
+20-02-12 10:27:40  [*] matchreporter compiled
+20-02-12 10:27:40  [*] Done
+20-02-12 10:27:40 ctf_Ash by chakapoko maker
+20-02-12 10:27:40 In-Game Statistics
+Players: 0
+Map: 
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 10:27:40  Connection for file server started. Port: 23110
+20-02-12 10:27:40 Registering server @ 88.99.234.252
+20-02-12 10:27:45 190.107.226.45:53122|2CAF32344FB requesting game...
+20-02-12 10:27:48 |X.Forc3|.Prueba joining game (190.107.226.45:53122) HWID:2CAF32344FB
+20-02-12 10:27:48 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 10:27:55 [|X.Forc3|.Prueba] !nextmapd
+20-02-12 10:27:57 [|X.Forc3|.Prueba] !nextmap
+20-02-12 10:27:58 Next map: ctf_B2b
+20-02-12 10:28:03 B2B
+20-02-12 10:28:03 In-Game Statistics
+Players: 1
+Map: ctf_Ash
+Gamemode: Capture the Flag
+Timeleft: 9:40
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+|X.Forc3|.Prueba
+0
+0
+1
+33
+
+20-02-12 10:29:45 |X.Forc3|.Prueba has left alpha team.
+20-02-12 10:29:45 Server password changed to scl
+20-02-12 10:33:03 Time Left: 5 minutes
+20-02-12 10:34:03 Time Left: 4 minutes
+20-02-12 10:35:03 Time Left: 3 minutes
+20-02-12 10:36:03 Time Left: 2 minutes
+20-02-12 10:37:03 Time Left: 1 minutes
+20-02-12 10:38:03 Next map: ctf_Blade
+20-02-12 10:38:08 Blade by Zakath
+20-02-12 10:38:08 In-Game Statistics
+Players: 0
+Map: ctf_B2b
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 10:43:08 Time Left: 5 minutes
+20-02-12 10:44:08 Time Left: 4 minutes
+20-02-12 10:45:08 Time Left: 3 minutes
+20-02-12 10:46:08 Time Left: 2 minutes
+20-02-12 10:47:08 Time Left: 1 minutes
+20-02-12 10:48:08 Next map: ctf_Viet
+20-02-12 10:48:13 Viet
+20-02-12 10:48:13 In-Game Statistics
+Players: 0
+Map: ctf_Blade
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 10:53:13 Time Left: 5 minutes
+20-02-12 10:54:13 Time Left: 4 minutes
+20-02-12 10:55:13 Time Left: 3 minutes
+20-02-12 10:56:13 Time Left: 2 minutes
+20-02-12 10:57:13 Time Left: 1 minutes
+20-02-12 10:57:40 190.107.226.45:53122|2CAF32344FB requesting game...
+20-02-12 10:58:13 Next map: ctf_Division
+20-02-12 10:58:19 Division by Boxo, KC, viral
+20-02-12 10:58:19 In-Game Statistics
+Players: 0
+Map: ctf_Viet
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 11:03:19 Time Left: 5 minutes
+20-02-12 11:04:19 Time Left: 4 minutes
+20-02-12 11:05:16 190.107.226.45:53126|2CAF32344FB requesting game...
+20-02-12 11:05:19 Time Left: 3 minutes
+20-02-12 11:05:43 |X.Forc3|.Prueba joining game (190.107.226.45:53126) HWID:2CAF32344FB
+20-02-12 11:05:43 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 11:05:48 |X.Forc3|.Prueba has left alpha team.
+20-02-12 11:05:48 Server password changed to scl
+20-02-12 11:06:19 Time Left: 2 minutes
+20-02-12 11:07:19 Time Left: 1 minutes
+20-02-12 11:08:19 Next map: ctf_Death
+20-02-12 11:08:24 Death by MM, g_d. Boxo, mtk`
+20-02-12 11:08:24 In-Game Statistics
+Players: 0
+Map: ctf_Division
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 11:13:24 Time Left: 5 minutes
+20-02-12 11:14:24 Time Left: 4 minutes
+20-02-12 11:14:49 190.107.226.45:53127|2CAF32344FB requesting game...
+20-02-12 11:14:52 |X.Forc3|.Prueba joining game (190.107.226.45:53127) HWID:2CAF32344FB
+20-02-12 11:14:52 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 11:15:03 |X.Forc3|.Prueba has left alpha team.
+20-02-12 11:15:03 Server password changed to scl
+20-02-12 11:15:24 Time Left: 3 minutes
+20-02-12 11:16:24 Time Left: 2 minutes
+20-02-12 11:17:24 Time Left: 1 minutes
+20-02-12 11:18:24 Next map: ctf_Hormone
+20-02-12 11:18:29 Hormone by Metsänaperot
+20-02-12 11:18:29 In-Game Statistics
+Players: 0
+Map: ctf_Death
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 11:23:29 Time Left: 5 minutes
+20-02-12 11:24:29 Time Left: 4 minutes
+20-02-12 11:25:29 Time Left: 3 minutes
+20-02-12 11:26:29 Time Left: 2 minutes
+20-02-12 11:27:29 Time Left: 1 minutes
+20-02-12 11:28:29 Next map: ctf_Laos
+20-02-12 11:28:35 Laos
+20-02-12 11:28:35 In-Game Statistics
+Players: 0
+Map: ctf_Hormone
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 11:33:35 Time Left: 5 minutes

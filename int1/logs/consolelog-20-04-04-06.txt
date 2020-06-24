@@ -1,0 +1,19 @@
+20-04-04 17:39:41    Console Log Started
+20-04-04 17:39:41 Welcome to Soldat 1.7.1
+20-04-04 17:39:41  [*] Preparing scripts to be launched
+20-04-04 17:39:41  [*] [BasicCommands] Loading bytecode
+20-04-04 17:39:41  [*] [BasicCommands] Bytecode loaded
+20-04-04 17:39:41  [*] Compiling match -> match.pas...
+20-04-04 17:39:41  [*] match compiled
+20-04-04 17:39:41  [*] Done
+20-04-04 17:39:41 ctf_Ash by chakapoko maker
+20-04-04 17:39:42 Loaded weapons mod "Default v1.8"
+20-04-04 17:39:42  Connection for file server started. Port: 23110
+20-04-04 17:39:42 Registering server @ 88.99.234.252
+20-04-04 17:40:35 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 17:40:37 LB ~ Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-04 17:40:37 LB ~ Sadiko has joined alpha team.
+20-04-04 17:41:04 [LB ~ Sadiko] !map x
+20-04-04 17:41:09 ctf_X version 2.0 by SuoW
+20-04-04 17:41:17 LB ~ Sadiko captured the Blue Flag
+20-04-04 17:41:46 LB ~ Sadiko has left alpha team.

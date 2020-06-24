@@ -1,0 +1,68 @@
+20-03-28 00:57:51    Log Started
+20-03-28 00:57:51 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-03-28 00:57:51 Creating network interface.
+20-03-28 00:57:51 Loading Animations.
+20-03-28 00:57:51 Loading Lobby Servers List
+20-03-28 00:57:51 Loading Maps List
+20-03-28 00:57:51 Loading Map.
+20-03-28 00:57:51 Creating Weapons.
+20-03-28 00:57:51 Starting Game Server.
+20-03-28 00:57:51 TCP/IP File Server started
+20-03-28 00:57:55  Net - KorN connected 28-03-2020 0:57:55
+20-03-28 00:57:56  Net - LB ~ Skipo connected 28-03-2020 0:57:56
+20-03-28 00:57:56  Net - |D.Forc3|Aberracion connected 28-03-2020 0:57:56
+20-03-28 00:57:57  Net - KorN connected 28-03-2020 0:57:57
+20-03-28 00:57:58  Net - |D.Forc3|RainbowDash connected 28-03-2020 0:57:58
+20-03-28 00:57:59  Net - DsF - F4ll.cL connected 28-03-2020 0:57:59
+20-03-28 00:58:01  Net - |D.Forc3|Aberracion disconnected 28-03-2020 0:58:01
+20-03-28 00:58:03  Net - |D.Forc3|Aberracion connected 28-03-2020 0:58:03
+20-03-28 00:58:04  Net - |X.Forc3|Lead.- connected 28-03-2020 0:58:04
+20-03-28 00:58:05  Net - |BhooD| Analdo connected 28-03-2020 0:58:05
+20-03-28 00:58:05  Net - |BhooD| Ultra_Cod3 connected 28-03-2020 0:58:05
+20-03-28 00:58:07  Net - |X.Forc3|Lead.- connected 28-03-2020 0:58:07
+20-03-28 00:58:08  Net - |BhooD| Analdo disconnected 28-03-2020 0:58:08
+20-03-28 00:58:08  Net - DsF - F4ll.cL connected 28-03-2020 0:58:08
+20-03-28 00:58:09  Net - HartCheat] connected 28-03-2020 0:58:09
+20-03-28 00:58:10  Net - |BhooD| Analdo connected 28-03-2020 0:58:10
+20-03-28 00:58:17  Net - HartCheat] connected 28-03-2020 0:58:17
+20-03-28 00:58:20  Net - |X.Forc3|.Turko connected 28-03-2020 0:58:20
+20-03-28 00:58:38  Net - |D.Forc3|Aberracion disconnected 28-03-2020 0:58:38
+20-03-28 00:58:48  Net - LB ~ Skipo disconnected 28-03-2020 0:58:48
+20-03-28 00:58:53  Net - |X.Forc3|.Turko disconnected 28-03-2020 0:58:53
+20-03-28 00:59:01  Net - |BhooD| Analdo disconnected 28-03-2020 0:59:01
+20-03-28 00:59:01  Net - |BhooD| bio* connected 28-03-2020 0:59:01
+20-03-28 00:59:29  Net - HartCheat] disconnected 28-03-2020 0:59:29
+20-03-28 00:59:30  Net - |BhooD| Analdo connected 28-03-2020 0:59:30
+20-03-28 00:59:34  Net - |BhooD| Analdo connected 28-03-2020 0:59:34
+20-03-28 00:59:38  Net - |D.Forc3|Aberracion connected 28-03-2020 0:59:38
+20-03-28 00:59:43  Net - |D.Forc3|Aberracion connected 28-03-2020 0:59:43
+20-03-28 00:59:48  Net - LB ~ Skipo connected 28-03-2020 0:59:48
+20-03-28 00:59:50  Net - LB ~ Skipo connected 28-03-2020 0:59:50
+20-03-28 00:59:57  Net - |BhooD| patuzhOO* connected 28-03-2020 0:59:57
+20-03-28 01:00:02  Net - |X.Forc3|.Turko connected 28-03-2020 1:00:02
+20-03-28 01:00:09  Net - |BhooD| Analdo disconnected 28-03-2020 1:00:09
+20-03-28 01:00:13  Net - |BhooD| Analdo connected 28-03-2020 1:00:13
+20-03-28 01:00:16  Net - |D.Forc3|Aberracion disconnected 28-03-2020 1:00:16
+20-03-28 01:00:38  Net - |D.Forc3|Aberracion connected 28-03-2020 1:00:38
+20-03-28 01:01:56  Net - S2 ~ Zorro* connected 28-03-2020 1:01:56
+20-03-28 01:02:04  Net - S2 ~ Zorro* disconnected 28-03-2020 1:02:04
+20-03-28 01:02:15  Net - |BhooD| Zorro* connected 28-03-2020 1:02:15
+20-03-28 01:03:53  Net - HartCheat] connected 28-03-2020 1:03:53
+20-03-28 01:04:11  Net - |X.Forc3|Lead.- disconnected 28-03-2020 1:04:11
+20-03-28 01:04:18  Net - |X.Forc3|Lead.- connected 28-03-2020 1:04:18
+20-03-28 01:04:20  Net - d4zy connected 28-03-2020 1:04:20
+20-03-28 01:04:23  Net - |X.Forc3|Lead.- connected 28-03-2020 1:04:23
+20-03-28 01:04:24  Net - d4zy disconnected 28-03-2020 1:04:24
+20-03-28 01:04:24  Net - #1 Mand3s connected 28-03-2020 1:04:24
+20-03-28 01:04:30  Net - d4zy connected 28-03-2020 1:04:30
+20-03-28 01:04:38  Net - |X.Forc3|Lead.- disconnected 28-03-2020 1:04:38
+20-03-28 01:04:45  Net - |X.Forc3|Lead.- connected 28-03-2020 1:04:45
+20-03-28 01:04:46  Net - |X.Forc3|Lead.- connected 28-03-2020 1:04:46
+20-03-28 01:05:05  Net - HartCheat] disconnected 28-03-2020 1:05:05
+20-03-28 01:05:23  Net - LB ~ Skipo disconnected 28-03-2020 1:05:23
+20-03-28 01:05:25  Net - LB ~ Skipo connected 28-03-2020 1:05:25
+20-03-28 01:05:47  Net - HartCheat] connected 28-03-2020 1:05:47
+20-03-28 01:06:33  Net - LB ~ Skipo disconnected 28-03-2020 1:06:33
+20-03-28 01:07:04  Net - HartCheat] disconnected 28-03-2020 1:07:04
+20-03-28 01:08:10 Destroying Devices.
+20-03-28 01:08:11    End of Log.

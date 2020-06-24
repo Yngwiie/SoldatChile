@@ -1,0 +1,8 @@
+20-04-17 00:58:41    Log Started
+20-04-17 00:58:41 Opened C:\Users\Administrador\Desktop\Publico\soldat.ini
+20-04-17 00:58:41 Creating network interface.
+20-04-17 00:58:41 Loading Animations.
+20-04-17 00:58:41 Loading Lobby Servers List
+20-04-17 00:58:41 Loading Maps List
+20-04-17 00:58:41 Destroying Devices.
+20-04-17 00:58:41    End of Log.

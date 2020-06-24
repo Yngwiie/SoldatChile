@@ -1,0 +1,8641 @@
+20-06-17 01:36:15    Kill Log Started
+--- 20-06-17 01:36:16
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:36:18
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:36:23
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:36:23
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:36:25
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:36:30
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:36:32
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:36:33
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:36:33
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:36:41
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:36:41
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:36:43
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:36:44
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:36:47
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:36:49
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:36:51
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:36:56
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:36:57
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:36:57
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:37:04
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:37:06
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:37:07
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:37:09
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 01:37:11
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:37:12
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:37:15
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 01:37:16
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:37:22
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:37:23
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:37:24
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:37:27
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:37:31
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:37:31
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:37:35
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:37:37
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:37:38
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:37:39
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:37:40
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:37:45
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+LAW
+--- 20-06-17 01:37:46
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:37:49
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:37:50
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 01:37:53
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:37:55
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:37:56
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:37:58
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:37:59
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:38:03
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:38:04
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:38:05
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:38:05
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:38:10
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:38:12
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:38:13
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:38:14
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:38:16
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:38:18
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:38:21
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:38:21
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:38:24
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:38:27
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:38:29
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:38:33
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:38:34
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:38:40
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:38:40
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:38:41
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:38:45
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:38:47
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:38:53
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:38:53
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:38:53
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:38:59
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:39:01
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:39:02
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:39:47
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:40:14
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:40:15
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:40:15
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:40:16
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:40:22
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:40:23
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:40:26
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:40:29
+S2 ~ CracK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:40:34
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 01:40:35
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:40:37
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:40:39
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:40:40
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+FN Minimi
+--- 20-06-17 01:40:44
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:40:45
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:40:45
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:40:49
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:40:51
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:40:52
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:40:52
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:40:58
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:40:59
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:41:02
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:41:03
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:41:03
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:41:09
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:41:13
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+FN Minimi
+--- 20-06-17 01:41:15
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:41:16
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:41:16
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:41:17
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:41:22
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:41:24
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:41:24
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:41:24
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:41:30
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:41:32
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:41:32
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:41:37
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:41:37
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:41:38
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:41:44
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:41:44
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:41:45
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:41:46
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:41:49
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:41:54
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:41:54
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:41:56
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:41:58
+S2 ~ patuzhO*
+S2 ~ CracK
+LAW
+--- 20-06-17 01:41:58
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:42:03
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:42:07
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:42:08
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 01:42:36
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:42:37
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:42:39
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:42:40
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:42:44
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:42:45
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:42:49
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:42:51
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:42:53
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:42:53
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:42:59
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:43:01
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:43:04
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:43:06
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:43:06
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:43:10
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:43:10
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:43:13
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:43:16
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:43:18
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+FN Minimi
+--- 20-06-17 01:43:21
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:43:21
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:43:25
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:43:30
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:43:30
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:43:31
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:43:34
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:43:35
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:43:42
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:43:42
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:43:42
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+FN Minimi
+--- 20-06-17 01:43:42
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:43:48
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:43:50
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:43:50
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:43:51
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:43:55
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:43:57
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:44:00
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:44:01
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+FN Minimi
+--- 20-06-17 01:44:03
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+FN Minimi
+--- 20-06-17 01:44:06
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:44:07
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:12
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:44:13
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:44:14
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:44:15
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:18
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:44:19
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:44:21
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:44:24
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+FN Minimi
+--- 20-06-17 01:44:25
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:44:26
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:30
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:44:31
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:34
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:44:34
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:44:34
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:44:39
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:44:39
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:44:44
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+FN Minimi
+--- 20-06-17 01:44:45
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:44:45
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:48
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:44:48
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:44:52
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:44:53
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:44:56
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+FN Minimi
+--- 20-06-17 01:44:57
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:44:57
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:45:02
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:45:05
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:45:06
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:45:10
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:45:13
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:45:17
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:45:17
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+FN Minimi
+--- 20-06-17 01:45:19
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:45:24
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+LAW
+--- 20-06-17 01:45:24
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:45:26
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:45:29
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:45:33
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:45:36
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:45:38
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:45:39
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:45:41
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:45:42
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:45:42
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:45:49
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:45:49
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:45:51
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:45:55
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:45:57
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:45:58
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:46:00
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:46:03
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:46:03
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:46:04
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:46:07
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-06-17 01:46:08
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:46:13
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:46:15
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:46:15
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:46:18
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:46:19
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:46:22
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:46:25
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:46:26
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:46:29
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:46:31
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:46:34
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:46:35
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:46:37
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:46:37
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:46:42
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+FN Minimi
+--- 20-06-17 01:46:44
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:46:44
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:46:47
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:46:50
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:46:55
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:46:56
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:46:57
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:47:00
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:47:02
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:47:03
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:47:06
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:47:06
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:47:10
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:47:12
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:47:13
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:47:15
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:47:17
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:47:18
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 01:47:19
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:47:23
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Ruger 77
+--- 20-06-17 01:47:24
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:47:25
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:47:29
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:47:31
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:47:32
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 01:47:34
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 01:47:37
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:47:39
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:47:41
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:47:46
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:47:46
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 01:47:49
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:47:50
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:47:52
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:47:58
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:47:58
+S2 ~ BioSeaX!
+S2 ~ CracK
+FN Minimi
+--- 20-06-17 01:48:01
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:48:05
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:48:06
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 01:48:07
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:48:12
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:48:12
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:48:15
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 01:48:16
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:48:19
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:48:21
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 01:48:24
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:48:27
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:48:30
+S2 ~ CracK
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 01:48:30
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+LAW
+--- 20-06-17 01:48:33
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 01:49:06
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:49:22
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 01:49:25
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:49:31
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:49:32
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:49:35
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:49:38
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:49:39
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:49:40
+S2 ~ CracK
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 01:49:47
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 01:49:48
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:49:50
+S2 ~ Opazo*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:49:50
+S2 ~ Opazo*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 01:49:53
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 01:49:58
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:50:00
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:50:01
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:50:03
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Combat Knife
+--- 20-06-17 01:50:12
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:50:12
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:50:13
+S2 ~ CracK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:50:21
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:50:22
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:50:25
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:50:32
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:50:33
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+M79
+--- 20-06-17 01:50:33
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 01:50:37
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Hands
+--- 20-06-17 01:50:42
+S2 ~ BioSeaX!
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:50:42
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:50:47
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:50:53
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:50:53
+S2 ~ Opazo*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 01:50:58
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+M79
+--- 20-06-17 01:51:03
+S2 ~ Opazo*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 01:51:07
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-06-17 01:51:13
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:51:14
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:51:20
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:51:23
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:51:29
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:51:37
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:51:46
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:51:49
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:51:52
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:51:55
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:51:56
+S2 ~ CracK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:52:03
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:52:03
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:52:05
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:52:05
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:52:14
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:52:14
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:52:20
+S2 ~ Opazo*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 01:52:21
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:52:23
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:52:23
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:52:27
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:52:32
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:52:36
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:52:36
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+M79
+--- 20-06-17 01:52:37
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-06-17 01:52:38
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:52:41
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:52:46
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:52:46
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 01:52:52
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:52:52
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:52:54
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:52:57
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:53:01
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:53:06
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:53:07
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:53:10
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:53:10
+S2 ~ CracK
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 01:53:12
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-06-17 01:53:17
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:53:20
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:53:26
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:53:28
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:53:32
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:53:34
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:53:38
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Combat Knife
+--- 20-06-17 01:53:39
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:53:43
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:53:49
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:53:49
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:53:51
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:53:55
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:53:58
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:53:59
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:54:01
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:54:02
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:54:02
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 01:54:08
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:54:09
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:54:10
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:54:11
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 01:54:16
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:54:16
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:54:22
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:54:23
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-06-17 01:54:27
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:54:28
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:54:34
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:54:36
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:54:38
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:54:39
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:54:39
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:54:46
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:54:53
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:54:54
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:54:59
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:55:06
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:55:06
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:55:11
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:55:11
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:55:11
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:55:16
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:55:20
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:55:21
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:55:24
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:55:26
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:55:29
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:55:31
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:55:34
+S2 ~ Opazo*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:55:37
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:55:42
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:55:45
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:55:46
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:55:49
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:55:50
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:55:55
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:55:58
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:56:00
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:56:00
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:56:07
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:56:07
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:56:13
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:56:18
+S2 ~ CracK
+S2 ~ BioSeaX!
+Spas-12
+--- 20-06-17 01:56:21
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:56:25
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 01:56:27
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:56:29
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 01:56:34
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:56:38
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:56:41
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 01:56:42
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 01:56:44
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:56:48
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:56:48
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:56:49
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+M79
+--- 20-06-17 01:56:50
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-06-17 01:56:54
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 01:56:57
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:57:05
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:57:07
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:57:09
+S2 ~ CracK
+S2 ~ patuzhO*
+Hands
+--- 20-06-17 01:57:13
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-06-17 01:57:13
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 01:57:15
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:57:20
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:57:27
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 01:57:32
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:57:33
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:57:33
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:57:38
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 01:57:39
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 01:57:39
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:57:45
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 01:57:47
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:57:49
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:57:54
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:57:56
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:57:56
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:58:00
+S2 ~ patuzhO*
+S2 ~ CracK
+LAW
+--- 20-06-17 01:58:02
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 01:58:06
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:58:10
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 01:58:10
+S2 ~ CracK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 01:58:12
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 01:58:14
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 01:58:19
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-06-17 01:58:20
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 01:58:24
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 01:58:29
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 01:58:34
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 01:58:37
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 01:58:39
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 01:59:56
+S2 ~ patuzhO*
+S2 ~ CracK
+M79
+--- 20-06-17 02:00:25
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:00:27
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+M79
+--- 20-06-17 02:00:31
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:00:36
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:00:37
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:00:38
+S2 ~ Opazo*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:00:43
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 02:00:55
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:01:01
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 02:01:01
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:01:02
+S2 ~ CracK
+S2 ~ Opazo*
+M79
+--- 20-06-17 02:01:08
+S2 ~ AsteK
+S2 ~ CracK
+Barrett M82A1
+--- 20-06-17 02:01:12
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:01:16
+S2 ~ AsteK
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 02:01:16
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Spas-12
+--- 20-06-17 02:01:18
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:01:19
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:01:29
+S2 ~ CracK
+S2 ~ Opazo*
+Combat Knife
+--- 20-06-17 02:01:39
+S2 ~ AsteK
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 02:01:40
+S2 ~ CracK
+S2 ~ AsteK
+Spas-12
+--- 20-06-17 02:01:43
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:01:48
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 02:01:49
+S2 ~ Opazo*
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 02:02:01
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 02:02:13
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 02:02:13
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:02:20
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:02:21
+S2 ~ CracK
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:02:24
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:02:31
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:02:33
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 02:02:38
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:02:40
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:02:40
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:02:45
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:02:47
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:02:53
+S2 ~ Opazo*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:02:53
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 02:02:56
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:02:56
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:03:02
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:03:05
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:03:16
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:03:17
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:03:21
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:03:29
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:03:32
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 02:03:36
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:03:37
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:03:43
+S2 ~ AsteK
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:03:43
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:03:49
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:03:52
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:03:55
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:03:55
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:03:57
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:04:02
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:04:02
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:04:04
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:04:09
+S2 ~ CracK
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:04:11
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:04:12
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:04:15
+S2 ~ patuzhO*
+S2 ~ AsteK
+LAW
+--- 20-06-17 02:04:22
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:04:23
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:04:23
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:04:28
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:04:28
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:04:33
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:04:33
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:04:37
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:04:44
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:04:46
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:04:49
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:04:51
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:04:54
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:04:57
+S2 ~ CracK
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:04:59
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:05:03
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:05:10
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:05:11
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:05:14
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:05:17
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:05:21
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:05:24
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:05:29
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:05:31
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:05:37
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:05:39
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:05:39
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:05:43
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:05:49
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:05:55
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:05:57
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:05:58
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:06:01
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:07
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:07
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:06:18
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:06:18
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:24
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:06:24
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:06:28
+S2 ~ AsteK
+S2 ~ CracK
+LAW
+--- 20-06-17 02:06:31
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:33
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:06:39
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:06:44
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:46
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:06:46
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:06:52
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:06:53
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:06:58
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 02:07:00
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:07:02
+S2 ~ patuzhO*
+S2 ~ AsteK
+LAW
+--- 20-06-17 02:07:09
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:07:10
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:07:16
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:07:17
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:07:19
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:07:21
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:07:27
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:07:28
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:07:33
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:07:34
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:07:40
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:07:41
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:07:46
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:07:51
+S2 ~ CracK
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:07:51
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:07:58
+S2 ~ AsteK
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:08:00
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:08:04
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:08:06
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:08:07
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:08:13
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:08:15
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:08:19
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:08:20
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:08:22
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:08:26
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:08:26
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:08:32
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:08:32
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:08:35
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:08:36
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:08:43
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:08:45
+S2 ~ AsteK
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:08:45
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:08:52
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:08:58
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:08:59
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:09:01
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:09:10
+S2 ~ Opazo*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:09:12
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:09:14
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:09:16
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:09:20
+S3 ~ PoKemon
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:09:24
+S3 ~ PoKemon
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:09:24
+S3 ~ PoKemon
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:09:28
+S3 ~ PoKemon
+S2 ~ AsteK
+LAW
+--- 20-06-17 02:09:30
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:09:34
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:09:34
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:09:37
+S2 ~ AsteK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:09:40
+S2 ~ AsteK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:09:43
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:09:45
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:09:59
+S2 ~ Opazo*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:10:02
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:10:04
+S2 ~ AsteK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:10:10
+S2 ~ AsteK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:10:10
+S2 ~ BioSeaX!
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:10:11
+S2 ~ Opazo*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:10:15
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:10:17
+S2 ~ AsteK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:10:17
+S2 ~ BioSeaX!
+S2 ~ AsteK
+Combat Knife
+--- 20-06-17 02:10:23
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:10:25
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:10:29
+S2 ~ AsteK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:10:37
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:10:38
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:10:41
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:10:49
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:10:49
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:10:55
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:10:55
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:10:57
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:11:03
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:11:03
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:11:04
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:11:12
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:11:13
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:11:17
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:11:17
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:11:38
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:11:52
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:12:05
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:12:13
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:12:18
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:12:18
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:12:25
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:12:28
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:12:33
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 02:12:47
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:12:48
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:12:51
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:12:57
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:12:57
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:13:05
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:13:06
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:13:09
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:13:11
+S3 ~Violet*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:13:12
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:13:18
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:13:20
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:13:24
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 02:13:29
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:13:29
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:13:30
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:13:38
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:13:40
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:13:47
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 02:13:48
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:13:54
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:13:54
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:14:03
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:14:05
+S3 ~ PoKemon
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:14:32
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:14:39
+S2 ~ AsteK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:14:39
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:14:57
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:15:10
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:15:10
+S2 ~ AsteK
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:15:19
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:15:25
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:15:26
+S3 ~ PoKemon
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:15:27
+S2 ~ AsteK
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:15:27
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:15:35
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:15:36
+S2 ~ BioSeaX!
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:15:41
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:15:43
+S2 ~ AsteK
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:15:49
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:15:49
+S3 ~ PoKemon
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:15:53
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:15:54
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:15:55
+S2 ~ AsteK
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:16:03
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:16:10
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:16:11
+S2 ~ AsteK
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:16:11
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:16:17
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:16:24
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:16:24
+S2 ~ Opazo*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:16:26
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:16:31
+S2 ~ AsteK
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:16:33
+S3 ~ PoKemon
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:16:34
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:16:39
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:16:39
+S2 ~ AsteK
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:16:40
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:16:48
+S2 ~ Opazo*
+S3 ~ PoKemon
+Hands
+--- 20-06-17 02:16:48
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:16:53
+S2 ~ AsteK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:16:55
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:17:16
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:17:16
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:17:28
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:17:34
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:17:44
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:18:08
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:18:19
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:18:19
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:18:24
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:18:25
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:18:30
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:18:30
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:18:32
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:18:35
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Combat Knife
+--- 20-06-17 02:18:38
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:18:44
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:18:44
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:18:47
+S3 ~Violet*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:18:54
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:18:55
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:19:01
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:19:02
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:19:06
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:19:08
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:19:12
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:19:15
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:19:20
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:19:22
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:19:27
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:19:29
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:19:30
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:19:39
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:19:42
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:19:44
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:19:48
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:19:50
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:19:56
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:20:04
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:20:05
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:20:26
+S3 ~Violet*
+S2 ~ DeFkOndOz*
+Combat Knife
+--- 20-06-17 02:20:33
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:20:40
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:20:40
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:20:45
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:20:47
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:20:51
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:20:55
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:21:04
+S2 ~ DeFkOndOz*
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:21:16
+RedcL
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:21:18
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:21:18
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:21:25
+S3 ~Violet*
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:21:28
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:21:31
+RedcL
+S3 ~Violet*
+Combat Knife
+--- 20-06-17 02:21:37
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:21:50
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:21:52
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:22:20
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:22:20
+RedcL
+RedcL
+Grenade
+--- 20-06-17 02:22:25
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:22:29
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:22:30
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:22:31
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:22:36
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:22:39
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:22:44
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:22:46
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:22:48
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:22:59
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:23:01
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:23:01
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:23:15
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:23:27
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:23:27
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:23:29
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:23:33
+S2 ~ patuzhO*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:23:37
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:23:38
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:23:38
+S3 ~Violet*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:23:45
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:23:46
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:23:48
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:23:54
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:23:55
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:23:56
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:24:01
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:03
+S3 ~Violet*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:24:08
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:24:10
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:24:14
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:24:16
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:21
+S3 ~Violet*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:24:24
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:24
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:24:27
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:24:30
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:24:32
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:34
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:24:40
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:24:40
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:45
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:24:45
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:24:49
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:24:53
+S3 ~Violet*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:24:53
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:25:13
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:25:27
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:25:30
+S2 ~ BioSeaX!
+RedcL
+Combat Knife
+--- 20-06-17 02:25:40
+S2 ~ BioSeaX!
+RedcL
+Grenade
+--- 20-06-17 02:25:42
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:25:45
+RedcL
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 02:25:48
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:25:51
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:25:58
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:25:59
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:26:02
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:26:08
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:26:17
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:26:28
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:26:30
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:26:34
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:26:37
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:26:39
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:26:45
+S2 ~ BioSeaX!
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:26:47
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:26:47
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:26:50
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:26:50
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:27:02
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:27:06
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 02:27:12
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:27:17
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:27:21
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:27:25
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:27:28
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:27:30
+RedcL
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:27:30
+S2 ~ BioSeaX!
+RedcL
+Grenade
+--- 20-06-17 02:27:34
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:27:36
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:27:41
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:27:42
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:27:49
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:27:51
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:27:54
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:27:56
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:28:01
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:28:02
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:28:07
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:28:14
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:28:25
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:28:37
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:28:47
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:28:58
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:29:00
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:29:06
+S2 ~ Opazo*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:29:06
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:29:12
+S3 ~ PoKemon
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:29:13
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:29:18
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:29:18
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:29:24
+S2 ~ AsteK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:29:24
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:29:47
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:29:47
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:29:48
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:29:57
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:29:59
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:30:12
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:30:12
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:30:18
+S2 ~ BioSeaX!
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 02:30:19
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:30:20
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:30:26
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:30:26
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:30:33
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:30:35
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:30:35
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:30:40
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:30:45
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:30:46
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:30:49
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:30:52
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:30:54
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:30:54
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:31:00
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:31:03
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:31:07
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:31:10
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:31:14
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:31:16
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:31:18
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:31:22
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:31:24
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:31:24
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:31:30
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:31:30
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:31:35
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:31:39
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:31:44
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:31:50
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:31:59
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:31:59
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:32:00
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:32:06
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:32:07
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:32:09
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:32:13
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:32:16
+S2 ~ BioSeaX!
+RedcL
+Grenade
+--- 20-06-17 02:32:21
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:34:49
+S3 ~ PoKemon
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:34:51
+S2 ~ Opazo*
+S2 ~ Opazo*
+Selfkill
+--- 20-06-17 02:35:15
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:35:15
+S3 ~ PoKemon
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:35:15
+S2 ~ AsteK
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:35:23
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:35:24
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:35:24
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:35:32
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:35:38
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:35:39
+S2 ~ AsteK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:35:45
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:35:47
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:35:55
+S2 ~ Opazo*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:35:58
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:36:08
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:36:08
+S3 ~ PoKemon
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:36:09
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:36:15
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:36:17
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:36:21
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:36:26
+S3 ~ PoKemon
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:36:26
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:36:33
+S3 ~ PoKemon
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:36:34
+S2 ~ AsteK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:36:35
+S2 ~ BioSeaX!
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:36:39
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:36:40
+S3 ~ PoKemon
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:36:46
+S2 ~ AsteK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:36:54
+S3 ~ PoKemon
+S2 ~ AsteK
+LAW
+--- 20-06-17 02:37:00
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:37:13
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:37:14
+S3 ~ PoKemon
+S3 ~Violet*
+LAW
+--- 20-06-17 02:37:17
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:37:23
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:37:25
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:37:31
+S3 ~Violet*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:37:32
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:37:42
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:37:42
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:37:42
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:37:49
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:37:51
+S3 ~Violet*
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 02:37:57
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:38:09
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:38:09
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:38:09
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:38:15
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:38:16
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:38:19
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:38:19
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:38:23
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:38:23
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:38:27
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:38:31
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 02:38:34
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:38:37
+S2 ~ BioSeaX!
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 02:38:37
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:38:40
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:38:43
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:38:47
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:38:48
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:38:50
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:38:54
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:39:01
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:39:02
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:39:02
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:39:06
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:39:08
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:39:11
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Combat Knife
+--- 20-06-17 02:39:14
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:39:17
+S3 ~ PoKemon
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:39:20
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:39:20
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:39:24
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:39:28
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:39:29
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:39:33
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:39:36
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:39:44
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:39:44
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:39:47
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:39:53
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:39:55
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:39:59
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:40:01
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:40:03
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:40:23
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:40:31
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:40:33
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:40:36
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:40:36
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:40:40
+S2 ~ CracK
+RedcL
+Steyr AUG
+--- 20-06-17 02:40:42
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:40:44
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:40:49
+S2 ~ CracK
+RedcL
+Steyr AUG
+--- 20-06-17 02:40:49
+RedcL
+S2 ~ CracK
+Combat Knife
+--- 20-06-17 02:40:54
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:40:57
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:40:59
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:41:05
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:41:08
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:41:09
+S2 ~ CracK
+RedcL
+Ak-74
+--- 20-06-17 02:41:09
+RedcL
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:41:16
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:41:16
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:41:21
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:41:22
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:41:27
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:41:30
+S2 ~ CracK
+RedcL
+Steyr AUG
+--- 20-06-17 02:41:35
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:41:35
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:41:37
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:41:43
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:41:44
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:41:45
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:41:49
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:41:54
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:41:56
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:42:00
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:42:07
+S2 ~ CracK
+RedcL
+Grenade
+--- 20-06-17 02:42:08
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:42:11
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:42:16
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:42:18
+S2 ~ CracK
+RedcL
+Steyr AUG
+--- 20-06-17 02:42:21
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:42:25
+RedcL
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:42:30
+S2 ~ CracK
+RedcL
+Grenade
+--- 20-06-17 02:42:31
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:42:36
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:42:39
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:42:50
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:42:50
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:42:51
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:42:59
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:43:00
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:43:00
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:43:06
+S2 ~ AsteK
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:43:08
+S2 ~ Opazo*
+RedcL
+Grenade
+--- 20-06-17 02:43:12
+S2 ~ DeFkOndOz*
+S2 ~ AsteK
+LAW
+--- 20-06-17 02:43:14
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:43:15
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:43:15
+S2 ~ Opazo*
+RedcL
+Grenade
+--- 20-06-17 02:43:23
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:43:56
+S2 ~ AsteK
+S3 ~Violet*
+Steyr AUG
+--- 20-06-17 02:43:57
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:44:00
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:44:04
+S2 ~ AsteK
+S3 ~Violet*
+Steyr AUG
+--- 20-06-17 02:44:06
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:44:10
+S2 ~ Opazo*
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:44:13
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:44:24
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:44:24
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:44:29
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:44:32
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:44:38
+S2 ~ AsteK
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:44:39
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:44:42
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:44:46
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:44:53
+S2 ~ Opazo*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:44:53
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:44:54
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:45:00
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:45:06
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:45:15
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:45:15
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:45:24
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:45:24
+S2 ~ AsteK
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:45:31
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:45:31
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:45:35
+S2 ~ CracK
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 02:45:39
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:45:42
+S2 ~ AsteK
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:45:44
+S2 ~ AsteK
+S2 ~ patuzhO*
+Combat Knife
+--- 20-06-17 02:45:50
+S2 ~ Opazo*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 02:45:54
+S2 ~ CracK
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:45:58
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:46:02
+S2 ~ patuzhO*
+S2 ~ AsteK
+Grenade
+--- 20-06-17 02:46:06
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 02:46:12
+S2 ~ CracK
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:46:12
+S2 ~ AsteK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 02:46:13
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:46:17
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:46:17
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:46:38
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:46:38
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:46:39
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:46:46
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:46:47
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:46:48
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:46:50
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:46:55
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:46:57
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:47:00
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:47:02
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Combat Knife
+--- 20-06-17 02:47:09
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:47:09
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:47:23
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:47:23
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:47:25
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+Desert Eagles
+--- 20-06-17 02:47:25
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:47:31
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:47:32
+RedcL
+RedcL
+Grenade
+--- 20-06-17 02:47:37
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:47:39
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:47:42
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:47:46
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:47:52
+S3 ~ PoKemon
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:47:57
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:48:07
+S3 ~Violet*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:48:11
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:48:11
+S3 ~Violet*
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 02:48:21
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:48:23
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:48:27
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:48:30
+S3 ~Violet*
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:48:31
+S3 ~ PoKemon
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:48:36
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:48:38
+S2 ~ BioSeaX!
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:48:41
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Combat Knife
+--- 20-06-17 02:48:46
+S3 ~Violet*
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:48:49
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:48:51
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:48:59
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:49:11
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:49:35
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:49:36
+S3 ~ PoKemon
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:49:36
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:49:41
+S2 ~ CracK
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:49:44
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:49:49
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:49:55
+S2 ~ patuzhO*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:49:57
+S2 ~ BioSeaX!
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:49:59
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:50:04
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:50:17
+S2 ~ AsteK
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:50:17
+S2 ~ patuzhO*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:50:27
+S2 ~ AsteK
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:50:28
+S2 ~ patuzhO*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 02:50:35
+S2 ~ AsteK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:50:39
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:50:41
+S2 ~ patuzhO*
+S2 ~ AsteK
+Steyr AUG
+--- 20-06-17 02:50:55
+S2 ~ AsteK
+RedcL
+Grenade
+--- 20-06-17 02:50:59
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:51:00
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:51:04
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:51:07
+S2 ~ DeFkOndOz*
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:51:09
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:51:09
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:51:14
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:51:20
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:51:22
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:51:25
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:51:28
+S2 ~ AsteK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:51:31
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:51:35
+RedcL
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:51:39
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:51:42
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:51:47
+RedcL
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:51:52
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:51:54
+S2 ~ AsteK
+RedcL
+Steyr AUG
+--- 20-06-17 02:51:58
+S2 ~ AsteK
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:52:08
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:52:12
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:52:21
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:52:22
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:52:26
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:52:30
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:52:34
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:52:36
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:52:40
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:52:43
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:52:45
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:52:56
+S2 ~ patuzhO*
+RedcL
+LAW
+--- 20-06-17 02:52:59
+S2 ~ DeFkOndOz*
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:53:01
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:53:04
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:53:06
+S3 ~Violet*
+S3 ~Violet*
+Grenade
+--- 20-06-17 02:53:09
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 02:53:11
+S2 ~ DeFkOndOz*
+S3 ~Violet*
+LAW
+--- 20-06-17 02:53:15
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:53:19
+RedcL
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:53:20
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:53:24
+S2 ~ DeFkOndOz*
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:53:30
+S2 ~ DeFkOndOz*
+S3 ~Violet*
+LAW
+--- 20-06-17 02:53:31
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:53:34
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:53:34
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:53:39
+RedcL
+S3 ~Violet*
+HK MP5
+--- 20-06-17 02:53:45
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:53:48
+RedcL
+S3 ~Violet*
+Combat Knife
+--- 20-06-17 02:53:59
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:54:05
+S2 ~ DeFkOndOz*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:54:17
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:54:23
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:54:30
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 02:54:31
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:54:35
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 02:54:40
+S2 ~ CracK
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 02:54:41
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:54:46
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 02:54:47
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:54:49
+S2 ~ CracK
+RedcL
+Steyr AUG
+--- 20-06-17 02:54:53
+S2 ~ CracK
+RedcL
+LAW
+--- 20-06-17 02:54:54
+RedcL
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:55:12
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:55:14
+S2 ~ DeFkOndOz*
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:55:18
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:55:25
+RedcL
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:55:26
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:55:32
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:55:33
+S2 ~ DeFkOndOz*
+S2 ~ AsteK
+HK MP5
+--- 20-06-17 02:55:50
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:55:53
+S2 ~ BioSeaX!
+RedcL
+Grenade
+--- 20-06-17 02:55:57
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:56:04
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:56:04
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:56:06
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:56:06
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:56:14
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:56:15
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:56:21
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:56:24
+RedcL
+S2 ~ BioSeaX!
+HK MP5
+--- 20-06-17 02:56:24
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:56:30
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:56:33
+RedcL
+S2 ~ BioSeaX!
+Combat Knife
+--- 20-06-17 02:56:36
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:56:38
+S2 ~ BioSeaX!
+RedcL
+Combat Knife
+--- 20-06-17 02:56:41
+S2 ~ DeFkOndOz*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 02:56:44
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:56:45
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:56:49
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:56:58
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:57:06
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:57:13
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:57:14
+S2 ~ BioSeaX!
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:57:19
+S2 ~ BioSeaX!
+RedcL
+HK MP5
+--- 20-06-17 02:57:32
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:57:37
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:57:56
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:58:08
+S2 ~ CracK
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 02:58:08
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:58:18
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:58:20
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:58:24
+S2 ~ BioSeaX!
+S2 ~ CracK
+Grenade
+--- 20-06-17 02:58:24
+S2 ~ CracK
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 02:58:27
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:58:34
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:58:43
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:58:46
+S2 ~ CracK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:58:52
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:58:56
+S2 ~ CracK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 02:59:04
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 02:59:04
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 02:59:16
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 02:59:18
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 02:59:23
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:59:24
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 02:59:25
+S2 ~ CracK
+S2 ~ CracK
+LAW
+--- 20-06-17 02:59:30
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 02:59:34
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 02:59:36
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 02:59:36
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 02:59:38
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 02:59:42
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 02:59:43
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 02:59:43
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:00:00
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:00:04
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:00:10
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:00:11
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:00:21
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:00:22
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:00:23
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:00:23
+RedcL
+RedcL
+Grenade
+--- 20-06-17 03:00:31
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:00:42
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:00:42
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:00:44
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:00:44
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:00:44
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:00:51
+RedcL
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:00:51
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:00:51
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:00:57
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:00:58
+RedcL
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:01:02
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:01:02
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:01:06
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:01:09
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:01:09
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:01:15
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:01:15
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:01:17
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:01:20
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:01:22
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:01:24
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:01:28
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:01:28
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:01:29
+RedcL
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:01:30
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:01:33
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:01:35
+S2 ~ CracK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:01:36
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:01:38
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:01:41
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:01:41
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:01:46
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:01:50
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:01:51
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:01:53
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:01:53
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:01:56
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:01:59
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:02:01
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:02:03
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:02:08
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:02:09
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:02:09
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:02:11
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:02:16
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:02:18
+RedcL
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:02:21
+S2 ~ patuzhO*
+S2 ~ CracK
+LAW
+--- 20-06-17 03:02:23
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:02:23
+RedcL
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:02:26
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:02:29
+RedcL
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:02:30
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:02:33
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:02:33
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:02:34
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:02:37
+S2 ~ Opazo*
+RedcL
+LAW
+--- 20-06-17 03:02:39
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:02:40
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:02:42
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 03:02:42
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:02:46
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:02:46
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:02:49
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:02:53
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:02:54
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 03:02:57
+RedcL
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:03:01
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:03:02
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:03:04
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:03:06
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:03:07
+S2 ~ patuzhO*
+RedcL
+LAW
+--- 20-06-17 03:03:09
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:03:12
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:03:13
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:03:14
+S2 ~ CracK
+S2 ~ Opazo*
+LAW
+--- 20-06-17 03:03:15
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:03:21
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:03:22
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:03:24
+RedcL
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:03:24
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:03:29
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:03:29
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:03:31
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:03:34
+RedcL
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:03:34
+S2 ~ Opazo*
+RedcL
+LAW
+--- 20-06-17 03:03:35
+S2 ~ CracK
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:03:35
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:03:38
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:03:44
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:03:45
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 03:03:50
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:03:52
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:03:53
+RedcL
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:03:57
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:04:01
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:04:01
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:04:01
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:04:07
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:04:10
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:04:11
+RedcL
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:04:13
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:04:18
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:04:20
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:04:25
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:04:25
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:04:30
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 03:04:30
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:04:34
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:04:38
+RedcL
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:04:38
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:04:39
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:04:44
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:04:47
+RedcL
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:04:47
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:04:49
+S2 ~ Opazo*
+RedcL
+LAW
+--- 20-06-17 03:04:52
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:04:52
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:04:55
+S2 ~ patuzhO*
+RedcL
+LAW
+--- 20-06-17 03:04:58
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:04:58
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:04:58
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:05:01
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:05:04
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:05:05
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 03:05:08
+RedcL
+RedcL
+Grenade
+--- 20-06-17 03:05:09
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:05:09
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:05:14
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:05:16
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:05:17
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:05:20
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:05:24
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:05:25
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:05:25
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:05:26
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:05:30
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:05:32
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:05:33
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:05:34
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:05:35
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:05:39
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:05:40
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:05:41
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:05:45
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:05:46
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:05:48
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:05:48
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:05:51
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:05:53
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:05:54
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:05:57
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:05:57
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:05:58
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:06:02
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:06:03
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:06:05
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:06:06
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:06:09
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:06:10
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:06:13
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:06:13
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:06:15
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:06:18
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:06:18
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:06:21
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 03:06:21
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:06:24
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:06:27
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:06:30
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:06:34
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:06:34
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:06:36
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:06:38
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:06:42
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:06:45
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:06:45
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:06:45
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Hands
+--- 20-06-17 03:06:48
+RedcL
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:06:51
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:06:51
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:06:53
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:06:57
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:06:59
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:06:59
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:06:59
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:07:06
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:07:09
+RedcL
+RedcL
+Grenade
+--- 20-06-17 03:07:10
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:07:17
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:07:17
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:07:17
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:07:25
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:07:26
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:07:26
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:07:30
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:07:36
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:07:36
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:07:38
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:07:38
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:07:38
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:07:45
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:07:45
+RedcL
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:07:45
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:07:48
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:07:51
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:07:53
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:07:55
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:07:59
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:08:00
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:08:00
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:08:07
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:08:07
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:08:07
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:08:14
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:08:15
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:08:16
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:08:16
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:08:16
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:08:21
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:08:23
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:08:23
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:08:26
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 03:08:27
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:08:29
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 03:08:32
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:08:33
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:08:38
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:08:39
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:08:40
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:08:43
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:08:45
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:08:48
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:08:49
+S2 ~ Opazo*
+S2 ~ CracK
+LAW
+--- 20-06-17 03:08:55
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:08:56
+RedcL
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:08:57
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:08:59
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:09:04
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:09:05
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:09:05
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:09:06
+S3 ~ PoKemon
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:09:08
+S3 ~ PoKemon
+RedcL
+HK MP5
+--- 20-06-17 03:09:09
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:09:17
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:09:18
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:09:19
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:09:20
+S2 ~ Opazo*
+RedcL
+Grenade
+--- 20-06-17 03:09:24
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:09:26
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:09:26
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:09:27
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:09:30
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:09:33
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:09:33
+S2 ~ CracK
+S2 ~ Opazo*
+Spas-12
+--- 20-06-17 03:09:35
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:09:37
+RedcL
+S3 ~ PoKemon
+HK MP5
+--- 20-06-17 03:09:38
+S2 ~ Opazo*
+RedcL
+HK MP5
+--- 20-06-17 03:09:40
+S2 ~ Opazo*
+S2 ~ CracK
+HK MP5
+--- 20-06-17 03:09:42
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:09:44
+S2 ~ patuzhO*
+RedcL
+LAW
+--- 20-06-17 03:09:46
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:09:51
+S2 ~ patuzhO*
+RedcL
+Grenade
+--- 20-06-17 03:09:52
+S2 ~ CracK
+S2 ~ patuzhO*
+Spas-12
+--- 20-06-17 03:09:54
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:09:58
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:09:59
+RedcL
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:10:02
+S2 ~ Opazo*
+RedcL
+LAW
+--- 20-06-17 03:10:05
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:10:05
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:10:11
+RedcL
+S2 ~ patuzhO*
+HK MP5
+--- 20-06-17 03:10:14
+S3 ~ PoKemon
+RedcL
+Grenade
+--- 20-06-17 03:10:14
+S2 ~ CracK
+S3 ~ PoKemon
+Spas-12
+--- 20-06-17 03:10:14
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:10:20
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:10:21
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:10:22
+RedcL
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:10:27
+S2 ~ patuzhO*
+RedcL
+Steyr AUG
+--- 20-06-17 03:10:27
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:10:28
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 03:10:28
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:10:35
+S2 ~ Opazo*
+RedcL
+XM214 Minigun
+--- 20-06-17 03:10:36
+RedcL
+S2 ~ Opazo*
+HK MP5
+--- 20-06-17 03:10:36
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+HK MP5
+--- 20-06-17 03:11:13
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:11:14
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:11:15
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 03:11:17
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 03:11:19
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:11:20
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:11:25
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:11:26
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:11:27
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:11:29
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:11:31
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 03:11:33
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 03:11:33
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 03:11:37
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:11:39
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:11:43
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:11:44
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 03:11:46
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:11:48
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:11:54
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:11:55
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 03:11:56
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+FN Minimi
+--- 20-06-17 03:11:59
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:12:04
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 03:12:04
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:12:07
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:12:10
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:12:11
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:12:14
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 03:12:20
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:12:21
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:12:22
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 03:12:28
+S3 ~ PoKemon
+S2 ~ CracK
+Ruger 77
+--- 20-06-17 03:12:34
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Steyr AUG
+--- 20-06-17 03:12:39
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 03:12:42
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:12:44
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:12:46
+S2 ~ CracK
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:12:48
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:12:52
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:12:59
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:13:01
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:13:02
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+FN Minimi
+--- 20-06-17 03:13:09
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+LAW
+--- 20-06-17 03:13:13
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:13:14
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:13:16
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Ruger 77
+--- 20-06-17 03:13:17
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 03:13:26
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Combat Knife
+--- 20-06-17 03:13:27
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 03:13:29
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:13:34
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:13:37
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 03:13:38
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 03:13:39
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:13:39
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:13:44
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+FN Minimi
+--- 20-06-17 03:13:44
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:13:44
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:13:50
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 03:13:51
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 03:13:52
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:13:55
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+FN Minimi
+--- 20-06-17 03:13:55
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:13:59
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:14:00
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 03:14:01
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:14:04
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:14:04
+S2 ~ CracK
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:14:05
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 03:14:15
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+LAW
+--- 20-06-17 03:14:17
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+FN Minimi
+--- 20-06-17 03:14:18
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:14:22
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:14:22
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:14:25
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+Ruger 77
+--- 20-06-17 03:14:29
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+FN Minimi
+--- 20-06-17 03:14:30
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:14:35
+S2 ~ CracK
+S3 ~ PoKemon
+Steyr AUG
+--- 20-06-17 03:14:36
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:14:38
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:14:44
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+FN Minimi
+--- 20-06-17 03:14:45
+S2 ~ CracK
+S2 ~ patuzhO*
+Steyr AUG
+--- 20-06-17 03:14:47
+S3 ~ PoKemon
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:14:51
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:14:53
+S2 ~ patuzhO*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:14:57
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+FN Minimi
+--- 20-06-17 03:15:00
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:15:00
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:15:03
+S2 ~ Opazo*
+S2 ~ CracK
+Barrett M82A1
+--- 20-06-17 03:15:05
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+LAW
+--- 20-06-17 03:15:05
+S2 ~ Opazo*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:15:13
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:15:17
+S2 ~ patuzhO*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:15:17
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 03:15:17
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:15:18
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Barrett M82A1
+--- 20-06-17 03:15:22
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-06-17 03:15:22
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:15:28
+S2 ~ CracK
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:15:32
+S3 ~ PoKemon
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:15:33
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:15:35
+S2 ~ patuzhO*
+S2 ~ CracK
+M79
+--- 20-06-17 03:15:37
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:15:38
+S3 ~ PoKemon
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:15:42
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:15:45
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 03:15:45
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:15:47
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 03:15:49
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:15:50
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+LAW
+--- 20-06-17 03:15:54
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:15:57
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:16:01
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:16:01
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:16:05
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:16:09
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:16:12
+S2 ~ patuzhO*
+S2 ~ CracK
+LAW
+--- 20-06-17 03:16:12
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:16:14
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:16:23
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Barrett M82A1
+--- 20-06-17 03:16:25
+S3 ~ PoKemon
+S2 ~ CracK
+LAW
+--- 20-06-17 03:16:25
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+Barrett M82A1
+--- 20-06-17 03:16:39
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:16:40
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:16:45
+S2 ~ CracK
+S2 ~ CracK
+M79
+--- 20-06-17 03:16:46
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:16:46
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:16:55
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:16:55
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:16:57
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:17:00
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Chainsaw
+--- 20-06-17 03:17:01
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Chainsaw
+--- 20-06-17 03:17:03
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:17:09
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:17:09
+S2 ~ CracK
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:17:16
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:17:19
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:17:20
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:17:21
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-17 03:17:24
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:17:43
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:17:48
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+Steyr AUG
+--- 20-06-17 03:17:49
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 03:17:51
+S2 ~ Opazo*
+S2 ~ CracK
+Steyr AUG
+--- 20-06-17 03:17:57
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:18:02
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:18:05
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:18:11
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:18:11
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:18:11
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:18:13
+S2 ~ BioSeaX!
+S2 ~ BioSeaX!
+Grenade
+--- 20-06-17 03:18:13
+S2 ~ BioSeaX!
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:18:18
+S3 ~ PoKemon
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:18:21
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:18:25
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 03:18:26
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Steyr AUG
+--- 20-06-17 03:18:31
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:18:32
+S2 ~ patuzhO*
+S2 ~ CracK
+LAW
+--- 20-06-17 03:18:36
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+M79
+--- 20-06-17 03:18:36
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:18:40
+S3 ~ PoKemon
+S2 ~ CracK
+M79
+--- 20-06-17 03:18:43
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:18:46
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:18:50
+S2 ~ Opazo*
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:18:54
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:18:54
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:18:57
+S2 ~ CracK
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:18:58
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:19:02
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:19:07
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:19:09
+S2 ~ DeFkOndOz*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:19:11
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:19:14
+S2 ~ Opazo*
+S2 ~ CracK
+M79
+--- 20-06-17 03:19:17
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:19:20
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:19:22
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 03:19:22
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:19:33
+S3 ~ PoKemon
+S2 ~ BioSeaX!
+LAW
+--- 20-06-17 03:19:38
+S2 ~ Opazo*
+S2 ~ CracK
+M79
+--- 20-06-17 03:19:44
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:19:50
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:19:54
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:19:57
+S2 ~ CracK
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:19:58
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Grenade
+--- 20-06-17 03:19:59
+S2 ~ patuzhO*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 03:20:02
+S2 ~ BioSeaX!
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:20:02
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:20:06
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:20:12
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:20:13
+S2 ~ CracK
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:20:14
+S2 ~ Opazo*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:20:14
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+Grenade
+--- 20-06-17 03:20:22
+S2 ~ CracK
+S3 ~ PoKemon
+Barrett M82A1
+--- 20-06-17 03:20:24
+S2 ~ DeFkOndOz*
+S2 ~ patuzhO*
+M79
+--- 20-06-17 03:20:26
+S2 ~ CracK
+S2 ~ Opazo*
+Barrett M82A1
+--- 20-06-17 03:20:34
+S2 ~ DeFkOndOz*
+S2 ~ Opazo*
+Chainsaw
+--- 20-06-17 03:20:34
+S2 ~ patuzhO*
+S2 ~ BioSeaX!
+M79
+--- 20-06-17 03:20:35
+S2 ~ CracK
+S3 ~ PoKemon
+Grenade
+--- 20-06-17 03:20:36
+S2 ~ CracK
+S2 ~ patuzhO*
+Barrett M82A1
+--- 20-06-17 03:20:44
+S2 ~ Opazo*
+S2 ~ CracK
+M79
+--- 20-06-17 03:20:47
+S2 ~ DeFkOndOz*
+S3 ~ PoKemon
+M79
+--- 20-06-17 03:20:48
+S2 ~ Opazo*
+S2 ~ DeFkOndOz*
+M79
+--- 20-06-17 03:20:55
+S2 ~ patuzhO*
+S2 ~ CracK
+M79
+--- 20-06-17 03:20:59
+S2 ~ patuzhO*
+S2 ~ patuzhO*
+Grenade
+--- 20-06-17 03:21:00
+S2 ~ CracK
+S2 ~ CracK
+Grenade
+--- 20-06-17 03:21:01
+S2 ~ BioSeaX!
+S3 ~ PoKemon
+Combat Knife
+--- 20-06-19 01:33:47
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Barrett M82A1
+--- 20-06-19 01:33:51
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:34:07
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:34:13
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:34:19
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:34:26
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:34:41
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:34:46
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:34:55
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Grenade
+--- 20-06-19 01:35:00
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:11
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:17
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:22
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:31
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:44
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:48
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:35:54
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:35:59
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:36:10
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:36:17
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:36:22
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:36:22
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:36:30
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:36:35
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:36:41
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:36:47
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:36:53
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:37:00
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:37:09
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Hands
+--- 20-06-19 01:37:27
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:37:38
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Grenade
+--- 20-06-19 01:37:43
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:37:43
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:37:49
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:37:56
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:38:05
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Grenade
+--- 20-06-19 01:38:10
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:15
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:38:19
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:26
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:38:31
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:38:31
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:36
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:40
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:45
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:38:51
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:38:57
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:02
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:08
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:15
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:21
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:21
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:28
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:28
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:33
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:38
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:39:44
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:49
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:39:57
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:05
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:12
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:19
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:25
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:31
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:31
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:40:38
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:40:43
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:43
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:40:50
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:40:56
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:41:02
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:41:08
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:41:08
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:41:13
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:41:28
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:41:33
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:41:44
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:41:49
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:41:54
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:42:07
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:42:07
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:42:13
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:42:17
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:42:23
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:42:29
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:42:44
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:42:51
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:42:56
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:43:00
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:43:17
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:43:21
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:43:26
+XRe1ch|Sadiko
+XRe1ch|SenzacL*
+Ruger 77
+--- 20-06-19 01:43:26
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:43:31
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:43:35
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:43:39
+XRe1ch|SenzacL*
+XRe1ch|Sadiko
+Grenade
+--- 20-06-19 01:47:22
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Steyr AUG
+--- 20-06-19 01:47:29
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Steyr AUG
+--- 20-06-19 01:47:34
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Hands
+--- 20-06-19 01:47:41
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Steyr AUG
+--- 20-06-19 01:47:45
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Steyr AUG
+--- 20-06-19 01:47:55
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Grenade
+--- 20-06-19 01:48:00
+XRe1ch|CieWC
+XRe1ch|Sadiko
+Grenade
+--- 20-06-19 01:49:22
+mipHo
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 01:49:26
+mipHo
+XRe1ch|Sadiko
+Grenade
+--- 20-06-19 01:49:29
+mipHo
+XRe1ch|Sadiko
+Ruger 77
+--- 20-06-19 21:44:05
+sT#' YnGwi3
+sT#' YnGwi3
+M79
+--- 20-06-19 21:45:23
+Sk8'
+#1 Mand3s
+M79
+--- 20-06-19 21:45:28
+Sk8'
+#1 Mand3s
+Grenade
+--- 20-06-19 21:45:34
+sT#' YnGwi3
+#1 Mand3s
+Grenade
+--- 20-06-19 21:45:34
+Sk8'
+sT#' YnGwi3
+Grenade
+--- 20-06-19 21:45:43
+#1 Mand3s
+sT#' YnGwi3
+Spas-12
+--- 20-06-19 21:45:45
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:46:18
+sT#' YnGwi3
+mipHo
+HK MP5
+--- 20-06-19 21:46:29
+Sk8'
+#1 Mand3s
+Grenade
+--- 20-06-19 21:46:35
+sT#' YnGwi3
+sT#' YnGwi3
+Grenade
+--- 20-06-19 21:46:42
+Sk8'
+sT#' YnGwi3
+Spas-12
+--- 20-06-19 21:46:43
+mipHo
+Sk8'
+Spas-12
+--- 20-06-19 21:46:56
+mipHo
+sT#' YnGwi3
+Spas-12
+--- 20-06-19 21:47:04
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:47:09
+Sk8'
+mipHo
+Grenade
+--- 20-06-19 21:47:15
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:15
+Sk8'
+mipHo
+Desert Eagles
+--- 20-06-19 21:47:21
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:22
+Sk8'
+#1 Mand3s
+Grenade
+--- 20-06-19 21:47:28
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:30
+Sk8'
+#1 Mand3s
+Desert Eagles
+--- 20-06-19 21:47:34
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:38
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:47:42
+Sk8'
+mipHo
+Desert Eagles
+--- 20-06-19 21:47:47
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:56
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:47:56
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:47:59
+Sk8'
+mipHo
+Desert Eagles
+--- 20-06-19 21:47:59
+mipHo
+Sk8'
+Spas-12
+--- 20-06-19 21:48:06
+Sk8'
+#1 Mand3s
+Ruger 77
+--- 20-06-19 21:48:11
+Sk8'
+#1 Mand3s
+Grenade
+--- 20-06-19 21:48:13
+Sk8'
+mipHo
+Ruger 77
+--- 20-06-19 21:48:22
+Sk8'
+Sk8'
+Grenade
+--- 20-06-19 21:48:30
+Sk8'
+#1 Mand3s
+Ruger 77
+--- 20-06-19 21:48:34
+mipHo
+Sk8'
+Spas-12
+--- 20-06-19 21:48:37
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:48:43
+Sk8'
+sT#' YnGwi3
+Desert Eagles
+--- 20-06-19 21:48:46
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:48:48
+Admiral
+mipHo
+Ak-74
+--- 20-06-19 21:48:50
+Sk8'
+Admiral
+Desert Eagles
+--- 20-06-19 21:48:52
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:48:53
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:48:55
+Admiral
+mipHo
+Grenade
+--- 20-06-19 21:49:00
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:49:02
+sT#' YnGwi3
+#1 Mand3s
+HK MP5
+--- 20-06-19 21:49:06
+sT#' YnGwi3
+Admiral
+Grenade
+--- 20-06-19 21:49:06
+mipHo
+Boogie Man
+XM214 Minigun
+--- 20-06-19 21:49:07
+Admiral
+sT#' YnGwi3
+FN Minimi
+--- 20-06-19 21:49:08
+mipHo
+#1 Mand3s
+XM214 Minigun
+--- 20-06-19 21:49:12
+Admiral
+mipHo
+FN Minimi
+--- 20-06-19 21:49:15
+Sk8'
+Boogie Man
+FN Minimi
+--- 20-06-19 21:49:20
+Sk8'
+#1 Mand3s
+FN Minimi
+--- 20-06-19 21:49:22
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:49:28
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:49:29
+Sk8'
+Admiral
+FN Minimi
+--- 20-06-19 21:49:30
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:49:32
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:49:35
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:49:35
+Admiral
+sT#' YnGwi3
+Spas-12
+--- 20-06-19 21:49:35
+Admiral
+mipHo
+Spas-12
+--- 20-06-19 21:49:40
+Sk8'
+Boogie Man
+FN Minimi
+--- 20-06-19 21:49:40
+Sk8'
+Boogie Man
+FN Minimi
+--- 20-06-19 21:49:45
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:49:46
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:49:46
+#1 Mand3s
+mipHo
+Combat Knife
+--- 20-06-19 21:49:47
+sT#' YnGwi3
+Boogie Man
+Grenade
+--- 20-06-19 21:49:49
+Sk8'
+#1 Mand3s
+FN Minimi
+--- 20-06-19 21:49:55
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:49:55
+Sk8'
+Boogie Man
+HK MP5
+--- 20-06-19 21:49:56
+Admiral
+Sk8'
+Ak-74
+--- 20-06-19 21:50:02
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:50:04
+mipHo
+Boogie Man
+Grenade
+--- 20-06-19 21:50:05
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:50:05
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:50:05
+sT#' YnGwi3
+Admiral
+Grenade
+--- 20-06-19 21:50:07
+Sk8'
+Admiral
+Desert Eagles
+--- 20-06-19 21:50:08
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:50:10
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:50:10
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:50:10
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:50:10
+sT#' YnGwi3
+Admiral
+HK MP5
+--- 20-06-19 21:50:14
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:50:15
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:50:16
+sT#' YnGwi3
+Boogie Man
+Grenade
+--- 20-06-19 21:50:19
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:50:20
+Admiral
+sT#' YnGwi3
+FN Minimi
+--- 20-06-19 21:50:21
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:50:27
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:50:27
+Sk8'
+#1 Mand3s
+FN Minimi
+--- 20-06-19 21:50:30
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:50:30
+Sk8'
+Boogie Man
+Combat Knife
+--- 20-06-19 21:50:31
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:50:38
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:50:40
+#1 Mand3s
+mipHo
+Combat Knife
+--- 20-06-19 21:50:40
+Sk8'
+Admiral
+FN Minimi
+--- 20-06-19 21:52:02
+sT#' YnGwi3
+Admiral
+HK MP5
+--- 20-06-19 21:52:02
+sT#' YnGwi3
+Boogie Man
+HK MP5
+--- 20-06-19 21:52:03
+#1 Mand3s
+sT#' YnGwi3
+Combat Knife
+--- 20-06-19 21:52:05
+#1 Mand3s
+Sk8'
+Combat Knife
+--- 20-06-19 21:52:07
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:52:08
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:52:09
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:11
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:52:14
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:52:14
+mipHo
+Admiral
+Grenade
+--- 20-06-19 21:52:15
+sT#' YnGwi3
+Admiral
+Grenade
+--- 20-06-19 21:52:15
+sT#' YnGwi3
+Boogie Man
+Grenade
+--- 20-06-19 21:52:15
+Sk8'
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:17
+#1 Mand3s
+Sk8'
+Combat Knife
+--- 20-06-19 21:52:18
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:20
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:23
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:52:25
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:25
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:27
+Admiral
+sT#' YnGwi3
+FN Minimi
+--- 20-06-19 21:52:29
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:29
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:52:30
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:52:31
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:52:36
+sT#' YnGwi3
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:52:38
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:39
+sT#' YnGwi3
+Admiral
+Spas-12
+--- 20-06-19 21:52:40
+Sk8'
+Boogie Man
+Desert Eagles
+--- 20-06-19 21:52:41
+#1 Mand3s
+mipHo
+Chainsaw
+--- 20-06-19 21:52:43
+Sk8'
+Boogie Man
+Desert Eagles
+--- 20-06-19 21:52:43
+Sk8'
+Admiral
+Desert Eagles
+--- 20-06-19 21:52:43
+sT#' YnGwi3
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:52:43
+Admiral
+sT#' YnGwi3
+FN Minimi
+--- 20-06-19 21:52:46
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:52:50
+mipHo
+Admiral
+Grenade
+--- 20-06-19 21:52:52
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:52
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:56
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:52:56
+Sk8'
+#1 Mand3s
+HK MP5
+--- 20-06-19 21:52:57
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:52:59
+Sk8'
+Boogie Man
+HK MP5
+--- 20-06-19 21:53:00
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:53:01
+Sk8'
+Boogie Man
+Grenade
+--- 20-06-19 21:53:01
+Sk8'
+Admiral
+HK MP5
+--- 20-06-19 21:53:04
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:07
+Sk8'
+#1 Mand3s
+HK MP5
+--- 20-06-19 21:53:09
+Sk8'
+Boogie Man
+Combat Knife
+--- 20-06-19 21:53:09
+sT#' YnGwi3
+Admiral
+Grenade
+--- 20-06-19 21:53:10
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:10
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:11
+sT#' YnGwi3
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:53:11
+Admiral
+Sk8'
+Spas-12
+--- 20-06-19 21:53:14
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:53:18
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:53:18
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:19
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:53:26
+sT#' YnGwi3
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:27
+#1 Mand3s
+Sk8'
+Chainsaw
+--- 20-06-19 21:53:27
+Sk8'
+#1 Mand3s
+Grenade
+--- 20-06-19 21:53:28
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:28
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:30
+Admiral
+mipHo
+FN Minimi
+--- 20-06-19 21:53:34
+sT#' YnGwi3
+Admiral
+Grenade
+--- 20-06-19 21:53:35
+sT#' YnGwi3
+Admiral
+Spas-12
+--- 20-06-19 21:53:35
+Admiral
+sT#' YnGwi3
+Spas-12
+--- 20-06-19 21:53:41
+Sk8'
+Admiral
+HK MP5
+--- 20-06-19 21:53:41
+Sk8'
+Boogie Man
+HK MP5
+--- 20-06-19 21:53:43
+Sk8'
+Boogie Man
+HK MP5
+--- 20-06-19 21:53:43
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:53:46
+mipHo
+Boogie Man
+Spas-12
+--- 20-06-19 21:53:46
+#1 Mand3s
+mipHo
+Chainsaw
+--- 20-06-19 21:53:52
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:53:53
+Sk8'
+Boogie Man
+FN Minimi
+--- 20-06-19 21:53:59
+Sk8'
+Boogie Man
+Grenade
+--- 20-06-19 21:53:59
+Sk8'
+#1 Mand3s
+FN Minimi
+--- 20-06-19 21:54:02
+Sk8'
+Admiral
+FN Minimi
+--- 20-06-19 21:54:03
+Sk8'
+Boogie Man
+FN Minimi
+--- 20-06-19 21:54:03
+Sk8'
+Admiral
+FN Minimi
+--- 20-06-19 21:54:05
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:54:10
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:54:10
+mipHo
+Admiral
+Spas-12
+--- 20-06-19 21:54:40
+mipHo
+#1 Mand3s
+Spas-12
+--- 20-06-19 21:55:34
+Sk8'
+Boogie Man
+Desert Eagles
+--- 20-06-19 21:55:43
+Sk8'
+Boogie Man
+Desert Eagles
+--- 20-06-19 21:55:48
+Sk8'
+Boogie Man
+Desert Eagles
+--- 20-06-19 21:55:50
+#1 Mand3s
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:55:52
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:56:00
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:56:06
+Sk8'
+#1 Mand3s
+Barrett M82A1
+--- 20-06-19 21:56:10
+Sk8'
+Admiral
+Combat Knife
+--- 20-06-19 21:56:21
+Sk8'
+#1 Mand3s
+Barrett M82A1
+--- 20-06-19 21:56:25
+Sk8'
+Boogie Man
+Barrett M82A1
+--- 20-06-19 21:56:30
+Sk8'
+#1 Mand3s
+Barrett M82A1
+--- 20-06-19 21:56:41
+Sk8'
+#1 Mand3s
+Barrett M82A1
+--- 20-06-19 21:56:45
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:56:46
+Admiral
+mipHo
+FN Minimi
+--- 20-06-19 21:56:46
+Sk8'
+Boogie Man
+Barrett M82A1
+--- 20-06-19 21:56:47
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:56:53
+#1 Mand3s
+sT#' YnGwi3
+Grenade
+--- 20-06-19 21:56:53
+#1 Mand3s
+Sk8'
+Grenade
+--- 20-06-19 21:56:55
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:56:56
+#1 Mand3s
+mipHo
+Chainsaw
+--- 20-06-19 21:57:05
+#1 Mand3s
+mipHo
+Chainsaw
+--- 20-06-19 21:57:07
+#1 Mand3s
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:57:11
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:57:11
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:57:13
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:57:19
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:57:23
+mipHo
+#1 Mand3s
+Steyr AUG
+--- 20-06-19 21:57:24
+Boogie Man
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:57:30
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:57:34
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:57:40
+#1 Mand3s
+Sk8'
+Chainsaw
+--- 20-06-19 21:57:40
+#1 Mand3s
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:57:42
+#1 Mand3s
+mipHo
+Chainsaw
+--- 20-06-19 21:57:52
+#1 Mand3s
+Sk8'
+Chainsaw
+--- 20-06-19 21:57:52
+#1 Mand3s
+sT#' YnGwi3
+Chainsaw
+--- 20-06-19 21:57:55
+mipHo
+Admiral
+Steyr AUG
+--- 20-06-19 21:57:57
+Boogie Man
+mipHo
+Chainsaw
+--- 20-06-19 21:58:01
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:58:03
+Admiral
+mipHo
+Grenade
+--- 20-06-19 21:58:06
+Admiral
+Sk8'
+FN Minimi
+--- 20-06-19 21:58:11
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:58:18
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:58:21
+#1 Mand3s
+Sk8'
+Chainsaw
+--- 20-06-19 21:58:25
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:58:28
+mipHo
+Boogie Man
+Steyr AUG
+--- 20-06-19 21:58:29
+mipHo
+#1 Mand3s
+Steyr AUG
+--- 20-06-19 21:58:30
+Boogie Man
+Sk8'
+Chainsaw
+--- 20-06-19 21:58:34
+Admiral
+mipHo
+FN Minimi
+--- 20-06-19 21:58:41
+Admiral
+mipHo
+Grenade
+--- 20-06-19 21:58:47
+#1 Mand3s
+Sk8'
+Chainsaw

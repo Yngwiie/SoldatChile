@@ -1,0 +1,720 @@
+20-06-23 06:40:01    Console Log Started
+20-06-23 06:40:02 Welcome to Soldat 1.7.1
+20-06-23 06:40:02  [*] Preparing scripts to be launched
+20-06-23 06:40:02  [*] [BasicCommands] Loading bytecode
+20-06-23 06:40:02  [*] [BasicCommands] Bytecode loaded
+20-06-23 06:40:02  [*] Compiling match -> match.pas...
+20-06-23 06:40:02  [*] match compiled
+20-06-23 06:40:02  [*] Done
+20-06-23 06:40:02 Lothic - Gothic Lobby Room
+20-06-23 06:40:02  Connection for file server started. Port: 23110
+20-06-23 06:40:02 Registering server @ 88.99.234.252
+20-06-23 06:45:02 Time Left: 5 minutes
+20-06-23 06:46:02 Time Left: 4 minutes
+20-06-23 06:47:02 Time Left: 3 minutes
+20-06-23 06:48:02 Time Left: 2 minutes
+20-06-23 06:49:02 Time Left: 1 minutes
+20-06-23 06:50:02 Next map: Lobby
+20-06-23 06:50:07 Lothic - Gothic Lobby Room
+20-06-23 06:55:07 Time Left: 5 minutes
+20-06-23 06:56:07 Time Left: 4 minutes
+20-06-23 06:57:07 Time Left: 3 minutes
+20-06-23 06:58:07 Time Left: 2 minutes
+20-06-23 06:59:07 Time Left: 1 minutes
+20-06-23 07:00:07 Next map: Lobby
+20-06-23 07:00:13 Lothic - Gothic Lobby Room
+20-06-23 07:05:13 Time Left: 5 minutes
+20-06-23 07:06:13 Time Left: 4 minutes
+20-06-23 07:07:13 Time Left: 3 minutes
+20-06-23 07:08:13 Time Left: 2 minutes
+20-06-23 07:09:13 Time Left: 1 minutes
+20-06-23 07:10:13 Next map: Lobby
+20-06-23 07:10:18 Lothic - Gothic Lobby Room
+20-06-23 07:15:18 Time Left: 5 minutes
+20-06-23 07:16:18 Time Left: 4 minutes
+20-06-23 07:17:18 Time Left: 3 minutes
+20-06-23 07:18:18 Time Left: 2 minutes
+20-06-23 07:19:18 Time Left: 1 minutes
+20-06-23 07:20:18 Next map: Lobby
+20-06-23 07:20:23 Lothic - Gothic Lobby Room
+20-06-23 07:25:23 Time Left: 5 minutes
+20-06-23 07:26:23 Time Left: 4 minutes
+20-06-23 07:27:23 Time Left: 3 minutes
+20-06-23 07:28:23 Time Left: 2 minutes
+20-06-23 07:29:23 Time Left: 1 minutes
+20-06-23 07:30:23 Next map: Lobby
+20-06-23 07:30:29 Lothic - Gothic Lobby Room
+20-06-23 07:35:29 Time Left: 5 minutes
+20-06-23 07:36:29 Time Left: 4 minutes
+20-06-23 07:37:29 Time Left: 3 minutes
+20-06-23 07:38:29 Time Left: 2 minutes
+20-06-23 07:39:29 Time Left: 1 minutes
+20-06-23 07:40:29 Next map: Lobby
+20-06-23 07:40:34 Lothic - Gothic Lobby Room
+20-06-23 07:45:34 Time Left: 5 minutes
+20-06-23 07:46:34 Time Left: 4 minutes
+20-06-23 07:47:34 Time Left: 3 minutes
+20-06-23 07:48:34 Time Left: 2 minutes
+20-06-23 07:49:34 Time Left: 1 minutes
+20-06-23 07:50:34 Next map: Lobby
+20-06-23 07:50:39 Lothic - Gothic Lobby Room
+20-06-23 07:55:39 Time Left: 5 minutes
+20-06-23 07:56:39 Time Left: 4 minutes
+20-06-23 07:57:39 Time Left: 3 minutes
+20-06-23 07:58:39 Time Left: 2 minutes
+20-06-23 07:59:39 Time Left: 1 minutes
+20-06-23 08:00:39 Next map: Lobby
+20-06-23 08:00:45 Lothic - Gothic Lobby Room
+20-06-23 08:05:45 Time Left: 5 minutes
+20-06-23 08:06:45 Time Left: 4 minutes
+20-06-23 08:07:45 Time Left: 3 minutes
+20-06-23 08:08:45 Time Left: 2 minutes
+20-06-23 08:09:45 Time Left: 1 minutes
+20-06-23 08:10:45 Next map: Lobby
+20-06-23 08:10:50 Lothic - Gothic Lobby Room
+20-06-23 08:15:50 Time Left: 5 minutes
+20-06-23 08:16:50 Time Left: 4 minutes
+20-06-23 08:17:50 Time Left: 3 minutes
+20-06-23 08:18:50 Time Left: 2 minutes
+20-06-23 08:19:50 Time Left: 1 minutes
+20-06-23 08:20:50 Next map: Lobby
+20-06-23 08:20:55 Lothic - Gothic Lobby Room
+20-06-23 08:25:55 Time Left: 5 minutes
+20-06-23 08:26:55 Time Left: 4 minutes
+20-06-23 08:27:55 Time Left: 3 minutes
+20-06-23 08:28:55 Time Left: 2 minutes
+20-06-23 08:29:55 Time Left: 1 minutes
+20-06-23 08:30:55 Next map: Lobby
+20-06-23 08:31:01 Lothic - Gothic Lobby Room
+20-06-23 08:36:00 Time Left: 5 minutes
+20-06-23 08:37:00 Time Left: 4 minutes
+20-06-23 08:38:00 Time Left: 3 minutes
+20-06-23 08:39:00 Time Left: 2 minutes
+20-06-23 08:40:00 Time Left: 1 minutes
+20-06-23 08:41:00 Next map: Lobby
+20-06-23 08:41:06 Lothic - Gothic Lobby Room
+20-06-23 08:46:06 Time Left: 5 minutes
+20-06-23 08:47:06 Time Left: 4 minutes
+20-06-23 08:48:06 Time Left: 3 minutes
+20-06-23 08:49:06 Time Left: 2 minutes
+20-06-23 08:50:06 Time Left: 1 minutes
+20-06-23 08:51:06 Next map: Lobby
+20-06-23 08:51:11 Lothic - Gothic Lobby Room
+20-06-23 08:56:11 Time Left: 5 minutes
+20-06-23 08:57:11 Time Left: 4 minutes
+20-06-23 08:58:11 Time Left: 3 minutes
+20-06-23 08:59:11 Time Left: 2 minutes
+20-06-23 09:00:11 Time Left: 1 minutes
+20-06-23 09:01:11 Next map: Lobby
+20-06-23 09:01:16 Lothic - Gothic Lobby Room
+20-06-23 09:06:16 Time Left: 5 minutes
+20-06-23 09:07:16 Time Left: 4 minutes
+20-06-23 09:08:16 Time Left: 3 minutes
+20-06-23 09:09:16 Time Left: 2 minutes
+20-06-23 09:10:16 Time Left: 1 minutes
+20-06-23 09:11:16 Next map: Lobby
+20-06-23 09:11:22 Lothic - Gothic Lobby Room
+20-06-23 09:16:22 Time Left: 5 minutes
+20-06-23 09:17:22 Time Left: 4 minutes
+20-06-23 09:18:22 Time Left: 3 minutes
+20-06-23 09:19:22 Time Left: 2 minutes
+20-06-23 09:20:22 Time Left: 1 minutes
+20-06-23 09:21:22 Next map: Lobby
+20-06-23 09:21:27 Lothic - Gothic Lobby Room
+20-06-23 09:26:27 Time Left: 5 minutes
+20-06-23 09:27:27 Time Left: 4 minutes
+20-06-23 09:28:27 Time Left: 3 minutes
+20-06-23 09:29:27 Time Left: 2 minutes
+20-06-23 09:30:27 Time Left: 1 minutes
+20-06-23 09:31:27 Next map: Lobby
+20-06-23 09:31:32 Lothic - Gothic Lobby Room
+20-06-23 09:36:32 Time Left: 5 minutes
+20-06-23 09:37:32 Time Left: 4 minutes
+20-06-23 09:38:32 Time Left: 3 minutes
+20-06-23 09:39:32 Time Left: 2 minutes
+20-06-23 09:40:32 Time Left: 1 minutes
+20-06-23 09:41:32 Next map: Lobby
+20-06-23 09:41:38 Lothic - Gothic Lobby Room
+20-06-23 09:46:38 Time Left: 5 minutes
+20-06-23 09:47:38 Time Left: 4 minutes
+20-06-23 09:48:38 Time Left: 3 minutes
+20-06-23 09:49:38 Time Left: 2 minutes
+20-06-23 09:50:38 Time Left: 1 minutes
+20-06-23 09:51:38 Next map: Lobby
+20-06-23 09:51:43 Lothic - Gothic Lobby Room
+20-06-23 09:56:43 Time Left: 5 minutes
+20-06-23 09:57:43 Time Left: 4 minutes
+20-06-23 09:58:43 Time Left: 3 minutes
+20-06-23 09:59:43 Time Left: 2 minutes
+20-06-23 10:00:43 Time Left: 1 minutes
+20-06-23 10:01:43 Next map: Lobby
+20-06-23 10:01:48 Lothic - Gothic Lobby Room
+20-06-23 10:06:48 Time Left: 5 minutes
+20-06-23 10:07:48 Time Left: 4 minutes
+20-06-23 10:08:48 Time Left: 3 minutes
+20-06-23 10:09:48 Time Left: 2 minutes
+20-06-23 10:10:48 Time Left: 1 minutes
+20-06-23 10:11:48 Next map: Lobby
+20-06-23 10:11:54 Lothic - Gothic Lobby Room
+20-06-23 10:16:54 Time Left: 5 minutes
+20-06-23 10:17:54 Time Left: 4 minutes
+20-06-23 10:18:54 Time Left: 3 minutes
+20-06-23 10:19:54 Time Left: 2 minutes
+20-06-23 10:20:54 Time Left: 1 minutes
+20-06-23 10:21:54 Next map: Lobby
+20-06-23 10:21:59 Lothic - Gothic Lobby Room
+20-06-23 10:26:59 Time Left: 5 minutes
+20-06-23 10:27:59 Time Left: 4 minutes
+20-06-23 10:28:59 Time Left: 3 minutes
+20-06-23 10:29:59 Time Left: 2 minutes
+20-06-23 10:30:59 Time Left: 1 minutes
+20-06-23 10:31:59 Next map: Lobby
+20-06-23 10:32:04 Lothic - Gothic Lobby Room
+20-06-23 10:37:04 Time Left: 5 minutes
+20-06-23 10:38:04 Time Left: 4 minutes
+20-06-23 10:39:04 Time Left: 3 minutes
+20-06-23 10:40:04 Time Left: 2 minutes
+20-06-23 10:41:04 Time Left: 1 minutes
+20-06-23 10:42:04 Next map: Lobby
+20-06-23 10:42:10 Lothic - Gothic Lobby Room
+20-06-23 10:47:10 Time Left: 5 minutes
+20-06-23 10:48:10 Time Left: 4 minutes
+20-06-23 10:49:10 Time Left: 3 minutes
+20-06-23 10:50:10 Time Left: 2 minutes
+20-06-23 10:51:10 Time Left: 1 minutes
+20-06-23 10:52:10 Next map: Lobby
+20-06-23 10:52:15 Lothic - Gothic Lobby Room
+20-06-23 10:57:15 Time Left: 5 minutes
+20-06-23 10:58:15 Time Left: 4 minutes
+20-06-23 10:59:15 Time Left: 3 minutes
+20-06-23 11:00:15 Time Left: 2 minutes
+20-06-23 11:01:15 Time Left: 1 minutes
+20-06-23 11:02:15 Next map: Lobby
+20-06-23 11:02:20 Lothic - Gothic Lobby Room
+20-06-23 11:07:20 Time Left: 5 minutes
+20-06-23 11:08:20 Time Left: 4 minutes
+20-06-23 11:09:20 Time Left: 3 minutes
+20-06-23 11:10:20 Time Left: 2 minutes
+20-06-23 11:11:20 Time Left: 1 minutes
+20-06-23 11:12:20 Next map: Lobby
+20-06-23 11:12:26 Lothic - Gothic Lobby Room
+20-06-23 11:17:26 Time Left: 5 minutes
+20-06-23 11:18:26 Time Left: 4 minutes
+20-06-23 11:19:26 Time Left: 3 minutes
+20-06-23 11:20:26 Time Left: 2 minutes
+20-06-23 11:21:26 Time Left: 1 minutes
+20-06-23 11:22:26 Next map: Lobby
+20-06-23 11:22:31 Lothic - Gothic Lobby Room
+20-06-23 11:27:31 Time Left: 5 minutes
+20-06-23 11:28:31 Time Left: 4 minutes
+20-06-23 11:29:31 Time Left: 3 minutes
+20-06-23 11:30:31 Time Left: 2 minutes
+20-06-23 11:31:31 Time Left: 1 minutes
+20-06-23 11:32:31 Next map: Lobby
+20-06-23 11:32:36 Lothic - Gothic Lobby Room
+20-06-23 11:37:36 Time Left: 5 minutes
+20-06-23 11:38:36 Time Left: 4 minutes
+20-06-23 11:39:36 Time Left: 3 minutes
+20-06-23 11:40:36 Time Left: 2 minutes
+20-06-23 11:41:36 Time Left: 1 minutes
+20-06-23 11:42:36 Next map: Lobby
+20-06-23 11:42:42 Lothic - Gothic Lobby Room
+20-06-23 11:47:42 Time Left: 5 minutes
+20-06-23 11:48:42 Time Left: 4 minutes
+20-06-23 11:49:42 Time Left: 3 minutes
+20-06-23 11:50:42 Time Left: 2 minutes
+20-06-23 11:51:42 Time Left: 1 minutes
+20-06-23 11:52:41 Next map: Lobby
+20-06-23 11:52:47 Lothic - Gothic Lobby Room
+20-06-23 11:57:47 Time Left: 5 minutes
+20-06-23 11:58:47 Time Left: 4 minutes
+20-06-23 11:59:47 Time Left: 3 minutes
+20-06-23 12:00:47 Time Left: 2 minutes
+20-06-23 12:01:47 Time Left: 1 minutes
+20-06-23 12:02:47 Next map: Lobby
+20-06-23 12:02:52 Lothic - Gothic Lobby Room
+20-06-23 12:07:52 Time Left: 5 minutes
+20-06-23 12:08:52 Time Left: 4 minutes
+20-06-23 12:09:52 Time Left: 3 minutes
+20-06-23 12:10:52 Time Left: 2 minutes
+20-06-23 12:11:52 Time Left: 1 minutes
+20-06-23 12:12:52 Next map: Lobby
+20-06-23 12:12:57 Lothic - Gothic Lobby Room
+20-06-23 12:17:57 Time Left: 5 minutes
+20-06-23 12:18:57 Time Left: 4 minutes
+20-06-23 12:19:57 Time Left: 3 minutes
+20-06-23 12:20:57 Time Left: 2 minutes
+20-06-23 12:21:57 Time Left: 1 minutes
+20-06-23 12:22:57 Next map: Lobby
+20-06-23 12:23:03 Lothic - Gothic Lobby Room
+20-06-23 12:28:03 Time Left: 5 minutes
+20-06-23 12:29:03 Time Left: 4 minutes
+20-06-23 12:30:03 Time Left: 3 minutes
+20-06-23 12:31:03 Time Left: 2 minutes
+20-06-23 12:32:03 Time Left: 1 minutes
+20-06-23 12:33:03 Next map: Lobby
+20-06-23 12:33:08 Lothic - Gothic Lobby Room
+20-06-23 12:38:08 Time Left: 5 minutes
+20-06-23 12:39:08 Time Left: 4 minutes
+20-06-23 12:40:08 Time Left: 3 minutes
+20-06-23 12:41:08 Time Left: 2 minutes
+20-06-23 12:42:08 Time Left: 1 minutes
+20-06-23 12:43:08 Next map: Lobby
+20-06-23 12:43:13 Lothic - Gothic Lobby Room
+20-06-23 12:48:13 Time Left: 5 minutes
+20-06-23 12:49:13 Time Left: 4 minutes
+20-06-23 12:50:13 Time Left: 3 minutes
+20-06-23 12:51:13 Time Left: 2 minutes
+20-06-23 12:52:13 Time Left: 1 minutes
+20-06-23 12:53:13 Next map: Lobby
+20-06-23 12:53:19 Lothic - Gothic Lobby Room
+20-06-23 12:58:19 Time Left: 5 minutes
+20-06-23 12:59:19 Time Left: 4 minutes
+20-06-23 13:00:19 Time Left: 3 minutes
+20-06-23 13:01:19 Time Left: 2 minutes
+20-06-23 13:02:19 Time Left: 1 minutes
+20-06-23 13:03:19 Next map: Lobby
+20-06-23 13:03:24 Lothic - Gothic Lobby Room
+20-06-23 13:08:24 Time Left: 5 minutes
+20-06-23 13:09:24 Time Left: 4 minutes
+20-06-23 13:10:24 Time Left: 3 minutes
+20-06-23 13:11:24 Time Left: 2 minutes
+20-06-23 13:12:24 Time Left: 1 minutes
+20-06-23 13:13:24 Next map: Lobby
+20-06-23 13:13:29 Lothic - Gothic Lobby Room
+20-06-23 13:18:29 Time Left: 5 minutes
+20-06-23 13:19:29 Time Left: 4 minutes
+20-06-23 13:20:29 Time Left: 3 minutes
+20-06-23 13:21:29 Time Left: 2 minutes
+20-06-23 13:22:29 Time Left: 1 minutes
+20-06-23 13:23:29 Next map: Lobby
+20-06-23 13:23:35 Lothic - Gothic Lobby Room
+20-06-23 13:28:35 Time Left: 5 minutes
+20-06-23 13:29:35 Time Left: 4 minutes
+20-06-23 13:30:35 Time Left: 3 minutes
+20-06-23 13:31:35 Time Left: 2 minutes
+20-06-23 13:32:35 Time Left: 1 minutes
+20-06-23 13:33:35 Next map: Lobby
+20-06-23 13:33:40 Lothic - Gothic Lobby Room
+20-06-23 13:38:40 Time Left: 5 minutes
+20-06-23 13:39:40 Time Left: 4 minutes
+20-06-23 13:40:40 Time Left: 3 minutes
+20-06-23 13:41:40 Time Left: 2 minutes
+20-06-23 13:42:40 Time Left: 1 minutes
+20-06-23 13:43:40 Next map: Lobby
+20-06-23 13:43:45 Lothic - Gothic Lobby Room
+20-06-23 13:48:45 Time Left: 5 minutes
+20-06-23 13:49:45 Time Left: 4 minutes
+20-06-23 13:50:45 Time Left: 3 minutes
+20-06-23 13:51:45 Time Left: 2 minutes
+20-06-23 13:52:45 Time Left: 1 minutes
+20-06-23 13:53:45 Next map: Lobby
+20-06-23 13:53:51 Lothic - Gothic Lobby Room
+20-06-23 13:58:51 Time Left: 5 minutes
+20-06-23 13:59:51 Time Left: 4 minutes
+20-06-23 14:00:51 Time Left: 3 minutes
+20-06-23 14:01:51 Time Left: 2 minutes
+20-06-23 14:02:51 Time Left: 1 minutes
+20-06-23 14:03:51 Next map: Lobby
+20-06-23 14:03:56 Lothic - Gothic Lobby Room
+20-06-23 14:08:56 Time Left: 5 minutes
+20-06-23 14:09:56 Time Left: 4 minutes
+20-06-23 14:10:56 Time Left: 3 minutes
+20-06-23 14:11:56 Time Left: 2 minutes
+20-06-23 14:12:56 Time Left: 1 minutes
+20-06-23 14:13:56 Next map: Lobby
+20-06-23 14:14:01 Lothic - Gothic Lobby Room
+20-06-23 14:19:01 Time Left: 5 minutes
+20-06-23 14:20:01 Time Left: 4 minutes
+20-06-23 14:21:01 Time Left: 3 minutes
+20-06-23 14:22:01 Time Left: 2 minutes
+20-06-23 14:23:01 Time Left: 1 minutes
+20-06-23 14:24:01 Next map: Lobby
+20-06-23 14:24:07 Lothic - Gothic Lobby Room
+20-06-23 14:29:07 Time Left: 5 minutes
+20-06-23 14:30:07 Time Left: 4 minutes
+20-06-23 14:31:07 Time Left: 3 minutes
+20-06-23 14:32:07 Time Left: 2 minutes
+20-06-23 14:33:07 Time Left: 1 minutes
+20-06-23 14:34:07 Next map: Lobby
+20-06-23 14:34:12 Lothic - Gothic Lobby Room
+20-06-23 14:39:12 Time Left: 5 minutes
+20-06-23 14:40:12 Time Left: 4 minutes
+20-06-23 14:41:12 Time Left: 3 minutes
+20-06-23 14:42:12 Time Left: 2 minutes
+20-06-23 14:43:12 Time Left: 1 minutes
+20-06-23 14:44:12 Next map: Lobby
+20-06-23 14:44:17 Lothic - Gothic Lobby Room
+20-06-23 14:49:17 Time Left: 5 minutes
+20-06-23 14:50:17 Time Left: 4 minutes
+20-06-23 14:51:17 Time Left: 3 minutes
+20-06-23 14:52:17 Time Left: 2 minutes
+20-06-23 14:53:17 Time Left: 1 minutes
+20-06-23 14:54:17 Next map: Lobby
+20-06-23 14:54:23 Lothic - Gothic Lobby Room
+20-06-23 14:59:23 Time Left: 5 minutes
+20-06-23 15:00:23 Time Left: 4 minutes
+20-06-23 15:01:23 Time Left: 3 minutes
+20-06-23 15:02:23 Time Left: 2 minutes
+20-06-23 15:03:23 Time Left: 1 minutes
+20-06-23 15:04:23 Next map: Lobby
+20-06-23 15:04:28 Lothic - Gothic Lobby Room
+20-06-23 15:09:28 Time Left: 5 minutes
+20-06-23 15:10:28 Time Left: 4 minutes
+20-06-23 15:11:28 Time Left: 3 minutes
+20-06-23 15:12:28 Time Left: 2 minutes
+20-06-23 15:13:28 Time Left: 1 minutes
+20-06-23 15:14:28 Next map: Lobby
+20-06-23 15:14:33 Lothic - Gothic Lobby Room
+20-06-23 15:19:33 Time Left: 5 minutes
+20-06-23 15:20:33 Time Left: 4 minutes
+20-06-23 15:21:33 Time Left: 3 minutes
+20-06-23 15:22:33 Time Left: 2 minutes
+20-06-23 15:23:33 Time Left: 1 minutes
+20-06-23 15:24:33 Next map: Lobby
+20-06-23 15:24:38 Lothic - Gothic Lobby Room
+20-06-23 15:29:38 Time Left: 5 minutes
+20-06-23 15:30:38 Time Left: 4 minutes
+20-06-23 15:31:38 Time Left: 3 minutes
+20-06-23 15:32:38 Time Left: 2 minutes
+20-06-23 15:33:38 Time Left: 1 minutes
+20-06-23 15:34:38 Next map: Lobby
+20-06-23 15:34:44 Lothic - Gothic Lobby Room
+20-06-23 15:39:44 Time Left: 5 minutes
+20-06-23 15:40:44 Time Left: 4 minutes
+20-06-23 15:41:44 Time Left: 3 minutes
+20-06-23 15:42:44 Time Left: 2 minutes
+20-06-23 15:43:44 Time Left: 1 minutes
+20-06-23 15:44:44 Next map: Lobby
+20-06-23 15:44:49 Lothic - Gothic Lobby Room
+20-06-23 15:49:49 Time Left: 5 minutes
+20-06-23 15:50:49 Time Left: 4 minutes
+20-06-23 15:51:49 Time Left: 3 minutes
+20-06-23 15:52:49 Time Left: 2 minutes
+20-06-23 15:53:49 Time Left: 1 minutes
+20-06-23 15:54:49 Next map: Lobby
+20-06-23 15:54:54 Lothic - Gothic Lobby Room
+20-06-23 15:59:54 Time Left: 5 minutes
+20-06-23 16:00:54 Time Left: 4 minutes
+20-06-23 16:01:54 Time Left: 3 minutes
+20-06-23 16:02:54 Time Left: 2 minutes
+20-06-23 16:03:54 Time Left: 1 minutes
+20-06-23 16:04:54 Next map: Lobby
+20-06-23 16:05:00 Lothic - Gothic Lobby Room
+20-06-23 16:10:00 Time Left: 5 minutes
+20-06-23 16:11:00 Time Left: 4 minutes
+20-06-23 16:12:00 Time Left: 3 minutes
+20-06-23 16:13:00 Time Left: 2 minutes
+20-06-23 16:14:00 Time Left: 1 minutes
+20-06-23 16:15:00 Next map: Lobby
+20-06-23 16:15:05 Lothic - Gothic Lobby Room
+20-06-23 16:20:05 Time Left: 5 minutes
+20-06-23 16:21:05 Time Left: 4 minutes
+20-06-23 16:22:05 Time Left: 3 minutes
+20-06-23 16:23:05 Time Left: 2 minutes
+20-06-23 16:24:05 Time Left: 1 minutes
+20-06-23 16:25:05 Next map: Lobby
+20-06-23 16:25:10 Lothic - Gothic Lobby Room
+20-06-23 16:30:10 Time Left: 5 minutes
+20-06-23 16:31:10 Time Left: 4 minutes
+20-06-23 16:32:10 Time Left: 3 minutes
+20-06-23 16:33:10 Time Left: 2 minutes
+20-06-23 16:34:10 Time Left: 1 minutes
+20-06-23 16:35:10 Next map: Lobby
+20-06-23 16:35:16 Lothic - Gothic Lobby Room
+20-06-23 16:40:16 Time Left: 5 minutes
+20-06-23 16:41:16 Time Left: 4 minutes
+20-06-23 16:42:16 Time Left: 3 minutes
+20-06-23 16:43:16 Time Left: 2 minutes
+20-06-23 16:44:16 Time Left: 1 minutes
+20-06-23 16:45:16 Next map: Lobby
+20-06-23 16:45:21 Lothic - Gothic Lobby Room
+20-06-23 16:50:21 Time Left: 5 minutes
+20-06-23 16:51:21 Time Left: 4 minutes
+20-06-23 16:52:21 Time Left: 3 minutes
+20-06-23 16:53:21 Time Left: 2 minutes
+20-06-23 16:54:21 Time Left: 1 minutes
+20-06-23 16:55:21 Next map: Lobby
+20-06-23 16:55:26 Lothic - Gothic Lobby Room
+20-06-23 17:00:26 Time Left: 5 minutes
+20-06-23 17:01:26 Time Left: 4 minutes
+20-06-23 17:02:26 Time Left: 3 minutes
+20-06-23 17:03:26 Time Left: 2 minutes
+20-06-23 17:04:26 Time Left: 1 minutes
+20-06-23 17:05:26 Next map: Lobby
+20-06-23 17:05:32 Lothic - Gothic Lobby Room
+20-06-23 17:10:32 Time Left: 5 minutes
+20-06-23 17:11:32 Time Left: 4 minutes
+20-06-23 17:12:32 Time Left: 3 minutes
+20-06-23 17:13:32 Time Left: 2 minutes
+20-06-23 17:14:32 Time Left: 1 minutes
+20-06-23 17:15:32 Next map: Lobby
+20-06-23 17:15:37 Lothic - Gothic Lobby Room
+20-06-23 17:20:37 Time Left: 5 minutes
+20-06-23 17:21:37 Time Left: 4 minutes
+20-06-23 17:22:37 Time Left: 3 minutes
+20-06-23 17:23:37 Time Left: 2 minutes
+20-06-23 17:24:37 Time Left: 1 minutes
+20-06-23 17:25:37 Next map: Lobby
+20-06-23 17:25:42 Lothic - Gothic Lobby Room
+20-06-23 17:30:42 Time Left: 5 minutes
+20-06-23 17:31:42 Time Left: 4 minutes
+20-06-23 17:32:42 Time Left: 3 minutes
+20-06-23 17:33:42 Time Left: 2 minutes
+20-06-23 17:34:42 Time Left: 1 minutes
+20-06-23 17:35:42 Next map: Lobby
+20-06-23 17:35:48 Lothic - Gothic Lobby Room
+20-06-23 17:40:48 Time Left: 5 minutes
+20-06-23 17:41:48 Time Left: 4 minutes
+20-06-23 17:42:48 Time Left: 3 minutes
+20-06-23 17:43:48 Time Left: 2 minutes
+20-06-23 17:44:48 Time Left: 1 minutes
+20-06-23 17:45:48 Next map: Lobby
+20-06-23 17:45:53 Lothic - Gothic Lobby Room
+20-06-23 17:50:53 Time Left: 5 minutes
+20-06-23 17:51:53 Time Left: 4 minutes
+20-06-23 17:52:53 Time Left: 3 minutes
+20-06-23 17:53:53 Time Left: 2 minutes
+20-06-23 17:54:53 Time Left: 1 minutes
+20-06-23 17:55:53 Next map: Lobby
+20-06-23 17:55:58 Lothic - Gothic Lobby Room
+20-06-23 18:00:58 Time Left: 5 minutes
+20-06-23 18:01:58 Time Left: 4 minutes
+20-06-23 18:02:58 Time Left: 3 minutes
+20-06-23 18:03:58 Time Left: 2 minutes
+20-06-23 18:04:58 Time Left: 1 minutes
+20-06-23 18:05:58 Next map: Lobby
+20-06-23 18:06:04 Lothic - Gothic Lobby Room
+20-06-23 18:11:04 Time Left: 5 minutes
+20-06-23 18:12:04 Time Left: 4 minutes
+20-06-23 18:13:04 Time Left: 3 minutes
+20-06-23 18:14:04 Time Left: 2 minutes
+20-06-23 18:15:04 Time Left: 1 minutes
+20-06-23 18:16:04 Next map: Lobby
+20-06-23 18:16:09 Lothic - Gothic Lobby Room
+20-06-23 18:21:09 Time Left: 5 minutes
+20-06-23 18:22:09 Time Left: 4 minutes
+20-06-23 18:23:09 Time Left: 3 minutes
+20-06-23 18:24:09 Time Left: 2 minutes
+20-06-23 18:25:09 Time Left: 1 minutes
+20-06-23 18:26:09 Next map: Lobby
+20-06-23 18:26:14 Lothic - Gothic Lobby Room
+20-06-23 18:31:14 Time Left: 5 minutes
+20-06-23 18:32:14 Time Left: 4 minutes
+20-06-23 18:33:14 Time Left: 3 minutes
+20-06-23 18:34:14 Time Left: 2 minutes
+20-06-23 18:35:14 Time Left: 1 minutes
+20-06-23 18:36:14 Next map: Lobby
+20-06-23 18:36:20 Lothic - Gothic Lobby Room
+20-06-23 18:41:19 Time Left: 5 minutes
+20-06-23 18:42:19 Time Left: 4 minutes
+20-06-23 18:43:19 Time Left: 3 minutes
+20-06-23 18:44:19 Time Left: 2 minutes
+20-06-23 18:45:19 Time Left: 1 minutes
+20-06-23 18:46:19 Next map: Lobby
+20-06-23 18:46:25 Lothic - Gothic Lobby Room
+20-06-23 18:51:25 Time Left: 5 minutes
+20-06-23 18:52:25 Time Left: 4 minutes
+20-06-23 18:53:25 Time Left: 3 minutes
+20-06-23 18:54:25 Time Left: 2 minutes
+20-06-23 18:55:25 Time Left: 1 minutes
+20-06-23 18:56:25 Next map: Lobby
+20-06-23 18:56:30 Lothic - Gothic Lobby Room
+20-06-23 19:01:30 Time Left: 5 minutes
+20-06-23 19:02:30 Time Left: 4 minutes
+20-06-23 19:03:30 Time Left: 3 minutes
+20-06-23 19:04:30 Time Left: 2 minutes
+20-06-23 19:05:30 Time Left: 1 minutes
+20-06-23 19:06:30 Next map: Lobby
+20-06-23 19:06:35 Lothic - Gothic Lobby Room
+20-06-23 19:11:35 Time Left: 5 minutes
+20-06-23 19:12:35 Time Left: 4 minutes
+20-06-23 19:13:35 Time Left: 3 minutes
+20-06-23 19:14:35 Time Left: 2 minutes
+20-06-23 19:15:35 Time Left: 1 minutes
+20-06-23 19:16:35 Next map: Lobby
+20-06-23 19:16:41 Lothic - Gothic Lobby Room
+20-06-23 19:21:41 Time Left: 5 minutes
+20-06-23 19:22:41 Time Left: 4 minutes
+20-06-23 19:23:41 Time Left: 3 minutes
+20-06-23 19:24:41 Time Left: 2 minutes
+20-06-23 19:25:41 Time Left: 1 minutes
+20-06-23 19:26:41 Next map: Lobby
+20-06-23 19:26:46 Lothic - Gothic Lobby Room
+20-06-23 19:31:46 Time Left: 5 minutes
+20-06-23 19:32:46 Time Left: 4 minutes
+20-06-23 19:33:46 Time Left: 3 minutes
+20-06-23 19:34:46 Time Left: 2 minutes
+20-06-23 19:35:46 Time Left: 1 minutes
+20-06-23 19:36:46 Next map: Lobby
+20-06-23 19:36:51 Lothic - Gothic Lobby Room
+20-06-23 19:41:51 Time Left: 5 minutes
+20-06-23 19:42:51 Time Left: 4 minutes
+20-06-23 19:43:51 Time Left: 3 minutes
+20-06-23 19:44:51 Time Left: 2 minutes
+20-06-23 19:45:51 Time Left: 1 minutes
+20-06-23 19:46:51 Next map: Lobby
+20-06-23 19:46:57 Lothic - Gothic Lobby Room
+20-06-23 19:51:57 Time Left: 5 minutes
+20-06-23 19:52:57 Time Left: 4 minutes
+20-06-23 19:53:57 Time Left: 3 minutes
+20-06-23 19:54:57 Time Left: 2 minutes
+20-06-23 19:55:57 Time Left: 1 minutes
+20-06-23 19:56:57 Next map: Lobby
+20-06-23 19:57:02 Lothic - Gothic Lobby Room
+20-06-23 20:02:02 Time Left: 5 minutes
+20-06-23 20:03:02 Time Left: 4 minutes
+20-06-23 20:04:02 Time Left: 3 minutes
+20-06-23 20:05:02 Time Left: 2 minutes
+20-06-23 20:06:02 Time Left: 1 minutes
+20-06-23 20:07:02 Next map: Lobby
+20-06-23 20:07:07 Lothic - Gothic Lobby Room
+20-06-23 20:12:07 Time Left: 5 minutes
+20-06-23 20:13:07 Time Left: 4 minutes
+20-06-23 20:14:07 Time Left: 3 minutes
+20-06-23 20:15:07 Time Left: 2 minutes
+20-06-23 20:16:07 Time Left: 1 minutes
+20-06-23 20:17:07 Next map: Lobby
+20-06-23 20:17:13 Lothic - Gothic Lobby Room
+20-06-23 20:22:13 Time Left: 5 minutes
+20-06-23 20:23:13 Time Left: 4 minutes
+20-06-23 20:24:13 Time Left: 3 minutes
+20-06-23 20:25:13 Time Left: 2 minutes
+20-06-23 20:26:13 Time Left: 1 minutes
+20-06-23 20:27:13 Next map: Lobby
+20-06-23 20:27:18 Lothic - Gothic Lobby Room
+20-06-23 20:32:18 Time Left: 5 minutes
+20-06-23 20:33:18 Time Left: 4 minutes
+20-06-23 20:34:18 Time Left: 3 minutes
+20-06-23 20:35:18 Time Left: 2 minutes
+20-06-23 20:36:18 Time Left: 1 minutes
+20-06-23 20:37:18 Next map: Lobby
+20-06-23 20:37:23 Lothic - Gothic Lobby Room
+20-06-23 20:42:23 Time Left: 5 minutes
+20-06-23 20:43:23 Time Left: 4 minutes
+20-06-23 20:44:23 Time Left: 3 minutes
+20-06-23 20:45:23 Time Left: 2 minutes
+20-06-23 20:46:23 Time Left: 1 minutes
+20-06-23 20:47:23 Next map: Lobby
+20-06-23 20:47:29 Lothic - Gothic Lobby Room
+20-06-23 20:52:29 Time Left: 5 minutes
+20-06-23 20:53:29 Time Left: 4 minutes
+20-06-23 20:54:29 Time Left: 3 minutes
+20-06-23 20:55:29 Time Left: 2 minutes
+20-06-23 20:56:29 Time Left: 1 minutes
+20-06-23 20:56:41 191.126.168.165:59532|68AD576F869 requesting game...
+20-06-23 20:56:45 191.126.168.165:59532|68AD576F869 requesting game...
+20-06-23 20:56:46 uoL.Mercy joining game (191.126.168.165:59532) HWID:68AD576F869
+20-06-23 20:56:46 uoL.Mercy has joined alpha team.
+20-06-23 20:56:57 [uoL.Mercy] !maps
+20-06-23 20:57:05 [uoL.Mercy] !map ctf_Horror
+20-06-23 20:57:10 Horror by Pure
+20-06-23 20:57:11 uoL.Mercy has left alpha team.
+20-06-23 20:57:11 191.126.168.165:59532|68AD576F869 requesting game...
+20-06-23 20:57:12 uoL.Mercy joining game (191.126.168.165:59532) HWID:68AD576F869
+20-06-23 20:57:12 uoL.Mercy has joined alpha team.
+20-06-23 20:57:27 uoL.Mercy captured the Blue Flag
+20-06-23 20:57:40 uoL.Mercy scores for Alpha Team
+20-06-23 20:57:51 uoL.Mercy captured the Blue Flag
+20-06-23 20:57:55 uoL.Mercy captured the Blue Flag
+20-06-23 20:58:02 uoL.Mercy scores for Alpha Team
+20-06-23 20:58:12 uoL.Mercy captured the Blue Flag
+20-06-23 20:58:22 uoL.Mercy scores for Alpha Team
+20-06-23 20:58:30 uoL.Mercy captured the Blue Flag
+20-06-23 20:58:40 uoL.Mercy scores for Alpha Team
+20-06-23 20:58:41 uoL.Mercy returned the Red Flag
+20-06-23 20:58:52 uoL.Mercy captured the Blue Flag
+20-06-23 20:59:19 uoL.Mercy captured the Blue Flag
+20-06-23 20:59:35 uoL.Mercy has left alpha team.
+20-06-23 21:02:10 Time Left: 5 minutes
+20-06-23 21:03:10 Time Left: 4 minutes
+20-06-23 21:04:10 Time Left: 3 minutes
+20-06-23 21:05:10 Time Left: 2 minutes
+20-06-23 21:06:10 Time Left: 1 minutes
+20-06-23 21:07:10 Next map: Lobby
+20-06-23 21:07:23 Lothic - Gothic Lobby Room
+20-06-23 21:12:23 Time Left: 5 minutes
+20-06-23 21:13:23 Time Left: 4 minutes
+20-06-23 21:14:23 Time Left: 3 minutes
+20-06-23 21:15:23 Time Left: 2 minutes
+20-06-23 21:16:23 Time Left: 1 minutes
+20-06-23 21:17:23 Next map: Lobby
+20-06-23 21:17:28 Lothic - Gothic Lobby Room
+20-06-23 21:22:28 Time Left: 5 minutes
+20-06-23 21:23:28 Time Left: 4 minutes
+20-06-23 21:24:28 Time Left: 3 minutes
+20-06-23 21:25:28 Time Left: 2 minutes
+20-06-23 21:26:28 Time Left: 1 minutes
+20-06-23 21:27:28 Next map: Lobby
+20-06-23 21:27:34 Lothic - Gothic Lobby Room
+20-06-23 21:32:34 Time Left: 5 minutes
+20-06-23 21:33:34 Time Left: 4 minutes
+20-06-23 21:34:34 Time Left: 3 minutes
+20-06-23 21:35:34 Time Left: 2 minutes
+20-06-23 21:36:34 Time Left: 1 minutes
+20-06-23 21:37:34 Next map: Lobby
+20-06-23 21:37:39 Lothic - Gothic Lobby Room
+20-06-23 21:42:39 Time Left: 5 minutes
+20-06-23 21:43:39 Time Left: 4 minutes
+20-06-23 21:44:39 Time Left: 3 minutes
+20-06-23 21:45:39 Time Left: 2 minutes
+20-06-23 21:46:39 Time Left: 1 minutes
+20-06-23 21:47:39 Next map: Lobby
+20-06-23 21:47:44 Lothic - Gothic Lobby Room
+20-06-23 21:52:44 Time Left: 5 minutes
+20-06-23 21:53:44 Time Left: 4 minutes
+20-06-23 21:54:44 Time Left: 3 minutes
+20-06-23 21:55:44 Time Left: 2 minutes
+20-06-23 21:56:44 Time Left: 1 minutes
+20-06-23 21:57:44 Next map: Lobby
+20-06-23 21:57:50 Lothic - Gothic Lobby Room
+20-06-23 22:02:50 Time Left: 5 minutes
+20-06-23 22:03:50 Time Left: 4 minutes
+20-06-23 22:04:50 Time Left: 3 minutes
+20-06-23 22:05:50 Time Left: 2 minutes
+20-06-23 22:06:50 Time Left: 1 minutes
+20-06-23 22:07:50 Next map: Lobby
+20-06-23 22:07:55 Lothic - Gothic Lobby Room
+20-06-23 22:12:55 Time Left: 5 minutes
+20-06-23 22:13:55 Time Left: 4 minutes
+20-06-23 22:14:55 Time Left: 3 minutes
+20-06-23 22:15:55 Time Left: 2 minutes
+20-06-23 22:16:55 Time Left: 1 minutes
+20-06-23 22:17:55 Next map: Lobby
+20-06-23 22:18:00 Lothic - Gothic Lobby Room
+20-06-23 22:23:00 Time Left: 5 minutes
+20-06-23 22:24:00 Time Left: 4 minutes
+20-06-23 22:25:00 Time Left: 3 minutes
+20-06-23 22:26:00 Time Left: 2 minutes
+20-06-23 22:27:00 Time Left: 1 minutes
+20-06-23 22:28:00 Next map: Lobby
+20-06-23 22:28:06 Lothic - Gothic Lobby Room
+20-06-23 22:33:06 Time Left: 5 minutes
+20-06-23 22:34:06 Time Left: 4 minutes
+20-06-23 22:35:06 Time Left: 3 minutes
+20-06-23 22:36:06 Time Left: 2 minutes
+20-06-23 22:37:06 Time Left: 1 minutes
+20-06-23 22:38:06 Next map: Lobby
+20-06-23 22:38:11 Lothic - Gothic Lobby Room
+20-06-23 22:43:11 Time Left: 5 minutes
+20-06-23 22:44:11 Time Left: 4 minutes
+20-06-23 22:45:11 Time Left: 3 minutes
+20-06-23 22:46:11 Time Left: 2 minutes
+20-06-23 22:47:11 Time Left: 1 minutes
+20-06-23 22:48:11 Next map: Lobby
+20-06-23 22:48:16 Lothic - Gothic Lobby Room
+20-06-23 22:53:16 Time Left: 5 minutes
+20-06-23 22:54:16 Time Left: 4 minutes
+20-06-23 22:55:16 Time Left: 3 minutes
+20-06-23 22:56:16 Time Left: 2 minutes
+20-06-23 22:57:16 Time Left: 1 minutes
+20-06-23 22:58:16 Next map: Lobby
+20-06-23 22:58:22 Lothic - Gothic Lobby Room
+20-06-23 23:03:22 Time Left: 5 minutes
+20-06-23 23:04:22 Time Left: 4 minutes
+20-06-23 23:05:22 Time Left: 3 minutes
+20-06-23 23:06:22 Time Left: 2 minutes
+20-06-23 23:06:42 Signal received, shutting down
+20-06-23 23:06:42 Shutting down server...
+20-06-23 23:06:42 Shutting down FileServer...
+20-06-23 23:06:42 Shutting down admin server...

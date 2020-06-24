@@ -1,0 +1,8 @@
+20-04-20 21:05:34    Console Log Started
+20-04-20 21:05:34 Welcome to Soldat 1.7.1
+20-04-20 21:05:34  [*] Preparing scripts to be launched
+20-04-20 21:05:34  [*] [BasicCommands] Compilation started
+20-04-20 21:05:34 Server Encountered an error:
+20-04-20 21:05:34 Unable to create file "scripts/basicos/run.psb"
+20-04-20 21:05:34 Shutting down server...
+20-04-20 21:05:34 Shutting down admin server...

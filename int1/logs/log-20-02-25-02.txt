@@ -1,0 +1,237 @@
+20-02-25 11:43:20    Log Started
+20-02-25 11:43:20 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-02-25 11:43:20 Creating network interface.
+20-02-25 11:43:20 Loading Animations.
+20-02-25 11:43:20 Loading Lobby Servers List
+20-02-25 11:43:20 Loading Maps List
+20-02-25 11:43:20 Loading Map.
+20-02-25 11:43:20 Creating Weapons.
+20-02-25 11:43:20 Starting Game Server.
+20-02-25 11:43:20 TCP/IP File Server started
+20-02-25 12:13:20 TCP/IP File Server started
+20-02-25 12:30:37  Net - |D.Forc3|.Turko connected 25-02-2020 12:30:37
+20-02-25 12:30:40  Net - |D.Forc3|.Turko disconnected 25-02-2020 12:30:40
+20-02-25 12:43:20 TCP/IP File Server started
+20-02-25 13:13:20 TCP/IP File Server started
+20-02-25 13:43:20 TCP/IP File Server started
+20-02-25 14:13:20 TCP/IP File Server started
+20-02-25 14:43:20 TCP/IP File Server started
+20-02-25 15:13:20 TCP/IP File Server started
+20-02-25 15:43:20 TCP/IP File Server started
+20-02-25 16:13:20 TCP/IP File Server started
+20-02-25 16:43:20 TCP/IP File Server started
+20-02-25 17:13:20 TCP/IP File Server started
+20-02-25 17:43:20 TCP/IP File Server started
+20-02-25 18:13:20 TCP/IP File Server started
+20-02-25 18:43:20 TCP/IP File Server started
+20-02-25 19:13:20 TCP/IP File Server started
+20-02-25 19:43:20 TCP/IP File Server started
+20-02-25 20:13:20 TCP/IP File Server started
+20-02-25 20:43:20 TCP/IP File Server started
+20-02-25 21:13:20 TCP/IP File Server started
+20-02-25 21:43:20 TCP/IP File Server started
+20-02-25 22:13:20 TCP/IP File Server started
+20-02-25 22:43:20 TCP/IP File Server started
+20-02-25 22:56:06  Net - Recursos Humanos connected 25-02-2020 22:56:06
+20-02-25 22:56:07  Net - Recursos Humanos disconnected 25-02-2020 22:56:07
+20-02-25 23:13:20 TCP/IP File Server started
+20-02-25 23:19:07  Net - Recursos Humanos connected 25-02-2020 23:19:07
+20-02-25 23:19:08  Net - Recursos Humanos disconnected 25-02-2020 23:19:08
+20-02-25 23:19:24  Net - [UnK] F4ll.cL connected 25-02-2020 23:19:24
+20-02-25 23:19:54  Net - [UnK] F4ll.cL disconnected 25-02-2020 23:19:54
+20-02-25 23:20:16  Net - [UnK] F4ll.cL connected 25-02-2020 23:20:16
+20-02-25 23:20:19  Net - [UnK] F4ll.cL disconnected 25-02-2020 23:20:19
+20-02-25 23:43:20 TCP/IP File Server started
+20-02-26 00:13:20 TCP/IP File Server started
+20-02-26 00:43:20 TCP/IP File Server started
+20-02-26 01:13:20 TCP/IP File Server started
+20-02-26 01:43:20 TCP/IP File Server started
+20-02-26 02:13:20 TCP/IP File Server started
+20-02-26 02:43:20 TCP/IP File Server started
+20-02-26 03:13:20 TCP/IP File Server started
+20-02-26 03:43:20 TCP/IP File Server started
+20-02-26 04:13:20 TCP/IP File Server started
+20-02-26 04:43:20 TCP/IP File Server started
+20-02-26 05:13:20 TCP/IP File Server started
+20-02-26 09:43:22 TCP/IP File Server started
+20-02-26 06:13:22 TCP/IP File Server started
+20-02-26 06:43:22 TCP/IP File Server started
+20-02-26 07:13:22 TCP/IP File Server started
+20-02-26 07:43:22 TCP/IP File Server started
+20-02-26 08:13:22 TCP/IP File Server started
+20-02-26 08:43:22 TCP/IP File Server started
+20-02-26 09:13:22 TCP/IP File Server started
+20-02-26 09:43:22 TCP/IP File Server started
+20-02-26 10:13:22 TCP/IP File Server started
+20-02-26 10:43:22 TCP/IP File Server started
+20-02-26 11:13:22 TCP/IP File Server started
+20-02-26 11:43:22 TCP/IP File Server started
+20-02-26 12:13:22 TCP/IP File Server started
+20-02-26 12:43:22 TCP/IP File Server started
+20-02-26 13:13:22 TCP/IP File Server started
+20-02-26 13:43:22 TCP/IP File Server started
+20-02-26 14:13:22 TCP/IP File Server started
+20-02-26 14:43:22 TCP/IP File Server started
+20-02-26 15:13:22 TCP/IP File Server started
+20-02-26 15:43:22 TCP/IP File Server started
+20-02-26 16:13:22 TCP/IP File Server started
+20-02-26 16:43:25 TCP/IP File Server started
+20-02-26 17:13:25 TCP/IP File Server started
+20-02-26 17:43:25 TCP/IP File Server started
+20-02-26 18:13:25 TCP/IP File Server started
+20-02-26 18:43:25 TCP/IP File Server started
+20-02-26 19:13:25 TCP/IP File Server started
+20-02-26 19:43:25 TCP/IP File Server started
+20-02-26 19:48:57  Net - Lead.- connected 26-02-2020 19:48:57
+20-02-26 19:49:03  Net - Lead.- disconnected 26-02-2020 19:49:03
+20-02-26 19:54:12  Net - Lead.- connected 26-02-2020 19:54:12
+20-02-26 19:54:15  Net - Lead.- connected 26-02-2020 19:54:15
+20-02-26 19:54:33  Net - sT#' HartCheat] connected 26-02-2020 19:54:33
+20-02-26 19:54:59  Net - sT#' HartCheat] disconnected 26-02-2020 19:54:59
+20-02-26 19:55:04  Net - sT#' HartCheat] connected 26-02-2020 19:55:04
+20-02-26 19:55:07  Net - Lead.- connected 26-02-2020 19:55:07
+20-02-26 19:55:48  Net - TK| Maaxis* connected 26-02-2020 19:55:48
+20-02-26 19:55:51  Net - sT#' HartCheat] connected 26-02-2020 19:55:51
+20-02-26 19:55:54  Net - TK| Maaxis* connected 26-02-2020 19:55:54
+20-02-26 19:55:58  Net - TK| Maaxis* disconnected 26-02-2020 19:55:58
+20-02-26 19:56:01  Net - TK| Maaxis* connected 26-02-2020 19:56:01
+20-02-26 19:57:28  Net - sT#' WarFare connected 26-02-2020 19:57:28
+20-02-26 19:57:31  Net - TK| Maaxis* disconnected 26-02-2020 19:57:31
+20-02-26 19:57:49  Net - TK| Maaxis* connected 26-02-2020 19:57:49
+20-02-26 19:59:16  Net - TK| Maaxis* disconnected 26-02-2020 19:59:16
+20-02-26 19:59:17  Net - sT#' WarFare disconnected 26-02-2020 19:59:17
+20-02-26 19:59:26  Net - Lead.- disconnected 26-02-2020 19:59:26
+20-02-26 19:59:27  Net - sT#' HartCheat] disconnected 26-02-2020 19:59:27
+20-02-26 20:13:25 TCP/IP File Server started
+20-02-26 20:27:54  Net - Major connected 26-02-2020 20:27:54
+20-02-26 20:29:12  Net - Major disconnected 26-02-2020 20:29:12
+20-02-26 20:29:35  Net - Major connected 26-02-2020 20:29:35
+20-02-26 20:29:52  Net - Major disconnected 26-02-2020 20:29:52
+20-02-26 20:29:57  Net - Major connected 26-02-2020 20:29:57
+20-02-26 20:30:14  Net - Major disconnected 26-02-2020 20:30:14
+20-02-26 20:43:25 TCP/IP File Server started
+20-02-26 20:55:42  Net - LB ~ Sadiko connected 26-02-2020 20:55:42
+20-02-26 20:56:00  Net - LB ~ Ultr4 connected 26-02-2020 20:56:00
+20-02-26 20:56:08  Net - LB ~ Skipo.cL connected 26-02-2020 20:56:08
+20-02-26 20:57:42  Net - |D.Forc3|.Turko connected 26-02-2020 20:57:42
+20-02-26 20:57:52  Net - TK| LeprosycL connected 26-02-2020 20:57:52
+20-02-26 20:58:17  Net - mipHo connected 26-02-2020 20:58:17
+20-02-26 20:58:46  Net - Mand3s connected 26-02-2020 20:58:46
+20-02-26 20:59:13  Net - KorN (comentarista) connected 26-02-2020 20:59:13
+20-02-26 20:59:20  Net - Mand3s disconnected 26-02-2020 20:59:20
+20-02-26 20:59:27  Net - KorN (comentarista) disconnected 26-02-2020 20:59:27
+20-02-26 20:59:27  Net - Mand3s narrador connected 26-02-2020 20:59:27
+20-02-26 20:59:29  Net - KorN (comentarista) connected 26-02-2020 20:59:29
+20-02-26 20:59:44  Net - mipHo disconnected 26-02-2020 20:59:44
+20-02-26 20:59:50  Net - mipHo admin connected 26-02-2020 20:59:50
+20-02-26 21:00:14  Net - sT#' WarFare connected 26-02-2020 21:00:14
+20-02-26 21:01:16  Net - mipHo admin disconnected 26-02-2020 21:01:16
+20-02-26 21:01:23  Net - TK| LeprosycL disconnected 26-02-2020 21:01:23
+20-02-26 21:01:28  Net - mipHo comentarista qlo connected 26-02-2020 21:01:28
+20-02-26 21:02:06  Net - mipHo comentarista qlo disconnected 26-02-2020 21:02:06
+20-02-26 21:02:23  Net - mipHo admin comentarista connected 26-02-2020 21:02:23
+20-02-26 21:02:43  Net - [O.S.O] Caballero* connected 26-02-2020 21:02:43
+20-02-26 21:03:10  Net - [O.S.O] Caballero* disconnected 26-02-2020 21:03:10
+20-02-26 21:03:48  Net - [O.S.0] Zorro* connected 26-02-2020 21:03:48
+20-02-26 21:03:56  Net - [O.S.0] Zorro* connected 26-02-2020 21:03:56
+20-02-26 21:04:24  Net - [O.S.0] Zorro* disconnected 26-02-2020 21:04:24
+20-02-26 21:04:24  Net - |D.Forc3|.Turko disconnected 26-02-2020 21:04:24
+20-02-26 21:06:55  Net - sT#' WarFare disconnected 26-02-2020 21:06:55
+20-02-26 21:07:09  Net - sT#' WarFare connected 26-02-2020 21:07:09
+20-02-26 21:07:17  Net - |D.Forc3|RainbowDash connected 26-02-2020 21:07:17
+20-02-26 21:07:24  Net - |D.Forc3|RainbowDash disconnected 26-02-2020 21:07:24
+20-02-26 21:08:17  Net - [O.S.0] Zorro* connected 26-02-2020 21:08:17
+20-02-26 21:08:21  Net - [O.S.0] Zorro* connected 26-02-2020 21:08:21
+20-02-26 21:08:31  Net - |D.Forc3|.Turko connected 26-02-2020 21:08:31
+20-02-26 21:08:51  Net - sT#' WarFare disconnected 26-02-2020 21:08:51
+20-02-26 21:09:02  Net - sT#' WarFare connected 26-02-2020 21:09:02
+20-02-26 21:10:35  Net - sT#' WarFare disconnected 26-02-2020 21:10:35
+20-02-26 21:10:36  Net - [O.S.0] Zorro* disconnected 26-02-2020 21:10:36
+20-02-26 21:10:40  Net - |D.Forc3|RainbowDash connected 26-02-2020 21:10:40
+20-02-26 21:10:45  Net - sT#' WarFare connected 26-02-2020 21:10:45
+20-02-26 21:11:04  Net - |D.Forc3|.Dohko.Messi! connected 26-02-2020 21:11:04
+20-02-26 21:11:34  Net - |X.Forc3| Utena connected 26-02-2020 21:11:34
+20-02-26 21:11:39  Net - |D.Forc3|.Turko disconnected 26-02-2020 21:11:39
+20-02-26 21:11:40  Net - |D.Forc3|RainbowDash disconnected 26-02-2020 21:11:40
+20-02-26 21:11:40  Net - |D.Forc3|.Dohko.Messi! disconnected 26-02-2020 21:11:40
+20-02-26 21:11:43  Net - |X.Forc3|.Turko connected 26-02-2020 21:11:43
+20-02-26 21:11:49  Net - |XD.Forc3|.Dohko.Messi! connected 26-02-2020 21:11:49
+20-02-26 21:11:50  Net - |X.Forc3|RainbowDash connected 26-02-2020 21:11:50
+20-02-26 21:11:51  Net - |XD.Forc3|.Dohko.Messi! connected 26-02-2020 21:11:51
+20-02-26 21:11:53  Net - [O.S.O] TULON* connected 26-02-2020 21:11:53
+20-02-26 21:11:53  Net - |XD.Forc3|.Dohko.Messi! disconnected 26-02-2020 21:11:53
+20-02-26 21:11:55  Net - [O.S.0] Zorro* connected 26-02-2020 21:11:55
+20-02-26 21:12:00  Net - |X.Forc3|.Dohko.Messi! connected 26-02-2020 21:12:00
+20-02-26 21:12:14  Net - LB ~ Ultr4 connected 26-02-2020 21:12:14
+20-02-26 21:12:20  Net - [O.S.0] Zorro* disconnected 26-02-2020 21:12:20
+20-02-26 21:12:31  Net - |X.Forc3|.Turko disconnected 26-02-2020 21:12:31
+20-02-26 21:12:41  Net - sT#' WarFare disconnected 26-02-2020 21:12:41
+20-02-26 21:12:47  Net - LB ~ Sadiko disconnected 26-02-2020 21:12:47
+20-02-26 21:12:50  Net - LB ~ Sadiko connected 26-02-2020 21:12:50
+20-02-26 21:13:03  Net - [O.S.O] TULON* disconnected 26-02-2020 21:13:03
+20-02-26 21:13:22  Net - sT#' YnGwi3 connected 26-02-2020 21:13:22
+20-02-26 21:13:25 TCP/IP File Server started
+20-02-26 21:13:27  Net - |X.Forc3|RainbowDash disconnected 26-02-2020 21:13:27
+20-02-26 21:13:31  Net - |X.Forc3|RainbowDash connected 26-02-2020 21:13:31
+20-02-26 21:13:34  Net - |X.Forc3|RainbowDash connected 26-02-2020 21:13:34
+20-02-26 21:13:40  Net - |X.Forc3|RainbowDash disconnected 26-02-2020 21:13:40
+20-02-26 21:13:45  Net - |X.Forc3|RainbowDash connected 26-02-2020 21:13:45
+20-02-26 21:13:53  Net - |X.Forc3| Utena connected 26-02-2020 21:13:53
+20-02-26 21:14:03  Net - |X.Forc3| Utena disconnected 26-02-2020 21:14:03
+20-02-26 21:14:17  Net - |X.Forc3| Utena connected 26-02-2020 21:14:17
+20-02-26 21:14:44  Net - |X.Forc3|.Turko connected 26-02-2020 21:14:44
+20-02-26 21:14:46  Net - |X.Forc3|.Turko connected 26-02-2020 21:14:46
+20-02-26 21:14:49  Net - sT#' YnGwi3 disconnected 26-02-2020 21:14:49
+20-02-26 21:15:27  Net - |X.Forc3|.Turko connected 26-02-2020 21:15:27
+20-02-26 21:15:35  Net - |X.Forc3|.Turko connected 26-02-2020 21:15:35
+20-02-26 21:15:36  Net - |X.Forc3| Utena connected 26-02-2020 21:15:36
+20-02-26 21:15:47  Net - |X.Forc3|.Dohko.Messi! connected 26-02-2020 21:15:47
+20-02-26 21:16:52  Net - |X.Forc3| Utena disconnected 26-02-2020 21:16:52
+20-02-26 21:17:09  Net - LB ~ Sadiko disconnected 26-02-2020 21:17:09
+20-02-26 21:17:12  Net - LB ~ Sadiko connected 26-02-2020 21:17:12
+20-02-26 21:24:49  Net - [O.S.O] TULON* connected 26-02-2020 21:24:49
+20-02-26 21:25:27  Net - sT#' WarFare connected 26-02-2020 21:25:27
+20-02-26 21:28:18  Net - |BhooD| Harry connected 26-02-2020 21:28:18
+20-02-26 21:29:45  Net - |X.Forc3|.Turko connected 26-02-2020 21:29:45
+20-02-26 21:30:02  Net - |X.Forc3| Utena connected 26-02-2020 21:30:02
+20-02-26 21:31:28  Net - [O.S.O] TULON* disconnected 26-02-2020 21:31:28
+20-02-26 21:31:34  Net - |BhooD| Harry disconnected 26-02-2020 21:31:34
+20-02-26 21:32:09  Net - |X.Forc3|.Dohko.Messi! disconnected 26-02-2020 21:32:09
+20-02-26 21:32:49  Net - |X.Forc3|.Turko connected 26-02-2020 21:32:49
+20-02-26 21:37:29  Net - sT#' WarFare disconnected 26-02-2020 21:37:29
+20-02-26 21:38:04  Net - LB ~ Sadiko disconnected 26-02-2020 21:38:04
+20-02-26 21:38:09  Net - LB ~ Sadiko connected 26-02-2020 21:38:09
+20-02-26 21:38:12  Net - LB ~ Sadiko connected 26-02-2020 21:38:12
+20-02-26 21:38:21  Net - [UnK] F4ll.cL connected 26-02-2020 21:38:21
+20-02-26 21:38:23  Net - [UnK] F4ll.cL disconnected 26-02-2020 21:38:23
+20-02-26 21:39:11  Net - LB ~ F4ll.cL connected 26-02-2020 21:39:11
+20-02-26 21:39:45  Net - LB ~ Sadiko disconnected 26-02-2020 21:39:45
+20-02-26 21:39:49  Net - LB ~ Sadiko connected 26-02-2020 21:39:49
+20-02-26 21:39:52  Net - KorN (comentarista) disconnected 26-02-2020 21:39:52
+20-02-26 21:42:02  Net - KorN (comentarista) connected 26-02-2020 21:42:02
+20-02-26 21:42:27  Net - KorN (comentarista) disconnected 26-02-2020 21:42:27
+20-02-26 21:42:42  Net - Mand3s narrador disconnected 26-02-2020 21:42:42
+20-02-26 21:43:25 TCP/IP File Server started
+20-02-26 21:43:34  Net - LB ~ F4ll.cL connected 26-02-2020 21:43:34
+20-02-26 21:43:53  Net - |X.Forc3|.Turko connected 26-02-2020 21:43:53
+20-02-26 21:43:58  Net - LB ~ Ultr4 disconnected 26-02-2020 21:43:58
+20-02-26 21:44:09  Net - LB ~ Sadiko disconnected 26-02-2020 21:44:09
+20-02-26 21:44:10  Net - LB ~ Ultr4 connected 26-02-2020 21:44:10
+20-02-26 21:44:11  Net - |X.Forc3|.Dohko.Messi! connected 26-02-2020 21:44:11
+20-02-26 21:44:18  Net - LB ~ Sadiko connected 26-02-2020 21:44:18
+20-02-26 21:44:20  Net - LB ~ Sadiko connected 26-02-2020 21:44:20
+20-02-26 21:48:47  Net - Mand3s narrador connected 26-02-2020 21:48:47
+20-02-26 21:48:48  Net - KorN (comentarista) connected 26-02-2020 21:48:48
+20-02-26 21:52:25  Net - KorN (comentarista) disconnected 26-02-2020 21:52:25
+20-02-26 21:52:28  Net - KorN (comentarista) connected 26-02-2020 21:52:28
+20-02-26 21:55:50  Net - LB ~ Skipo.cL disconnected 26-02-2020 21:55:50
+20-02-26 21:55:55  Net - LB ~ F4ll.cL disconnected 26-02-2020 21:55:55
+20-02-26 21:55:55  Net - |X.Forc3| Utena disconnected 26-02-2020 21:55:55
+20-02-26 21:55:57  Net - |X.Forc3|.Dohko.Messi! disconnected 26-02-2020 21:55:57
+20-02-26 21:55:57  Net - LB ~ Sadiko disconnected 26-02-2020 21:55:57
+20-02-26 21:55:58  Net - |X.Forc3|.Turko disconnected 26-02-2020 21:55:58
+20-02-26 21:55:58  Net - Mand3s narrador disconnected 26-02-2020 21:55:58
+20-02-26 21:56:00  Net - LB ~ Ultr4 disconnected 26-02-2020 21:56:00
+20-02-26 21:56:13  Net - |X.Forc3|RainbowDash disconnected 26-02-2020 21:56:13
+20-02-26 21:56:19  Net - mipHo admin comentarista disconnected 26-02-2020 21:56:19
+20-02-26 21:56:23  Net - KorN (comentarista) disconnected 26-02-2020 21:56:23

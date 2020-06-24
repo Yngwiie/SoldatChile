@@ -1,0 +1,201 @@
+20-03-04 20:17:25    Log Started
+20-03-04 20:17:25 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-03-04 20:17:25 Creating network interface.
+20-03-04 20:17:25 Loading Animations.
+20-03-04 20:17:26 Loading Lobby Servers List
+20-03-04 20:17:26 Loading Maps List
+20-03-04 20:17:26 Loading Map.
+20-03-04 20:17:26 Creating Weapons.
+20-03-04 20:17:26 Starting Game Server.
+20-03-04 20:17:26 TCP/IP File Server started
+20-03-04 20:47:27 TCP/IP File Server started
+20-03-04 21:17:27 TCP/IP File Server started
+20-03-04 21:47:27 TCP/IP File Server started
+20-03-04 22:17:27 TCP/IP File Server started
+20-03-04 22:47:27 TCP/IP File Server started
+20-03-04 23:07:23  Net - #KbN! chub0] connected 04-03-2020 23:07:23
+20-03-04 23:07:50  Net - #KbN! chub0] disconnected 04-03-2020 23:07:50
+20-03-04 23:17:27 TCP/IP File Server started
+20-03-04 23:47:27 TCP/IP File Server started
+20-03-05 00:17:27 TCP/IP File Server started
+20-03-05 00:47:27 TCP/IP File Server started
+20-03-05 01:17:27 TCP/IP File Server started
+20-03-05 01:47:27 TCP/IP File Server started
+20-03-05 02:17:27 TCP/IP File Server started
+20-03-05 02:47:27 TCP/IP File Server started
+20-03-05 03:17:27 TCP/IP File Server started
+20-03-05 03:47:27 TCP/IP File Server started
+20-03-05 04:17:27 TCP/IP File Server started
+20-03-05 04:47:27 TCP/IP File Server started
+20-03-05 05:17:27 TCP/IP File Server started
+20-03-05 05:47:27 TCP/IP File Server started
+20-03-05 06:17:27 TCP/IP File Server started
+20-03-05 06:47:27 TCP/IP File Server started
+20-03-05 07:17:27 TCP/IP File Server started
+20-03-05 07:47:27 TCP/IP File Server started
+20-03-05 08:17:27 TCP/IP File Server started
+20-03-05 08:47:27 TCP/IP File Server started
+20-03-05 09:17:27 TCP/IP File Server started
+20-03-05 09:47:27 TCP/IP File Server started
+20-03-05 10:17:27 TCP/IP File Server started
+20-03-05 10:47:27 TCP/IP File Server started
+20-03-05 11:17:27 TCP/IP File Server started
+20-03-05 11:47:27 TCP/IP File Server started
+20-03-05 12:17:27 TCP/IP File Server started
+20-03-05 12:47:27 TCP/IP File Server started
+20-03-05 13:17:27 TCP/IP File Server started
+20-03-05 13:47:27 TCP/IP File Server started
+20-03-05 14:17:27 TCP/IP File Server started
+20-03-05 14:47:27 TCP/IP File Server started
+20-03-05 15:17:27 TCP/IP File Server started
+20-03-05 15:47:27 TCP/IP File Server started
+20-03-05 15:48:40  Net - #KbN! chub0] connected 05-03-2020 15:48:40
+20-03-05 15:48:45  Net - #KbN! chub0] disconnected 05-03-2020 15:48:45
+20-03-05 15:49:07  Net - #KbN! chub0] connected 05-03-2020 15:49:07
+20-03-05 15:49:19  Net - #KbN! chub0] disconnected 05-03-2020 15:49:19
+20-03-05 16:17:27 TCP/IP File Server started
+20-03-05 16:47:27 TCP/IP File Server started
+20-03-05 17:17:27 TCP/IP File Server started
+20-03-05 17:47:27 TCP/IP File Server started
+20-03-05 18:17:27 TCP/IP File Server started
+20-03-05 18:47:27 TCP/IP File Server started
+20-03-05 19:17:27 TCP/IP File Server started
+20-03-05 19:47:27 TCP/IP File Server started
+20-03-05 20:17:27 TCP/IP File Server started
+20-03-05 20:47:27 TCP/IP File Server started
+20-03-05 21:17:27 TCP/IP File Server started
+20-03-05 21:47:27 TCP/IP File Server started
+20-03-05 22:17:27 TCP/IP File Server started
+20-03-05 22:47:27 TCP/IP File Server started
+20-03-05 23:16:47  Net - BichoX connected 05-03-2020 23:16:47
+20-03-05 23:16:48  Net - BichoX disconnected 05-03-2020 23:16:48
+20-03-05 23:17:27 TCP/IP File Server started
+20-03-05 23:47:27 TCP/IP File Server started
+20-03-06 00:17:27 TCP/IP File Server started
+20-03-06 00:47:27 TCP/IP File Server started
+20-03-06 01:17:27 TCP/IP File Server started
+20-03-06 01:47:29 TCP/IP File Server started
+20-03-06 02:17:29 TCP/IP File Server started
+20-03-06 02:47:29 TCP/IP File Server started
+20-03-06 03:17:29 TCP/IP File Server started
+20-03-06 03:47:29 TCP/IP File Server started
+20-03-06 04:17:29 TCP/IP File Server started
+20-03-06 04:47:29 TCP/IP File Server started
+20-03-06 05:17:29 TCP/IP File Server started
+20-03-06 05:47:29 TCP/IP File Server started
+20-03-06 06:17:29 TCP/IP File Server started
+20-03-06 06:47:29 TCP/IP File Server started
+20-03-06 07:17:29 TCP/IP File Server started
+20-03-06 07:47:29 TCP/IP File Server started
+20-03-06 08:17:29 TCP/IP File Server started
+20-03-06 08:47:29 TCP/IP File Server started
+20-03-06 09:17:29 TCP/IP File Server started
+20-03-06 09:47:29 TCP/IP File Server started
+20-03-06 10:17:29 TCP/IP File Server started
+20-03-06 10:47:29 TCP/IP File Server started
+20-03-06 11:17:29 TCP/IP File Server started
+20-03-06 11:47:29 TCP/IP File Server started
+20-03-06 12:17:29 TCP/IP File Server started
+20-03-06 12:47:29 TCP/IP File Server started
+20-03-06 13:17:29 TCP/IP File Server started
+20-03-06 13:47:29 TCP/IP File Server started
+20-03-06 14:17:29 TCP/IP File Server started
+20-03-06 14:47:29 TCP/IP File Server started
+20-03-06 15:17:29 TCP/IP File Server started
+20-03-06 15:47:29 TCP/IP File Server started
+20-03-06 16:17:29 TCP/IP File Server started
+20-03-06 16:47:29 TCP/IP File Server started
+20-03-06 17:17:29 TCP/IP File Server started
+20-03-06 17:47:29 TCP/IP File Server started
+20-03-06 18:17:29 TCP/IP File Server started
+20-03-06 18:47:29 TCP/IP File Server started
+20-03-06 19:17:29 TCP/IP File Server started
+20-03-06 19:47:30 TCP/IP File Server started
+20-03-06 20:17:29 TCP/IP File Server started
+20-03-06 20:47:29 TCP/IP File Server started
+20-03-06 21:17:29 TCP/IP File Server started
+20-03-06 21:47:29 TCP/IP File Server started
+20-03-06 22:17:29 TCP/IP File Server started
+20-03-06 22:27:46  Net - |X.Forc3|.Dohko.Messi! connected 06-03-2020 22:27:46
+20-03-06 22:29:14  Net - |X.Forc3|.Dohko.Messi! disconnected 06-03-2020 22:29:14
+20-03-06 22:36:56  Net - |X.Forc3|.Dohko.Messi! connected 06-03-2020 22:36:56
+20-03-06 22:38:52  Net - |X.Forc3|.Dohko.Messi! disconnected 06-03-2020 22:38:52
+20-03-06 22:47:29 TCP/IP File Server started
+20-03-06 23:17:29 TCP/IP File Server started
+20-03-06 23:28:13  Net - #KbN! ChronoCL connected 06-03-2020 23:28:13
+20-03-06 23:28:19  Net - #KbN! ChronoCL disconnected 06-03-2020 23:28:19
+20-03-06 23:47:29 TCP/IP File Server started
+20-03-07 00:17:29 TCP/IP File Server started
+20-03-07 00:28:11  Net - #KbN! ChronoCL connected 07-03-2020 0:28:11
+20-03-07 00:28:13  Net - #KbN! ChronoCL disconnected 07-03-2020 0:28:13
+20-03-07 00:47:29 TCP/IP File Server started
+20-03-07 01:17:29 TCP/IP File Server started
+20-03-07 01:47:29 TCP/IP File Server started
+20-03-07 02:17:29 TCP/IP File Server started
+20-03-07 02:47:29 TCP/IP File Server started
+20-03-07 03:17:29 TCP/IP File Server started
+20-03-07 03:47:29 TCP/IP File Server started
+20-03-07 04:17:29 TCP/IP File Server started
+20-03-07 04:47:29 TCP/IP File Server started
+20-03-07 05:17:29 TCP/IP File Server started
+20-03-07 05:47:29 TCP/IP File Server started
+20-03-07 06:17:29 TCP/IP File Server started
+20-03-07 06:47:29 TCP/IP File Server started
+20-03-07 07:17:29 TCP/IP File Server started
+20-03-07 07:47:29 TCP/IP File Server started
+20-03-07 08:17:29 TCP/IP File Server started
+20-03-07 08:47:29 TCP/IP File Server started
+20-03-07 09:17:29 TCP/IP File Server started
+20-03-07 09:47:29 TCP/IP File Server started
+20-03-07 10:17:29 TCP/IP File Server started
+20-03-07 10:47:29 TCP/IP File Server started
+20-03-07 11:17:29 TCP/IP File Server started
+20-03-07 11:47:29 TCP/IP File Server started
+20-03-07 12:17:29 TCP/IP File Server started
+20-03-07 12:47:29 TCP/IP File Server started
+20-03-07 13:17:29 TCP/IP File Server started
+20-03-07 13:47:29 TCP/IP File Server started
+20-03-07 14:17:29 TCP/IP File Server started
+20-03-07 14:47:29 TCP/IP File Server started
+20-03-07 15:17:29 TCP/IP File Server started
+20-03-07 15:47:29 TCP/IP File Server started
+20-03-07 16:17:29 TCP/IP File Server started
+20-03-07 16:47:29 TCP/IP File Server started
+20-03-07 17:17:29 TCP/IP File Server started
+20-03-07 17:47:29 TCP/IP File Server started
+20-03-07 18:17:29 TCP/IP File Server started
+20-03-07 18:47:29 TCP/IP File Server started
+20-03-07 19:17:29 TCP/IP File Server started
+20-03-07 19:47:29 TCP/IP File Server started
+20-03-07 20:17:29 TCP/IP File Server started
+20-03-07 20:47:29 TCP/IP File Server started
+20-03-07 21:17:29 TCP/IP File Server started
+20-03-07 21:47:29 TCP/IP File Server started
+20-03-07 22:17:29 TCP/IP File Server started
+20-03-07 22:47:29 TCP/IP File Server started
+20-03-07 23:17:29 TCP/IP File Server started
+20-03-07 23:47:29 TCP/IP File Server started
+20-03-08 00:17:29 TCP/IP File Server started
+20-03-08 00:47:29 TCP/IP File Server started
+20-03-08 01:17:29 TCP/IP File Server started
+20-03-08 01:47:29 TCP/IP File Server started
+20-03-08 02:17:29 TCP/IP File Server started
+20-03-08 02:47:29 TCP/IP File Server started
+20-03-08 03:17:29 TCP/IP File Server started
+20-03-08 03:47:29 TCP/IP File Server started
+20-03-08 04:17:29 TCP/IP File Server started
+20-03-08 04:47:29 TCP/IP File Server started
+20-03-08 05:17:29 TCP/IP File Server started
+20-03-08 05:47:29 TCP/IP File Server started
+20-03-08 06:17:29 TCP/IP File Server started
+20-03-08 06:47:29 TCP/IP File Server started
+20-03-08 07:17:29 TCP/IP File Server started
+20-03-08 07:47:29 TCP/IP File Server started
+20-03-08 08:17:29 TCP/IP File Server started
+20-03-08 08:47:29 TCP/IP File Server started
+20-03-08 09:17:29 TCP/IP File Server started
+20-03-08 09:47:29 TCP/IP File Server started
+20-03-08 10:17:29 TCP/IP File Server started
+20-03-08 10:47:29 TCP/IP File Server started
+20-03-08 11:12:23 Destroying Devices.
+20-03-08 11:12:23    End of Log.

@@ -1,0 +1,2 @@
+20-03-31 20:19:55    Console Log Started
+20-03-31 20:19:55 Welcome to Soldat 1.7.1

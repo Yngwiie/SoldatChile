@@ -1,0 +1,3097 @@
+20-04-21 03:00:41    Kill Log Started
+--- 20-04-21 03:02:14
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:02:16
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:02:19
+Divas| mipHo
+RtP| LoKitoHcL
+Spas-12
+--- 20-04-21 03:02:20
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:02:24
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:02:25
+Divas| mipHo
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:02:25
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:02:26
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:02:31
+Divas| mipHo
+RtP| Shuter
+LAW
+--- 20-04-21 03:02:32
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:02:34
+Divas| Sk8'
+RtP| SontercL
+LAW
+--- 20-04-21 03:02:37
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:02:38
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:02:38
+Divas| Rattle
+RtP| Shuter
+Grenade
+--- 20-04-21 03:02:41
+RtP| SontercL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:02:46
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:02:50
+RtP| SontercL
+RtP| SontercL
+Grenade
+--- 20-04-21 03:02:50
+RtP| SontercL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:02:55
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:02:56
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:02:58
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:03:03
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:03:03
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:03:10
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:03:12
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:03:12
+Divas| Rattle
+RtP| Shuter
+Ruger 77
+--- 20-04-21 03:03:20
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:03:20
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:03:21
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:03:23
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:03:27
+Divas| Sk8'
+RtP| Shuter
+Grenade
+--- 20-04-21 03:03:30
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:03:34
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:03:36
+RtP| Shuter
+Divas| Rattle
+Grenade
+--- 20-04-21 03:03:36
+Divas| Rattle
+RtP| Shuter
+Grenade
+--- 20-04-21 03:03:42
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:03:42
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:03:43
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:03:44
+Divas| Rattle
+RtP| Shuter
+Combat Knife
+--- 20-04-21 03:03:44
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:03:49
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:03:53
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:03:56
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:04:00
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:04:01
+RtP| SontercL
+Divas| mipHo
+FN Minimi
+--- 20-04-21 03:04:01
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:04:05
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:04:08
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:04:10
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:04:14
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:04:16
+Divas| mipHo
+RtP| SontercL
+LAW
+--- 20-04-21 03:04:17
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:04:28
+RtP| Shuter
+Divas| Rattle
+Grenade
+--- 20-04-21 03:04:29
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:04:30
+Divas| Rattle
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:04:33
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:04:36
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:04:39
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:04:39
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:04:40
+RtP| SontercL
+Divas| mipHo
+FN Minimi
+--- 20-04-21 03:04:43
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:04:43
+RtP| SontercL
+Divas| Sk8'
+LAW
+--- 20-04-21 03:04:47
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:04:49
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:04:51
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:04:58
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:04:58
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:05:00
+Divas| Sk8'
+RtP| SontercL
+Grenade
+--- 20-04-21 03:05:00
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:05:03
+Divas| Rattle
+RtP| Shuter
+Combat Knife
+--- 20-04-21 03:05:09
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:05:10
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:05:12
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:05:17
+Divas| Rattle
+RtP| SontercL
+Grenade
+--- 20-04-21 03:05:17
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:05:20
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:05:21
+RtP| LoKitoHcL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:05:23
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:05:30
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:05:32
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:05:37
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:05:42
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:05:45
+Divas| mipHo
+RtP| SontercL
+Grenade
+--- 20-04-21 03:05:47
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:05:48
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:05:48
+RtP| Shuter
+Divas| mipHo
+Grenade
+--- 20-04-21 03:05:54
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:05:58
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:06:00
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:06:03
+Divas| mipHo
+RtP| SontercL
+Grenade
+--- 20-04-21 03:06:03
+RtP| SontercL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:06:08
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:06:09
+Divas| Rattle
+RtP| Shuter
+Ruger 77
+--- 20-04-21 03:06:11
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:06:12
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:06:13
+Divas| Sk8'
+RtP| SontercL
+Grenade
+--- 20-04-21 03:06:16
+RtP| Shuter
+Divas| mipHo
+Grenade
+--- 20-04-21 03:06:17
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:06:20
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:06:21
+Divas| Rattle
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:06:26
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:06:26
+RtP| Shuter
+Divas| mipHo
+Grenade
+--- 20-04-21 03:06:31
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:06:32
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:06:34
+Divas| mipHo
+RtP| LoKitoHcL
+Spas-12
+--- 20-04-21 03:06:39
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:06:40
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:06:42
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:06:42
+RtP| SontercL
+Divas| mipHo
+Grenade
+--- 20-04-21 03:06:46
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:06:48
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:06:54
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:06:57
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:07:00
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:07:01
+RtP| Shuter
+Divas| mipHo
+Grenade
+--- 20-04-21 03:07:03
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:07:09
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:07:10
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:07:10
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:07:11
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:07:23
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:07:25
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:07:28
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:07:28
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:07:29
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:07:31
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:07:32
+Divas| Rattle
+RtP| Shuter
+Ruger 77
+--- 20-04-21 03:07:39
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:07:42
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:07:42
+Divas| mipHo
+RtP| SontercL
+LAW
+--- 20-04-21 03:07:51
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:07:51
+RtP| Shuter
+Divas| mipHo
+Combat Knife
+--- 20-04-21 03:07:51
+Divas| Rattle
+Divas| Rattle
+Grenade
+--- 20-04-21 03:07:57
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:07:58
+RtP| Shuter
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:08:02
+Divas| Rattle
+RtP| Shuter
+Ruger 77
+--- 20-04-21 03:08:05
+RtP| LoKitoHcL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:08:07
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:08:09
+RtP| LoKitoHcL
+Divas| mipHo
+Ak-74
+--- 20-04-21 03:08:10
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:08:13
+RtP| SontercL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:08:13
+Divas| mipHo
+RtP| Shuter
+Grenade
+--- 20-04-21 03:08:14
+Divas| Rattle
+RtP| SontercL
+Combat Knife
+--- 20-04-21 03:08:22
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:08:22
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:08:25
+RtP| Shuter
+Divas| Sk8'
+Combat Knife
+--- 20-04-21 03:08:31
+Divas| Rattle
+RtP| SontercL
+Grenade
+--- 20-04-21 03:08:32
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:08:33
+RtP| Shuter
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:08:36
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:08:41
+RtP| Shuter
+RtP| Shuter
+Grenade
+--- 20-04-21 03:08:46
+Divas| Sk8'
+RtP| SontercL
+HK MP5
+--- 20-04-21 03:08:49
+RtP| Shuter
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:08:49
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:08:52
+RtP| Shuter
+Divas| mipHo
+Combat Knife
+--- 20-04-21 03:08:56
+Divas| Sk8'
+RtP| Shuter
+Grenade
+--- 20-04-21 03:08:58
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:09:02
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:09:02
+RtP| Shuter
+RtP| Shuter
+Grenade
+--- 20-04-21 03:09:04
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:09:06
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:09:06
+RtP| SontercL
+Divas| mipHo
+Grenade
+--- 20-04-21 03:09:15
+RtP| Shuter
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:09:20
+RtP| Shuter
+RtP| Shuter
+Grenade
+--- 20-04-21 03:09:22
+RtP| SontercL
+RtP| SontercL
+Grenade
+--- 20-04-21 03:09:28
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:09:29
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:09:29
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:09:35
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:09:38
+RtP| LoKitoHcL
+Divas| Rattle
+Grenade
+--- 20-04-21 03:09:39
+Divas| Sk8'
+RtP| Shuter
+Grenade
+--- 20-04-21 03:09:40
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:09:43
+Divas| mipHo
+RtP| SontercL
+Grenade
+--- 20-04-21 03:09:45
+Divas| Rattle
+RtP| LoKitoHcL
+Ruger 77
+--- 20-04-21 03:09:48
+RtP| Shuter
+RtP| Shuter
+Grenade
+--- 20-04-21 03:09:50
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:09:53
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:09:57
+Divas| Rattle
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:09:58
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:09:59
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:10:00
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:10:05
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:10:06
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:10:13
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:10:17
+Divas| mipHo
+RtP| LoKitoHcL
+Spas-12
+--- 20-04-21 03:10:19
+Divas| Sk8'
+RtP| Shuter
+LAW
+--- 20-04-21 03:10:21
+RtP| SontercL
+Divas| mipHo
+FN Minimi
+--- 20-04-21 03:10:23
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:10:26
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:10:27
+RtP| SontercL
+RtP| SontercL
+LAW
+--- 20-04-21 03:10:27
+RtP| SontercL
+Divas| mipHo
+LAW
+--- 20-04-21 03:10:31
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:10:38
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:10:39
+RtP| LoKitoHcL
+Divas| Sk8'
+Ak-74
+--- 20-04-21 03:10:40
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:10:42
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:10:43
+RtP| LoKitoHcL
+Divas| mipHo
+Grenade
+--- 20-04-21 03:10:45
+RtP| LoKitoHcL
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:10:49
+Divas| mipHo
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:10:53
+RtP| LoKitoHcL
+Divas| Rattle
+Ak-74
+--- 20-04-21 03:10:55
+Divas| Sk8'
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:10:56
+RtP| SontercL
+Divas| Sk8'
+FN Minimi
+--- 20-04-21 03:10:57
+RtP| SontercL
+Divas| mipHo
+Grenade
+--- 20-04-21 03:10:57
+Divas| mipHo
+RtP| SontercL
+Spas-12
+--- 20-04-21 03:11:01
+RtP| Shuter
+Divas| Rattle
+Grenade
+--- 20-04-21 03:11:04
+RtP| Shuter
+Divas| Sk8'
+Combat Knife
+--- 20-04-21 03:11:07
+Divas| Rattle
+RtP| Shuter
+Ruger 77
+--- 20-04-21 03:11:08
+Divas| Rattle
+RtP| LoKitoHcL
+Grenade
+--- 20-04-21 03:11:13
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:11:16
+RtP| Shuter
+Divas| mipHo
+Steyr AUG
+--- 20-04-21 03:11:21
+Divas| Rattle
+RtP| Shuter
+Steyr AUG
+--- 20-04-21 03:11:22
+RtP| SontercL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:11:23
+RtP| SontercL
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:11:30
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:11:30
+RtP| LoKitoHcL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:11:32
+Divas| Rattle
+RtP| Shuter
+Spas-12
+--- 20-04-21 03:11:38
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:11:40
+RtP| SontercL
+Divas| mipHo
+FN Minimi
+--- 20-04-21 03:11:44
+Divas| Sk8'
+RtP| LoKitoHcL
+HK MP5
+--- 20-04-21 03:11:44
+RtP| LoKitoHcL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:11:57
+Divas| Rattle
+RtP| SontercL
+Ruger 77
+--- 20-04-21 03:11:58
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:12:01
+RtP| Shuter
+Divas| mipHo
+Grenade
+--- 20-04-21 03:12:03
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:12:06
+RtP| SontercL
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:12:08
+Divas| Rattle
+RtP| SontercL
+Grenade
+--- 20-04-21 03:12:10
+RtP| Shuter
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:12:13
+Divas| Sk8'
+RtP| Shuter
+HK MP5
+--- 20-04-21 03:34:12
+K!NG| Rakkety
+K!NG| Rakkety
+Combat Knife
+--- 20-04-21 03:34:23
+Divas| Rattle
+Divas| Rattle
+Selfkill
+--- 20-04-21 03:34:47
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:34:49
+Divas| Sk8'
+K!NG| YnGwi3
+LAW
+--- 20-04-21 03:34:53
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:34:54
+Divas| Rattle
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:34:56
+Divas| Sk8'
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:35:18
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:35:19
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:35:23
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:35:24
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:35:28
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:35:29
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:35:31
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:35:32
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:35:36
+Divas| Rattle
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:35:38
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:35:39
+K!NG| Rakkety
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:35:41
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:35:46
+Divas| Rattle
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:35:47
+Divas| Enigma
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:35:47
+Divas| Rattle
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:35:48
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:35:53
+K!NG| Rakkety
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:35:54
+K!NG| YnGwi3
+K!NG| YnGwi3
+LAW
+--- 20-04-21 03:35:54
+K!NG| YnGwi3
+Divas| Enigma
+LAW
+--- 20-04-21 03:35:57
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:35:58
+K!NG| Rakkety
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:36:00
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:36:01
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:36:02
+K!NG| Rakkety
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:36:05
+Divas| Rattle
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:36:10
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:36:10
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:36:11
+Divas| Rattle
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:36:11
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:36:13
+Divas| Sk8'
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:36:13
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:36:18
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:36:20
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:36:22
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:36:23
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:36:26
+K!NG| Rakkety
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:36:28
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:36:29
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:36:31
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:36:33
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:36:33
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:36:34
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:36:34
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:36:40
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:36:40
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:36:42
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:36:42
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:36:44
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:36:49
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:36:51
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:36:55
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:36:57
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:37:04
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:37:04
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:37:06
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:37:07
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:37:08
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:37:11
+K!NG| Rakkety
+Divas| Enigma
+HK MP5
+--- 20-04-21 03:37:11
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:37:16
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:37:17
+K!NG| Rakkety
+Divas| Rattle
+Grenade
+--- 20-04-21 03:37:18
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:37:19
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:37:23
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:37:26
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:37:26
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:37:28
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:37:31
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:37:34
+Divas| Rattle
+Divas| Rattle
+Grenade
+--- 20-04-21 03:37:34
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:37:37
+Divas| Enigma
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:37:37
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:37:39
+Divas| Enigma
+Divas| Enigma
+Grenade
+--- 20-04-21 03:37:41
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:37:44
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:37:44
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:37:44
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:37:49
+K!NG| Rakkety
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:37:49
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:37:51
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:37:55
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:37:55
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:37:56
+K!NG| Rakkety
+Divas| Rattle
+LAW
+--- 20-04-21 03:37:57
+K!NG| Rakkety
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:37:57
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:38:02
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:38:04
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:38:09
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:38:10
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:38:10
+K!NG| Rakkety
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:38:13
+K!NG| Rakkety
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:38:13
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:38:18
+K!NG| Rakkety
+Divas| Enigma
+LAW
+--- 20-04-21 03:38:20
+Divas| Rattle
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:38:24
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:38:26
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:38:26
+K!NG| Rakkety
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:38:29
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:38:29
+K!NG| Rakkety
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:38:33
+K!NG| YnGwi3
+Divas| Rattle
+LAW
+--- 20-04-21 03:38:34
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:38:34
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:38:37
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:38:37
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:38:37
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:38:41
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:38:44
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:38:44
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:38:47
+Divas| Rattle
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:38:48
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:38:52
+Divas| Sk8'
+K!NG| YnGwi3
+Hands
+--- 20-04-21 03:38:53
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:38:55
+K!NG| Rakkety
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:38:55
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:38:58
+K!NG| Rakkety
+Divas| Enigma
+LAW
+--- 20-04-21 03:39:01
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:39:01
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:39:04
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:39:10
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:39:10
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:39:12
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:39:17
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:39:19
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:39:19
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:39:22
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:39:25
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:39:27
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:39:33
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:39:33
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:39:35
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:39:38
+Divas| Rattle
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:39:38
+K!NG| Rakkety
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:39:41
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:39:43
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:39:47
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:39:48
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:39:49
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:39:51
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:39:52
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:39:52
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:39:55
+K!NG| YnGwi3
+Divas| Sk8'
+LAW
+--- 20-04-21 03:39:58
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:40:02
+Divas| Rattle
+K!NG| YnGwi3
+Spas-12
+--- 20-04-21 03:40:06
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:40:07
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:40:09
+Divas| Sk8'
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:40:11
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:40:17
+K!NG| Rakkety
+Divas| Sk8'
+Ruger 77
+--- 20-04-21 03:40:17
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:40:19
+K!NG| Rakkety
+Divas| Enigma
+Ruger 77
+--- 20-04-21 03:40:21
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:40:25
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:40:25
+K!NG| Rakkety
+Divas| Sk8'
+Ruger 77
+--- 20-04-21 03:40:26
+K!NG| YnGwi3
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:40:29
+Divas| Rattle
+Divas| Rattle
+Grenade
+--- 20-04-21 03:40:29
+Divas| Rattle
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:40:33
+K!NG| YnGwi3
+Divas| Enigma
+LAW
+--- 20-04-21 03:40:34
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:40:34
+K!NG| Rakkety
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:40:41
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:40:41
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:40:43
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:41:00
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:41:01
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:41:04
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:41:04
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:41:08
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:41:09
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:41:11
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:41:13
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:41:13
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:41:18
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:41:19
+Divas| Sk8'
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:41:19
+K!NG| Rakkety
+Divas| Sk8'
+Desert Eagles
+--- 20-04-21 03:41:21
+Divas| Rattle
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:41:21
+K!NG| YnGwi3
+Divas| Rattle
+LAW
+--- 20-04-21 03:41:23
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:41:25
+K!NG| MaaX*
+Divas| Rattle
+LAW
+--- 20-04-21 03:41:28
+Divas| Sk8'
+K!NG| MaaX*
+LAW
+--- 20-04-21 03:41:28
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:41:35
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:41:38
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:41:51
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:41:54
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:41:54
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:41:54
+Divas| Sk8'
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:41:59
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:42:01
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:42:01
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:42:05
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:42:06
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:42:08
+K!NG| Rakkety
+Divas| Sk8'
+LAW
+--- 20-04-21 03:42:08
+Divas| Enigma
+Divas| Enigma
+Grenade
+--- 20-04-21 03:42:14
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:42:14
+K!NG| MaaX*
+Divas| Rattle
+LAW
+--- 20-04-21 03:42:17
+Divas| Sk8'
+K!NG| Rakkety
+FN Minimi
+--- 20-04-21 03:42:18
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:42:20
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:42:20
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:42:23
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:42:26
+Divas| Sk8'
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:42:28
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:42:28
+Divas| Sk8'
+K!NG| YnGwi3
+FN Minimi
+--- 20-04-21 03:42:29
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:42:31
+K!NG| Rakkety
+Divas| Enigma
+Ruger 77
+--- 20-04-21 03:42:36
+Divas| Sk8'
+K!NG| Rakkety
+FN Minimi
+--- 20-04-21 03:42:37
+Divas| Rattle
+K!NG| MaaX*
+Ak-74
+--- 20-04-21 03:42:37
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:42:43
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:42:43
+K!NG| Rakkety
+Divas| Rattle
+Ruger 77
+--- 20-04-21 03:42:46
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:42:48
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:42:49
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:42:53
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:42:56
+K!NG| Rakkety
+Divas| Rattle
+FN Minimi
+--- 20-04-21 03:42:58
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:43:00
+Divas| Enigma
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:43:02
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:43:07
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:43:07
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:43:08
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:43:09
+K!NG| Rakkety
+Divas| Sk8'
+LAW
+--- 20-04-21 03:43:15
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:43:15
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:43:16
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:43:17
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:43:19
+Divas| Sk8'
+K!NG| MaaX*
+FN Minimi
+--- 20-04-21 03:43:23
+K!NG| Rakkety
+Divas| Rattle
+LAW
+--- 20-04-21 03:43:27
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:43:29
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:43:29
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:43:33
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:43:36
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:43:38
+Divas| Sk8'
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:43:38
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:43:39
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:43:41
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:43:41
+K!NG| YnGwi3
+Divas| Rattle
+LAW
+--- 20-04-21 03:43:46
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:43:47
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:43:49
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:43:52
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:43:52
+Divas| Rattle
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:43:54
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:43:55
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:44:00
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:44:01
+K!NG| Rakkety
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:44:02
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:44:02
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:44:08
+Divas| Enigma
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:44:09
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:44:09
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:44:12
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:44:13
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:44:16
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:44:16
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:44:17
+K!NG| Rakkety
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:44:17
+Divas| Sk8'
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:44:23
+K!NG| Rakkety
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:44:25
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:44:25
+Divas| Sk8'
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:44:26
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:44:28
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:44:32
+Divas| Enigma
+Divas| Enigma
+Grenade
+--- 20-04-21 03:44:35
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:44:35
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:44:38
+K!NG| YnGwi3
+Divas| Rattle
+LAW
+--- 20-04-21 03:44:41
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:44:42
+Divas| Sk8'
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:44:44
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:44:47
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:44:47
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:44:50
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:44:53
+K!NG| Rakkety
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:44:53
+Divas| Rattle
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:44:53
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:44:58
+Divas| Sk8'
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:44:59
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:44:59
+K!NG| Rakkety
+Divas| Rattle
+LAW
+--- 20-04-21 03:45:00
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:45:01
+Divas| Enigma
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:45:05
+K!NG| YnGwi3
+Divas| Enigma
+Ak-74
+--- 20-04-21 03:45:06
+Divas| Rattle
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:45:06
+K!NG| Rakkety
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:45:08
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:45:10
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:45:14
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:45:14
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:45:17
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:45:17
+Divas| Enigma
+K!NG| Rakkety
+FN Minimi
+--- 20-04-21 03:45:22
+Divas| Sk8'
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:45:24
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:45:24
+K!NG| Rakkety
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:45:26
+Divas| Enigma
+K!NG| Rakkety
+FN Minimi
+--- 20-04-21 03:45:28
+Divas| Enigma
+Divas| Enigma
+Grenade
+--- 20-04-21 03:45:29
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:45:35
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:45:37
+Divas| Sk8'
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:45:54
+K!NG| YnGwi3
+K!NG| YnGwi3
+Selfkill
+--- 20-04-21 03:46:05
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:46:05
+K!NG| Rakkety
+Divas| Rattle
+Grenade
+--- 20-04-21 03:46:05
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:46:11
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:46:11
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:46:11
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:46:13
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:46:16
+Divas| Rattle
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:46:20
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:46:20
+Divas| Enigma
+K!NG| YnGwi3
+HK MP5
+--- 20-04-21 03:46:23
+K!NG| Rakkety
+Divas| Sk8'
+Combat Knife
+--- 20-04-21 03:46:25
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:46:28
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:46:33
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:46:34
+Divas| Sk8'
+K!NG| YnGwi3
+LAW
+--- 20-04-21 03:46:37
+Divas| Sk8'
+K!NG| MaaX*
+Hands
+--- 20-04-21 03:46:37
+K!NG| MaaX*
+Divas| Sk8'
+Hands
+--- 20-04-21 03:46:39
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:46:45
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:46:49
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:46:51
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:46:51
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:46:57
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:46:57
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:47:06
+K!NG| YnGwi3
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:47:07
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:47:09
+K!NG| Rakkety
+Divas| Rattle
+Grenade
+--- 20-04-21 03:47:12
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:47:16
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:47:25
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:47:26
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:47:27
+K!NG| Rakkety
+Divas| Rattle
+Combat Knife
+--- 20-04-21 03:47:35
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:47:36
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:47:42
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:47:42
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:47:43
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:47:46
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:47:51
+Divas| Sk8'
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:47:54
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:47:56
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:48:01
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:48:05
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:48:07
+K!NG| Rakkety
+Divas| Rattle
+Grenade
+--- 20-04-21 03:48:07
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:48:12
+Divas| Enigma
+Divas| Enigma
+Grenade
+--- 20-04-21 03:48:12
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:48:18
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:48:19
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:48:20
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:48:22
+Divas| Enigma
+K!NG| Rakkety
+FN Minimi
+--- 20-04-21 03:48:26
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:48:26
+Divas| Enigma
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:48:30
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:48:32
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:48:36
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:48:36
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:48:37
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:48:38
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:48:43
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:48:43
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:48:49
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:48:50
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:48:53
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:48:54
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:48:57
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:48:59
+K!NG| MaaX*
+Divas| Rattle
+LAW
+--- 20-04-21 03:49:01
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:49:04
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:49:04
+Divas| Sk8'
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:49:06
+Divas| Sk8'
+K!NG| YnGwi3
+LAW
+--- 20-04-21 03:49:10
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:49:10
+Divas| Sk8'
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:49:11
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:49:16
+Divas| Rattle
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:49:16
+K!NG| MaaX*
+Divas| Enigma
+LAW
+--- 20-04-21 03:49:20
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:49:23
+K!NG| Rakkety
+Divas| Sk8'
+Desert Eagles
+--- 20-04-21 03:49:24
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:49:25
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:49:30
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:49:31
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:49:34
+K!NG| Rakkety
+Divas| Enigma
+Combat Knife
+--- 20-04-21 03:49:36
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:49:38
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:49:41
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:49:42
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:49:42
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:49:44
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:49:46
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:49:48
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:49:54
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:49:56
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:49:56
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:49:59
+Divas| Sk8'
+K!NG| MaaX*
+LAW
+--- 20-04-21 03:50:02
+Divas| Sk8'
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:50:03
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:50:05
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:50:07
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:50:10
+K!NG| Rakkety
+Divas| Rattle
+Combat Knife
+--- 20-04-21 03:50:16
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:50:16
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:50:19
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:50:22
+Divas| Enigma
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:50:23
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:50:25
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:50:25
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:50:29
+Divas| Sk8'
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:50:34
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:50:34
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:50:40
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:50:41
+Divas| Enigma
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:50:41
+K!NG| Rakkety
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:50:42
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:50:51
+K!NG| YnGwi3
+Divas| Sk8'
+Hands
+--- 20-04-21 03:50:52
+Divas| Rattle
+K!NG| MaaX*
+Ruger 77
+--- 20-04-21 03:50:53
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:50:59
+Divas| Sk8'
+K!NG| Rakkety
+LAW
+--- 20-04-21 03:51:02
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:51:04
+K!NG| Rakkety
+Divas| Rattle
+Combat Knife
+--- 20-04-21 03:51:04
+K!NG| YnGwi3
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:51:05
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:51:07
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:51:13
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:51:15
+K!NG| Rakkety
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:51:17
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:51:21
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:51:22
+K!NG| Rakkety
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:51:23
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:51:23
+Divas| Rattle
+K!NG| MaaX*
+Spas-12
+--- 20-04-21 03:51:32
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:51:34
+Divas| Rattle
+Divas| Rattle
+Grenade
+--- 20-04-21 03:51:38
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:51:38
+Divas| Enigma
+K!NG| Rakkety
+HK MP5
+--- 20-04-21 03:51:41
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:51:42
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:51:45
+Divas| Rattle
+K!NG| MaaX*
+Spas-12
+--- 20-04-21 03:51:48
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:51:50
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:51:51
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:51:54
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:51:55
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:52:00
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:52:02
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:52:02
+Divas| Enigma
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:52:07
+K!NG| Rakkety
+Divas| Rattle
+Combat Knife
+--- 20-04-21 03:52:08
+Divas| Sk8'
+K!NG| YnGwi3
+LAW
+--- 20-04-21 03:52:10
+K!NG| Rakkety
+Divas| Sk8'
+Desert Eagles
+--- 20-04-21 03:52:12
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:52:12
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:52:16
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:52:20
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:52:20
+Divas| Enigma
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:52:24
+Divas| Rattle
+K!NG| Rakkety
+Spas-12
+--- 20-04-21 03:52:29
+Divas| Enigma
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:52:30
+Divas| Rattle
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:52:32
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:52:32
+Divas| Enigma
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:52:35
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:52:36
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:52:42
+K!NG| Rakkety
+Divas| Sk8'
+Combat Knife
+--- 20-04-21 03:52:43
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:52:46
+Divas| Enigma
+K!NG| YnGwi3
+Combat Knife
+--- 20-04-21 03:52:51
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:52:55
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:52:58
+K!NG| MaaX*
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:53:02
+Divas| Sk8'
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:53:02
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:53:02
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:53:03
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:53:03
+K!NG| Rakkety
+Divas| Enigma
+Combat Knife
+--- 20-04-21 03:53:09
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:53:11
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:53:13
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:53:16
+Divas| Rattle
+K!NG| YnGwi3
+Spas-12
+--- 20-04-21 03:53:17
+Divas| Enigma
+K!NG| MaaX*
+Combat Knife
+--- 20-04-21 03:53:19
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:53:22
+Divas| Sk8'
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:53:23
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:53:28
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:53:30
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:53:34
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:53:39
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:53:40
+Divas| Enigma
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:53:40
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:53:47
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:53:51
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:53:52
+Divas| Enigma
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:53:54
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:53:56
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:53:59
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:54:01
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:54:01
+Divas| Rattle
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:54:01
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:54:09
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:54:10
+K!NG| MaaX*
+Divas| Rattle
+Grenade
+--- 20-04-21 03:54:10
+Divas| Rattle
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:54:13
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:54:14
+K!NG| Rakkety
+Divas| Enigma
+Grenade
+--- 20-04-21 03:54:18
+K!NG| Rakkety
+Divas| Sk8'
+Desert Eagles
+--- 20-04-21 03:54:21
+K!NG| YnGwi3
+Divas| Rattle
+Grenade
+--- 20-04-21 03:54:21
+K!NG| MaaX*
+Divas| Enigma
+Steyr AUG
+--- 20-04-21 03:54:26
+K!NG| YnGwi3
+Divas| Sk8'
+Spas-12
+--- 20-04-21 03:54:27
+Divas| Rattle
+K!NG| Rakkety
+Spas-12
+--- 20-04-21 03:54:28
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:54:29
+Divas| Sk8'
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:54:32
+Divas| Sk8'
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:54:35
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:54:37
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:54:39
+K!NG| MaaX*
+Divas| Rattle
+LAW
+--- 20-04-21 03:54:42
+Divas| Enigma
+K!NG| Rakkety
+Grenade
+--- 20-04-21 03:54:44
+Divas| Sk8'
+K!NG| MaaX*
+Steyr AUG
+--- 20-04-21 03:54:46
+K!NG| YnGwi3
+Divas| Enigma
+Grenade
+--- 20-04-21 03:54:50
+K!NG| MaaX*
+Divas| Rattle
+Steyr AUG
+--- 20-04-21 03:54:52
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:54:54
+Divas| Enigma
+K!NG| Rakkety
+Steyr AUG
+--- 20-04-21 03:54:57
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:54:59
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:55:04
+K!NG| MaaX*
+Divas| Sk8'
+Grenade
+--- 20-04-21 03:55:05
+Divas| Sk8'
+K!NG| YnGwi3
+Grenade
+--- 20-04-21 03:55:10
+Divas| Enigma
+K!NG| MaaX*
+HK MP5
+--- 20-04-21 03:55:10
+K!NG| Rakkety
+Divas| Rattle
+Desert Eagles
+--- 20-04-21 03:55:11
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:55:18
+Divas| Enigma
+K!NG| YnGwi3
+Steyr AUG
+--- 20-04-21 03:55:18
+Divas| Sk8'
+K!NG| MaaX*
+LAW
+--- 20-04-21 03:55:21
+K!NG| Rakkety
+Divas| Enigma
+Desert Eagles
+--- 20-04-21 03:55:23
+K!NG| YnGwi3
+Divas| Rattle
+Spas-12
+--- 20-04-21 03:55:29
+K!NG| YnGwi3
+Divas| Enigma
+Combat Knife
+--- 20-04-21 03:55:29
+Divas| Sk8'
+K!NG| YnGwi3
+FN Minimi
+--- 20-04-21 03:55:30
+Divas| Rattle
+K!NG| Rakkety
+Ruger 77
+--- 20-04-21 03:55:32
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:55:34
+K!NG| MaaX*
+Divas| Enigma
+Grenade
+--- 20-04-21 03:55:34
+K!NG| MaaX*
+K!NG| MaaX*
+Grenade
+--- 20-04-21 03:55:42
+Divas| Enigma
+K!NG| YnGwi3
+Barrett M82A1
+--- 20-04-21 03:55:43
+K!NG| MaaX*
+Divas| Sk8'
+LAW
+--- 20-04-21 03:55:48
+Divas| Enigma
+K!NG| Rakkety
+Barrett M82A1
+--- 20-04-21 03:55:51
+K!NG| YnGwi3
+Divas| Enigma
+Spas-12
+--- 20-04-21 03:55:51
+K!NG| MaaX*
+Divas| Sk8'
+Steyr AUG
+--- 20-04-21 03:55:52
+Divas| Rattle
+K!NG| YnGwi3
+Ruger 77
+--- 20-04-21 03:55:56
+K!NG| MaaX*
+K!NG| MaaX*
+Grenade

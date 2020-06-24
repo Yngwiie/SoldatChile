@@ -1,0 +1,35 @@
+20-02-12 09:32:38    Console Log Started
+20-02-12 09:32:38 Welcome to Soldat 1.7.1
+20-02-12 09:32:38  [*] Preparing scripts to be launched
+20-02-12 09:32:38  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 09:32:38  [*] commands_by_keen compiled
+20-02-12 09:32:38  [*] Compiling matchreporter -> match.pas...
+20-02-12 09:32:38  [*] matchreporter compiled
+20-02-12 09:32:38  [*] Done
+20-02-12 09:32:38 ctf_Ash by chakapoko maker
+20-02-12 09:32:38  [*] [Error] matchreporter -> OnMapChange(5:3) Exception: Unknown Run-Time error : 123
+20-02-12 09:32:38  Connection for file server started. Port: 23110
+20-02-12 09:32:38 Registering server @ 88.99.234.252
+20-02-12 09:32:50 190.107.226.45:53116|2CAF32344FB requesting game...
+20-02-12 09:33:03 |X.Forc3|.Prueba joining game (190.107.226.45:53116) HWID:2CAF32344FB
+20-02-12 09:33:03 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:33:36 |X.Forc3|.Prueba could not respond
+20-02-12 09:33:36 Server password changed to scl
+20-02-12 09:34:08 190.107.226.45:53116|2CAF32344FB requesting game...
+20-02-12 09:34:10 |X.Forc3|.Prueba joining game (190.107.226.45:53116) HWID:2CAF32344FB
+20-02-12 09:34:10 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:34:13 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:34:14 Next map: ctf_B2b
+20-02-12 09:34:19 B2B
+20-02-12 09:34:19  [*] [Error] matchreporter -> OnMapChange(5:3) Exception: Unknown Run-Time error : 123
+20-02-12 09:34:44 |X.Forc3|.Prueba has left alpha team.
+20-02-12 09:34:44 Server password changed to scl
+20-02-12 09:35:14 190.107.226.45:53116|2CAF32344FB requesting game...
+20-02-12 09:35:16 |X.Forc3|.Prueba joining game (190.107.226.45:53116) HWID:2CAF32344FB
+20-02-12 09:35:16 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 09:35:22 [|X.Forc3|.Prueba] !nextmap
+20-02-12 09:35:22 Next map: ctf_Blade
+20-02-12 09:35:27 Blade by Zakath
+20-02-12 09:35:27  [*] [Error] matchreporter -> OnMapChange(5:3) Exception: Unknown Run-Time error : 123
+20-02-12 09:35:31 |X.Forc3|.Prueba has left alpha team.
+20-02-12 09:35:31 Server password changed to scl

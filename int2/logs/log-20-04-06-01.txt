@@ -1,0 +1,315 @@
+20-04-06 08:58:46    Log Started
+20-04-06 08:58:46 Opened C:\Users\Administrador\Desktop\Privado Partidos\soldat.ini
+20-04-06 08:58:46 Creating network interface.
+20-04-06 08:58:46 Loading Animations.
+20-04-06 08:58:46 Loading Lobby Servers List
+20-04-06 08:58:46 Loading Maps List
+20-04-06 08:58:46 Loading Map.
+20-04-06 08:58:46 Creating Weapons.
+20-04-06 08:58:46 Starting Game Server.
+20-04-06 08:58:46 TCP/IP File Server started
+20-04-06 08:59:02  Net - |X.Forc3|.Turko connected 06-04-2020 8:59:02
+20-04-06 08:59:04  Net - |X.Forc3|.Turko connected 06-04-2020 8:59:04
+20-04-06 08:59:39  Net - |X.Forc3|Recluta connected 06-04-2020 8:59:39
+20-04-06 09:10:58  Net - |X.Forc3|.Turko disconnected 06-04-2020 9:10:58
+20-04-06 09:11:14  Net - |X.Forc3|.Turko connected 06-04-2020 9:11:14
+20-04-06 09:11:16  Net - |X.Forc3|.Turko connected 06-04-2020 9:11:16
+20-04-06 09:18:40  Net - |X.Forc3|.Turko disconnected 06-04-2020 9:18:40
+20-04-06 09:18:49  Net - |X.Forc3|.Turko connected 06-04-2020 9:18:49
+20-04-06 09:18:52  Net - |X.Forc3|.Turko connected 06-04-2020 9:18:52
+20-04-06 09:19:53  Net - |X.Forc3|.Turko disconnected 06-04-2020 9:19:53
+20-04-06 09:20:44  Net - |X.Forc3|.Turko connected 06-04-2020 9:20:44
+20-04-06 09:20:46  Net - |X.Forc3|.Turko connected 06-04-2020 9:20:46
+20-04-06 09:28:50 TCP/IP File Server started
+20-04-06 09:34:38  Net - |X.Forc3|Recluta disconnected 06-04-2020 9:34:38
+20-04-06 09:34:41  Net - |X.Forc3|.Turko disconnected 06-04-2020 9:34:41
+20-04-06 09:58:50 TCP/IP File Server started
+20-04-06 10:28:50 TCP/IP File Server started
+20-04-06 10:58:50 TCP/IP File Server started
+20-04-06 11:28:50 TCP/IP File Server started
+20-04-06 11:58:50 TCP/IP File Server started
+20-04-06 12:28:50 TCP/IP File Server started
+20-04-06 12:58:50 TCP/IP File Server started
+20-04-06 13:28:50 TCP/IP File Server started
+20-04-06 13:58:50 TCP/IP File Server started
+20-04-06 14:28:50 TCP/IP File Server started
+20-04-06 14:35:59  Net - Major connected 06-04-2020 14:35:59
+20-04-06 14:36:17  Net - Major disconnected 06-04-2020 14:36:17
+20-04-06 14:48:03  Net - Major connected 06-04-2020 14:48:03
+20-04-06 14:48:13  Net - Major disconnected 06-04-2020 14:48:13
+20-04-06 14:49:11  Net - Major connected 06-04-2020 14:49:11
+20-04-06 14:50:28  Net - Major disconnected 06-04-2020 14:50:28
+20-04-06 14:58:50 TCP/IP File Server started
+20-04-06 15:28:50 TCP/IP File Server started
+20-04-06 15:47:15  Net - Zazza.cl connected 06-04-2020 15:47:15
+20-04-06 15:47:30  Net - Zazza.cl disconnected 06-04-2020 15:47:30
+20-04-06 15:47:39  Net - El principito Lead connected 06-04-2020 15:47:39
+20-04-06 15:48:09  Net - El principito Lead disconnected 06-04-2020 15:48:09
+20-04-06 15:58:50 TCP/IP File Server started
+20-04-06 16:28:50 TCP/IP File Server started
+20-04-06 16:58:50 TCP/IP File Server started
+20-04-06 17:28:50 TCP/IP File Server started
+20-04-06 17:58:50 TCP/IP File Server started
+20-04-06 18:28:50 TCP/IP File Server started
+20-04-06 18:40:36  Net - #KbN! ChronoCL connected 06-04-2020 18:40:36
+20-04-06 18:41:03  Net - #KbN! ChronoCL disconnected 06-04-2020 18:41:03
+20-04-06 18:41:15  Net - #KbN! ChronoCL connected 06-04-2020 18:41:15
+20-04-06 18:41:21  Net - Major connected 06-04-2020 18:41:21
+20-04-06 18:41:31  Net - LB ~ Mercy connected 06-04-2020 18:41:31
+20-04-06 18:42:02  Net - Major disconnected 06-04-2020 18:42:02
+20-04-06 18:43:05  Net - #KbN! ChronoCL connected 06-04-2020 18:43:05
+20-04-06 18:43:35  Net - Major connected 06-04-2020 18:43:35
+20-04-06 18:44:29  Net - Major(1) connected 06-04-2020 18:44:29
+20-04-06 18:44:39  Net - Major connected 06-04-2020 18:44:39
+20-04-06 18:44:46  Net - LB ~ Mercy connected 06-04-2020 18:44:46
+20-04-06 18:44:46  Net - #KbN! ChronoCL connected 06-04-2020 18:44:46
+20-04-06 18:44:49  Net - Major(1) connected 06-04-2020 18:44:49
+20-04-06 18:44:49  Net - #KbN! ChronoCL connected 06-04-2020 18:44:49
+20-04-06 18:44:54  Net - LB ~ Mercy connected 06-04-2020 18:44:54
+20-04-06 18:45:09  Net - #KbN! ChronoCL connected 06-04-2020 18:45:09
+20-04-06 18:45:14  Net - Major connected 06-04-2020 18:45:14
+20-04-06 18:50:58  Net - Major disconnected 06-04-2020 18:50:58
+20-04-06 18:51:41  Net - Major connected 06-04-2020 18:51:41
+20-04-06 18:52:38  Net - Major(1) disconnected 06-04-2020 18:52:38
+20-04-06 18:53:20  Net - Major(1) connected 06-04-2020 18:53:20
+20-04-06 18:57:56  Net - Major disconnected 06-04-2020 18:57:56
+20-04-06 18:58:30  Net - Major connected 06-04-2020 18:58:30
+20-04-06 18:58:40  Net - Major(1) disconnected 06-04-2020 18:58:40
+20-04-06 18:58:50 TCP/IP File Server started
+20-04-06 18:58:54  Net - Major(1) connected 06-04-2020 18:58:54
+20-04-06 19:00:57  Net - #KbN! ChronoCL disconnected 06-04-2020 19:00:57
+20-04-06 19:02:05  Net - #KbN! ChronoCL connected 06-04-2020 19:02:05
+20-04-06 19:20:21  Net - LB ~ Mercy disconnected 06-04-2020 19:20:21
+20-04-06 19:20:28  Net - #KbN! ChronoCL disconnected 06-04-2020 19:20:28
+20-04-06 19:21:33  Net - Major(1) connected 06-04-2020 19:21:33
+20-04-06 19:26:43  Net - Limon connected 06-04-2020 19:26:43
+20-04-06 19:27:19  Net - Limon connected 06-04-2020 19:27:19
+20-04-06 19:28:50 TCP/IP File Server started
+20-04-06 19:31:53  Net - Limon disconnected 06-04-2020 19:31:53
+20-04-06 19:52:29  Net - Major(1) disconnected 06-04-2020 19:52:29
+20-04-06 19:52:30  Net - Major disconnected 06-04-2020 19:52:30
+20-04-06 19:58:50 TCP/IP File Server started
+20-04-06 20:28:50 TCP/IP File Server started
+20-04-06 20:58:50 TCP/IP File Server started
+20-04-06 21:04:57  Net - Reviva|IRatzorcL connected 06-04-2020 21:04:57
+20-04-06 21:05:04  Net - Zazza S/C connected 06-04-2020 21:05:04
+20-04-06 21:05:10  Net - Reviva|IRatzorcL connected 06-04-2020 21:05:10
+20-04-06 21:05:12  Net - sT#' ErreAPe_ connected 06-04-2020 21:05:12
+20-04-06 21:05:18  Net - Zazza S/C disconnected 06-04-2020 21:05:18
+20-04-06 21:05:30  Net - Zazza S/C connected 06-04-2020 21:05:30
+20-04-06 21:05:33  Net - sugoi-ne connected 06-04-2020 21:05:33
+20-04-06 21:05:38  Net - sugoi-ne connected 06-04-2020 21:05:38
+20-04-06 21:07:09  Net - Reviva|IRatzorcL connected 06-04-2020 21:07:09
+20-04-06 21:12:41  Net - TUMAMIPUDGE connected 06-04-2020 21:12:41
+20-04-06 21:16:48  Net - Reviva|IRatzorcL disconnected 06-04-2020 21:16:48
+20-04-06 21:16:50  Net - sT#' ErreAPe_ disconnected 06-04-2020 21:16:50
+20-04-06 21:16:58  Net - TUMAMIPUDGE disconnected 06-04-2020 21:16:58
+20-04-06 21:16:59  Net - sugoi-ne disconnected 06-04-2020 21:16:59
+20-04-06 21:17:05  Net - Zazza S/C disconnected 06-04-2020 21:17:05
+20-04-06 21:28:50 TCP/IP File Server started
+20-04-06 21:58:50 TCP/IP File Server started
+20-04-06 22:28:50 TCP/IP File Server started
+20-04-06 22:58:42  Net - |X.Forc3|Recluta connected 06-04-2020 22:58:42
+20-04-06 22:58:50 TCP/IP File Server started
+20-04-06 22:58:54  Net - |X.Forc3|.Turko connected 06-04-2020 22:58:54
+20-04-06 22:59:12  Net - |X.Forc3|.Turko connected 06-04-2020 22:59:12
+20-04-06 22:59:38  Net - |X.Forc3|.Turko disconnected 06-04-2020 22:59:38
+20-04-06 22:59:42  Net - el mas bello connected 06-04-2020 22:59:42
+20-04-06 22:59:56  Net - |X.Forc3|Recluta disconnected 06-04-2020 22:59:56
+20-04-06 22:59:57  Net - el mas bello disconnected 06-04-2020 22:59:57
+20-04-06 23:00:01  Net - el mas bello connected 06-04-2020 23:00:01
+20-04-06 23:00:02  Net - |X.Forc3|Recluta connected 06-04-2020 23:00:02
+20-04-06 23:00:07  Net - |X.Forc3|.Turko connected 06-04-2020 23:00:07
+20-04-06 23:00:09  Net - |X.Forc3|.Turko connected 06-04-2020 23:00:09
+20-04-06 23:00:30  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:00:30
+20-04-06 23:00:58  Net - |X.Forc3|.Turko connected 06-04-2020 23:00:58
+20-04-06 23:01:01  Net - |X.Forc3|.Turko connected 06-04-2020 23:01:01
+20-04-06 23:01:24  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:01:24
+20-04-06 23:01:32  Net - el mas bello disconnected 06-04-2020 23:01:32
+20-04-06 23:01:36  Net - el mas bello connected 06-04-2020 23:01:36
+20-04-06 23:02:03  Net - el mas bello disconnected 06-04-2020 23:02:03
+20-04-06 23:02:08  Net - el mas bello connected 06-04-2020 23:02:08
+20-04-06 23:02:52  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:02:52
+20-04-06 23:02:57  Net - |X.Forc3|Recluta connected 06-04-2020 23:02:57
+20-04-06 23:03:43  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:03:43
+20-04-06 23:03:47  Net - |X.Forc3|Recluta connected 06-04-2020 23:03:47
+20-04-06 23:04:25  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:04:25
+20-04-06 23:04:25  Net - el mas bello disconnected 06-04-2020 23:04:25
+20-04-06 23:04:28  Net - |X.Forc3|Recluta connected 06-04-2020 23:04:28
+20-04-06 23:04:29  Net - el mas bello connected 06-04-2020 23:04:29
+20-04-06 23:05:04  Net - |X.Forc3|.Turko connected 06-04-2020 23:05:04
+20-04-06 23:05:11  Net - |X.Forc3|.Turko connected 06-04-2020 23:05:11
+20-04-06 23:05:34  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:05:34
+20-04-06 23:05:38  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:05:38
+20-04-06 23:05:40  Net - |X.Forc3|Recluta connected 06-04-2020 23:05:40
+20-04-06 23:05:52  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:05:52
+20-04-06 23:05:56  Net - |X.Forc3|Recluta connected 06-04-2020 23:05:56
+20-04-06 23:06:30  Net - |X.Forc3|.Turko connected 06-04-2020 23:06:30
+20-04-06 23:06:42  Net - el mas bello disconnected 06-04-2020 23:06:42
+20-04-06 23:06:44  Net - |X.Forc3|.Turko connected 06-04-2020 23:06:44
+20-04-06 23:06:46  Net - el mas bello connected 06-04-2020 23:06:46
+20-04-06 23:07:11  Net - el mas bello disconnected 06-04-2020 23:07:11
+20-04-06 23:07:16  Net - el mas bello connected 06-04-2020 23:07:16
+20-04-06 23:10:06  Net - El principito Lead connected 06-04-2020 23:10:06
+20-04-06 23:10:26  Net - |X.Forc3|.Turko connected 06-04-2020 23:10:26
+20-04-06 23:13:52  Net - el mas bello disconnected 06-04-2020 23:13:52
+20-04-06 23:13:56  Net - el mas bello connected 06-04-2020 23:13:56
+20-04-06 23:15:47  Net - el mas bello disconnected 06-04-2020 23:15:47
+20-04-06 23:15:51  Net - el mas bello connected 06-04-2020 23:15:51
+20-04-06 23:17:26  Net - el mas bello disconnected 06-04-2020 23:17:26
+20-04-06 23:17:30  Net - el mas bello connected 06-04-2020 23:17:30
+20-04-06 23:18:09  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:18:09
+20-04-06 23:18:09  Net - el mas bello disconnected 06-04-2020 23:18:09
+20-04-06 23:18:10  Net - |X.Forc3|.Turko connected 06-04-2020 23:18:10
+20-04-06 23:18:12  Net - el mas bello connected 06-04-2020 23:18:12
+20-04-06 23:18:14  Net - |X.Forc3|.Turko connected 06-04-2020 23:18:14
+20-04-06 23:19:00  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:19:00
+20-04-06 23:19:00  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:19:00
+20-04-06 23:19:00  Net - |X.Forc3|.Turko connected 06-04-2020 23:19:00
+20-04-06 23:19:05  Net - |X.Forc3|Recluta connected 06-04-2020 23:19:05
+20-04-06 23:19:07  Net - |X.Forc3|Recluta disconnected 06-04-2020 23:19:07
+20-04-06 23:19:24  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:19:24
+20-04-06 23:19:26  Net - |X.Forc3|.Turko connected 06-04-2020 23:19:26
+20-04-06 23:19:30  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:19:30
+20-04-06 23:20:11  Net - el mas bello connected 06-04-2020 23:20:11
+20-04-06 23:23:00  Net - Warfar3 connected 06-04-2020 23:23:00
+20-04-06 23:23:02  Net - Warfar3 disconnected 06-04-2020 23:23:02
+20-04-06 23:23:42  Net - El principito Lead disconnected 06-04-2020 23:23:42
+20-04-06 23:23:45  Net - El principito Lead connected 06-04-2020 23:23:45
+20-04-06 23:24:30  Net - |X.Forc3|.Turko connected 06-04-2020 23:24:30
+20-04-06 23:24:40  Net - |X.Forc3|.Turko disconnected 06-04-2020 23:24:40
+20-04-06 23:24:54  Net - El principito Lead disconnected 06-04-2020 23:24:54
+20-04-06 23:24:57  Net - el mas bello disconnected 06-04-2020 23:24:57
+20-04-06 23:24:57  Net - El principito Lead connected 06-04-2020 23:24:57
+20-04-06 23:27:15  Net - El principito Lead disconnected 06-04-2020 23:27:15
+20-04-06 23:27:19  Net - El principito Lead connected 06-04-2020 23:27:19
+20-04-06 23:27:29  Net - El principito Lead disconnected 06-04-2020 23:27:29
+20-04-06 23:28:50 TCP/IP File Server started
+20-04-06 23:28:58  Net - El principito Lead connected 06-04-2020 23:28:58
+20-04-06 23:29:34  Net - El principito Lead disconnected 06-04-2020 23:29:34
+20-04-06 23:58:50 TCP/IP File Server started
+20-04-07 00:28:50 TCP/IP File Server started
+20-04-07 00:58:50 TCP/IP File Server started
+20-04-07 01:28:50 TCP/IP File Server started
+20-04-07 01:58:50 TCP/IP File Server started
+20-04-07 02:28:50 TCP/IP File Server started
+20-04-07 02:58:50 TCP/IP File Server started
+20-04-07 03:28:50 TCP/IP File Server started
+20-04-07 03:38:27  Net - #1 Mand3s connected 07-04-2020 3:38:27
+20-04-07 03:38:35  Net - Waives|F4ll.cL connected 07-04-2020 3:38:35
+20-04-07 03:41:10  Net - #1 Mand3s connected 07-04-2020 3:41:10
+20-04-07 09:58:13  Net - Waives|F4ll.cL disconnected 07-04-2020 9:58:13
+20-04-07 09:58:17  Net - #1 Mand3s disconnected 07-04-2020 9:58:17
+20-04-07 09:58:55 TCP/IP File Server started
+20-04-07 10:28:55 TCP/IP File Server started
+20-04-07 04:58:55 TCP/IP File Server started
+20-04-07 05:28:55 TCP/IP File Server started
+20-04-07 05:58:55 TCP/IP File Server started
+20-04-07 06:28:55 TCP/IP File Server started
+20-04-07 06:58:55 TCP/IP File Server started
+20-04-07 07:28:55 TCP/IP File Server started
+20-04-07 07:58:55 TCP/IP File Server started
+20-04-07 08:28:55 TCP/IP File Server started
+20-04-07 08:58:55 TCP/IP File Server started
+20-04-07 09:28:55 TCP/IP File Server started
+20-04-07 09:58:55 TCP/IP File Server started
+20-04-07 10:28:55 TCP/IP File Server started
+20-04-07 10:58:55 TCP/IP File Server started
+20-04-07 11:28:55 TCP/IP File Server started
+20-04-07 11:58:55 TCP/IP File Server started
+20-04-07 12:28:55 TCP/IP File Server started
+20-04-07 12:58:55 TCP/IP File Server started
+20-04-07 13:28:55 TCP/IP File Server started
+20-04-07 13:58:55 TCP/IP File Server started
+20-04-07 14:28:55 TCP/IP File Server started
+20-04-07 14:58:55 TCP/IP File Server started
+20-04-07 14:59:55  Net - JERICH connected 07-04-2020 14:59:55
+20-04-07 15:00:03  Net - JERICH disconnected 07-04-2020 15:00:03
+20-04-07 15:00:18  Net - LB ~ Sadiko connected 07-04-2020 15:00:18
+20-04-07 15:01:25  Net - LB ~ Sadiko disconnected 07-04-2020 15:01:25
+20-04-07 15:28:55 TCP/IP File Server started
+20-04-07 15:58:55 TCP/IP File Server started
+20-04-07 16:28:55 TCP/IP File Server started
+20-04-07 16:42:23  Net - El principito Lead connected 07-04-2020 16:42:23
+20-04-07 16:45:45  Net - El principito Lead disconnected 07-04-2020 16:45:45
+20-04-07 16:58:55 TCP/IP File Server started
+20-04-07 17:28:55 TCP/IP File Server started
+20-04-07 17:58:55 TCP/IP File Server started
+20-04-07 18:28:55 TCP/IP File Server started
+20-04-07 18:58:55 TCP/IP File Server started
+20-04-07 19:28:55 TCP/IP File Server started
+20-04-07 19:58:55 TCP/IP File Server started
+20-04-07 20:28:55 TCP/IP File Server started
+20-04-07 20:58:55 TCP/IP File Server started
+20-04-07 21:28:55 TCP/IP File Server started
+20-04-07 21:58:55 TCP/IP File Server started
+20-04-07 22:28:55 TCP/IP File Server started
+20-04-07 22:58:55 TCP/IP File Server started
+20-04-07 23:28:55 TCP/IP File Server started
+20-04-07 23:58:55 TCP/IP File Server started
+20-04-08 00:28:55 TCP/IP File Server started
+20-04-08 00:58:55 TCP/IP File Server started
+20-04-08 01:01:19  Net - |D.Forc3|.Turko connected 08-04-2020 1:01:19
+20-04-08 01:01:20  Net - |D.Forc3|.Turko connected 08-04-2020 1:01:20
+20-04-08 01:04:22  Net - |D.Forc3|.Turko disconnected 08-04-2020 1:04:22
+20-04-08 01:06:13  Net - |D.Forc3|.Turko connected 08-04-2020 1:06:13
+20-04-08 01:06:15  Net - |D.Forc3|.Turko disconnected 08-04-2020 1:06:15
+20-04-08 01:07:41  Net - |X.Forc3|Recluta connected 08-04-2020 1:07:41
+20-04-08 01:08:23  Net - |X.Forc3|Recluta disconnected 08-04-2020 1:08:23
+20-04-08 01:28:55 TCP/IP File Server started
+20-04-08 01:58:55 TCP/IP File Server started
+20-04-08 02:28:55 TCP/IP File Server started
+20-04-08 02:58:55 TCP/IP File Server started
+20-04-08 09:28:57 TCP/IP File Server started
+20-04-08 03:58:56 TCP/IP File Server started
+20-04-08 04:28:56 TCP/IP File Server started
+20-04-08 04:58:56 TCP/IP File Server started
+20-04-08 05:28:56 TCP/IP File Server started
+20-04-08 05:58:56 TCP/IP File Server started
+20-04-08 06:28:56 TCP/IP File Server started
+20-04-08 06:58:56 TCP/IP File Server started
+20-04-08 07:28:56 TCP/IP File Server started
+20-04-08 07:58:56 TCP/IP File Server started
+20-04-08 08:28:56 TCP/IP File Server started
+20-04-08 08:58:56 TCP/IP File Server started
+20-04-08 09:28:56 TCP/IP File Server started
+20-04-08 09:57:15  Net - mipHo connected 08-04-2020 9:57:15
+20-04-08 09:57:24  Net - mipHo disconnected 08-04-2020 9:57:24
+20-04-08 09:58:56 TCP/IP File Server started
+20-04-08 10:28:56 TCP/IP File Server started
+20-04-08 10:58:56 TCP/IP File Server started
+20-04-08 11:28:56 TCP/IP File Server started
+20-04-08 11:58:56 TCP/IP File Server started
+20-04-08 12:28:56 TCP/IP File Server started
+20-04-08 12:58:56 TCP/IP File Server started
+20-04-08 13:28:56 TCP/IP File Server started
+20-04-08 13:34:46  Net - Major connected 08-04-2020 13:34:46
+20-04-08 13:34:52  Net - Major disconnected 08-04-2020 13:34:52
+20-04-08 13:58:56 TCP/IP File Server started
+20-04-08 14:28:56 TCP/IP File Server started
+20-04-08 14:58:56 TCP/IP File Server started
+20-04-08 15:14:15  Net - PROLAPSO  [AN4L] connected 08-04-2020 15:14:15
+20-04-08 15:14:39  Net - PROLAPSO  [AN4L] disconnected 08-04-2020 15:14:39
+20-04-08 15:14:51  Net - PROLAPSO  [AN4L] connected 08-04-2020 15:14:51
+20-04-08 15:15:19  Net - PROLAPSO  [AN4L] connected 08-04-2020 15:15:19
+20-04-08 15:17:03  Net - PROLAPSO  [AN4L] disconnected 08-04-2020 15:17:03
+20-04-08 15:28:56 TCP/IP File Server started
+20-04-08 15:58:56 TCP/IP File Server started
+20-04-08 16:28:56 TCP/IP File Server started
+20-04-08 16:58:56 TCP/IP File Server started
+20-04-08 17:28:56 TCP/IP File Server started
+20-04-08 17:50:53  Net - Major connected 08-04-2020 17:50:53
+20-04-08 17:50:55  Net - Major disconnected 08-04-2020 17:50:55
+20-04-08 17:58:56 TCP/IP File Server started
+20-04-08 18:28:56 TCP/IP File Server started
+20-04-08 18:58:56 TCP/IP File Server started
+20-04-08 19:28:56 TCP/IP File Server started
+20-04-08 19:58:56 TCP/IP File Server started
+20-04-08 20:28:56 TCP/IP File Server started
+20-04-08 20:58:56 TCP/IP File Server started
+20-04-08 21:28:56 TCP/IP File Server started
+20-04-08 21:58:56 TCP/IP File Server started
+20-04-08 22:28:56 TCP/IP File Server started
+20-04-08 22:58:56 TCP/IP File Server started
+20-04-08 23:15:14 Destroying Devices.
+20-04-08 23:15:14    End of Log.

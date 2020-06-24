@@ -1,0 +1,575 @@
+20-06-12 02:47:06    Log Started
+20-06-12 02:47:06 Opened /home/kader_b/int3/soldat.ini
+20-06-12 02:48:08  Net - bC|: VanscL connected 12-6-20 02:48:08
+20-06-12 02:48:28  Net - bC|: VanscL disconnected 12-6-20 02:48:28
+20-06-12 02:48:36  Net - S2 ~ PoKemon connected 12-6-20 02:48:36
+20-06-12 02:50:40  Net - S2 ~ AsteK connected 12-6-20 02:50:40
+20-06-12 02:50:56 TCP/IP File Server started
+20-06-12 02:52:22  Net - S2 ~ PoKemon disconnected 12-6-20 02:52:22
+20-06-12 02:53:36  Net - S2 ~ AsteK connected 12-6-20 02:53:36
+20-06-12 02:56:25  Net - S2 ~ PoKemon connected 12-6-20 02:56:25
+20-06-12 02:56:31  Net - S2 ~ PoKemon connected 12-6-20 02:56:31
+20-06-12 02:58:21  Net - S2 ~ AsteK connected 12-6-20 02:58:21
+20-06-12 02:58:28  Net - S2 ~ AsteK disconnected 12-6-20 02:58:28
+20-06-12 02:59:44  Net - S2 ~ PoKemon connected 12-6-20 02:59:44
+20-06-12 02:59:51  Net - S2 ~ AsteK connected 12-6-20 02:59:51
+20-06-12 03:00:34  Net - S2 ~ PoKemon disconnected 12-6-20 03:00:34
+20-06-12 03:05:26  Net - S2 ~ AsteK disconnected 12-6-20 03:05:26
+20-06-12 03:08:53  Net - S2 ~ patuzhO* disconnected 12-6-20 03:08:53
+20-06-12 03:08:54  Net - S3 - TTe Pepe disconnected 12-6-20 03:08:54
+20-06-12 03:20:56 TCP/IP File Server started
+20-06-12 03:50:56 TCP/IP File Server started
+20-06-12 04:20:56 TCP/IP File Server started
+20-06-12 04:50:56 TCP/IP File Server started
+20-06-12 05:20:56 TCP/IP File Server started
+20-06-12 05:50:56 TCP/IP File Server started
+20-06-12 06:20:56 TCP/IP File Server started
+20-06-12 06:50:56 TCP/IP File Server started
+20-06-12 07:20:56 TCP/IP File Server started
+20-06-12 07:50:56 TCP/IP File Server started
+20-06-12 08:20:56 TCP/IP File Server started
+20-06-12 08:50:56 TCP/IP File Server started
+20-06-12 09:20:56 TCP/IP File Server started
+20-06-12 09:50:56 TCP/IP File Server started
+20-06-12 10:20:56 TCP/IP File Server started
+20-06-12 10:50:56 TCP/IP File Server started
+20-06-12 11:20:56 TCP/IP File Server started
+20-06-12 11:50:56 TCP/IP File Server started
+20-06-12 12:20:56 TCP/IP File Server started
+20-06-12 12:50:56 TCP/IP File Server started
+20-06-12 13:20:56 TCP/IP File Server started
+20-06-12 13:50:56 TCP/IP File Server started
+20-06-12 14:20:56 TCP/IP File Server started
+20-06-12 14:50:56 TCP/IP File Server started
+20-06-12 15:20:56 TCP/IP File Server started
+20-06-12 15:50:56 TCP/IP File Server started
+20-06-12 16:20:56 TCP/IP File Server started
+20-06-12 16:50:56 TCP/IP File Server started
+20-06-12 17:20:56 TCP/IP File Server started
+20-06-12 17:50:56 TCP/IP File Server started
+20-06-12 18:20:56 TCP/IP File Server started
+20-06-12 18:50:56 TCP/IP File Server started
+20-06-12 19:20:56 TCP/IP File Server started
+20-06-12 19:50:56 TCP/IP File Server started
+20-06-12 20:20:56 TCP/IP File Server started
+20-06-12 20:50:56 TCP/IP File Server started
+20-06-12 21:20:56 TCP/IP File Server started
+20-06-12 21:50:56 TCP/IP File Server started
+20-06-12 22:20:58 TCP/IP File Server started
+20-06-12 22:50:58 TCP/IP File Server started
+20-06-12 23:20:58 TCP/IP File Server started
+20-06-12 23:50:58 TCP/IP File Server started
+20-06-13 00:20:58 TCP/IP File Server started
+20-06-13 00:50:58 TCP/IP File Server started
+20-06-13 01:20:58 TCP/IP File Server started
+20-06-13 01:50:58 TCP/IP File Server started
+20-06-13 02:04:48  Net - S2 ~ DeFkOndOz* connected 13-6-20 02:04:48
+20-06-13 02:04:49  Net - S2 ~ DeFkOndOz* disconnected 13-6-20 02:04:49
+20-06-13 02:20:58 TCP/IP File Server started
+20-06-13 02:50:58 TCP/IP File Server started
+20-06-13 03:20:58 TCP/IP File Server started
+20-06-13 03:50:58 TCP/IP File Server started
+20-06-13 04:20:58 TCP/IP File Server started
+20-06-13 04:50:58 TCP/IP File Server started
+20-06-13 05:20:58 TCP/IP File Server started
+20-06-13 05:50:58 TCP/IP File Server started
+20-06-13 06:20:58 TCP/IP File Server started
+20-06-13 06:50:58 TCP/IP File Server started
+20-06-13 07:20:58 TCP/IP File Server started
+20-06-13 07:50:58 TCP/IP File Server started
+20-06-13 08:20:58 TCP/IP File Server started
+20-06-13 08:50:58 TCP/IP File Server started
+20-06-13 09:20:58 TCP/IP File Server started
+20-06-13 09:50:58 TCP/IP File Server started
+20-06-13 10:20:58 TCP/IP File Server started
+20-06-13 10:50:58 TCP/IP File Server started
+20-06-13 11:20:58 TCP/IP File Server started
+20-06-13 11:50:58 TCP/IP File Server started
+20-06-13 12:20:58 TCP/IP File Server started
+20-06-13 12:51:13 TCP/IP File Server started
+20-06-13 13:21:13 TCP/IP File Server started
+20-06-13 13:51:13 TCP/IP File Server started
+20-06-13 14:21:13 TCP/IP File Server started
+20-06-13 14:51:13 TCP/IP File Server started
+20-06-13 15:21:13 TCP/IP File Server started
+20-06-13 15:51:13 TCP/IP File Server started
+20-06-13 16:21:13 TCP/IP File Server started
+20-06-13 16:51:13 TCP/IP File Server started
+20-06-13 17:21:13 TCP/IP File Server started
+20-06-13 17:51:13 TCP/IP File Server started
+20-06-13 18:21:13 TCP/IP File Server started
+20-06-13 18:51:13 TCP/IP File Server started
+20-06-13 19:21:13 TCP/IP File Server started
+20-06-13 19:51:13 TCP/IP File Server started
+20-06-13 20:21:13 TCP/IP File Server started
+20-06-13 20:51:13 TCP/IP File Server started
+20-06-13 21:21:13 TCP/IP File Server started
+20-06-13 21:51:13 TCP/IP File Server started
+20-06-13 22:21:13 TCP/IP File Server started
+20-06-13 22:51:13 TCP/IP File Server started
+20-06-13 23:21:13 TCP/IP File Server started
+20-06-13 23:51:13 TCP/IP File Server started
+20-06-14 00:21:13 TCP/IP File Server started
+20-06-14 00:51:13 TCP/IP File Server started
+20-06-14 01:21:13 TCP/IP File Server started
+20-06-14 01:51:13 TCP/IP File Server started
+20-06-14 02:21:13 TCP/IP File Server started
+20-06-14 02:51:13 TCP/IP File Server started
+20-06-14 03:21:13 TCP/IP File Server started
+20-06-14 03:51:13 TCP/IP File Server started
+20-06-14 04:21:13 TCP/IP File Server started
+20-06-14 04:51:13 TCP/IP File Server started
+20-06-14 05:21:13 TCP/IP File Server started
+20-06-14 05:51:13 TCP/IP File Server started
+20-06-14 06:21:13 TCP/IP File Server started
+20-06-14 06:51:13 TCP/IP File Server started
+20-06-14 07:21:13 TCP/IP File Server started
+20-06-14 07:51:13 TCP/IP File Server started
+20-06-14 08:21:13 TCP/IP File Server started
+20-06-14 08:51:13 TCP/IP File Server started
+20-06-14 09:21:13 TCP/IP File Server started
+20-06-14 09:51:13 TCP/IP File Server started
+20-06-14 10:21:13 TCP/IP File Server started
+20-06-14 10:51:13 TCP/IP File Server started
+20-06-14 11:21:13 TCP/IP File Server started
+20-06-14 11:51:13 TCP/IP File Server started
+20-06-14 12:21:13 TCP/IP File Server started
+20-06-14 12:51:13 TCP/IP File Server started
+20-06-14 13:21:13 TCP/IP File Server started
+20-06-14 13:51:13 TCP/IP File Server started
+20-06-14 14:21:13 TCP/IP File Server started
+20-06-14 14:51:13 TCP/IP File Server started
+20-06-14 15:21:13 TCP/IP File Server started
+20-06-14 15:51:13 TCP/IP File Server started
+20-06-14 16:21:13 TCP/IP File Server started
+20-06-14 16:51:13 TCP/IP File Server started
+20-06-14 17:21:13 TCP/IP File Server started
+20-06-14 17:51:13 TCP/IP File Server started
+20-06-14 18:21:13 TCP/IP File Server started
+20-06-14 18:51:13 TCP/IP File Server started
+20-06-14 19:21:13 TCP/IP File Server started
+20-06-14 19:51:13 TCP/IP File Server started
+20-06-14 20:21:13 TCP/IP File Server started
+20-06-14 20:51:13 TCP/IP File Server started
+20-06-14 21:21:13 TCP/IP File Server started
+20-06-14 21:51:13 TCP/IP File Server started
+20-06-14 22:21:13 TCP/IP File Server started
+20-06-14 22:51:13 TCP/IP File Server started
+20-06-14 23:10:38  Net - Mactiaaas connected 14-6-20 23:10:38
+20-06-14 23:10:59  Net - Mactiaaas disconnected 14-6-20 23:10:59
+20-06-14 23:21:13 TCP/IP File Server started
+20-06-14 23:51:13 TCP/IP File Server started
+20-06-15 00:21:13 TCP/IP File Server started
+20-06-15 00:51:13 TCP/IP File Server started
+20-06-15 01:21:13 TCP/IP File Server started
+20-06-15 01:51:13 TCP/IP File Server started
+20-06-15 02:21:13 TCP/IP File Server started
+20-06-15 02:51:13 TCP/IP File Server started
+20-06-15 03:21:13 TCP/IP File Server started
+20-06-15 03:51:13 TCP/IP File Server started
+20-06-15 04:21:13 TCP/IP File Server started
+20-06-15 04:51:13 TCP/IP File Server started
+20-06-15 05:21:13 TCP/IP File Server started
+20-06-15 05:51:13 TCP/IP File Server started
+20-06-15 06:21:13 TCP/IP File Server started
+20-06-15 06:51:13 TCP/IP File Server started
+20-06-15 07:21:13 TCP/IP File Server started
+20-06-15 07:51:13 TCP/IP File Server started
+20-06-15 08:21:13 TCP/IP File Server started
+20-06-15 08:51:13 TCP/IP File Server started
+20-06-15 09:21:13 TCP/IP File Server started
+20-06-15 09:51:13 TCP/IP File Server started
+20-06-15 10:21:13 TCP/IP File Server started
+20-06-15 10:51:13 TCP/IP File Server started
+20-06-15 11:21:13 TCP/IP File Server started
+20-06-15 11:51:13 TCP/IP File Server started
+20-06-15 12:21:13 TCP/IP File Server started
+20-06-15 12:51:13 TCP/IP File Server started
+20-06-15 13:21:13 TCP/IP File Server started
+20-06-15 13:51:13 TCP/IP File Server started
+20-06-15 14:21:13 TCP/IP File Server started
+20-06-15 14:51:13 TCP/IP File Server started
+20-06-15 15:21:13 TCP/IP File Server started
+20-06-15 15:51:13 TCP/IP File Server started
+20-06-15 16:21:13 TCP/IP File Server started
+20-06-15 16:51:13 TCP/IP File Server started
+20-06-15 17:21:13 TCP/IP File Server started
+20-06-15 17:51:13 TCP/IP File Server started
+20-06-15 18:21:13 TCP/IP File Server started
+20-06-15 18:51:13 TCP/IP File Server started
+20-06-15 19:21:13 TCP/IP File Server started
+20-06-15 19:51:13 TCP/IP File Server started
+20-06-15 20:21:13 TCP/IP File Server started
+20-06-15 20:51:13 TCP/IP File Server started
+20-06-15 21:21:13 TCP/IP File Server started
+20-06-15 21:51:13 TCP/IP File Server started
+20-06-15 22:21:13 TCP/IP File Server started
+20-06-15 22:51:13 TCP/IP File Server started
+20-06-15 23:21:13 TCP/IP File Server started
+20-06-15 23:51:13 TCP/IP File Server started
+20-06-16 00:17:35  Net - F4ll.cL connected 16-6-20 00:17:35
+20-06-16 00:17:37  Net - F4ll.cL disconnected 16-6-20 00:17:37
+20-06-16 00:17:56  Net - RtP|F4ll.cL connected 16-6-20 00:17:56
+20-06-16 00:19:36  Net - RtP|F4ll.cL disconnected 16-6-20 00:19:36
+20-06-16 00:20:01  Net - RtP|F4ll.cL connected 16-6-20 00:20:01
+20-06-16 00:20:38  Net - RtP|F4ll.cL disconnected 16-6-20 00:20:38
+20-06-16 00:20:48  Net - RtP|F4ll.cL connected 16-6-20 00:20:48
+20-06-16 00:21:02  Net - RtP|F4ll.cL connected 16-6-20 00:21:02
+20-06-16 00:21:13 TCP/IP File Server started
+20-06-16 00:22:08  Net - RtP| SontercL connected 16-6-20 00:22:08
+20-06-16 00:25:51  Net - S2 ~ DeFkOndOz* connected 16-6-20 00:25:51
+20-06-16 00:25:57  Net - S2 ~ DeFkOndOz* disconnected 16-6-20 00:25:57
+20-06-16 00:26:20  Net - RtP| SontercL disconnected 16-6-20 00:26:20
+20-06-16 00:26:29  Net - RtP| SontercL connected 16-6-20 00:26:29
+20-06-16 00:37:23  Net - uoL| RatzorcL connected 16-6-20 00:37:23
+20-06-16 00:38:02  Net - uoL| RatzorcL connected 16-6-20 00:38:02
+20-06-16 00:39:12  Net - RtP| SontercL disconnected 16-6-20 00:39:12
+20-06-16 00:39:20  Net - RtP| SontercL connected 16-6-20 00:39:20
+20-06-16 00:42:41  Net - RtP| SontercL disconnected 16-6-20 00:42:41
+20-06-16 00:42:49  Net - RtP| SontercL connected 16-6-20 00:42:49
+20-06-16 00:43:29  Net - uoL| RatzorcL disconnected 16-6-20 00:43:29
+20-06-16 00:51:13 TCP/IP File Server started
+20-06-16 00:54:29  Net - konejo cambo connected 16-6-20 00:54:29
+20-06-16 00:54:33  Net - konejo cambo connected 16-6-20 00:54:33
+20-06-16 00:55:26  Net - #1 Mand3s connected 16-6-20 00:55:26
+20-06-16 00:56:10  Net - konejo cambo disconnected 16-6-20 00:56:10
+20-06-16 01:00:50  Net - uoL| Guidex connected 16-6-20 01:00:50
+20-06-16 01:00:57  Net - uoL| Guidex disconnected 16-6-20 01:00:57
+20-06-16 01:01:05  Net - #1 Mand3s connected 16-6-20 01:01:05
+20-06-16 01:01:07  Net - #1 Mand3s connected 16-6-20 01:01:07
+20-06-16 01:10:26  Net - RtP| SontercL disconnected 16-6-20 01:10:26
+20-06-16 01:14:21  Net - #1 Mand3s disconnected 16-6-20 01:14:21
+20-06-16 01:16:12  Net - RtP|F4ll.cL disconnected 16-6-20 01:16:12
+20-06-16 01:21:13 TCP/IP File Server started
+20-06-16 01:44:14  Net - S2 ~ DeFkOndOz* connected 16-6-20 01:44:14
+20-06-16 01:44:15  Net - S2 ~ DeFkOndOz* disconnected 16-6-20 01:44:15
+20-06-16 01:47:17  Net - uoL| RatzorcL connected 16-6-20 01:47:17
+20-06-16 01:47:50  Net - uoL| chub0 connected 16-6-20 01:47:50
+20-06-16 01:47:53  Net - uoL| Dumpxweed connected 16-6-20 01:47:53
+20-06-16 01:47:54  Net - uoL| diego connected 16-6-20 01:47:54
+20-06-16 01:48:00  Net - UoL| Zeratul connected 16-6-20 01:48:00
+20-06-16 01:49:04  Net - UoL| Zeratul disconnected 16-6-20 01:49:04
+20-06-16 01:49:06  Net - UoL| Zeratul connected 16-6-20 01:49:06
+20-06-16 01:49:09  Net - UoL| Zeratul connected 16-6-20 01:49:09
+20-06-16 01:50:30  Net - uoL| Dumpxweed disconnected 16-6-20 01:50:30
+20-06-16 01:50:38  Net - uoL| Dumpxweed connected 16-6-20 01:50:38
+20-06-16 01:51:13 TCP/IP File Server started
+20-06-16 01:52:51  Net - uoL| diego disconnected 16-6-20 01:52:51
+20-06-16 01:57:55  Net - uoL| Dumpxweed connected 16-6-20 01:57:55
+20-06-16 01:59:10  Net - uoL| Dumpxweed disconnected 16-6-20 01:59:10
+20-06-16 01:59:17  Net - uoL connected 16-6-20 01:59:17
+20-06-16 01:59:19  Net - RtP| SontercL connected 16-6-20 01:59:19
+20-06-16 01:59:31  Net - uoL| diego connected 16-6-20 01:59:31
+20-06-16 01:59:40  Net - uoL| chub0 disconnected 16-6-20 01:59:40
+20-06-16 01:59:44  Net - RtP|F4ll.cL connected 16-6-20 01:59:44
+20-06-16 01:59:45  Net - uoL| chub0 connected 16-6-20 01:59:45
+20-06-16 02:03:16  Net - uoL| diego disconnected 16-6-20 02:03:16
+20-06-16 02:03:51  Net - RtP| LoKitoHcL connected 16-6-20 02:03:51
+20-06-16 02:04:16  Net - RtP| SontercL connected 16-6-20 02:04:16
+20-06-16 02:04:19  Net - RtP| SontercL disconnected 16-6-20 02:04:19
+20-06-16 02:04:23  Net - RtP| SontercL connected 16-6-20 02:04:23
+20-06-16 02:05:19  Net - uoL| diego connected 16-6-20 02:05:19
+20-06-16 02:05:40  Net - UoL| Zeratul connected 16-6-20 02:05:40
+20-06-16 02:05:43  Net - uoL| RatzorcL connected 16-6-20 02:05:43
+20-06-16 02:07:26  Net - |exskit.Forc3| rattle connected 16-6-20 02:07:26
+20-06-16 02:07:34  Net - wp.lanik connected 16-6-20 02:07:34
+20-06-16 02:07:41  Net - LeprosycL connected 16-6-20 02:07:41
+20-06-16 02:10:14  Net - XRe1ch|Skipo connected 16-6-20 02:10:14
+20-06-16 02:12:40  Net - XRe1ch|Skipo disconnected 16-6-20 02:12:40
+20-06-16 02:17:29  Net - L.Forc3/ Battousai connected 16-6-20 02:17:29
+20-06-16 02:18:08  Net - ShutercL connected 16-6-20 02:18:08
+20-06-16 02:18:55  Net - VanscL connected 16-6-20 02:18:55
+20-06-16 02:21:13 TCP/IP File Server started
+20-06-16 02:22:52  Net - uoL| diego connected 16-6-20 02:22:52
+20-06-16 02:22:58  Net - RtP|F4ll.cL connected 16-6-20 02:22:58
+20-06-16 02:23:02  Net - uoL| chub0 connected 16-6-20 02:23:02
+20-06-16 02:23:04  Net - UoL| Zeratul connected 16-6-20 02:23:04
+20-06-16 02:23:04  Net - RtP| SontercL connected 16-6-20 02:23:04
+20-06-16 02:23:04  Net - RtP| LoKitoHcL connected 16-6-20 02:23:04
+20-06-16 02:23:11  Net - UoL| Zeratul connected 16-6-20 02:23:11
+20-06-16 02:30:27  Net - sT.- YnGwi3 connected 16-6-20 02:30:27
+20-06-16 02:31:06  Net - sT.- YnGwi3 disconnected 16-6-20 02:31:06
+20-06-16 02:32:17  Net - ShutercL disconnected 16-6-20 02:32:17
+20-06-16 02:32:42  Net - #1 Mand3s connected 16-6-20 02:32:42
+20-06-16 02:33:41  Net - uoL| RatzorcL connected 16-6-20 02:33:41
+20-06-16 02:34:09  Net - UoL| Zeratul disconnected 16-6-20 02:34:09
+20-06-16 02:34:12  Net - UoL| Zeratul connected 16-6-20 02:34:12
+20-06-16 02:34:37  Net - uoL| diego connected 16-6-20 02:34:37
+20-06-16 02:34:39  Net - UoL| Zeratul connected 16-6-20 02:34:39
+20-06-16 02:44:56  Net - |exskit.Forc3| rattle disconnected 16-6-20 02:44:56
+20-06-16 02:44:56  Net - RtP|F4ll.cL disconnected 16-6-20 02:44:56
+20-06-16 02:44:57  Net - RtP| LoKitoHcL disconnected 16-6-20 02:44:57
+20-06-16 02:44:57  Net - RtP| SontercL disconnected 16-6-20 02:44:57
+20-06-16 02:44:58  Net - wp.lanik disconnected 16-6-20 02:44:58
+20-06-16 02:44:58  Net - #1 Mand3s disconnected 16-6-20 02:44:58
+20-06-16 02:44:58  Net - uoL| diego disconnected 16-6-20 02:44:58
+20-06-16 02:44:59  Net - uoL disconnected 16-6-20 02:44:59
+20-06-16 02:45:00  Net - uoL| RatzorcL disconnected 16-6-20 02:45:00
+20-06-16 02:45:02  Net - uoL| chub0 disconnected 16-6-20 02:45:02
+20-06-16 02:45:02  Net - L.Forc3/ Battousai disconnected 16-6-20 02:45:02
+20-06-16 02:45:05  Net - UoL| Zeratul disconnected 16-6-20 02:45:05
+20-06-16 02:45:07  Net - LeprosycL disconnected 16-6-20 02:45:07
+20-06-16 02:45:10  Net - VanscL disconnected 16-6-20 02:45:10
+20-06-16 02:51:13 TCP/IP File Server started
+20-06-16 03:15:54  Net - uoL connected 16-6-20 03:15:54
+20-06-16 03:16:07  Net - uoL disconnected 16-6-20 03:16:07
+20-06-16 03:21:13 TCP/IP File Server started
+20-06-16 03:51:13 TCP/IP File Server started
+20-06-16 04:21:13 TCP/IP File Server started
+20-06-16 04:51:13 TCP/IP File Server started
+20-06-16 05:21:13 TCP/IP File Server started
+20-06-16 05:51:13 TCP/IP File Server started
+20-06-16 06:21:13 TCP/IP File Server started
+20-06-16 06:51:13 TCP/IP File Server started
+20-06-16 07:21:13 TCP/IP File Server started
+20-06-16 07:51:13 TCP/IP File Server started
+20-06-16 08:21:13 TCP/IP File Server started
+20-06-16 08:51:13 TCP/IP File Server started
+20-06-16 09:21:13 TCP/IP File Server started
+20-06-16 09:51:13 TCP/IP File Server started
+20-06-16 10:21:13 TCP/IP File Server started
+20-06-16 10:51:13 TCP/IP File Server started
+20-06-16 11:21:13 TCP/IP File Server started
+20-06-16 11:51:13 TCP/IP File Server started
+20-06-16 12:21:13 TCP/IP File Server started
+20-06-16 12:51:13 TCP/IP File Server started
+20-06-16 13:21:13 TCP/IP File Server started
+20-06-16 13:51:13 TCP/IP File Server started
+20-06-16 14:21:13 TCP/IP File Server started
+20-06-16 14:51:13 TCP/IP File Server started
+20-06-16 15:21:13 TCP/IP File Server started
+20-06-16 15:51:13 TCP/IP File Server started
+20-06-16 16:21:13 TCP/IP File Server started
+20-06-16 16:51:13 TCP/IP File Server started
+20-06-16 17:21:13 TCP/IP File Server started
+20-06-16 17:51:13 TCP/IP File Server started
+20-06-16 18:21:13 TCP/IP File Server started
+20-06-16 18:51:13 TCP/IP File Server started
+20-06-16 19:21:13 TCP/IP File Server started
+20-06-16 19:51:13 TCP/IP File Server started
+20-06-16 20:21:13 TCP/IP File Server started
+20-06-16 20:51:13 TCP/IP File Server started
+20-06-16 21:21:13 TCP/IP File Server started
+20-06-16 21:51:13 TCP/IP File Server started
+20-06-16 22:21:13 TCP/IP File Server started
+20-06-16 22:51:13 TCP/IP File Server started
+20-06-16 23:21:13 TCP/IP File Server started
+20-06-16 23:51:13 TCP/IP File Server started
+20-06-17 00:21:13 TCP/IP File Server started
+20-06-17 00:51:13 TCP/IP File Server started
+20-06-17 01:21:13 TCP/IP File Server started
+20-06-17 01:33:08  Net - S2 ~ DeFkOndOz* connected 17-6-20 01:33:08
+20-06-17 01:33:09  Net - S2 ~ DeFkOndOz* disconnected 17-6-20 01:33:09
+20-06-17 01:51:13 TCP/IP File Server started
+20-06-17 02:21:13 TCP/IP File Server started
+20-06-17 02:33:07  Net - S2 ~ DeFkOndOz* connected 17-6-20 02:33:07
+20-06-17 02:33:07  Net - S2 ~ CracK connected 17-6-20 02:33:07
+20-06-17 02:33:09  Net - S2 ~ BioSeaX! connected 17-6-20 02:33:09
+20-06-17 02:33:09  Net - S2 ~ Opazo* connected 17-6-20 02:33:09
+20-06-17 02:33:09  Net - S2 ~ patuzhO* connected 17-6-20 02:33:09
+20-06-17 02:33:11  Net - S2 ~ AsteK connected 17-6-20 02:33:11
+20-06-17 02:33:12  Net - S3 ~ PoKemon connected 17-6-20 02:33:12
+20-06-17 02:33:12  Net - S2 ~ BioSeaX! connected 17-6-20 02:33:12
+20-06-17 02:33:13  Net - S3 ~Violet* connected 17-6-20 02:33:13
+20-06-17 02:33:16  Net - S2 ~ patuzhO* disconnected 17-6-20 02:33:16
+20-06-17 02:33:17  Net - S2 ~ CracK connected 17-6-20 02:33:17
+20-06-17 02:33:18  Net - S3 ~ PoKemon connected 17-6-20 02:33:18
+20-06-17 02:33:19  Net - S2 ~ patuzhO* connected 17-6-20 02:33:19
+20-06-17 02:33:20  Net - S3 ~ PoKemon connected 17-6-20 02:33:20
+20-06-17 02:33:22  Net - S3 ~Violet* disconnected 17-6-20 02:33:22
+20-06-17 02:33:25  Net - S3 ~Violet* connected 17-6-20 02:33:25
+20-06-17 02:33:25  Net - S3 ~ PoKemon disconnected 17-6-20 02:33:25
+20-06-17 02:33:28  Net - S3 ~ PoKemon connected 17-6-20 02:33:28
+20-06-17 02:33:38  Net - S2 ~ CracK disconnected 17-6-20 02:33:38
+20-06-17 02:33:41  Net - S2 ~ CracK connected 17-6-20 02:33:41
+20-06-17 02:33:48  Net - S2 ~ patuzhO* disconnected 17-6-20 02:33:48
+20-06-17 02:33:48  Net - S3 ~Violet* disconnected 17-6-20 02:33:48
+20-06-17 02:33:52  Net - S2 ~ patuzhO* connected 17-6-20 02:33:52
+20-06-17 02:33:52  Net - S3 ~Violet* connected 17-6-20 02:33:52
+20-06-17 02:33:53  Net - S2 ~ DeFkOndOz* disconnected 17-6-20 02:33:53
+20-06-17 02:33:54  Net - S2 ~ DeFkOndOz* connected 17-6-20 02:33:54
+20-06-17 02:33:55  Net - S3 ~ PoKemon disconnected 17-6-20 02:33:55
+20-06-17 02:33:55  Net - S3 ~Violet* disconnected 17-6-20 02:33:55
+20-06-17 02:33:55  Net - S2 ~ Opazo* disconnected 17-6-20 02:33:55
+20-06-17 02:33:56  Net - S2 ~ patuzhO* disconnected 17-6-20 02:33:56
+20-06-17 02:33:56  Net - S2 ~ BioSeaX! disconnected 17-6-20 02:33:56
+20-06-17 02:33:57  Net - S3 ~Violet* connected 17-6-20 02:33:57
+20-06-17 02:33:58  Net - S2 ~ CracK disconnected 17-6-20 02:33:58
+20-06-17 02:33:58  Net - S3 ~ PoKemon connected 17-6-20 02:33:58
+20-06-17 02:33:58  Net - S2 ~ Opazo* connected 17-6-20 02:33:58
+20-06-17 02:33:59  Net - S2 ~ BioSeaX! connected 17-6-20 02:33:59
+20-06-17 02:33:59  Net - S2 ~ AsteK disconnected 17-6-20 02:33:59
+20-06-17 02:33:59  Net - S3 ~Violet* disconnected 17-6-20 02:33:59
+20-06-17 02:34:00  Net - S2 ~ Opazo* disconnected 17-6-20 02:34:00
+20-06-17 02:34:01  Net - S2 ~ DeFkOndOz* disconnected 17-6-20 02:34:01
+20-06-17 02:34:02  Net - S2 ~ BioSeaX! disconnected 17-6-20 02:34:02
+20-06-17 02:34:03  Net - S3 ~ PoKemon disconnected 17-6-20 02:34:03
+20-06-17 02:34:03  Net - S3 ~Violet* connected 17-6-20 02:34:03
+20-06-17 02:34:06  Net - S3 ~Violet* disconnected 17-6-20 02:34:06
+20-06-17 02:34:24  Net - S2 ~ BioSeaX! connected 17-6-20 02:34:24
+20-06-17 02:34:26  Net - S2 ~ BioSeaX! connected 17-6-20 02:34:26
+20-06-17 02:34:30  Net - RedcL connected 17-6-20 02:34:30
+20-06-17 02:34:39  Net - S2 ~ BioSeaX! disconnected 17-6-20 02:34:39
+20-06-17 02:34:39  Net - S2 ~ Opazo* connected 17-6-20 02:34:39
+20-06-17 02:34:41  Net - RedcL disconnected 17-6-20 02:34:41
+20-06-17 02:34:42  Net - S2 ~ Opazo* disconnected 17-6-20 02:34:42
+20-06-17 02:51:13 TCP/IP File Server started
+20-06-17 03:21:13 TCP/IP File Server started
+20-06-17 03:51:13 TCP/IP File Server started
+20-06-17 04:21:13 TCP/IP File Server started
+20-06-17 04:51:13 TCP/IP File Server started
+20-06-17 05:21:13 TCP/IP File Server started
+20-06-17 05:51:13 TCP/IP File Server started
+20-06-17 06:21:13 TCP/IP File Server started
+20-06-17 06:51:13 TCP/IP File Server started
+20-06-17 07:21:13 TCP/IP File Server started
+20-06-17 07:51:13 TCP/IP File Server started
+20-06-17 08:21:13 TCP/IP File Server started
+20-06-17 08:51:13 TCP/IP File Server started
+20-06-17 09:21:13 TCP/IP File Server started
+20-06-17 09:51:13 TCP/IP File Server started
+20-06-17 10:21:13 TCP/IP File Server started
+20-06-17 10:51:13 TCP/IP File Server started
+20-06-17 11:21:13 TCP/IP File Server started
+20-06-17 11:51:13 TCP/IP File Server started
+20-06-17 12:21:13 TCP/IP File Server started
+20-06-17 12:51:13 TCP/IP File Server started
+20-06-17 13:21:13 TCP/IP File Server started
+20-06-17 13:51:13 TCP/IP File Server started
+20-06-17 14:21:13 TCP/IP File Server started
+20-06-17 14:51:13 TCP/IP File Server started
+20-06-17 15:21:13 TCP/IP File Server started
+20-06-17 15:51:13 TCP/IP File Server started
+20-06-17 16:21:13 TCP/IP File Server started
+20-06-17 16:51:13 TCP/IP File Server started
+20-06-17 17:21:13 TCP/IP File Server started
+20-06-17 17:51:13 TCP/IP File Server started
+20-06-17 18:21:13 TCP/IP File Server started
+20-06-17 18:51:13 TCP/IP File Server started
+20-06-17 19:21:13 TCP/IP File Server started
+20-06-17 19:51:13 TCP/IP File Server started
+20-06-17 20:21:13 TCP/IP File Server started
+20-06-17 20:51:13 TCP/IP File Server started
+20-06-17 21:21:13 TCP/IP File Server started
+20-06-17 21:51:13 TCP/IP File Server started
+20-06-17 22:21:13 TCP/IP File Server started
+20-06-17 22:51:13 TCP/IP File Server started
+20-06-17 23:21:13 TCP/IP File Server started
+20-06-17 23:51:13 TCP/IP File Server started
+20-06-18 00:21:13 TCP/IP File Server started
+20-06-18 00:51:13 TCP/IP File Server started
+20-06-18 01:21:13 TCP/IP File Server started
+20-06-18 01:51:13 TCP/IP File Server started
+20-06-18 02:21:13 TCP/IP File Server started
+20-06-18 02:51:13 TCP/IP File Server started
+20-06-18 03:21:13 TCP/IP File Server started
+20-06-18 03:51:13 TCP/IP File Server started
+20-06-18 04:21:13 TCP/IP File Server started
+20-06-18 04:51:13 TCP/IP File Server started
+20-06-18 05:21:13 TCP/IP File Server started
+20-06-18 05:51:13 TCP/IP File Server started
+20-06-18 06:21:13 TCP/IP File Server started
+20-06-18 06:51:13 TCP/IP File Server started
+20-06-18 07:21:13 TCP/IP File Server started
+20-06-18 07:51:13 TCP/IP File Server started
+20-06-18 08:21:13 TCP/IP File Server started
+20-06-18 08:51:13 TCP/IP File Server started
+20-06-18 09:21:13 TCP/IP File Server started
+20-06-18 09:51:13 TCP/IP File Server started
+20-06-18 10:21:13 TCP/IP File Server started
+20-06-18 10:51:13 TCP/IP File Server started
+20-06-18 11:21:13 TCP/IP File Server started
+20-06-18 11:51:13 TCP/IP File Server started
+20-06-18 12:21:13 TCP/IP File Server started
+20-06-18 12:51:13 TCP/IP File Server started
+20-06-18 13:21:13 TCP/IP File Server started
+20-06-18 13:51:13 TCP/IP File Server started
+20-06-18 14:21:13 TCP/IP File Server started
+20-06-18 14:51:13 TCP/IP File Server started
+20-06-18 15:21:13 TCP/IP File Server started
+20-06-18 15:51:13 TCP/IP File Server started
+20-06-18 16:21:13 TCP/IP File Server started
+20-06-18 16:51:13 TCP/IP File Server started
+20-06-18 17:21:13 TCP/IP File Server started
+20-06-18 17:51:13 TCP/IP File Server started
+20-06-18 18:21:13 TCP/IP File Server started
+20-06-18 18:51:13 TCP/IP File Server started
+20-06-18 19:21:13 TCP/IP File Server started
+20-06-18 19:51:13 TCP/IP File Server started
+20-06-18 20:21:13 TCP/IP File Server started
+20-06-18 20:51:13 TCP/IP File Server started
+20-06-18 21:21:13 TCP/IP File Server started
+20-06-18 21:51:13 TCP/IP File Server started
+20-06-18 22:21:13 TCP/IP File Server started
+20-06-18 22:51:13 TCP/IP File Server started
+20-06-18 23:21:13 TCP/IP File Server started
+20-06-18 23:51:13 TCP/IP File Server started
+20-06-19 00:21:13 TCP/IP File Server started
+20-06-19 00:51:13 TCP/IP File Server started
+20-06-19 01:21:13 TCP/IP File Server started
+20-06-19 01:40:17  Net - |exskit.Forc3| rattle connected 19-6-20 01:40:17
+20-06-19 01:40:49  Net - mama traeme desayun0 connected 19-6-20 01:40:49
+20-06-19 01:42:54  Net - uoL|athe connected 19-6-20 01:42:54
+20-06-19 01:43:09  Net - uoL|athe disconnected 19-6-20 01:43:09
+20-06-19 01:43:21  Net - |exskit.Forc3| d4zy connected 19-6-20 01:43:21
+20-06-19 01:44:30  Net - VanscL connected 19-6-20 01:44:30
+20-06-19 01:45:15  Net - VanscL disconnected 19-6-20 01:45:15
+20-06-19 01:45:37  Net - Major connected 19-6-20 01:45:37
+20-06-19 01:46:15  Net - |exskit.Forc3| d4zy connected 19-6-20 01:46:15
+20-06-19 01:46:26  Net - ShutercL connected 19-6-20 01:46:26
+20-06-19 01:47:11  Net - ShutercL disconnected 19-6-20 01:47:11
+20-06-19 01:51:10  Net - VanscL connected 19-6-20 01:51:10
+20-06-19 01:51:13 TCP/IP File Server started
+20-06-19 01:51:47  Net - ShutercL connected 19-6-20 01:51:47
+20-06-19 01:52:29  Net - uoL| RatzorcL connected 19-6-20 01:52:29
+20-06-19 01:52:52  Net - uoL| athe connected 19-6-20 01:52:52
+20-06-19 01:53:21  Net - S2 ~ BioSeaX! connected 19-6-20 01:53:21
+20-06-19 01:53:45  Net - S2 ~ BioSeaX! disconnected 19-6-20 01:53:45
+20-06-19 01:55:00  Net - mama traeme desayun0 disconnected 19-6-20 01:55:00
+20-06-19 01:55:09  Net - |exskit.Forc3| Sk8' connected 19-6-20 01:55:09
+20-06-19 01:56:17  Net - RtP| SontercL connected 19-6-20 01:56:17
+20-06-19 01:56:45  Net - HartCheat] connected 19-6-20 01:56:45
+20-06-19 01:57:03  Net - later Maaxis* (New Guy) connected 19-6-20 01:57:03
+20-06-19 01:57:47  Net - S2 ~ DeFkOndOz* connected 19-6-20 01:57:47
+20-06-19 01:57:53  Net - ShutercL disconnected 19-6-20 01:57:53
+20-06-19 01:58:17  Net - ShutercL connected 19-6-20 01:58:17
+20-06-19 01:58:23  Net - Dios connected 19-6-20 01:58:23
+20-06-19 01:58:26  Net - Dios connected 19-6-20 01:58:26
+20-06-19 01:59:11  Net - uoL| chub0 connected 19-6-20 01:59:11
+20-06-19 01:59:16  Net - uoL| chub0 connected 19-6-20 01:59:16
+20-06-19 01:59:54  Net - |exskit.Forc3| d4zy connected 19-6-20 01:59:54
+20-06-19 02:00:01  Net - uoL| RatzorcL connected 19-6-20 02:00:01
+20-06-19 02:00:44  Net - K Ng|LvlUp connected 19-6-20 02:00:44
+20-06-19 02:01:03  Net - K Ng|LvlUp connected 19-6-20 02:01:03
+20-06-19 02:01:04  Net - Br1nK's | TvtviZ3ra connected 19-6-20 02:01:04
+20-06-19 02:01:10  Net - Br1nK's | TvtviZ3ra connected 19-6-20 02:01:10
+20-06-19 02:01:22  Net - Dios disconnected 19-6-20 02:01:22
+20-06-19 02:01:24  Net - Dios connected 19-6-20 02:01:24
+20-06-19 02:01:29  Net - VanscL disconnected 19-6-20 02:01:29
+20-06-19 02:01:32  Net - K Ng|LvlUp disconnected 19-6-20 02:01:32
+20-06-19 02:01:32  Net - VanscL connected 19-6-20 02:01:32
+20-06-19 02:01:37  Net - |exskit.Forc3| rattle disconnected 19-6-20 02:01:37
+20-06-19 02:01:39  Net - uoL| RatzorcL disconnected 19-6-20 02:01:39
+20-06-19 02:01:39  Net - ShutercL disconnected 19-6-20 02:01:39
+20-06-19 02:01:41  Net - VanscL disconnected 19-6-20 02:01:41
+20-06-19 02:01:41  Net - Br1nK's | TvtviZ3ra disconnected 19-6-20 02:01:41
+20-06-19 02:01:42  Net - RtP| SontercL disconnected 19-6-20 02:01:42
+20-06-19 02:01:51  Net - Major disconnected 19-6-20 02:01:51
+20-06-19 02:01:53  Net - HartCheat] disconnected 19-6-20 02:01:53
+20-06-19 02:01:55  Net - Dios disconnected 19-6-20 02:01:55
+20-06-19 02:02:08  Net - |exskit.Forc3| d4zy disconnected 19-6-20 02:02:08
+20-06-19 02:02:22  Net - |exskit.Forc3| Sk8' disconnected 19-6-20 02:02:22
+20-06-19 02:02:36  Net - uoL| athe disconnected 19-6-20 02:02:36
+20-06-19 02:02:38  Net - S2 ~ DeFkOndOz* disconnected 19-6-20 02:02:38
+20-06-19 02:03:18  Net - later Maaxis* (New Guy) disconnected 19-6-20 02:03:18
+20-06-19 02:06:03  Net - RtP| SontercL connected 19-6-20 02:06:03
+20-06-19 02:06:12  Net - uoL| chub0 disconnected 19-6-20 02:06:12
+20-06-19 02:06:16  Net - RtP| SontercL disconnected 19-6-20 02:06:16
+20-06-19 02:07:36  Net - RtP| SontercL connected 19-6-20 02:07:36
+20-06-19 02:07:37  Net - RtP| SontercL disconnected 19-6-20 02:07:37
+20-06-19 02:21:13 TCP/IP File Server started
+20-06-19 02:51:13 TCP/IP File Server started
+20-06-19 03:21:13 TCP/IP File Server started
+20-06-19 03:51:13 TCP/IP File Server started
+20-06-19 04:21:13 TCP/IP File Server started
+20-06-19 04:51:13 TCP/IP File Server started

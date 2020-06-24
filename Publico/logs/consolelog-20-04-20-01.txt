@@ -1,0 +1,22 @@
+20-04-20 21:21:43    Console Log Started
+20-04-20 21:21:43 Welcome to Soldat 1.7.1
+20-04-20 21:21:43  [*] Preparing scripts to be launched
+20-04-20 21:21:43  [*] Done
+20-04-20 21:21:43 ctf_Ash by chakapoko maker
+20-04-20 21:21:43  Connection for file server started. Port: 23083
+20-04-20 21:21:43 Registering server @ 88.99.234.252
+20-04-20 21:26:43 Time Left: 5 minutes
+20-04-20 21:27:43 Time Left: 4 minutes
+20-04-20 21:28:43 Time Left: 3 minutes
+20-04-20 21:29:43 Time Left: 2 minutes
+20-04-20 21:30:43 Time Left: 1 minutes
+20-04-20 21:31:43 Next map: ctf_B2b
+20-04-20 21:31:43 IP number 152.156.219.164 (Ping Kick) unbanned
+20-04-20 21:31:43 Hardware ID 32818ED3340 (Ping Kick) unbanned
+20-04-20 21:31:48 B2B
+20-04-20 21:36:43 IP number 177.19.52.238 (Ping Kick) unbanned
+20-04-20 21:36:43 Hardware ID 3CBA7DAAE43 (Ping Kick) unbanned
+20-04-20 21:36:48 Time Left: 5 minutes
+20-04-20 21:37:48 Time Left: 4 minutes
+20-04-20 21:38:48 Time Left: 3 minutes
+20-04-20 21:39:48 Time Left: 2 minutes

@@ -1,0 +1,105 @@
+20-02-12 10:04:59    Console Log Started
+20-02-12 10:04:59 Welcome to Soldat 1.7.1
+20-02-12 10:04:59  [*] Preparing scripts to be launched
+20-02-12 10:04:59  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-12 10:04:59  [*] commands_by_keen compiled
+20-02-12 10:04:59  [*] Compiling matchreporter -> match.pas...
+20-02-12 10:04:59  [*] matchreporter compiled
+20-02-12 10:04:59  [*] Done
+20-02-12 10:04:59 ctf_Ash by chakapoko maker
+20-02-12 10:04:59 cambio mapa
+20-02-12 10:04:59 In-Game Statistics
+Players: 0
+Map: 
+Gamemode: Capture the Flag
+Timeleft: 0:0
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+
+20-02-12 10:04:59  Connection for file server started. Port: 23110
+20-02-12 10:04:59 Registering server @ 88.99.234.252
+20-02-12 10:05:12 190.107.226.45:53120|2CAF32344FB requesting game...
+20-02-12 10:05:14 |X.Forc3|.Prueba joining game (190.107.226.45:53120) HWID:2CAF32344FB
+20-02-12 10:05:14 |X.Forc3|.Prueba has joined alpha team.
+20-02-12 10:05:19 [|X.Forc3|.Prueba] !nextmap
+20-02-12 10:05:20 Next map: ctf_B2b
+20-02-12 10:05:25 B2B
+20-02-12 10:05:25 cambio mapa
+20-02-12 10:05:25 In-Game Statistics
+Players: 1
+Map: ctf_Ash
+Gamemode: Capture the Flag
+Timeleft: 9:35
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+|X.Forc3|.Prueba
+0
+0
+1
+16
+
+20-02-12 10:05:50 [|X.Forc3|.Prueba] !map ctf_Viet
+20-02-12 10:05:55 Viet
+20-02-12 10:05:55 cambio mapa
+20-02-12 10:05:55 In-Game Statistics
+Players: 1
+Map: ctf_B2b
+Gamemode: Capture the Flag
+Timeleft: 9:30
+Team 1: 0
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+|X.Forc3|.Prueba
+0
+0
+1
+33
+
+20-02-12 10:06:07 |X.Forc3|.Prueba captured the Blue Flag
+20-02-12 10:06:16 |X.Forc3|.Prueba scores for Alpha Team
+20-02-12 10:06:23 [|X.Forc3|.Prueba] !p
+20-02-12 10:06:25 [|X.Forc3|.Prueba] !up
+20-02-12 10:06:25 Go!!...
+20-02-12 10:06:25 3...
+20-02-12 10:06:26 2...
+20-02-12 10:06:27 1...
+20-02-12 10:06:28 GO!
+20-02-12 10:06:30 [|X.Forc3|.Prueba] !nextmap
+20-02-12 10:06:30 Next map: ctf_Blade
+20-02-12 10:06:35 Blade by Zakath
+20-02-12 10:06:35 cambio mapa
+20-02-12 10:06:35 In-Game Statistics
+Players: 1
+Map: ctf_Viet
+Gamemode: Capture the Flag
+Timeleft: 9:26
+Team 1: 1
+Team 2: 0
+Team 3: 0
+Team 4: 0
+Players list: (name/kills/deaths/team/ping)
+|X.Forc3|.Prueba
+0
+1
+1
+16
+
+20-02-12 10:07:36 [|X.Forc3|.Prueba] !addbot
+20-02-12 10:07:48 |X.Forc3|.Prueba added to Game Admins
+20-02-12 10:07:51 /addbot 1(190.107.226.45[|X.Forc3|.Prueba])
+20-02-12 10:07:51 Bot file 1 not found
+20-02-12 10:07:54 /add bot(190.107.226.45[|X.Forc3|.Prueba])
+20-02-12 10:11:01 |X.Forc3|.Prueba has left alpha team.
+20-02-12 10:11:01 Server password changed to scl
+20-02-12 10:11:35 Time Left: 5 minutes
+20-02-12 10:12:35 Time Left: 4 minutes
+20-02-12 10:13:35 Time Left: 3 minutes
+20-02-12 10:14:35 Time Left: 2 minutes

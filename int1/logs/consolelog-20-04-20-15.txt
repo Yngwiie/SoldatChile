@@ -1,0 +1,25 @@
+20-04-20 21:58:48    Console Log Started
+20-04-20 21:58:48 Welcome to Soldat 1.7.1
+20-04-20 21:58:48  [*] Preparing scripts to be launched
+20-04-20 21:58:48  [*] [BasicCommands] Compilation started
+20-04-20 21:58:48  [*] [BasicCommands] [Error] (230:1): Unexpected end of file
+20-04-20 21:58:48  [*] [BasicCommands] Compilation failed
+20-04-20 21:58:48  [*] Disabling BasicCommands
+20-04-20 21:58:48  [*] Compiling match -> match.pas...
+20-04-20 21:58:48  [*] match compiled
+20-04-20 21:58:48  [*] Done
+20-04-20 21:58:48 Lothic - Gothic Lobby Room
+20-04-20 21:58:48 Loaded weapons mod "Default v1.8"
+20-04-20 21:58:48  Connection for file server started. Port: 23110
+20-04-20 21:58:48 Registering server @ 88.99.234.252
+20-04-20 21:58:51 45.232.32.136:49704|64995B15DC0 requesting game...
+20-04-20 21:58:52 sT.- YnGwi3 joining game (45.232.32.136:49704) HWID:64995B15DC0
+20-04-20 21:58:52 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:58:53 [sT.- YnGwi3] !info
+20-04-20 21:58:55 [sT.- YnGwi3] !top
+20-04-20 21:58:57 [sT.- YnGwi3] !sp
+20-04-20 21:58:57 sT.- YnGwi3 has left bravo team.
+20-04-20 21:59:29 Signal received, shutting down
+20-04-20 21:59:29 Shutting down server...
+20-04-20 21:59:29 Shutting down FileServer...
+20-04-20 21:59:29 Shutting down admin server...

@@ -1,0 +1,43 @@
+20-02-25 10:35:00    Console Log Started
+20-02-25 10:35:00 Welcome to Soldat 1.7.1
+20-02-25 10:35:00  [*] Preparing scripts to be launched
+20-02-25 10:35:00  [*] Compiling commands_by_keen -> commands_by_keen.pas...
+20-02-25 10:35:00  [*] commands_by_keen compiled
+20-02-25 10:35:00  [*] Compiling match -> match.pas...
+20-02-25 10:35:00  [*] match compiled
+20-02-25 10:35:00  [*] Done
+20-02-25 10:35:00 ctf_Ash by chakapoko maker
+20-02-25 10:35:00 Loaded weapons mod "Default v1.8"
+20-02-25 10:35:00  Connection for file server started. Port: 23110
+20-02-25 10:35:00 Registering server @ 88.99.234.252
+20-02-25 10:40:00 Time Left: 5 minutes
+20-02-25 10:41:00 Time Left: 4 minutes
+20-02-25 10:42:00 Time Left: 3 minutes
+20-02-25 10:43:00 Time Left: 2 minutes
+20-02-25 10:44:00 Time Left: 1 minutes
+20-02-25 10:45:00 Next map: ctf_B2b
+20-02-25 10:45:05 B2B
+20-02-25 10:50:05 Time Left: 5 minutes
+20-02-25 10:51:05 Time Left: 4 minutes
+20-02-25 10:52:05 Time Left: 3 minutes
+20-02-25 10:53:05 Time Left: 2 minutes
+20-02-25 10:54:05 Time Left: 1 minutes
+20-02-25 10:55:05 Next map: ctf_Blade
+20-02-25 10:55:11 Blade by Zakath
+20-02-25 11:00:11 Time Left: 5 minutes
+20-02-25 11:01:11 Time Left: 4 minutes
+20-02-25 11:02:11 Time Left: 3 minutes
+20-02-25 11:03:11 Time Left: 2 minutes
+20-02-25 11:04:11 Time Left: 1 minutes
+20-02-25 11:05:11 Next map: ctf_Viet
+20-02-25 11:05:16 Viet
+20-02-25 11:10:16 Time Left: 5 minutes
+20-02-25 11:11:16 Time Left: 4 minutes
+20-02-25 11:12:16 Time Left: 3 minutes
+20-02-25 11:13:16 Time Left: 2 minutes
+20-02-25 11:14:16 Time Left: 1 minutes
+20-02-25 11:15:16 Next map: ctf_Division
+20-02-25 11:15:21 Division by Boxo, KC, viral
+20-02-25 11:19:21 Shutting down server...
+20-02-25 11:19:21 Shutting down FileServer...
+20-02-25 11:19:21 Shutting down admin server...

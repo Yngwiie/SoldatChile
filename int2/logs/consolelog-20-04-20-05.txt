@@ -1,0 +1,433 @@
+20-04-20 22:01:52    Console Log Started
+20-04-20 22:01:52 Welcome to Soldat 1.7.1
+20-04-20 22:01:52  [*] Preparing scripts to be launched
+20-04-20 22:01:52  [*] [BasicCommands] Compilation started
+20-04-20 22:01:52  [*] [BasicCommands] Compilation complete
+20-04-20 22:01:52  [*] [BasicCommands] Loading bytecode
+20-04-20 22:01:52  [*] [BasicCommands] Bytecode loaded
+20-04-20 22:01:52  [*] Compiling match -> match.pas...
+20-04-20 22:01:52  [*] match compiled
+20-04-20 22:01:52  [*] Done
+20-04-20 22:01:52 Lothic - Gothic Lobby Room
+20-04-20 22:01:52 Loaded weapons mod "Default v1.8"
+20-04-20 22:01:52  Connection for file server started. Port: 23210
+20-04-20 22:01:52 Registering server @ 88.99.234.252
+20-04-20 22:06:32 Admin failed to connect (201.189.251.234).
+20-04-20 22:06:32 Admin disconnected (201.189.251.234).
+20-04-20 22:06:41 Admin connected (201.189.251.234).
+20-04-20 22:06:41 /friendlyfire (201.189.251.234)
+20-04-20 22:06:41 Friendly Fire is 0
+20-04-20 22:06:41 /bonus (201.189.251.234)
+20-04-20 22:06:41 Current bonus frequency is 0
+20-04-20 22:06:41 /vote% (201.189.251.234)
+20-04-20 22:06:41 Voting percent is 60
+20-04-20 22:06:41 /respawntime (201.189.251.234)
+20-04-20 22:06:41 Respawn time is 3 seconds
+20-04-20 22:06:41 /maxrespawntime (201.189.251.234)
+20-04-20 22:06:41 Maximum Respawn time is 5 seconds
+20-04-20 22:06:52 Time Left: 5 minutes
+20-04-20 22:07:52 Time Left: 4 minutes
+20-04-20 22:08:52 Time Left: 3 minutes
+20-04-20 22:09:52 Time Left: 2 minutes
+20-04-20 22:10:52 Time Left: 1 minutes
+20-04-20 22:11:52 Next map: Lobby
+20-04-20 22:11:57 Lothic - Gothic Lobby Room
+20-04-20 22:16:57 Time Left: 5 minutes
+20-04-20 22:17:57 Time Left: 4 minutes
+20-04-20 22:18:57 Time Left: 3 minutes
+20-04-20 22:19:57 Time Left: 2 minutes
+20-04-20 22:20:57 Time Left: 1 minutes
+20-04-20 22:21:57 Next map: Lobby
+20-04-20 22:22:03 Lothic - Gothic Lobby Room
+20-04-20 22:27:03 Time Left: 5 minutes
+20-04-20 22:27:48 Admin connected (45.232.32.208).
+20-04-20 22:27:49 /friendlyfire (45.232.32.208)
+20-04-20 22:27:49 Friendly Fire is 0
+20-04-20 22:27:49 /bonus (45.232.32.208)
+20-04-20 22:27:49 Current bonus frequency is 0
+20-04-20 22:27:49 /vote% (45.232.32.208)
+20-04-20 22:27:49 Voting percent is 60
+20-04-20 22:27:49 /respawntime (45.232.32.208)
+20-04-20 22:27:49 Respawn time is 3 seconds
+20-04-20 22:27:49 /maxrespawntime (45.232.32.208)
+20-04-20 22:27:49 Maximum Respawn time is 5 seconds
+20-04-20 22:27:55 Admin disconnected (45.232.32.208).
+20-04-20 22:28:03 Time Left: 4 minutes
+20-04-20 22:29:03 Time Left: 3 minutes
+20-04-20 22:30:03 Time Left: 2 minutes
+20-04-20 22:31:03 Time Left: 1 minutes
+20-04-20 22:32:03 Next map: Lobby
+20-04-20 22:32:08 Lothic - Gothic Lobby Room
+20-04-20 22:37:08 Time Left: 5 minutes
+20-04-20 22:38:08 Time Left: 4 minutes
+20-04-20 22:39:08 Time Left: 3 minutes
+20-04-20 22:40:08 Time Left: 2 minutes
+20-04-20 22:41:08 Time Left: 1 minutes
+20-04-20 22:42:08 Next map: Lobby
+20-04-20 22:42:13 Lothic - Gothic Lobby Room
+20-04-20 22:47:13 Time Left: 5 minutes
+20-04-20 22:48:13 Time Left: 4 minutes
+20-04-20 22:49:13 Time Left: 3 minutes
+20-04-20 22:50:13 Time Left: 2 minutes
+20-04-20 22:51:13 Time Left: 1 minutes
+20-04-20 22:52:13 Next map: Lobby
+20-04-20 22:52:19 Lothic - Gothic Lobby Room
+20-04-20 22:57:19 Time Left: 5 minutes
+20-04-20 22:58:19 Time Left: 4 minutes
+20-04-20 22:59:19 Time Left: 3 minutes
+20-04-20 23:00:19 Time Left: 2 minutes
+20-04-20 23:01:19 Time Left: 1 minutes
+20-04-20 23:02:19 Next map: Lobby
+20-04-20 23:02:24 Lothic - Gothic Lobby Room
+20-04-20 23:07:24 Time Left: 5 minutes
+20-04-20 23:08:24 Time Left: 4 minutes
+20-04-20 23:09:24 Time Left: 3 minutes
+20-04-20 23:10:24 Time Left: 2 minutes
+20-04-20 23:11:24 Time Left: 1 minutes
+20-04-20 23:12:24 Next map: Lobby
+20-04-20 23:12:29 Lothic - Gothic Lobby Room
+20-04-20 23:17:29 Time Left: 5 minutes
+20-04-20 23:18:29 Time Left: 4 minutes
+20-04-20 23:19:29 Time Left: 3 minutes
+20-04-20 23:20:29 Time Left: 2 minutes
+20-04-20 23:21:29 Time Left: 1 minutes
+20-04-20 23:22:29 Next map: Lobby
+20-04-20 23:22:35 Lothic - Gothic Lobby Room
+20-04-20 23:27:35 Time Left: 5 minutes
+20-04-20 23:28:35 Time Left: 4 minutes
+20-04-20 23:29:35 Time Left: 3 minutes
+20-04-20 23:30:35 Time Left: 2 minutes
+20-04-20 23:30:57 75.70.90.92:23073|6D2DA53C1B1 requesting game...
+20-04-20 23:31:35 Time Left: 1 minutes
+20-04-20 23:32:35 Next map: Lobby
+20-04-20 23:32:40 Lothic - Gothic Lobby Room
+20-04-20 23:34:27 Admin connected (186.11.121.121).
+20-04-20 23:34:27 /friendlyfire (186.11.121.121)
+20-04-20 23:34:27 Friendly Fire is 0
+20-04-20 23:34:27 /bonus (186.11.121.121)
+20-04-20 23:34:27 Current bonus frequency is 0
+20-04-20 23:34:27 /vote% (186.11.121.121)
+20-04-20 23:34:27 Voting percent is 60
+20-04-20 23:34:27 /respawntime (186.11.121.121)
+20-04-20 23:34:27 Respawn time is 3 seconds
+20-04-20 23:34:27 /maxrespawntime (186.11.121.121)
+20-04-20 23:34:27 Maximum Respawn time is 5 seconds
+20-04-20 23:35:08 186.11.121.121:32137|32439DD33E8 requesting game...
+20-04-20 23:35:09 =E*R= KillMe! joining game (186.11.121.121:32137) HWID:32439DD33E8
+20-04-20 23:35:09 =E*R= KillMe! has joined alpha team.
+20-04-20 23:35:24 /kill 1 (186.11.121.121)
+20-04-20 23:35:24 =E*R= KillMe! killed by admin
+20-04-20 23:35:34 /kick 1 (186.11.121.121)
+20-04-20 23:35:34 =E*R= KillMe! has been kicked.(186.11.121.121)
+20-04-20 23:37:40 Time Left: 5 minutes
+20-04-20 23:38:40 Time Left: 4 minutes
+20-04-20 23:39:40 Time Left: 3 minutes
+20-04-20 23:40:40 Time Left: 2 minutes
+20-04-20 23:41:40 Time Left: 1 minutes
+20-04-20 23:42:40 Next map: Lobby
+20-04-20 23:42:45 Lothic - Gothic Lobby Room
+20-04-20 23:47:45 Time Left: 5 minutes
+20-04-20 23:48:45 Time Left: 4 minutes
+20-04-20 23:49:45 Time Left: 3 minutes
+20-04-20 23:50:45 Time Left: 2 minutes
+20-04-20 23:51:45 Time Left: 1 minutes
+20-04-20 23:52:45 Next map: Lobby
+20-04-20 23:52:51 Lothic - Gothic Lobby Room
+20-04-20 23:57:50 Time Left: 5 minutes
+20-04-20 23:58:50 Time Left: 4 minutes
+20-04-20 23:59:50 Time Left: 3 minutes
+20-04-21 00:00:50 Time Left: 2 minutes
+20-04-21 00:01:50 Time Left: 1 minutes
+20-04-21 00:02:50 Next map: Lobby
+20-04-21 00:02:56 Lothic - Gothic Lobby Room
+20-04-21 00:07:56 Time Left: 5 minutes
+20-04-21 00:08:56 Time Left: 4 minutes
+20-04-21 00:09:56 Time Left: 3 minutes
+20-04-21 00:10:56 Time Left: 2 minutes
+20-04-21 00:11:56 Time Left: 1 minutes
+20-04-21 00:12:56 Next map: Lobby
+20-04-21 00:13:01 Lothic - Gothic Lobby Room
+20-04-21 00:14:37 200.104.170.206:23073|528264DFCF7 requesting game...
+20-04-21 00:14:37 .:{MIS}:. Leche joining game (200.104.170.206:23073) HWID:528264DFCF7
+20-04-21 00:14:37 .:{MIS}:. Leche has joined as spectator.
+20-04-21 00:14:39 .:{MIS}:. Leche has left spectators
+20-04-21 00:18:01 Time Left: 5 minutes
+20-04-21 00:19:01 Time Left: 4 minutes
+20-04-21 00:20:01 Time Left: 3 minutes
+20-04-21 00:21:01 Time Left: 2 minutes
+20-04-21 00:22:01 Time Left: 1 minutes
+20-04-21 00:23:01 Next map: Lobby
+20-04-21 00:23:06 Lothic - Gothic Lobby Room
+20-04-21 00:28:06 Time Left: 5 minutes
+20-04-21 00:29:06 Time Left: 4 minutes
+20-04-21 00:30:06 Time Left: 3 minutes
+20-04-21 00:31:06 Time Left: 2 minutes
+20-04-21 00:32:06 Time Left: 1 minutes
+20-04-21 00:33:06 Next map: Lobby
+20-04-21 00:33:12 Lothic - Gothic Lobby Room
+20-04-21 00:38:12 Time Left: 5 minutes
+20-04-21 00:39:12 Time Left: 4 minutes
+20-04-21 00:40:12 Time Left: 3 minutes
+20-04-21 00:41:12 Time Left: 2 minutes
+20-04-21 00:42:12 Time Left: 1 minutes
+20-04-21 00:43:12 Next map: Lobby
+20-04-21 00:43:17 Lothic - Gothic Lobby Room
+20-04-21 00:48:17 Time Left: 5 minutes
+20-04-21 00:49:17 Time Left: 4 minutes
+20-04-21 00:50:17 Time Left: 3 minutes
+20-04-21 00:51:17 Time Left: 2 minutes
+20-04-21 00:52:17 Time Left: 1 minutes
+20-04-21 00:53:17 Next map: Lobby
+20-04-21 00:53:22 Lothic - Gothic Lobby Room
+20-04-21 00:55:58 86.106.87.110:23073|2808CC6CDB9 requesting game...
+20-04-21 00:56:00 Kozk |INS| joining game (86.106.87.110:23073) HWID:2808CC6CDB9
+20-04-21 00:56:00 Kozk |INS| has joined bravo team.
+20-04-21 00:56:02 Kozk |INS| has left bravo team.
+20-04-21 00:58:22 Time Left: 5 minutes
+20-04-21 00:59:22 Time Left: 4 minutes
+20-04-21 01:00:22 Time Left: 3 minutes
+20-04-21 01:00:42 /password rtper (201.189.251.234)
+20-04-21 01:00:42 Server password changed to rtper
+20-04-21 01:01:22 Time Left: 2 minutes
+20-04-21 01:02:22 Time Left: 1 minutes
+20-04-21 01:03:22 Next map: Lobby
+20-04-21 01:03:28 Lothic - Gothic Lobby Room
+20-04-21 01:08:28 Time Left: 5 minutes
+20-04-21 01:09:28 Time Left: 4 minutes
+20-04-21 01:10:28 Time Left: 3 minutes
+20-04-21 01:11:28 Time Left: 2 minutes
+20-04-21 01:12:28 Time Left: 1 minutes
+20-04-21 01:13:28 Next map: Lobby
+20-04-21 01:13:33 Lothic - Gothic Lobby Room
+20-04-21 01:18:33 Time Left: 5 minutes
+20-04-21 01:19:33 Time Left: 4 minutes
+20-04-21 01:20:33 Time Left: 3 minutes
+20-04-21 01:21:33 Time Left: 2 minutes
+20-04-21 01:22:33 Time Left: 1 minutes
+20-04-21 01:23:19 Admin connected (181.203.39.244).
+20-04-21 01:23:19 /friendlyfire (181.203.39.244)
+20-04-21 01:23:19 Friendly Fire is 0
+20-04-21 01:23:19 /bonus (181.203.39.244)
+20-04-21 01:23:19 Current bonus frequency is 0
+20-04-21 01:23:19 /vote% (181.203.39.244)
+20-04-21 01:23:19 Voting percent is 60
+20-04-21 01:23:19 /respawntime (181.203.39.244)
+20-04-21 01:23:19 Respawn time is 3 seconds
+20-04-21 01:23:19 /maxrespawntime (181.203.39.244)
+20-04-21 01:23:19 Maximum Respawn time is 5 seconds
+20-04-21 01:23:33 Next map: Lobby
+20-04-21 01:23:38 Lothic - Gothic Lobby Room
+20-04-21 01:28:38 Time Left: 5 minutes
+20-04-21 01:29:38 Time Left: 4 minutes
+20-04-21 01:30:38 Time Left: 3 minutes
+20-04-21 01:31:02 Admin disconnected (181.203.39.244).
+20-04-21 01:31:38 Time Left: 2 minutes
+20-04-21 01:31:48 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 01:31:51 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 01:31:51 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 01:32:01 186.143.138.47:45695|14189A02D27 requesting game...
+20-04-21 01:32:38 Time Left: 1 minutes
+20-04-21 01:33:38 Next map: Lobby
+20-04-21 01:33:44 Lothic - Gothic Lobby Room
+20-04-21 01:38:44 Time Left: 5 minutes
+20-04-21 01:39:44 Time Left: 4 minutes
+20-04-21 01:40:44 Time Left: 3 minutes
+20-04-21 01:41:44 Time Left: 2 minutes
+20-04-21 01:42:44 Time Left: 1 minutes
+20-04-21 01:43:44 Next map: Lobby
+20-04-21 01:43:49 Lothic - Gothic Lobby Room
+20-04-21 01:48:49 Time Left: 5 minutes
+20-04-21 01:49:49 Time Left: 4 minutes
+20-04-21 01:50:49 Time Left: 3 minutes
+20-04-21 01:51:49 Time Left: 2 minutes
+20-04-21 01:52:49 Time Left: 1 minutes
+20-04-21 01:53:49 Next map: Lobby
+20-04-21 01:53:54 Lothic - Gothic Lobby Room
+20-04-21 01:54:36 Admin disconnected (186.11.121.121).
+20-04-21 01:54:36 Admin connected (186.11.121.121).
+20-04-21 01:54:36 /friendlyfire (186.11.121.121)
+20-04-21 01:54:36 Friendly Fire is 0
+20-04-21 01:54:36 /bonus (186.11.121.121)
+20-04-21 01:54:36 Current bonus frequency is 0
+20-04-21 01:54:36 /vote% (186.11.121.121)
+20-04-21 01:54:36 Voting percent is 60
+20-04-21 01:54:36 /respawntime (186.11.121.121)
+20-04-21 01:54:36 Respawn time is 3 seconds
+20-04-21 01:54:36 /maxrespawntime (186.11.121.121)
+20-04-21 01:54:36 Maximum Respawn time is 5 seconds
+20-04-21 01:58:54 Time Left: 5 minutes
+20-04-21 01:59:54 Time Left: 4 minutes
+20-04-21 02:00:54 Time Left: 3 minutes
+20-04-21 02:01:52 186.143.138.47:45695|14189A02D27 requesting game...
+20-04-21 02:01:54 Time Left: 2 minutes
+20-04-21 02:02:06 Admin disconnected (201.189.251.234).
+20-04-21 02:02:08 Admin disconnected (186.11.121.121).
+20-04-21 02:02:54 Time Left: 1 minutes
+20-04-21 02:03:54 Next map: Lobby
+20-04-21 02:04:00 Lothic - Gothic Lobby Room
+20-04-21 02:04:16 Admin connected (201.189.251.234).
+20-04-21 02:04:16 /friendlyfire (201.189.251.234)
+20-04-21 02:04:16 Friendly Fire is 0
+20-04-21 02:04:16 /bonus (201.189.251.234)
+20-04-21 02:04:16 Current bonus frequency is 0
+20-04-21 02:04:16 /vote% (201.189.251.234)
+20-04-21 02:04:16 Voting percent is 60
+20-04-21 02:04:16 /respawntime (201.189.251.234)
+20-04-21 02:04:16 Respawn time is 3 seconds
+20-04-21 02:04:16 /maxrespawntime (201.189.251.234)
+20-04-21 02:04:16 Maximum Respawn time is 5 seconds
+20-04-21 02:09:00 Time Left: 5 minutes
+20-04-21 02:10:00 Time Left: 4 minutes
+20-04-21 02:11:00 Time Left: 3 minutes
+20-04-21 02:12:00 Time Left: 2 minutes
+20-04-21 02:13:00 Time Left: 1 minutes
+20-04-21 02:14:00 Next map: Lobby
+20-04-21 02:14:05 Lothic - Gothic Lobby Room
+20-04-21 02:19:05 Time Left: 5 minutes
+20-04-21 02:20:05 Time Left: 4 minutes
+20-04-21 02:21:05 Time Left: 3 minutes
+20-04-21 02:22:05 Time Left: 2 minutes
+20-04-21 02:22:39 186.143.138.47:28954|14189A02D27 requesting game...
+20-04-21 02:22:39 186.143.138.47:28954|14189A02D27 requesting game...
+20-04-21 02:22:47 186.143.138.47:28954|14189A02D27 requesting game...
+20-04-21 02:22:47 186.143.138.47:28954|14189A02D27 requesting game...
+20-04-21 02:23:05 Time Left: 1 minutes
+20-04-21 02:24:05 Next map: Lobby
+20-04-21 02:24:10 Lothic - Gothic Lobby Room
+20-04-21 02:25:18 190.162.248.123:23073|2635D354B92 requesting game...
+20-04-21 02:29:10 Time Left: 5 minutes
+20-04-21 02:30:10 Time Left: 4 minutes
+20-04-21 02:31:10 Time Left: 3 minutes
+20-04-21 02:32:10 Time Left: 2 minutes
+20-04-21 02:33:10 Time Left: 1 minutes
+20-04-21 02:34:10 Next map: Lobby
+20-04-21 02:34:16 Lothic - Gothic Lobby Room
+20-04-21 02:39:07 186.143.138.47:28958|14189A02D27 requesting game...
+20-04-21 02:39:07 186.143.138.47:28958|14189A02D27 requesting game...
+20-04-21 02:39:08 186.104.252.187:53290|7D8F96DFFA4 requesting game...
+20-04-21 02:39:09 190.162.248.123:23073|3FE4E400F5F requesting game...
+20-04-21 02:39:09 190.162.248.123:1024|2635D354B92 requesting game...
+20-04-21 02:39:10 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:39:10 201.239.101.160:17208|1F7342C1D76 requesting game...
+20-04-21 02:39:10 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:39:10 190.162.248.123:23073|3FE4E400F5F requesting game...
+20-04-21 02:39:11 190.162.248.123:1024|2635D354B92 requesting game...
+20-04-21 02:39:11 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 02:39:12 152.173.46.208:23073|604C8DA500F requesting game...
+20-04-21 02:39:13 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 02:39:13 186.104.252.187:53290|7D8F96DFFA4 requesting game...
+20-04-21 02:39:13 190.162.248.123:1024|2635D354B92 requesting game...
+20-04-21 02:39:16 Time Left: 5 minutes
+20-04-21 02:40:16 Time Left: 4 minutes
+20-04-21 02:41:16 Time Left: 3 minutes
+20-04-21 02:42:16 Time Left: 2 minutes
+20-04-21 02:43:16 Time Left: 1 minutes
+20-04-21 02:44:16 Next map: Lobby
+20-04-21 02:44:21 Lothic - Gothic Lobby Room
+20-04-21 02:49:21 Time Left: 5 minutes
+20-04-21 02:50:21 Time Left: 4 minutes
+20-04-21 02:51:21 Time Left: 3 minutes
+20-04-21 02:52:21 Time Left: 2 minutes
+20-04-21 02:53:21 Time Left: 1 minutes
+20-04-21 02:54:21 Next map: Lobby
+20-04-21 02:54:26 Lothic - Gothic Lobby Room
+20-04-21 02:59:26 Time Left: 5 minutes
+20-04-21 03:00:06 Admin connected (200.86.99.83).
+20-04-21 03:00:06 /maxplayers (200.86.99.83)
+20-04-21 03:00:06 Max players is 16
+20-04-21 03:00:06 /maxrespawntime (200.86.99.83)
+20-04-21 03:00:06 Maximum Respawn time is 5 seconds
+20-04-21 03:00:06 /respawntime (200.86.99.83)
+20-04-21 03:00:06 Respawn time is 3 seconds
+20-04-21 03:00:06 /limit (200.86.99.83)
+20-04-21 03:00:06 Current kill/point/capture limit is 10
+20-04-21 03:00:06 /timelimit (200.86.99.83)
+20-04-21 03:00:06 Current time limit is 10 minutes
+20-04-21 03:00:06 /friendlyfire (200.86.99.83)
+20-04-21 03:00:06 Friendly Fire is 0
+20-04-21 03:00:06 /scripting (200.86.99.83)
+20-04-21 03:00:06 Scripting is currently Enabled (1)
+20-04-21 03:00:06 /balance (200.86.99.83)
+20-04-21 03:00:06 Bot Balance is off (0)
+20-04-21 03:00:06 /bonus (200.86.99.83)
+20-04-21 03:00:06 Current bonus frequency is 0
+20-04-21 03:00:06 /vote% (200.86.99.83)
+20-04-21 03:00:06 Voting percent is 60
+20-04-21 03:00:26 Time Left: 4 minutes
+20-04-21 03:00:28 190.163.201.65:23073|36DB9B79633 requesting game...
+20-04-21 03:01:26 Time Left: 3 minutes
+20-04-21 03:02:09 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-21 03:02:10 190.160.115.174:23073|5FD3AE3E9B6 requesting game...
+20-04-21 03:02:26 Time Left: 2 minutes
+20-04-21 03:02:37 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:03:26 Time Left: 1 minutes
+20-04-21 03:04:25 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:04:25 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:04:26 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:04:26 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:04:26 Next map: Lobby
+20-04-21 03:04:26 45.232.32.136:45328|64995B15DC0 requesting game...
+20-04-21 03:04:27 Firewalled IP 45.232.32.136
+20-04-21 03:04:28 Firewalled IP 45.232.32.136
+20-04-21 03:04:32 Lothic - Gothic Lobby Room
+20-04-21 03:09:32 Time Left: 5 minutes
+20-04-21 03:10:32 Time Left: 4 minutes
+20-04-21 03:11:32 Time Left: 3 minutes
+20-04-21 03:12:32 Time Left: 2 minutes
+20-04-21 03:13:20 186.143.138.47:28958|14189A02D27 requesting game...
+20-04-21 03:13:20 186.143.138.47:28958|14189A02D27 requesting game...
+20-04-21 03:13:32 Time Left: 1 minutes
+20-04-21 03:14:31 Next map: Lobby
+20-04-21 03:14:37 Lothic - Gothic Lobby Room
+20-04-21 03:17:15 Registering server @ 88.99.234.252
+20-04-21 03:18:56 Admin connected (201.239.214.185).
+20-04-21 03:18:56 /friendlyfire (201.239.214.185)
+20-04-21 03:18:56 Friendly Fire is 0
+20-04-21 03:18:56 /bonus (201.239.214.185)
+20-04-21 03:18:56 Current bonus frequency is 0
+20-04-21 03:18:56 /vote% (201.239.214.185)
+20-04-21 03:18:56 Voting percent is 60
+20-04-21 03:18:56 /respawntime (201.239.214.185)
+20-04-21 03:18:56 Respawn time is 3 seconds
+20-04-21 03:18:56 /maxrespawntime (201.239.214.185)
+20-04-21 03:18:56 Maximum Respawn time is 5 seconds
+20-04-21 03:19:33 Admin disconnected (201.239.214.185).
+20-04-21 03:20:29 Time Left: 5 minutes
+20-04-21 03:21:29 Time Left: 4 minutes
+20-04-21 03:22:29 Time Left: 3 minutes
+20-04-21 03:23:29 Time Left: 2 minutes
+20-04-21 03:24:29 Time Left: 1 minutes
+20-04-21 03:25:29 Next map: Lobby
+20-04-21 03:25:35 Lothic - Gothic Lobby Room
+20-04-21 03:30:35 Time Left: 5 minutes
+20-04-21 03:31:35 Time Left: 4 minutes
+20-04-21 03:32:35 Time Left: 3 minutes
+20-04-21 03:33:35 Time Left: 2 minutes
+20-04-21 03:34:35 Time Left: 1 minutes
+20-04-21 03:35:35 Next map: Lobby
+20-04-21 03:35:40 Lothic - Gothic Lobby Room
+20-04-21 03:40:40 Time Left: 5 minutes
+20-04-21 03:41:40 Time Left: 4 minutes
+20-04-21 03:42:40 Time Left: 3 minutes
+20-04-21 03:43:40 Time Left: 2 minutes
+20-04-21 03:44:40 Time Left: 1 minutes
+20-04-21 03:45:40 Next map: Lobby
+20-04-21 03:45:45 Lothic - Gothic Lobby Room
+20-04-21 03:50:45 Time Left: 5 minutes
+20-04-21 03:51:45 Time Left: 4 minutes
+20-04-21 03:52:45 Time Left: 3 minutes
+20-04-21 03:53:45 Time Left: 2 minutes
+20-04-21 03:54:45 Time Left: 1 minutes
+20-04-21 03:55:31 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:55:39 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:55:45 Next map: Lobby
+20-04-21 03:55:50 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:55:51 Lothic - Gothic Lobby Room
+20-04-21 03:55:52 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:01 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:09 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:30 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:48 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:49 45.168.70.189:23073|7EC3BB161E5 requesting game...
+20-04-21 03:56:55 201.214.236.103:23073|8007F30041B requesting game...
+20-04-21 03:58:26 45.168.70.189:23073|7EC3BB161E5 requesting game...

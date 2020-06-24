@@ -1,0 +1,53 @@
+20-04-20 21:08:50    Console Log Started
+20-04-20 21:08:50 Welcome to Soldat 1.7.1
+20-04-20 21:08:50  [*] Preparing scripts to be launched
+20-04-20 21:08:50  [*] [BasicCommands] Compilation started
+20-04-20 21:08:50  [*] [BasicCommands] Compilation complete
+20-04-20 21:08:50  [*] [BasicCommands] Loading bytecode
+20-04-20 21:08:50  [*] [BasicCommands] Bytecode loaded
+20-04-20 21:08:50  [*] Compiling match -> match.pas...
+20-04-20 21:08:50  [*] match compiled
+20-04-20 21:08:50  [*] Done
+20-04-20 21:08:50 Lothic - Gothic Lobby Room
+20-04-20 21:08:50 Loaded weapons mod "Default v1.8"
+20-04-20 21:08:50  Connection for file server started. Port: 23110
+20-04-20 21:08:50 Registering server @ 88.99.234.252
+20-04-20 21:08:58 45.232.32.136:49701|64995B15DC0 requesting game...
+20-04-20 21:08:59 sT.- YnGwi3 joining game (45.232.32.136:49701) HWID:64995B15DC0
+20-04-20 21:08:59 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:09:02 [sT.- YnGwi3] !top
+20-04-20 21:09:03 [sT.- YnGwi3] !sp
+20-04-20 21:09:03 Clave modificada a:906
+20-04-20 21:09:05 sT.- YnGwi3 has left bravo team.
+20-04-20 21:09:06 45.232.32.136:49701|64995B15DC0 requesting game...
+20-04-20 21:09:07 sT.- YnGwi3 joining game (45.232.32.136:49701) HWID:64995B15DC0
+20-04-20 21:09:07 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:09:27 [sT.- YnGwi3] !sp
+20-04-20 21:09:27 Clave modificada a:858
+20-04-20 21:09:28 [sT.- YnGwi3] !dp
+20-04-20 21:09:28 Clave reseteada
+20-04-20 21:09:29 [sT.- YnGwi3] !sp
+20-04-20 21:09:29 Clave modificada a:414
+20-04-20 21:09:29 sT.- YnGwi3 has left bravo team.
+20-04-20 21:09:30 45.232.32.136:49701|64995B15DC0 requesting game...
+20-04-20 21:09:31 sT.- YnGwi3 joining game (45.232.32.136:49701) HWID:64995B15DC0
+20-04-20 21:09:31 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:09:42 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-20 21:09:43 =E*R= Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-20 21:09:43 =E*R= Sadiko has joined alpha team.
+20-04-20 21:09:45 [sT.- YnGwi3] !sp
+20-04-20 21:09:45 Clave modificada a:565
+20-04-20 21:09:47 sT.- YnGwi3 has left bravo team.
+20-04-20 21:09:48 =E*R= Sadiko has left alpha team.
+20-04-20 21:09:50 45.232.32.136:49701|64995B15DC0 requesting game...
+20-04-20 21:09:51 sT.- YnGwi3 joining game (45.232.32.136:49701) HWID:64995B15DC0
+20-04-20 21:09:51 sT.- YnGwi3 has joined bravo team.
+20-04-20 21:09:51 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-20 21:09:52 =E*R= Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-20 21:09:52 =E*R= Sadiko has joined alpha team.
+20-04-20 21:09:54 =E*R= Sadiko has left alpha team.
+20-04-20 21:10:18 sT.- YnGwi3 has left bravo team.
+20-04-20 21:12:23 Signal received, shutting down
+20-04-20 21:12:23 Shutting down server...
+20-04-20 21:12:23 Shutting down FileServer...
+20-04-20 21:12:23 Shutting down admin server...

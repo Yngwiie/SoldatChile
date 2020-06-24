@@ -1,0 +1,56 @@
+20-06-23 23:10:01    Log Started
+20-06-23 23:10:01 Opened /home/kader_b/int1/soldat.ini
+20-06-23 23:10:01 Creating network interface.
+20-06-23 23:10:01 Loading Animations.
+20-06-23 23:10:01 Loading Lobby Servers List
+20-06-23 23:10:01 Loading Maps List
+20-06-23 23:10:01 Loading Map.
+20-06-23 23:10:01 Creating Weapons.
+20-06-23 23:10:01 Starting Game Server.
+20-06-23 23:10:01 TCP/IP File Server started
+20-06-23 23:40:02 TCP/IP File Server started
+20-06-24 00:10:02 TCP/IP File Server started
+20-06-24 00:25:56  Net - uoL| athe connected 24-6-20 00:25:56
+20-06-24 00:26:13  Net - uoL| athe disconnected 24-6-20 00:26:13
+20-06-24 00:28:03  Net - D.forc3| Cyborg connected 24-6-20 00:28:03
+20-06-24 00:28:59  Net - L.Forc3/Aberracion connected 24-6-20 00:28:59
+20-06-24 00:29:05  Net - Battousai connected 24-6-20 00:29:05
+20-06-24 00:30:44  Net - |D.Forc3|linkird connected 24-6-20 00:30:44
+20-06-24 00:30:46  Net - |D.Forc3|linkird connected 24-6-20 00:30:46
+20-06-24 00:33:55  Net - |D.Forc3|linkird disconnected 24-6-20 00:33:55
+20-06-24 00:34:00  Net - |D.Forc3|linkird connected 24-6-20 00:34:00
+20-06-24 00:34:18  Net - El principito Lead connected 24-6-20 00:34:18
+20-06-24 00:36:41  Net - |D.Forc3| Gatitos connected 24-6-20 00:36:41
+20-06-24 00:37:17  Net - Battousai connected 24-6-20 00:37:17
+20-06-24 00:37:17  Net - Battousai connected 24-6-20 00:37:17
+20-06-24 00:37:22  Net - El principito Lead connected 24-6-20 00:37:22
+20-06-24 00:38:02  Net - Battousai connected 24-6-20 00:38:02
+20-06-24 00:38:22  Net - |D.Forc3|linkird connected 24-6-20 00:38:22
+20-06-24 00:38:38  Net - |D.Forc3| Gatitos connected 24-6-20 00:38:38
+20-06-24 00:38:57  Net - El principito Lead connected 24-6-20 00:38:57
+20-06-24 00:40:10 TCP/IP File Server started
+20-06-24 01:01:41  Net - d4zy connected 24-6-20 01:01:41
+20-06-24 01:01:53  Net - d4zy disconnected 24-6-20 01:01:53
+20-06-24 01:10:10 TCP/IP File Server started
+20-06-24 01:13:10  Net - |D.Forc3| Gatitos disconnected 24-6-20 01:13:10
+20-06-24 01:13:13  Net - |D.Forc3| Gatitos connected 24-6-20 01:13:13
+20-06-24 01:15:57  Net - d4zy connected 24-6-20 01:15:57
+20-06-24 01:16:13  Net - d4zy disconnected 24-6-20 01:16:13
+20-06-24 01:34:23  Net - Battousai disconnected 24-6-20 01:34:23
+20-06-24 01:34:23  Net - L.Forc3/Aberracion disconnected 24-6-20 01:34:23
+20-06-24 01:34:24  Net - |D.Forc3|linkird disconnected 24-6-20 01:34:24
+20-06-24 01:34:25  Net - |D.Forc3| Gatitos disconnected 24-6-20 01:34:25
+20-06-24 01:34:25  Net - El principito Lead disconnected 24-6-20 01:34:25
+20-06-24 01:34:26  Net - D.forc3| Cyborg disconnected 24-6-20 01:34:26
+20-06-24 01:40:10 TCP/IP File Server started
+20-06-24 02:10:10 TCP/IP File Server started
+20-06-24 02:40:10 TCP/IP File Server started
+20-06-24 03:10:10 TCP/IP File Server started
+20-06-24 03:11:39  Net - uoL| athe connected 24-6-20 03:11:39
+20-06-24 03:11:55  Net - uoL| athe disconnected 24-6-20 03:11:55
+20-06-24 03:12:11  Net - uoL| athe connected 24-6-20 03:12:11
+20-06-24 03:12:18  Net - uoL| athe disconnected 24-6-20 03:12:18
+20-06-24 03:40:10 TCP/IP File Server started
+20-06-24 04:10:10 TCP/IP File Server started
+20-06-24 04:40:10 TCP/IP File Server started
+20-06-24 05:10:10 TCP/IP File Server started

@@ -1,0 +1,29 @@
+20-04-10 18:47:50    Console Log Started
+20-04-10 18:47:50 Welcome to Soldat 1.7.1
+20-04-10 18:47:50  [*] Preparing scripts to be launched
+20-04-10 18:47:50  [*] [BasicCommands] Loading bytecode
+20-04-10 18:47:50  [*] [BasicCommands] Bytecode loaded
+20-04-10 18:47:50  [*] Done
+20-04-10 18:47:50 Lothic - Gothic Lobby Room
+20-04-10 18:47:50 Loaded weapons mod "Default v1.8"
+20-04-10 18:47:50  Connection for file server started. Port: 23110
+20-04-10 18:47:52 Registering server @ 88.99.234.252
+20-04-10 18:47:52 201.241.39.54:23073|535AA511D5F requesting game...
+20-04-10 18:47:53 |B.Forc3| Lead.- joining game (201.241.39.54:23073) HWID:535AA511D5F
+20-04-10 18:47:53 |B.Forc3| Lead.- has joined alpha team.
+20-04-10 18:47:53 190.162.198.74:23073|1B79B7E239F requesting game...
+20-04-10 18:47:56 BeautifolShot joining game (190.162.198.74:23073) HWID:1B79B7E239F
+20-04-10 18:47:56 BeautifolShot has joined bravo team.
+20-04-10 18:48:00 201.189.189.196:23073|B91123F9945 requesting game...
+20-04-10 18:48:00 [|B.Forc3| Lead.-] !map catch
+20-04-10 18:48:03 |D.Forc3|Peter Rock joining game (201.189.189.196:23073) HWID:B91123F9945
+20-04-10 18:48:03 |D.Forc3|Peter Rock has joined bravo team.
+20-04-10 18:48:05 Catch by Zakath
+20-04-10 18:48:14 (2) BeautifolShot killed (1) |B.Forc3| Lead.- with M79
+20-04-10 18:48:17 |D.Forc3|Peter Rock captured the Red Flag
+20-04-10 18:48:22 |D.Forc3|Peter Rock captured the Red Flag
+20-04-10 18:48:27 |B.Forc3| Lead.- captured the Blue Flag
+20-04-10 18:48:31 |B.Forc3| Lead.- captured the Blue Flag
+20-04-10 18:48:39 Shutting down server...
+20-04-10 18:48:39 Shutting down FileServer...
+20-04-10 18:48:39 Shutting down admin server...

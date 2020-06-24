@@ -1,0 +1,2400 @@
+20-04-04 17:53:02    Console Log Started
+20-04-04 17:53:03 Welcome to Soldat 1.7.1
+20-04-04 17:53:03  [*] Preparing scripts to be launched
+20-04-04 17:53:03  [*] [BasicCommands] Loading bytecode
+20-04-04 17:53:03  [*] [BasicCommands] Bytecode loaded
+20-04-04 17:53:03  [*] Compiling match -> match.pas...
+20-04-04 17:53:03  [*] match compiled
+20-04-04 17:53:03  [*] Done
+20-04-04 17:53:03 ctf_Ash by chakapoko maker
+20-04-04 17:53:03 Loaded weapons mod "Default v1.8"
+20-04-04 17:53:03  Connection for file server started. Port: 23110
+20-04-04 17:53:03 Registering server @ 88.99.234.252
+20-04-04 17:54:29 Admin connected (201.189.251.234).
+20-04-04 17:54:29 /friendlyfire (201.189.251.234)
+20-04-04 17:54:29 Friendly Fire is 0
+20-04-04 17:54:29 /bonus (201.189.251.234)
+20-04-04 17:54:29 Current bonus frequency is 1
+20-04-04 17:54:29 /vote% (201.189.251.234)
+20-04-04 17:54:29 Voting percent is 60
+20-04-04 17:54:29 /respawntime (201.189.251.234)
+20-04-04 17:54:29 Respawn time is 3 seconds
+20-04-04 17:54:29 /maxrespawntime (201.189.251.234)
+20-04-04 17:54:29 Maximum Respawn time is 5 seconds
+20-04-04 17:55:46 80.51.181.43:23073|275765BEAC4 requesting game...
+20-04-04 17:55:48 80.51.181.43:23073|275765BEAC4 requesting game...
+20-04-04 17:56:01 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 17:56:04 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 17:56:05 LB ~ Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-04 17:56:05 LB ~ Sadiko has joined alpha team.
+20-04-04 17:57:10 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-04 17:57:11 LB ~ Sadiko has left alpha team.
+20-04-04 17:57:13 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-04 17:57:15 Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-04 17:57:15 Skipo has joined alpha team.
+20-04-04 17:57:26 Skipo captured the Blue Flag
+20-04-04 17:57:31 Skipo has left alpha team.
+20-04-04 17:58:03 Time Left: 5 minutes
+20-04-04 17:59:03 Time Left: 4 minutes
+20-04-04 18:00:03 Time Left: 3 minutes
+20-04-04 18:01:03 Time Left: 2 minutes
+20-04-04 18:02:03 Time Left: 1 minutes
+20-04-04 18:03:03 Next map: ctf_B2b
+20-04-04 18:03:08 B2B
+20-04-04 18:08:08 Time Left: 5 minutes
+20-04-04 18:09:08 Time Left: 4 minutes
+20-04-04 18:10:08 Time Left: 3 minutes
+20-04-04 18:11:08 Time Left: 2 minutes
+20-04-04 18:11:18 201.189.251.234:23073|4EDFAA80B1B requesting game...
+20-04-04 18:11:20 Skipo joining game (201.189.251.234:23073) HWID:4EDFAA80B1B
+20-04-04 18:11:20 Skipo has joined alpha team.
+20-04-04 18:11:28 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-04 18:11:28 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-04 18:11:29 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-04 18:11:29 mipHo has joined alpha team.
+20-04-04 18:11:30 mipHo has joined bravo team.
+20-04-04 18:11:33 [Skipo] !map Spark
+20-04-04 18:11:39 Spark - By Vauat
+20-04-04 18:11:47 (2) mipHo killed (1) Skipo with Spas-12
+20-04-04 18:11:50 mipHo captured the Red Flag
+20-04-04 18:11:52 (2) mipHo killed (1) Skipo with Grenade
+20-04-04 18:11:58 mipHo scores for Bravo Team
+20-04-04 18:12:02 (1) Skipo killed (2) mipHo with Steyr AUG
+20-04-04 18:12:05 Skipo captured the Blue Flag
+20-04-04 18:12:07 (2) mipHo killed (1) Skipo with Spas-12
+20-04-04 18:12:15 (1) Skipo killed (2) mipHo with Steyr AUG
+20-04-04 18:12:19 Skipo captured the Blue Flag
+20-04-04 18:12:20 (1) Skipo killed (2) mipHo with Steyr AUG
+20-04-04 18:12:20 (2) mipHo killed (1) Skipo with Spas-12
+20-04-04 18:12:25 mipHo returned the Blue Flag
+20-04-04 18:12:31 (1) Skipo killed (2) mipHo with Steyr AUG
+20-04-04 18:12:39 (1) Skipo killed (2) mipHo with Steyr AUG
+20-04-04 18:12:45 (2) mipHo killed (1) Skipo with Spas-12
+20-04-04 18:12:52 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 18:12:54 190.164.5.54:23073|3CE7FC4A035 requesting game...
+20-04-04 18:12:57 LB ~ Sadiko joining game (190.164.5.54:23073) HWID:3CE7FC4A035
+20-04-04 18:12:57 LB ~ Sadiko has joined alpha team.
+20-04-04 18:13:01 (2) mipHo killed (1) Skipo with Spas-12
+20-04-04 18:13:03 mipHo captured the Red Flag
+20-04-04 18:13:07 (2) mipHo killed (1) LB ~ Sadiko with Spas-12
+20-04-04 18:13:09 Skipo has left alpha team.
+20-04-04 18:13:10 mipHo has left bravo team.
+20-04-04 18:13:13 LB ~ Sadiko returned the Red Flag
+20-04-04 18:13:18 LB ~ Sadiko captured the Blue Flag
+20-04-04 18:13:27 LB ~ Sadiko has left alpha team.
+20-04-04 18:16:39 Time Left: 5 minutes
+20-04-04 18:17:39 Time Left: 4 minutes
+20-04-04 18:18:39 Time Left: 3 minutes
+20-04-04 18:19:39 Time Left: 2 minutes
+20-04-04 18:20:39 Time Left: 1 minutes
+20-04-04 18:21:39 Next map: ctf_Blade
+20-04-04 18:21:44 Blade by Zakath
+20-04-04 18:21:58 181.160.15.97:23073|648E1768465 requesting game...
+20-04-04 18:26:44 Time Left: 5 minutes
+20-04-04 18:27:44 Time Left: 4 minutes
+20-04-04 18:28:44 Time Left: 3 minutes
+20-04-04 18:29:44 Time Left: 2 minutes
+20-04-04 18:30:44 Time Left: 1 minutes
+20-04-04 18:31:44 Next map: ctf_Viet
+20-04-04 18:31:49 Viet
+20-04-04 18:36:49 Time Left: 5 minutes
+20-04-04 18:37:49 Time Left: 4 minutes
+20-04-04 18:38:49 Time Left: 3 minutes
+20-04-04 18:39:49 Time Left: 2 minutes
+20-04-04 18:40:49 Time Left: 1 minutes
+20-04-04 18:41:49 Next map: ctf_Division
+20-04-04 18:41:55 Division by Boxo, KC, viral
+20-04-04 18:46:55 Time Left: 5 minutes
+20-04-04 18:47:55 Time Left: 4 minutes
+20-04-04 18:48:55 Time Left: 3 minutes
+20-04-04 18:49:55 Time Left: 2 minutes
+20-04-04 18:50:55 Time Left: 1 minutes
+20-04-04 18:51:55 Next map: ctf_Death
+20-04-04 18:52:00 Death by MM, g_d. Boxo, mtk`
+20-04-04 18:57:00 Time Left: 5 minutes
+20-04-04 18:58:00 Time Left: 4 minutes
+20-04-04 18:59:00 Time Left: 3 minutes
+20-04-04 19:00:00 Time Left: 2 minutes
+20-04-04 19:01:00 Time Left: 1 minutes
+20-04-04 19:02:00 Next map: ctf_Hormone
+20-04-04 19:02:05 Hormone by Metsänaperot
+20-04-04 19:07:05 Time Left: 5 minutes
+20-04-04 19:08:05 Time Left: 4 minutes
+20-04-04 19:09:05 Time Left: 3 minutes
+20-04-04 19:10:05 Time Left: 2 minutes
+20-04-04 19:11:05 Time Left: 1 minutes
+20-04-04 19:12:05 Next map: ctf_Laos
+20-04-04 19:12:11 Laos
+20-04-04 19:17:11 Time Left: 5 minutes
+20-04-04 19:18:11 Time Left: 4 minutes
+20-04-04 19:19:11 Time Left: 3 minutes
+20-04-04 19:20:11 Time Left: 2 minutes
+20-04-04 19:20:33 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-04 19:20:33 190.164.14.41:23073|1F7342C1D76 requesting game...
+20-04-04 19:20:34 mipHo joining game (190.164.14.41:23073) HWID:1F7342C1D76
+20-04-04 19:20:34 mipHo has joined bravo team.
+20-04-04 19:20:43 186.105.39.24:23073|218A929E6CE requesting game...
+20-04-04 19:20:45 =X*R= CWe1C joining game (186.105.39.24:23073) HWID:218A929E6CE
+20-04-04 19:20:45 =X*R= CWe1C has joined alpha team.
+20-04-04 19:20:47 mipHo captured the Red Flag
+20-04-04 19:20:51 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:21:00 [mipHo] !map ctf_Ash
+20-04-04 19:21:06 ctf_Ash by chakapoko maker
+20-04-04 19:21:16 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:21:25 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:21:29 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:21:32 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:21:48 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:21:52 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:22:07 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:22:24 (1) =X*R= CWe1C killed (2) mipHo with Hands
+20-04-04 19:22:28 (1) =X*R= CWe1C killed (2) mipHo with Grenade
+20-04-04 19:22:37 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:22:51 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:23:15 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:23:19 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:23:33 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:23:37 mipHo captured the Red Flag
+20-04-04 19:23:43 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:23:47 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:23:54 =X*R= CWe1C returned the Red Flag
+20-04-04 19:24:03 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:24:05 mipHo captured the Red Flag
+20-04-04 19:24:13 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:24:26 (1) =X*R= CWe1C killed (2) mipHo with Hands
+20-04-04 19:24:26 =X*R= CWe1C returned the Red Flag
+20-04-04 19:24:33 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:24:39 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:24:48 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:24:57 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:25:06 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:25:13 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:25:21 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:25:41 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:25:45 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:26:01 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:26:06 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:26:06 Time Left: 5 minutes
+20-04-04 19:26:11 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:26:14 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:26:30 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:26:43 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:26:45 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:26:56 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:27:00 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:27:06 Time Left: 4 minutes
+20-04-04 19:27:10 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:27:17 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:27:21 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:27:27 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:27:33 (1) =X*R= CWe1C killed (2) mipHo with Desert Eagles
+20-04-04 19:27:39 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:27:54 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:28:06 Time Left: 3 minutes
+20-04-04 19:28:11 (1) =X*R= CWe1C killed (2) mipHo with Grenade
+20-04-04 19:28:17 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:28:29 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:28:38 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:28:47 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:28:49 190.160.49.57:23073|41E4C1F0765 requesting game...
+20-04-04 19:28:54 190.160.49.57:23073|41E4C1F0765 requesting game...
+20-04-04 19:29:05 (1) =X*R= CWe1C killed (2) mipHo with HK MP5
+20-04-04 19:29:06 Time Left: 2 minutes
+20-04-04 19:29:12 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:29:22 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:29:30 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:29:37 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:29:48 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:30:03 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:30:06 Time Left: 1 minutes
+20-04-04 19:30:13 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:30:39 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:30:44 (2) mipHo killed (1) =X*R= CWe1C with Desert Eagles
+20-04-04 19:30:49 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:31:06 Next map: ctf_Laos2
+20-04-04 19:31:11 Error: Could not load map (ctf_Laos2)
+20-04-04 19:31:11 Next map: ctf_Maya
+20-04-04 19:31:16 Maya
+20-04-04 19:31:23 [mipHo] !map ctf_Cobra
+20-04-04 19:31:29 ctf_Cobra ~ by Demonic and Skoskav
+20-04-04 19:31:35 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:31:38 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:31:39 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:31:46 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:31:49 =X*R= CWe1C scores for Alpha Team
+20-04-04 19:31:54 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:31:57 mipHo captured the Red Flag
+20-04-04 19:32:00 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:32:04 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:32:10 mipHo scores for Bravo Team
+20-04-04 19:32:15 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:32:21 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:32:27 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:32:28 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-04 19:32:48 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:32:53 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:32:53 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:33:01 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:33:10 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:33:12 mipHo captured the Red Flag
+20-04-04 19:33:37 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:33:41 =X*R= CWe1C returned the Red Flag
+20-04-04 19:33:51 (2) mipHo killed (1) =X*R= CWe1C with Flamer
+20-04-04 19:33:55 190.162.230.58:23073|3A1FE864E55 requesting game...
+20-04-04 19:34:00 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:34:12 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:34:22 181.42.20.56:12999|115C66405B8 requesting game...
+20-04-04 19:34:24 (2) mipHo killed (1) =X*R= CWe1C with Flamer
+20-04-04 19:34:25 mipHo captured the Red Flag
+20-04-04 19:34:32 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:34:52 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:34:58 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:35:02 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:35:04 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:35:10 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:35:16 mipHo returned the Blue Flag
+20-04-04 19:35:27 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:35:33 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:35:34 mipHo captured the Red Flag
+20-04-04 19:35:50 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:35:55 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:36:01 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:36:02 =X*R= CWe1C returned the Red Flag
+20-04-04 19:36:10 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:36:20 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:36:26 200.83.21.166:23073|52204266992 requesting game...
+20-04-04 19:36:26 mipHo captured the Red Flag
+20-04-04 19:36:27 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:36:29 Time Left: 5 minutes
+20-04-04 19:36:32 201.214.44.76:23073|5AB40990863 requesting game...
+20-04-04 19:36:33 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:36:34 =X*R= CWe1C returned the Red Flag
+20-04-04 19:36:39 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:36:43 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:36:50 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:36:50 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:37:05 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:37:08 mipHo captured the Red Flag
+20-04-04 19:37:17 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:37:22 =X*R= CWe1C returned the Red Flag
+20-04-04 19:37:24 (2) mipHo killed (1) =X*R= CWe1C with Ruger 77
+20-04-04 19:37:29 mipHo captured the Red Flag
+20-04-04 19:37:29 Time Left: 4 minutes
+20-04-04 19:37:30 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:37:35 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:37:39 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:37:41 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:37:54 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:38:03 (1) =X*R= CWe1C killed (2) mipHo with Flamer
+20-04-04 19:38:10 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:38:10 mipHo returned the Blue Flag
+20-04-04 19:38:15 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:38:15 mipHo captured the Red Flag
+20-04-04 19:38:29 Time Left: 3 minutes
+20-04-04 19:38:34 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:38:40 =X*R= CWe1C returned the Red Flag
+20-04-04 19:38:42 (1) =X*R= CWe1C killed (2) mipHo with M79
+20-04-04 19:38:49 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:38:56 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:38:57 mipHo captured the Red Flag
+20-04-04 19:39:04 mipHo scores for Bravo Team
+20-04-04 19:39:07 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:39:19 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:39:22 mipHo captured the Red Flag
+20-04-04 19:39:26 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:39:29 Time Left: 2 minutes
+20-04-04 19:39:33 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:39:45 (2) mipHo killed (1) =X*R= CWe1C with Flamer
+20-04-04 19:39:49 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:40:01 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:40:07 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:40:16 (1) =X*R= CWe1C killed (2) mipHo with Spas-12
+20-04-04 19:40:17 =X*R= CWe1C returned the Red Flag
+20-04-04 19:40:20 (1) =X*R= CWe1C killed (2) mipHo with Spas-12
+20-04-04 19:40:21 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:40:24 (1) =X*R= CWe1C killed (2) mipHo with Grenade
+20-04-04 19:40:27 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:40:28 mipHo returned the Blue Flag
+20-04-04 19:40:29 Time Left: 1 minutes
+20-04-04 19:40:33 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:40:36 mipHo captured the Red Flag
+20-04-04 19:40:39 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:40:49 (1) =X*R= CWe1C killed (2) mipHo with Spas-12
+20-04-04 19:40:51 =X*R= CWe1C returned the Red Flag
+20-04-04 19:40:54 (1) =X*R= CWe1C killed (2) mipHo with Spas-12
+20-04-04 19:40:56 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:40:58 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:41:01 mipHo returned the Blue Flag
+20-04-04 19:41:12 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:20 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:24 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:41:24 mipHo captured the Red Flag
+20-04-04 19:41:27 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:29 Next map: ctf_MFM
+20-04-04 19:41:34 MFM 2 by mar77a
+20-04-04 19:41:40 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:46 mipHo captured the Red Flag
+20-04-04 19:41:48 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:52 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:41:57 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:42:08 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:42:19 (1) =X*R= CWe1C killed (2) mipHo with Barrett M82A1
+20-04-04 19:42:22 =X*R= CWe1C returned the Red Flag
+20-04-04 19:42:44 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:42:50 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:42:56 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:43:00 mipHo captured the Red Flag
+20-04-04 19:43:03 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:43:11 (1) =X*R= CWe1C killed (2) mipHo with LAW
+20-04-04 19:43:14 =X*R= CWe1C returned the Red Flag
+20-04-04 19:43:26 mipHo captured the Red Flag
+20-04-04 19:43:35 mipHo scores for Bravo Team
+20-04-04 19:43:40 (1) =X*R= CWe1C killed (2) mipHo with Barrett M82A1
+20-04-04 19:43:58 (1) =X*R= CWe1C killed (2) mipHo with Barrett M82A1
+20-04-04 19:43:58 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:44:04 (1) =X*R= CWe1C killed (2) mipHo with Barrett M82A1
+20-04-04 19:44:19 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:44:24 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:44:27 mipHo captured the Red Flag
+20-04-04 19:44:29 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:44:33 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:44:52 (2) mipHo killed (1) =X*R= CWe1C with Barrett M82A1
+20-04-04 19:45:02 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:45:13 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:45:18 (2) mipHo killed (1) =X*R= CWe1C with Combat Knife
+20-04-04 19:45:22 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:45:26 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:45:36 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:45:45 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:45:50 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:45:57 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:46:02 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:46:11 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:46:18 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:46:32 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:46:34 Time Left: 5 minutes
+20-04-04 19:46:39 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:46:39 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:46:47 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:46:57 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:47:00 mipHo captured the Red Flag
+20-04-04 19:47:18 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:47:22 =X*R= CWe1C returned the Red Flag
+20-04-04 19:47:25 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:47:29 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:47:34 Time Left: 4 minutes
+20-04-04 19:47:40 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:47:47 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:47:51 mipHo gets a ping warning
+20-04-04 19:47:55 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:48:01 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:48:08 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:48:11 mipHo captured the Red Flag
+20-04-04 19:48:17 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:48:21 (1) =X*R= CWe1C killed (2) mipHo with FN Minimi
+20-04-04 19:48:22 =X*R= CWe1C returned the Red Flag
+20-04-04 19:48:28 (1) =X*R= CWe1C killed (2) mipHo with FN Minimi
+20-04-04 19:48:34 Time Left: 3 minutes
+20-04-04 19:48:36 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:48:40 (1) =X*R= CWe1C killed (2) mipHo with FN Minimi
+20-04-04 19:48:54 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:49:06 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:49:10 (1) =X*R= CWe1C killed (2) mipHo with FN Minimi
+20-04-04 19:49:18 (1) =X*R= CWe1C killed (2) mipHo with FN Minimi
+20-04-04 19:49:33 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:49:34 Time Left: 2 minutes
+20-04-04 19:49:36 mipHo captured the Red Flag
+20-04-04 19:49:39 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:49:46 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:49:53 (1) =X*R= CWe1C killed (2) mipHo with Steyr AUG
+20-04-04 19:49:58 =X*R= CWe1C returned the Red Flag
+20-04-04 19:50:08 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:50:23 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:50:34 Time Left: 1 minutes
+20-04-04 19:50:43 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:50:49 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:50:51 mipHo captured the Red Flag
+20-04-04 19:50:54 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:51:04 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:51:08 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:51:08 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:51:18 (2) mipHo killed (1) =X*R= CWe1C with XM214 Minigun
+20-04-04 19:51:29 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:51:33 =X*R= CWe1C captured the Blue Flag
+20-04-04 19:51:34 Next map: ctf_Run
+20-04-04 19:51:39 Run
+20-04-04 19:51:55 [mipHo] !map ctf_Ash
+20-04-04 19:52:00 ctf_Ash by chakapoko maker
+20-04-04 19:52:09 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:52:22 mipHo captured the Red Flag
+20-04-04 19:52:23 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:52:27 =X*R= CWe1C returned the Red Flag
+20-04-04 19:52:32 (1) =X*R= CWe1C killed (2) mipHo with Grenade
+20-04-04 19:52:46 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:52:47 mipHo captured the Red Flag
+20-04-04 19:52:52 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:53:00 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:53:13 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:53:19 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:53:24 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:53:27 mipHo gets a ping warning
+20-04-04 19:53:30 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:53:36 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:53:38 mipHo captured the Red Flag
+20-04-04 19:53:52 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:53:58 mipHo captured the Red Flag
+20-04-04 19:53:59 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:54:04 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:54:10 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:54:10 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:54:16 =X*R= CWe1C returned the Red Flag
+20-04-04 19:54:30 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:54:41 (1) =X*R= CWe1C killed (2) mipHo with Cluster Grenades
+20-04-04 19:54:47 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:54:58 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:55:00 mipHo captured the Red Flag
+20-04-04 19:55:08 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:55:33 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:55:43 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:55:55 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:56:06 (2) mipHo killed (1) =X*R= CWe1C with Grenade
+20-04-04 19:56:09 (1) =X*R= CWe1C killed (2) mipHo with XM214 Minigun
+20-04-04 19:56:10 =X*R= CWe1C returned the Red Flag
+20-04-04 19:56:16 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:56:30 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:56:38 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:56:49 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:57:00 Time Left: 5 minutes
+20-04-04 19:57:35 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:57:39 mipHo gets a ping warning
+20-04-04 19:57:45 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:57:49 mipHo captured the Red Flag
+20-04-04 19:58:00 Time Left: 4 minutes
+20-04-04 19:58:09 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:58:17 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:58:30 (2) mipHo killed (1) =X*R= CWe1C with Steyr AUG
+20-04-04 19:59:00 Time Left: 3 minutes
+20-04-04 19:59:10 =X*R= CWe1C has left alpha team.
+20-04-04 19:59:11 mipHo has left bravo team.
+20-04-04 20:00:00 Time Left: 2 minutes
+20-04-04 20:01:00 Time Left: 1 minutes
+20-04-04 20:02:00 Next map: ctf_OldRun
+20-04-04 20:02:06 Error: Could not load map (ctf_OldRun)
+20-04-04 20:02:06 Next map: ctf_Ash
+20-04-04 20:02:11 ctf_Ash by chakapoko maker
+20-04-04 20:07:11 Time Left: 5 minutes
+20-04-04 20:08:11 Time Left: 4 minutes
+20-04-04 20:09:11 Time Left: 3 minutes
+20-04-04 20:10:11 Time Left: 2 minutes
+20-04-04 20:11:11 Time Left: 1 minutes
+20-04-04 20:12:11 Next map: ctf_B2b
+20-04-04 20:12:16 B2B
+20-04-04 20:17:16 Time Left: 5 minutes
+20-04-04 20:18:16 Time Left: 4 minutes
+20-04-04 20:19:16 Time Left: 3 minutes
+20-04-04 20:20:16 Time Left: 2 minutes
+20-04-04 20:21:16 Time Left: 1 minutes
+20-04-04 20:22:16 Next map: ctf_Blade
+20-04-04 20:22:22 Blade by Zakath
+20-04-04 20:27:22 Time Left: 5 minutes
+20-04-04 20:28:22 Time Left: 4 minutes
+20-04-04 20:29:22 Time Left: 3 minutes
+20-04-04 20:30:22 Time Left: 2 minutes
+20-04-04 20:31:22 Time Left: 1 minutes
+20-04-04 20:31:55 200.74.8.155:23073|5AF6C9E9B44 requesting game...
+20-04-04 20:32:22 Next map: ctf_Viet
+20-04-04 20:32:27 Viet
+20-04-04 20:37:27 Time Left: 5 minutes
+20-04-04 20:38:27 Time Left: 4 minutes
+20-04-04 20:39:27 Time Left: 3 minutes
+20-04-04 20:40:27 Time Left: 2 minutes
+20-04-04 20:41:27 Time Left: 1 minutes
+20-04-04 20:42:27 Next map: ctf_Division
+20-04-04 20:42:32 Division by Boxo, KC, viral
+20-04-04 20:42:34 190.163.220.183:23073|19101208476 requesting game...
+20-04-04 20:42:37 |X.Forc3|.Dohko.Messi! joining game (190.163.220.183:23073) HWID:19101208476
+20-04-04 20:42:37 |X.Forc3|.Dohko.Messi! has joined alpha team.
+20-04-04 20:44:10 |X.Forc3|.Dohko.Messi! has left alpha team.
+20-04-04 20:44:11 190.163.220.183:23073|19101208476 requesting game...
+20-04-04 20:45:37 190.5.32.31:11767|36C0983275C requesting game...
+20-04-04 20:47:32 Time Left: 5 minutes
+20-04-04 20:48:32 Time Left: 4 minutes
+20-04-04 20:49:32 Time Left: 3 minutes
+20-04-04 20:50:32 Time Left: 2 minutes
+20-04-04 20:51:32 Time Left: 1 minutes
+20-04-04 20:52:32 Next map: ctf_Death
+20-04-04 20:52:38 Death by MM, g_d. Boxo, mtk`
+20-04-04 20:52:53 186.11.45.165:43869|4AF4E3AC68B requesting game...
+20-04-04 20:52:56 Major joining game (186.11.45.165:43869) HWID:4AF4E3AC68B
+20-04-04 20:52:56 Major has joined as spectator.
+20-04-04 20:52:59 Major has left spectators
+20-04-04 20:57:38 Time Left: 5 minutes
+20-04-04 20:58:38 Time Left: 4 minutes
+20-04-04 20:59:38 Time Left: 3 minutes
+20-04-04 21:00:38 Time Left: 2 minutes
+20-04-04 21:01:38 Time Left: 1 minutes
+20-04-04 21:02:38 Next map: ctf_Hormone
+20-04-04 21:02:43 Hormone by Metsänaperot
+20-04-04 21:07:43 Time Left: 5 minutes
+20-04-04 21:08:43 Time Left: 4 minutes
+20-04-04 21:09:43 Time Left: 3 minutes
+20-04-04 21:10:08 201.241.179.207:23073|1C713F939DE requesting game...
+20-04-04 21:10:43 Time Left: 2 minutes
+20-04-04 21:11:43 Time Left: 1 minutes
+20-04-04 21:12:43 Next map: ctf_Laos
+20-04-04 21:12:48 Laos
+20-04-04 21:17:48 Time Left: 5 minutes
+20-04-04 21:18:48 Time Left: 4 minutes
+20-04-04 21:19:48 Time Left: 3 minutes
+20-04-04 21:20:48 Time Left: 2 minutes
+20-04-04 21:21:48 Time Left: 1 minutes
+20-04-04 21:22:48 Next map: ctf_Laos2
+20-04-04 21:22:54 Error: Could not load map (ctf_Laos2)
+20-04-04 21:22:54 Next map: ctf_Maya
+20-04-04 21:22:59 Maya
+20-04-04 21:25:02 201.241.224.61:23073|42605788715 requesting game...
+20-04-04 21:25:03 Picard joining game (201.241.224.61:23073) HWID:42605788715
+20-04-04 21:25:03 Picard has joined bravo team.
+20-04-04 21:25:06 Picard has left bravo team.
+20-04-04 21:27:59 Time Left: 5 minutes
+20-04-04 21:28:59 Time Left: 4 minutes
+20-04-04 21:29:59 Time Left: 3 minutes
+20-04-04 21:30:59 Time Left: 2 minutes
+20-04-04 21:31:59 Time Left: 1 minutes
+20-04-04 21:32:59 Next map: ctf_MFM
+20-04-04 21:33:04 MFM 2 by mar77a
+20-04-04 21:38:04 Time Left: 5 minutes
+20-04-04 21:39:04 Time Left: 4 minutes
+20-04-04 21:40:04 Time Left: 3 minutes
+20-04-04 21:41:04 Time Left: 2 minutes
+20-04-04 21:42:04 Time Left: 1 minutes
+20-04-04 21:43:04 Next map: ctf_Run
+20-04-04 21:43:10 Run
+20-04-04 21:48:10 Time Left: 5 minutes
+20-04-04 21:48:32 190.22.11.66:23073|4C4052F23D1 requesting game...
+20-04-04 21:49:10 Time Left: 4 minutes
+20-04-04 21:49:14 190.161.200.247:23073|5FD5D24B7AA requesting game...
+20-04-04 21:50:02 190.161.200.247:23073|5FD5D24B7AA requesting game...
+20-04-04 21:50:03 sT#' ErreAPe_ joining game (190.161.200.247:23073) HWID:5FD5D24B7AA
+20-04-04 21:50:03 sT#' ErreAPe_ has joined bravo team.
+20-04-04 21:50:06 sT#' ErreAPe_ has left bravo team.
+20-04-04 21:50:10 Time Left: 3 minutes
+20-04-04 21:51:10 Time Left: 2 minutes
+20-04-04 21:51:12 190.161.200.247:23073|5FD5D24B7AA requesting game...
+20-04-04 21:52:10 Time Left: 1 minutes
+20-04-04 21:53:10 Next map: ctf_OldRun
+20-04-04 21:53:15 Error: Could not load map (ctf_OldRun)
+20-04-04 21:53:15 Next map: ctf_Ash
+20-04-04 21:53:20 ctf_Ash by chakapoko maker
+20-04-04 21:58:20 Time Left: 5 minutes
+20-04-04 21:59:20 Time Left: 4 minutes
+20-04-04 22:00:20 Time Left: 3 minutes
+20-04-04 22:01:20 Time Left: 2 minutes
+20-04-04 22:02:20 Time Left: 1 minutes
+20-04-04 22:03:20 Next map: ctf_B2b
+20-04-04 22:03:26 B2B
+20-04-04 22:08:26 Time Left: 5 minutes
+20-04-04 22:09:26 Time Left: 4 minutes
+20-04-04 22:10:26 Time Left: 3 minutes
+20-04-04 22:11:26 Time Left: 2 minutes
+20-04-04 22:12:26 Time Left: 1 minutes
+20-04-04 22:13:26 Next map: ctf_Blade
+20-04-04 22:13:31 Blade by Zakath
+20-04-04 22:18:31 Time Left: 5 minutes
+20-04-04 22:19:31 Time Left: 4 minutes
+20-04-04 22:20:31 Time Left: 3 minutes
+20-04-04 22:21:31 Time Left: 2 minutes
+20-04-04 22:22:31 Time Left: 1 minutes
+20-04-04 22:23:31 Next map: ctf_Viet
+20-04-04 22:23:35 190.121.77.42:23073|FEB04C78DB4 requesting game...
+20-04-04 22:23:36 Viet
+20-04-04 22:23:37 190.121.77.42:23073|FEB04C78DB4 requesting game...
+20-04-04 22:28:36 Time Left: 5 minutes
+20-04-04 22:29:36 Time Left: 4 minutes
+20-04-04 22:30:36 Time Left: 3 minutes
+20-04-04 22:31:36 Time Left: 2 minutes
+20-04-04 22:32:36 Time Left: 1 minutes
+20-04-04 22:33:36 Next map: ctf_Division
+20-04-04 22:33:42 Division by Boxo, KC, viral
+20-04-04 22:38:42 Time Left: 5 minutes
+20-04-04 22:39:42 Time Left: 4 minutes
+20-04-04 22:40:42 Time Left: 3 minutes
+20-04-04 22:41:42 Time Left: 2 minutes
+20-04-04 22:42:42 Time Left: 1 minutes
+20-04-04 22:43:42 Next map: ctf_Death
+20-04-04 22:43:47 Death by MM, g_d. Boxo, mtk`
+20-04-04 22:48:47 Time Left: 5 minutes
+20-04-04 22:49:47 Time Left: 4 minutes
+20-04-04 22:50:47 Time Left: 3 minutes
+20-04-04 22:51:47 Time Left: 2 minutes
+20-04-04 22:52:47 Time Left: 1 minutes
+20-04-04 22:53:47 Next map: ctf_Hormone
+20-04-04 22:53:52 Hormone by Metsänaperot
+20-04-04 22:58:52 Time Left: 5 minutes
+20-04-04 22:59:52 Time Left: 4 minutes
+20-04-04 23:00:52 Time Left: 3 minutes
+20-04-04 23:01:52 Time Left: 2 minutes
+20-04-04 23:02:52 Time Left: 1 minutes
+20-04-04 23:03:52 Next map: ctf_Laos
+20-04-04 23:03:58 Laos
+20-04-04 23:08:58 Time Left: 5 minutes
+20-04-04 23:09:58 Time Left: 4 minutes
+20-04-04 23:10:58 Time Left: 3 minutes
+20-04-04 23:11:58 Time Left: 2 minutes
+20-04-04 23:12:58 Time Left: 1 minutes
+20-04-04 23:13:58 Next map: ctf_Laos2
+20-04-04 23:14:03 Error: Could not load map (ctf_Laos2)
+20-04-04 23:14:03 Next map: ctf_Maya
+20-04-04 23:14:08 Maya
+20-04-04 23:19:08 Time Left: 5 minutes
+20-04-04 23:20:08 Time Left: 4 minutes
+20-04-04 23:21:08 Time Left: 3 minutes
+20-04-04 23:22:08 Time Left: 2 minutes
+20-04-04 23:23:08 Time Left: 1 minutes
+20-04-04 23:24:08 Next map: ctf_MFM
+20-04-04 23:24:14 MFM 2 by mar77a
+20-04-04 23:29:14 Time Left: 5 minutes
+20-04-04 23:30:14 Time Left: 4 minutes
+20-04-04 23:31:14 Time Left: 3 minutes
+20-04-04 23:32:14 Time Left: 2 minutes
+20-04-04 23:33:14 Time Left: 1 minutes
+20-04-04 23:34:14 Next map: ctf_Run
+20-04-04 23:34:19 Run
+20-04-04 23:39:19 Time Left: 5 minutes
+20-04-04 23:40:19 Time Left: 4 minutes
+20-04-04 23:41:19 Time Left: 3 minutes
+20-04-04 23:42:19 Time Left: 2 minutes
+20-04-04 23:43:19 Time Left: 1 minutes
+20-04-04 23:44:19 Next map: ctf_OldRun
+20-04-04 23:44:24 Error: Could not load map (ctf_OldRun)
+20-04-04 23:44:24 Next map: ctf_Ash
+20-04-04 23:44:30 ctf_Ash by chakapoko maker
+20-04-04 23:49:30 Time Left: 5 minutes
+20-04-04 23:50:30 Time Left: 4 minutes
+20-04-04 23:51:30 Time Left: 3 minutes
+20-04-04 23:52:30 Time Left: 2 minutes
+20-04-04 23:53:30 Time Left: 1 minutes
+20-04-04 23:54:29 Next map: ctf_B2b
+20-04-04 23:54:35 B2B
+20-04-04 23:59:35 Time Left: 5 minutes
+20-04-05 00:00:35 Time Left: 4 minutes
+20-04-05 00:01:35 Time Left: 3 minutes
+20-04-05 00:02:35 Time Left: 2 minutes
+20-04-05 00:03:35 Time Left: 1 minutes
+20-04-05 00:03:40 191.125.42.100:10822|64CE4E88DF7 requesting game...
+20-04-05 00:03:43 LB ~ Mercy joining game (191.125.42.100:10822) HWID:64CE4E88DF7
+20-04-05 00:03:43 LB ~ Mercy has joined alpha team.
+20-04-05 00:03:55 201.241.224.61:23073|7D8F96DFFA4 requesting game...
+20-04-05 00:03:57 RtP| ShutercL joining game (201.241.224.61:23073) HWID:7D8F96DFFA4
+20-04-05 00:03:57 RtP| ShutercL has joined bravo team.
+20-04-05 00:04:00 201.241.224.61:1035|42605788715 requesting game...
+20-04-05 00:04:02 Picard joining game (201.241.224.61:1035) HWID:42605788715
+20-04-05 00:04:02 Picard has joined alpha team.
+20-04-05 00:04:06 [Picard] uta se la tire mal al porno
+20-04-05 00:04:09 LB ~ Mercy captured the Blue Flag
+20-04-05 00:04:10 [Picard] mercy le podi avisrat u?
+20-04-05 00:04:11 201.214.251.89:23073|1531581B642 requesting game...
+20-04-05 00:04:13 [LB ~ Mercy] no
+20-04-05 00:04:13 PoRnOoB joining game (201.214.251.89:23073) HWID:1531581B642
+20-04-05 00:04:13 PoRnOoB has joined as spectator.
+20-04-05 00:04:17 [PoRnOoB] un segundo ire a mear xD
+20-04-05 00:04:23 [RtP| ShutercL] !map ctf_Ash
+20-04-05 00:04:28 ctf_Ash by chakapoko maker
+20-04-05 00:04:36 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:04:45 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:04:47 Picard has left alpha team.
+20-04-05 00:04:51 190.22.11.66:23073|4C4052F23D1 requesting game...
+20-04-05 00:04:54 lT#' atheria joining game (190.22.11.66:23073) HWID:4C4052F23D1
+20-04-05 00:04:54 lT#' atheria has joined as spectator.
+20-04-05 00:04:55 201.241.224.61:1035|42605788715 requesting game...
+20-04-05 00:04:56 Picard joining game (201.241.224.61:1035) HWID:42605788715
+20-04-05 00:04:56 Picard has joined alpha team.
+20-04-05 00:04:57 186.107.57.224:23073|6BD0AA070CA requesting game...
+20-04-05 00:04:59 lT#' Dumpw joining game (186.107.57.224:23073) HWID:6BD0AA070CA
+20-04-05 00:04:59 lT#' Dumpw has joined bravo team.
+20-04-05 00:05:01 (2) RtP| ShutercL killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:05:01 lT#' Dumpw has left bravo team.
+20-04-05 00:05:04 186.107.57.224:23073|6BD0AA070CA requesting game...
+20-04-05 00:05:05 RtP| ShutercL captured the Red Flag
+20-04-05 00:05:05 lT#' Dumpw joining game (186.107.57.224:23073) HWID:6BD0AA070CA
+20-04-05 00:05:05 lT#' Dumpw has joined bravo team.
+20-04-05 00:05:09 [lT#' Dumpw] !a
+20-04-05 00:05:09 lT#' Dumpw has joined alpha team.
+20-04-05 00:05:15 (1) Picard killed (2) RtP| ShutercL with Spas-12
+20-04-05 00:05:22 lT#' Dumpw has left alpha team.
+20-04-05 00:05:23 (2) RtP| ShutercL killed (1) LB ~ Mercy with Ruger 77
+20-04-05 00:05:24 Picard returned the Red Flag
+20-04-05 00:05:29 186.107.57.224:23073|6BD0AA070CA requesting game...
+20-04-05 00:05:30 lT#' Dumpw joining game (186.107.57.224:23073) HWID:6BD0AA070CA
+20-04-05 00:05:30 lT#' Dumpw has joined alpha team.
+20-04-05 00:05:31 (2) RtP| ShutercL killed (1) Picard with Ruger 77
+20-04-05 00:05:39 (1) lT#' Dumpw killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:05:47 (2) RtP| ShutercL killed (1) Picard with Combat Knife
+20-04-05 00:05:48 (1) LB ~ Mercy killed (2) RtP| ShutercL with M79
+20-04-05 00:05:49 lT#' atheria has joined bravo team.
+20-04-05 00:05:55 (2) RtP| ShutercL killed (1) Picard with Spas-12
+20-04-05 00:05:55 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:05:57 [lT#' Dumpw] !b
+20-04-05 00:05:57 lT#' Dumpw has joined bravo team.
+20-04-05 00:05:59 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:06:01 LB ~ Mercy captured the Blue Flag
+20-04-05 00:06:02 [lT#' Dumpw] :C
+20-04-05 00:06:05 lT#' atheria captured the Red Flag
+20-04-05 00:06:11 (1) LB ~ Mercy killed (2) lT#' atheria with M79
+20-04-05 00:06:12 (2) RtP| ShutercL killed (1) LB ~ Mercy with Spas-12
+20-04-05 00:06:14 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:06:15 RtP| ShutercL returned the Blue Flag
+20-04-05 00:06:18 RtP| ShutercL captured the Red Flag
+20-04-05 00:06:20 lT#' Dumpw captured the Red Flag
+20-04-05 00:06:26 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:06:28 RtP| ShutercL captured the Red Flag
+20-04-05 00:06:33 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:06:34 RtP| ShutercL scores for Bravo Team
+20-04-05 00:06:34 lT#' atheria captured the Red Flag
+20-04-05 00:06:36 (2) RtP| ShutercL killed (1) Picard with Combat Knife
+20-04-05 00:06:37 [PoRnOoB] ready
+20-04-05 00:06:38 (1) LB ~ Mercy killed (2) RtP| ShutercL with USSOCOM
+20-04-05 00:06:41 [Picard] entra rojo
+20-04-05 00:06:45 (2) RtP| ShutercL killed (1) LB ~ Mercy with Spas-12
+20-04-05 00:06:45 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:06:46 [PoRnOoB] !a
+20-04-05 00:06:46 PoRnOoB has joined alpha team.
+20-04-05 00:06:49 [Picard] go?
+20-04-05 00:06:50 (2) RtP| ShutercL killed (1) Picard with Spas-12
+20-04-05 00:06:54 (1) Picard killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:06:56 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:06:58 Picard returned the Red Flag
+20-04-05 00:06:59 [lT#' Dumpw] d
+20-04-05 00:07:02 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:07:03 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:07:05 [RtP| ShutercL] asi los teams?
+20-04-05 00:07:06 [RtP| ShutercL] !r
+20-04-05 00:07:06 Reiniciando...
+20-04-05 00:07:06 [RtP| ShutercL] tgo
+20-04-05 00:07:11 ctf_Ash by chakapoko maker
+20-04-05 00:07:19 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:07:20 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:07:27 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:07:29 RtP| ShutercL captured the Red Flag
+20-04-05 00:07:32 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:07:33 (1) LB ~ Mercy killed (2) RtP| ShutercL with USSOCOM
+20-04-05 00:07:36 Picard returned the Red Flag
+20-04-05 00:07:38 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:07:43 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:07:47 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:07:52 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:07:53 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:07:53 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:07:54 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:07:54 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:07:56 LB ~ Mercy captured the Blue Flag
+20-04-05 00:08:02 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:08:03 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:08:04 Picard captured the Blue Flag
+20-04-05 00:08:08 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:08:10 LB ~ Mercy captured the Blue Flag
+20-04-05 00:08:10 lT#' Dumpw captured the Red Flag
+20-04-05 00:08:10 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:08:11 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:08:12 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:08:14 lT#' atheria returned the Blue Flag
+20-04-05 00:08:15 lT#' atheria captured the Red Flag
+20-04-05 00:08:15 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:08:15 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:08:17 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:08:18 (RADIO)[Picard] Enemy flagger up!
+20-04-05 00:08:18 (RADIO)[PoRnOoB] Enemy spotted up!
+20-04-05 00:08:22 RtP| ShutercL captured the Red Flag
+20-04-05 00:08:22 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:08:29 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:08:29 RtP| ShutercL scores for Bravo Team
+20-04-05 00:08:30 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:08:33 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:08:35 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:08:41 Picard captured the Blue Flag
+20-04-05 00:08:41 (1) LB ~ Mercy killed (2) RtP| ShutercL with M79
+20-04-05 00:08:43 (1) LB ~ Mercy killed (2) lT#' atheria with USSOCOM
+20-04-05 00:08:43 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:08:43 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:08:46 (TEAM)[lT#' Dumpw] Arriba ESCAPA
+20-04-05 00:08:50 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:08:50 RtP| ShutercL returned the Blue Flag
+20-04-05 00:08:54 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:08:55 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:08:58 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:09:00 (1) Picard killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:09:00 lT#' atheria captured the Red Flag
+20-04-05 00:09:01 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:09:02 (RADIO)[Picard] Enemy flagger down!
+20-04-05 00:09:03 (RADIO)[Picard] Enemy flagger down!
+20-04-05 00:09:03 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:09:07 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:09:10 RtP| ShutercL captured the Red Flag
+20-04-05 00:09:12 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:09:13 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:09:14 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:09:20 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:09:25 (2) RtP| ShutercL killed (1) Picard with Combat Knife
+20-04-05 00:09:25 LB ~ Mercy returned the Red Flag
+20-04-05 00:09:25 lT#' atheria captured the Red Flag
+20-04-05 00:09:26 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:09:26 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:09:30 [RtP| ShutercL] I ain't got time to bleed!
+20-04-05 00:09:31 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:09:31 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:09:32 (RADIO)[Picard] Enemy flagger up!
+20-04-05 00:09:32 PoRnOoB captured the Blue Flag
+20-04-05 00:09:35 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:09:35 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:09:36 (2) RtP| ShutercL killed (1) LB ~ Mercy with Combat Knife
+20-04-05 00:09:39 lT#' atheria returned the Blue Flag
+20-04-05 00:09:41 (2) lT#' Dumpw killed (1) Picard with LAW
+20-04-05 00:09:42 Picard is flooding the server
+20-04-05 00:09:43 lT#' atheria scores for Bravo Team
+20-04-05 00:09:44 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:09:45 (TEAM)[lT#' Dumpw] Suelta por ARRIBA
+20-04-05 00:09:46 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:09:46 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:09:50 PoRnOoB captured the Blue Flag
+20-04-05 00:09:52 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:09:53 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:09:56 (TEAM)[lT#' Dumpw] Medio ESCAPA
+20-04-05 00:09:58 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:10:02 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:10:03 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:10:05 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:10:06 (1) Picard killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:10:08 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:10:11 PoRnOoB scores for Alpha Team
+20-04-05 00:10:16 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:10:21 (1) LB ~ Mercy killed (2) RtP| ShutercL with M79
+20-04-05 00:10:21 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:10:22 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:10:27 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:10:29 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:10:32 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:10:34 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:10:35 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:10:35 PoRnOoB captured the Blue Flag
+20-04-05 00:10:37 (TEAM)[lT#' Dumpw] Abajo ESCAPA
+20-04-05 00:10:40 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:10:40 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:10:41 RtP| ShutercL captured the Red Flag
+20-04-05 00:10:41 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:10:45 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:10:46 PoRnOoB scores for Alpha Team
+20-04-05 00:10:49 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:10:55 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:10:56 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:10:56 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:10:56 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:11:01 (2) RtP| ShutercL killed (1) Picard with Grenade
+20-04-05 00:11:03 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:11:05 (RADIO)[RtP| ShutercL] Enemy spotted up!
+20-04-05 00:11:07 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:11:09 (1) PoRnOoB killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:11:13 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:11:17 PoRnOoB captured the Blue Flag
+20-04-05 00:11:18 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:11:22 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:11:24 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:11:26 lT#' Dumpw captured the Red Flag
+20-04-05 00:11:27 Picard captured the Blue Flag
+20-04-05 00:11:27 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:11:29 (RADIO)[RtP| ShutercL] Enemy flagger middle!
+20-04-05 00:11:30 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:11:35 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:11:38 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:11:38 RtP| ShutercL returned the Blue Flag
+20-04-05 00:11:40 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:11:45 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:11:48 (TEAM)[RtP| ShutercL] ?
+20-04-05 00:11:49 (TEAM)[RtP| ShutercL] flag
+20-04-05 00:11:49 Picard captured the Blue Flag
+20-04-05 00:11:52 (1) LB ~ Mercy killed (2) lT#' atheria with M79
+20-04-05 00:11:53 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:11:54 (RADIO)[RtP| ShutercL] Enemy spotted down!
+20-04-05 00:11:55 (RADIO)[PoRnOoB] Enemy flagger middle!
+20-04-05 00:12:00 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:12:00 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:12:03 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:12:11 Time Left: 5 minutes
+20-04-05 00:12:11 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:12:17 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:12:17 (2) RtP| ShutercL killed (1) Picard with Grenade
+20-04-05 00:12:22 RtP| ShutercL returned the Blue Flag
+20-04-05 00:12:27 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:12:30 LB ~ Mercy returned the Red Flag
+20-04-05 00:12:30 lT#' atheria captured the Red Flag
+20-04-05 00:12:32 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:12:33 LB ~ Mercy captured the Blue Flag
+20-04-05 00:12:34 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:12:34 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:12:35 Picard returned the Red Flag
+20-04-05 00:12:39 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:12:40 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:12:41 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:12:44 LB ~ Mercy scores for Alpha Team
+20-04-05 00:12:45 Picard captured the Blue Flag
+20-04-05 00:12:47 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:12:49 (1) LB ~ Mercy killed (2) RtP| ShutercL with M79
+20-04-05 00:12:50 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:12:53 PoRnOoB captured the Blue Flag
+20-04-05 00:12:56 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:12:57 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:12:58 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:13:02 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:13:06 (2) RtP| ShutercL killed (1) LB ~ Mercy with Combat Knife
+20-04-05 00:13:11 Time Left: 4 minutes
+20-04-05 00:13:13 lT#' Dumpw captured the Red Flag
+20-04-05 00:13:17 PoRnOoB captured the Blue Flag
+20-04-05 00:13:20 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:13:20 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:13:21 (1) LB ~ Mercy killed (2) lT#' atheria with M79
+20-04-05 00:13:21 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:13:23 lT#' Dumpw returned the Blue Flag
+20-04-05 00:13:27 lT#' Dumpw scores for Bravo Team
+20-04-05 00:13:28 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:13:30 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:13:32 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:13:33 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:13:36 (RADIO)[Picard] Enemy spotted down!
+20-04-05 00:13:37 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:13:37 (RADIO)[Picard] Enemy spotted down!
+20-04-05 00:13:40 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:13:42 RtP| ShutercL captured the Red Flag
+20-04-05 00:13:44 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:13:44 PoRnOoB returned the Red Flag
+20-04-05 00:13:47 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:13:50 LB ~ Mercy captured the Blue Flag
+20-04-05 00:13:54 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:13:55 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:13:56 lT#' Dumpw returned the Blue Flag
+20-04-05 00:13:56 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:13:59 (TEAM)[lT#' Dumpw] Vienen por ABAJO
+20-04-05 00:13:59 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:14:01 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:14:02 (TEAM)[RtP| ShutercL] 2
+20-04-05 00:14:02 Picard captured the Blue Flag
+20-04-05 00:14:03 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:14:08 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:14:08 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:14:10 (1) LB ~ Mercy killed (2) lT#' Dumpw with USSOCOM
+20-04-05 00:14:10 LB ~ Mercy captured the Blue Flag
+20-04-05 00:14:11 Time Left: 3 minutes
+20-04-05 00:14:11 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:14:12 RtP| ShutercL captured the Red Flag
+20-04-05 00:14:13 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:14:14 Picard captured the Blue Flag
+20-04-05 00:14:18 (2) RtP| ShutercL killed (1) Picard with Combat Knife
+20-04-05 00:14:20 LB ~ Mercy returned the Red Flag
+20-04-05 00:14:24 RtP| ShutercL returned the Blue Flag
+20-04-05 00:14:25 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:14:25 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:14:26 [RtP| ShutercL] xd
+20-04-05 00:14:26 PoRnOoB captured the Blue Flag
+20-04-05 00:14:28 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:14:31 (1) PoRnOoB killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:14:32 lT#' Dumpw captured the Red Flag
+20-04-05 00:14:33 (RADIO)[RtP| ShutercL] Enemy flagger up!
+20-04-05 00:14:34 (TEAM)[RtP| ShutercL] low
+20-04-05 00:14:36 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:14:37 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:14:37 lT#' atheria returned the Blue Flag
+20-04-05 00:14:39 LB ~ Mercy returned the Red Flag
+20-04-05 00:14:41 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:14:43 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:14:45 RtP| ShutercL captured the Red Flag
+20-04-05 00:14:45 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:14:47 Picard captured the Blue Flag
+20-04-05 00:14:48 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:14:50 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:14:53 lT#' Dumpw returned the Blue Flag
+20-04-05 00:14:57 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:14:58 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:14:59 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:15:00 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:15:02 RtP| ShutercL captured the Red Flag
+20-04-05 00:15:05 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:15:07 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:15:09 Picard captured the Blue Flag
+20-04-05 00:15:09 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:15:11 Time Left: 2 minutes
+20-04-05 00:15:11 RtP| ShutercL scores for Bravo Team
+20-04-05 00:15:12 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:15:14 (1) LB ~ Mercy killed (2) lT#' Dumpw with M79
+20-04-05 00:15:14 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:15:18 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:15:21 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:15:24 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:15:29 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:15:29 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:15:36 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:15:39 RtP| ShutercL captured the Red Flag
+20-04-05 00:15:41 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:15:41 Picard captured the Blue Flag
+20-04-05 00:15:43 (RADIO)[PoRnOoB] Enemy flagger up!
+20-04-05 00:15:43 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:15:48 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:15:54 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:15:55 (1) LB ~ Mercy killed (2) lT#' atheria with M79
+20-04-05 00:15:57 PoRnOoB captured the Blue Flag
+20-04-05 00:15:58 Picard returned the Red Flag
+20-04-05 00:16:00 lT#' Dumpw captured the Red Flag
+20-04-05 00:16:00 (1) LB ~ Mercy killed (2) lT#' atheria with M79
+20-04-05 00:16:05 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:16:07 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:16:08 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:16:09 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:16:11 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:16:11 Time Left: 1 minutes
+20-04-05 00:16:16 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:16:20 lT#' atheria returned the Blue Flag
+20-04-05 00:16:24 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:16:25 lT#' Dumpw scores for Bravo Team
+20-04-05 00:16:25 RtP| ShutercL captured the Red Flag
+20-04-05 00:16:28 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:16:29 PoRnOoB captured the Blue Flag
+20-04-05 00:16:32 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:16:33 (TEAM)[lT#' Dumpw] Arriba ESCAPA
+20-04-05 00:16:33 [lT#' Dumpw] Come'on!
+20-04-05 00:16:35 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:16:36 RtP| ShutercL returned the Blue Flag
+20-04-05 00:16:37 (1) LB ~ Mercy killed (2) RtP| ShutercL with M79
+20-04-05 00:16:41 Picard returned the Red Flag
+20-04-05 00:16:44 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:16:44 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:16:48 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:16:48 RtP| ShutercL captured the Red Flag
+20-04-05 00:16:50 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:16:51 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:16:56 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:16:59 RtP| ShutercL scores for Bravo Team
+20-04-05 00:17:03 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:17:03 179.35.220.139:23073|2A1DDD14514 requesting game...
+20-04-05 00:17:09 (2) RtP| ShutercL killed (1) PoRnOoB with Combat Knife
+20-04-05 00:17:11 Next map: ctf_Blade
+20-04-05 00:17:16 Blade by Zakath
+20-04-05 00:17:20 (TEAM)[RtP| ShutercL] q mapa
+20-04-05 00:17:25 (TEAM)[lT#' Dumpw] corto
+20-04-05 00:17:27 (2) RtP| ShutercL killed (1) PoRnOoB with Combat Knife
+20-04-05 00:17:28 RtP| ShutercL captured the Red Flag
+20-04-05 00:17:31 Picard captured the Blue Flag
+20-04-05 00:17:31 (TEAM)[RtP| ShutercL] royen
+20-04-05 00:17:33 (TEAM)[RtP| ShutercL] roten me gusta
+20-04-05 00:17:33 (TEAM)[lT#' Dumpw] si
+20-04-05 00:17:33 (1) Picard killed (2) lT#' atheria with Spas-12
+20-04-05 00:17:33 [PoRnOoB] ahi see
+20-04-05 00:17:38 [PoRnOoB] me dio un lagon el cambio de mapa
+20-04-05 00:17:39 [PoRnOoB] sorry
+20-04-05 00:17:39 (2) RtP| ShutercL killed (1) LB ~ Mercy with Ruger 77
+20-04-05 00:17:40 (1) Picard killed (2) RtP| ShutercL with Spas-12
+20-04-05 00:17:44 LB ~ Mercy captured the Blue Flag
+20-04-05 00:17:44 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:17:46 [lT#' atheria] !map ctf_Rotten
+20-04-05 00:17:47 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:17:49 [PoRnOoB] gracias
+20-04-05 00:17:51 Rotten by Biggles
+20-04-05 00:17:56 [lT#' Dumpw] !r
+20-04-05 00:17:56 Reiniciando...
+20-04-05 00:18:01 Rotten by Biggles
+20-04-05 00:18:10 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:18:10 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:18:11 PoRnOoB captured the Blue Flag
+20-04-05 00:18:12 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:18:12 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:18:13 (TEAM)[lT#' Dumpw] Arriba ESCAPA
+20-04-05 00:18:14 (RADIO)[RtP| ShutercL] Enemy flagger up!
+20-04-05 00:18:16 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:18:19 PoRnOoB scores for Alpha Team
+20-04-05 00:18:21 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:18:21 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:18:26 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:18:26 lT#' Dumpw captured the Red Flag
+20-04-05 00:18:29 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:18:30 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:18:34 (1) PoRnOoB killed (2) RtP| ShutercL with Grenade
+20-04-05 00:18:35 (RADIO)[RtP| ShutercL] Enemy spotted up!
+20-04-05 00:18:38 (2) lT#' atheria killed (1) LB ~ Mercy with Grenade
+20-04-05 00:18:39 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:18:44 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:18:45 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:18:46 Picard captured the Blue Flag
+20-04-05 00:18:47 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:18:48 lT#' atheria returned the Blue Flag
+20-04-05 00:18:49 RtP| ShutercL captured the Red Flag
+20-04-05 00:18:49 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:18:49 (RADIO)[PoRnOoB] Enemy flagger down!
+20-04-05 00:18:52 (RADIO)[PoRnOoB] Enemy flagger up!
+20-04-05 00:18:56 RtP| ShutercL scores for Bravo Team
+20-04-05 00:18:56 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:18:59 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:19:00 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:19:04 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:19:05 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:19:13 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:19:16 Picard captured the Blue Flag
+20-04-05 00:19:16 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:19:16 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:19:19 (TEAM)[lT#' Dumpw] Medio ESCAPA
+20-04-05 00:19:19 (1) PoRnOoB killed (2) RtP| ShutercL with Grenade
+20-04-05 00:19:19 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:19:22 (RADIO)[RtP| ShutercL] Enemy flagger middle!
+20-04-05 00:19:23 Picard scores for Alpha Team
+20-04-05 00:19:26 (1) PoRnOoB killed (2) lT#' atheria with Grenade
+20-04-05 00:19:28 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:19:28 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:19:30 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:19:32 (RADIO)[PoRnOoB] Enemy flagger middle!
+20-04-05 00:19:36 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:19:37 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:19:40 Picard captured the Blue Flag
+20-04-05 00:19:41 (1) PoRnOoB killed (2) RtP| ShutercL with Hands
+20-04-05 00:19:46 Picard scores for Alpha Team
+20-04-05 00:19:48 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:19:49 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:19:50 lT#' Dumpw captured the Red Flag
+20-04-05 00:19:51 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:19:52 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:19:54 Picard returned the Red Flag
+20-04-05 00:19:59 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:20:01 (1) PoRnOoB killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:20:02 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:20:05 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:20:06 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:20:09 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:20:10 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:20:12 (RADIO)[PoRnOoB] Enemy spotted up!
+20-04-05 00:20:14 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:20:16 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:20:16 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:20:23 201.215.222.72:23073|7B52EDC1E7B requesting game...
+20-04-05 00:20:23 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:20:28 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:20:29 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:20:30 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:20:30 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:20:30 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:20:35 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:20:41 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:20:41 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:20:45 (2) RtP| ShutercL killed (1) LB ~ Mercy with Barrett M82A1
+20-04-05 00:20:49 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:20:50 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:20:54 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:20:55 lT#' atheria captured the Red Flag
+20-04-05 00:20:55 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:20:57 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:20:58 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:21:00 PoRnOoB captured the Blue Flag
+20-04-05 00:21:05 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:21:08 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:21:09 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:21:13 lT#' Dumpw captured the Red Flag
+20-04-05 00:21:13 (1) PoRnOoB killed (2) lT#' Dumpw with Grenade
+20-04-05 00:21:13 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:21:14 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:21:16 LB ~ Mercy returned the Red Flag
+20-04-05 00:21:16 LB ~ Mercy captured the Blue Flag
+20-04-05 00:21:16 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:21:17 lT#' atheria captured the Red Flag
+20-04-05 00:21:17 lT#' atheria returned the Blue Flag
+20-04-05 00:21:19 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:21:19 (2) lT#' atheria killed (1) Picard with Combat Knife
+20-04-05 00:21:22 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:21:22 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:21:24 LB ~ Mercy returned the Red Flag
+20-04-05 00:21:28 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:21:30 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:21:31 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:21:32 lT#' atheria captured the Red Flag
+20-04-05 00:21:33 (RADIO)[PoRnOoB] Enemy flagger up!
+20-04-05 00:21:38 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:21:38 (2) lT#' atheria killed (1) LB ~ Mercy with Grenade
+20-04-05 00:21:41 RtP| ShutercL captured the Red Flag
+20-04-05 00:21:41 RtP| ShutercL scores for Bravo Team
+20-04-05 00:21:43 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:21:44 PoRnOoB captured the Blue Flag
+20-04-05 00:21:48 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:21:53 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:21:53 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:21:54 RtP| ShutercL captured the Red Flag
+20-04-05 00:21:55 LB ~ Mercy captured the Blue Flag
+20-04-05 00:21:57 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:22:00 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:22:02 PoRnOoB returned the Red Flag
+20-04-05 00:22:05 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:22:05 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:22:07 lT#' atheria returned the Blue Flag
+20-04-05 00:22:07 PoRnOoB captured the Blue Flag
+20-04-05 00:22:07 lT#' atheria captured the Red Flag
+20-04-05 00:22:08 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:22:12 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:22:15 (2) RtP| ShutercL killed (1) Picard with Barrett M82A1
+20-04-05 00:22:16 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:22:17 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:22:18 (TEAM)[lT#' Dumpw] Suelta por MEDIO
+20-04-05 00:22:20 PoRnOoB captured the Blue Flag
+20-04-05 00:22:20 RtP| ShutercL captured the Red Flag
+20-04-05 00:22:22 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:22:23 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:22:25 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:22:26 lT#' Dumpw captured the Red Flag
+20-04-05 00:22:27 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:22:27 lT#' atheria returned the Blue Flag
+20-04-05 00:22:28 200.120.34.243:23073|51AADE99D6F requesting game...
+20-04-05 00:22:30 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:22:31 (2) RtP| ShutercL killed (1) PoRnOoB with Barrett M82A1
+20-04-05 00:22:31 lT#' Dumpw scores for Bravo Team
+20-04-05 00:22:32 PWR|URANIO 235 joining game (200.120.34.243:23073) HWID:51AADE99D6F
+20-04-05 00:22:32 PWR|URANIO 235 has joined bravo team.
+20-04-05 00:22:35 [Picard] !p
+20-04-05 00:22:35 Pausando...
+20-04-05 00:22:37 [PWR|URANIO 235] !map ctf_ash
+20-04-05 00:22:38 [Picard] !p
+20-04-05 00:22:38 Pausando...
+20-04-05 00:22:39 [RtP| ShutercL] !p
+20-04-05 00:22:39 Pausado!
+20-04-05 00:22:40 PWR|URANIO 235 has left bravo team.
+20-04-05 00:22:42 [Picard] !pass 123
+20-04-05 00:22:44 [Picard] !sp
+20-04-05 00:22:44 [RtP| ShutercL] !pass
+20-04-05 00:22:44 [lT#' atheria] jajaj
+20-04-05 00:22:46 [Picard] !password
+20-04-05 00:22:47 [Picard] !up
+20-04-05 00:22:47 Despausando en: 3
+20-04-05 00:22:48 Despausando en: 2
+20-04-05 00:22:49 Despausando en: 1
+20-04-05 00:22:49 [PoRnOoB] que fue eso xD
+20-04-05 00:22:50 Go!
+20-04-05 00:22:53 LB ~ Mercy has left alpha team.
+20-04-05 00:22:54 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:22:56 (RADIO)[RtP| ShutercL] Enemy spotted down!
+20-04-05 00:22:57 191.125.42.100:10822|64CE4E88DF7 requesting game...
+20-04-05 00:22:57 lT#' atheria captured the Red Flag
+20-04-05 00:22:58 PoRnOoB captured the Blue Flag
+20-04-05 00:22:58 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:23:00 LB ~ Mercy joining game (191.125.42.100:10822) HWID:64CE4E88DF7
+20-04-05 00:23:00 LB ~ Mercy has joined alpha team.
+20-04-05 00:23:02 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:23:07 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:23:09 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:23:10 [RtP| ShutercL] adsjadsjdas
+20-04-05 00:23:11 LB ~ Mercy returned the Red Flag
+20-04-05 00:23:12 PoRnOoB scores for Alpha Team
+20-04-05 00:23:13 (2) lT#' atheria killed (1) LB ~ Mercy with Grenade
+20-04-05 00:23:14 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:23:14 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:23:15 Time Left: 5 minutes
+20-04-05 00:23:16 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:23:20 RtP| ShutercL captured the Red Flag
+20-04-05 00:23:21 (1) PoRnOoB killed (2) RtP| ShutercL with Grenade
+20-04-05 00:23:22 Picard returned the Red Flag
+20-04-05 00:23:22 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:23:24 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:23:25 (TEAM)[lT#' Dumpw] Suelta por ABAJO
+20-04-05 00:23:26 (TEAM)[lT#' Dumpw] Vienen por ABAJO
+20-04-05 00:23:27 (2) lT#' atheria killed (1) LB ~ Mercy with Combat Knife
+20-04-05 00:23:28 (1) PoRnOoB killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:23:29 lT#' atheria captured the Red Flag
+20-04-05 00:23:29 PoRnOoB captured the Blue Flag
+20-04-05 00:23:32 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:23:33 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:23:33 PoRnOoB returned the Red Flag
+20-04-05 00:23:37 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:23:40 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:23:40 lT#' Dumpw returned the Blue Flag
+20-04-05 00:23:41 lT#' Dumpw captured the Red Flag
+20-04-05 00:23:42 LB ~ Mercy captured the Blue Flag
+20-04-05 00:23:43 RtP| ShutercL captured the Red Flag
+20-04-05 00:23:45 (1) Picard killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:23:46 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:23:51 190.164.115.236:23073|3615321AA75 requesting game...
+20-04-05 00:23:52 (1) PoRnOoB killed (2) lT#' atheria with HK MP5
+20-04-05 00:23:58 lT#' Dumpw returned the Blue Flag
+20-04-05 00:23:58 LB ~ Mercy captured the Blue Flag
+20-04-05 00:23:58 (2) lT#' Dumpw killed (1) Picard with LAW
+20-04-05 00:24:02 (1) PoRnOoB killed (2) lT#' atheria with HK MP5
+20-04-05 00:24:03 lT#' Dumpw captured the Red Flag
+20-04-05 00:24:06 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:24:07 RtP| ShutercL returned the Blue Flag
+20-04-05 00:24:07 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:24:07 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:24:12 LB ~ Mercy returned the Red Flag
+20-04-05 00:24:12 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:24:15 Time Left: 4 minutes
+20-04-05 00:24:15 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:24:18 lT#' Dumpw captured the Red Flag
+20-04-05 00:24:20 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:24:20 PoRnOoB captured the Blue Flag
+20-04-05 00:24:25 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:24:28 (TEAM)[lT#' Dumpw] Suelta por ARRIBA
+20-04-05 00:24:28 Picard captured the Blue Flag
+20-04-05 00:24:31 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:24:35 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:24:38 PoRnOoB returned the Red Flag
+20-04-05 00:24:40 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:24:41 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:24:42 RtP| ShutercL returned the Blue Flag
+20-04-05 00:24:42 LB ~ Mercy captured the Blue Flag
+20-04-05 00:24:42 lT#' atheria captured the Red Flag
+20-04-05 00:24:48 lT#' atheria returned the Blue Flag
+20-04-05 00:24:48 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:24:50 lT#' atheria scores for Bravo Team
+20-04-05 00:24:50 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:24:51 RtP| ShutercL captured the Red Flag
+20-04-05 00:24:53 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:24:56 PoRnOoB captured the Blue Flag
+20-04-05 00:24:59 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:25:00 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:25:01 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:25:02 lT#' atheria returned the Blue Flag
+20-04-05 00:25:03 Picard captured the Blue Flag
+20-04-05 00:25:07 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:25:09 (RADIO)[PoRnOoB] Enemy spotted down!
+20-04-05 00:25:14 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:25:14 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:25:15 Time Left: 3 minutes
+20-04-05 00:25:17 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:25:18 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:25:23 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:25:25 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:25:25 LB ~ Mercy returned the Red Flag
+20-04-05 00:25:25 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:25:27 Picard scores for Alpha Team
+20-04-05 00:25:30 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:25:33 PoRnOoB captured the Blue Flag
+20-04-05 00:25:35 (1) PoRnOoB killed (2) RtP| ShutercL with Grenade
+20-04-05 00:25:36 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:25:37 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:25:38 lT#' atheria captured the Red Flag
+20-04-05 00:25:40 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:25:42 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:25:43 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:25:43 200.120.34.243:23073|51AADE99D6F requesting game...
+20-04-05 00:25:43 lT#' atheria returned the Blue Flag
+20-04-05 00:25:45 PWR|URANIO 235 joining game (200.120.34.243:23073) HWID:51AADE99D6F
+20-04-05 00:25:45 PWR|URANIO 235 has joined bravo team.
+20-04-05 00:25:46 lT#' atheria scores for Bravo Team
+20-04-05 00:25:46 [PoRnOoB] puta avisen xD
+20-04-05 00:25:48 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:25:49 [PWR|URANIO 235] !map ctf_ash
+20-04-05 00:25:50 [Picard] !p
+20-04-05 00:25:50 Pausando...
+20-04-05 00:25:51 [RtP| ShutercL] !p
+20-04-05 00:25:51 Pausado!
+20-04-05 00:25:51 PWR|URANIO 235 has left bravo team.
+20-04-05 00:25:51 [lT#' atheria] !P
+20-04-05 00:25:51 Pausado!
+20-04-05 00:25:53 [Picard] !sp
+20-04-05 00:25:55 [Picard] !password 123
+20-04-05 00:25:57 [Picard] !pass 123
+20-04-05 00:26:00 [Picard] !up
+20-04-05 00:26:00 Despausando en: 3
+20-04-05 00:26:00 [lT#' atheria] !cmd
+20-04-05 00:26:01 Despausando en: 2
+20-04-05 00:26:01 [Picard] el weon chato xd
+20-04-05 00:26:02 Despausando en: 1
+20-04-05 00:26:03 Go!
+20-04-05 00:26:04 [lT#' Dumpw] !pws
+20-04-05 00:26:06 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:26:08 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:26:09 PoRnOoB captured the Blue Flag
+20-04-05 00:26:12 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:26:13 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:26:15 [RtP| ShutercL] ajjadsjs
+20-04-05 00:26:19 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:26:23 RtP| ShutercL returned the Blue Flag
+20-04-05 00:26:24 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:26:24 PoRnOoB captured the Blue Flag
+20-04-05 00:26:25 (1) LB ~ Mercy killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:26:26 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:26:27 lT#' Dumpw returned the Blue Flag
+20-04-05 00:26:28 Time Left: 2 minutes
+20-04-05 00:26:31 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:26:34 Picard captured the Blue Flag
+20-04-05 00:26:38 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:26:39 lT#' atheria captured the Red Flag
+20-04-05 00:26:40 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:26:43 RtP| ShutercL returned the Blue Flag
+20-04-05 00:26:43 LB ~ Mercy returned the Red Flag
+20-04-05 00:26:44 lT#' Dumpw captured the Red Flag
+20-04-05 00:26:45 PoRnOoB captured the Blue Flag
+20-04-05 00:26:46 (1) LB ~ Mercy killed (2) lT#' Dumpw with Grenade
+20-04-05 00:26:47 LB ~ Mercy returned the Red Flag
+20-04-05 00:26:49 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:26:53 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:26:53 RtP| ShutercL captured the Red Flag
+20-04-05 00:26:54 lT#' atheria returned the Blue Flag
+20-04-05 00:26:55 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:26:55 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:26:59 RtP| ShutercL scores for Bravo Team
+20-04-05 00:27:01 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:27:02 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:27:03 (TEAM)[lT#' Dumpw] Vienen por ARRIBA
+20-04-05 00:27:04 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:27:05 LB ~ Mercy captured the Blue Flag
+20-04-05 00:27:09 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:27:10 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:27:10 (RADIO)[RtP| ShutercL] Enemy flagger middle!
+20-04-05 00:27:11 (1) PoRnOoB killed (2) lT#' atheria with Grenade
+20-04-05 00:27:13 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:27:15 Picard captured the Blue Flag
+20-04-05 00:27:17 Picard scores for Alpha Team
+20-04-05 00:27:17 (TEAM)[lT#' Dumpw] Vienen por ARRIBA
+20-04-05 00:27:18 (2) RtP| ShutercL killed (1) Picard with LAW
+20-04-05 00:27:20 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:27:21 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:27:22 RtP| ShutercL captured the Red Flag
+20-04-05 00:27:24 (2) lT#' atheria killed (1) Picard with Combat Knife
+20-04-05 00:27:26 (RADIO)[Picard] Enemy flagger up!
+20-04-05 00:27:26 RtP| ShutercL captured the Red Flag
+20-04-05 00:27:26 (RADIO)[Picard] Enemy flagger up!
+20-04-05 00:27:28 Time Left: 1 minutes
+20-04-05 00:27:29 LB ~ Mercy captured the Blue Flag
+20-04-05 00:27:30 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:27:31 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:27:33 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:27:33 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:27:34 (TEAM)[lT#' Dumpw] Suelta por MEDIO
+20-04-05 00:27:35 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:27:36 lT#' atheria captured the Red Flag
+20-04-05 00:27:39 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:27:40 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:27:40 Picard returned the Red Flag
+20-04-05 00:27:41 LB ~ Mercy captured the Blue Flag
+20-04-05 00:27:43 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:27:46 (2) RtP| ShutercL killed (1) PoRnOoB with LAW
+20-04-05 00:27:49 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:27:49 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:27:51 lT#' Dumpw captured the Red Flag
+20-04-05 00:27:51 Picard captured the Blue Flag
+20-04-05 00:27:53 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:27:54 PoRnOoB returned the Red Flag
+20-04-05 00:27:55 Picard scores for Alpha Team
+20-04-05 00:27:56 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:27:58 (1) Picard killed (2) lT#' atheria with Combat Knife
+20-04-05 00:28:01 Picard captured the Blue Flag
+20-04-05 00:28:02 lT#' Dumpw captured the Red Flag
+20-04-05 00:28:04 (2) lT#' atheria killed (1) Picard with FN Minimi
+20-04-05 00:28:04 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:28:07 PoRnOoB returned the Red Flag
+20-04-05 00:28:10 (2) lT#' atheria killed (1) LB ~ Mercy with FN Minimi
+20-04-05 00:28:11 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:28:11 (1) PoRnOoB killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:28:12 (2) lT#' atheria killed (1) Picard with Combat Knife
+20-04-05 00:28:12 lT#' atheria captured the Red Flag
+20-04-05 00:28:22 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:28:22 (2) RtP| ShutercL killed (1) Picard with LAW
+20-04-05 00:28:26 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:28:28 Next map: ctf_Viet
+20-04-05 00:28:30 [RtP| ShutercL] ohh ctm
+20-04-05 00:28:32 [lT#' Dumpw] tasdjasd
+20-04-05 00:28:33 Viet
+20-04-05 00:28:34 [Picard] !map ctf_Guardian
+20-04-05 00:28:37 [RtP| ShutercL] q paja ql
+20-04-05 00:28:38 [lT#' atheria] XD
+20-04-05 00:28:40 ctf_Guardian by SuoW
+20-04-05 00:28:46 (2) lT#' atheria killed (1) PoRnOoB with FN Minimi
+20-04-05 00:28:47 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:28:48 [LB ~ Mercy] !r
+20-04-05 00:28:48 Reiniciando...
+20-04-05 00:28:53 [RtP| ShutercL] mapa de oro
+20-04-05 00:28:53 ctf_Guardian by SuoW
+20-04-05 00:28:59 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:29:01 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:29:03 (1) PoRnOoB killed (2) RtP| ShutercL with M79
+20-04-05 00:29:04 (RADIO)[RtP| ShutercL] Enemy spotted middle!
+20-04-05 00:29:04 lT#' atheria captured the Red Flag
+20-04-05 00:29:06 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:29:07 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:29:08 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:29:12 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:29:13 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:29:16 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:29:19 PoRnOoB captured the Blue Flag
+20-04-05 00:29:20 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:29:23 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:29:27 (1) Picard killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:29:28 (1) PoRnOoB killed (2) lT#' atheria with M79
+20-04-05 00:29:28 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:29:33 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:29:35 PoRnOoB scores for Alpha Team
+20-04-05 00:29:39 (1) LB ~ Mercy killed (2) lT#' atheria with Grenade
+20-04-05 00:29:40 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:29:41 (2) lT#' Dumpw killed (1) Picard with Flamer
+20-04-05 00:29:44 PoRnOoB captured the Blue Flag
+20-04-05 00:29:45 RtP| ShutercL captured the Red Flag
+20-04-05 00:29:49 (1) LB ~ Mercy killed (2) lT#' Dumpw with LAW
+20-04-05 00:29:50 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:29:57 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:29:59 (1) PoRnOoB killed (2) lT#' atheria with Flamer
+20-04-05 00:30:02 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:30:03 (1) Picard killed (2) RtP| ShutercL with Ruger 77
+20-04-05 00:30:06 Picard returned the Red Flag
+20-04-05 00:30:08 lT#' atheria captured the Red Flag
+20-04-05 00:30:09 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:30:10 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:30:12 lT#' Dumpw returned the Blue Flag
+20-04-05 00:30:16 Picard captured the Blue Flag
+20-04-05 00:30:21 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:30:23 LB ~ Mercy returned the Red Flag
+20-04-05 00:30:23 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:30:25 lT#' Dumpw captured the Red Flag
+20-04-05 00:30:25 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:30:26 Picard scores for Alpha Team
+20-04-05 00:30:28 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:30:28 PoRnOoB captured the Blue Flag
+20-04-05 00:30:30 (1) LB ~ Mercy killed (2) lT#' atheria with LAW
+20-04-05 00:30:30 (1) PoRnOoB killed (2) RtP| ShutercL with M79
+20-04-05 00:30:31 (RADIO)[RtP| ShutercL] Enemy flagger down!
+20-04-05 00:30:36 (1) Picard killed (2) lT#' Dumpw with Ruger 77
+20-04-05 00:30:36 PoRnOoB scores for Alpha Team
+20-04-05 00:30:38 (2) lT#' atheria killed (1) Picard with Combat Knife
+20-04-05 00:30:39 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:30:40 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:30:41 RtP| ShutercL captured the Red Flag
+20-04-05 00:30:43 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:30:44 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:30:48 RtP| ShutercL scores for Bravo Team
+20-04-05 00:30:50 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:30:50 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:30:50 lT#' Dumpw captured the Red Flag
+20-04-05 00:30:51 (1) PoRnOoB killed (2) lT#' atheria with Grenade
+20-04-05 00:30:54 PoRnOoB captured the Blue Flag
+20-04-05 00:30:57 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:30:58 PoRnOoB returned the Red Flag
+20-04-05 00:31:01 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:31:02 (2) lT#' atheria killed (1) PoRnOoB with Grenade
+20-04-05 00:31:02 lT#' atheria captured the Red Flag
+20-04-05 00:31:03 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:31:03 LB ~ Mercy captured the Blue Flag
+20-04-05 00:31:04 LB ~ Mercy returned the Red Flag
+20-04-05 00:31:04 (1) Picard killed (2) lT#' Dumpw with Flamer
+20-04-05 00:31:07 LB ~ Mercy scores for Alpha Team
+20-04-05 00:31:07 (1) Picard killed (2) RtP| ShutercL with Flamer
+20-04-05 00:31:11 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:31:11 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:31:12 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:31:15 [lT#' Dumpw] xd 
+20-04-05 00:31:16 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:31:17 lT#' atheria captured the Red Flag
+20-04-05 00:31:24 Picard captured the Blue Flag
+20-04-05 00:31:25 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:31:27 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:31:29 (1) Picard killed (2) lT#' atheria with Ruger 77
+20-04-05 00:31:29 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:31:32 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:31:35 (2) lT#' atheria killed (1) Picard with Grenade
+20-04-05 00:31:36 LB ~ Mercy returned the Red Flag
+20-04-05 00:31:36 LB ~ Mercy captured the Blue Flag
+20-04-05 00:31:37 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:31:37 RtP| ShutercL captured the Red Flag
+20-04-05 00:31:39 lT#' atheria returned the Blue Flag
+20-04-05 00:31:40 lT#' atheria captured the Red Flag
+20-04-05 00:31:42 PoRnOoB captured the Blue Flag
+20-04-05 00:31:42 (2) RtP| ShutercL killed (1) Picard with LAW
+20-04-05 00:31:44 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:31:45 (2) lT#' atheria killed (1) PoRnOoB with M79
+20-04-05 00:31:47 lT#' atheria returned the Blue Flag
+20-04-05 00:31:48 (2) RtP| ShutercL killed (1) LB ~ Mercy with Flamer
+20-04-05 00:31:51 lT#' atheria scores for Bravo Team
+20-04-05 00:31:52 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:31:53 (2) RtP| ShutercL killed (1) Picard with Flamer
+20-04-05 00:31:56 (1) LB ~ Mercy killed (2) lT#' atheria with LAW
+20-04-05 00:31:58 PoRnOoB captured the Blue Flag
+20-04-05 00:31:58 (2) RtP| ShutercL killed (1) LB ~ Mercy with Flamer
+20-04-05 00:32:01 (1) Picard killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:32:05 lT#' atheria captured the Red Flag
+20-04-05 00:32:07 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:32:08 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:32:08 (1) Picard killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:32:09 lT#' atheria returned the Blue Flag
+20-04-05 00:32:13 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:32:15 lT#' Dumpw captured the Red Flag
+20-04-05 00:32:15 lT#' Dumpw scores for Bravo Team
+20-04-05 00:32:15 (2) RtP| ShutercL killed (1) Picard with Grenade
+20-04-05 00:32:17 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:32:23 lT#' atheria captured the Red Flag
+20-04-05 00:32:23 (2) lT#' atheria killed (1) LB ~ Mercy with Combat Knife
+20-04-05 00:32:28 (1) Picard killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:32:28 (2) lT#' Dumpw killed (1) Picard with Desert Eagles
+20-04-05 00:32:31 lT#' Dumpw captured the Red Flag
+20-04-05 00:32:31 200.120.145.184:23073|4215E8C6452 requesting game...
+20-04-05 00:32:32 LB ~ Mercy captured the Blue Flag
+20-04-05 00:32:35 (1) Picard killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:32:44 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:32:45 (1) Picard killed (2) lT#' Dumpw with Flamer
+20-04-05 00:32:49 (1) Picard killed (2) lT#' atheria with Flamer
+20-04-05 00:32:49 PoRnOoB returned the Red Flag
+20-04-05 00:32:51 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:32:53 RtP| ShutercL captured the Red Flag
+20-04-05 00:32:53 RtP| ShutercL returned the Blue Flag
+20-04-05 00:32:55 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:32:56 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:33:00 RtP| ShutercL scores for Bravo Team
+20-04-05 00:33:01 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:33:03 lT#' Dumpw captured the Red Flag
+20-04-05 00:33:06 (1) Picard killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:33:07 (1) PoRnOoB killed (2) RtP| ShutercL with Flamer
+20-04-05 00:33:08 (TEAM)[lT#' Dumpw] Suelta por ABAJO
+20-04-05 00:33:10 PoRnOoB captured the Blue Flag
+20-04-05 00:33:13 (1) PoRnOoB killed (2) RtP| ShutercL with Flamer
+20-04-05 00:33:13 lT#' atheria captured the Red Flag
+20-04-05 00:33:15 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:33:17 (1) PoRnOoB killed (2) lT#' atheria with Grenade
+20-04-05 00:33:17 (2) lT#' Dumpw killed (1) PoRnOoB with LAW
+20-04-05 00:33:17 (1) PoRnOoB killed (2) lT#' Dumpw with Flamer
+20-04-05 00:33:20 LB ~ Mercy returned the Red Flag
+20-04-05 00:33:22 RtP| ShutercL returned the Blue Flag
+20-04-05 00:33:23 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:33:24 (1) PoRnOoB killed (2) RtP| ShutercL with M79
+20-04-05 00:33:29 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:33:31 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:33:34 (2) RtP| ShutercL killed (1) LB ~ Mercy with LAW
+20-04-05 00:33:34 lT#' Dumpw captured the Red Flag
+20-04-05 00:33:38 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:33:38 PoRnOoB captured the Blue Flag
+20-04-05 00:33:39 RtP| ShutercL captured the Red Flag
+20-04-05 00:33:40 (1) Picard killed (2) lT#' Dumpw with Grenade
+20-04-05 00:33:42 (2) lT#' atheria killed (1) PoRnOoB with M79
+20-04-05 00:33:43 RtP| ShutercL returned the Blue Flag
+20-04-05 00:33:45 (1) LB ~ Mercy killed (2) RtP| ShutercL with Flamer
+20-04-05 00:33:47 LB ~ Mercy returned the Red Flag
+20-04-05 00:33:50 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:33:50 LB ~ Mercy captured the Blue Flag
+20-04-05 00:33:53 Time Left: 5 minutes
+20-04-05 00:33:54 (2) lT#' Dumpw killed (1) LB ~ Mercy with HK MP5
+20-04-05 00:33:54 (1) LB ~ Mercy killed (2) lT#' Dumpw with Flamer
+20-04-05 00:33:55 (TEAM)[lT#' Dumpw] Suelta por ABAJO
+20-04-05 00:33:56 lT#' atheria captured the Red Flag
+20-04-05 00:33:57 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:33:59 lT#' atheria returned the Blue Flag
+20-04-05 00:33:59 PoRnOoB captured the Blue Flag
+20-04-05 00:34:01 (1) PoRnOoB killed (2) RtP| ShutercL with M79
+20-04-05 00:34:02 (2) lT#' Dumpw killed (1) Picard with Grenade
+20-04-05 00:34:10 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:34:15 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:34:17 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:34:18 lT#' Dumpw returned the Blue Flag
+20-04-05 00:34:20 Picard captured the Blue Flag
+20-04-05 00:34:23 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:34:24 RtP| ShutercL returned the Blue Flag
+20-04-05 00:34:25 lT#' atheria scores for Bravo Team
+20-04-05 00:34:26 lT#' Dumpw captured the Red Flag
+20-04-05 00:34:26 (1) PoRnOoB killed (2) lT#' atheria with M79
+20-04-05 00:34:28 PoRnOoB captured the Blue Flag
+20-04-05 00:34:32 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:34:34 (1) Picard killed (2) lT#' Dumpw with M79
+20-04-05 00:34:35 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:34:37 LB ~ Mercy captured the Blue Flag
+20-04-05 00:34:38 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:34:40 lT#' atheria captured the Red Flag
+20-04-05 00:34:42 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:34:43 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:34:44 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:34:44 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:34:46 lT#' Dumpw captured the Red Flag
+20-04-05 00:34:47 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:34:49 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:34:49 RtP| ShutercL captured the Red Flag
+20-04-05 00:34:51 LB ~ Mercy captured the Blue Flag
+20-04-05 00:34:51 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:34:53 Time Left: 4 minutes
+20-04-05 00:34:56 (1) Picard killed (2) RtP| ShutercL with Flamer
+20-04-05 00:34:57 Picard returned the Red Flag
+20-04-05 00:34:58 lT#' atheria captured the Red Flag
+20-04-05 00:35:03 (2) lT#' Dumpw killed (1) LB ~ Mercy with LAW
+20-04-05 00:35:04 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:35:04 (1) PoRnOoB killed (2) lT#' atheria with Combat Knife
+20-04-05 00:35:06 [lT#' atheria] XD
+20-04-05 00:35:07 RtP| ShutercL captured the Red Flag
+20-04-05 00:35:07 RtP| ShutercL returned the Blue Flag
+20-04-05 00:35:10 (1) Picard killed (2) RtP| ShutercL with Flamer
+20-04-05 00:35:12 Picard returned the Red Flag
+20-04-05 00:35:12 lT#' Dumpw captured the Red Flag
+20-04-05 00:35:13 (2) lT#' atheria killed (1) PoRnOoB with M79
+20-04-05 00:35:14 LB ~ Mercy captured the Blue Flag
+20-04-05 00:35:16 (1) Picard killed (2) lT#' Dumpw with Flamer
+20-04-05 00:35:18 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:35:18 (1) Picard killed (2) RtP| ShutercL with Flamer
+20-04-05 00:35:20 Picard captured the Blue Flag
+20-04-05 00:35:21 lT#' atheria captured the Red Flag
+20-04-05 00:35:25 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:35:25 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:35:27 (2) RtP| ShutercL killed (1) LB ~ Mercy with Grenade
+20-04-05 00:35:29 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:35:30 RtP| ShutercL returned the Blue Flag
+20-04-05 00:35:31 lT#' atheria scores for Bravo Team
+20-04-05 00:35:33 RtP| ShutercL captured the Red Flag
+20-04-05 00:35:33 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:35:35 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:35:36 Picard captured the Blue Flag
+20-04-05 00:35:37 (TEAM)[lT#' Dumpw] Vienen por MEDIO
+20-04-05 00:35:38 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:35:41 (1) LB ~ Mercy killed (2) lT#' Dumpw with LAW
+20-04-05 00:35:41 PoRnOoB returned the Red Flag
+20-04-05 00:35:43 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:35:44 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:35:45 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:35:46 RtP| ShutercL captured the Red Flag
+20-04-05 00:35:48 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:35:49 RtP| ShutercL returned the Blue Flag
+20-04-05 00:35:51 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:35:53 Time Left: 3 minutes
+20-04-05 00:35:54 Picard captured the Blue Flag
+20-04-05 00:35:54 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:35:55 (1) Picard killed (2) RtP| ShutercL with Combat Knife
+20-04-05 00:35:58 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:35:59 Picard returned the Red Flag
+20-04-05 00:36:02 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:36:04 Picard scores for Alpha Team
+20-04-05 00:36:06 (1) Picard killed (2) RtP| ShutercL with M79
+20-04-05 00:36:07 (1) PoRnOoB killed (2) lT#' atheria with Grenade
+20-04-05 00:36:17 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:36:18 190.162.34.158:23073|1FFBF2D6E12 requesting game...
+20-04-05 00:36:19 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:36:20 (2) lT#' Dumpw killed (1) PoRnOoB with HK MP5
+20-04-05 00:36:23 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:36:23 190.162.34.158:23073|1FFBF2D6E12 requesting game...
+20-04-05 00:36:25 (1) Picard killed (2) lT#' Dumpw with Combat Knife
+20-04-05 00:36:28 (2) RtP| ShutercL killed (1) Picard with LAW
+20-04-05 00:36:32 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:36:33 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:36:35 RtP| ShutercL captured the Red Flag
+20-04-05 00:36:38 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:36:40 lT#' atheria captured the Red Flag
+20-04-05 00:36:40 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:36:42 LB ~ Mercy captured the Blue Flag
+20-04-05 00:36:43 [RtP| ShutercL] I ain't got time to bleed!
+20-04-05 00:36:44 (TEAM)[lT#' Dumpw] Medio ESCAPA
+20-04-05 00:36:44 (2) lT#' atheria killed (1) Picard with Flamer
+20-04-05 00:36:46 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:36:47 (1) PoRnOoB killed (2) lT#' atheria with Flamer
+20-04-05 00:36:48 PoRnOoB returned the Red Flag
+20-04-05 00:36:51 RtP| ShutercL returned the Blue Flag
+20-04-05 00:36:51 (1) PoRnOoB killed (2) RtP| ShutercL with Flamer
+20-04-05 00:36:53 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:36:53 Time Left: 2 minutes
+20-04-05 00:36:56 (2) lT#' atheria killed (1) PoRnOoB with M79
+20-04-05 00:36:57 lT#' atheria captured the Red Flag
+20-04-05 00:36:58 Picard captured the Blue Flag
+20-04-05 00:36:59 (2) RtP| ShutercL killed (1) Picard with LAW
+20-04-05 00:37:02 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:37:05 lT#' atheria scores for Bravo Team
+20-04-05 00:37:05 (1) PoRnOoB killed (2) RtP| ShutercL with Flamer
+20-04-05 00:37:05 (1) Picard killed (2) lT#' Dumpw with LAW
+20-04-05 00:37:11 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:37:12 (1) PoRnOoB killed (2) RtP| ShutercL with Flamer
+20-04-05 00:37:12 lT#' atheria captured the Red Flag
+20-04-05 00:37:14 (1) Picard killed (2) lT#' atheria with M79
+20-04-05 00:37:14 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:37:14 PoRnOoB captured the Blue Flag
+20-04-05 00:37:17 (1) PoRnOoB killed (2) RtP| ShutercL with Grenade
+20-04-05 00:37:18 (RADIO)[RtP| ShutercL] Enemy flagger middle!
+20-04-05 00:37:19 (RADIO)[RtP| ShutercL] Enemy flagger middle!
+20-04-05 00:37:21 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:37:22 LB ~ Mercy returned the Red Flag
+20-04-05 00:37:22 PoRnOoB scores for Alpha Team
+20-04-05 00:37:27 RtP| ShutercL captured the Red Flag
+20-04-05 00:37:28 Picard captured the Blue Flag
+20-04-05 00:37:31 181.42.13.9:2761|4AF4E3AC68B requesting game...
+20-04-05 00:37:32 Major joining game (181.42.13.9:2761) HWID:4AF4E3AC68B
+20-04-05 00:37:32 Major has joined as spectator.
+20-04-05 00:37:34 RtP| ShutercL captured the Red Flag
+20-04-05 00:37:34 lT#' atheria captured the Red Flag
+20-04-05 00:37:35 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:37:37 (1) Picard killed (2) RtP| ShutercL with Grenade
+20-04-05 00:37:39 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:37:40 Picard returned the Red Flag
+20-04-05 00:37:42 (2) lT#' Dumpw killed (1) LB ~ Mercy with Grenade
+20-04-05 00:37:42 Picard scores for Alpha Team
+20-04-05 00:37:43 PoRnOoB captured the Blue Flag
+20-04-05 00:37:44 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:37:49 (2) lT#' atheria killed (1) Picard with M79
+20-04-05 00:37:51 lT#' atheria captured the Red Flag
+20-04-05 00:37:53 Time Left: 1 minutes
+20-04-05 00:37:54 128.201.108.4:23073|23C20272ADA requesting game...
+20-04-05 00:37:54 (2) RtP| ShutercL killed (1) PoRnOoB with Steyr AUG
+20-04-05 00:37:56 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:37:57 lT#' atheria returned the Blue Flag
+20-04-05 00:37:58 (1) Picard killed (2) lT#' atheria with Grenade
+20-04-05 00:37:59 Picard returned the Red Flag
+20-04-05 00:37:59 Picard captured the Blue Flag
+20-04-05 00:38:00 (2) RtP| ShutercL killed (1) Picard with Steyr AUG
+20-04-05 00:38:01 RtP| ShutercL returned the Blue Flag
+20-04-05 00:38:04 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:38:06 PoRnOoB captured the Blue Flag
+20-04-05 00:38:09 (1) Picard killed (2) lT#' Dumpw with HK MP5
+20-04-05 00:38:09 RtP| ShutercL captured the Red Flag
+20-04-05 00:38:10 (1) PoRnOoB killed (2) lT#' atheria with Desert Eagles
+20-04-05 00:38:11 (1) LB ~ Mercy killed (2) RtP| ShutercL with Steyr AUG
+20-04-05 00:38:13 PoRnOoB returned the Red Flag
+20-04-05 00:38:14 PoRnOoB scores for Alpha Team
+20-04-05 00:38:18 Picard captured the Blue Flag
+20-04-05 00:38:20 (1) LB ~ Mercy killed (2) RtP| ShutercL with LAW
+20-04-05 00:38:21 (2) lT#' Dumpw killed (1) PoRnOoB with Grenade
+20-04-05 00:38:21 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:38:24 Picard scores for Alpha Team
+20-04-05 00:38:25 (2) lT#' Dumpw killed (1) Picard with HK MP5
+20-04-05 00:38:26 lT#' Dumpw captured the Red Flag
+20-04-05 00:38:26 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:38:27 200.73.224.177:23073|4D1A7FC09B7 requesting game...
+20-04-05 00:38:28 (2) RtP| ShutercL killed (1) LB ~ Mercy with Steyr AUG
+20-04-05 00:38:28 (2) RtP| ShutercL killed (1) PoRnOoB with Grenade
+20-04-05 00:38:30 RtP| ShutercL captured the Red Flag
+20-04-05 00:38:33 (2) lT#' atheria killed (1) Picard with Combat Knife
+20-04-05 00:38:35 (1) LB ~ Mercy killed (2) lT#' Dumpw with Steyr AUG
+20-04-05 00:38:36 Major has left spectators
+20-04-05 00:38:36 (1) LB ~ Mercy killed (2) RtP| ShutercL with Grenade
+20-04-05 00:38:37 (2) lT#' atheria killed (1) LB ~ Mercy with M79
+20-04-05 00:38:43 (1) PoRnOoB killed (2) lT#' Dumpw with Desert Eagles
+20-04-05 00:38:44 RtP| ShutercL captured the Red Flag
+20-04-05 00:38:44 Picard captured the Blue Flag
+20-04-05 00:38:46 (2) RtP| ShutercL killed (1) Picard with Grenade
+20-04-05 00:38:46 RtP| ShutercL returned the Blue Flag
+20-04-05 00:38:46 (1) LB ~ Mercy killed (2) lT#' atheria with Steyr AUG
+20-04-05 00:38:47 RtP| ShutercL scores for Bravo Team
+20-04-05 00:38:48 (1) PoRnOoB killed (2) RtP| ShutercL with Desert Eagles
+20-04-05 00:38:48 (2) RtP| ShutercL killed (1) PoRnOoB with LAW
+20-04-05 00:38:52 lT#' Dumpw captured the Red Flag
+20-04-05 00:38:53 Next map: ctf_Division
+20-04-05 00:38:55 [lT#' atheria] TGGG
+20-04-05 00:38:55 [Picard] gg
+20-04-05 00:38:56 [RtP| ShutercL] gg cabros
+20-04-05 00:38:56 lT#' atheria has left bravo team.
+20-04-05 00:38:56 Picard has left alpha team.
+20-04-05 00:38:57 lT#' Dumpw has left bravo team.
+20-04-05 00:38:57 RtP| ShutercL has left bravo team.
+20-04-05 00:38:58 Division by Boxo, KC, viral
+20-04-05 00:39:00 PoRnOoB has left alpha team.
+20-04-05 00:39:06 LB ~ Mercy has left alpha team.
+20-04-05 00:39:17 181.44.119.5:12181|39457150090 requesting game...
+20-04-04 23:44:07 Time Left: 5 minutes
+20-04-04 23:45:07 Time Left: 4 minutes
+20-04-04 23:46:07 Time Left: 3 minutes
+20-04-04 23:47:07 Time Left: 2 minutes
+20-04-04 23:48:07 Time Left: 1 minutes
+20-04-04 23:48:50 112.3.55.41:22281|45B51F67F93 requesting game...
+20-04-04 23:48:51 112.3.55.41:22281|45B51F67F93 requesting game...
+20-04-04 23:49:07 Next map: ctf_Death
+20-04-04 23:49:12 Death by MM, g_d. Boxo, mtk`
+20-04-04 23:54:12 Time Left: 5 minutes
+20-04-04 23:55:12 Time Left: 4 minutes
+20-04-04 23:56:12 Time Left: 3 minutes
+20-04-04 23:57:01 200.86.5.145:23073|15052E25EC1 requesting game...
+20-04-04 23:57:03 200.86.5.145:23073|15052E25EC1 requesting game...
+20-04-04 23:57:08 200.86.5.145:23073|15052E25EC1 requesting game...
+20-04-04 23:57:12 Time Left: 2 minutes
+20-04-04 23:57:15 200.86.5.145:23073|15052E25EC1 requesting game...
+20-04-04 23:58:12 Time Left: 1 minutes
+20-04-04 23:59:12 Next map: ctf_Hormone
+20-04-04 23:59:17 Hormone by Metsänaperot
+20-04-05 00:04:17 Time Left: 5 minutes
+20-04-05 00:05:17 Time Left: 4 minutes
+20-04-05 00:06:17 Time Left: 3 minutes
+20-04-05 00:07:17 Time Left: 2 minutes
+20-04-05 00:08:17 Time Left: 1 minutes
+20-04-05 00:09:17 Next map: ctf_Laos
+20-04-05 00:09:23 Laos
+20-04-05 00:14:22 Time Left: 5 minutes
+20-04-05 00:15:22 Time Left: 4 minutes
+20-04-05 00:16:22 Time Left: 3 minutes
+20-04-05 00:17:22 Time Left: 2 minutes
+20-04-05 00:18:22 Time Left: 1 minutes
+20-04-05 00:19:22 Next map: ctf_Laos2
+20-04-05 00:19:28 Error: Could not load map (ctf_Laos2)
+20-04-05 00:19:28 Next map: ctf_Maya
+20-04-05 00:19:33 Maya
+20-04-05 00:24:33 Time Left: 5 minutes
+20-04-05 00:25:33 Time Left: 4 minutes
+20-04-05 00:26:33 Time Left: 3 minutes
+20-04-05 00:27:33 Time Left: 2 minutes
+20-04-05 00:28:33 Time Left: 1 minutes
+20-04-05 00:29:33 Next map: ctf_MFM
+20-04-05 00:29:38 MFM 2 by mar77a
+20-04-05 00:34:38 Time Left: 5 minutes
+20-04-05 00:35:38 Time Left: 4 minutes
+20-04-05 00:36:38 Time Left: 3 minutes
+20-04-05 00:37:38 Time Left: 2 minutes
+20-04-05 00:38:38 Time Left: 1 minutes
+20-04-05 00:39:38 Next map: ctf_Run
+20-04-05 00:39:44 Run
+20-04-05 00:44:44 Time Left: 5 minutes
+20-04-05 00:45:44 Time Left: 4 minutes
+20-04-05 00:46:44 Time Left: 3 minutes
+20-04-05 00:47:44 Time Left: 2 minutes
+20-04-05 00:48:44 Time Left: 1 minutes
+20-04-05 00:49:44 Next map: ctf_OldRun
+20-04-05 00:49:49 Error: Could not load map (ctf_OldRun)
+20-04-05 00:49:49 Next map: ctf_Ash
+20-04-05 00:49:54 ctf_Ash by chakapoko maker
+20-04-05 00:54:54 Time Left: 5 minutes
+20-04-05 00:55:54 Time Left: 4 minutes
+20-04-05 00:56:54 Time Left: 3 minutes
+20-04-05 00:57:54 Time Left: 2 minutes
+20-04-05 00:58:54 Time Left: 1 minutes
+20-04-05 00:59:54 Next map: ctf_B2b
+20-04-05 01:00:00 B2B
+20-04-05 01:05:00 Time Left: 5 minutes
+20-04-05 01:05:27 190.101.9.233:23073|7F8C605945C requesting game...
+20-04-05 01:06:00 Time Left: 4 minutes
+20-04-05 01:07:00 Time Left: 3 minutes
+20-04-05 01:08:00 Time Left: 2 minutes
+20-04-05 01:09:00 Time Left: 1 minutes
+20-04-05 01:10:00 Next map: ctf_Blade
+20-04-05 01:10:05 Blade by Zakath
+20-04-05 01:15:05 Time Left: 5 minutes
+20-04-05 01:16:05 Time Left: 4 minutes
+20-04-05 01:17:05 Time Left: 3 minutes
+20-04-05 01:18:05 Time Left: 2 minutes
+20-04-05 01:19:05 Time Left: 1 minutes
+20-04-05 01:20:05 Next map: ctf_Viet
+20-04-05 01:20:10 Viet
+20-04-05 01:25:10 Time Left: 5 minutes
+20-04-05 01:26:10 Time Left: 4 minutes
+20-04-05 01:27:10 Time Left: 3 minutes
+20-04-05 01:28:10 Time Left: 2 minutes
+20-04-05 01:29:10 Time Left: 1 minutes
+20-04-05 01:30:10 Next map: ctf_Division
+20-04-05 01:30:16 Division by Boxo, KC, viral
+20-04-05 01:35:16 Time Left: 5 minutes
+20-04-05 01:36:16 Time Left: 4 minutes
+20-04-05 01:37:16 Time Left: 3 minutes
+20-04-05 01:38:16 Time Left: 2 minutes
+20-04-05 01:39:16 Time Left: 1 minutes
+20-04-05 01:40:16 Next map: ctf_Death
+20-04-05 01:40:21 Death by MM, g_d. Boxo, mtk`
+20-04-05 01:44:27 201.214.190.176:23073|3E87BD17409 requesting game...
+20-04-05 01:44:31 201.214.190.176:23073|3E87BD17409 requesting game...
+20-04-05 01:44:34 S2 ~ bio* joining game (201.214.190.176:23073) HWID:3E87BD17409
+20-04-05 01:44:34 S2 ~ bio* has joined as spectator.
+20-04-05 01:44:37 S2 ~ bio* has left spectators
+20-04-05 01:45:21 Time Left: 5 minutes
+20-04-05 01:46:21 Time Left: 4 minutes
+20-04-05 01:47:21 Time Left: 3 minutes
+20-04-05 01:48:21 Time Left: 2 minutes
+20-04-05 01:49:21 Time Left: 1 minutes
+20-04-05 01:50:21 Next map: ctf_Hormone
+20-04-05 01:50:26 Hormone by Metsänaperot
+20-04-05 01:55:26 Time Left: 5 minutes
+20-04-05 01:56:26 Time Left: 4 minutes
+20-04-05 01:57:26 Time Left: 3 minutes
+20-04-05 01:58:26 Time Left: 2 minutes
+20-04-05 01:59:26 Time Left: 1 minutes
+20-04-05 02:00:26 Next map: ctf_Laos
+20-04-05 02:00:32 Laos
+20-04-05 02:05:32 Time Left: 5 minutes
+20-04-05 02:06:32 Time Left: 4 minutes
+20-04-05 02:07:32 Time Left: 3 minutes
+20-04-05 02:08:32 Time Left: 2 minutes
+20-04-05 02:09:32 Time Left: 1 minutes
+20-04-05 02:10:32 Next map: ctf_Laos2
+20-04-05 02:10:37 Error: Could not load map (ctf_Laos2)
+20-04-05 02:10:37 Next map: ctf_Maya
+20-04-05 02:10:42 Maya
+20-04-05 02:15:42 Time Left: 5 minutes
+20-04-05 02:16:06 Admin disconnected (201.189.251.234).
+20-04-05 02:16:42 Time Left: 4 minutes
+20-04-05 02:17:42 Time Left: 3 minutes
+20-04-05 02:18:42 Time Left: 2 minutes
+20-04-05 02:19:42 Time Left: 1 minutes
+20-04-05 02:20:42 Next map: ctf_MFM
+20-04-05 02:20:48 MFM 2 by mar77a
+20-04-05 02:25:48 Time Left: 5 minutes
+20-04-05 02:26:48 Time Left: 4 minutes
+20-04-05 02:27:48 Time Left: 3 minutes
+20-04-05 02:28:48 Time Left: 2 minutes
+20-04-05 02:29:48 Time Left: 1 minutes
+20-04-05 02:30:48 Next map: ctf_Run
+20-04-05 02:30:53 Run
+20-04-05 02:35:53 Time Left: 5 minutes
+20-04-05 02:36:53 Time Left: 4 minutes
+20-04-05 02:37:53 Time Left: 3 minutes
+20-04-05 02:38:53 Time Left: 2 minutes
+20-04-05 02:39:53 Time Left: 1 minutes
+20-04-05 02:40:53 Next map: ctf_OldRun
+20-04-05 02:40:58 Error: Could not load map (ctf_OldRun)
+20-04-05 02:40:58 Next map: ctf_Ash
+20-04-05 02:41:04 ctf_Ash by chakapoko maker
+20-04-05 02:43:34 190.163.70.96:23073|6EE4D9F9845 requesting game...
+20-04-05 02:43:45 190.215.178.109:23073|14492FB63FB requesting game...
+20-04-05 02:43:53 190.215.178.109:23073|14492FB63FB requesting game...
+20-04-05 02:44:06 190.215.178.109:23073|14492FB63FB requesting game...
+20-04-05 02:46:04 Time Left: 5 minutes
+20-04-05 02:47:04 Time Left: 4 minutes
+20-04-05 02:48:04 Time Left: 3 minutes
+20-04-05 02:49:04 Time Left: 2 minutes
+20-04-05 02:50:04 Time Left: 1 minutes
+20-04-05 02:51:04 Next map: ctf_B2b
+20-04-05 02:51:09 B2B
+20-04-05 02:56:09 Time Left: 5 minutes
+20-04-05 02:57:09 Time Left: 4 minutes
+20-04-05 02:58:09 Time Left: 3 minutes
+20-04-05 02:59:09 Time Left: 2 minutes
+20-04-05 03:00:09 Time Left: 1 minutes
+20-04-05 03:01:09 Next map: ctf_Blade
+20-04-05 03:01:14 Blade by Zakath
+20-04-05 03:06:14 Time Left: 5 minutes
+20-04-05 03:07:14 Time Left: 4 minutes
+20-04-05 03:08:14 Time Left: 3 minutes
+20-04-05 03:09:14 Time Left: 2 minutes
+20-04-05 03:10:14 Time Left: 1 minutes
+20-04-05 03:11:14 Next map: ctf_Viet
+20-04-05 03:11:20 Viet
+20-04-05 03:16:20 Time Left: 5 minutes
+20-04-05 03:17:20 Time Left: 4 minutes
+20-04-05 03:18:20 Time Left: 3 minutes
+20-04-05 03:19:20 Time Left: 2 minutes
+20-04-05 03:20:20 Time Left: 1 minutes
+20-04-05 03:21:20 Next map: ctf_Division
+20-04-05 03:21:25 Division by Boxo, KC, viral
+20-04-05 03:26:25 Time Left: 5 minutes
+20-04-05 03:27:25 Time Left: 4 minutes
+20-04-05 03:28:25 Time Left: 3 minutes
+20-04-05 03:29:25 Time Left: 2 minutes
+20-04-05 03:30:25 Time Left: 1 minutes
+20-04-05 03:31:25 Next map: ctf_Death
+20-04-05 03:31:30 Death by MM, g_d. Boxo, mtk`
+20-04-05 03:36:30 Time Left: 5 minutes
+20-04-05 03:37:30 Time Left: 4 minutes
+20-04-05 03:38:30 Time Left: 3 minutes
+20-04-05 03:39:30 Time Left: 2 minutes
+20-04-05 03:40:30 Time Left: 1 minutes
+20-04-05 03:41:30 Next map: ctf_Hormone
+20-04-05 03:41:36 Hormone by Metsänaperot
+20-04-05 03:46:36 Time Left: 5 minutes
+20-04-05 03:47:36 Time Left: 4 minutes
+20-04-05 03:48:36 Time Left: 3 minutes
+20-04-05 03:49:36 Time Left: 2 minutes
+20-04-05 03:50:36 Time Left: 1 minutes
+20-04-05 03:51:36 Next map: ctf_Laos
+20-04-05 03:51:41 Laos
+20-04-05 03:56:41 Time Left: 5 minutes
+20-04-05 03:57:41 Time Left: 4 minutes
+20-04-05 03:58:41 Time Left: 3 minutes
+20-04-05 03:58:56 190.164.103.39:23073|289DC7E859C requesting game...
+20-04-05 03:59:41 Time Left: 2 minutes
+20-04-05 04:00:41 Time Left: 1 minutes
+20-04-05 04:01:41 Next map: ctf_Laos2
+20-04-05 04:01:46 Error: Could not load map (ctf_Laos2)
+20-04-05 04:01:46 Next map: ctf_Maya
+20-04-05 04:01:52 Maya
+20-04-05 04:06:52 Time Left: 5 minutes
+20-04-05 04:07:52 Time Left: 4 minutes
+20-04-05 04:08:52 Time Left: 3 minutes
+20-04-05 04:09:52 Time Left: 2 minutes
+20-04-05 04:10:52 Time Left: 1 minutes
+20-04-05 04:11:52 Next map: ctf_MFM
+20-04-05 04:11:57 MFM 2 by mar77a
+20-04-05 04:16:57 Time Left: 5 minutes
+20-04-05 04:17:57 Time Left: 4 minutes
+20-04-05 04:18:57 Time Left: 3 minutes
+20-04-05 04:19:57 Time Left: 2 minutes
+20-04-05 04:20:57 Time Left: 1 minutes
+20-04-05 04:21:57 Next map: ctf_Run
+20-04-05 04:22:02 Run
+20-04-05 04:27:02 Time Left: 5 minutes
+20-04-05 04:28:02 Time Left: 4 minutes
+20-04-05 04:29:02 Time Left: 3 minutes
+20-04-05 04:30:02 Time Left: 2 minutes
+20-04-05 04:31:02 Time Left: 1 minutes
+20-04-05 04:32:02 Next map: ctf_OldRun
+20-04-05 04:32:07 Error: Could not load map (ctf_OldRun)
+20-04-05 04:32:07 Next map: ctf_Ash
+20-04-05 04:32:13 ctf_Ash by chakapoko maker
+20-04-05 04:37:13 Time Left: 5 minutes
+20-04-05 04:38:13 Time Left: 4 minutes
+20-04-05 04:39:13 Time Left: 3 minutes
+20-04-05 04:40:13 Time Left: 2 minutes
+20-04-05 04:41:13 Time Left: 1 minutes
+20-04-05 04:42:13 Next map: ctf_B2b
+20-04-05 04:42:18 B2B
+20-04-05 04:47:18 Time Left: 5 minutes
+20-04-05 04:48:18 Time Left: 4 minutes
+20-04-05 04:49:18 Time Left: 3 minutes
+20-04-05 04:50:18 Time Left: 2 minutes
+20-04-05 04:51:18 Time Left: 1 minutes
+20-04-05 04:52:18 Next map: ctf_Blade
+20-04-05 04:52:23 Blade by Zakath
+20-04-05 04:57:23 Time Left: 5 minutes
+20-04-05 04:58:23 Time Left: 4 minutes
+20-04-05 04:59:23 Time Left: 3 minutes
+20-04-05 05:00:23 Time Left: 2 minutes
+20-04-05 05:01:23 Time Left: 1 minutes
+20-04-05 05:02:23 Next map: ctf_Viet
+20-04-05 05:02:29 Viet
+20-04-05 05:07:29 Time Left: 5 minutes
+20-04-05 05:08:29 Time Left: 4 minutes
+20-04-05 05:09:29 Time Left: 3 minutes
+20-04-05 05:10:29 Time Left: 2 minutes
+20-04-05 05:11:29 Time Left: 1 minutes
+20-04-05 05:12:29 Next map: ctf_Division
+20-04-05 05:12:34 Division by Boxo, KC, viral
+20-04-05 05:17:34 Time Left: 5 minutes
+20-04-05 05:18:34 Time Left: 4 minutes
+20-04-05 05:19:34 Time Left: 3 minutes
+20-04-05 05:20:34 Time Left: 2 minutes
+20-04-05 05:21:34 Time Left: 1 minutes
+20-04-05 05:22:34 Next map: ctf_Death
+20-04-05 05:22:39 Death by MM, g_d. Boxo, mtk`
+20-04-05 05:27:39 Time Left: 5 minutes
+20-04-05 05:28:39 Time Left: 4 minutes
+20-04-05 05:29:39 Time Left: 3 minutes
+20-04-05 05:30:39 Time Left: 2 minutes
+20-04-05 05:31:39 Time Left: 1 minutes
+20-04-05 05:32:39 Next map: ctf_Hormone
+20-04-05 05:32:45 Hormone by Metsänaperot
+20-04-05 05:37:45 Time Left: 5 minutes
+20-04-05 05:38:45 Time Left: 4 minutes
+20-04-05 05:39:45 Time Left: 3 minutes
+20-04-05 05:40:45 Time Left: 2 minutes
+20-04-05 05:41:45 Time Left: 1 minutes
+20-04-05 05:42:45 Next map: ctf_Laos
+20-04-05 05:42:50 Laos
+20-04-05 05:47:50 Time Left: 5 minutes
+20-04-05 05:48:50 Time Left: 4 minutes
+20-04-05 05:49:50 Time Left: 3 minutes
+20-04-05 05:50:50 Time Left: 2 minutes
+20-04-05 05:51:50 Time Left: 1 minutes
+20-04-05 05:52:50 Next map: ctf_Laos2
+20-04-05 05:52:55 Error: Could not load map (ctf_Laos2)
+20-04-05 05:52:55 Next map: ctf_Maya
+20-04-05 05:53:01 Maya
+20-04-05 05:58:01 Time Left: 5 minutes
+20-04-05 05:59:01 Time Left: 4 minutes
+20-04-05 06:00:01 Time Left: 3 minutes
+20-04-05 06:01:01 Time Left: 2 minutes
+20-04-05 06:02:01 Time Left: 1 minutes
+20-04-05 06:03:01 Next map: ctf_MFM
+20-04-05 06:03:06 MFM 2 by mar77a
+20-04-05 06:08:06 Time Left: 5 minutes
+20-04-05 06:09:06 Time Left: 4 minutes
+20-04-05 06:10:06 Time Left: 3 minutes
+20-04-05 06:11:06 Time Left: 2 minutes
+20-04-05 06:12:06 Time Left: 1 minutes
+20-04-05 06:13:06 Next map: ctf_Run
+20-04-05 06:13:11 Run
+20-04-05 06:18:11 Time Left: 5 minutes
+20-04-05 06:19:11 Time Left: 4 minutes
+20-04-05 06:20:11 Time Left: 3 minutes
+20-04-05 06:21:11 Time Left: 2 minutes
+20-04-05 06:22:11 Time Left: 1 minutes
+20-04-05 06:23:11 Next map: ctf_OldRun
+20-04-05 06:23:17 Error: Could not load map (ctf_OldRun)
+20-04-05 06:23:17 Next map: ctf_Ash
+20-04-05 06:23:22 ctf_Ash by chakapoko maker
+20-04-05 06:28:22 Time Left: 5 minutes
+20-04-05 06:29:22 Time Left: 4 minutes
+20-04-05 06:30:22 Time Left: 3 minutes
+20-04-05 06:31:22 Time Left: 2 minutes
+20-04-05 06:32:22 Time Left: 1 minutes
+20-04-05 06:33:22 Next map: ctf_B2b
+20-04-05 06:33:27 B2B
+20-04-05 06:38:27 Time Left: 5 minutes
+20-04-05 06:39:27 Time Left: 4 minutes
+20-04-05 06:40:27 Time Left: 3 minutes
+20-04-05 06:41:27 Time Left: 2 minutes
+20-04-05 06:42:27 Time Left: 1 minutes
+20-04-05 06:43:27 Next map: ctf_Blade
+20-04-05 06:43:33 Blade by Zakath
+20-04-05 06:48:33 Time Left: 5 minutes
+20-04-05 06:49:33 Time Left: 4 minutes
+20-04-05 06:50:33 Time Left: 3 minutes
+20-04-05 06:51:33 Time Left: 2 minutes
+20-04-05 06:52:33 Time Left: 1 minutes
+20-04-05 06:53:33 Next map: ctf_Viet
+20-04-05 06:53:38 Viet
+20-04-05 06:58:38 Time Left: 5 minutes
+20-04-05 06:59:38 Time Left: 4 minutes
+20-04-05 07:00:38 Time Left: 3 minutes
+20-04-05 07:01:38 Time Left: 2 minutes
+20-04-05 07:02:38 Time Left: 1 minutes
+20-04-05 07:03:38 Next map: ctf_Division
+20-04-05 07:03:43 Division by Boxo, KC, viral
+20-04-05 07:08:43 Time Left: 5 minutes
+20-04-05 07:09:43 Time Left: 4 minutes
+20-04-05 07:10:43 Time Left: 3 minutes
+20-04-05 07:11:43 Time Left: 2 minutes
+20-04-05 07:12:43 Time Left: 1 minutes
+20-04-05 07:13:43 Next map: ctf_Death
+20-04-05 07:13:49 Death by MM, g_d. Boxo, mtk`
+20-04-05 07:18:49 Time Left: 5 minutes
+20-04-05 07:19:49 Time Left: 4 minutes
+20-04-05 07:20:49 Time Left: 3 minutes
+20-04-05 07:21:49 Time Left: 2 minutes
+20-04-05 07:22:49 Time Left: 1 minutes
+20-04-05 07:23:49 Next map: ctf_Hormone
+20-04-05 07:23:54 Hormone by Metsänaperot
+20-04-05 07:28:54 Time Left: 5 minutes
+20-04-05 07:29:54 Time Left: 4 minutes
+20-04-05 07:30:54 Time Left: 3 minutes
+20-04-05 07:31:54 Time Left: 2 minutes
+20-04-05 07:32:54 Time Left: 1 minutes
+20-04-05 07:33:54 Next map: ctf_Laos
+20-04-05 07:33:59 Laos
+20-04-05 07:38:59 Time Left: 5 minutes
+20-04-05 07:39:59 Time Left: 4 minutes
+20-04-05 07:40:59 Time Left: 3 minutes
+20-04-05 07:41:59 Time Left: 2 minutes
+20-04-05 07:42:59 Time Left: 1 minutes
+20-04-05 07:43:59 Next map: ctf_Laos2
+20-04-05 07:44:05 Error: Could not load map (ctf_Laos2)
+20-04-05 07:44:05 Next map: ctf_Maya
+20-04-05 07:44:10 Maya
+20-04-05 07:49:10 Time Left: 5 minutes
+20-04-05 07:50:10 Time Left: 4 minutes
+20-04-05 07:51:10 Time Left: 3 minutes
+20-04-05 07:52:10 Time Left: 2 minutes
+20-04-05 07:53:10 Time Left: 1 minutes
+20-04-05 07:54:10 Next map: ctf_MFM
+20-04-05 07:54:15 MFM 2 by mar77a
+20-04-05 07:59:15 Time Left: 5 minutes
+20-04-05 08:00:15 Time Left: 4 minutes
+20-04-05 08:01:15 Time Left: 3 minutes
+20-04-05 08:02:15 Time Left: 2 minutes
+20-04-05 08:03:15 Time Left: 1 minutes
+20-04-05 08:04:15 Next map: ctf_Run
+20-04-05 08:04:21 Run
+20-04-05 08:09:21 Time Left: 5 minutes
+20-04-05 08:10:21 Time Left: 4 minutes
+20-04-05 08:11:21 Time Left: 3 minutes
+20-04-05 08:12:21 Time Left: 2 minutes
+20-04-05 08:13:21 Time Left: 1 minutes
+20-04-05 08:14:21 Next map: ctf_OldRun
+20-04-05 08:14:26 Error: Could not load map (ctf_OldRun)
+20-04-05 08:14:26 Next map: ctf_Ash
+20-04-05 08:14:31 ctf_Ash by chakapoko maker
+20-04-05 08:19:31 Time Left: 5 minutes
+20-04-05 08:20:31 Time Left: 4 minutes
+20-04-05 08:21:31 Time Left: 3 minutes
+20-04-05 08:22:31 Time Left: 2 minutes
+20-04-05 08:23:31 Time Left: 1 minutes
+20-04-05 08:24:31 Next map: ctf_B2b
+20-04-05 08:24:37 B2B
+20-04-05 08:29:37 Time Left: 5 minutes
+20-04-05 08:30:37 Time Left: 4 minutes
+20-04-05 08:31:36 Time Left: 3 minutes
+20-04-05 08:32:36 Time Left: 2 minutes
+20-04-05 08:33:36 Time Left: 1 minutes
+20-04-05 08:34:36 Next map: ctf_Blade
+20-04-05 08:34:42 Blade by Zakath
+20-04-05 08:39:42 Time Left: 5 minutes
+20-04-05 08:40:42 Time Left: 4 minutes
+20-04-05 08:41:42 Time Left: 3 minutes
+20-04-05 08:42:42 Time Left: 2 minutes
+20-04-05 08:43:42 Time Left: 1 minutes
+20-04-05 08:44:42 Next map: ctf_Viet
+20-04-05 08:44:47 Viet
+20-04-05 08:49:47 Time Left: 5 minutes
+20-04-05 08:50:47 Time Left: 4 minutes
+20-04-05 08:51:47 Time Left: 3 minutes
+20-04-05 08:52:47 Time Left: 2 minutes
+20-04-05 08:53:47 Time Left: 1 minutes
+20-04-05 08:54:47 Next map: ctf_Division
+20-04-05 08:54:52 Division by Boxo, KC, viral
+20-04-05 08:59:52 Time Left: 5 minutes
+20-04-05 09:00:52 Time Left: 4 minutes
+20-04-05 09:01:52 Time Left: 3 minutes
+20-04-05 09:02:52 Time Left: 2 minutes
+20-04-05 09:03:52 Time Left: 1 minutes
+20-04-05 09:04:52 Next map: ctf_Death
+20-04-05 09:04:58 Death by MM, g_d. Boxo, mtk`
+20-04-05 09:09:58 Time Left: 5 minutes
+20-04-05 09:10:58 Time Left: 4 minutes
+20-04-05 09:11:58 Time Left: 3 minutes
+20-04-05 09:12:58 Time Left: 2 minutes
+20-04-05 09:13:58 Time Left: 1 minutes
+20-04-05 09:14:58 Next map: ctf_Hormone
+20-04-05 09:15:03 Hormone by Metsänaperot
+20-04-05 09:20:03 Time Left: 5 minutes
+20-04-05 09:21:03 Time Left: 4 minutes
+20-04-05 09:22:03 Time Left: 3 minutes
+20-04-05 09:23:03 Time Left: 2 minutes
+20-04-05 09:24:03 Time Left: 1 minutes
+20-04-05 09:25:03 Next map: ctf_Laos
+20-04-05 09:25:08 Laos
+20-04-05 09:30:08 Time Left: 5 minutes
+20-04-05 09:31:08 Time Left: 4 minutes
+20-04-05 09:32:08 Time Left: 3 minutes
+20-04-05 09:33:08 Time Left: 2 minutes
+20-04-05 09:34:08 Time Left: 1 minutes
+20-04-05 09:35:08 Next map: ctf_Laos2
+20-04-05 09:35:14 Error: Could not load map (ctf_Laos2)
+20-04-05 09:35:14 Next map: ctf_Maya
+20-04-05 09:35:19 Maya
+20-04-05 09:40:19 Time Left: 5 minutes
+20-04-05 09:41:19 Time Left: 4 minutes
+20-04-05 09:42:19 Time Left: 3 minutes
+20-04-05 09:43:19 Time Left: 2 minutes
+20-04-05 09:44:19 Time Left: 1 minutes
+20-04-05 09:45:19 Next map: ctf_MFM
+20-04-05 09:45:24 MFM 2 by mar77a
+20-04-05 09:50:24 Time Left: 5 minutes
+20-04-05 09:51:24 Time Left: 4 minutes
+20-04-05 09:52:24 Time Left: 3 minutes
+20-04-05 09:53:24 Time Left: 2 minutes
+20-04-05 09:54:24 Time Left: 1 minutes
+20-04-05 09:55:24 Next map: ctf_Run
+20-04-05 09:55:30 Run
+20-04-05 10:00:30 Time Left: 5 minutes
+20-04-05 10:01:30 Time Left: 4 minutes
+20-04-05 10:02:30 Time Left: 3 minutes
+20-04-05 10:03:30 Time Left: 2 minutes
+20-04-05 10:04:30 Time Left: 1 minutes
+20-04-05 10:05:30 Next map: ctf_OldRun
+20-04-05 10:05:35 Error: Could not load map (ctf_OldRun)
+20-04-05 10:05:35 Next map: ctf_Ash
+20-04-05 10:05:40 ctf_Ash by chakapoko maker
+20-04-05 10:10:40 Time Left: 5 minutes
+20-04-05 10:11:40 Time Left: 4 minutes
+20-04-05 10:12:40 Time Left: 3 minutes
+20-04-05 10:13:40 Time Left: 2 minutes
+20-04-05 10:14:40 Time Left: 1 minutes
+20-04-05 10:15:40 Next map: ctf_B2b
+20-04-05 10:15:46 B2B
+20-04-05 10:20:46 Time Left: 5 minutes
+20-04-05 10:21:46 Time Left: 4 minutes
+20-04-05 10:22:46 Time Left: 3 minutes
+20-04-05 10:23:46 Time Left: 2 minutes
+20-04-05 10:24:46 Time Left: 1 minutes
+20-04-05 10:25:46 Next map: ctf_Blade
+20-04-05 10:25:51 Blade by Zakath
+20-04-05 10:30:51 Time Left: 5 minutes
+20-04-05 10:31:51 Time Left: 4 minutes
+20-04-05 10:32:51 Time Left: 3 minutes
+20-04-05 10:33:51 Time Left: 2 minutes
+20-04-05 10:34:51 Time Left: 1 minutes
+20-04-05 10:35:51 Next map: ctf_Viet
+20-04-05 10:35:56 Viet
+20-04-05 10:40:56 Time Left: 5 minutes
+20-04-05 10:41:56 Time Left: 4 minutes
+20-04-05 10:42:56 Time Left: 3 minutes
+20-04-05 10:43:56 Time Left: 2 minutes
+20-04-05 10:44:56 Time Left: 1 minutes
+20-04-05 10:45:56 Next map: ctf_Division
+20-04-05 10:46:02 Division by Boxo, KC, viral
+20-04-05 10:51:02 Time Left: 5 minutes
+20-04-05 10:52:02 Time Left: 4 minutes
+20-04-05 10:53:02 Time Left: 3 minutes
+20-04-05 10:54:02 Time Left: 2 minutes
+20-04-05 10:55:02 Time Left: 1 minutes
+20-04-05 10:56:02 Next map: ctf_Death
+20-04-05 10:56:07 Death by MM, g_d. Boxo, mtk`
+20-04-05 11:01:07 Time Left: 5 minutes
+20-04-05 11:02:07 Time Left: 4 minutes
+20-04-05 11:03:07 Time Left: 3 minutes
+20-04-05 11:04:07 Time Left: 2 minutes
+20-04-05 11:05:07 Time Left: 1 minutes
+20-04-05 11:06:07 Next map: ctf_Hormone
+20-04-05 11:06:12 Hormone by Metsänaperot
+20-04-05 11:11:12 Time Left: 5 minutes
+20-04-05 11:12:12 Time Left: 4 minutes
+20-04-05 11:13:12 Time Left: 3 minutes
+20-04-05 11:14:12 Time Left: 2 minutes
+20-04-05 11:15:12 Time Left: 1 minutes
+20-04-05 11:16:12 Next map: ctf_Laos
+20-04-05 11:16:18 Laos
+20-04-05 11:18:29 Shutting down server...
+20-04-05 11:18:29 Shutting down FileServer...
+20-04-05 11:18:29 Shutting down admin server...

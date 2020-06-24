@@ -1,0 +1,130 @@
+20-03-31 20:48:03    Console Log Started
+20-03-31 20:48:03 Welcome to Soldat 1.7.1
+20-03-31 20:48:03  [*] Preparing scripts to be launched
+20-03-31 20:48:03  [*] Done
+20-03-31 20:48:03 ctf_Ash by chakapoko maker
+20-03-31 20:48:03  Connection for file server started. Port: 23083
+20-03-31 20:48:03 Registering server @ 88.99.234.252
+20-03-31 20:48:14 Registering server @ 88.99.234.252
+20-03-31 20:48:24 Registering server @ 88.99.234.252
+20-03-31 20:48:34 Registering server @ 88.99.234.252
+20-03-31 20:48:44 Registering server @ 88.99.234.252
+20-03-31 20:48:54 Registering server @ 88.99.234.252
+20-03-31 20:49:04 Registering server @ 88.99.234.252
+20-03-31 20:49:14 Registering server @ 88.99.234.252
+20-03-31 20:49:24 Registering server @ 88.99.234.252
+20-03-31 20:49:34 Registering server @ 88.99.234.252
+20-03-31 20:49:44 Registering server @ 88.99.234.252
+20-03-31 20:49:45 45.232.32.208:64185|696908AC8E7 requesting game...
+20-03-31 20:49:48 |X.Forc3|.Turko joining game (45.232.32.208:64185) HWID:696908AC8E7
+20-03-31 20:49:48 |X.Forc3|.Turko has joined as spectator.
+20-03-31 20:49:48 |X.Forc3|.Turko gets a ping warning
+20-03-31 20:49:54 Registering server @ 88.99.234.252
+20-03-31 20:49:54 |X.Forc3|.Turko has joined bravo team.
+20-03-31 20:49:55 |X.Forc3|.Turko gets a ping warning
+20-03-31 20:49:59 |X.Forc3|.Turko has left bravo team.
+20-03-31 20:50:04 Registering server @ 88.99.234.252
+20-03-31 20:50:14 Registering server @ 88.99.234.252
+20-03-31 20:50:24 Registering server @ 88.99.234.252
+20-03-31 20:50:34 Registering server @ 88.99.234.252
+20-03-31 20:50:44 Registering server @ 88.99.234.252
+20-03-31 20:50:54 Registering server @ 88.99.234.252
+20-03-31 20:51:04 Registering server @ 88.99.234.252
+20-03-31 20:51:14 Registering server @ 88.99.234.252
+20-03-31 20:51:24 Registering server @ 88.99.234.252
+20-03-31 20:51:34 Registering server @ 88.99.234.252
+20-03-31 20:51:44 Registering server @ 88.99.234.252
+20-03-31 20:51:54 Registering server @ 88.99.234.252
+20-03-31 20:52:04 Registering server @ 88.99.234.252
+20-03-31 20:52:14 Registering server @ 88.99.234.252
+20-03-31 20:52:24 Registering server @ 88.99.234.252
+20-03-31 20:52:34 Registering server @ 88.99.234.252
+20-03-31 20:52:44 Registering server @ 88.99.234.252
+20-03-31 20:52:54 Registering server @ 88.99.234.252
+20-03-31 20:53:03 Time Left: 5 minutes
+20-03-31 20:53:04 Registering server @ 88.99.234.252
+20-03-31 20:53:14 Registering server @ 88.99.234.252
+20-03-31 20:53:24 Registering server @ 88.99.234.252
+20-03-31 20:53:34 Registering server @ 88.99.234.252
+20-03-31 20:53:44 Registering server @ 88.99.234.252
+20-03-31 20:53:54 Registering server @ 88.99.234.252
+20-03-31 20:54:03 Time Left: 4 minutes
+20-03-31 20:54:04 Registering server @ 88.99.234.252
+20-03-31 20:54:14 Registering server @ 88.99.234.252
+20-03-31 20:54:24 Registering server @ 88.99.234.252
+20-03-31 20:54:34 Registering server @ 88.99.234.252
+20-03-31 20:54:44 Registering server @ 88.99.234.252
+20-03-31 20:54:54 Registering server @ 88.99.234.252
+20-03-31 20:55:03 Time Left: 3 minutes
+20-03-31 20:55:04 Registering server @ 88.99.234.252
+20-03-31 20:55:14 Registering server @ 88.99.234.252
+20-03-31 20:55:24 Registering server @ 88.99.234.252
+20-03-31 20:55:34 Registering server @ 88.99.234.252
+20-03-31 20:55:44 Registering server @ 88.99.234.252
+20-03-31 20:55:54 Registering server @ 88.99.234.252
+20-03-31 20:56:03 Time Left: 2 minutes
+20-03-31 20:56:04 Registering server @ 88.99.234.252
+20-03-31 20:56:14 Registering server @ 88.99.234.252
+20-03-31 20:56:24 Registering server @ 88.99.234.252
+20-03-31 20:56:34 Registering server @ 88.99.234.252
+20-03-31 20:56:44 Registering server @ 88.99.234.252
+20-03-31 20:56:54 Registering server @ 88.99.234.252
+20-03-31 20:57:03 Time Left: 1 minutes
+20-03-31 20:57:04 Registering server @ 88.99.234.252
+20-03-31 20:57:14 Registering server @ 88.99.234.252
+20-03-31 20:57:24 Registering server @ 88.99.234.252
+20-03-31 20:57:34 Registering server @ 88.99.234.252
+20-03-31 20:57:44 Registering server @ 88.99.234.252
+20-03-31 20:57:54 Registering server @ 88.99.234.252
+20-03-31 20:58:03 Next map: ctf_B2b
+20-03-31 20:58:04 Registering server @ 88.99.234.252
+20-03-31 20:58:09 B2B
+20-03-31 20:58:14 Registering server @ 88.99.234.252
+20-03-31 20:58:24 Registering server @ 88.99.234.252
+20-03-31 20:58:34 Registering server @ 88.99.234.252
+20-03-31 20:58:44 Registering server @ 88.99.234.252
+20-03-31 20:58:54 Registering server @ 88.99.234.252
+20-03-31 20:59:04 Registering server @ 88.99.234.252
+20-03-31 20:59:14 Registering server @ 88.99.234.252
+20-03-31 20:59:24 Registering server @ 88.99.234.252
+20-03-31 20:59:34 Registering server @ 88.99.234.252
+20-03-31 20:59:44 Registering server @ 88.99.234.252
+20-03-31 20:59:54 Registering server @ 88.99.234.252
+20-03-31 21:00:04 Registering server @ 88.99.234.252
+20-03-31 21:00:14 Registering server @ 88.99.234.252
+20-03-31 21:00:24 Registering server @ 88.99.234.252
+20-03-31 21:00:34 Registering server @ 88.99.234.252
+20-03-31 21:00:44 Registering server @ 88.99.234.252
+20-03-31 21:00:54 Registering server @ 88.99.234.252
+20-03-31 21:01:04 Registering server @ 88.99.234.252
+20-03-31 21:01:14 Registering server @ 88.99.234.252
+20-03-31 21:01:24 Registering server @ 88.99.234.252
+20-03-31 21:01:34 Registering server @ 88.99.234.252
+20-03-31 21:01:44 Registering server @ 88.99.234.252
+20-03-31 21:01:54 Registering server @ 88.99.234.252
+20-03-31 21:02:04 Registering server @ 88.99.234.252
+20-03-31 21:02:14 Registering server @ 88.99.234.252
+20-03-31 21:02:24 Registering server @ 88.99.234.252
+20-03-31 21:02:34 Registering server @ 88.99.234.252
+20-03-31 21:02:44 Registering server @ 88.99.234.252
+20-03-31 21:02:54 Registering server @ 88.99.234.252
+20-03-31 21:03:04 Registering server @ 88.99.234.252
+20-03-31 21:03:09 Time Left: 5 minutes
+20-03-31 21:03:14 Registering server @ 88.99.234.252
+20-03-31 21:03:24 Registering server @ 88.99.234.252
+20-03-31 21:03:34 Registering server @ 88.99.234.252
+20-03-31 21:03:44 Registering server @ 88.99.234.252
+20-03-31 21:03:54 Registering server @ 88.99.234.252
+20-03-31 21:04:04 Registering server @ 88.99.234.252
+20-03-31 21:04:09 Time Left: 4 minutes
+20-03-31 21:04:14 Registering server @ 88.99.234.252
+20-03-31 21:04:24 Registering server @ 88.99.234.252
+20-03-31 21:04:34 Registering server @ 88.99.234.252
+20-03-31 21:04:44 Registering server @ 88.99.234.252
+20-03-31 21:04:54 Registering server @ 88.99.234.252
+20-03-31 21:05:04 Registering server @ 88.99.234.252
+20-03-31 21:05:09 Time Left: 3 minutes
+20-03-31 21:05:14 Registering server @ 88.99.234.252
+20-03-31 21:05:24 Registering server @ 88.99.234.252
+20-03-31 21:05:34 Registering server @ 88.99.234.252
+20-03-31 21:05:44 Registering server @ 88.99.234.252
